@@ -1,0 +1,42 @@
+.content {
+  display: grid;
+  grid-template-columns: 25% 75%;
+  height: 92vh;
+}
+
+.left-content,
+.right-content {
+  /* border: 2px solid cyan; */
+  text-align: center;
+}
+
+.right-content {
+  text-align: center;
+  margin: auto;
+}
+
+.link-style {
+  font-size: 2rem;
+  /* border: 2px solid black; */
+  border-radius: 8px;
+  /* background-color: rgb(251, 163, 163); */
+  /* color: rgb(0, 52, 136); */
+  color: white;
+  background-color: red;
+  padding: 10px 30px;
+  text-decoration: none;
+}
+
+.link-style:hover {
+  /* background-color: rgb(255, 111, 111); */
+  color: black;
+}
+
+.intro {
+  padding: 10px;
+  color: red;
+}
+
+.caption {
+  color: blue;
+}
