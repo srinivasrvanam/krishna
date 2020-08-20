@@ -14,7 +14,7 @@
 .links {
   width: 65%;
   display: grid;
-  grid-template-columns: auto auto;
+  grid-template-columns: auto auto auto;
   justify-content: space-around;
   margin: auto;
   font-weight: bold;

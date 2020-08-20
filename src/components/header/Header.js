@@ -12,6 +12,7 @@ export class Header extends Component {
         <div className="links">
           <Link to="/">Home</Link>
           <Link to="/stotram">స్తోత్రం</Link>
+          <Link to="/anuvadam">అనువాదం</Link>
         </div>
       </div>
     );

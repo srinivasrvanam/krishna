@@ -2,9 +2,10 @@ import React, { Component } from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import { Link } from "react-router-dom";
 import Header from "../header/Header";
+import Intro from "../intro/Intro";
 import Stotram from "../stotram/Stotram";
+import StotramDynamic from "../stotramDynamic/StotramDynamic";
 // import EachNama from "../eachNama/EachNama";
-import krishna from "../../krishna.png";
 import "./Home.css";
 
 export class Home extends Component {
@@ -15,15 +16,9 @@ export class Home extends Component {
 
         <div className="content">
           <div className="left-content">
-            <img src={krishna} width={"200"} height={"auto"} alt="Krishna" />
-            <div className="intro">
-              ఈ వెబ్సైట్ ను సందర్శించినందుకు ముందుగా మీకు స్వాగతం. ఈ సైట్ లో
-              మీరు విష్ణు సహస్రనామ స్తోత్రంతో పాటుగా ప్రతి ఒక్క నామం యొక్క అర్ధం
-              తెలుగులో తెలుసుకోవచ్చు. రండి, ఈ కలియుగం లో అన్ని కల్మషాలను
-              తొలగించే ఆ స్వామి వారి నామాలను అర్ధంతో పాటుగా తెలుసుకొని పారాయణ
-              చేసి తరిద్దాం.{" "}
-              <span className="caption">!! సర్వం శ్రీ కృష్ణార్పణమస్తు !!</span>
-            </div>
+            <Route path="/" exact component={Intro} />
+            <Route path="/stotram" component={Intro} />
+            <Route path="/anuvadam" component={StotramDynamic} />
           </div>
 
           <div className="right-content">
