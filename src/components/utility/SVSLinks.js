@@ -1,4 +1,4 @@
-import CustomButton from "../utility/CustomButton";
+import CustomButton from "./CustomButton";
 
 function SVSLinks() {
 return (

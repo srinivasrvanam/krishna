@@ -1,6 +1,6 @@
 import Chapter from '../display/Chapter';
 import verses from '../../content/svs/svs_4';
-import SVSLinks from './SVSLinks';
+import SVSLinks from '../utility/SVSLinks';
 
 function SVS_4() {
     return (
