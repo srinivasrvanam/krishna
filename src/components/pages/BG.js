@@ -1,26 +1,32 @@
 
 import { useParams } from "react-router-dom";
+import Verse from "../display/Verse";
 import verses from '../../content/bg/bg_2';
 
 function BG() {
-    const { pageName } = useParams();
+    const { chapter_num, verse_num } = useParams();
 
-    console.log('SV: pageName: '+pageName);
-
-    //   const contentMap = {
-    //     about: "This is the About page.",
-    //     contact: "This is the Contact page.",
-    //     services: "These are our Services.",
-    //   };
+    console.log('SV: chapter_num: '+chapter_num);    
+    console.log('SV: verse_num: '+verse_num);
     
-      return (
+    if(chapter_num !== undefined && verse_num !== undefined){
+        const verse = verses.find(verse => verse.number === Number(verse_num));
+        console.log('SV: verse: '+verse);
+        if(verse !== undefined){
+            return (
+                <div>
+                  <h1> Bhagavad Gita {chapter_num}-{verse_num}</h1>
+                  <Verse verse={verses.find(verse => verse.number === Number(verse_num))} />
+                </div>
+            );
+        }
+    }
+
+    return (
         <div>
-          {/* <h2>{pageName.charAt(0).toUpperCase() + pageName.slice(1)}</h2>
-          <p>{contentMap[pageName] || "Page not found."}</p> */}
-          <h1> Bhagavad Gita </h1>
-          <h2>{verses[0].sloka[0]}</h2>
+            <h1>Incorrect Chapter/Sloka Number - Sloka NOT found</h1>
         </div>
-      );
-  }
-  
+    );
+}
+ 
 export default BG;
