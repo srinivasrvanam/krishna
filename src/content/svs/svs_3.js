@@ -3,27 +3,58 @@ const verses = [
       chapter : 'SVS_3',
       number  : 1,
       sloka   : [
-        'कौसल्या सुप्रजा राम पूर्वा सन्ध्या प्रवर्तते ।',
-        'उत्तिष्ठ नरशार्दूल कर्तव्यं दैवमाह्निकम् ॥ १॥'
+        'ईशानां जगतोऽस्य वेङ्कटपतेर्विष्णोः परां प्रेयसीं',
+        'तद्वक्षस्स्थलनित्यवासरसिकां तत्क्षान्तिसंवर्धिनीम् ।',
+        'पद्मालङ्कृतपाणिपल्लवयुगां पद्मासनस्थां श्रियं',
+        'वात्सल्यादिगुणोज्ज्वलां भगवतीं वन्दे जगन्मातरम् ॥ १॥'
       ],
       vicheda : [
-        'कौसल्या सुप्रजा राम पूर्वा सन्ध्या प्रवर्तते ।',
-        'उत्तिष्ठ नरशार्दूल कर्तव्यं दैवम् आह्निकम् ॥'
+        'ईशानां जगतः अस्य वेङ्कटपतेः विष्णोः परां प्रेयसीं',
+        'तत्-वक्षःस्थल-नित्य-वास-रसिकाम् तत्-क्षान्ति-संवर्धिनीम् ।',
+        'पद्म-अलङ्कृत-पाणि-पल्लव-युगाम् पद्म-आसन-स्थाम् श्रियं',
+        'वात्सल्य-आदि-गुण-उज्ज्वलाम् भगवतीं वन्दे जगत्-मातरम् ॥ १॥'
       ],
       anvaya  : [
-        'हे (कौसल्या सुप्रजा) राम! पूर्वा सन्ध्या प्रवर्तते ।',
-        'हे नरशार्दूल! उत्तिष्ठ दैवम्-आह्निकम् कर्तव्यं ।'
+        'अहं',
+        '- (अस्य जगतः ईशानां) (वेङ्कटपतेः) विष्णोः परां प्रेयसीं ।',
+        '- (तत्-वक्षःस्थल-नित्यवास-रसिकां) ।',
+        '- तत्-क्षान्ति-संवर्धिनीम् ।',
+        '- पद्म-आलङ्कृत-पाणि-पल्लव-युगां ।',
+        '- पद्मासन-स्थाम् ।',
+        '- वात्सल्य-आदि-गुण-उज्ज्वलाम् ।',
+        '- जगन्मातरम् ।',
+        'भगवतीं श्रियं वन्दे ।'
       ],
       transl  : [
-        'O Rama, son of Kausalya, the auspicious dawn is rising in the east.', 
-        'O virtuous son of Queen Kausalya! Behold the dawn is appearing. O Lion-­‐like-­‐Lord, please arise and perform the daily religious rites.', 
-        '(Salutations to Sri Govinda) O Rama, the most Excellent Son of Kaushalya; in the East the Dawn is fast approaching in this Beautiful juncture of Night and Day, 1.2: Please Wake Up in Our Hearts, O Purushottama (the Best of Men ) so that we can perform our Daily Duties as Divine Rituals unto You and thus do the Ultimate Duty of our lives.'
+        `I pay my obeisance to Lakshmi the ruler of the universe, who is the most
+        beloved of Lord Vishnu the Lord of Mount Venkata, who rests with supreme
+        delight upon His chest, and increases His forbearance, whose hands
+        tender as sprouts, are decorated with lotus blossoms, whose seat is the
+        lotus (of the mind) who is radiant with perfection of qualities such as
+        tender solicitude etc. and who is the Mother of the Universe.`,
+        `I bow down to the divine Goddess Lakshmi, the supreme beloved of Lord
+        Vishnu, the Lord of Venkata hills and ruler of the universe. She
+        eternally resides on His chest and nurtures His patience and
+        forbearance. Her tender hands are adorned with lotuses, and she is
+        seated on a lotus throne. She shines with qualities such as motherly
+        affection and is the universal mother. O Bhagavati, I offer my reverence
+        to you!`
       ],
       notes   : [
-        "Isn't कौसल्या सुप्रजा राम a समस्त पदम्. If so, why written separately ??",
-        "कौसल्या = Kausalya",
-        "सुप्रजा = well born son (प्रजा = स्त्री.लि. एक.व. - why स्त्री.लि. ??)",
-        "राम = O Sri Rama!"],
+        "अस्य जगतः = of this world",
+        "ईशानां = To the Lord/master/ruler(feminine) - द्वितीया.वि. - एक.व.          ",
+        "(वेङ्कटपतेः) विष्णोः = Of Lord Vishnu/Lord Venkateswara",
+        "परां प्रेयसीं = To the Supreme Beloved (consort)",
+        "तत्-वक्षःस्थल-नित्यवास-रसिकां = to The one who eternally delights in residing on His chest",
+        "तत्-क्षान्ति-संवर्धिनीम् = to The one who nurtures His (Vishnu’s) patience and forbearance",
+        "पद्म-आलङ्कृत-पाणि-पल्लव-युगाम् = to The one whose tender hands are adorned with lotuses",
+        "पद्मासन-स्थाम् = to The one seated on a lotus (Goddess Lakshmi) ",
+        "श्रियम् = Goddess Lakshmi",
+        "वात्सल्य-आदि-गुण-उज्ज्वलाम् = to The one resplendent with qualities like motherly affection",
+        "भगवतीम् = to The divine goddess",
+        "जगन्मातरम् = to The mother of the universe",
+        "(अहं) वन्दे = I bow down to, I worship",
+    ],
     },
     {
       chapter : 'SVS_3',
