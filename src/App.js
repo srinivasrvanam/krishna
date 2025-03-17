@@ -5,6 +5,7 @@ import SVS_1 from './components/pages/SVS_1';
 import SVS_2 from './components/pages/SVS_2';
 import SVS_3 from './components/pages/SVS_3';
 import SVS_4 from './components/pages/SVS_4';
+import BG from './components/pages/BG';
 import Navbar from './components/display/Navbar';
 import Footer from './components/display/Footer';
 import BackToTop from './components/utility/BackToTop';
@@ -30,6 +31,7 @@ function App() {
           <Route path="/SVS_2" element={<SVS_2 />} />
           <Route path="/SVS_3" element={<SVS_3 />} />
           <Route path="/SVS_4" element={<SVS_4 />} />
+          <Route path="/BG" element={<BG />} />
         </Routes>
       </Layout>
     </Router>

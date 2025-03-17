@@ -13,6 +13,7 @@ const Navbar = () => {
         <Link to="/SVS_2" style={{ margin: "0 15px", color: "white", textDecoration: "none", fontWeight: "bold" }}>SV-स्तोत्रम्</Link>
         <Link to="/SVS_3" style={{ margin: "0 15px", color: "white", textDecoration: "none", fontWeight: "bold" }}>SV-प्रपत्ति</Link>
         <Link to="/SVS_4" style={{ margin: "0 15px", color: "white", textDecoration: "none", fontWeight: "bold" }}>SV-मङ्गलाशासनम्</Link>
+        <Link to="/BG" style={{ margin: "0 15px", color: "white", textDecoration: "none", fontWeight: "bold" }}>BG</Link>
         {/* <Link to="/contact" style={{ margin: "0 15px", color: "white", textDecoration: "none" }}>Contact</Link> */}
         </nav>
     </>
