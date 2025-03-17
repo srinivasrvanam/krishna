@@ -11,6 +11,7 @@ const Verse = ({verse}) => {
             <Section type='anvaya' lines={verse.anvaya} />
             <Section type='transl' lines={verse.transl} />
             <Section type='notes' lines={verse.notes} />
+            <h1 style={{textAlign: "center"}}>{verse.number}</h1>
         </div>
     );
 };
