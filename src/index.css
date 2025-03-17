@@ -50,11 +50,25 @@ code {
 }
 
 .part1{
-  width: 25%;
+  width: 29%;
 }
 
 .part2{
-  width: 39.5%;
+  width: 45.5%;
+}
+
+/* TABLET SCREEN */
+@media (min-width: 769px) and (max-width: 1024px) {
+  .part1, .part2 {
+      width: 90%;
+  }
+}
+
+/* MOBILE SCREEN */
+@media (max-width: 768px) {
+  .part1, .part2 {
+      width: 90%;
+  }
 }
 
 .home{
