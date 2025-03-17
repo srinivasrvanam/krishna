@@ -1,15 +1,12 @@
-const Sloka = () => {
+const Sloka = ({lines}) => {
     return (
-        <h1 style={styles.text}>Sloka text goes here</h1>
+        <div className="sloka">
+            <div className="heading">श्लोकः</div>
+            {lines.map((line,index) => (
+                <p key={index}>{line}</p>
+            ))}
+        </div>
     );
-};
-
-const styles = {
-    text: {
-        padding: "10px 20px",
-        fontSize: "16px",
-        color: "red"
-      },
 };
 
 export default Sloka;

@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.heading{
+  font-size: 24px;
+  font-weight: bold;
+  padding: 5px;
+  color: brown;
+  text-align: center;
+}
+
+.sloka, .pada-chedha, .anvaya, .translation, .word-meaning, .notes {
+  font-size: 18px;
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 8px;
+  background-color:antiquewhite;
+  display: inline-block;
+  vertical-align: top;
+  width: 40%;
+}
