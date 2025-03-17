@@ -6,6 +6,7 @@ return (
     <div style= {{textAlign: "center" }}>
         <br />
         <CustomButton text="Source" link="https://sanskritdocuments.org/doc_vishhnu/venkatsp.html" />
+        <CustomButton text="PDF Telugu" link="https://srinivasrvanam.github.io/bhagavadgita/svs/pdf-telugu.html" />
         <CustomButton text="SVS - Greenmesg" link="https://greenmesg.org/stotras/vishnu/venkatesa_suprabhatam.php" />
         <CustomButton text="SVS - Sri Vaishnava" link="https://www.srimatham.com/uploads/5/5/4/9/5549439/srivaishnava_prayer_book_2014.pdf" />
         <br />
