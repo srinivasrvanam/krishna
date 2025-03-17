@@ -12,6 +12,19 @@ code {
     monospace;
 }
 
+.header{
+  text-align: center;
+}
+
+.headline{
+  color:blue;
+  background-color: antiquewhite;
+  padding: 5px 25px;
+  text-align: center;
+}
+
+
+
 .verse{
   border-top: 2px solid brown;
   padding-top: 20px;
@@ -42,4 +55,16 @@ code {
 
 .part2{
   width: 39.5%;
+}
+
+.home{
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 8px;
+  padding: 7px;
+  margin: 3px;
+  text-decoration: none;
+  display: inline-block;
+  background-color: #010E19;
+  color: white;
 }

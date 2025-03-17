@@ -1,13 +1,28 @@
 import './App.css';
-import Chapter from './components/display/Chapter';
-import verses from './content/svs/svs_1';
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Home from './components/pages/Home';
+import SVS_1 from './components/pages/SVS_1';
+import Navbar from './components/display/Navbar';
+
+const Layout = ({ children }) => {
+  return (
+    <div>
+      <Navbar /> {/* Navbar stays fixed across all pages */}
+      <div>{children}</div> {/* This part changes */}
+    </div>
+  );
+};
 
 function App() {
   return (
-    <>
-    <h1 className='header'>ॐ नमो भगवते वासुदेवाय</h1> <br />
-    <Chapter verses={verses}/>
-    </>
+    <Router>
+      <Layout>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/SVS_1" element={<SVS_1 />} />
+        </Routes>
+      </Layout>
+    </Router>
   );
 }
 
