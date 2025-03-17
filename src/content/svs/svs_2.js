@@ -434,9 +434,13 @@ const verses = [
   },
   {
     chapter: "SVS_2",
-    number: 12,
-    sloka: ["॥ इति वेङ्कटेशस्तोत्रम् ॥"
-
-    ],
+    number: "॥ इति वेङ्कटेशस्तोत्रम् ॥",
+    sloka: [],
+    vicheda: [],
+    anvaya: [],
+    transl: [],
+    notes: []
   },
 ];
+
+export default verses;
