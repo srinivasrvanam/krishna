@@ -1,3 +1,10 @@
+.test{
+  color:blue;
+  background-color: antiquewhite;
+  padding: 25px;
+  
+}
+
 .App {
   text-align: center;
 }
