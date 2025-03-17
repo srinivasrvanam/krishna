@@ -7,6 +7,7 @@ import SVS_3 from './components/pages/SVS_3';
 import SVS_4 from './components/pages/SVS_4';
 import Navbar from './components/display/Navbar';
 import Footer from './components/display/Footer';
+import BackToTop from './components/utility/BackToTop';
 
 const Layout = ({ children }) => {
   return (
@@ -14,6 +15,7 @@ const Layout = ({ children }) => {
       <Navbar /> {/* Navbar stays fixed across all pages */}
       <div>{children}</div> {/* This part changes */}
       <Footer />
+      <BackToTop />
     </div>
   );
 };
