@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React at Home
+          Sarvam Sri Krishnarpanam Astu!
         </a>
       </header>
     </div>
