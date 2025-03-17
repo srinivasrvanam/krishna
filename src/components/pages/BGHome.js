@@ -10,7 +10,7 @@ function BGHome() {
     
     return (
     <div>
-      <h1> Bhagavad Gita HOME PAGE </h1>
+      <h1> Bhagavad Gita Chapter 2 </h1>
       <nav>
         {verseNumbersArray.map((verseNum,index) => (
           <Link key={index} to={`/BG/2/${verseNum}`} className="home">{verseNum}</Link>
