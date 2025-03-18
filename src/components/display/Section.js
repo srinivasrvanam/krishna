@@ -30,7 +30,7 @@ const Section = ({type, lines}) => {
         return (
             <div className="section part1">
                 <div className="heading">{heading}</div>
-                <div className={type}>
+                <div className={type}> {/* Currently used to make sloka bold and bigger font */}
                     {lines.map((line,index) => (
                         <div key={index}>{line}</div>
                     ))}
