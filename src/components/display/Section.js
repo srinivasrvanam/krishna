@@ -30,9 +30,11 @@ const Section = ({type, lines}) => {
         return (
             <div className="section part1">
                 <div className="heading">{heading}</div>
-                {lines.map((line,index) => (
-                    <div key={index}>{line}</div>
-                ))}
+                <div className={type}>
+                    {lines.map((line,index) => (
+                        <div key={index}>{line}</div>
+                    ))}
+                </div>
             </div>
             );
       }

@@ -57,6 +57,11 @@ code {
   width: 45.5%;
 }
 
+.sloka{
+  font-weight: bold;
+  font-size: 24px;
+}
+
 /* TABLET SCREEN */
 @media (min-width: 769px) and (max-width: 1024px) {
   .part1, .part2 {
