@@ -1,3 +1,8 @@
+# Next TODO Tasks
+
+Dark Mode from the beginning
+Copying all existing Slokas from SVS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
