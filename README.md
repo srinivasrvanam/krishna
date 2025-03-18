@@ -4,7 +4,9 @@
 2. Dark Mode from the beginning.
 3. SVS implementation similar to BG (only display 1 entire sloka per page)
 4. First, Last implementation similar to Prev and Next
-5. Next...
+5. Styling updates (CSS)
+6. Daily 1 Sloka continuation
+7. Next...
 
 # Getting Started with Create React App
 
