@@ -7,7 +7,7 @@ const BackToTop = () => {
   return (
     <button
       onClick={scrollToTop}
-      className="back-to-top"
+      className="custom-button back-to-top"
     >
       ↑ Back to Top
     </button>

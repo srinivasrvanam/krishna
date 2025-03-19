@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  background-color: #121212;
+  color: white;
 }
 
 code {
@@ -12,15 +15,31 @@ code {
     monospace;
 }
 
+.navbar{
+  background-color: gray;
+  padding: 10px;
+  text-align: center;
+}
+
 .header{
   text-align: center;
 }
 
 .headline{
-  color:blue;
-  background-color: antiquewhite;
   padding: 5px 25px;
   text-align: center;
+}
+
+.custom-button{
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 8px;
+  padding: 5px 10px;
+  margin: 5px;
+  text-decoration: none;
+  display: inline-block;
+  background-color: #BB86FC;
+  color: white;
 }
 
 
@@ -42,9 +61,9 @@ code {
   font-size: 18px;
   margin: 1%;
   padding: 1%;
-  border: 2px solid black;
+  border: 2px solid brown;
   border-radius: 8px;
-  background-color:antiquewhite;
+  background-color: gray;
   display: inline-block;
   vertical-align: top;
 }
@@ -76,17 +95,7 @@ code {
   }
 }
 
-.home{
-  font-size: 18px;
-  font-weight: bold;
-  border-radius: 8px;
-  padding: 7px;
-  margin: 3px;
-  text-decoration: none;
-  display: inline-block;
-  background-color: #010E19;
-  color: white;
-}
+
 
 .back-to-top{
   float: right;
@@ -94,8 +103,6 @@ code {
   bottom: 10%;
   right: 5%;
   padding: 5px;
-  background-color: black;
-  color: white;
   text-decoration: none;
   border-radius: 15px;
   font-size: 18px;

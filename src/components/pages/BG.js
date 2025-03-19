@@ -30,8 +30,8 @@ function BG() {
             return (
                 <div>
                   <h1> Bhagavad Gita {chapter_num}-{verse_num}</h1>
-                  {prevVerse && prevVerse.number && <Link to={`/BG/2/${prevVerse.number}`} className="home">Prev - {prevVerse.number}</Link>}
-                  {nextVerse && nextVerse.number && <Link to={`/BG/2/${nextVerse.number}`} className="home">Next - {nextVerse.number}</Link>}
+                  {prevVerse && prevVerse.number && <Link to={`/BG/2/${prevVerse.number}`} className="custom-button">Prev - {prevVerse.number}</Link>}
+                  {nextVerse && nextVerse.number && <Link to={`/BG/2/${nextVerse.number}`} className="custom-button">Next - {nextVerse.number}</Link>}
                   <Verse verse={verses.find(verse => verse.number === Number(verse_num))} />
                 </div>
             );

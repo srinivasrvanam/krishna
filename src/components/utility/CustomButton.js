@@ -4,7 +4,7 @@ const CustomButton = ({target, link, text}) => {
   
     return (
       <a
-          class="home"
+          class="custom-button"
           target={target} rel="noopener noreferrer"
           href={link}
         >{text}</a>
