@@ -1,9 +1,9 @@
 const Footer = () => {
   return (
     <>
-        <div className='header'>
-            <h1 className='headline'>सर्वं श्रीकृष्णार्पणम् अस्तु </h1>
-        </div>
+      <div className="navbar">
+        <h3 className="headline">सर्वं श्रीकृष्णार्पणम् अस्तु </h3>
+      </div>
     </>
   );
 };
