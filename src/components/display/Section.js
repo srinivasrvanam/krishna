@@ -16,8 +16,9 @@ const Section = ({type, lines}) => {
 
     if (type === "transl" || type === "notes") {
         return (
-            <div className="section part2">
-                <div className="heading">{heading}</div>
+            <div className="card">
+              <div className="card-body"></div>
+                <h4 className="card-title">{heading}</h4>
                 <ul>
                     {lines.map((item, index) => (
                     <li key={index}>{item}</li>
@@ -28,13 +29,15 @@ const Section = ({type, lines}) => {
       }
       else{
         return (
-            <div className="section part1">
-                <div className="heading">{heading}</div>
+            <div className="card">
+              <div className="card-body">
+                <h4 className="card-title">{heading}</h4>
                 <div className={type}> {/* Currently used to make sloka bold and bigger font */}
                     {lines.map((line,index) => (
                         <div key={index}>{line}</div>
                     ))}
                 </div>
+              </div>
             </div>
             );
       }
