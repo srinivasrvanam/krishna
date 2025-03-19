@@ -1,12 +1,12 @@
 # Next TODO Tasks
 
-1. Copying all existing Slokas (content) from SVS
-2. Dark Mode from the beginning.
-3. SVS implementation similar to BG (only display 1 entire sloka per page)
-4. First, Last implementation similar to Prev and Next
-5. Styling updates (CSS)
-6. Daily 1 Sloka continuation
-7. Next...
+* Dark Mode from the beginning. (Bootstrap)
+* BG/SVS - Chapter - Page implementation - SVS(4), BG(1 for now)
+* SVS implementation similar to BG (only display 1 entire sloka per page)
+* First, Last implementation similar to Prev and Next
+* Styling updates (CSS)
+* Daily 1 Sloka continuation
+* Next...
 
 # Getting Started with Create React App
 
