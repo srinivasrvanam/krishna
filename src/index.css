@@ -42,6 +42,10 @@ code {
   color: white;
 }
 
+.custom-button:hover{
+  background-color: purple;
+}
+
 
 
 .verse{
