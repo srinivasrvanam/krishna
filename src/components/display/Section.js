@@ -30,8 +30,8 @@ const Section = ({type, lines}) => {
       else{
         return (
             <div className="card">
-              <div className="card-body">
-                <h4 className="card-title">{heading}</h4>
+              <div className="card-body" style={{fontSize: "20px", fontWeight: "bold"}}>
+                <h4 className="card-title"  style={{fontSize: "24px", fontWeight: "bold"}}>{heading}</h4>
                 <div className={type}> {/* Currently used to make sloka bold and bigger font */}
                     {lines.map((line,index) => (
                         <div key={index}>{line}</div>
