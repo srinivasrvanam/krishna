@@ -7,14 +7,28 @@ const Navbar = () => {
             <h1 className='headline'>ॐ नमो भगवते वासुदेवाय</h1>
         </div> */}
     
-        <nav className="navbar">
-        <Link to="/" className="custom-button">Home</Link>
-        <Link to="/SVS_1" className="custom-button">SV-सुप्रभातम्</Link>
-        <Link to="/SVS_2" className="custom-button">SV-स्तोत्रम्</Link>
-        <Link to="/SVS_3" className="custom-button">SV-प्रपत्ति</Link>
-        <Link to="/SVS_4" className="custom-button">SV-मङ्गलाशासनम्</Link>
-        <Link to="/BG" className="custom-button">BG</Link>
-        {/* <Link to="/contact" style={{ margin: "0 15px", color: "white", textDecoration: "none" }}>Contact</Link> */}
+        <nav className="navbar navbar-expand">
+          <div className="navbar-brand">Krishna</div>
+          <ul className="nav nav-tabs">
+            <li className="nav-item">
+              <Link to="/" className="nav-link">Home</Link>
+            </li>
+            <li className="nav-item">
+              <Link to="/SVS_1" className="nav-link">SV-सुप्रभातम्</Link>
+            </li>
+            <li className="nav-item">
+              <Link to="/SVS_2" className="nav-link">SV-स्तोत्रम्</Link>
+            </li>
+            <li className="nav-item">
+              <Link to="/SVS_3" className="nav-link">SV-प्रपत्ति</Link>
+            </li>
+            <li className="nav-item">
+              <Link to="/SVS_4" className="nav-link">SV-मङ्गलाशासनम्</Link>
+            </li>
+            <li className="nav-item">
+              <Link to="/BG" className="nav-link">BG</Link>
+            </li>
+          </ul>
         </nav>
     </>
   );

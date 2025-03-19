@@ -4,7 +4,7 @@ const CustomButton = ({target, link, text}) => {
   
     return (
       <a
-          class="custom-button"
+          class="btn btn-warning btn-sm"
           target={target} rel="noopener noreferrer"
           href={link}
         >{text}</a>
