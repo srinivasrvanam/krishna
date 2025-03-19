@@ -11,11 +11,11 @@ function BGHome() {
     return (
     <div>
       <h1> Bhagavad Gita Chapter 2 </h1>
-      <nav>
+      <div class="d-flex justify-content-center gap-3 mt-5">
         {verseNumbersArray.map((verseNum,index) => (
-          <Link key={index} to={`/BG/2/${verseNum}`} className="custom-button">{verseNum}</Link>
+          <Link key={index} to={`/BG/2/${verseNum}`} className="btn btn-warning">{verseNum}</Link>
         ))}
-      </nav>
+      </div>
     </div>
       );
   }
