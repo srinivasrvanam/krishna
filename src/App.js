@@ -10,15 +10,17 @@ import BG from "./components/pages/BG";
 import Navbar from "./components/display/Navbar";
 import Footer from "./components/display/Footer";
 import BackToTop from "./components/utility/BackToTop";
+import DarkMode from "./components/utility/DarkMode";
 
 const Layout = ({ children }) => {
   return (
-    <div>
+    <>
+      <DarkMode />
       <Navbar /> {/* Navbar stays fixed across all pages */}
       <div>{children}</div> {/* This part changes */}
       <Footer />
       <BackToTop />
-    </div>
+    </>
   );
 };
 
