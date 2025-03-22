@@ -477,14 +477,37 @@ const verses = [
       "सर्वैश्च पूर्वैराचार्यैः सत्कृतायास्तु मङ्गलम् ॥ १४॥",
     ],
     vicheda: [
-      "मङ्गलाशासनपरैर्मदाचार्य पुरोगमैः",
-      "सर्वैश्च पूर्वैराचार्यैः सत्कृतायास्तु मङ्गलम् ॥ १४॥",
+      "मङ्गलाशासनपरैः मदाचार्य पुरोगमैः",
+      "सर्वैः च पूर्वैः आचार्यैः सत्कृताय अस्तु मङ्गलम् ॥ १४॥",
     ],
-    anvaya: [],
+    anvaya: [
+      "- (मङ्गलाशासनपरैः)",
+      "- (मदाचार्य पुरोगमैः)",
+      "- (सर्वैः च पूर्वैः आचार्यैः)",
+      "- सत्कृताय",
+      "मङ्गलम् अस्तु",
+    ],
     transl: [
       "Auspiciousness be to the Lord Venkatesa who is adored by all the Spiritual Preceptors of my lineage and all those that went before them.",
+      "May auspiciousness always be upon the greatly revered Lord Venkatesha, who has been glorified through Mangalaashasana by all my Acharyas and all the great preceptors of the past.",
     ],
-    notes: [],
+    notes: [
+      "मङ्गल (Mangala) = Auspicious, beneficial, or well-being",
+      "आशासन (Āśāsana) = (आङ् + शास् - ल्युट् प्रत्यय) Benediction, blessing, or benedictory verse",
+      "परैः = By those who are engaged in (spiritual) service",
+      "मङ्गलाशासनपरैः = By those who are engaged in offering auspicious benedictions",
+      "मदाचार्य = My Acharyas (spiritual preceptors)",
+      "पुरोगमैः = Led by (those who came before, predecessors)",
+      "सर्वैः = By all",
+      "च = And",
+      "पूर्वैः = By the previous (Acharyas of the tradition)",
+      "आचार्यैः = By the revered preceptors",
+      "सत् (Sat) = Good, virtuous, or worthy.",
+      "कृत (Kṛta) = Done, treated, or honored.",
+      "सत्कृताय = To the one who is well-honored (Lord Venkatesha)",
+      "अस्तु = Let there be",
+      "मङ्गलम् = Auspiciousness, well-being"
+    ],
   },
 ];
 
