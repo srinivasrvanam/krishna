@@ -421,8 +421,8 @@ const verses = [
       " - and who joyfully sports with Goddess Lakshmi (Rama)."
     ],
     notes: [
-      "श्रीवैकुण्ठविरक्ताय = To the one who has renounced the supreme abode Vaikuntha",
-      "स्वामिपुष्करिणीतटे = On the banks of the sacred Swami Pushkarini",
+      "श्री-वैकुण्ठ-विरक्ताय = To the one who has renounced the supreme abode Vaikuntha",
+      "स्वामि-पुष्करिणी-तटे = On the banks of the sacred Swami Pushkarini",
       "रमया = With Goddess Lakshmi (Rama, the consort of Vishnu)",
       "रम् (ram) → meaning to rejoice, to enjoy, to delight in.",
       "रममाण (ramamāṇa) → शानच् (used to form present participles (continuous action) in the Atmanepada voice.) = meaning one who is delighting, rejoicing, or sporting",
@@ -442,11 +442,32 @@ const verses = [
       "श्रीमत्सुन्दरजामातृमुनिमानसवासिने",
       "सर्वलोकनिवासाय श्रीनिवासाय मङ्गलम् ॥ १३॥",
     ],
-    anvaya: [],
-    transl: [
-      "Auspiciousness be to the Lord Srinivasa, who dwells within the mind of the fortuitous and beautiful sage Manavalamamuni, and is Himself the abode of the entire universe.",
+    anvaya: [
+      "- श्रीमत्-सुन्दर-जामातृ-मुनि-मानस-वासिने",
+      "- सर्व-लोक-निवासाय",
+      "- श्री-निवासाय",
+      "मङ्गलम्",
     ],
-    notes: [],
+    transl: [
+      "Auspiciousness be to the Lord Srinivasa, who dwells within the mind of the fortuitous and beautiful sage Srī Manavāḷa Māmuni, and is Himself the abode of the entire universe.",
+      "May auspiciousness be upon Lord Srinivasa (Venkatesha),",
+      " - who resides in the heart of the great sage Srī Manavāḷa Māmuni (the son-in-law of Sundara),",
+      " - and who is the divine abode of all beings in the universe.",
+    ],
+    notes: [
+      "श्रीमत् = Sacred, glorious, revered",
+      "सुन्दरजामातृ = The son-in-law of Sundara (Srī Manavāḷa Māmuni)",
+      "श्रीमत्-सुन्दर-जामातृ = To the beautiful sage Srī Manavāḷa Māmuni, the son-in-law of Sundara",
+      "मुनि = Sage, saint",
+      "मानस = Mind, heart",
+      "वासिने = To the one who resides (in the heart)",
+      "मुनि-मानस-वासिने = To the one who dwells in the mind of the sage",
+      "सर्वलोक = Of all worlds, of all beings",
+      "निवासाय = To the one who is the universal abode",
+      "सर्व-लोक-निवासाय = To the one who is the abode of all beings",
+      "श्री-निवासाय = To Lord Srinivasa (Venkatesha, the abode of Lakshmi)",
+      "मङ्गलम् = May there be auspiciousness"
+    ],
   },
   {
     chapter: "SVS_4",
