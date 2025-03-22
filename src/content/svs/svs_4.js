@@ -42,14 +42,32 @@ const verses = [
       "चक्षुषे सर्वलोकानां वेङ्कटेशाय मङ्गलम् ॥ २॥",
     ],
     vicheda: [
-      "लक्ष्मी सविभ्रमालोकसुभ्रूविभ्रमचक्षुषे",
-      "चक्षुषे सर्वलोकानां वेङ्कटेशाय मङ्गलम् ॥ २॥",
+      "लक्ष्मी-सविभ्रम-आलोक-सुभ्रू-विभ्रम-चक्षुषे",
+      "चक्षुषे सर्व-लोकानां वेङ्कटेशाय मङ्गलम् ॥ २॥",
     ],
-    anvaya: [],
+    anvaya: [
+      "- लक्ष्मी-सविभ्रम-आलोक-सुभ्रू-विभ्रम-चक्षुषे",
+      "- सर्व-लोकानां चक्षुषे",
+      "- वेङ्कटेशाय",
+      "मङ्गलम्",
+    ],
     transl: [
       "Auspiciousness be to the Lord Venkatesa who gazes alluringly at Goddess Lakshmi with elegant eyebrows, and who observes all the worlds with His vacillating eyes. ",
+      "May auspiciousness be upon Lord Venkatesha, whose enchanting eyes captivate even Lakṣmī, whose playful glances charm the Goddess with Her beautiful eyebrows, and who is the divine eye (protector) of all the worlds!",
+      "'लक्ष्मी सविभ्रम आलोक सुभ्रू विभ्रम चक्षुषे' → The Lord's glance is so mesmerizing that even Goddess Lakṣmī is enchanted by His divine beauty. 'चक्षुषे सर्वलोकानाम्' → His eyes are not just beautiful but also protective, as He is the watchful guardian of all worlds. 'वेङ्कटेशाय मङ्गलम्' → The verse bestows auspiciousness upon Lord Venkatesha, ensuring His blessings upon all devotees who recite it.",
     ],
-    notes: [],
+    notes: [
+      "लक्ष्मी = Goddess Lakṣmī",
+      "सविभ्रम = With playful (charming) expressions",
+      "आलोक = Glance, vision",
+      "सुभ्रू = Having beautiful eyebrows",
+      "विभ्रम = Movement, playfulness",
+      "चक्षुषे = To the One with enchanting eyes",
+      "चक्षुषे = The Eye (Protector, Vision)",
+      "सर्वलोकानाम् = Of all the worlds",
+      "वेङ्कटेशाय = To Lord Venkatesha",
+      "मङ्गलम् = May auspiciousness be"
+    ],
   },
   {
     chapter: "SVS_4",
