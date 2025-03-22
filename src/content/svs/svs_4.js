@@ -147,14 +147,35 @@ const verses = [
       "सर्वान्तरात्मने श्रीमद्वेङ्कटेशाय मङ्गलम् ॥ ५॥",
     ],
     vicheda: [
-      "नित्याय निरवद्याय सत्यानन्दचिदात्मने",
-      "सर्वान्तरात्मने श्रीमद्वेङ्कटेशाय मङ्गलम् ॥ ५॥",
+      "नित्याय निरवद्याय सत्य-आनन्द-चिद्-आत्मने",
+      "सर्व-अन्तर-आत्मने श्रीमद्-वेङ्कटेशाय मङ्गलम् ॥ ५॥",
     ],
-    anvaya: [],
+    anvaya: [
+      "- नित्याय",
+      "- निरवद्याय",
+      "- सत्य-आनन्द-चिद्-आत्मने",
+      "- सर्व-अन्तर-आत्मने",
+      "- श्रीमद्-वेङ्कटेशाय",
+      "मङ्गलम्",
+    ],
     transl: [
       "Auspiciousness be to the Lord Venkatesa the Supreme Spirit, the Absolute Truth, the Ultimate Joy, who is Eternal, Immaculate, and the indweller in every soul.",
+      "May auspiciousness be upon Śrī Venkatesha, who is eternal, flawless, and the very essence of truth, bliss, and pure consciousness, who is the indwelling soul of all beings!"
     ],
-    notes: [],
+    notes: [
+      "नित्याय = To the eternal one",
+      "निरवद्याय = To the flawless, faultless one",
+      "सत्य = Truth, real",
+      "आनन्द = Bliss, supreme joy",
+      "चिद् = Pure consciousness",
+      "आत्मने = To the Self, the soul",
+      "सर्व = All",
+      "अन्तर = Inner, residing within",
+      "आत्मने = To the indwelling soul",
+      "श्रीमद् = Glorious, auspicious",
+      "वेङ्कटेशाय = To Lord Venkatesha",
+      "मङ्गलम् = May auspiciousness be"
+    ],
   },
   {
     chapter: "SVS_4",
