@@ -77,14 +77,32 @@ const verses = [
       "मङ्गलानां निवासाय श्रीनिवासाय मङ्गलम् ॥ ३॥",
     ],
     vicheda: [
-      "श्रीवेङ्कटाद्रिश‍ृङ्गाङ्ग्रमङ्गलाभरणाङ्घ्रये",
+      "श्रीवेङ्कट-अद्रि-श‍ृङ्ग-अङ्ग्र-मङ्गल-आभरण-अङ्घ्रये",
       "मङ्गलानां निवासाय श्रीनिवासाय मङ्गलम् ॥ ३॥",
     ],
-    anvaya: [],
+    anvaya: [
+      "- श्रीवेङ्कट-अद्रि-श‍ृङ्ग-अङ्ग्र-मङ्गल-आभरण-अङ्घ्रये",
+      "- मङ्गलानां निवासाय",
+      "- श्रीनिवासाय",
+      "मङ्गलम्",
+    ],
     transl: [
       "Auspiciousness be to the Lord of Lakshmi Devi, the repository of auspiciousness whose auspicious feet adorn the crest of mount Venkata.",
+      "May auspiciousness be upon Śrīnivāsa, who resides atop the sacred peak of Venkata Hill, whose holy feet are the greatest ornaments adorning the summit, and who is the very abode of all auspiciousness!"
     ],
-    notes: [],
+    notes: [
+      "श्रीवेङ्कट = Of the sacred Venkata (Tirumala)",
+      "अद्रि = Mountain",
+      "श‍ृङ्ग = Peak, summit",
+      "अङ्ग्र = Foremost, topmost",
+      "मङ्गल = Auspiciousness",
+      "आभरण = Ornament, adornment",
+      "अङ्घ्रये = To the One whose feet are like ornaments",
+      "मङ्गलानां = Of all auspicious things",
+      "निवासाय = To the One who is the very abode",
+      "श्रीनिवासाय = To Lord Śrīnivāsa (the abode of Lakṣmī)",
+      "मङ्गलम् = May auspiciousness be"
+    ],
   },
   {
     chapter: "SVS_4",
