@@ -16,6 +16,9 @@ const Layout = ({ children }) => {
   return (
     <>
       <DarkMode />
+      <h1 className="text-3xl font-bold underline text-red-500">
+      Hello world!
+    </h1>
       <Navbar /> {/* Navbar stays fixed across all pages */}
       <div>{children}</div> {/* This part changes */}
       <Footer />
