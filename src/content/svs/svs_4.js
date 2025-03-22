@@ -297,13 +297,29 @@ const verses = [
     ],
     vicheda: [
       "प्रायस्स्वचरणौ पुंसां शरण्यत्वेन पाणिना",
-      "कृपयाऽऽदिशते श्रीमद्वेङ्कटेशाय मङ्गलम् ॥ ९॥",
+      "कृपया आदिशते श्रीमद्वेङ्कटेशाय मङ्गलम् ॥ ९॥",
     ],
-    anvaya: [],
+    anvaya: [
+      "प्रायः स्वचरणौ पुंसाम् शरण्यत्वेन पाणिना कृपया आदिशते,",
+      "श्रीमद्वेङ्कटेशाय मङ्गलम्"
+    ],
     transl: [
       "Auspiciousness be to the Lord Venkatesa who out of unbounded compassion points to His own feet as a refuge for everyone.",
+      "May auspiciousness be upon the glorious Lord Venkatesha,",
+      " - who mercifully directs people towards His own feet as their ultimate refuge,",
+      " - by pointing to them with His hand, out of boundless compassion!",
     ],
-    notes: [],
+    notes: [
+      "प्रायः = Generally, mostly, often",
+      "स्वचरणौ = His own two feet",
+      "पुंसाम् = For all beings, for people",
+      "शरण्यत्वेन = As the refuge, in the form of protection",
+      "पाणिना = By His hand",
+      "कृपया = Out of compassion, mercifully",
+      "आदिशते = He directs, He instructs",
+      "श्रीमद्वेङ्कटेशाय = To the glorious Lord Venkatesha",
+      "मङ्गलम् = May auspiciousness be"
+    ],
   },
   {
     chapter: "SVS_4",
