@@ -385,12 +385,12 @@ const verses = [
       "अम्बर (Ambara) = Garments, clothing, attire",
       "हेति (Heti) = Weapons, arms",
       "-नाम् (-nām, Genitive plural suffix) = Of (denoting possession or association)",
-      "स्रग्भूषाम्बरहेतीनाम् = Of garlands, ornaments, garments, and weapons",
+      "स्रग्-भूषा-अम्बर-हेतीनां = Of garlands, ornaments, garments, and weapons",
       "सुषमा (Suṣamā) = Radiance, supreme beauty, brilliance, grace",
       "वह (Vaham) = Bearing, carrying, possessing",
       "मूर्तये (Mūrtiye) = To the form, embodiment, manifestation",
       "सुषमा-वह-मूर्तये = To the one whose form radiates supreme beauty",
-      "सर्वार्तिशमनाय = To the one who removes all sufferings and distress",
+      "सर्व-आर्ति-शमनाय = To the one who removes all sufferings and distress",
       "अस्तु = May it be, let it be",
       "वेङ्कटेशाय = To Lord Venkatesha",
       "मङ्गलम् = May auspiciousness be"
@@ -404,14 +404,32 @@ const verses = [
       "रमया रममाणाय वेङ्कटेशाय मङ्गलम् ॥ १२॥",
     ],
     vicheda: [
-      "श्रीवैकुण्ठविरक्ताय स्वामिपुष्करिणीतटे",
+      "श्री-वैकुण्ठ-विरक्ताय स्वामि-पुष्करिणी-तटे",
       "रमया रममाणाय वेङ्कटेशाय मङ्गलम् ॥ १२॥",
     ],
-    anvaya: [],
+    anvaya: [
+      "- श्री-वैकुण्ठ-विरक्ताय",
+      "- स्वामि-पुष्करिणी-तटे रमया रममाणाय",
+      "- वेङ्कटेशाय",
+      "मङ्गलम्",
+    ],
     transl: [
       "Auspiciousness be to the Lord Venkatesa who being unattached to His Heavenly Abode of Vaikuntha, is sporting with His consort Lakshmi on the banks of this earthly lake of Pushkarini.",
+      "May auspiciousness be upon Lord Venkatesha,",
+      " - who has renounced the supreme abode of Vaikuntha,",
+      " - who resides on the banks of the sacred Swami Pushkarini,",
+      " - and who joyfully sports with Goddess Lakshmi (Rama)."
     ],
-    notes: [],
+    notes: [
+      "श्रीवैकुण्ठविरक्ताय = To the one who has renounced the supreme abode Vaikuntha",
+      "स्वामिपुष्करिणीतटे = On the banks of the sacred Swami Pushkarini",
+      "रमया = With Goddess Lakshmi (Rama, the consort of Vishnu)",
+      "रम् (ram) → meaning to rejoice, to enjoy, to delight in.",
+      "रममाण (ramamāṇa) → शानच् (used to form present participles (continuous action) in the Atmanepada voice.) = meaning one who is delighting, rejoicing, or sporting",
+      "रममाणाय = To the one who is joyfully sporting, enjoying divine pastimes",
+      "वेङ्कटेशाय = To Lord Venkatesha",
+      "मङ्गलम् = May there be auspiciousness"
+    ],
   },
   {
     chapter: "SVS_4",
