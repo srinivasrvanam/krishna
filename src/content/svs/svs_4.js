@@ -262,14 +262,31 @@ const verses = [
       "अतृप्त्यमृतरूपाय वेङ्कटेशाय मङ्गलम् ॥ ८॥",
     ],
     vicheda: [
-      "आकालतत्त्वमश्रान्तं आत्मनामनुपश्यतां",
+      "आकालतत्त्वम् अश्रान्तम् आत्मनाम् अनुपश्यताम्",
       "अतृप्त्यमृतरूपाय वेङ्कटेशाय मङ्गलम् ॥ ८॥",
     ],
-    anvaya: [],
+    anvaya: [
+      "- (आकालतत्त्वम् अश्रान्तम् आत्मनाम् अनुपश्यताम्)",
+      "- अतृप्त्यमृतरूपाय",
+      "- वेङ्कटेशाय",
+      "मङ्गलम्",
+    ],
     transl: [
       "Auspiciousness be to the Lord Venkatesa whose ambrosial beauty is such, that devotees having the beatific vision are never satiated with gazing upon Him even for eternity.",
+      "May auspiciousness be upon Lord Venkatesha,",
+      " - who is the eternal principle beyond time,",
+      " - who is tireless in guiding seekers of the Self,",
+      " - and whose form is an inexhaustible nectar of bliss!"
     ],
-    notes: [],
+    notes: [
+      "आकालतत्त्वम् = The eternal principle, the essence beyond time",
+      "अश्रान्तम् = The tireless, ever-active one",
+      "आत्मनाम् = Of the selves, of the souls",
+      "अनुपश्यताम् = Of those who seek and realize the self",
+      "अतृप्त्यमृतरूपाय = To the one whose form is like inexhaustible nectar, never ceasing bliss",
+      "वेङ्कटेशाय = To Lord Venkatesha",
+      "मङ्गलम् = May auspiciousness be"
+    ],
   },
   {
     chapter: "SVS_4",
