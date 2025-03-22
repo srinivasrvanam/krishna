@@ -329,14 +329,31 @@ const verses = [
       "अपाङ्गैः सिञ्चते विश्वं वेङ्कटेशाय मङ्गलम् ॥ १०॥",
     ],
     vicheda: [
-      "दयामृत तरङ्गिण्यास्तरङ्गैरिव शीतलैः",
+      "दयामृततरङ्गिण्याः तरङ्गैः इव शीतलैः",
       "अपाङ्गैः सिञ्चते विश्वं वेङ्कटेशाय मङ्गलम् ॥ १०॥",
     ],
-    anvaya: [],
+    anvaya: [
+      "दयामृततरङ्गिण्याः शीतलैः तरङ्गैः इव अपाङ्गैः विश्वं सिञ्चते,",
+      "वेङ्कटेशाय मङ्गलम्",
+    ],
     transl: [
       "Auspiciousness be to the Lord Venkatesa whose tears of compassion pour out like waves from his eyes and flow down upon the world like cool rivers of ambrosia.",
+      "May auspiciousness be upon Lord Venkatesha,",
+      " - who sprinkles the entire universe",
+      " - with His cool, soothing sidelong glances,",
+      " - just like the gentle waves of a river of nectar-like compassion!"
     ],
-    notes: [],
+    notes: [
+      "दयामृततरङ्गिण्याः = Of the river of nectar-like compassion",
+      "तरङ्गैः = With waves",
+      "इव = Like, as if",
+      "शीतलैः = Cool, soothing",
+      "अपाङ्गैः = With sidelong glances",
+      "सिञ्चते = Sprinkles, showers",
+      "विश्वम् = The whole universe",
+      "वेङ्कटेशाय = To Lord Venkatesha",
+      "मङ्गलम् = May auspiciousness be"
+    ],
   },
   {
     chapter: "SVS_4",
