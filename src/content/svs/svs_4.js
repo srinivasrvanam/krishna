@@ -112,14 +112,32 @@ const verses = [
       "सदा सम्मोहनायास्तु वेङ्कटेशाय मङ्गलम् ॥ ४॥",
     ],
     vicheda: [
-      "सर्वावयवसौन्दर्यसम्पदा सर्वचेतसां",
-      "सदा सम्मोहनायास्तु वेङ्कटेशाय मङ्गलम् ॥ ४॥",
+      "सर्व-अवयव-सौन्दर्य-सम्पदा सर्व-चेतसां",
+      "सदा सम्मोहनाय अस्तु वेङ्कटेशाय मङ्गलम् ॥ ४॥",
     ],
-    anvaya: [],
+    anvaya: [
+      "- (सर्व-अवयव-सौन्दर्य-सम्पदा)",
+      "- सर्व-चेतसां सदा सम्मोहनाय",
+      "- वेङ्कटेशाय",
+      "मङ्गलम् अस्तु",
+    ],
     transl: [
       "Auspiciousness be to the Lord Venkatesa, the inestimable beauty of whose form continually enraptures all beings.",
+      "May auspiciousness be upon Lord Venkatesha, who is endowed with the supreme beauty of all His limbs, who eternally captivates the hearts of all beings!",
     ],
-    notes: [],
+    notes: [
+      "सर्व = All, every",
+      "अवयव = Limbs, body parts",
+      "सौन्दर्य = Beauty",
+      "सम्पदा = With the wealth of, enriched with",
+      "सर्व = All",
+      "चेतसाम् = Of the minds, of all beings",
+      "सदा = Always, eternally",
+      "सम्मोहनाय = For enchanting, captivating",
+      "अस्तु = May it be",
+      "वेङ्कटेशाय = To Lord Venkatesha",
+      "मङ्गलम् = May auspiciousness be"
+    ],
   },
   {
     chapter: "SVS_4",
