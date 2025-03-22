@@ -8,14 +8,31 @@ const verses = [
       "श्रीवेङ्कटनिवासाय श्रीनिवासाय मङ्गलम् ॥ १॥",
     ],
     vicheda: [
-      "श्रियः कान्ताय कल्याणनिधये निधयेऽर्थिनां",
+      "श्रियः कान्ताय कल्याण-निधये निधयेऽर्थिनां",
       "श्रीवेङ्कटनिवासाय श्रीनिवासाय मङ्गलम् ॥ १॥",
     ],
-    anvaya: [],
+    anvaya: [
+      "- श्रियः कान्ताय",
+      "- कल्याण-निधये",
+      "- अर्थिनाम् निधये",
+      "- श्रीवेङ्कटनिवासाय",
+      "- श्रीनिवासाय",
+      "मङ्गलम्",
+    ],
     transl: [
       "Auspiciousness be to the Lord Venkatesa the resident of Mount Venkata, the spouse of Lakshmi, who is the repository of auspiciousness, and a treasury towards those who take refuge in Him.",
+      "May auspiciousness be upon Śrīnivāsa, who is the beloved consort of Lakṣmī, who is the treasure-house of  all auspiciousness, who is the refuge of all seekers, who resides in Venkata (Tirumala), and who is the  eternal abode of Lakṣmī Herself!",
     ],
-    notes: [],
+    notes: [
+      "श्रियः = Of Lakṣmī (Goddess of wealth and prosperity)",
+      "कान्ताय = To the beloved consort (of Lakṣmī)",
+      "कल्याण-निधये = To the treasure-house of auspiciousness",
+      "निधये = To the refuge, source",
+      "अर्थिनाम् = Of those who seek (refuge, wealth, grace)",
+      "श्रीवेङ्कटनिवासाय = To the One who resides in Venkata (Tirumala)",
+      "श्रीनिवासाय = To the One who is the abode of Lakṣmī",
+      "मङ्गलम् = May auspiciousness be (upon Him)"
+    ],
   },
   {
     chapter: "SVS_4",
