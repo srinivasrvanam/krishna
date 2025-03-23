@@ -30,7 +30,7 @@ function BG() {
             return (
                 <div className="w-full h-screen">
                   <h1 className="text-3xl text-center pt-5"> Bhagavad Gita {chapter_num}-{verse_num}</h1>
-                  <div className="flex justify-center gap-2 mt-2 py-4">
+                  <div className="flex flex-wrap justify-center gap-2 mt-2 py-4">
                     {prevVerse && prevVerse.number && <Link to={`/BG/2/${prevVerse.number}`} className="sv-btn">Prev - {prevVerse.number}</Link>}
                     {nextVerse && nextVerse.number && <Link to={`/BG/2/${nextVerse.number}`} className="sv-btn">Next - {nextVerse.number}</Link>}
                   </div>
