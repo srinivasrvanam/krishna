@@ -9,11 +9,11 @@ function BGHome() {
   }
     
     return (
-    <div>
-      <h1 className="text-black dark:text-white bg-white dark:bg-black"> Bhagavad Gita Chapter 2 </h1>
-      <div className="d-flex justify-content-center gap-3 mt-5">
+    <div className="w-full h-screen">
+      <h1 className="text-3xl text-center p-5"> Bhagavad Gita Chapter 2 </h1>
+      <div className="flex justify-center gap-2 mt-2">
         {verseNumbersArray.map((verseNum,index) => (
-          <Link key={index} to={`/BG/2/${verseNum}`} className="btn btn-warning">{verseNum}</Link>
+          <Link key={index} to={`/BG/2/${verseNum}`} className="bg-yellow-500 dark:text-gray-900 px-4 py-0.5 rounded-full shadow-lg hover:bg-yellow-400 focus:outline-none transition duration-300 cursor-pointer">{verseNum}</Link>
         ))}
       </div>
     </div>
