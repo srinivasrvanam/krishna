@@ -3,7 +3,7 @@ import DarkMode from "../utility/DarkMode";
 
 const Navbar = () => {
   return (
-    <nav className="sticky top-0 bg-white dark:bg-gray-800 shadow-lg">
+    <nav className="sticky top-0 bg-blue-200 dark:bg-gray-800 shadow-lg">
       <div className="container mx-auto px-6 py-3 flex justify-between items-center">
         
         {/* Site Name */}
