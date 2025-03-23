@@ -1,6 +1,7 @@
 import "./App.css";
 import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./components/pages/Home";
+import SVSHome from "./components/pages/SVSHome";
 import SVS_1 from "./components/pages/SVS_1";
 import SVS_2 from "./components/pages/SVS_2";
 import SVS_3 from "./components/pages/SVS_3";
@@ -28,6 +29,7 @@ function App() {
       <Layout>
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/SVS" element={<SVSHome />} />
           <Route path="/SVS_1" element={<SVS_1 />} />
           <Route path="/SVS_2" element={<SVS_2 />} />
           <Route path="/SVS_3" element={<SVS_3 />} />
