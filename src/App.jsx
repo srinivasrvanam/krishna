@@ -26,10 +26,10 @@ function App() {
       <Layout>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/SVS" element={<SVSHome />} />
-          <Route path="/SVS/:chapter_num" element={<SVSChapter />} />
-          <Route path="/BG" element={<BGHome />} />
-          <Route path="/BG/:chapter_num/:verse_num" element={<BG />} />
+          <Route path="/svs" element={<SVSHome />} />
+          <Route path="/svs/:chapter_num" element={<SVSChapter />} />
+          <Route path="/bg" element={<BGHome />} />
+          <Route path="/bg/:chapter_num/:verse_num" element={<BG />} />
         </Routes>
       </Layout>
     </Router>

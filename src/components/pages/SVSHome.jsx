@@ -25,10 +25,10 @@ function SVSHome() {
             Please click the links below to access Suprabatham, Stotram, Prapatti and Mangalaashasanam.
             <br /><br />
             <div className="flex flex-wrap justify-center gap-2 mt-2">
-            <Link to="/SVS/1" className="sv-btn">SV-सुप्रभातम्</Link>
-            <Link to="/SVS/2" className="sv-btn">SV-स्तोत्रम्</Link>
-            <Link to="/SVS/3" className="sv-btn">SV-प्रपत्ति</Link>
-            <Link to="/SVS/4" className="sv-btn">SV-मङ्गलाशासनम्</Link>
+            <Link to="/svs/1" className="sv-btn">SV-सुप्रभातम्</Link>
+            <Link to="/svs/2" className="sv-btn">SV-स्तोत्रम्</Link>
+            <Link to="/svs/3" className="sv-btn">SV-प्रपत्ति</Link>
+            <Link to="/svs/4" className="sv-btn">SV-मङ्गलाशासनम्</Link>
           </div>      
           <br />
           <div className="text-3xl">Reference Links:</div>

@@ -15,8 +15,8 @@ const Navbar = () => {
 
         {/* Center Action Buttons (Visible on md and larger) */}
         <div className="hidden md:flex space-x-6">
-          <Link to="/SVS" className="sv-btn-nav">Suprabhatham</Link>
-          <Link to="/BG" className="sv-btn-nav">Bhagavad Gita</Link>
+          <Link to="/svs" className="sv-btn-nav">Suprabhatham</Link>
+          <Link to="/bg" className="sv-btn-nav">Bhagavad Gita</Link>
         </div>
 
         {/* Hamburger Menu (Visible on small screens) */}
@@ -36,8 +36,8 @@ const Navbar = () => {
       {/* Mobile Menu (Dropdown) */}
       {isOpen && (
         <ul className="md:hidden bg-gray-700 p-4 space-y-4 text-center">
-          <li className="sv-btn-nav"><Link to="/SVS">Suprabhatham</Link></li>
-          <li className="sv-btn-nav"><Link to="/BG">Bhagavad Gita</Link></li>
+          <li className="sv-btn-nav"><Link to="/svs">Suprabhatham</Link></li>
+          <li className="sv-btn-nav"><Link to="/bg">Bhagavad Gita</Link></li>
         </ul>
       )}
     </nav>    
