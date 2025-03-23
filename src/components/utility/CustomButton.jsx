@@ -4,7 +4,7 @@ const CustomButton = ({target, link, text}) => {
   
     return (
       <a
-          className="btn btn-warning btn-sm"
+          className="bg-yellow-500 dark:text-gray-900 px-4 py-0.5 rounded-full shadow-lg hover:bg-yellow-400 focus:outline-none transition duration-300 cursor-pointer"
           target={target} rel="noopener noreferrer"
           href={link}
         >{text}</a>
