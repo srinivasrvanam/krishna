@@ -13,12 +13,12 @@ import BackToTop from "./components/utility/BackToTop";
 
 const Layout = ({ children }) => {
   return (
-    <>
+    <div className="text-black dark:text-white bg-white dark:bg-gray-900">
       <Navbar /> {/* Navbar stays fixed across all pages */}
       <div>{children}</div> {/* This part changes */}
       <Footer />
       <BackToTop />
-    </>
+    </div>
   );
 };
 
