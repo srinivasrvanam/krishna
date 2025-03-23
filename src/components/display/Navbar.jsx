@@ -16,10 +16,6 @@ const Navbar = () => {
         {/* Center Action Buttons (Visible on md and larger) */}
         <div className="hidden md:flex space-x-6">
           <Link to="/SVS" className="sv-btn-nav">Suprabhatham</Link>
-          <Link to="/SVS_1" className="sv-btn-nav">SV-सुप्रभातम्</Link>
-          <Link to="/SVS_2" className="sv-btn-nav">SV-स्तोत्रम्</Link>
-          <Link to="/SVS_3" className="sv-btn-nav">SV-प्रपत्ति</Link>
-          <Link to="/SVS_4" className="sv-btn-nav">SV-मङ्गलाशासनम्</Link>
           <Link to="/BG" className="sv-btn-nav">Bhagavad Gita</Link>
         </div>
 
@@ -41,10 +37,6 @@ const Navbar = () => {
       {isOpen && (
         <ul className="md:hidden bg-gray-700 p-4 space-y-4 text-center">
           <li className="sv-btn-nav"><Link to="/SVS">Suprabhatham</Link></li>
-          <li className="sv-btn-nav"><Link to="/SVS_1">SV-सुप्रभातम्</Link></li>
-          <li className="sv-btn-nav"><Link to="/SVS_2">SV-स्तोत्रम्</Link></li>
-          <li className="sv-btn-nav"><Link to="/SVS_3">SV-प्रपत्ति</Link></li>
-          <li className="sv-btn-nav"><Link to="/SVS_4">SV-मङ्गलाशासनम्</Link></li>
           <li className="sv-btn-nav"><Link to="/BG">Bhagavad Gita</Link></li>
         </ul>
       )}
