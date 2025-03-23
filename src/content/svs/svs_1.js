@@ -1,7 +1,7 @@
 // "श्रीवेङ्कटेशसुप्रभातम्",
 const verses = [
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 1, 
       sloka: [
           "कौसल्या सुप्रजा राम पूर्वा सन्ध्या प्रवर्तते ।",
@@ -40,7 +40,7 @@ const verses = [
       ]
   },
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 2,
       sloka: [
           "उत्तिष्ठोत्तिष्ठ गोविन्द उत्तिष्ठ गरुडध्वज ।",
@@ -74,7 +74,7 @@ const verses = [
       ]
   },
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 3,
       sloka: [
           "मातस्समस्तजगतां मधुकैटभारेः",
@@ -125,7 +125,7 @@ const verses = [
       ]
   },
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 4,
       sloka: [
           "तव सुप्रभातमरविन्दलोचने",
@@ -164,7 +164,7 @@ const verses = [
       ]
   },
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 5,
       sloka: [
           "अत्र्यादि सप्तऋषयस्समुपास्य सन्ध्यां",
@@ -202,7 +202,7 @@ const verses = [
       ]
   },
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 6,
       sloka: [
           "पञ्चाननाब्जभवषण्मुखवासवाद्याः",
@@ -242,7 +242,7 @@ const verses = [
       ]
   },
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 7,
       sloka: [
           "ईषत्प्रफुल्लसरसीरुहनारिकेल-",
@@ -288,7 +288,7 @@ const verses = [
       ]
   },
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 8,
       sloka: [
           "उन्मील्य नेत्रयुगमुत्तमपञ्जरस्थाः",
@@ -334,7 +334,7 @@ const verses = [
       ]
   },
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 9,
       sloka: [
           "तन्त्रीप्रकर्षमधुरस्वनया विपञ्च्या",
@@ -381,7 +381,7 @@ const verses = [
       ]
   },
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 10,
       sloka: [
           "भृङ्गावली च मकरन्दरसानुविद्ध-",
@@ -429,7 +429,7 @@ const verses = [
       ]
   },
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 11,
       sloka: [
           "योषागणेन वरदध्नि विमथ्यमाने",
@@ -478,7 +478,7 @@ const verses = [
       ]
   },
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 12,
       sloka: [
           "पद्मेशमित्रशतपत्रगतालिवर्गाः",
@@ -524,7 +524,7 @@ const verses = [
       ]
   },
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 13,
       sloka: [
           "श्रीमन्नभीष्टवरदाखिललोकबन्धो",
@@ -566,7 +566,7 @@ const verses = [
       ]
   },
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 14,
       sloka: [
           "श्रीस्वामिपुष्करिणिकाऽऽप्लवनिर्मलाङ्गाः",
@@ -613,7 +613,7 @@ const verses = [
       ]
   },
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 15,
       sloka: [
           "श्रीशेषशैलगरुडाचलवेङ्कटाद्रि",
@@ -652,7 +652,7 @@ const verses = [
       ]
   },
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 16,
       sloka: [
           "सेवापराः शिवसुरेशकृशानुधर्म-",
@@ -703,7 +703,7 @@ const verses = [
       ]
   },
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 17,
       sloka: [
           "धाटीषु ते विहगराजमृगाधिराज-",
@@ -752,7 +752,7 @@ const verses = [
       ]
   },
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 18,
       sloka: [
           "सूर्येन्दुभौमबुधवाक्पतिकाव्यसौरि-",
@@ -801,7 +801,7 @@ const verses = [
       ]
   },
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 19,
       sloka: [
           "त्वत्पादधूलिभरितस्फुरितोत्तमाङ्गाः",
@@ -849,7 +849,7 @@ const verses = [
       ]
   },
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 20,
       sloka: [
           "त्वद्गोपुराग्रशिखराणि निरीक्षमाणाः",
@@ -889,7 +889,7 @@ const verses = [
       ]
   },
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 21,
       sloka: [
           "श्रीभूमिनायक दयादिगुणामृताब्धे",
@@ -930,7 +930,7 @@ const verses = [
       ]
   },
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 22,
       sloka: [
           "श्रीपद्मनाभ पुरुषोत्तम वासुदेव",
@@ -974,7 +974,7 @@ const verses = [
       ]
   },
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 23,
       sloka: [
           "कन्दर्पदर्पहरसुन्दरदिव्यमूर्ते",
@@ -1013,7 +1013,7 @@ const verses = [
       ]
   },
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 24,
       sloka: [
           "मीनाकृते कमठकोलनृसिंहवर्णिन्",
@@ -1066,7 +1066,7 @@ const verses = [
       ]
   },
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 25,
       sloka: [
           "एलालवङ्गघनसारसुगन्धितीर्थं",
@@ -1120,7 +1120,7 @@ const verses = [
       ]
   },
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 26,
       sloka: [
           "भास्वानुदेति विकचानि सरोरुहाणि",
@@ -1169,7 +1169,7 @@ const verses = [
       ]
   },
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 27,
       sloka: [
           "ब्रह्मादयस्सुरवरास्समहर्षयस्ते",
@@ -1222,7 +1222,7 @@ const verses = [
       ]
   },
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 28,
       sloka: [
           "लक्ष्मीनिवास निरवद्यगुणैकसिन्धो",
@@ -1268,7 +1268,7 @@ const verses = [
       ]
   },
   {
-      chapter: "SVS_1",
+      chapter: 1,
       number: 29,
       sloka: [
           "इत्थं वृषाचलपतेरिह सुप्रभातम्",

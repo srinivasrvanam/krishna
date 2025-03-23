@@ -1,6 +1,6 @@
 const verses = [
   {
-    chapter: "SVS_2",
+    chapter: 2,
     number: 1,
     sloka: [
       "कमलाकुचचूचुककुङ्कुमतो",
@@ -43,7 +43,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_2",
+    chapter: 2,
     number: 2,
     sloka: [
       "सचतुर्मुखषण्मुखपञ्चमुख-",
@@ -86,7 +86,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_2",
+    chapter: 2,
     number: 3,
     sloka: [
       "अतिवेलतया तव दुर्विषहैः",
@@ -126,7 +126,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_2",
+    chapter: 2,
     number: 4,
     sloka: [
       "अधिवेङ्कटशैलमुदारमते-",
@@ -169,7 +169,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_2",
+    chapter: 2,
     number: 5,
     sloka: [
       "कलवेणुरवावशगोपवधू-",
@@ -217,7 +217,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_2",
+    chapter: 2,
     number: 6,
     sloka: [
       "अभिरामगुणाकर दाशरथे",
@@ -257,7 +257,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_2",
+    chapter: 2,
     number: 7,
     sloka: [
       "अवनीतनयाकमनीयकरं",
@@ -304,7 +304,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_2",
+    chapter: 2,
     number: 8,
     sloka: [
       "सुमुखं सुहृदं सुलभं सुखदं",
@@ -351,7 +351,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_2",
+    chapter: 2,
     number: 9,
     sloka: [
       "विना वेङ्कटेशं न नाथो न नाथः",
@@ -378,7 +378,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_2",
+    chapter: 2,
     number: 10,
     sloka: [
       "अहं दूरतस्ते पदाम्भोजयुग्म-",
@@ -409,7 +409,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_2",
+    chapter: 2,
     number: 11,
     sloka: [
       "अज्ञानिना मया दोषान् अशेषान्विहितान् हरे ।",
@@ -431,15 +431,7 @@ const verses = [
     ],
     notes: [],
   },
-  {
-    chapter: "SVS_2",
-    number: "॥ इति वेङ्कटेशस्तोत्रम् ॥",
-    sloka: [],
-    vicheda: [],
-    anvaya: [],
-    transl: [],
-    notes: [],
-  },
+  // "॥ इति वेङ्कटेशस्तोत्रम् ॥"
 ];
 
 export default verses;

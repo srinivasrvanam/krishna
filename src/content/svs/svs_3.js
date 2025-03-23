@@ -1,7 +1,7 @@
 // "॥ अथ वेङ्कटेशप्रपत्ति ॥",
 const verses = [
   {
-    chapter: "SVS_3",
+    chapter: 3,
     number: 1,
     sloka: [
       "ईशानां जगतोऽस्य वेङ्कटपतेर्विष्णोः परां प्रेयसीं",
@@ -47,7 +47,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_3",
+    chapter: 3,
     number: 2,
     sloka: [
       "श्रीमन् कृपाजलनिधे कृतसर्वलोक",
@@ -90,7 +90,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_3",
+    chapter: 3,
     number: 3,
     sloka: [
       "आनूपुरार्पितसुजातसुगन्धिपुष्प-",
@@ -132,7 +132,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_3",
+    chapter: 3,
     number: 4,
     sloka: [
       "सद्योविकासिसमुदित्वरसान्द्रराग-",
@@ -170,7 +170,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_3",
+    chapter: 3,
     number: 5,
     sloka: [
       "रेखामयध्वजसुधाकलशातपत्र",
@@ -207,7 +207,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_3",
+    chapter: 3,
     number: 6,
     sloka: [
       "ताम्रोदरद्युतिपराजितपद्मरागौ",
@@ -247,7 +247,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_3",
+    chapter: 3,
     number: 7,
     sloka: [
       "सप्रेमभीति कमलाकरपल्लवाभ्यां",
@@ -292,7 +292,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_3",
+    chapter: 3,
     number: 8,
     sloka: [
       "लक्ष्मीमहीतदनुरूपनिजानुभाव-",
@@ -343,7 +343,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_3",
+    chapter: 3,
     number: 9,
     sloka: [
       "नित्यानमद्विधिशिवादिकिरीटकोटि-",
@@ -392,7 +392,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_3",
+    chapter: 3,
     number: 10,
     sloka: [
       "विष्णोः पदे परम इत्युदितप्रशंसौ",
@@ -446,7 +446,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_3",
+    chapter: 3,
     number: 11,
     sloka: [
       "पार्थाय तत्सदृशसारथिना त्वयैव",
@@ -496,7 +496,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_3",
+    chapter: 3,
     number: 12,
     sloka: [
       "मन्मूर्ध्नि कालियफणे विकटाटवीषु",
@@ -546,7 +546,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_3",
+    chapter: 3,
     number: 13,
     sloka: [
       "अम्लानहृष्यदवनीतलकीर्णपुष्पौ",
@@ -597,7 +597,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_3",
+    chapter: 3,
     number: 14,
     sloka: [
       "प्रायः प्रपन्नजनताप्रथमावगाह्यौ",
@@ -648,7 +648,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_3",
+    chapter: 3,
     number: 15,
     sloka: [
       "सत्त्वोत्तरैस्सततसेव्यपदाम्बुजेन",
@@ -698,7 +698,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_3",
+    chapter: 3,
     number: 16,
     sloka: [
       "श्रीश श्रिया घटिकया त्वदुपायभावे",

@@ -1,7 +1,7 @@
 // "॥ अथ वेङ्कटेशमङ्गलाशासनम् । ॥",
 const verses = [
   {
-    chapter: "SVS_4",
+    chapter: 4,
     number: 1,
     sloka: [
       "श्रियः कान्ताय कल्याणनिधये निधयेऽर्थिनां",
@@ -35,7 +35,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_4",
+    chapter: 4,
     number: 2,
     sloka: [
       "लक्ष्मी सविभ्रमालोकसुभ्रूविभ्रमचक्षुषे",
@@ -70,7 +70,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_4",
+    chapter: 4,
     number: 3,
     sloka: [
       "श्रीवेङ्कटाद्रिश‍ृङ्गाङ्ग्रमङ्गलाभरणाङ्घ्रये",
@@ -105,7 +105,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_4",
+    chapter: 4,
     number: 4,
     sloka: [
       "सर्वावयवसौन्दर्यसम्पदा सर्वचेतसां",
@@ -140,7 +140,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_4",
+    chapter: 4,
     number: 5,
     sloka: [
       "नित्याय निरवद्याय सत्यानन्दचिदात्मने",
@@ -178,7 +178,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_4",
+    chapter: 4,
     number: 6,
     sloka: [
       "स्वतस्सर्वविदे सर्वशक्तये सर्वशेषिणे",
@@ -217,7 +217,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_4",
+    chapter: 4,
     number: 7,
     sloka: [
       "परस्मै ब्रह्मणे पूर्णकामाय परमात्मने",
@@ -255,7 +255,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_4",
+    chapter: 4,
     number: 8,
     sloka: [
       "आकालतत्त्वमश्रान्तं आत्मनामनुपश्यतां",
@@ -289,7 +289,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_4",
+    chapter: 4,
     number: 9,
     sloka: [
       "प्रायस्स्वचरणौ पुंसां शरण्यत्वेन पाणिना",
@@ -322,7 +322,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_4",
+    chapter: 4,
     number: 10,
     sloka: [
       "दयामृत तरङ्गिण्यास्तरङ्गैरिव शीतलैः",
@@ -356,7 +356,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_4",
+    chapter: 4,
     number: 11,
     sloka: [
       "स्रग्भूषाम्बरहेतीनां सुषमावहमूर्तये",
@@ -397,7 +397,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_4",
+    chapter: 4,
     number: 12,
     sloka: [
       "श्रीवैकुण्ठविरक्ताय स्वामिपुष्करिणीतटे",
@@ -432,7 +432,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_4",
+    chapter: 4,
     number: 13,
     sloka: [
       "श्रीमत्सुन्दरजामातृमुनिमानसवासिने",
@@ -470,7 +470,7 @@ const verses = [
     ],
   },
   {
-    chapter: "SVS_4",
+    chapter: 4,
     number: 14,
     sloka: [
       "मङ्गलाशासनपरैर्मदाचार्य पुरोगमैः",
