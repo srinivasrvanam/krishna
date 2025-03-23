@@ -31,8 +31,8 @@ function BG() {
                 <div className="w-full h-screen">
                   <h1 className="text-3xl text-center pt-5"> Bhagavad Gita {chapter_num}-{verse_num}</h1>
                   <div className="flex justify-center gap-2 mt-2 py-4">
-                    {prevVerse && prevVerse.number && <Link to={`/BG/2/${prevVerse.number}`} className="bg-yellow-500 dark:text-gray-900 px-4 py-0.5 rounded-full shadow-lg hover:bg-yellow-400 focus:outline-none transition duration-300 cursor-pointer">Prev - {prevVerse.number}</Link>}
-                    {nextVerse && nextVerse.number && <Link to={`/BG/2/${nextVerse.number}`} className="bg-yellow-500 dark:text-gray-900 px-4 py-0.5 rounded-full shadow-lg hover:bg-yellow-400 focus:outline-none transition duration-300 cursor-pointer">Next - {nextVerse.number}</Link>}
+                    {prevVerse && prevVerse.number && <Link to={`/BG/2/${prevVerse.number}`} className="sv-btn">Prev - {prevVerse.number}</Link>}
+                    {nextVerse && nextVerse.number && <Link to={`/BG/2/${nextVerse.number}`} className="sv-btn">Next - {nextVerse.number}</Link>}
                   </div>
                   <Verse verse={verses.find(verse => verse.number === Number(verse_num))} />
                 </div>
