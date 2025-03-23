@@ -14,32 +14,29 @@ const Section = ({type, lines}) => {
     }
 
 
-    if (type === "transl" || type === "notes") {
+    if (type === "transl" || type === "notes" || type === "anvaya") {
         return (
-            <div className="card">
-              <div className="card-body"></div>
-                <h4 className="card-title">{heading}</h4>
-                <ul>
-                    {lines.map((item, index) => (
-                    <li key={index}>{item}</li>
-                    ))}
-                </ul>
-            </div>
+          <div className="shadow-lg rounded-lg p-6 max-w-2xl w-full">
+            <h4 className="text-2xl font-semibold text-center text-gray-800 dark:text-gray-100 mb-4">{heading}</h4>
+            <ul className="text-gray-800 dark:text-gray-200 list-disc list-outside">
+                {lines.map((item, index) => (
+                <li key={index}>{item}</li>
+                ))}
+            </ul>
+          </div>
         );
       }
       else{
         return (
-            <div className="card">
-              <div className="card-body" style={{fontSize: "20px", fontWeight: "bold"}}>
-                <h4 className="card-title"  style={{fontSize: "24px", fontWeight: "bold"}}>{heading}</h4>
-                <div className={type}> {/* Currently used to make sloka bold and bigger font */}
-                    {lines.map((line,index) => (
-                        <div key={index}>{line}</div>
-                    ))}
-                </div>
-              </div>
+          <div className="shadow-lg rounded-lg p-6 max-w-2xl w-full">
+            <h4 className="text-2xl font-semibold text-center text-gray-800 dark:text-gray-100 mb-4">{heading}</h4>
+            <div className="text-gray-600 dark:text-gray-200 text-center text-2xl"> 
+                {lines.map((line,index) => (
+                    <div key={index}>{line}</div>
+                ))}
             </div>
-            );
+          </div>
+        );
       }
     
     
