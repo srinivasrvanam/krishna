@@ -5,20 +5,26 @@ import { Link } from "react-router-dom";
 import Section from "./Section";
 
 const Verse = ({ verse, compact }) => {
+  /* Compact Display */
   if(compact === "true"){
     return(
       <div className="border-t-2 border-gray-300 dark:border-gray-700 py-8 mb-4">
-        <div className="grid grid-cols-3 gap-4">
-          <div className="text-2xl text-center font-bold pb-3">
-            {verse.number}<br />
-            <Link to={`/svs/${verse.chapter}/${verse.number}`} className="text-blue-500 hover:text-blue-700">Full Details</Link>
+        <div className="flex flex-col md:flex-row">
+          <div className="w-full md:w-1/10 text-2xl text-center font-bold pb-3">
+            <Link to={`/svs/${verse.chapter}/${verse.number}`} className="text-blue-500 hover:text-blue-700">{verse.number}</Link>
           </div>
-          <Section type="sloka" lines={verse.sloka} />
-          <Section type="transl" lines={verse.transl} />
+          <div className="w-full md:w-4/10 text-xl text-center font-bold pb-3">
+            <Section type="sloka" lines={verse.sloka} />
+          </div>          
+          <div className="w-full md:w-6/10 text-lg text-center pb-3">
+            <Section type="transl" lines={verse.transl} />
+          </div>          
         </div>
       </div>
     )
   }
+
+  /* Full Display */
   return (
       <div className="border-t-2 border-gray-300 dark:border-gray-700 py-8 mb-4">
         <div className="text-2xl text-center font-bold pb-3">{verse.number}</div>

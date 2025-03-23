@@ -1,0 +1,77 @@
+
+import { useParams } from "react-router-dom";
+import Verse from "../display/Verse";
+import { Link } from "react-router-dom";
+import verses1 from '../../content/svs/svs_1';
+import verses2 from '../../content/svs/svs_2';
+import verses3 from '../../content/svs/svs_3';
+import verses4 from '../../content/svs/svs_4';
+
+function SVSVerse() {
+    const { chapter_num, verse_num } = useParams();
+
+    console.log('SV: chapter_num: '+chapter_num);
+    console.log('SV: verse_num: '+verse_num);
+    
+    if(chapter_num !== undefined && chapter_num >= 1 && chapter_num <=4 && verse_num !== undefined){
+      let verses = [];  
+      let title = '';
+      switch(Number(chapter_num)){
+            case 1:
+              verses = verses1;
+              title = "Suprabhatham - सुप्रभातम्";
+              break;
+            case 2:
+              verses = verses2;
+              title = "Stotram - स्तोत्रम्";
+              break;
+            case 3:
+              verses = verses3;
+              title = "Prapatti - प्रपत्तिः";
+              break;
+            case 4:
+              verses = verses4;
+              title = "Mangalaashasanam - मङ्गलाशासनम्";
+                break;
+            default:
+                verses = [];
+        }
+        const verse = verses.find(verse => verse.number === Number(verse_num));
+        console.log('SV: verse: '+verse);
+
+        // To get Prev and Next Sloka numbers dynamically
+        const sortedArray = verses.sort((a,b) => a.number - b.number);
+        const targetIndex = sortedArray.findIndex(verse => verse.number === Number(verse_num));
+        const prevVerse = targetIndex > 0 ? sortedArray[targetIndex-1] : undefined;
+        const nextVerse = targetIndex < sortedArray.length - 1 ? sortedArray[targetIndex+1] : undefined;
+        if(prevVerse !== undefined){
+            console.log('SV: prev Verse Num: '+prevVerse.number);
+        } 
+        if(nextVerse !== undefined){
+            console.log('SV: next Verse Num: '+nextVerse.number);
+        }
+
+        if(verse !== undefined){
+            return (
+                <div className="w-full h-full">
+                  <h1 className="text-3xl text-center pt-5">{title} - {verse_num}</h1>
+                  <div className="flex flex-wrap justify-center gap-2 mt-2 py-4">
+                    {prevVerse && prevVerse.number && <Link to={`/svs/${chapter_num}/${prevVerse.number}`} className="sv-btn">Prev - {prevVerse.number}</Link>}
+                    {nextVerse && nextVerse.number && <Link to={`/svs/${chapter_num}/${nextVerse.number}`} className="sv-btn">Next - {nextVerse.number}</Link>}
+                  </div>
+                  <Verse verse={verses.find(verse => verse.number === Number(verse_num))} />
+                    <br />
+                    <br />
+                </div>
+            );
+        }
+    }
+
+    return (
+        <div>
+            <h1>Incorrect Chapter/Sloka Number - Sloka NOT found</h1>
+        </div>
+    );
+}
+ 
+export default SVSVerse;
