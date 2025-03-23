@@ -1,7 +1,11 @@
+import { useState } from "react";
 import { Link } from "react-router-dom";
+import { FiMenu, FiX } from "react-icons/fi"; // Import icons for the menu
 import DarkMode from "../utility/DarkMode";
 
 const Navbar = () => {
+  const [isOpen, setIsOpen] = useState(false); // Used for hamburger menu
+
   return (
     <nav className="sticky top-0 bg-blue-200 dark:bg-gray-800 shadow-lg border-b-2 border-blue-500 dark:border-yellow-700">
       <div className="container mx-auto px-6 py-3 flex justify-between items-center">
@@ -9,7 +13,7 @@ const Navbar = () => {
         {/* Site Name */}
         <Link to="/" className="text-2xl font-bold">Krishna</Link>
 
-        {/* Center Action Buttons */}
+        {/* Center Action Buttons (Visible on md and larger) */}
         <div className="hidden md:flex space-x-6">
           <Link to="/SVS_1" className="sv-btn-nav">SV-सुप्रभातम्</Link>
           <Link to="/SVS_2" className="sv-btn-nav">SV-स्तोत्रम्</Link>
@@ -18,13 +22,31 @@ const Navbar = () => {
           <Link to="/BG" className="sv-btn-nav">Bhagavad Gita</Link>
         </div>
 
+        {/* Hamburger Menu (Visible on small screens) */}
+        <div className="md:hidden">
+          <button onClick={() => setIsOpen(!isOpen)}>
+            {isOpen ? <FiX size={28} /> : <FiMenu size={28} />}
+          </button>
+        </div>
+
         {/* Dark Mode Toggle */}
-        <div className="px-4 py-1 text-2xl rounded-xl bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 cursor-pointer" >
+        <div className="px-4 py-1 text-2xl rounded-xl bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 cursor-pointer">
           <DarkMode />
         </div>
 
       </div>
-    </nav>
+
+      {/* Mobile Menu (Dropdown) */}
+      {isOpen && (
+        <ul className="md:hidden bg-gray-700 p-4 space-y-4 text-center">
+          <li className="sv-btn-nav"><Link to="/SVS_1">SV-सुप्रभातम्</Link></li>
+          <li className="sv-btn-nav"><Link to="/SVS_2">SV-स्तोत्रम्</Link></li>
+          <li className="sv-btn-nav"><Link to="/SVS_3">SV-प्रपत्ति</Link></li>
+          <li className="sv-btn-nav"><Link to="/SVS_4">SV-मङ्गलाशासनम्</Link></li>
+          <li className="sv-btn-nav"><Link to="/BG">Bhagavad Gita</Link></li>
+        </ul>
+      )}
+    </nav>    
   );
 };
 
