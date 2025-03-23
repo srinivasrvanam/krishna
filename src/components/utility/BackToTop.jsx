@@ -4,18 +4,10 @@ const BackToTop = () => {
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
-  const backToTop = {
-    position: "sticky",
-    bottom: "10%",
-    right: "5%",
-    float: "right"
-  }
-
   return (
     <button
       onClick={scrollToTop}
-      className="btn btn-warning btn-sm"
-      style={backToTop}
+      className="fixed bottom-15 right-10 bg-yellow-500 dark:text-white px-4 py-2 rounded-full shadow-lg hover:bg-yellow-400 focus:outline-none transition duration-300 cursor-pointer"
     >
       ↑ Back to Top
     </button>
