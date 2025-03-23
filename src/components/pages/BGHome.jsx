@@ -10,7 +10,7 @@ function BGHome() {
     
     return (
     <div>
-      <h1> Bhagavad Gita Chapter 2 </h1>
+      <h1 className="text-black dark:text-white bg-white dark:bg-black"> Bhagavad Gita Chapter 2 </h1>
       <div className="d-flex justify-content-center gap-3 mt-5">
         {verseNumbersArray.map((verseNum,index) => (
           <Link key={index} to={`/BG/2/${verseNum}`} className="btn btn-warning">{verseNum}</Link>
