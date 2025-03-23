@@ -35,7 +35,7 @@ function DarkMode() {
   }
 
   return (
-    <button onClick={toggleTheme} className="px-4 py-2 rounded-xl text-4xl bg-orange-50 dark:bg-orange-900">            
+    <button onClick={toggleTheme} className="cursor-pointer">
         <span id="theme-icon">{darkModeIcon}</span> 
     </button>
   );

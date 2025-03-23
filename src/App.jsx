@@ -10,15 +10,12 @@ import BG from "./components/pages/BG";
 import Navbar from "./components/display/Navbar";
 import Footer from "./components/display/Footer";
 import BackToTop from "./components/utility/BackToTop";
-import DarkMode from "./components/utility/DarkMode";
+// import DarkMode from "./components/utility/DarkMode";
 
 const Layout = ({ children }) => {
   return (
     <>
-      <DarkMode />
-      <h1 className="text-3xl font-bold underline text-red-500 dark:text-white dark:bg-gray-800">
-      Hello world!
-    </h1>
+      {/* <DarkMode /> */}
       <Navbar /> {/* Navbar stays fixed across all pages */}
       <div>{children}</div> {/* This part changes */}
       <Footer />
