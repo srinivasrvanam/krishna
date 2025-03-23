@@ -3,7 +3,7 @@ import SVSLinks from "../utility/SVSLinks";
 
 function SVSHome() {
   return (
-    <div className="w-full h-screen">
+    <div className="w-full h-full md:h-screen">
       <br />
       <div className="text-4xl text-center">Sri Venkateswara Suprabhatham </div>
       <br /><br />
