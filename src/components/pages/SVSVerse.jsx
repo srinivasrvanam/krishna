@@ -6,6 +6,7 @@ import verses1 from '../../content/svs/svs_1';
 import verses2 from '../../content/svs/svs_2';
 import verses3 from '../../content/svs/svs_3';
 import verses4 from '../../content/svs/svs_4';
+import Breadcrumbs from "../utility/Breadcrumbs";
 
 function SVSVerse() {
     const { chapter_num, verse_num } = useParams();
@@ -55,6 +56,9 @@ function SVSVerse() {
             return (
                 <div className="w-full h-full">
                   <h1 className="text-3xl text-center pt-5">{title} - {verse_num}</h1>
+                  <div>
+                    <Breadcrumbs />
+                  </div>
                   <div className="flex flex-wrap justify-center gap-2 mt-2 py-4">
                     {prevVerse && prevVerse.number && <Link to={`/svs/${chapter_num}/${prevVerse.number}`} className="sv-btn">Prev - {prevVerse.number}</Link>}
                     {nextVerse && nextVerse.number && <Link to={`/svs/${chapter_num}/${nextVerse.number}`} className="sv-btn">Next - {nextVerse.number}</Link>}

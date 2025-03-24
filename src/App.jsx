@@ -9,6 +9,7 @@ import BG from "./components/pages/BG";
 import Navbar from "./components/display/Navbar";
 import Footer from "./components/display/Footer";
 import BackToTop from "./components/utility/BackToTop";
+import Breadcrumbs from "./components/utility/Breadcrumbs";
 
 const Layout = ({ children }) => {
   return (
@@ -32,6 +33,7 @@ function App() {
           <Route path="/svs/:chapter_num/:verse_num" element={<SVSVerse />} />
           <Route path="/bg" element={<BGHome />} />
           <Route path="/bg/:chapter_num/:verse_num" element={<BG />} />
+          <Route path="/:topic_name/:chapter_num/:verse_num" element={<Breadcrumbs />} />
         </Routes>
       </Layout>
     </Router>
