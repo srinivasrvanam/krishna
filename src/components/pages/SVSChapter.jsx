@@ -35,10 +35,12 @@ function SVSChapter() {
       <>
         <div className="text-4xl text-center pt-5">{title}</div>
         <br />
-        <div className="text-lg text-center px-5">Please click on Sloka # to see full details of that Sloka!</div>
+        <div className="text-lg text-center px-5">Please click on the Sloka to see full details of that Sloka!</div>
         <Chapter verses={verses} compact="true" />
         {/* compact="true" says to display only Sloka & Translation, If false, all sections are displayed */}
         {/* In future will be updated to display based on toggles */}
+        <br /><br />
+        <br />
       </>
     );
   }
