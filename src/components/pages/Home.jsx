@@ -6,8 +6,17 @@ const Home = () => {
         This site contains Sloka Study from Sri Venkateswara Suprabhatham,
         Bhagavad Gita
         <br /><br />
-        <div className="flex flex-row justify-center"> 
-          <img src="https://www.tallengestore.com/cdn/shop/files/SriTirupatiVenkateswaraSwamy_Balaji_Painting_large.jpg?v=1694996304" />
+        <div className="flex flex-col align-center justify-around h-[60vh] w-[90%] md:w-[80%] lg:w-[60%] mx-auto"> 
+          {/* <img src="https://www.tallengestore.com/cdn/shop/files/SriTirupatiVenkateswaraSwamy_Balaji_Painting_large.jpg?v=1694996304" /> */}
+          <div className="text-xl bg-gray-100 dark:bg-gray-800 rounded-lg p-4">
+           || B.G. 4.38 || <br />
+            न हि ज्ञानेन सदृशं पवित्रमिह विद्यते | <br />
+            तत्स्वयं योगसंसिद्ध: कालेनात्मनि विन्दति ||
+          </div>
+
+          <div className="text-lg bg-gray-100 dark:bg-gray-800  rounded-lg p-4">
+          In this world, there is nothing as purifying as divine knowledge. One who has attained purity of mind through prolonged practice of Yog, receives such knowledge within the heart, in due course of time.
+          </div>
         </div>
       </div>
     </div>

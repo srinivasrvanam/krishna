@@ -35,7 +35,7 @@ const Navbar = () => {
 
       {/* Mobile Menu (Dropdown) */}
       {isOpen && (
-        <ul className="md:hidden bg-gray-700 p-4 space-y-4 text-center">
+        <ul className="md:hidden bg-blue-100 dark:bg-gray-700 p-4 space-y-4 text-center">
           <li className="sv-btn-nav"><Link to="/svs">Suprabhatham</Link></li>
           <li className="sv-btn-nav"><Link to="/bg">Bhagavad Gita</Link></li>
         </ul>

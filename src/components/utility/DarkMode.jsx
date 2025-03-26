@@ -1,7 +1,7 @@
 function DarkMode() {
 
   let darkModeIcon;
-  localStorage.removeItem("theme"); // Going with system mode by default
+  // localStorage.removeItem("theme"); // Going with system mode by default
   const theme = localStorage.getItem("theme") || "system";
 
   applyTheme(theme);
