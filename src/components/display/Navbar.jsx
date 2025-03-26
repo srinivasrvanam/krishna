@@ -1,10 +1,22 @@
-import { useState } from "react";
+import { useState, useRef, useEffect } from "react";
 import { Link } from "react-router-dom";
 import { FiMenu, FiX } from "react-icons/fi"; // Import icons for the menu
 import DarkMode from "../utility/DarkMode";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false); // Used for hamburger menu
+  const menuRef = useRef(null);
+
+  // Close menu when clicking outside
+  useEffect(() => {
+    function handleClickOutside(event) {
+      if (menuRef.current && !menuRef.current.contains(event.target)) {
+        setIsOpen(false);
+      }
+    }
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => document.removeEventListener("mousedown", handleClickOutside);
+  }, []);
 
   return (
     <nav className="sticky top-0 bg-blue-200 dark:bg-gray-800 shadow-lg border-b-2 border-blue-500 dark:border-yellow-700">
@@ -36,10 +48,10 @@ const Navbar = () => {
 
       {/* Mobile Menu (Dropdown) */}
       {isOpen && (
-        <ul className="md:hidden bg-blue-100 dark:bg-gray-700 p-4 space-y-4 text-center">
-          <li className="sv-btn-nav"><Link to="/">Home</Link></li>
-          <li className="sv-btn-nav"><Link to="/svs">Suprabhatham</Link></li>
-          <li className="sv-btn-nav"><Link to="/bg">Bhagavad Gita</Link></li>
+        <ul ref={menuRef} className="md:hidden bg-blue-100 dark:bg-gray-700 p-4 space-y-4 text-center">
+          <li className="sv-btn-nav"><Link to="/" onClick={() => setIsOpen(false)}>Home</Link></li>
+          <li className="sv-btn-nav"><Link to="/svs" onClick={() => setIsOpen(false)}>Suprabhatham</Link></li>
+          <li className="sv-btn-nav"><Link to="/bg" onClick={() => setIsOpen(false)}>Bhagavad Gita</Link></li>
         </ul>
       )}
     </nav>    
