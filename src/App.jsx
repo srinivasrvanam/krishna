@@ -1,5 +1,6 @@
 import "./App.css";
 import { HashRouter as Router, Routes, Route } from "react-router-dom";
+import ScrollToTop from "./components/utility/ScrollToTop"; 
 import Home from "./components/pages/Home";
 import SVSHome from "./components/pages/SVSHome";
 import SVSChapter from "./components/pages/SVSChapter";
@@ -26,6 +27,7 @@ function App() {
   return (
     <Router>
       <Layout>
+      <ScrollToTop />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/svs" element={<SVSHome />} />
