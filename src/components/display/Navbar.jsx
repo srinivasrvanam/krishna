@@ -48,7 +48,7 @@ const Navbar = () => {
 
       {/* Mobile Menu (Dropdown) */}
       {isOpen && (
-        <ul ref={menuRef} className="md:hidden bg-blue-100 dark:bg-gray-700 p-4 space-y-4 text-center">
+        <ul ref={menuRef} className="absolute w-full md:hidden bg-blue-100 dark:bg-gray-700 p-4 space-y-4 text-center z-50">
           <li className="sv-btn-nav"><Link to="/" onClick={() => setIsOpen(false)}>Home</Link></li>
           <li className="sv-btn-nav"><Link to="/svs" onClick={() => setIsOpen(false)}>Suprabhatham</Link></li>
           <li className="sv-btn-nav"><Link to="/bg" onClick={() => setIsOpen(false)}>Bhagavad Gita</Link></li>
