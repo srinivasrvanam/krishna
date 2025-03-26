@@ -15,6 +15,7 @@ const Navbar = () => {
 
         {/* Center Action Buttons (Visible on md and larger) */}
         <div className="hidden md:flex space-x-6">
+        <Link to="/" className="sv-btn-nav">Home</Link>
           <Link to="/svs" className="sv-btn-nav">Suprabhatham</Link>
           <Link to="/bg" className="sv-btn-nav">Bhagavad Gita</Link>
         </div>
@@ -36,6 +37,7 @@ const Navbar = () => {
       {/* Mobile Menu (Dropdown) */}
       {isOpen && (
         <ul className="md:hidden bg-blue-100 dark:bg-gray-700 p-4 space-y-4 text-center">
+          <li className="sv-btn-nav"><Link to="/">Home</Link></li>
           <li className="sv-btn-nav"><Link to="/svs">Suprabhatham</Link></li>
           <li className="sv-btn-nav"><Link to="/bg">Bhagavad Gita</Link></li>
         </ul>
