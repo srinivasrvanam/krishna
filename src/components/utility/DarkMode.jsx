@@ -3,7 +3,8 @@ function DarkMode() {
   let darkModeIcon;
   // localStorage.removeItem("theme"); // Going with system mode by default
   // const theme = localStorage.getItem("theme") || "system"; // 3-way toggle
-  const theme = localStorage.getItem("theme") || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+  let theme = localStorage.getItem("theme");
+  theme = (theme === "light" || theme === "dark") ? theme : (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
 
   applyTheme(theme);
 
