@@ -2,7 +2,8 @@ function DarkMode() {
 
   let darkModeIcon;
   // localStorage.removeItem("theme"); // Going with system mode by default
-  const theme = localStorage.getItem("theme") || "system";
+  // const theme = localStorage.getItem("theme") || "system"; // 3-way toggle
+  const theme = localStorage.getItem("theme") || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
 
   applyTheme(theme);
 
@@ -16,10 +17,10 @@ function DarkMode() {
     } else if (mode === "dark") {
         root.classList.add("dark");
         darkModeIcon = "🌙"; // Dark Mode Icon
-    } else {
+    }/* else { // 3-way toggle
         root.classList.toggle("dark", window.matchMedia("(prefers-color-scheme: dark)").matches);
         darkModeIcon = "🖥️"; // System Mode Icon
-    }
+    }*/
     if(icon) {
         icon.innerHTML = darkModeIcon;
     }
@@ -29,7 +30,9 @@ function DarkMode() {
   function toggleTheme() {
     const current = localStorage.getItem("theme") || "system";
     // console.log(`Current theme: ${current}`);
-    const nextMode = current === "light" ? "dark" : current === "dark" ? "system" : "light";
+    // 3-way toggle
+    // const nextMode = current === "light" ? "dark" : current === "dark" ? "system" : "light";
+    const nextMode = current === "light" ? "dark" : "light";
     // console.log(`Next theme: ${nextMode}`);
     applyTheme(nextMode);
   }
