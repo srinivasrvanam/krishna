@@ -28,9 +28,9 @@ const Section = ({type, lines, compact}) => {
       }
       else{
         return (
-          <div className="shadow-lg rounded-lg p-4 min-w-max bg-gray-100 dark:bg-gray-800">
+          <div className="shadow-lg rounded-lg md:p-4 bg-gray-100 dark:bg-gray-800">
             {compact!=="true" && <h4 className="text-2xl font-semibold text-center text-gray-800 dark:text-gray-100 mb-4">{heading}</h4>}
-            <div className="text-gray-600 dark:text-gray-200 text-center text-xl"> 
+            <div className="text-gray-600 dark:text-gray-200 text-center text-lg"> 
                 {lines.map((line,index) => (
                     <div key={index}>{line}</div>
                 ))}

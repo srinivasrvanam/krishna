@@ -9,8 +9,8 @@ const Verse = ({ verse, compact }) => {
   if(compact === "true"){
     return(
       <div className="border-gray-300 dark:border-gray-700 py-2">
-        <div className="flex flex-col md:flex-row justify-center">
-          <div className="text-xl text-center font-bold">
+        <div className="flex flex-col align-center w-[90%] md:w-[80%] lg:w-[60%] mx-auto">
+          <div className="text-center">
             <Link to={`/svs/${verse.chapter}/${verse.number}`} className="text-blue-500 hover:text-blue-700">
               <Section type="sloka" lines={verse.sloka} compact={compact} />
             </Link>
