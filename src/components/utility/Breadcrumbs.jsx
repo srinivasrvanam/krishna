@@ -5,10 +5,10 @@ const Breadcrumbs = () => {
   const pathSegments = location.pathname.split("/").filter(Boolean);
 
   return (
-    <nav className="text-gray-600 text-sm">
-      <ol className="flex items-center space-x-2">
+    <nav>
+      <ol className="flex w-[100%] md:w-[80%] lg:w-[70%] mx-auto">
         <li>
-          <Link to="/" className="dark:text-gray-200 hover:text-yellow-500">
+          <Link to="/" className="sv-btn-nav pl-2">
             Home
           </Link>
         </li>
@@ -20,7 +20,7 @@ const Breadcrumbs = () => {
           let title = '';
           switch(segment){
             case 'svs':
-              title = "Sri Venkateswara";
+              title = "Venkateswara";
               break;
             case 'bg':
               title = "Bhagavad Gita";
@@ -42,12 +42,12 @@ const Breadcrumbs = () => {
               break;
           }
           return (
-            <li key={path} className="flex items-center">
-              <span className="mx-2">&gt;</span>
+            <li key={path} className="flex pl-2">
+              {isLast===false && <span className="mx-1 pr-2">&gt;</span>}
               {isLast ? (
-                <span className="text-gray-800 font-semibold">{segment}</span>
+                <span>{/*segment*/}</span>
               ) : (
-                <Link to={path} className="dark:text-gray-200 hover:text-yellow-500">
+                <Link to={path} className="sv-btn-nav">
                   {title}
                 </Link>
               )}

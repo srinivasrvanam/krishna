@@ -35,7 +35,6 @@ function SVSChapter() {
     return (
       <>
         <div className="text-4xl text-center pt-5">{title}</div>
-        <br />
         <div>
           <Breadcrumbs />
         </div>
