@@ -32,8 +32,9 @@ function BG() {
         if(verse !== undefined){
             return (
                 <div className="w-full h-screen">
-                  <h1 className="text-3xl text-center pt-5"> Bhagavad Gita {chapter_num}-{verse_num}</h1>
+                  {/* <h1 className="text-3xl text-center pt-5"> Bhagavad Gita {chapter_num}-{verse_num}</h1> */}
                   <div>
+                    <br />
                     <Breadcrumbs />
                   </div>
                   <div className="flex flex-wrap justify-center gap-2 mt-2 py-4">

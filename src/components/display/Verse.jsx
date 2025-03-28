@@ -23,7 +23,7 @@ const Verse = ({ verse, type, compact }) => {
   /* Full Display */
   return (
       <div className="border-t-2 border-gray-300 dark:border-gray-700 py-8 mb-4">
-        <div className="text-2xl text-center font-bold pb-3">{verse.number}</div>
+        <div className="text-2xl text-center font-bold pb-3">{verse.chapter} - {verse.number}</div>
         <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 gap-4">
           <Section type="sloka" lines={verse.sloka} />
           <Section type="vicheda" lines={verse.vicheda} />

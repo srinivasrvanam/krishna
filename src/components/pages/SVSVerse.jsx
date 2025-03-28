@@ -55,8 +55,9 @@ function SVSVerse() {
         if(verse !== undefined){
             return (
                 <div className="w-full h-full">
-                  <h1 className="text-3xl text-center pt-5">{title} - {verse_num}</h1>
+                  {/* <h1 className="text-3xl text-center pt-5">{title} - {verse_num}</h1> */}
                   <div>
+                    <br />
                     <Breadcrumbs />
                   </div>
                   <div className="flex flex-wrap justify-center gap-2 mt-2 py-4">
