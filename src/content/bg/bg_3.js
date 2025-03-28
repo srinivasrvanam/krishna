@@ -1,6 +1,6 @@
 const verses = [
   {
-    chapter : 'BG_3',
+    chapter : 3,
     number  : 47,
     sloka   : [
       'श्रीभगवानुवाच',
