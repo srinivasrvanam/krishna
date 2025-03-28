@@ -49,7 +49,7 @@ function SVSChapter() {
   }
 
   return (
-      <div className="w-full h-screen">
+      <div className="w-full">
           <h1>Incorrect Chapter - Chapter NOT found</h1>
       </div>
   );

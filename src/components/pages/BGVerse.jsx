@@ -31,7 +31,7 @@ function BG() {
 
         if(verse !== undefined){
             return (
-                <div className="w-full h-screen">
+                <div className="w-full">
                   {/* <h1 className="text-3xl text-center pt-5"> Bhagavad Gita {chapter_num}-{verse_num}</h1> */}
                   <div>
                     <br />
