@@ -1,11 +1,11 @@
 import Verse from "./Verse";
 
-const Chapter = ({verses, compact}) => {
+const Chapter = ({verses, type, compact}) => {
   console.log('SV: compact:', compact);
     return (
             <>
                 {verses.map((verse,index) => (
-                    <Verse key={index} verse={verse} compact={compact} />
+                    <Verse key={index} verse={verse} type={type} compact={compact} />
                 ))}
             </>
         );

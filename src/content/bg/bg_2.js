@@ -1,6 +1,6 @@
 const verses = [
     {
-        chapter : 'BG_2',
+        chapter : 2,
         number  : 11,
         sloka   : [
           'श्रीभगवानुवाच',
@@ -35,7 +35,7 @@ const verses = [
         ],
       },      
       {
-        chapter : 'BG_2',
+        chapter : 2,
         number  : 12,
         sloka   : [
           'न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपाः |',
@@ -62,7 +62,7 @@ const verses = [
         ],
       },
       {
-        chapter : 'BG_2',
+        chapter : 2,
         number  : 13,
         sloka   : [
           "देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा |",
@@ -85,7 +85,7 @@ const verses = [
         ],
       },
       {
-        chapter : 'BG_2',
+        chapter : 2,
         number  : 14,
         sloka   : [
           "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदु:खदा: |",
@@ -110,7 +110,7 @@ const verses = [
         ],
       },
       {
-        chapter : 'BG_2',
+        chapter : 2,
         number  : 15,
         sloka   : [
           "यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ |",
@@ -134,7 +134,7 @@ const verses = [
         ],
       },
       {
-        chapter : 'BG_2',
+        chapter : 2,
         number  : 16,
         sloka   : [
           "नासतो विद्यते भावो नाभावो विद्यते सत: |",
@@ -166,7 +166,7 @@ const verses = [
         ],
       },
       {
-        chapter : 'BG_2',
+        chapter : 2,
         number  : 17,
         sloka   : [
           "अविनाशि तु तद्विद्धि येन सर्वमिदं ततम् |",
@@ -194,7 +194,7 @@ const verses = [
         ],
       },
       {
-        chapter : 'BG_2',
+        chapter : 2,
         number  : 18,
         sloka   : [
           "अन्तवन्त इमे देहा नित्यस्योक्ता: शरीरिण: |",
@@ -224,7 +224,7 @@ const verses = [
         ],
       },
       {
-        chapter : 'BG_2',
+        chapter : 2,
         number  : 19,
         sloka   : [
           "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम् |",

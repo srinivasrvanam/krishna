@@ -1,7 +1,7 @@
 /**
  * Represents each section of a Sloka
  */
-const Section = ({type, lines, compact}) => {
+const Section = ({type, lines, compact, ch_num, verse_num}) => {
 
     let heading = '';
     switch(type){
@@ -30,6 +30,7 @@ const Section = ({type, lines, compact}) => {
         return (
           <div className="shadow-lg rounded-lg py-2 md:p-4 bg-gray-100 dark:bg-gray-800">
             {compact!=="true" && <h4 className="text-2xl font-semibold text-center text-gray-800 dark:text-gray-100 mb-4">{heading}</h4>}
+            {verse_num && <div className="text-lg font-semibold text-center text-gray-800 dark:text-gray-100">{ch_num} - {verse_num}</div>}
             <div className="text-gray-600 dark:text-gray-200 text-center text-lg"> 
                 {lines.map((line,index) => (
                     <div key={index}>{line}</div>

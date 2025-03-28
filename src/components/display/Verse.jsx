@@ -4,15 +4,15 @@
 import { Link } from "react-router-dom";
 import Section from "./Section";
 
-const Verse = ({ verse, compact }) => {
+const Verse = ({ verse, type, compact }) => {
   /* Compact Display */
   if(compact === "true"){
     return(
       <div className="border-gray-300 dark:border-gray-700 py-2">
         <div className="flex flex-col align-center w-[90%] md:w-[80%] lg:w-[60%] mx-auto">
           <div className="text-center">
-            <Link to={`/svs/${verse.chapter}/${verse.number}`} className="text-blue-500 hover:text-blue-700">
-              <Section type="sloka" lines={verse.sloka} compact={compact} />
+            <Link to={`/${type}/${verse.chapter}/${verse.number}`} className="text-blue-500 hover:text-blue-700">
+              <Section type="sloka" lines={verse.sloka} compact={compact} ch_num={verse.chapter} verse_num={verse.number} />
             </Link>
           </div>          
         </div>
