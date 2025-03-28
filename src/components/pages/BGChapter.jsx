@@ -39,7 +39,7 @@ function BGChapter() {
     }
       
     return (
-      <div className="w-full h-screen">
+      <div className="w-full min-h-screen">
         <div className="text-4xl text-center pt-5">{title}</div>
         <div>
           <Breadcrumbs />
