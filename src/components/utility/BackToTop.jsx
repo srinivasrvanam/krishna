@@ -15,12 +15,12 @@ const BackToTop = () => {
     };
   }, []); // [] (dependency array) indicates the useEffect runs only once when the component mounts
 
-  /* Jumps to an absolute position */
+  /* Smooth scroll to top - with same speed */
   const scrollToTop = () => {
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
-  /* Smooth scroll to top */
+  /* Smooth scroll to top - with reduced speed like a car break */
   const smoothScrollToTop = () => {
     let currentScroll = window.scrollY;
 
