@@ -1,37 +1,38 @@
 const verses = [
   {
     chapter : 3,
-    number  : 47,
+    number  : 22,
     sloka   : [
-      'श्रीभगवानुवाच',
-      'अशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे |',
-      'गतासूनगतासूंश्च नानुशोचन्ति पण्डिता: ||'
+      'न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन |',
+      'नानवाप्तमवाप्तव्यं वर्त एव च कर्मणि ||'
     ],
     vicheda : [
-      'श्रीभगवान् उवाच',
-      'अशोच्यान् अन्वशोचः त्वं प्रज्ञावादान् च भाषसे |',
-      'गतासून् अगतासूंन् च न अनुशोचन्ति पण्डिता: ||'
+      'न मे पार्थ अस्ति कर्तव्यं त्रिषु लोकेषु किञ्चन |',
+      'न अनवाप्तम् अवाप्तव्यं वर्ते एव च कर्मणि ||'
     ],
     anvaya  : [
-      'श्रीभगवान् उवाच',
-      'त्वं (अशोच्यान् अन्वशोचः) च (प्रज्ञावादान् भाषसे) |',
-      'पण्डिता: गतासून् अगतासूंन् च न अनुशोचन्ति ||'
+      'पार्थ! मे किञ्चन कर्तव्यं त्रिषु लोकेषु न अस्ति।',
+      'मम अनवाप्तम् अवाप्तव्यं न (अस्ति)।',
+      'अहं कर्मणि एव वर्ते च।'
     ],
     transl  : [
-      "The Supreme Lord said: You grieve for those who should not be grieved for, and yet you speak words of wisdom. The wise, who know the truth, do not lament for the living or the dead.", 
+      "O Pārtha (Arjuna), there is no duty whatsoever for me in all the three worlds. There is nothing unattained or yet to be attained by me. Yet, I remain engaged in action.", 
     ],
     notes   : [
-        "अशोच्यानन्वशोचस्त्वं = अशोच्यान् + अन्वशोचः + त्वं --- ?? सन्धिः",
-        "प्रज्ञावादांश्च = प्रज्ञावादान् + च --- ?? सन्धिः",
-        "गतासूनगतासूंश्च = गतासून् + अगतासूंन् + च --- ?? सन्धिः",
-        "नानुशोचन्ति = न + अनुशोचन्ति --- सवर्ण धीर्घ सन्धिः",
-        "अशोच्यान् =",
-        "अन्वशोचः =",
-        "प्रज्ञावादान् =",
-        "भाषसे =",
-        "गतासून् =",
-        "अगतासूंन् =",
-        "अनुशोचन्ति =",
+      "न (na) = Not",
+      "मे (me) = For me",
+      "पार्थ (Pārtha) = O Arjuna (Son of Pritha)",
+      "अस्ति (asti) = There is",
+      "कर्तव्यं (kartavyam) = Any duty (obligation)",
+      "त्रिषु लोकेषु (triṣu lokeṣu) = In the three worlds",
+      "किञ्चन (kiñcana) = Anything (at all)",
+      "न (na) = Not",
+      "अनवाप्तम् (anavāptam) = Unattained (something yet to be acquired)",
+      "अवाप्तव्यं (avāptavyam) = That which needs to be attained",
+      "वर्ते (varte) = I engage",
+      "एव (eva) = Indeed",
+      "च (cha) = And",
+      "कर्मणि (karmaṇi) = In action"
     ],
   }
 ];
