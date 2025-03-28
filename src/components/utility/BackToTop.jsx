@@ -1,16 +1,12 @@
 import { useState, useEffect } from "react";
 
 const BackToTop = () => {
-  const [showButton, setShowButton] = useState(true);
+  const [showButton, setShowButton] = useState(false);
 
   // Handle scroll event
   useEffect(() => {
     const handleScroll = () => {
-      if (window.scrollY > 500) {
-        setShowButton(true);
-      } else {
-        setShowButton(false);
-      }
+        setShowButton(window.scrollY > 400);
     };
 
     window.addEventListener("scroll", handleScroll); // Attach scroll listener
@@ -19,13 +15,31 @@ const BackToTop = () => {
     };
   }, []); // [] (dependency array) indicates the useEffect runs only once when the component mounts
 
+  /* Jumps to an absolute position */
   const scrollToTop = () => {
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
+  /* Smooth scroll to top */
+  const smoothScrollToTop = () => {
+    let currentScroll = window.scrollY;
+
+    const scrollStep = () => {
+      if (currentScroll > 0) {
+        const scrollSpeed = Math.max(10, currentScroll / 10); // Slows down as it approaches the top
+        window.scrollBy(0, -scrollSpeed);
+        currentScroll -= scrollSpeed;
+        requestAnimationFrame(scrollStep); // Continue animation
+      }
+    };
+
+    requestAnimationFrame(scrollStep);
+  };
+
+
   return (
     showButton && <button
-      onClick={scrollToTop}
+      onClick={smoothScrollToTop}
       className="sv-btn fixed bottom-15 right-10 "
     >
       ↑ Back to Top
