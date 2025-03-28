@@ -6,7 +6,8 @@ import SVSHome from "./components/pages/SVSHome";
 import SVSChapter from "./components/pages/SVSChapter";
 import SVSVerse from "./components/pages/SVSVerse";
 import BGHome from "./components/pages/BGHome";
-import BG from "./components/pages/BG";
+import BGChapter from "./components/pages/BGChapter";
+import BGVerse from "./components/pages/BGVerse";
 import Navbar from "./components/display/Navbar";
 import Footer from "./components/display/Footer";
 import BackToTop from "./components/utility/BackToTop";
@@ -34,7 +35,8 @@ function App() {
           <Route path="/svs/:chapter_num" element={<SVSChapter />} />
           <Route path="/svs/:chapter_num/:verse_num" element={<SVSVerse />} />
           <Route path="/bg" element={<BGHome />} />
-          <Route path="/bg/:chapter_num/:verse_num" element={<BG />} />
+          <Route path="/bg/:chapter_num" element={<BGChapter />} />
+          <Route path="/bg/:chapter_num/:verse_num" element={<BGVerse />} />
           <Route path="/:topic_name/:chapter_num/:verse_num" element={<Breadcrumbs />} />
         </Routes>
       </Layout>

@@ -3,6 +3,7 @@ import { Link, useLocation } from "react-router-dom";
 const Breadcrumbs = () => {
   const location = useLocation();
   const pathSegments = location.pathname.split("/").filter(Boolean);
+  console.log('SV: pathSegments: '+pathSegments[0]);
 
   return (
     <nav>
@@ -14,6 +15,7 @@ const Breadcrumbs = () => {
         </li>
         {pathSegments.map((segment, index) => {
           const path = `/${pathSegments.slice(0, index + 1).join("/")}`;
+          
           const isLast = index === pathSegments.length - 1;
           console.log('SV: path: '+path);
           console.log('SV: segment: '+segment);
@@ -26,16 +28,16 @@ const Breadcrumbs = () => {
               title = "Bhagavad Gita";
               break;
             case '1':
-              title = "Suprabhatham - सुप्रभातम्";
+              title = (pathSegments[0] === 'svs') ? "Suprabhatham - सुप्रभातम्" : "1. Arjuna Vishada Yoga";
               break;
             case '2':
-              title = "Stotram - स्तोत्रम्";
+              title = (pathSegments[0] === 'svs') ? "Stotram - स्तोत्रम्" : "2. Sankhya Yoga";
               break;
             case '3':
-              title = "Prapatti - प्रपत्तिः";
+              title = (pathSegments[0] === 'svs') ? "Prapatti - प्रपत्तिः" : "3. Karma Yoga";
               break;
             case '4':
-              title = "Mangalaashasanam - मङ्गलाशासनम्";
+              title = (pathSegments[0] === 'svs') ? "Mangalaashasanam - मङ्गलाशासनम्" : "4. Karma Sanyasa Yoga";
               break;
             default:
               title = segment;

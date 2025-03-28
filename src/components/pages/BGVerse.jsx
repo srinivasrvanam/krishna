@@ -2,7 +2,9 @@
 import { useParams } from "react-router-dom";
 import Verse from "../display/Verse";
 import { Link } from "react-router-dom";
-import verses from '../../content/bg/bg_2';
+import verses2 from '../../content/bg/bg_2';
+import verses3 from '../../content/bg/bg_3';
+import Breadcrumbs from "../utility/Breadcrumbs";
 
 function BG() {
     const { chapter_num, verse_num } = useParams();
@@ -11,6 +13,7 @@ function BG() {
     console.log('SV: verse_num: '+verse_num);
     
     if(chapter_num !== undefined && verse_num !== undefined){
+        let verses = chapter_num === '2' ? verses2 : verses3;
         const verse = verses.find(verse => verse.number === Number(verse_num));
         console.log('SV: verse: '+verse);
 
@@ -30,9 +33,12 @@ function BG() {
             return (
                 <div className="w-full h-screen">
                   <h1 className="text-3xl text-center pt-5"> Bhagavad Gita {chapter_num}-{verse_num}</h1>
+                  <div>
+                    <Breadcrumbs />
+                  </div>
                   <div className="flex flex-wrap justify-center gap-2 mt-2 py-4">
-                    {prevVerse && prevVerse.number && <Link to={`/bg/2/${prevVerse.number}`} className="sv-btn">Prev - {prevVerse.number}</Link>}
-                    {nextVerse && nextVerse.number && <Link to={`/bg/2/${nextVerse.number}`} className="sv-btn">Next - {nextVerse.number}</Link>}
+                    {prevVerse && prevVerse.number && <Link to={`/bg/${chapter_num}/${prevVerse.number}`} className="sv-btn">Prev - {prevVerse.number}</Link>}
+                    {nextVerse && nextVerse.number && <Link to={`/bg/${chapter_num}/${nextVerse.number}`} className="sv-btn">Next - {nextVerse.number}</Link>}
                   </div>
                   <Verse verse={verses.find(verse => verse.number === Number(verse_num))} />
                 </div>
