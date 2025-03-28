@@ -15,9 +15,9 @@ import Breadcrumbs from "./components/utility/Breadcrumbs";
 
 const Layout = ({ children }) => {
   return (
-    <div className="text-black dark:text-white bg-white dark:bg-gray-900">
+    <div className="text-black dark:text-white bg-white dark:bg-gray-900 flex flex-col min-h-screen">
       <Navbar /> {/* Navbar stays fixed across all pages */}
-      <div>{children}</div> {/* This part changes */}
+      <div className="flex-1">{children}</div> {/* This part changes */} {/* flex-1 indicates it takes available space */}
       <Footer />
       <BackToTop />
     </div>

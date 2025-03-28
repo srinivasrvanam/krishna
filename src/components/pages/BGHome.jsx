@@ -4,7 +4,7 @@ import verses from '../../content/bg/bg_2';
 function BGHome() {
     
   return (
-    <div className="w-full h-full md:h-screen">
+    <div className="">
       <br />
       <div className="text-4xl text-center">Bhagavad Gita </div>
       <br /><br />

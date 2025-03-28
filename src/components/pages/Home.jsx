@@ -1,6 +1,6 @@
 const Home = () => {
   return (
-    <div style={{ minHeight: "90vh" }}>
+    <div>
       <br /><br />
       <div className="text-center text-2xl font-bold">
         This site contains Sloka Study from Sri Venkateswara Suprabhatham,
