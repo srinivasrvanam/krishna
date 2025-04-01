@@ -38,6 +38,43 @@ const verses = [
   },
   {
     chapter : 3,
+    number  : 21,
+    sloka   : [
+      'यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जन: |',
+      'स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते ||'
+    ],
+    vicheda : [
+      'यत्-यत् आचरति श्रेष्ठः तत्-तत् एव इतरः जन: |',
+      'सः यत् प्रमाणं कुरुते लोकः तत् अनुवर्तते ||'
+    ],
+    anvaya  : [
+      'श्रेष्ठः यत्-यत् आचरति, इतरः जन: तत्-तत् एव (आचरति) |',
+      'सः यत् प्रमाणं कुरुते, लोकः तत् अनुवर्तते ||'
+    ],
+    transl  : [
+      "Whatever actions great persons perform, common people follow. Whatever standards they set, all the world pursues." 
+    ],
+    notes   : [
+      "यत् = whatever",
+      "यत् = whatever",
+      "आचरति = performs",
+      "श्रेष्ठः = great person",
+      "तत् = that",
+      "तत् = that",
+      "एव = certainly",
+      "इतरो = others",
+      "जनः = people",
+      "सः = he",
+      "यत् = whatever",
+      "प्रमाणं = standard",
+      "कुरुते = sets",
+      "लोकः = world",
+      "तत् = that",
+      "अनुवर्तते = follows"
+    ],
+  },
+  {
+    chapter : 3,
     number  : 22,
     sloka   : [
       'न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन |',

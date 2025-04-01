@@ -15,7 +15,7 @@ const Home = () => {
           </div>
 
           <div className="text-lg bg-gray-100 dark:bg-gray-800  rounded-lg p-4">
-          In this world, there is nothing as purifying as divine knowledge. One who has attained purity of mind through prolonged practice of Yog, receives such knowledge within the heart, in due course of time.
+          In this world, there is nothing as purifying as divine knowledge. One who has attained purity of mind through prolonged practice of Yoga, receives such knowledge within the heart, in due course of time.
           </div>
         </div>
       </div>
