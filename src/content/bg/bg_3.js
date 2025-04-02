@@ -108,6 +108,74 @@ const verses = [
       "च (cha) = And",
       "कर्मणि (karmaṇi) = In action"
     ],
+  },
+  {
+    chapter : 3,
+    number  : 27,
+    sloka   : [
+      'प्रकृते: क्रियमाणानि गुणै: कर्माणि सर्वश: |',
+      'अहङ्कारविमूढात्मा कर्ताहमिति मन्यते ||'
+    ],
+    vicheda : [
+      'प्रकृते: क्रियमाणानि गुणै: कर्माणि सर्वश: |',
+      'अहङ्कार-विमूढ-आत्मा कर्ता अहम् इति मन्यते ||'
+    ],
+    anvaya  : [
+      'सर्वशः कर्माणि क्रियमाणानि प्रकृते: गुणैः (सन्ति) |',
+      'अहङ्कार-विमूढ-आत्मा (तु) अहम् कर्ता इति मन्यते |'
+    ],
+    transl  : [
+      "All actions are performed in every way by the modes (gunas) of material nature (Prakriti). But one whose self is deluded by ego thinks, 'I am the doer.'", 
+    ],
+    notes   : [
+      "प्रकृतेः = of Prakriti (material nature)",
+      "क्रियमाणानि = being performed - भावकर्म-शानच् (present participle - आत्मनेपदी - नपुं)",
+      "गुणैः = by the modes (gunas)",
+      "कर्माणि = actions",
+      "सर्वशः = in all ways (completely)",
+      "अहङ्कार = ego, false identification",
+      "विमूढ = deluded, ignorant",
+      "आत्मा = the self, soul",
+      "कर्ता = the doer",
+      "अहम् = I",
+      "इति = thus",
+      "मन्यते = thinks, considers"
+    ],
+  },
+  {
+    chapter : 3,
+    number  : 28,
+    sloka   : [
+      'तत्त्ववित्तु महाबाहो गुणकर्मविभागयो: |',
+      'गुणा गुणेषु वर्तन्त इति मत्वा न सज्जते ||'
+    ],
+    vicheda : [
+      'तत्त्ववित् तु महाबाहो गुण-कर्म-विभागयो: |',
+      'गुणाः गुणेषु वर्तन्ते इति मत्वा न सज्जते ||'
+    ],
+    anvaya  : [
+      'हे महाबाहो!',
+      '(गुण-कर्म-विभागयो:) तत्त्ववित् (जनः) तु',
+      ' - (गुणाः गुणेषु वर्तन्ते) इति मत्वा',
+      'न सज्जते |'
+    ],
+    transl  : [
+      "But one who knows the truth, O mighty-armed (Arjuna), about the distinction between the gunas (modes of nature) and actions, understands that the gunas act upon the gunas. Thus, he does not become attached.",
+      "O mighty-armed Arjuna, illumined persons distinguish the soul as distinct from guṇas and karmas. They perceive that it is only the guṇas (in the shape of the senses, mind, and others) that move among the guṇas (in the shape of the objects of perception), and thus they do not get entangled in them.",
+    ],
+    notes   : [
+      "तत्त्ववित् = one who knows the truth",
+      "तु = but",
+      "महाबाहो = O mighty-armed (Arjuna)",
+      "गुणकर्मविभागयोः = distinction between gunas (qualities) and karma (actions)",
+      "गुणाः = the modes (gunas)",
+      "गुणेषु = in the modes",
+      "वर्तन्ते = function, act",
+      "इति = thus",
+      "मत्वा = having understood",
+      "न = not",
+      "सज्जते = becomes attached - (सज्ज् - 1P - to go)"
+    ],
   }
 ];
 
