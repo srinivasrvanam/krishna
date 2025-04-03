@@ -176,6 +176,41 @@ const verses = [
       "न = not",
       "सज्जते = becomes attached - (सज्ज् - 1P - to go)"
     ],
+  },
+  {
+    chapter : 3,
+    number  : 30,
+    sloka   : [
+      'मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा |',
+      'निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वर: ||'
+    ],
+    vicheda : [
+      'मयि सर्वाणि कर्माणि संन्यस्य अध्यात्म-चेतसा |',
+      'निराशीः निर्ममः भूत्वा युध्यस्व विगतज्वर: ||'
+    ],
+    anvaya  : [
+      '- सर्वाणि कर्माणि मयि संन्यस्य',
+      '- अध्यात्म-चेतसा',
+      '- निराशीः निर्ममः विगतज्वर: भूत्वा',
+      'युध्यस्व!'
+    ],
+    transl  : [
+      "Surrendering all actions to Me (Performing all works as an offering unto Me), with your mind focused on the Self, free from desires and the sense of ownership, and with your mental grief departed, fight!",
+    ],
+    notes   : [
+      "मयि = in Me (Krishna, the Supreme Lord)",
+      "सर्वाणि = all",
+      "कर्माणि = actions",
+      "संन्यस्य = renouncing, surrendering",
+      "अध्यात्म = pertaining to the self/spirituality (derived from अधि + आत्म, meaning over/self)",
+      "चेतसा = with the mind - चेतस् - तृतीया.वि. - एक.व.",
+      "अध्यात्मचेतसा = with a mind absorbed in the Self",
+      "निराशीः = free from desires",
+      "निर्ममः = free from the sense of ownership",
+      "भूत्वा = having become",
+      "युध्यस्व = fight!",
+      "विगतज्वरः = without mental anguish or fever of anxiety"
+    ],
   }
 ];
 
