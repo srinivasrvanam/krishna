@@ -211,6 +211,78 @@ const verses = [
       "युध्यस्व = fight!",
       "विगतज्वरः = without mental anguish or fever of anxiety"
     ],
+  },
+  {
+    chapter : 3,
+    number  : 31,
+    sloka   : [
+      'ये मे मतमिदं नित्यमनुतिष्ठन्ति मानवा: |',
+      'श्रद्धावन्तोऽनसूयन्तो मुच्यन्ते तेऽपि कर्मभि: ||'
+    ],
+    vicheda : [
+      'ये मे मतम् इदं नित्यम् अनुतिष्ठन्ति मानवाः |',
+      'श्रद्धावन्तः अनसूयन्तः मुच्यन्ते ते अपि कर्मभिः ||'
+    ],
+    anvaya  : [
+      'ये मानवाः',
+      '- (मे इदं मतम् नित्यम् अनुतिष्ठन्ति)',
+      '- (श्रद्धावन्तः) (अनसूयन्तः)',
+      'ते अपि कर्मभिः मुच्यन्ते'
+    ],
+    transl  : [
+      "Those human beings who consistently follow this teaching of Mine with faith and without envy, they too are freed from the bondage of actions.",
+    ],
+    notes   : [
+      "ये = those who",
+      "मे = My",
+      "मतम् = teaching, doctrine",
+      "इदं = this",
+      "नित्यम् = always, consistently",
+      "अनुतिष्ठन्ति = follow, practice",
+      "मानवाः = human beings",
+      "श्रद्धावन्तः = with faith",
+      "अनसूयन्तः = without envy or fault-finding",
+      "मुच्यन्ते = are liberated",
+      "ते = they",
+      "अपि = also",
+      "कर्मभिः = from karmas (bondage of actions)"
+    ],
+  },
+  {
+    chapter : 3,
+    number  : 32,
+    sloka   : [
+      'ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम् |',
+      'सर्वज्ञानविमूढांस्तान्विद्धि नष्टानचेतस: ||'
+    ],
+    vicheda : [
+      'ये तु एतत् अभ्यसूयन्तः न अनुतिष्ठन्ति मे मतम् |',
+      'सर्वज्ञानविमूढान् तान् विद्धि नष्टान् अचेतसः: ||'
+    ],
+    anvaya  : [
+      'ये तु मे मतम् एतत् न अनुतिष्ठन्ति',
+      '- (अभ्यसूयन्तः)',
+      'तान् (सर्वज्ञानविमूढान्) (अचेतसः) (नष्टान्) विद्धि',
+    ],
+    transl  : [
+      "But those who, out of envy, do not follow this teaching of Mine—know them to be deluded of all knowledge, devoid of discernment, and doomed to ruin.",
+    ],
+    notes   : [
+      "ये = those who",
+      "तु = but",
+      "एतत् = this",
+      "अभ्यसूयन्तः = envious, fault-finding",
+      "न = not",
+      "अनुतिष्ठन्ति = follow, abide by",
+      "मे = My",
+      "मतम् = teaching, doctrine",
+      "सर्वज्ञानविमूढान् = deluded in all knowledge",
+      "तान् = them",
+      "विद्धि = know (understand)",
+      "नष्टान् = ruined, lost",
+      "चेतस् = mind, consciousness, awareness, discernment",
+      "अचेतसः = unintelligent, lacking discrimination"
+    ],
   }
 ];
 
