@@ -281,7 +281,7 @@ const verses = [
       "विद्धि = know (understand)",
       "नष्टान् = ruined, lost",
       "चेतस् = mind, consciousness, awareness, discernment",
-      "अचेतसः = unintelligent, lacking discrimination"
+      "अचेतसः = unintelligent, lacking discrimination - द्वितीया.वि. - बहु.व."
     ],
   },
   {
