@@ -465,6 +465,39 @@ const verses = [
       "च = and"    
     ],
   },
+  {
+    chapter : 3,
+    number  : 40,
+    sloka   : [
+      'इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते |',
+      'एतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम् ||'
+    ],
+    vicheda : [
+      'इन्द्रियाणि मनः बुद्धिः अस्य अधिष्ठानम् उच्यते |',
+      'एतैः विमोहयति एषः ज्ञानम् आवृत्य देहिनम् ||'
+    ],
+    anvaya  : [
+      '(इन्द्रियाणि, मनः, बुद्धिः) अस्य (कामस्य) अधिष्ठानम् उच्यते', 
+      'एषः (कामः) एतैः ज्ञानम् आवृत्य देहिनम् विमोहयति',
+    ],
+    transl  : [
+      "The senses, the mind, and the intellect are said to be its (desire's) seat. Through these, it deludes the embodied being by covering knowledge.",
+    ],
+    notes   : [
+      "इन्द्रियाणि = the senses",
+      "मनो = the mind",
+      "बुद्धिः = the intellect",
+      "अस्य = of this (desire)",
+      "अधिष्ठानम् = seat / location",
+      "उच्यते = is said to be",
+      "एतैः = by these",
+      "विमोहयति = deludes / confuses",
+      "एषः = this (desire)",
+      "ज्ञानम् = knowledge",
+      "आवृत्य = covering",
+      "देहिनम् = the embodied soul (living being)"    
+    ],
+  },
 ];
 
 export default verses;
