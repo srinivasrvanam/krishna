@@ -535,6 +535,43 @@ const verses = [
       "नाशनम् = destroyer"
     ],
   },
+  {
+    chapter : 3,
+    number  : 42,
+    sloka   : [
+      'इन्द्रियाणि पराण्याहुरिन्द्रियेभ्य: परं मन: |',
+      'मनसस्तु परा बुद्धिर्यो बुद्धे: परतस्तु स: ||'
+    ],
+    vicheda : [
+      'इन्द्रियाणि पराणि आहु: इन्द्रियेभ्य: परं मन: |',
+      'मनस: तु परा बुद्धि: य: बुद्धे: परत: तु स: ||'
+    ],
+    anvaya  : [
+      'इन्द्रियाणि पराणि आहु:', 
+      'इन्द्रियेभ्य: परं मन:',
+      'मनस: तु परा बुद्धि:',
+      'य: बुद्धे: परत: तु स:',
+    ],
+    transl  : [
+      "The senses are said to be superior (to the body), but higher than the senses is the mind. Higher than the mind is the intellect, and beyond the intellect is That (the Self).",
+    ],
+    notes   : [
+      "इन्द्रियाणि = the senses",
+      "पराणि = superior / powerful",
+      "आहु: = they say / are said to be",
+      "इन्द्रियेभ्य: = than the senses",
+      "परम् = higher",
+      "मन: = the mind",
+      "मनस: = than the mind",
+      "तु = but / and",
+      "परा = higher",
+      "बुद्धि: = the intellect",
+      "बुद्धे: = than the intellect",
+      "परत: = beyond",
+      "य: = who / which",
+      "स: = that / He"
+    ],
+  },
 ];
 
 export default verses;
