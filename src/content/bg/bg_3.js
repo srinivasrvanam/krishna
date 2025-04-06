@@ -433,6 +433,38 @@ const verses = [
       "आवृतम् = is covered / obscured - (आङ्+वृ - क्त - past tense - passive(generally) - नपुं)"
     ],
   },
+  {
+    chapter : 3,
+    number  : 39,
+    sloka   : [
+      'आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा |',
+      'कामरूपेण कौन्तेय दुष्पूरेणानलेन च ||'
+    ],
+    vicheda : [
+      'आवृतं ज्ञानम् एतेन ज्ञानिनः नित्यवैरिणा |',
+      'कामरूपेण कौन्तेय दुष्पूरेण अनलेन  च ||'
+    ],
+    anvaya  : [
+      'हे कौन्तेय!', 
+      'एतेन (दुष्पूरेण) (अनलेन च) (कामरूपेण) नित्यवैरिणा',
+      'ज्ञानिनः ज्ञानम् आवृतम् (अस्ति)',
+    ],
+    transl  : [
+      "O Arjuna, the knowledge of the wise is covered by this eternal enemy in the form of desire, which is insatiable and like a consuming fire.",
+    ],
+    notes   : [
+      "आवृतम् = covered",
+      "ज्ञानम् = knowledge / wisdom",
+      "एतेन = by this",
+      "ज्ञानिनः = of the wise person",
+      "नित्यवैरिणा = by the eternal enemy",
+      "कामरूपेण = in the form of desire",
+      "कौन्तेय = O son of Kunti (Arjuna)",
+      "दुष्पूरेण = insatiable / hard to satisfy",
+      "अनलेन = by fire (symbolic of consuming force)",
+      "च = and"    
+    ],
+  },
 ];
 
 export default verses;
