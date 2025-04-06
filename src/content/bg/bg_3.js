@@ -292,12 +292,12 @@ const verses = [
       'स्वधर्मे निधनं श्रेय: परधर्मो भयावह: ||'
     ],
     vicheda : [
-      'श्रेयान् स्वधर्मः विगुणः परधर्मात् स्वनुष्ठितात् |',
+      'श्रेयान् स्वधर्मः विगुणः परधर्मात् सु-अनुष्ठितात् |',
       'स्वधर्मे निधनम् श्रेयः परधर्मः भयावहः ||'
     ],
     anvaya  : [
-      'स्वनुष्ठितात् परधर्मात्',
-      'विगुणः स्वधर्मः श्रेयान्',
+      '(सु-अनुष्ठितात्) परधर्मात्',
+      '(विगुणः) स्वधर्मः श्रेयान् (अस्ति)',
       'स्वधर्मे निधनम् श्रेयः',
       'परधर्मः भयावहः',
     ],
@@ -305,14 +305,14 @@ const verses = [
       "Better is one's own duty, though imperfect, than the well-performed duty of another. Death in the course of one's own duty is better; the duty of another is fraught with fear.",
     ],
     notes   : [
-      "श्रेयान् = better (श्रेयस् - पुं - प्रथमा - एक.व.)",
+      "श्रेयान् = better - (श्रेयस् - पुं - प्रथमा - एक.व. - द्वाभ्याम् अधिकं कल्याणकारी)",
       "स्वधर्मः = one's own duty",
       "विगुणः = lacking in qualities / imperfect",
       "परधर्मात् = than the duty of another",
-      "स्वनुष्ठितात् = well performed",
+      "सु-अनुष्ठितात् = well performed",
       "स्वधर्मे = in one's own duty",
       "निधनम् = death",
-      "श्रेयः = is better",
+      "श्रेयः = is better - (श्रेयस् - नपुं - प्रथमा - एक.व.)",
       "परधर्मः = another's duty",
       "भयावहः = is fraught with fear / dangerous"
     ],
