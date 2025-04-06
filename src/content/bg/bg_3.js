@@ -572,6 +572,41 @@ const verses = [
       "स: = that / He"
     ],
   },
+  {
+    chapter : 3,
+    number  : 43,
+    sloka   : [
+      'एवं बुद्धे: परं बुद्ध्वा संस्तभ्यात्मानमात्मना |',
+      'जहि शत्रुं महाबाहो कामरूपं दुरासदम् ||'
+    ],
+    vicheda : [
+      'एवं बुद्धे: परं बुद्ध्वा संस्तभ्य आत्मानम् आत्मना |',
+      'जहि शत्रुं महाबाहो कामरूपं दुरासदम् ||'
+    ],
+    anvaya  : [
+      'हे महाबाहो!', 
+      'एवं बुद्धेः परम् (आत्मानम्) बुद्ध्वा',
+      'आत्मना आत्मानम् संस्तभ्य',
+      '(कामरूपं) (दुरासदं) शत्रुम् जहि',
+    ],
+    transl  : [
+      "Thus, knowing the Self to be higher than the intellect, and restraining the lower self by the higher self, slay the enemy in the form of desire, O mighty-armed Arjuna — this enemy is very difficult to conquer.",
+    ],
+    notes   : [
+      "एवम् = thus",
+      "बुद्धेः = than the intellect",
+      "परम् = higher / beyond",
+      "बुद्ध्वा = having known",
+      "संस्तभ्य = having restrained / controlled",
+      "आत्मानम् = the self (lower self / mind-body)",
+      "आत्मना = by the Self (higher Self / will)",
+      "जहि = slay / conquer",
+      "शत्रुम् = the enemy",
+      "महाबाहो = O mighty-armed one (Arjuna)",
+      "कामरूपम् = in the form of desire",
+      "दुरासदम् = difficult to conquer"    
+    ],
+  },
 ];
 
 export default verses;
