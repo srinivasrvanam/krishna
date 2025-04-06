@@ -498,6 +498,43 @@ const verses = [
       "देहिनम् = the embodied soul (living being)"    
     ],
   },
+  {
+    chapter : 3,
+    number  : 41,
+    sloka   : [
+      'तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ |',
+      'पाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम् ||'
+    ],
+    vicheda : [
+      'तस्मात् त्वम् इन्द्रियाणि आदौ नियम्य भरतर्षभ |',
+      'पाप्मानं प्रजहि हि एनं ज्ञान-विज्ञान-नाशनम् ||'
+    ],
+    anvaya  : [
+      'हे भरतर्षभ!', 
+      'तस्मात्',
+      'त्वम् आदौ इन्द्रियाणि नियम्य',
+      'एनम् (ज्ञान-विज्ञान-नाशनम्) पाप्मानम्',
+      'हि प्रजहि',
+    ],
+    transl  : [
+      "Therefore, O Arjuna, first control the senses and slay this sinful one (desire), which is the destroyer of both knowledge and realization.",
+    ],
+    notes   : [
+      "तस्मात् = therefore",
+      "त्वम् = you",
+      "इन्द्रियाणि = the senses",
+      "आदौ = at the beginning / first",
+      "नियम्य = having controlled",
+      "भरतर्षभ = O best of the Bharatas (Arjuna)",
+      "पाप्मानम् = the sinful one (desire)",
+      "प्रजहि = destroy / slay",
+      "हि = indeed / surely",
+      "एनम् = this",
+      "ज्ञान = knowledge",
+      "विज्ञान = wisdom / realization",
+      "नाशनम् = destroyer"
+    ],
+  },
 ];
 
 export default verses;
