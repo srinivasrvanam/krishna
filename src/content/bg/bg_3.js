@@ -350,14 +350,50 @@ const verses = [
       "पापम् = sin / evil act",
       "चरति = does / performs",
       "पूरुषः = man / person",
-      "अनिच्छन् = unwillingly",
+      "अनिच्छन् = unwillingly - (शतृ - परस्मै - पुं - प्रथमा - एक.व.)",
       "अपि = even though",
       "वार्ष्णेय = O descendant of Vrishni (Krishna)",
       "बलात् = by force",
       "इव = as if",
       "नियोजितः = compelled / engaged"
     ],
-  }
+  },
+  {
+    chapter : 3,
+    number  : 37,
+    sloka   : [
+      'श्रीभगवानुवाच',
+      'काम एष क्रोध एष रजोगुणसमुद्भव: ||',
+      'महाशनो महापाप्मा विद्ध्येनमिह वैरिणम् ||'
+    ],
+    vicheda : [
+      'श्रीभगवानुवाच',
+      'कामः एषः क्रोधः एषः रजोगुण-समुद्भव: ||',
+      'महाशनः महापाप्मा विद्धि एनम् इह वैरिणम् ||'
+    ],
+    anvaya  : [
+      'श्रीभगवान् उवाच',
+      'एषः कामः एषः क्रोधः',
+      '- रजोगुण-समुद्भवः',
+      '- महाशनः महापाप्मा (च)',
+      'एनम् इह वैरिणम् विद्धि',
+    ],
+    transl  : [
+      "It is desire — it is anger — born of the mode of passion (rajas); Know this as the great devourer, the great sinner; know this as the enemy here (in this world)."
+    ],
+    notes   : [
+      "कामः = desire / lust",
+      "एषः = this",
+      "क्रोधः = anger",
+      "रजोगुण-समुद्भवः = born of the quality of passion (rajas)",
+      "महाशनः = all-devouring / insatiable - (अशनः - eater, devourer - अश्)",
+      "महापाप्मा = greatly sinful / source of great sin - (पाप + मन् - that personifies or embodies a quality)",
+      "विद्धि = know (imperative)",
+      "एनम् = this (one) - (अयम् - द्वितीया.वि. - एक.व.)",
+      "इह = here (in this world / in this body)",
+      "वैरिणम् = the enemy"
+    ],
+  },
 ];
 
 export default verses;
