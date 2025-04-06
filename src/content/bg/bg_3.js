@@ -316,6 +316,47 @@ const verses = [
       "परधर्मः = another's duty",
       "भयावहः = is fraught with fear / dangerous"
     ],
+  },
+  {
+    chapter : 3,
+    number  : 36,
+    sloka   : [
+      'अर्जुन उवाच',
+      'अथ केन प्रयुक्तोऽयं पापं चरति पूरुष: |',
+      'अनिच्छन्नपि वार्ष्णेय बलादिव नियोजित: ||'
+    ],
+    vicheda : [
+      'अर्जुन उवाच',
+      'अथ केन प्रयुक्तः अयं पापं चरति पूरुष: |',
+      'अनिच्छन् अपि वार्ष्णेय बलात् इव नियोजित: ||'
+    ],
+    anvaya  : [
+      'अर्जुन उवाच',
+      'हे वार्ष्णेय!',
+      'अथ',
+      'अयम् पूरुषः',
+      '- केन प्रयुक्तः',
+      '- बलात् इव नियोजितः',
+      'अनिच्छन् अपि पापम् चरति?',
+    ],
+    transl  : [
+      "O Krishna (O descendant of Vrishni), by what is a person impelled to commit sin, even against his will, as if driven by force?",
+    ],
+    notes   : [
+      "अथ = but / then",
+      "केन = by what / by whom",
+      "प्रयुक्तः = impelled / prompted",
+      "अयम् = this",
+      "पापम् = sin / evil act",
+      "चरति = does / performs",
+      "पूरुषः = man / person",
+      "अनिच्छन् = unwillingly",
+      "अपि = even though",
+      "वार्ष्णेय = O descendant of Vrishni (Krishna)",
+      "बलात् = by force",
+      "इव = as if",
+      "नियोजितः = compelled / engaged"
+    ],
   }
 ];
 
