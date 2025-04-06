@@ -394,6 +394,45 @@ const verses = [
       "वैरिणम् = the enemy"
     ],
   },
+  {
+    chapter : 3,
+    number  : 38,
+    sloka   : [
+      'धूमेनाव्रियते वह्निर्यथादर्शो मलेन च |',
+      'यथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम् ||'
+    ],
+    vicheda : [
+      'धूमेन आव्रियते वह्निः यथा आदर्शः मलेन च |',
+      'यथा उल्बेन आवृतः गर्भः तथा तेन इदम् आवृतम् ||'
+    ],
+    anvaya  : [
+      'यथा', 
+      '- वह्निः धूमेन आव्रियते',
+      '- आदर्शः मलेन (आवृतः अस्ति)',
+      '- गर्भः उल्बेन आवृतः (अस्ति)',
+      'तथा',
+      '- इदम् (ज्ञानम्) तेन (कामेन) आवृतम् (अस्ति)',
+    ],
+    transl  : [
+      "Just as fire is covered by smoke, a mirror by dust, and a fetus by the womb, so is this (wisdom) covered by that (desire).",
+    ],
+    notes   : [
+      "धूमेन = by smoke",
+      "आव्रियते = is covered - (भावकर्मणोः लट् आत्मने)",
+      "वह्निः = fire",
+      "यथा = just as",
+      "आदर्शः = mirror",
+      "मलेन = by dust",
+      "च = and",
+      "उल्बेन = by the womb (fetal membrane)",
+      "गर्भः = fetus",
+      "आवृतः = is covered - (आङ्+वृ - क्त - past tense - passive(generally) - पुं)",
+      "तथा = in the same way",
+      "तेन = by that (desire)",
+      "इदम् = this (wisdom)",
+      "आवृतम् = is covered / obscured - (आङ्+वृ - क्त - past tense - passive(generally) - नपुं)"
+    ],
+  },
 ];
 
 export default verses;
