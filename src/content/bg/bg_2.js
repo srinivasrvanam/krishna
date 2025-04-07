@@ -264,6 +264,59 @@ const verses = [
           "हन्यते = is killed"
         ],
       },
+      {
+        chapter : 2,
+        number  : 20,
+        sloka   : [
+          "न जायते म्रियते वा कदाचि",
+          "नायं भूत्वा भविता वा न भूय: |",
+          "अजो नित्य: शाश्वतोऽयं पुराणो",
+          "न हन्यते हन्यमाने शरीरे ||"
+        ],
+        vicheda : [
+          "न जायते म्रियते वा कदाचित्",
+          "न अयं भूत्वा भविता वा न भूय: |",
+          "अज: नित्य: शाश्वत: अयं पुराण:",
+          "न हन्यते हन्यमाने शरीरे ||"
+        ],
+        anvaya  : [
+          "अयं (आत्मा)",
+          "- (कदाचित्) न जायते म्रियते वा",
+          "- (भूयः) न भूत्वा भविता वा",
+          "अयं (आत्मा) अजः नित्यः शाश्वतः पुराणः",
+          "(अयं आत्मा) (हन्यमाने शरीरे) न हन्यते",
+        ],
+        transl  : [
+          'The Self is never born, nor does it ever die;',
+          'it does not come into being again, having once existed.',
+          'It is unborn, eternal, everlasting, and ancient.',
+          'It is not slain when the body is slain.',
+        ],
+        notes   : [
+          "न = not",
+          "जायते = is born",
+          "म्रियते = dies",
+          "वा = or",
+          "कदाचित् = at any time",
+          "न = not",
+          "अयम् = this (Self)",
+          "भूत्वा = having come into being",
+          "भविता = will be (again)",
+          "वा = or",
+          "न = not",
+          "भूय: = again",
+          "अज: = unborn",
+          "नित्य: = eternal",
+          "शाश्वत: = everlasting",
+          "अयम् = this (Self)",
+          "पुराण: = ancient",
+          "न = not",
+          "हन्यते = is slain",
+          "हन्यमाने = when being killed",
+          "शरीरे = the body",
+          "हन्यमाने शरीरे - सति सप्तमी प्रयोगः - when the body is being killed"
+        ],
+      },
   ];
 
 export default verses;
