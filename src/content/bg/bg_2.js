@@ -228,21 +228,40 @@ const verses = [
         number  : 19,
         sloka   : [
           "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम् |",
-"उभौ तौ न विजानीतो नायं हन्ति न हन्यते ||"
+          "उभौ तौ न विजानीतो नायं हन्ति न हन्यते ||"
         ],
         vicheda : [
-          "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम् |",
-"उभौ तौ न विजानीतो नायं हन्ति न हन्यते ||"
+          "य: एनं वेत्ति हन्तारं य: च एनं मन्यते हतम् |",
+          "उभौ तौ न विजानीतः न अयं हन्ति न हन्यते ||"
         ],
         anvaya  : [
-          "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम् |",
-"उभौ तौ न विजानीतो नायं हन्ति न हन्यते ||"
+          "- य: एनं हन्तारं वेत्ति",
+          "च",
+          "- य: एनं हतं मन्यते",
+          "- तौ उभौ न विजानीतः",
+          "अयं न हन्ति, न हन्यते"
         ],
         transl  : [
           "Neither of them is in knowledge—the one who thinks the soul can slay and the one who thinks the soul can be slain. For truly, the soul neither kills nor can it be killed."
         ],
         notes   : [
-          "",
+          "य: = who",
+          "एनम् = this (Self / Atman)",
+          "वेत्ति = knows / considers",
+          "हन्तारम् = as the killer",
+          "य: = who",
+          "च = and",
+          "मन्यते = thinks",
+          "हतम् = as killed",
+          "उभौ = both",
+          "तौ = those two",
+          "न = not",
+          "विजानीतः = understand / truly know",
+          "अयम् = this (Self)",
+          "न = not",
+          "हन्ति = kills",
+          "न = not",
+          "हन्यते = is killed"
         ],
       },
   ];
