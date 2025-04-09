@@ -465,6 +465,41 @@ const verses = [
       'सनातन: = everlasting / ancient'
     ],
   },
+  {
+    chapter : 2,
+    number  : 25,
+    sloka   : [
+      'अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते |',
+      'तस्मादेवं विदित्वैनं नानुशोचितुमर्हसि ||',
+    ],
+    vicheda : [
+      'अव्यक्त: अयम् अचिन्त्य: अयम् अविकार्य: अयम् उच्यते |',
+      'तस्मात् एवम् विदित्वा एनम् न अनुशोचितुम् अर्हसि ||',
+    ],
+    anvaya  : [
+      'अयम् (आत्मा)',
+      '- अव्यक्त: अचिन्त्य: अविकार्य: उच्यते |',
+      'तस्मात्',
+      '- (त्वम्) एवम् विदित्वा एनम् न अनुशोचितुम् अर्हसि | |',
+    ],
+    transl  : [
+      'This Self is said to be unmanifest, inconceivable, and unchanging. Therefore, having understood it thus, you should not grieve for it.',
+    ],
+    notes   : [
+      'अव्यक्त: = unmanifest / invisible',
+      'अयम् = this (Self)',
+      'अचिन्त्य: = inconceivable / beyond thought',
+      'अविकार्य: = unchanging / immutable',
+      'उच्यते = is said to be / is called',
+      'तस्मात् = therefore',
+      'एवम् = thus / in this way',
+      'विदित्वा = having known',
+      'एनम् = this (Self)',
+      'न = not',
+      'अनुशोचितुम् = to grieve / to mourn',
+      'अर्हसि = you ought / you deserve'
+    ],
+  },
 ];
 
 export default verses;
