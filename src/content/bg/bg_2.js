@@ -480,7 +480,7 @@ const verses = [
       'अयम् (आत्मा)',
       '- अव्यक्त: अचिन्त्य: अविकार्य: उच्यते |',
       'तस्मात्',
-      '- (त्वम्) एवम् विदित्वा एनम् न अनुशोचितुम् अर्हसि | |',
+      '- (त्वम्) एवम् विदित्वा एनम् न अनुशोचितुम् अर्हसि |',
     ],
     transl  : [
       'This Self is said to be unmanifest, inconceivable, and unchanging. Therefore, having understood it thus, you should not grieve for it.',
@@ -497,6 +497,45 @@ const verses = [
       'एनम् = this (Self)',
       'न = not',
       'अनुशोचितुम् = to grieve / to mourn',
+      'अर्हसि = you ought / you deserve'
+    ],
+  },
+  {
+    chapter : 2,
+    number  : 26,
+    sloka   : [
+      'अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम् |',
+      'तथापि त्वं महाबाहो नैवं शोचितुमर्हसि ||',
+    ],
+    vicheda : [
+      'अथ च एनं नित्यजातं नित्यं वा मन्यसे मृतम् |',
+      'तथापि त्वं महाबाहो न एवम् शोचितुम् अर्हसि ||',
+    ],
+    anvaya  : [
+      'हे महाबाहो!',
+      'अथ च',
+      '- एनं नित्यजातं नित्यं मृतम् वा मन्यसे |',
+      'तथापि',
+      '- त्वम् एवम् न शोचितुम् अर्हसि |',
+    ],
+    transl  : [
+      'But even if you think of this Self as always being born and always dying, even then, O mighty-armed, you should not grieve like this.',
+    ],
+    notes   : [
+      'अथ = but / or',
+      'च = and',
+      'एनम् = this (Self)',
+      'नित्यजातम् = always-born',
+      'नित्यं = always / eternally',
+      'वा = or',
+      'मन्यसे = you think / consider',
+      'मृतम् = dead',
+      'तथापि = even then / still',
+      'त्वम् = you',
+      'महाबाहो = O mighty-armed (Arjuna)',
+      'न = not',
+      'एवम् = thus / in this manner',
+      'शोचितुम् = to grieve',
       'अर्हसि = you ought / you deserve'
     ],
   },
