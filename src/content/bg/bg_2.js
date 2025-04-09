@@ -615,6 +615,41 @@ const verses = [
       'विद्यते = exists / is found'
     ],
   },
+  {
+    chapter : 2,
+    number  : 32,
+    sloka   : [
+      'यदृच्छया चोपपन्नं स्वर्गद्वारमपावृतम् |',
+      'सुखिन: क्षत्रिया: पार्थ लभन्ते युद्धमीदृशम् ||',
+    ],
+    vicheda : [
+      'यदृच्छया च उपपन्नम् स्वर्गद्वारम् अपावृतम् |',
+      'सुखिन: क्षत्रिया: पार्थ लभन्ते युद्धम् ईदृशम् ||',
+    ],
+    anvaya  : [
+      'हे पार्थ!',
+      'सुखिन: क्षत्रियाः',
+      '- यदृच्छया च',
+      '- (उपपन्नम् अपावृतम् स्वर्गद्वारम्) ईदृशम् युद्धम्',
+      ' लभन्ते |',
+    ],
+    transl  : [
+      'O Partha, happy are the Kshatriyas who get such a battle as this, which comes of its own accord and opens the gates of heaven.',
+    ],
+    notes   : [
+      'यदृच्छया = by chance / spontaneously',
+      'च = and',
+      'उपपन्नम् = arisen / attained',
+      'स्वर्गद्वारम् = the gate to heaven',
+      'अपावृतम् = wide open / unobstructed',
+      'सुखिन: = happy / fortunate',
+      'क्षत्रियाः = warriors / Kshatriyas',
+      'पार्थ = O Partha (Arjuna)',
+      'लभन्ते = obtain / gain',
+      'युद्धम् = war / battle',
+      'ईदृशम् = of this kind / such'
+    ],
+  },
 ];
 
 export default verses;
