@@ -514,12 +514,12 @@ const verses = [
     anvaya  : [
       'हे महाबाहो!',
       'अथ च',
-      '- एनं नित्यजातं नित्यं मृतम् वा मन्यसे |',
+      '- (त्वम्) एनं नित्यजातं वा नित्यं मृतम् मन्यसे |',
       'तथापि',
       '- त्वम् एवम् न शोचितुम् अर्हसि |',
     ],
     transl  : [
-      'But even if you think of this Self as always being born and always dying, even then, O mighty-armed, you should not grieve like this.',
+      'But even if you think of this Self as always being born and always dying, even then, O mighty-armed Arjuna, you should not grieve like this.',
     ],
     notes   : [
       'अथ = but / or',
@@ -535,6 +535,45 @@ const verses = [
       'महाबाहो = O mighty-armed (Arjuna)',
       'न = not',
       'एवम् = thus / in this manner',
+      'शोचितुम् = to grieve',
+      'अर्हसि = you ought / you deserve'
+    ],
+  },
+  {
+    chapter : 2,
+    number  : 27,
+    sloka   : [
+      'जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च |',
+      'तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि ||',
+    ],
+    vicheda : [
+      'जातस्य हि ध्रुव: मृत्यु:, ध्रुवम् जन्म मृतस्य च |',
+      'तस्मात् अपरिहार्ये अर्थे न त्वम् शोचितुम् अर्हसि ||',
+    ],
+    anvaya  : [
+      'जातस्य मृत्यु: ध्रुव: (अस्ति) |',
+      'मृतस्य जन्म ध्रुवम् (अस्ति) च |',
+      'तस्मात्',
+      '- (अपरिहार्ये अर्थे), त्वम् न शोचितुम् अर्हसि |',
+    ],
+    transl  : [
+      'For one who is born, death is certain; and for one who has died, birth is certain. Therefore, in a situation that is unavoidable, you should not grieve.',
+    ],
+    notes   : [
+      'जातस्य = for one who is born',
+      'हि = indeed / surely',
+      'ध्रुव: = certain / inevitable',
+      'मृत्यु: = death',
+      'ध्रुवम् = certain',
+      'जन्म = birth',
+      'मृतस्य = of the dead',
+      'च = and',
+      'तस्मात् = therefore',
+      'अपरिहार्ये = unavoidable / inevitable',
+      'अर्थे = matter / situation',
+      'अपरिहार्ये अर्थे = in a situation that is unavoidable - सति सप्तमी प्रयोगः ??',
+      'न = not',
+      'त्वम् = you',
       'शोचितुम् = to grieve',
       'अर्हसि = you ought / you deserve'
     ],
