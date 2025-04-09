@@ -578,6 +578,43 @@ const verses = [
       'अर्हसि = you ought / you deserve'
     ],
   },
+  {
+    chapter : 2,
+    number  : 31,
+    sloka   : [
+      'स्वधर्ममपि चावेक्ष्य न विकम्पितुमर्हसि |',
+      'धर्म्याद्धि युद्धाच्छ्रेयोऽन्यत्क्षत्रियस्य न विद्यते ||', 
+    ],
+    vicheda : [
+      'स्वधर्मम् अपि च अवेक्ष्य न विकम्पितुम् अर्हसि |',
+      'धर्म्यात् हि युद्धात् श्रेय: अन्यत् क्षत्रियस्य न विद्यते ||', 
+    ],
+    anvaya  : [
+      'अपि च',
+      'त्वम् स्वधर्मम् अवेक्ष्य, न विकम्पितुम् अर्हसि |',
+      'धर्म्यात् युद्धात् हि, क्षत्रियस्य अन्यत् श्रेय: न विद्यते |',
+    ],
+    transl  : [
+      'Even considering your own duty (as a warrior), you should not waver. For a Kshatriya, there is no greater good than a righteous war.',
+    ],
+    notes   : [
+      'स्वधर्मम् = one\'s own duty',
+      'अपि = even',
+      'च = and',
+      'अवेक्ष्य = considering / looking at',
+      'न = not',
+      'विकम्पितुम् = to waver / to be shaken',
+      'अर्हसि = you ought',
+      'धर्म्यात् = righteous / in accordance with dharma (ablative)',
+      'हि = indeed / surely',
+      'युद्धात् = than war / from battle',
+      'श्रेय: = better / more auspicious',
+      'अन्यत् = other',
+      'क्षत्रियस्य = for a Kshatriya (warrior)',
+      'न = not',
+      'विद्यते = exists / is found'
+    ],
+  },
 ];
 
 export default verses;
