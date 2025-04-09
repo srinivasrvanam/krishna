@@ -397,6 +397,74 @@ const verses = [
       'देही = the embodied (Self / soul)'    
     ],
   },
+  {
+    chapter : 2,
+    number  : 23,
+    sloka   : [
+      'नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावक:',
+      'न चैनं क्लेदयन्त्यापो न शोषयति मारुत: ||',
+    ],
+    vicheda : [
+      'न एनं छिन्दन्ति शस्त्राणि न एनं दहति पावक:',
+      'न च एनं क्लेदयन्ति आप: न शोषयति मारुत: ||',
+    ],
+    anvaya  : [
+      'शस्त्राणि एनं न छिन्दन्ति |',
+      'पावकः एनं न दहति |',
+      'आपः च एनं न क्लेदयन्ति |',
+      'मारुतः एनं न शोषयति |',
+    ],
+    transl  : [
+      'Weapons do not cut this Self, fire does not burn it, water does not wet it, and wind does not dry it.',
+    ],
+    notes   : [
+      'न = not',
+      'एनम् = this (Self)',
+      'छिन्दन्ति = cut',
+      'शस्त्राणि = weapons',
+      'दहति = burns',
+      'पावक: = fire',
+      'क्लेदयन्ति = wet / drench / moisten',
+      'आप: = water',
+      'शोषयति = dries',
+      'मारुत: = wind',
+      'च = and'  
+    ],
+  },
+  {
+    chapter : 2,
+    number  : 24,
+    sloka   : [
+      'अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च |',
+      'नित्य: सर्वगत: स्थाणुरचलोऽयं सनातन: ||',
+    ],
+    vicheda : [
+      'अच्छेद्य: अयम् अदाह्य: अयम् अक्लेद्य: अशोष्य: एव च |',
+      'नित्य: सर्वगत: स्थाणु: अचल: अयम् सनातन: ||',
+    ],
+    anvaya  : [
+      'अयम् (आत्मा)',
+      '- अच्छेद्य: अदाह्य: अक्लेद्य: अशोष्य: एव च |',
+      '- नित्य: सर्वगत: स्थाणु: अचल: सनातन: |',
+    ],
+    transl  : [
+      'This Self is uncuttable, unburnable, unwettable, and undryable. It is eternal, all-pervading, stable, immovable, and everlasting.',
+    ],
+    notes   : [
+      'अच्छेद्य: = uncuttable',
+      'अयम् = this (Self)',
+      'अदाह्य: = incombustible / unburnable',
+      'अक्लेद्य: = unwettable',
+      'अशोष्य: = undryable',
+      'एव = indeed',
+      'च = and',
+      'नित्य: = eternal',
+      'सर्वगत: = all-pervading',
+      'स्थाणु: = stable / firm',
+      'अचल: = immovable',
+      'सनातन: = everlasting / ancient'
+    ],
+  },
 ];
 
 export default verses;
