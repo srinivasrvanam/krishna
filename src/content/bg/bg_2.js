@@ -317,6 +317,43 @@ const verses = [
       'हन्यमाने शरीरे - सति सप्तमी प्रयोगः - when the body is being killed'
     ],
   },
+  {
+    chapter : 2,
+    number  : 21,
+    sloka   : [
+      'वेदाविनाशिनं नित्यं य एनमजमव्ययम् |',
+      'कथं स पुरुष: पार्थ कं घातयति हन्ति कम् ||',
+    ],
+    vicheda : [
+      'वेद अविनाशिनं नित्यं यः एनम् अजम् अव्ययम् |',
+      'कथं सः पुरुष: पार्थ कं घातयति हन्ति कम् ||',
+    ],
+    anvaya  : [
+      'हे पार्थ!',
+      'यः एनम् अविनाशिनं नित्यं अजम् अव्ययम् वेद',
+      'सः पुरुष: (कथं) कं घातयति कं हन्ति ?',
+    ],
+    transl  : [
+      'O Arjuna, he who knows the Self as indestructible, eternal, unborn, and unchanging — how can that person slay anyone, or cause anyone to be slain?',
+    ],
+    notes   : [
+      'वेद/वेत्ति = knows - (विद् - 2P - अदादिः - to know - कर्तरि लट् - प्र.पु. - एक.व.)',
+      'अविनाशिनम् = indestructible',
+      'नित्यम् = eternal',
+      'यः = who',
+      'एनम् = this (Self)',
+      'अजम् = unborn',
+      'अव्ययम् = unchanging / undecaying',
+      'कथम् = how',
+      'सः = that',
+      'पुरुषः = person / man',
+      'पार्थ = O Arjuna',
+      'कं = whom',
+      'घातयति = causes to be killed - (हन् - 2P - अदादिः - to kill - णिजन्ते - कर्तरि लट् - प्र.पु. - एक.व.)',
+      'हन्ति = kills - (हन् - 2P - अदादिः - to kill - कर्तरि लट् - प्र.पु. - एक.व.)',
+      'कम् = whom'
+    ],
+  },
 ];
 
 export default verses;
