@@ -354,6 +354,49 @@ const verses = [
       'कम् = whom'
     ],
   },
+  {
+    chapter : 2,
+    number  : 22,
+    sloka   : [
+      'वासांसि जीर्णानि यथा विहाय',
+      'नवानि गृह्णाति नरोऽपराणि |',
+      'तथा शरीराणि विहाय जीर्णा',
+      'न्यन्यानि संयाति नवानि देही ||',
+    ],
+    vicheda : [
+      'वासांसि जीर्णानि यथा विहाय',
+      'नवानि गृह्णाति नर: अपराणि |',
+      'तथा शरीराणि विहाय जीर्णानि',
+      'अन्यानि संयाति नवानि देही ||',
+    ],
+    anvaya  : [
+      'यथा',
+      '- नर: जीर्णानि वासांसि विहाय, नवानि अपराणि गृह्णाति |',
+      'तथा',
+      '- देही जीर्णानि शरीराणि विहाय, नवानि अन्यानि संयाति |',
+    ],
+    transl  : [
+      'Just as a person discards old clothes and puts on new ones, so too the embodied Self discards old, worn-out bodies and enters new ones.',
+    ],
+    notes   : [
+      'वासांसि = clothes',
+      'जीर्णानि = old / worn-out',
+      'यथा = just as',
+      'विहाय = having discarded',
+      'नवानि = new',
+      'गृह्णाति = takes / accepts',
+      'नर: = man / person',
+      'अपराणि = others / different ones',
+      'तथा = in the same way',
+      'शरीराणि = bodies',
+      'विहाय = having given up',
+      'जीर्णानि = worn-out / old',
+      'अन्यानि = other',
+      'संयाति = enters / assumes',
+      'नवानि = new',
+      'देही = the embodied (Self / soul)'    
+    ],
+  },
 ];
 
 export default verses;
