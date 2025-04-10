@@ -762,6 +762,43 @@ const verses = [
       'प्रहास्यसि = you will be freed from / cast off'  
     ],
   },
+  {
+    chapter : 2,
+    number  : 40,
+    sloka   : [
+      'नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते |',
+      'स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात् ||',
+    ],
+    vicheda : [
+      'न इह अभिक्रम-नाशः अस्ति प्रत्यवायः न विद्यते |',
+      'स्वल्पम् अपि अस्य धर्मस्य त्रायते महतः भयात् ||',
+    ],
+    anvaya  : [
+      'इह',
+      'अभिक्रम-नाशः न अस्ति |',
+      'प्रत्यवायः न विद्यते |',
+      'अस्य धर्मस्य स्वल्पम् अपि महतः भयात् त्रायते |',
+    ],
+    transl  : [
+      'In this path, there is no loss of effort, nor is there any adverse result. Even a little practice of this dharma protects one from great fear.',
+    ],
+    notes   : [
+      'न = not',
+      'इह = in this (path or practice)',
+      'अभिक्रम-नाशः = loss of effort',
+      'अस्ति = exists',
+      'प्रत्यवायः = negative result / adverse effect',
+      'न = not',
+      'विद्यते = is found / exists',
+      'स्वल्पम् = a little',
+      'अपि = even',
+      'अस्य = of this',
+      'धर्मस्य = dharma / righteous path',
+      'त्रायते = protects / saves',
+      'महतः = from great',
+      'भयात् = fear / danger' 
+    ],
+  },
 ];
 
 export default verses;
