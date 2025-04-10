@@ -650,6 +650,43 @@ const verses = [
       'ईदृशम् = of this kind / such'
     ],
   },
+  {
+    chapter : 2,
+    number  : 37,
+    sloka   : [
+      'हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम् |',
+      'तस्मादुत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चय: ||',
+    ],
+    vicheda : [
+      'हतः वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम् |',
+      'तस्मात् उत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चय: ||',
+    ],
+    anvaya  : [
+      'हे कौन्तेय!',
+      'हतः वा स्वर्गं प्राप्स्यसि',
+      'जित्वा वा महीम् भोक्ष्यसे',
+      'तस्मात्',
+      'युद्धाय कृतनिश्चय: उत्तिष्ठ |',
+    ],
+    transl  : [
+      'If slain, you will attain heaven; if victorious, you will enjoy the kingdom on earth. Therefore, O Kaunteya, arise with determination for battle.',
+    ],
+    notes   : [
+      'हतः = slain',
+      'वा = or',
+      'प्राप्स्यसि = you will attain',
+      'स्वर्गम् = heaven',
+      'जित्वा = having conquered',
+      'वा = or',
+      'भोक्ष्यसे = you will enjoy',
+      'महीम् = the earth / kingdom',
+      'तस्मात् = therefore',
+      'उत्तिष्ठ = arise',
+      'कौन्तेय = O son of Kunti (Arjuna)',
+      'युद्धाय = for battle',
+      'कृतनिश्चयः = with firm resolve'
+    ],
+  },
 ];
 
 export default verses;
