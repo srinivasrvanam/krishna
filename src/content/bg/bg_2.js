@@ -799,6 +799,37 @@ const verses = [
       'भयात् = fear / danger' 
     ],
   },
+  {
+    chapter : 2,
+    number  : 45,
+    sloka   : [
+      'त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन |',
+      'निर्द्वन्द्वो नित्यसत्त्वस्थो निर्योगक्षेम आत्मवान् ||',
+    ],
+    vicheda : [
+      'त्रैगुण्य-विषयाः वेदाः निस्त्रैगुण्यः भव अर्जुन |',
+      'निर्द्वन्द्वः नित्य-सत्त्व-स्थः निर्योग-क्षेमः आत्मवान् ||',
+    ],
+    anvaya  : [
+      'हे अर्जुन!',
+      'वेदाः त्रैगुण्य-विषयाः (सन्ति) |',
+      '(त्वं) निस्त्रैगुण्यः निर्द्वन्द्वः नित्य-सत्त्व-स्थः निर्योग-क्षेमः आत्मवान् भव |',
+    ],
+    transl  : [
+      'The Vedas are concerned with the three guṇas, O Arjuna. You become one who is beyond these guṇas, free from the dualities, ever established in purity (sattva), without anxiety for gain and preservation, and self-realized (situated in the self).',
+    ],
+    notes   : [
+      'त्रैगुण्यविषयाः = concerned with the three gunas (modes of nature)',
+      'वेदाः = the Vedas',
+      'निस्त्रैगुण्यः = beyond the three gunas',
+      'भव = be (you become)',
+      'अर्जुन = O Arjuna',
+      'निर्द्वन्द्वः = free from dualities (like pleasure-pain, heat-cold)',
+      'नित्यसत्त्वस्थः = ever established in purity (sattva)',
+      'निर्योगक्षेमः = free from acquisition and preservation concerns',
+      'आत्मवान् = self-controlled / situated in the Self'
+    ],
+  },
 ];
 
 export default verses;
