@@ -687,6 +687,43 @@ const verses = [
       'कृतनिश्चयः = with firm resolve'
     ],
   },
+  {
+    chapter : 2,
+    number  : 38,
+    sloka   : [
+      'सुखदु:खे समे कृत्वा लाभालाभौ जयाजयौ |',
+      'ततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि ||',
+    ],
+    vicheda : [
+      'सुख-दु:खे समे कृत्वा लाभ-अलाभौ जय-अजयौ |',
+      'ततो युद्धाय युज्यस्व न एवम् पापम् अवाप्स्यसि ||',
+    ],
+    anvaya  : [
+      '(त्वं)',
+      'सुख-दुःखे लाभ-अलाभौ जय-अजयौ समे कृत्वा,',
+      'ततः युद्धाय युज्यस्व,',
+      'एवम् न पापम् अवाप्स्यसि',
+    ],
+    transl  : [
+      'Treating pleasure and pain, gain and loss, victory and defeat alike, then prepare for battle — thus, you will not incur sin.',
+    ],
+    notes   : [
+      'सुख = pleasure',
+      'दुःखे = pain',
+      'समे कृत्वा = treating equally',
+      'लाभ = gain',
+      'अलाभौ = loss',
+      'जय = victory',
+      'अजयौ = defeat',
+      'ततः = then / thereafter',
+      'युद्धाय = for battle',
+      'युज्यस्व = engage / be prepared',
+      'न = not',
+      'एवम् = thus',
+      'पापम् = sin',
+      'अवाप्स्यसि = you will incur'    
+    ],
+  },
 ];
 
 export default verses;
