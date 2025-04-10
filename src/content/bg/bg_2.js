@@ -700,9 +700,9 @@ const verses = [
     ],
     anvaya  : [
       '(त्वं)',
-      'सुख-दुःखे लाभ-अलाभौ जय-अजयौ समे कृत्वा,',
-      'ततः युद्धाय युज्यस्व,',
-      'एवम् न पापम् अवाप्स्यसि',
+      '- सुख-दुःखे लाभ-अलाभौ जय-अजयौ समे कृत्वा,',
+      'ततः युद्धाय युज्यस्व |',
+      '(त्वं) एवम् पापम् न अवाप्स्यसि |',
     ],
     transl  : [
       'Treating pleasure and pain, gain and loss, victory and defeat alike, then prepare for battle — thus, you will not incur sin.',
@@ -722,6 +722,44 @@ const verses = [
       'एवम् = thus',
       'पापम् = sin',
       'अवाप्स्यसि = you will incur'    
+    ],
+  },
+  {
+    chapter : 2,
+    number  : 39,
+    sloka   : [
+      'एषा तेऽभिहिता साङ्ख्ये बुद्धिर्योगे त्विमां शृणु |',
+      'बुद्ध्या युक्तो यया पार्थ कर्मबन्धं प्रहास्यसि ||',
+    ],
+    vicheda : [
+      'एषा ते अभिहिता साङ्ख्ये बुद्धिः योगे तु इमां शृणु |',
+      'बुद्ध्या युक्तः यया पार्थ कर्मबन्धं प्रहास्यसि ||',
+    ],
+    anvaya  : [
+      'हे पार्थ!',
+      'एषा बुद्धिः ते साङ्ख्ये अभिहिता |',
+      '(त्वं) इमां (बुद्धिं) योगे शृणु |',
+      'तु यया बुद्ध्या युक्तः (त्वं) कर्मबन्धं प्रहास्यसि |',
+    ],
+    transl  : [
+      'So far, I have explained to you this Buddhi (wisdom) in the context of Sankhya (analytical knowledge). Now listen to this in the context of Yoga (action). Indeed, when you are endowed with this wisdom, O Partha, you will be freed from the bondage of action.',
+    ],
+    notes   : [
+      'एषा = this',
+      'ते = to you',
+      'अभिहिता = has been explained',
+      'साङ्ख्ये = in the context of Sankhya (knowledge)',
+      'बुद्धिः = wisdom / intellect',
+      'योगे = in the context of Yoga (action)',
+      'तु = Indeed',
+      'इमाम् = this',
+      'शृणु = listen',
+      'बुद्ध्या = with intelligence / understanding',
+      'युक्तः = endowed / united',
+      'यया = by which',
+      'पार्थ = O Partha (Arjuna)',
+      'कर्मबन्धम् = bondage of action',
+      'प्रहास्यसि = you will be freed from / cast off'  
     ],
   },
 ];
