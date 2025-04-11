@@ -830,6 +830,42 @@ const verses = [
       'आत्मवान् = self-controlled / situated in the Self'
     ],
   },
+  {
+    chapter : 2,
+    number  : 47,
+    sloka   : [
+      'कर्मण्येवाधिकारस्ते मा फलेषु कदाचन |',
+      'मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ||',
+    ],
+    vicheda : [
+      'कर्मणि एव अधिकारः ते मा फलेषु कदाचन |',
+      'मा कर्मफलहेतुः भूः मा ते सङ्गः अस्तु अकर्मणि ||',
+    ],
+    anvaya  : [
+      'ते अधिकारः कर्मणि एव |',
+      'फलेषु मा कदाचन |',
+      'कर्मफलहेतुः मा भूः |',
+      'अकर्मणि ते सङ्गः मा अस्तु |',
+    ],
+    transl  : [
+      'You have the right only to perform your duties, not to the fruits of actions. Never consider yourself the cause of the results of your actions, nor be attached to inaction.',
+      'At any time, Your right is only in action, not in the fruits of action. Do not become the cause of the fruits of action, nor be attached to inaction.',
+    ],
+    notes   : [
+      'कर्मणि = in action / in your duties',
+      'एव = only / indeed',
+      'अधिकारः = right / entitlement',
+      'ते = your',
+      'मा = not',
+      'फलेषु = in the results / fruits (of action)',
+      'कदाचन = at any time / ever',
+      'कर्मफलहेतुः = cause of the result of action',
+      'भूः = be - (लोट् - Vedic/Poetic) = (भव - Classical - Panini)',
+      'सङ्गः = attachment',
+      'अस्तु = let there be',
+      'अकर्मणि = in inaction / non-performance of duty'
+    ],
+  },
 ];
 
 export default verses;
