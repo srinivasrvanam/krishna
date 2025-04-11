@@ -866,6 +866,41 @@ const verses = [
       'अकर्मणि = in inaction / non-performance of duty'
     ],
   },
+  {
+    chapter : 2,
+    number  : 48,
+    sloka   : [
+      'योगस्थ: कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय |',
+      'सिद्ध्यसिद्ध्यो: समो भूत्वा समत्वं योग उच्यते ||',
+    ],
+    vicheda : [
+      'योगस्थ: कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय |',
+      'सिद्धि-असिद्ध्यो: समः भूत्वा समत्वं योगः उच्यते ||',
+    ],
+    anvaya  : [
+      'हे धनञ्जय!',
+      '- योगस्थः (भूत्वा), सङ्गं त्यक्त्वा, सिद्ध्यसिद्ध्योः समः भूत्वा',
+      'कर्माणि कुरु |',
+      'समत्वं योगः उच्यते |',
+    ],
+    transl  : [
+      'O Dhananjaya, perform your duties being established in yoga, abandoning attachment, and remaining equal in success and failure. Such equanimity is called Yoga.',
+    ],
+    notes   : [
+      'योगस्थः = established in yoga',
+      'कुरु = perform',
+      'कर्माणि = actions',
+      'सङ्गं = attachment',
+      'त्यक्त्वा = having abandoned',
+      'धनञ्जय = O Dhananjaya',
+      'सिद्धि-असिद्ध्यो: = in success and failure',
+      'समः = equal',
+      'भूत्वा = having become',
+      'समत्वं = equanimity',
+      'योगः = yoga',
+      'उच्यते = is called',
+    ],
+  },
 ];
 
 export default verses;
