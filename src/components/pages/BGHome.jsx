@@ -27,8 +27,24 @@ function BGHome() {
             <div className="flex flex-col align-center gap-2 mt-2 w-max mx-auto">
               {/* <div className="text-xl font-bold">Chapter-wise</div> */}
               {/* <Link to="/bg/1" className="sv-btn">SV-सुप्रभातम्</Link> */}
+              <Link to="/bg/1" className="sv-btn text-center">1 - Arjuna Vishada Yoga</Link>
               <Link to="/bg/2" className="sv-btn text-center">2 - Sankhya Yoga</Link>
               <Link to="/bg/3" className="sv-btn text-center">3 - Karma Yoga</Link>
+              <Link to="/bg/4" className="sv-btn text-center">4 - Jnana Karma Sanyasa Yoga</Link>
+              <Link to="/bg/5" className="sv-btn text-center">5 - Karma Sanyasa Yoga</Link>
+              <Link to="/bg/6" className="sv-btn text-center">6 - Dhyana Yoga</Link>
+              <Link to="/bg/7" className="sv-btn text-center">7 - Jnana Vijnana Yoga</Link>
+              <Link to="/bg/8" className="sv-btn text-center">8 - Aksara Brahma Yoga</Link>
+              <Link to="/bg/9" className="sv-btn text-center">9 - Raja Vidya Raja Guhya Yoga</Link>
+              <Link to="/bg/10" className="sv-btn text-center">10 - Vibhuti Yoga</Link>
+              <Link to="/bg/11" className="sv-btn text-center">11 - Vishwarupa Darshana Yoga</Link>
+              <Link to="/bg/12" className="sv-btn text-center">12 - Bhakti Yoga</Link>
+              <Link to="/bg/13" className="sv-btn text-center">13 - Kshetra Kshetragna Vibhaga Yoga</Link>
+              <Link to="/bg/14" className="sv-btn text-center">14 - Gunatraya Vibhaga Yoga</Link>
+              <Link to="/bg/15" className="sv-btn text-center">15 - Purushottama Yoga</Link>
+              <Link to="/bg/16" className="sv-btn text-center">16 - Daivasura Sampad Vibhaga Yoga</Link>
+              <Link to="/bg/17" className="sv-btn text-center">17 - Sraddhatraya Vibhaga Yoga</Link>
+              <Link to="/bg/18" className="sv-btn text-center">18 - Moksha Sanyasa Yoga</Link>
               {/* <Link to="/svs/4" className="sv-btn">SV-मङ्गलाशासनम्</Link> */}
             </div>   
 
