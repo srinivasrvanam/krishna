@@ -178,6 +178,41 @@ const verses = [
       'त्यजेत् = one should abandon'
     ],
   },
+  {
+    chapter : 16,
+    number  : 22,
+    sloka   : [
+      'एतैर्विमुक्त: कौन्तेय तमोद्वारैस्त्रिभिर्नर: |',
+      'आचरत्यात्मन: श्रेयस्ततो याति परां गतिम् || 22 ||'
+    ],
+    vicheda : [
+      'एतै: विमुक्त: कौन्तेय तमः-द्वारैः त्रिभिः नरः |',
+      'आचरति आत्मनः श्रेयः ततः याति परां गतिम् ||'
+    ],
+    anvaya  : [
+      'हे कौन्तेय !',
+      'एतै: त्रिभिः तमः-द्वारैः विमुक्त: नरः, आत्मनः श्रेयः आचरति ।',
+      'ततः परां गतिम् याति ।',
+    ],
+    transl  : [
+      "O son of Kunti, a man who is freed from these three gates of darkness — lust, anger, and greed — acts for the good of the soul and thereby attains the supreme goal." 
+    ],
+    notes   : [
+      'एतैः = from these',
+      'विमुक्तः = freed',
+      'कौन्तेय = O son of Kunti',
+      'तमः-द्वारैः = gates of darkness (hell)',
+      'त्रिभिः = three',
+      'नरः = man',
+      'आचरति = practices / pursues',
+      'आत्मनः = of the self',
+      'श्रेयः = good / ultimate welfare',
+      'ततः = then / thereby',
+      'याति = attains',
+      'पराम् = supreme',
+      'गतिम् = goal / destination'
+    ],
+  },
 ];
 
 export default verses;
