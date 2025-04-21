@@ -246,6 +246,38 @@ const verses = [
       'गतिम् = goal / destination'
     ],
   },
+  {
+    chapter : 16,
+    number  : 24,
+    sloka   : [
+      'तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ |',
+      'ज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि || 24 ||'
+    ],
+    vicheda : [
+      'तस्मात् शास्त्रम् प्रमाणं ते कार्याकार्यव्यवस्थितौ |',
+      'ज्ञात्वा शास्त्र-विधान-उक्तम् कर्म कर्तुम् इह अर्हसि ||'
+    ],
+    anvaya  : [
+      'तस्मात् ते कार्याकार्यव्यवस्थितौ शास्त्रम् प्रमाणम् |',
+      'शास्त्रविधानोक्तम् कर्म ज्ञात्वा, इह कर्तुम् अर्हसि |',
+    ],
+    transl  : [
+      "Therefore, let scripture be your authority in determining what is to be done and what is not to be done. Knowing the ordinances of the scripture, you ought to perform action here." 
+    ],
+    notes   : [
+      'तस्मात् = therefore',
+      'शास्त्रम् = scripture',
+      'प्रमाणम् = authority / standard',
+      'ते = for you',
+      'कार्याकार्यव्यवस्थितौ = in determining what is to be done and not done',
+      'ज्ञात्वा = knowing',
+      'शास्त्रविधानोक्तम् = as prescribed by scriptural ordinance',
+      'कर्म = action / duty',
+      'कर्तुम् = to do',
+      'इह = here (in this world)',
+      'अर्हसि = you ought'
+    ],
+  },
 ];
 
 export default verses;
