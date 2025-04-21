@@ -142,6 +142,42 @@ const verses = [
       'पाण्डव = O son of Pandu (Arjuna)'
     ],
   },
+  {
+    chapter : 16,
+    number  : 21,
+    sloka   : [
+      'त्रिविधं नरकस्येदं द्वारं नाशनमात्मन: |',
+      'काम: क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत् || 21 ||'
+    ],
+    vicheda : [
+      'त्रिविधं नरकस्य इदम् द्वारं नाशनम् आत्मनः |',
+      'काम: क्रोधः तथा लोभः तस्मात् एतत् त्रयम् त्यजेत् ||'
+    ],
+    anvaya  : [
+      'इदम् त्रिविधम् द्वारम् नरकस्य आत्मनः नाशनम् ।',
+      'कामः, क्रोधः, तथा लोभः ।',
+      'तस्मात् एतत् त्रयम् त्यजेत् ।',
+    ],
+    transl  : [
+      "This is the threefold gate of hell, destructive of the self—lust, anger, and greed. Therefore, one should abandon these three." 
+    ],
+    notes   : [
+      'त्रिविधम् = threefold',
+      'नरकस्य = of hell',
+      'इदम् = this',
+      'द्वारम् = gate / door',
+      'नाशनम् = destructive',
+      'आत्मनः = of the soul / self',
+      'कामः = lust / desire',
+      'क्रोधः = anger',
+      'तथा = and also',
+      'लोभः = greed',
+      'तस्मात् = therefore',
+      'एतत् = these',
+      'त्रयम् = three',
+      'त्यजेत् = one should abandon'
+    ],
+  },
 ];
 
 export default verses;
