@@ -213,6 +213,39 @@ const verses = [
       'गतिम् = goal / destination'
     ],
   },
+  {
+    chapter : 16,
+    number  : 23,
+    sloka   : [
+      'य: शास्त्रविधिमुत्सृज्य वर्तते कामकारत: |',
+      'न स सिद्धिमवाप्नोति न सुखं न परां गतिम् || 23||'
+    ],
+    vicheda : [
+      'य: शास्त्रविधिम् उत्सृज्य वर्तते कामकारत: |',
+      'न सः सिद्धिम् अवाप्नोति न सुखं न परां गतिम् ||'
+    ],
+    anvaya  : [
+      'य: शास्त्रविधिम् उत्सृज्य कामकारत: वर्तते |',
+      'सः न (सिद्धिम् / सुखं / परां गतिम्) अवाप्नोति |',
+    ],
+    transl  : [
+      "He who acts according to his desires, abandoning the injunctions of the scriptures, does not attain perfection, nor happiness, nor the supreme goal." 
+    ],
+    notes   : [
+      'यः = who',
+      'शास्त्रविधिम् = scriptural injunctions',
+      'उत्सृज्य = disregarding / abandoning',
+      'वर्तते = acts / behaves',
+      'कामकारतः = according to desire / out of lust',
+      'न = not',
+      'सः = he',
+      'सिद्धिम् = perfection / success',
+      'अवाप्नोति = attains',
+      'सुखम् = happiness',
+      'पराम् = supreme',
+      'गतिम् = goal / destination'
+    ],
+  },
 ];
 
 export default verses;
