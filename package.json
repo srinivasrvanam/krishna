@@ -2,7 +2,7 @@
   "name": "krishna",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://srinivasrvanam.github.io/krishna/",
+  "homepage": "http://govindaseva.com",
   "dependencies": {
     "@tailwindcss/vite": "^4.0.15",
     "@testing-library/dom": "^10.4.0",
