@@ -56,7 +56,7 @@ const verses = [
           "हे कमलाकान्त ! उत्तिष्ठ त्रैलोक्यं मङ्गलं कुरु ।",
       ],
       transl: [
-          "O Govinda!, please wake up, please wake up. O Lord (with Garuda in his flag)!, please wake up. O beloved of Mother Lakshmi, please wake up, and grant auspiciousness to all the three worlds",
+          "O Govinda!, please wake up, please wake up. O Lord (with Garuda in his flag)!, please wake up. O beloved of Mother Lakshmi, please wake up, and grant auspiciousness to all the three worlds.",
 
           // "2. Arise, arise, O Govinda! Arise, O Garuda-flagged one! Arise, O Lord of the lotus! Do good to the three worlds!",
 
@@ -101,7 +101,7 @@ const verses = [
           "तव सुप्रभातम् (भवतु) |",
       ],
       transl: [
-          "O beloved wife of Sri Venkatesa!",
+          "O Mother Lakshmi! (beloved wife of Sri Venkatesa)",
           "- who is the Mother of all the Worlds (entire universe)",
           "- who playfully resides within the Heart of Sri Govinda (who is the slayer of Madhu and Kaitaba),",
           "- who has Beautiful Divine Form",
@@ -147,16 +147,16 @@ const verses = [
           "तव सुप्रभातम् भवतु |",
       ],
       transl: [
-          "4. O beloved wife of the Lord of Vrusha hill",
-          "- who is lotus-eyed one",
-          "- who has a face as pleasant as the moon,",
+          "4. O Mother Lakshmi! (beloved wife of the Lord of Vrusha hill)",
+          "- who eyes are lotus-like,",
+          "- whose face is as pleasant as the full moon,",
           "- who is worshipped by the wives of Brahma, Shiva, and Indra,",
           "- who is the treasure of mercy,",
-          "May it be an auspicious dawn to you",
+          "May it be an auspicious dawn (morning) to you.",
 
-          "O Lotus-­‐eyed One, with a face as radiant as the Moon, who is adored by the consorts of the gods like Brahma, Siva, Indra et al, reservoir of compassion, beloved consort of the Lord of the Vrisha mountain, darling, repository of compassion.",
+          // "O Lotus-­‐eyed One, with a face as radiant as the Moon, who is adored by the consorts of the gods like Brahma, Siva, Indra et al, reservoir of compassion, beloved consort of the Lord of the Vrisha mountain, darling, repository of compassion.",
 
-          "4.1: (Salutations to Divine Mother Lakshmi) In this Beautiful Dawn of Yours, Let us see the Creation within Your Lotus-Eyes, 4.2: Let us see the Creation existing within the Halo of Your Compassionate Moon-Face, 4.3: You are Served and Worshipped by Vidhi (Sri Brahma), Sri Shankara and Indra Deva, 4.4: And Your Ocean of Compassion manifested in Creation as Abundance is cherished by the Lord of Vrishabhadra Hill.",
+          // "4.1: (Salutations to Divine Mother Lakshmi) In this Beautiful Dawn of Yours, Let us see the Creation within Your Lotus-Eyes, 4.2: Let us see the Creation existing within the Halo of Your Compassionate Moon-Face, 4.3: You are Served and Worshipped by Vidhi (Sri Brahma), Sri Shankara and Indra Deva, 4.4: And Your Ocean of Compassion manifested in Creation as Abundance is cherished by the Lord of Vrishabhadra Hill.",
       ],
       notes: [
 
