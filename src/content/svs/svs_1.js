@@ -226,7 +226,7 @@ const verses = [
           "हे शेषाद्रि-शेखर-विभो ! तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "The gods like Shiva (five-faced god), Brahma, Shanmukha (Subrahmanya/Kartikeya), Indra and others praise your pastimes like Trivikrama (Vamana Avatara) etc. The god of speech (Deva guru/Brihaspati) recites the auspiciousness of the day. O Lord of Sheshadri, may it be an auspicious dawn (morning) to you.",
+          "The gods like Shiva (five-faced god), Brahma, Shanmukha (Subrahmanya/Kartikeya), Indra and others praise your pastimes like Trivikrama (Vamana Avatara) etc. The god of speech (Deva guru/Brihaspati) recites the auspiciousness of the day. O Lord of Sheshadri! May it be an auspicious dawn (morning) to you.",
 
           // "6. The gods like Brahma, Shiva, Subrahmanya, and Indra praise your deeds like Trivikrama, and the lord of speech (Brihaspati) recites the auspiciousness of the day, O Lord of Sheshadri, may it be an auspicious dawn to you.",
 
