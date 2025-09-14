@@ -109,9 +109,9 @@ const verses = [
           "- one whose nature is to give benedictions (fulfill desires) to those devotees who takes refuge",
           "May it be an auspicious dawn to you.",
 
-          "O Mother of the Universe, who sports upon the broad chest of Lord Vishnu the vanquisher of the Demons Madhu & Kaitabha ( ego and 'mineness') O Lady of the divine form, O Lady of Oppulence, benevolent to those who take refuge in you, O Beloved consort of Venkatesa, an auspicious morning be yours.",
+          // "O Mother of the Universe, who sports upon the broad chest of Lord Vishnu the vanquisher of the Demons Madhu & Kaitabha ( ego and 'mineness') O Lady of the divine form, O Lady of Oppulence, benevolent to those who take refuge in you, O Beloved consort of Venkatesa, an auspicious morning be yours.",
 
-          "3.1 (Salutations to Divine Mother Lakshmi) In this Beautiful Dawn, O Mother of all the Worlds, Let Our Inner enemies Madhu and Kaitabha disappear, 3.2: And Let us only see Your Beautiful Divine Form playing within the Heart of Sri Govinda in the entire Creation, 3.3: You are worshipped as the Lord of all the Worlds and extremely Dear to the Devotees; and Your Liberal Disposition has created such Abundance in Creation, 3.4: Such is Your Glory that this Beautiful Dawn of Your Creation is being cherished by Sri Venkatesa Himself.",
+          // "3.1 (Salutations to Divine Mother Lakshmi) In this Beautiful Dawn, O Mother of all the Worlds, Let Our Inner enemies Madhu and Kaitabha disappear, 3.2: And Let us only see Your Beautiful Divine Form playing within the Heart of Sri Govinda in the entire Creation, 3.3: You are worshipped as the Lord of all the Worlds and extremely Dear to the Devotees; and Your Liberal Disposition has created such Abundance in Creation, 3.4: Such is Your Glory that this Beautiful Dawn of Your Creation is being cherished by Sri Venkatesa Himself.",
       ],
       notes: [
 
