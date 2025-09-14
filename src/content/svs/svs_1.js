@@ -272,11 +272,14 @@ const verses = [
           "हे शेषाद्रि-शेखर-विभो ! तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "7. The gentle breeze, carrying the divine fragrance of slightly bloomed lotuses, coconut trees, and other beautiful plants, blows gently, O Lord of Sheshadri, may it be an auspicious dawn to you.",
+          "The wind (gentle breeze), carrying the divine fragrance of beautiful plants like (slightly bloomed lotuses, coconut trees, betel nut trees etc), blows gently.", 
+          "O Lord of Sheshadri! May it be an auspicious dawn (morning) to you.", 
 
-          "The gentle breeze blows everywhere wafting the divine fragrance of the blossoms of the lotus, as well as the coconut-­‐nut and betel nut trees. O Mighty Lord of the Sheshadri mountain may this morning be auspicious for you.",
+          // "7. The gentle breeze, carrying the divine fragrance of slightly bloomed lotuses, coconut trees, and other beautiful plants, blows gently, O Lord of Sheshadri, may it be an auspicious dawn to you.",
 
-          "7.1: (Salutations to Sri Govinda) In this Beautiful Dawn, The slightly Blooming Lotuses on the Lake and the Coconut, ... 7.2: ... Betel-Nut and other Trees Beautifully set along the edge of the Lake ... 7.3: ... are Worshipping You O Lord, by blowing Gentle Breeze towards You which is filled with Divine Fragrance, 7.4: (The Trees are Singing) Salutations to You, O Govinda, the One Who Manifested on the Peak of the Seshadri Hill; Salutations to You in this Beautiful Dawn of Yours.",
+          // "The gentle breeze blows everywhere wafting the divine fragrance of the blossoms of the lotus, as well as the coconut-­‐nut and betel nut trees. O Mighty Lord of the Sheshadri mountain may this morning be auspicious for you.",
+
+          // "7.1: (Salutations to Sri Govinda) In this Beautiful Dawn, The slightly Blooming Lotuses on the Lake and the Coconut, ... 7.2: ... Betel-Nut and other Trees Beautifully set along the edge of the Lake ... 7.3: ... are Worshipping You O Lord, by blowing Gentle Breeze towards You which is filled with Divine Fragrance, 7.4: (The Trees are Singing) Salutations to You, O Govinda, the One Who Manifested on the Peak of the Seshadri Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
       notes: [
 
