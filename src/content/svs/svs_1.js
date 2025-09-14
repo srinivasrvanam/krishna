@@ -226,11 +226,13 @@ const verses = [
           "हे शेषाद्रि-शेखर-विभो ! तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "6. The gods like Brahma, Shiva, Subrahmanya, and Indra praise your deeds like Trivikrama, and the lord of speech (Brihaspati) recites the auspiciousness of the day, O Lord of Sheshadri, may it be an auspicious dawn to you.",
+          "The gods like Shiva (five-faced god), Brahma, Shanmukha (Subrahmanya/Kartikeya), Indra and others praise your pastimes like Trivikrama (Vamana Avatara) etc. The god of speech (Deva guru/Brihaspati) recites the auspiciousness of the day. O Lord of Sheshadri, may it be an auspicious dawn (morning) to you.",
 
-          "O Lord of the summit of Sheshadri mountain, Lord Siva, Brahma, Kartikeya, Indra and the others praise you by chanting your pastimes as Vamana etc. The preceptor of the gods Jupiter stands near, reciting the astrological parameters for this day, proclaiming its auspiciousness, so please arise, may your morning be auspicious.",
+          // "6. The gods like Brahma, Shiva, Subrahmanya, and Indra praise your deeds like Trivikrama, and the lord of speech (Brihaspati) recites the auspiciousness of the day, O Lord of Sheshadri, may it be an auspicious dawn to you.",
 
-          "6.1: (Salutations to Sri Govinda) In this Beautiful Dawn, Sri Panchanana (Five-Faced Brahma) abiding on Lotus, Sri Shanmukha (Six-Faced Subramaniya), Indra Deva and Other Devas, 6.2: Are praising the Divine Deeds of Trivikrama (Who covered the 3 worlds with his steps) and other Incarnations of Yours, 6.3: Sri Brihaspati, the Lord of Sacred Speech is Reciting the Sacred Hymns to Purify the Day, 6.4: (The Gods are Singing) Salutations to You, O Govinda, the One Who Manifested on the Peak of the Seshadri Hill; Salutations to You in this Beautiful Dawn of Yours.",
+          // "O Lord of the summit of Sheshadri mountain, Lord Siva, Brahma, Kartikeya, Indra and the others praise you by chanting your pastimes as Vamana etc. The preceptor of the gods Jupiter stands near, reciting the astrological parameters for this day, proclaiming its auspiciousness, so please arise, may your morning be auspicious.",
+
+          // "6.1: (Salutations to Sri Govinda) In this Beautiful Dawn, Sri Panchanana (Five-Faced Brahma) abiding on Lotus, Sri Shanmukha (Six-Faced Subramaniya), Indra Deva and Other Devas, 6.2: Are praising the Divine Deeds of Trivikrama (Who covered the 3 worlds with his steps) and other Incarnations of Yours, 6.3: Sri Brihaspati, the Lord of Sacred Speech is Reciting the Sacred Hymns to Purify the Day, 6.4: (The Gods are Singing) Salutations to You, O Govinda, the One Who Manifested on the Peak of the Seshadri Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
       notes: [
           "पञ्चानन = पञ्च (5) + आनन (face) = 5 faced - Lord Shiva",
