@@ -321,11 +321,18 @@ const verses = [
           "हे शेषाद्रि-शेखर-विभो ! तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "8. Opening their eyes, the parrots in the best cages, having eaten the remaining bananas and sweet rice, recite playfully, O Lord of Sheshadri, may it be an auspicious dawn to you.",
+          "Now",
+          "The Parrots (kept in the best cages)",
+          "- having opened their eyes,",
+          "- having playfully eaten the leftover bananas and sweet rice in their bowls,",
+          "are singing (your names).",
+          "O Lord of Sheshadri! May it be an auspicious dawn (morning) to you.",
 
-          "O Mighty Lord of the Sheshadri mountain, the parrots kept for your pleasure in the best of cages, have opened their eyes and have eaten the plantains and milk pudding, and have begun calling out with joy, you too please arise now, and may this morning be auspicious for you.",
+          // "8. Opening their eyes, the parrots in the best cages, having eaten the remaining bananas and sweet rice, recite playfully, O Lord of Sheshadri, may it be an auspicious dawn to you.",
 
-          "8.1: (Salutations to Sri Govinda) In this Beautiful Dawn, opening their pair of Eyes those excellent Parrots living within the Cage, 8.2: See Your Prasad consisting of Sweet Payasam mixed with Bananas Leftover in their Bowls; 8.3: And having eaten them Playfully, they are Playfully Reciting Your Hymns, 8.4: (The Parrots are Singing) Salutations to You, O Govinda, the One Who Manifested on the Peak of the Seshadri Hill; Salutations to You in this Beautiful Dawn of Yours.",
+          // "O Mighty Lord of the Sheshadri mountain, the parrots kept for your pleasure in the best of cages, have opened their eyes and have eaten the plantains and milk pudding, and have begun calling out with joy, you too please arise now, and may this morning be auspicious for you.",
+
+          // "8.1: (Salutations to Sri Govinda) In this Beautiful Dawn, opening their pair of Eyes those excellent Parrots living within the Cage, 8.2: See Your Prasad consisting of Sweet Payasam mixed with Bananas Leftover in their Bowls; 8.3: And having eaten them Playfully, they are Playfully Reciting Your Hymns, 8.4: (The Parrots are Singing) Salutations to You, O Govinda, the One Who Manifested on the Peak of the Seshadri Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
       notes: [
 
