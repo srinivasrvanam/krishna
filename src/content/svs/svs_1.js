@@ -438,11 +438,18 @@ const verses = [
           "हे शेषाद्रि-शेखर-विभो ! तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "10. The swarm of bees, filled with the nectar of flowers, hum sweet songs as they come out of the lotus flowers in the nearby lakes, O Lord of Sheshadri, may it be an auspicious dawn to you.",
+          "and The swarm of bees",
+          "- filled with the nectar of flowers,",
+          "- with the sweet sounds of buzzing music,",
+          "- for the purpose of serving (you),",
+          "are coming out of the lotus flowers in the nearby lakes.",
+          "O Lord of Sheshadri! May it be an auspicious dawn (morning) to you.",
 
-          "Swarms of black bees praise you through their buzzing as they dip into the nectar of the flowers. Emerging from the lotus blossoms of the nearby lake they come to render service to you. O Lord of the summit of Sheshadri, let the morning be auspicious for you.",
+          // "10. The swarm of bees, filled with the nectar of flowers, hum sweet songs as they come out of the lotus flowers in the nearby lakes, O Lord of Sheshadri, may it be an auspicious dawn to you.",
 
-          "10.1: (Salutations to Sri Govinda) In this Beautiful Dawn the swarm of Bees who were staying all Night within the Lotus Flowers abounding in the Juice of Honey ... 10.2 ... is Worshipping You at Dawn with the Sweet Sound of their Buzzing Music .. 10.3: ... after they came out of the interior of the Lotus Flowers towards the edge of the Lake. 10.4: (The Bees are Singing) Salutations to You, O Govinda, the One Who Manifested on the Peak of the Seshadri Hill; Salutations to You in this Beautiful Dawn of Yours.",
+          // "Swarms of black bees praise you through their buzzing as they dip into the nectar of the flowers. Emerging from the lotus blossoms of the nearby lake they come to render service to you. O Lord of the summit of Sheshadri, let the morning be auspicious for you.",
+
+          // "10.1: (Salutations to Sri Govinda) In this Beautiful Dawn the swarm of Bees who were staying all Night within the Lotus Flowers abounding in the Juice of Honey ... 10.2 ... is Worshipping You at Dawn with the Sweet Sound of their Buzzing Music .. 10.3: ... after they came out of the interior of the Lotus Flowers towards the edge of the Lake. 10.4: (The Bees are Singing) Salutations to You, O Govinda, the One Who Manifested on the Peak of the Seshadri Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
       notes: [
 
