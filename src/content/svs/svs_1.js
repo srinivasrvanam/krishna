@@ -188,11 +188,13 @@ const verses = [
           "हे शेषाद्रि-शेखर-विभो ! तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "5. The seven sages (Atri and others) , having worshipped the dawn, and having brought beautiful lotuses from the celestial Ganges, are ready to worship your feet, O Lord of Sheshadri, may it be an auspicious dawn to you.",
+          "O Lord of Sheshadri! The seven sages (Atri maharshi and others) having worshipped the dawn (performed the morning rituals), and having taken the beautiful lotuses from the celestial Ganga, have come to worship your both feet. May it be an auspicious dawn (morning) to you.",
+          
+          // "5. The seven sages (Atri and others) , having worshipped the dawn, and having brought beautiful lotuses from the celestial Ganges, are ready to worship your feet, O Lord of Sheshadri, may it be an auspicious dawn to you.",
 
-          "O Lord of Sheshadri, behold the seven sages Atri and the others, having performed their morning rites, bearing with them the charming lotuses of the sacred river; have arrived for worshipping your lotus feet. So please arise now, may your morning be auspicious.",
+          // "O Lord of Sheshadri, behold the seven sages Atri and the others, having performed their morning rites, bearing with them the charming lotuses of the sacred river; have arrived for worshipping your lotus feet. So please arise now, may your morning be auspicious.",
 
-          "5.1: (Salutations to Sri Govinda) In this Beautiful Dawn when the Night is meeting the Day, Sage Atri and other Sapta Rishis are chanting the Morning Prayers together ... 5.2: ... near the Akasa Ganga River on which is blossoming the Beautiful Lotuses; 5.3: And then taking Refuge in Your Lotus Feet they are Worshipping them, 5.4: (The Sapta-Rishis are Singing) Salutations to You, O Govinda, the One Who Manifested on the Peak of the Seshadri Hill; Salutations to You in this Beautiful Dawn of Yours.",
+          // "5.1: (Salutations to Sri Govinda) In this Beautiful Dawn when the Night is meeting the Day, Sage Atri and other Sapta Rishis are chanting the Morning Prayers together ... 5.2: ... near the Akasa Ganga River on which is blossoming the Beautiful Lotuses; 5.3: And then taking Refuge in Your Lotus Feet they are Worshipping them, 5.4: (The Sapta-Rishis are Singing) Salutations to You, O Govinda, the One Who Manifested on the Peak of the Seshadri Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
       notes: [
 
