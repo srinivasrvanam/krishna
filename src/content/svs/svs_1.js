@@ -56,11 +56,13 @@ const verses = [
           "हे कमलाकान्त ! उत्तिष्ठ त्रैलोक्यं मङ्गलं कुरु ।",
       ],
       transl: [
-          "2. Arise, arise, O Govinda! Arise, O Garuda-flagged one! Arise, O Lord of the lotus! Do good to the three worlds!",
+          "O Govinda!, please wake up, please wake up. O Lord (with Garuda in his flag)!, please wake up. O beloved of Mother Lakshmi, please wake up, and grant auspiciousness to all the three worlds",
 
-          "O Govinda (lord of the Universe), O Lord of the Garuda Ensign, O Lover of Lakshmi, Please arise and grant auspiciousness to all the three realms (the physical world, the mental world and the transcendental world).",
+          // "2. Arise, arise, O Govinda! Arise, O Garuda-flagged one! Arise, O Lord of the lotus! Do good to the three worlds!",
 
-          "2.1: (Salutations to Sri Govinda) In this Beautiful Dawn Wake Up, Wake Up O Govinda within Our Hearts. Wake Up O the One with Garuda in His Flag, 2.2: Please Wake Up, O Beloved of Kamala and fill the Hearts of the Devotees in the Three Worlds with the Auspicious Bliss of Your Presence.",
+          // "O Govinda (lord of the Universe), O Lord of the Garuda Ensign, O Lover of Lakshmi, Please arise and grant auspiciousness to all the three realms (the physical world, the mental world and the transcendental world).",
+
+          // "2.1: (Salutations to Sri Govinda) In this Beautiful Dawn Wake Up, Wake Up O Govinda within Our Hearts. Wake Up O the One with Garuda in His Flag, 2.2: Please Wake Up, O Beloved of Kamala and fill the Hearts of the Devotees in the Three Worlds with the Auspicious Bliss of Your Presence.",
       ],
       notes: [
 
