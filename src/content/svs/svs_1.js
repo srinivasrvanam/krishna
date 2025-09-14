@@ -384,13 +384,19 @@ const verses = [
           "हे शेषाद्रि-शेखर-विभो ! तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "9. With the sweet sound of the harp, Narada sings your endless deeds, O Lord of Sheshadri, may it be an auspicious dawn to you.",
+          "Devarshi Narada also",
+          "- with the sweet sound produced by pulling strings of his Veena,",
+          "- beautifully waving his hand often,",
+          "is singing your infinite pastimes (expressed in fine language).",
+          "O Lord of Sheshadri! May it be an auspicious dawn (morning) to you.",
 
-          "O Mighty Lord of Sheshadri, the celestial sage Narada expertly plucks the strings of his vina with his delicate hands. The pleasant strains of his music resound around about. He chants your praises and sings of your glorious pastimes, so now please arise and let the morning be auspicious for you.",
+          // "9. With the sweet sound of the harp, Narada sings your endless deeds, O Lord of Sheshadri, may it be an auspicious dawn to you.",
 
-          "9.1: (Salutations to Sri Govinda) In this Beautiful Dawn the string of the Lute of Sage Narada is emitting exceedingly Sweet Music, 9.2: And Sage Narada is Singing Your Endless Divine Deeds, 9.3: And all those descriptions of Your Deeds spreading out ( i.e. wandering ) in streams (i.e. repeatedly ) in all Directions are delightful to the Devotees, 9.4: (Sage Narada is Singing) Salutations to You, O Govinda, the One Who Manifested on the Peak of the Seshadri Hill; Salutations to You in this Beautiful Dawn of Yours.",
+          // "O Mighty Lord of Sheshadri, the celestial sage Narada expertly plucks the strings of his vina with his delicate hands. The pleasant strains of his music resound around about. He chants your praises and sings of your glorious pastimes, so now please arise and let the morning be auspicious for you.",
 
-          "Sriram Cadambi The sage Narada with his Veena of sweet music produced by tight grip of his strings, is singing in praise of your endless deeds, expressed in fine language, and by beautifully waving the hand often. Oh. the one who manifested on the peak of Seshadri hill, May it be an auspicious dawn for you.",
+          // "9.1: (Salutations to Sri Govinda) In this Beautiful Dawn the string of the Lute of Sage Narada is emitting exceedingly Sweet Music, 9.2: And Sage Narada is Singing Your Endless Divine Deeds, 9.3: And all those descriptions of Your Deeds spreading out ( i.e. wandering ) in streams (i.e. repeatedly ) in all Directions are delightful to the Devotees, 9.4: (Sage Narada is Singing) Salutations to You, O Govinda, the One Who Manifested on the Peak of the Seshadri Hill; Salutations to You in this Beautiful Dawn of Yours.",
+
+          // "Sriram Cadambi The sage Narada with his Veena of sweet music produced by tight grip of his strings, is singing in praise of your endless deeds, expressed in fine language, and by beautifully waving the hand often. Oh. the one who manifested on the peak of Seshadri hill, May it be an auspicious dawn for you.",
       ],
       notes: [
 
@@ -400,6 +406,7 @@ const verses = [
           "स्वनया = स्वन (sound - तृतीया.वि. - एक.व.)",
           "विपञ्च्या = (विपञ्ची - स्त्री - तृतीया.वि. - एक.व.) - वीणा",
           "कर-चार-रम्यम् = beautifully waving the hand",
+          "सकृत् = once/one time",
           "असकृत् = repeatedly, again and again, often",
           "तव = your",
           "अनन्त-चरितं = endless glories (pastimes/deeds)",
