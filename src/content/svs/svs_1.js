@@ -148,7 +148,7 @@ const verses = [
       ],
       transl: [
           "4. O Mother Lakshmi! (beloved wife of the Lord of Vrusha hill)",
-          "- who eyes are lotus-like,",
+          "- whose eyes are lotus-like,",
           "- whose face is as pleasant as the full moon,",
           "- who is worshipped by the wives of Brahma, Shiva, and Indra,",
           "- who is the treasure of mercy,",
