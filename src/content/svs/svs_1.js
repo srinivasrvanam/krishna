@@ -16,7 +16,8 @@ const verses = [
           "हे नरशार्दूल! उत्तिष्ठ दैवम्-आह्निकम् कर्तव्यं ।",
       ],
       transl: [
-          "O Rama (Virtuous son of Kausalya), dawn is happening (sun is rising) in the east. O best among men (tiger among men), please wake up, as the daily divine duties should be performed.",
+          "O Rama (Virtuous son of Kausalya)! dawn is happening (sun is rising) in the east.",
+          "O best among men (tiger among men)! please wake up, as the daily divine duties should be performed.",
           
           // "1. O Rama, son of Kausalya, the auspicious dawn is rising in the east.",
 
@@ -56,7 +57,9 @@ const verses = [
           "हे कमलाकान्त ! उत्तिष्ठ त्रैलोक्यं मङ्गलं कुरु ।",
       ],
       transl: [
-          "O Govinda!, please wake up, please wake up. O Lord (with Garuda in his flag)!, please wake up. O beloved of Mother Lakshmi, please wake up, and grant auspiciousness to all the three worlds.",
+          "O Govinda! please wake up, please wake up.", 
+          "O Lord (with Garuda in his flag)! please wake up.", 
+          "O Madhava (beloved of Mother Lakshmi)! please wake up, and grant auspiciousness to all the three worlds.",
 
           // "2. Arise, arise, O Govinda! Arise, O Garuda-flagged one! Arise, O Lord of the lotus! Do good to the three worlds!",
 
@@ -102,9 +105,9 @@ const verses = [
       ],
       transl: [
           "O Mother Lakshmi! (beloved wife of Sri Venkatesa)",
-          "- who is the Mother of all the Worlds (entire universe)",
-          "- who playfully resides within the Heart of Sri Govinda (who is the slayer of Madhu and Kaitaba),",
-          "- who has Beautiful Divine Form",
+          "- who is the Mother of all the worlds (entire universe)",
+          "- who playfully resides within the heart of Govinda (slayer of Madhu and Kaitaba),",
+          "- who has beautiful divine form",
           "- who is the Goddess of wealth",
           "- one whose nature is to give benedictions (fulfill desires) to those devotees who takes refuge",
           "May it be an auspicious dawn (morning) to you.",
@@ -147,10 +150,10 @@ const verses = [
           "तव सुप्रभातम् भवतु |",
       ],
       transl: [
-          "4. O Mother Lakshmi! (beloved wife of the Lord of Vrusha hill)",
+          "O Mother Lakshmi! (beloved wife of the Lord of Vrusha hill)",
           "- whose eyes are lotus-like,",
           "- whose face is as pleasant as the full moon,",
-          "- who is worshipped by the wives of Brahma, Shiva, and Indra,",
+          "- who is worshipped by the wives of Brahma (Saraswati), Shiva (Parvati), and Indra (Sachi Devi),",
           "- who is the treasure of mercy,",
           "May it be an auspicious dawn (morning) to you.",
 
@@ -188,7 +191,11 @@ const verses = [
           "हे शेषाद्रि-शेखर-विभो ! तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "O Lord of Sheshadri! The seven sages (Atri maharshi and others) having worshipped the dawn (performed the morning rituals), and having taken the beautiful lotuses from the celestial Ganga, have come to worship your both feet. May it be an auspicious dawn (morning) to you.",
+          "The seven sages (Atri maharshi and others)", 
+          "- having worshipped the dawn (performed the morning rituals),", 
+          "- and having taken the beautiful lotuses from the celestial Ganga,", 
+          "have come to worship your feet.", 
+          "O Lord of Sheshadri! May it be an auspicious dawn (morning) to you.",
           
           // "5. The seven sages (Atri and others) , having worshipped the dawn, and having brought beautiful lotuses from the celestial Ganges, are ready to worship your feet, O Lord of Sheshadri, may it be an auspicious dawn to you.",
 
@@ -226,7 +233,9 @@ const verses = [
           "हे शेषाद्रि-शेखर-विभो ! तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "The gods like Shiva (five-faced god), Brahma, Shanmukha (Subrahmanya/Kartikeya), Indra and others praise your pastimes like Trivikrama (Vamana Avatara) etc. The god of speech (Deva guru/Brihaspati) recites the auspiciousness of the day. O Lord of Sheshadri! May it be an auspicious dawn (morning) to you.",
+          "The gods like Shiva (five-faced god), Brahma, Shanmukha (Subrahmanya/Kartikeya), Indra and others praise your pastimes like Trivikrama (Vamana Avatara) etc.", 
+          "The god of speech (Deva guru/Brihaspati) recites the auspiciousness of the day.", 
+          "O Lord of Sheshadri! May it be an auspicious dawn (morning) to you.",
 
           // "6. The gods like Brahma, Shiva, Subrahmanya, and Indra praise your deeds like Trivikrama, and the lord of speech (Brihaspati) recites the auspiciousness of the day, O Lord of Sheshadri, may it be an auspicious dawn to you.",
 
@@ -272,7 +281,9 @@ const verses = [
           "हे शेषाद्रि-शेखर-विभो ! तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "The wind (gentle breeze), carrying the divine fragrance of beautiful plants like (slightly bloomed lotuses, coconut trees, betel nut trees etc), blows gently.", 
+          "The wind (gentle breeze),", 
+          "- carrying the divine fragrance of beautiful plants like (slightly bloomed lotuses, coconut trees, betel nut trees etc),", 
+          "blows gently.", 
           "O Lord of Sheshadri! May it be an auspicious dawn (morning) to you.", 
 
           // "7. The gentle breeze, carrying the divine fragrance of slightly bloomed lotuses, coconut trees, and other beautiful plants, blows gently, O Lord of Sheshadri, may it be an auspicious dawn to you.",
