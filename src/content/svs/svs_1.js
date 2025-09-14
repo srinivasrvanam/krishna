@@ -101,13 +101,13 @@ const verses = [
           "तव सुप्रभातम् (भवतु) |",
       ],
       transl: [
-          "3. O beloved wife of Sri Venkatesha",
+          "O beloved wife of Sri Venkatesa!",
           "- who is the Mother of all the Worlds (entire universe)",
           "- who playfully resides within the Heart of Sri Govinda (who is the slayer of Madhu and Kaitaba),",
           "- who has Beautiful Divine Form",
           "- who is the Goddess of wealth",
           "- one whose nature is to give benedictions (fulfill desires) to those devotees who takes refuge",
-          "May it be an auspicious dawn to you.",
+          "May it be an auspicious dawn (morning) to you.",
 
           // "O Mother of the Universe, who sports upon the broad chest of Lord Vishnu the vanquisher of the Demons Madhu & Kaitabha ( ego and 'mineness') O Lady of the divine form, O Lady of Oppulence, benevolent to those who take refuge in you, O Beloved consort of Venkatesa, an auspicious morning be yours.",
 
