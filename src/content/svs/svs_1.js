@@ -494,11 +494,18 @@ const verses = [
           "हे शेषाद्रि-शेखर-विभो ! तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "11. The women, churning the curd in the houses, make a loud noise, and the pots clash with each other in anger, O Lord of Sheshadri, may it be an auspicious dawn to you.",
+          "The loud noises of churning curd",
+          "- in the houses (where cows are kept)/(Goshala),",
+          "- by the group of cowherd women (gopikas)",
+          "- while churning excellent (Shreshta) curd,",
+          "appear as if the directions of space (Kakubhah) and the clay pots (Kumbha) are engaged in a battle due to anger.",
+          "O Lord of Sheshadri! May it be an auspicious dawn (morning) to you.",
 
-          "In the cow-­‐sheds the women churn excellent curd, with a roar, as if the directions of space and the clay pots were engaging in a battle. O Lord of the summit of Sheshadri, let the morning be auspicious for you.",
+          // "11. The women, churning the curd in the houses, make a loud noise, and the pots clash with each other in anger, O Lord of Sheshadri, may it be an auspicious dawn to you.",
 
-          "11.1: (Salutations to Sri Govinda) In this Beautiful Dawn the Cowherd Girls are engaged in producing the best of Curds, 11.2: The loud sound of Churning of the Curds are coming from their Houses, 11.3: Where their Churning Rods and lofty Pitchers are engaged in passionate strife to produce the best of Curds, 11.4: (The Cowherd Girls are Singing) Salutations to You, O Govinda, the One Who Manifested on the Peak of the Seshadri Hill; Salutations to You in this Beautiful Dawn of Yours.",
+          // "In the cow-­‐sheds the women churn excellent curd, with a roar, as if the directions of space and the clay pots were engaging in a battle. O Lord of the summit of Sheshadri, let the morning be auspicious for you.",
+
+          // "11.1: (Salutations to Sri Govinda) In this Beautiful Dawn the Cowherd Girls are engaged in producing the best of Curds, 11.2: The loud sound of Churning of the Curds are coming from their Houses, 11.3: Where their Churning Rods and lofty Pitchers are engaged in passionate strife to produce the best of Curds, 11.4: (The Cowherd Girls are Singing) Salutations to You, O Govinda, the One Who Manifested on the Peak of the Seshadri Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
       notes: [
 
