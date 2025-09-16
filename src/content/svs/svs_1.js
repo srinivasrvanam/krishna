@@ -543,17 +543,23 @@ const verses = [
       anvaya: [
           "पद्म-ईश-मित्र-शत-पत्र-गत-अलि-वर्गाः",
           "- निज-अङ्ग-लक्ष्म्या कुवलयस्य श्रियं हर्तुं",
-          "- भेरी-निनादम् इव तीव्र-नादम्",
-          "बिभ्रति ।",
+          "- भेरी-निनादम् इव",
+          "तीव्र-नादम् बिभ्रति ।",
 
           "हे शेषाद्रि-शेखर-विभो ! तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "12. The bees, friends of the lotus, make a loud noise like the sound of drums to steal the beauty of the blue water lily with their own beauty, O Lord of Sheshadri, may it be an auspicious dawn to you.",
+          "The swarm of bees (friends of lotus) within the 100 petaled lotuses",
+          "- to steal the beauty of the blue water lily (kuvalaya) with their own beauty,",
+          "- like the sound of kettle drum (bheri),",
+          "are making a loud noise",
+          "O Lord of Sheshadri! May it be an auspicious dawn (morning) to you.",
 
-          "O Lord of Sheshadri, behold! The swarm of bees that was hidden in the lotus — the friend of the sun, exceed the blue water lily in their beauty, rising they make a tumultuous sound like that of the kettle-­‐drum. Please arise and let the morning be auspicious for you.",
+          // "12. The bees, friends of the lotus, make a loud noise like the sound of drums to steal the beauty of the blue water lily with their own beauty, O Lord of Sheshadri, may it be an auspicious dawn to you.",
 
-          "12.1: (Salutations to Sri Govinda) In this Beautiful Dawn, O possessor of Lotus in the Navel and sustainer of the World, the swarm of Bees within the Hundred-Petalled Lotuses, 12.2: Who have surpassed in their Blue Lustre (which is the Color of Sri Vishnu), the Lustre of the Blue Water Lily's own form, 12.3: Are conveying with their loud Humming Sound which appears like the Sound of the Kettle-Drum, the Rise of the Blue Form (i.e. Sri Vishnu) in the Dawn, 12.4: (The Bees are Singing) Salutations to You, O Govinda, the One Who Manifested on the Peak of the Seshadri Hill; Salutations to You in this Beautiful Dawn of Yours.",
+          // "O Lord of Sheshadri, behold! The swarm of bees that was hidden in the lotus — the friend of the sun, exceed the blue water lily in their beauty, rising they make a tumultuous sound like that of the kettle-­‐drum. Please arise and let the morning be auspicious for you.",
+
+          // "12.1: (Salutations to Sri Govinda) In this Beautiful Dawn, O possessor of Lotus in the Navel and sustainer of the World, the swarm of Bees within the Hundred-Petalled Lotuses, 12.2: Who have surpassed in their Blue Lustre (which is the Color of Sri Vishnu), the Lustre of the Blue Water Lily's own form, 12.3: Are conveying with their loud Humming Sound which appears like the Sound of the Kettle-Drum, the Rise of the Blue Form (i.e. Sri Vishnu) in the Dawn, 12.4: (The Bees are Singing) Salutations to You, O Govinda, the One Who Manifested on the Peak of the Seshadri Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
       notes: [
 
