@@ -603,11 +603,21 @@ const verses = [
           "श्री-वेङ्कट-अचल-पते ! तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "13. O Srinivasa, the bestower of desired boons, the friend of all the worlds, the ocean of compassion, the divine form in the house of the gods, O Lord of Venkata hill, may it be an auspicious dawn to you.",
+          "O Lord ",
+          "- who is possessor of Sri (wealth, prosperity, beauty)",
+          "- who is bestower of desired boons",
+          "- who is the friend of all the worlds (the entire universe),",
+          "- who is the abode of Sri (Mother Lakshmi)",
+          "- who is the only ocean of compassion in the world,",
+          "- whose chest (Vakshasthala) is the abode of Mother Lakshmi",
+          "- who has the divine form", 
+          "O Lord of Venkatachala! May it be an auspicious dawn (morning) to you.",
 
-          "O Lord of prosperity, fulfiller of desires! Friend of the entire universe! The repository of Beauty and Wealth! You alone are the ocean of compassion. Upon your broad chest dwells Lakshmi our Mediatrix. O you of divine visage! O Lord of Mount Venkata, let the morning be auspicious for you.",
+          // "13. O Srinivasa, the bestower of desired boons, the friend of all the worlds, the ocean of compassion, the divine form in the house of the gods, O Lord of Venkata hill, may it be an auspicious dawn to you.",
 
-          "13.1: (Salutations to Sri Govinda) In this Beautiful Dawn the Devotees are Invoking You, O Govinda, the possessor of Sri, the desired end of the Devotees, Giver of Boons and Friend of the Entire World, 13.2: The Devotees are Invoking You O Sri Srinivasa, the One (Purusha) in the World Who is the One Ocean of Compassion, 13.3: The One with Divine Form Whose Vakshasthala (Chest) is the Abode of Divine Mother Sri, 13.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
+          // "O Lord of prosperity, fulfiller of desires! Friend of the entire universe! The repository of Beauty and Wealth! You alone are the ocean of compassion. Upon your broad chest dwells Lakshmi our Mediatrix. O you of divine visage! O Lord of Mount Venkata, let the morning be auspicious for you.",
+
+          // "13.1: (Salutations to Sri Govinda) In this Beautiful Dawn the Devotees are Invoking You, O Govinda, the possessor of Sri, the desired end of the Devotees, Giver of Boons and Friend of the Entire World, 13.2: The Devotees are Invoking You O Sri Srinivasa, the One (Purusha) in the World Who is the One Ocean of Compassion, 13.3: The One with Divine Form Whose Vakshasthala (Chest) is the Abode of Divine Mother Sri, 13.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
       notes: [
 
