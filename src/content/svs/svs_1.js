@@ -700,19 +700,20 @@ const verses = [
           "श्री-वेङ्कट-अचलपते तव सुप्रभातम् ॥",
       ],
       anvaya: [
-          "त्वदीय वसतेः",
-          "श्री- (शेषशैल) - (गरुडाचल) - (वेङ्कटाद्रि)",
-          "(नारायणाद्रि) - (वृषभाद्रि) - (वृषाद्रि)",
-          "मुख्याम् आख्यां अनिशं वदन्ति ।",
-
+          "श्री- (शेषशैल) - (गरुडाचल) - (वेङ्कटाद्रि) - (नारायणाद्रि) - (वृषभाद्रि) - (वृषाद्रि)",
+          "त्वदीय वसतेः मुख्याम् आख्यां अनिशं वदन्ति ।",
           "हे श्री-वेङ्कट-अचल-पते ! तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "15. The names of your abode, Shesha Shaila, Garuda Achala, Venkata hill, Narayana hill, Vrishabhachala, and Vrishadri, are always spoken, O Lord of Venkata hill, may it be an auspicious dawn to you.",
+          "Sheshaadri, Garudaadri, Venkataadri, Narayanaadri, Vrishabhaadri, and Vrishaadri,",
+          "are always spoken of as places where you reside,",
+          "O Lord of Venkatachala! May it be an auspicious dawn (morning) to you.",
 
-          "O Lord, your residence is called by various names such as Srishaila, Garudachala, Venkatadri, Narayanadri, Vrishabhadri, Vrishadri etc. O Lord of Mount Venkata! May your morning be auspicious.",
+          // "15. The names of your abode, Shesha Shaila, Garuda Achala, Venkata hill, Narayana hill, Vrishabhachala, and Vrishadri, are always spoken, O Lord of Venkata hill, may it be an auspicious dawn to you.",
 
-          "15.1: (Salutations to Sri Govinda) In this Beautiful Dawn the Devotees are Remembering the Sheshadri Hill, the Garudachala Hill, the Venkatadri Hill, ... 15.2: ... the Narayanadri Hill, the Vrishabhadri Hill, the Vrishadri Hill which are the Chief ... 15.3: ... among the Hills named where the Devotees say that You Dwell Incessantly, 15.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
+          // "O Lord, your residence is called by various names such as Srishaila, Garudachala, Venkatadri, Narayanadri, Vrishabhadri, Vrishadri etc. O Lord of Mount Venkata! May your morning be auspicious.",
+
+          // "15.1: (Salutations to Sri Govinda) In this Beautiful Dawn the Devotees are Remembering the Sheshadri Hill, the Garudachala Hill, the Venkatadri Hill, ... 15.2: ... the Narayanadri Hill, the Vrishabhadri Hill, the Vrishadri Hill which are the Chief ... 15.3: ... among the Hills named where the Devotees say that You Dwell Incessantly, 15.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
       notes: [
 
