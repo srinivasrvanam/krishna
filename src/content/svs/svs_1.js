@@ -233,7 +233,7 @@ const verses = [
           "हे शेषाद्रि-शेखर-विभो ! तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "The gods like Shiva (five-faced god), Brahma, Shanmukha (Subrahmanya/Kartikeya), Indra and others praise your pastimes like Trivikrama (Vamana Avatara) etc.", 
+          "The gods like Lord Shiva (five-faced god), Brahma, Shanmukha (Subrahmanya/Kartikeya), Indra and others praise your pastimes like Trivikrama (Vamana Avatara) etc.", 
           "The god of speech (Deva guru/Brihaspati) recites the auspiciousness of the day.", 
           "O Lord of Sheshadri! May it be an auspicious dawn (morning) to you.",
 
@@ -599,7 +599,8 @@ const verses = [
           "- (अखिल-लोक-बन्धो)",
           "- (श्री-श्री-निवास)",
           "- (जगदेक-दयैक-सिन्धो)",
-          "- (श्री-देवता-गृह-भुज-अन्तर दिव्य-मूर्ते)",
+          "- (श्री-देवता-गृह-भुज-अन्तर)",
+          "- (दिव्य-मूर्ते)",
           "श्री-वेङ्कट-अचल-पते ! तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
@@ -654,11 +655,18 @@ const verses = [
           "हे श्री-वेङ्कट-अचल-पते ! तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "14. Having bathed in the Swami Pushkarini, with pure bodies, seeking prosperity, Shiva, Brahma, Sanandana, and others stand at your door with their heads bowed, O Lord of Venkata hill, may it be an auspicious dawn to you.",
+          "Lord Shiva, Brahma, Sanandana, and others",
+          "- having pure bodies after bathing in the Swami Pushkarini,",
+          "- seeking prosperity,",
+          "- with their heads bowed (as they are touched by your boon giving stick/staff),",
+          "are standing at your door.",
+          "O Lord of Venkatachala! May it be an auspicious dawn (morning) to you.",
 
-          "Having purified themselves in the Holy Lake of Pushkarini, Lord Shiva, Brahma, Sanandana and the other sages with the gate keepers bearing staves, at their head, are standing at your gate, so now please arise and may your morning be auspicious.",
+          // "14. Having bathed in the Swami Pushkarini, with pure bodies, seeking prosperity, Shiva, Brahma, Sanandana, and others stand at your door with their heads bowed, O Lord of Venkata hill, may it be an auspicious dawn to you.",
 
-          "14.1: (Salutations to Sri Govinda) In this Beautiful Dawn the Pure-Bodied Ones (Sri Shiva, Sri Brahma etc) having taken their Bath in the Sri Swami Pushkarini (the temple tank), 14.2: Those Pure Bodied Ones Sri Hara (Sri Shiva), Sri Virinchi (Sri Brahma), Sage Sanandana and Other Sages Who are Your Best Devotees, 14.3: Are proceeding towards the Gate of Your Shrine where are staying Your most Excellent Retinue who have been struck by Your Boon-Giving Staff (and hence blessed to be in your close company), 14.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
+          // "Having purified themselves in the Holy Lake of Pushkarini, Lord Shiva, Brahma, Sanandana and the other sages with the gate keepers bearing staves, at their head, are standing at your gate, so now please arise and may your morning be auspicious.",
+
+          // "14.1: (Salutations to Sri Govinda) In this Beautiful Dawn the Pure-Bodied Ones (Sri Shiva, Sri Brahma etc) having taken their Bath in the Sri Swami Pushkarini (the temple tank), 14.2: Those Pure Bodied Ones Sri Hara (Sri Shiva), Sri Virinchi (Sri Brahma), Sage Sanandana and Other Sages Who are Your Best Devotees, 14.3: Are proceeding towards the Gate of Your Shrine where are staying Your most Excellent Retinue who have been struck by Your Boon-Giving Staff (and hence blessed to be in your close company), 14.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
       notes: [
 
