@@ -747,11 +747,16 @@ const verses = [
           "हे श्री-वेङ्कट-अचल-पते ! तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "16. Engaged in service, Shiva, Indra, Agni, Yama, Kubera, Varuna, Vayu, and other gods stand with folded hands and bowed heads, O Lord of Venkata hill, may it be an auspicious dawn to you.",
+          "Lord Shiva, Indra, Agni, Yama, Nirruti (God of Southwest direction), Varuna, Vayu, Kubera",
+          "- who are engaged in your service,",
+          "- with folded hands, shining, and with their heads bowed down to the ground,",
+          "O Lord of Venkatachala! May it be an auspicious dawn (morning) to you.",
 
-          "O Lord of Mount Venkata! Behold! The regents of space, Siva, Indra, Agni, Yama, Nirrti, Varuna, Vayu and Kubera, with joined palms clasped to their heads approach you for your service. Please arise now and may your morning be auspicious.",
+          // "16. Engaged in service, Shiva, Indra, Agni, Yama, Kubera, Varuna, Vayu, and other gods stand with folded hands and bowed heads, O Lord of Venkata hill, may it be an auspicious dawn to you.",
 
-          "16.1: (Salutations to Sri Govinda) In this Beautiful Dawn the Eight Dikpalas (Guardian deities of the eight directions) who are Intent upon Serving You - Shiva (Ishana), Indra ( the Lord of the Devas ), Krishanu (Agni or God of Fire), Dharma (Dharmaraja or Yama), ... 16.2: ... Rakshasa (Niruthi), Varuna ( the Lord of Water ) and Kubera ( the Lord of Wealth ), 16.3: Are standing with their Palms joined in Devotion and their Heads are shining with Divine Glow, 16.4: (The Dikpalas are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
+          // "O Lord of Mount Venkata! Behold! The regents of space, Siva, Indra, Agni, Yama, Nirrti, Varuna, Vayu and Kubera, with joined palms clasped to their heads approach you for your service. Please arise now and may your morning be auspicious.",
+
+          // "16.1: (Salutations to Sri Govinda) In this Beautiful Dawn the Eight Dikpalas (Guardian deities of the eight directions) who are Intent upon Serving You - Shiva (Ishana), Indra ( the Lord of the Devas ), Krishanu (Agni or God of Fire), Dharma (Dharmaraja or Yama), ... 16.2: ... Rakshasa (Niruthi), Varuna ( the Lord of Water ) and Kubera ( the Lord of Wealth ), 16.3: Are standing with their Palms joined in Devotion and their Heads are shining with Divine Glow, 16.4: (The Dikpalas are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
       notes: [
 
