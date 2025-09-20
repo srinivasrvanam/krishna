@@ -1014,11 +1014,21 @@ const verses = [
           "तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "21. O Lord of the earth, ocean of compassion and other virtues, the supreme refuge of the world, worshipped by Ananta, Garuda, and others, O Lord of Venkata hill, may it be an auspicious dawn to you.",
+          "O Lord!",
+          "- who is the husband of Sri Devi (Mother Lakshmi) and Bhu Devi (Mother Earth),",
+          "- who is an ocean of mercy and other virtues,",
+          "- who is the God of the Gods,",
+          "- who is the only refuge of the world,",
+          "- who is the lord of prosperity,",
+          "- whose feet are worshipped by Ananta, Garuda, and others,",
+          "O Lord of Venkatachala!",
+          "May it be an auspicious dawn (morning) to you.",
 
-          "O Husband of Lakshmi and Bhudevi, you are an ocean of mercy, and virtue. The Supreme Lord, the only saviour of the universe. O Lord whose feet are worshipped by Shesha, Garuda and others, O Lord of mount Venkata please arise, may your morning be auspicious.",
+          // "21. O Lord of the earth, ocean of compassion and other virtues, the supreme refuge of the world, worshipped by Ananta, Garuda, and others, O Lord of Venkata hill, may it be an auspicious dawn to you.",
 
-          "21.1: (Salutations to Sri Govinda) In this Beautiful Dawn Your Devotees are having Your Darshan, O Lord of Sri Devi and Bhu Devi; You are an Ocean filled with Compassion and other Nectar-like Qualities, 21.2: You are the God of the Gods and the One Great Embodiment of Giving Refuge to the Devotees in this World, 21.3: O the Possessor of Sri, the Devotees are Worshipping Your Lotus Feet which is Worshipped by Ananta (Adisesha), Garuda and Others. 21.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
+          // "O Husband of Lakshmi and Bhudevi, you are an ocean of mercy, and virtue. The Supreme Lord, the only saviour of the universe. O Lord whose feet are worshipped by Shesha, Garuda and others, O Lord of mount Venkata please arise, may your morning be auspicious.",
+
+          // "21.1: (Salutations to Sri Govinda) In this Beautiful Dawn Your Devotees are having Your Darshan, O Lord of Sri Devi and Bhu Devi; You are an Ocean filled with Compassion and other Nectar-like Qualities, 21.2: You are the God of the Gods and the One Great Embodiment of Giving Refuge to the Devotees in this World, 21.3: O the Possessor of Sri, the Devotees are Worshipping Your Lotus Feet which is Worshipped by Ananta (Adisesha), Garuda and Others. 21.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
       notes: [
 
