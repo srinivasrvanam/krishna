@@ -911,7 +911,7 @@ const verses = [
           "हे श्री-वेङ्कट-अचल-पते ! तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "Those whose heads are filled with the dust of your",
+          "Those whose heads are filled with the dust of your feet",
           "- those whose minds are not inclined for heaven and liberation, (but your service),",
           "- by the counting of the coming of the next Kalpa,",
           "are attaining the feeling of perplexity(confusion).",
