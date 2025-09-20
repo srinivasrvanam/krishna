@@ -911,11 +911,17 @@ const verses = [
           "हे श्री-वेङ्कट-अचल-पते ! तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "19. Those whose heads are filled with the dust of your feet, who are indifferent to heaven and liberation, attain the state of eternal bliss, O Lord of Venkata hill, may it be an auspicious dawn to you.",
+          "Those whose heads are filled with the dust of your",
+          "- those whose minds are not inclined for heaven and liberation, (but your service),",
+          "- by the counting of the coming of the next Kalpa,",
+          "are attaining the feeling of perplexity(confusion).",
+          "O Lord of Venkatachala! May it be an auspicious dawn (morning) to you.",
 
-          "Your devotees, have come for your Beatific Vision, decorating their foreheads with the symbol of your feet, having abandoned any thought of heavenly rewards or Liberation intent only upon your service they are becoming agitated by the delay — every moment appearing like an age. O Lord of mount Venkata please arise, may your morning be auspicious.",
+          // "19. Those whose heads are filled with the dust of your feet, who are indifferent to heaven and liberation, attain the state of eternal bliss, O Lord of Venkata hill, may it be an auspicious dawn to you.",
 
-          "19.1: (Salutations to Sri Govinda) In this Beautiful Dawn Your Devotees are taking the Sacred Dust of Your Lotus Feet; their Foreheads filled with the Sacred Dust are exhibiting Your Insignia, 19.2: Your Sacred Insignia on their Outer Bodies and Surrender to Your Lotus Feet have made their Inner Bodies (i.e. Mind) Indifferent to Heaven and Desire for Emancipation, 19.3: In the cycles of the Ages to come (referring to passage of time), their Surrender and Desire to Reach Your Lotus Feet will turn into Intense Yearning, and finally attain Your Abode. 19.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
+          // "Your devotees, have come for your Beatific Vision, decorating their foreheads with the symbol of your feet, having abandoned any thought of heavenly rewards or Liberation intent only upon your service they are becoming agitated by the delay — every moment appearing like an age. O Lord of mount Venkata please arise, may your morning be auspicious.",
+
+          // "19.1: (Salutations to Sri Govinda) In this Beautiful Dawn Your Devotees are taking the Sacred Dust of Your Lotus Feet; their Foreheads filled with the Sacred Dust are exhibiting Your Insignia, 19.2: Your Sacred Insignia on their Outer Bodies and Surrender to Your Lotus Feet have made their Inner Bodies (i.e. Mind) Indifferent to Heaven and Desire for Emancipation, 19.3: In the cycles of the Ages to come (referring to passage of time), their Surrender and Desire to Reach Your Lotus Feet will turn into Intense Yearning, and finally attain Your Abode. 19.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
       notes: [
 
