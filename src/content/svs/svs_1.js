@@ -851,11 +851,15 @@ const verses = [
           "हे श्री-वेङ्कट-अचल-पते ! तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "18. The Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu, and Ketu, the chief among the celestial beings, are all your servants, O Lord of Venkata hill, may it be an auspicious dawn to you.",
+          "The Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu, and Ketu, the chief among the celestial beings,",
+          "- are the servants of your servants's servants,",
+          "O Lord of Venkatachala! May it be an auspicious dawn (morning) to you.",
 
-          "O Lord of Mount Venkata, the principals of the heavenly host; the Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and Ketu, the servants of the servants of your servants are arriving. O Lord of mount Venkata please arise, may your morning be auspicious.",
+          // "18. The Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu, and Ketu, the chief among the celestial beings, are all your servants, O Lord of Venkata hill, may it be an auspicious dawn to you.",
 
-          "18.1: (Salutations to Sri Govinda) In this Beautiful Dawn the Navagrahas (Nine Planets) - Surya (Surya), Indu (Moon), Bhauma (Mars), Budha (Mercury), Vakpati (the Lord of Speech or Brihaspati or Jupiter), Kavya (Sukra or Venus), Sauri (Saturn) ... 18.2: ... Swarbhanu (Rahu), Ketu who are among the chief in the assembly of the Devas (Gods), 18.3: Are Your Servant's Servant (i.e. willing to serve Your true Devotees) and will remain as Your Servant's Servant till the end, 18.4: (The Navagrahas are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
+          // "O Lord of Mount Venkata, the principals of the heavenly host; the Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and Ketu, the servants of the servants of your servants are arriving. O Lord of mount Venkata please arise, may your morning be auspicious.",
+
+          // "18.1: (Salutations to Sri Govinda) In this Beautiful Dawn the Navagrahas (Nine Planets) - Surya (Surya), Indu (Moon), Bhauma (Mars), Budha (Mercury), Vakpati (the Lord of Speech or Brihaspati or Jupiter), Kavya (Sukra or Venus), Sauri (Saturn) ... 18.2: ... Swarbhanu (Rahu), Ketu who are among the chief in the assembly of the Devas (Gods), 18.3: Are Your Servant's Servant (i.e. willing to serve Your true Devotees) and will remain as Your Servant's Servant till the end, 18.4: (The Navagrahas are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
       notes: [
 
