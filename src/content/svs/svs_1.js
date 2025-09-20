@@ -957,19 +957,25 @@ const verses = [
           "श्री-वेङ्कट-अचल-पते तव सुप्रभातम् ॥",
       ],
       anvaya: [
-          "मर्त्याः",
-          "- त्वत् (गो-पुर-अग्र-शिखराणि) निरीक्षमाणाः",
+          "मर्त्याः", 
           "- (परमां) स्वर्ग-अपवर्ग-पदवीं श्रयन्तः",
+          "- त्वत् (गो-पुर-अग्र-शिखराणि) निरीक्षमाणाः",
           "मनुष्य-भुवने मतिम् आश्रयन्ते ।",
 
           "हे श्री-वेङ्कट-अचल-पते ! तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "20. Those who gaze at the tops of your temple towers attain the highest state of heaven and liberation, and the mortals on earth seek your grace, O Lord of Venkata hill, may it be an auspicious dawn to you.",
+          "Those mortals", 
+          "- who are serving highest positions in heaven,",
+          "- having seen the tops of your temple towers,",
+          "- are attracted to the material world(earth).",
+          "O Lord of Venkatachala! May it be an auspicious dawn (morning) to you.",
 
-          "Even those mortals who have obtained heaven or Liberation, upon seeing your temple towers, are immediately attracted to the material world (by your qualities and glory) O Lord of mount Venkata please arise, may your morning be auspicious.",
+          // "20. Those who gaze at the tops of your temple towers attain the highest state of heaven and liberation, and the mortals on earth seek your grace, O Lord of Venkata hill, may it be an auspicious dawn to you.",
 
-          "20.1: (Salutations to Sri Govinda) In this Beautiful Dawn Your Devotees are looking at the highest Pinnacle of Your Temple Gopuram (Ornamented Temple Gateway) and contemplating on Its Greatness, 20.2: Which is their Supreme Refuge, superior to position in Heaven and Desire for Emancipation, 20.3: Which is a place where the Heart can Surrender to the Bliss of Your Lotus Feet in this Mortal World of Human Beings. 20.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
+          // "Even those mortals who have obtained heaven or Liberation, upon seeing your temple towers, are immediately attracted to the material world (by your qualities and glory) O Lord of mount Venkata please arise, may your morning be auspicious.",
+
+          // "20.1: (Salutations to Sri Govinda) In this Beautiful Dawn Your Devotees are looking at the highest Pinnacle of Your Temple Gopuram (Ornamented Temple Gateway) and contemplating on Its Greatness, 20.2: Which is their Supreme Refuge, superior to position in Heaven and Desire for Emancipation, 20.3: Which is a place where the Heart can Surrender to the Bliss of Your Lotus Feet in this Mortal World of Human Beings. 20.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
       notes: [
 
