@@ -1068,11 +1068,24 @@ const verses = [
           "तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "22. O Padmanabha, Purushottama, Vasudeva, Vaikuntha, Madhava, Janardana, Chakrapani, Srivatsa-marked, the refuge of the surrendered, O Lord of Venkata hill, may it be an auspicious dawn to you.",
+          "O Lord!",
+          "- who has a lotus in his navel (Padmanabha),",
+          "- who is the Supreme Person (Purushottama),",
+          "- who is omni-present (Vasudeva),",
+          "- who is resident of Vaikuntha (the abode of Vishnu),",
+          "- who is husband of Mother Lakshmi (Madhava),",
+          "- who is Janardana,",
+          "- who is the wielder of the Discus (Chakrapani),",
+          "- who has the mark of Srivatsa on his chest,",
+          "- who is the divine tree (Parijata) for those who have taken refuge in him,",
+          "O Lord of Venkatachala!",
+          "May it be an auspicious dawn (morning) to you.",
 
-          "O Holy One! Padmanabha, Supreme Person, Omnipresent One, O Lord of Illusion, O destroyer of the Wicked, Wielder of the Discus, Bearer of the foot-­‐print of Sage Bhrigu, O Refuge of the seekers, O Lord of mount Venkata please arise, may your morning be auspicious.",
+          // "22. O Padmanabha, Purushottama, Vasudeva, Vaikuntha, Madhava, Janardana, Chakrapani, Srivatsa-marked, the refuge of the surrendered, O Lord of Venkata hill, may it be an auspicious dawn to you.",
 
-          "22.1: (Salutations to Sri Govinda) In this Beautiful Dawn Your Devotees are repeating Your various Names - Sri Padmanabha (having Lotus in His Navel), Purushottama, Vasudeva, ... 22.2: Vaikuntha (Abode of Sri Vishnu), Madhava, Janardhana and Chakrapani (holding Chakra in His Hand). 22.3: You are the One with the Mark of Srivatsa on His Chest (where Sri Resides) and the Wish-Fulfiller of all those who take Shelter in Your Lotus Feet. 22.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
+          // "O Holy One! Padmanabha, Supreme Person, Omnipresent One, O Lord of Illusion, O destroyer of the Wicked, Wielder of the Discus, Bearer of the foot-­‐print of Sage Bhrigu, O Refuge of the seekers, O Lord of mount Venkata please arise, may your morning be auspicious.",
+
+          // "22.1: (Salutations to Sri Govinda) In this Beautiful Dawn Your Devotees are repeating Your various Names - Sri Padmanabha (having Lotus in His Navel), Purushottama, Vasudeva, ... 22.2: Vaikuntha (Abode of Sri Vishnu), Madhava, Janardhana and Chakrapani (holding Chakra in His Hand). 22.3: You are the One with the Mark of Srivatsa on His Chest (where Sri Resides) and the Wish-Fulfiller of all those who take Shelter in Your Lotus Feet. 22.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
       notes: [
 
