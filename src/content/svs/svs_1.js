@@ -804,11 +804,16 @@ const verses = [
           "हे श्री-वेङ्कट-अचल-पते ! तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "17. The king of birds, the king of animals, the king of serpents, the king of elephants, and the king of horses, all seek to increase their own glory in your presence, O Lord of Venkata hill, may it be an auspicious dawn to you.",
+          "The king of birds (Garuda), the king of animals (Simha), the king of serpents (Adishesha), the king of elephants (Airavatha), and the king of horses(Ucchaisravas),",
+          "- They",
+          "- are seeking your blessings for increasing their own authority and greatness. ",
+          "O Lord of Venkatachala! May it be an auspicious dawn (morning) to you.",
 
-          "The Regents of the animal kingdom; of birds – Garuda, of beasts — the lion, of serpents -­‐ Shesha, of elephants – Airavata, of horses -­‐ Ucchaishrava, all stand before you longing to see their own functions and greatness reflected in your pastimes. O Lord of mount Venkata please arise, may your morning be auspicious.",
+          // "17. The king of birds, the king of animals, the king of serpents, the king of elephants, and the king of horses, all seek to increase their own glory in your presence, O Lord of Venkata hill, may it be an auspicious dawn to you.",
 
-          "17.1: (Salutations to Sri Govinda) In this Beautiful Dawn Your Vahanas ( Conveyances ) - Garuda ( the King of Birds ), Lion ( the King of Animals ) ... 17.2: ... Adisesha ( the King of Snakes ), Airavatha ( the King of Elephants ) and Ucchaisravas ( the King of Horses ), 17.3: Are seeking Your Blessings for augmenting their greatness in their respective Duties in order to Serve You Better, 17.4: (The Vahanas are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
+          // "The Regents of the animal kingdom; of birds – Garuda, of beasts — the lion, of serpents -­‐ Shesha, of elephants – Airavata, of horses -­‐ Ucchaishrava, all stand before you longing to see their own functions and greatness reflected in your pastimes. O Lord of mount Venkata please arise, may your morning be auspicious.",
+
+          // "17.1: (Salutations to Sri Govinda) In this Beautiful Dawn Your Vahanas ( Conveyances ) - Garuda ( the King of Birds ), Lion ( the King of Animals ) ... 17.2: ... Adisesha ( the King of Snakes ), Airavatha ( the King of Elephants ) and Ucchaisravas ( the King of Horses ), 17.3: Are seeking Your Blessings for augmenting their greatness in their respective Duties in order to Serve You Better, 17.4: (The Vahanas are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
       notes: [
 
