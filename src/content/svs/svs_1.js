@@ -1119,11 +1119,17 @@ const verses = [
           "तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "23. O beautiful divine form that destroys the pride of Cupid, with eyes that glance at the budding vakshasthala of your consort, the abode of auspicious and pure virtues, O Lord of Venkata hill, may it be an auspicious dawn to you.",
+          "O Lord! whose divine form who vanquishes the pride of Cupid (Kandarpa)!",
+          "O Lord! whose gaze (दृष्टि) is eagerly fixed (लोल) on the lotus-like (अम्बुरुह) vakshastala (कुच-कुड्मल) of his beloved Lakshmi (कान्ता)",
+          "O Lord! who is the embodiment (आकर) of auspicious (कल्याण), pure (निर्मल), and virtuous (गुण) qualities, possessing a divine reputation (दिव्यकीर्ति).",
+          "O Lord of Venkatachala!",
+          "May it be an auspicious dawn (morning) to you.",
 
-          "O Lord whose divine beauty rivals that of cupid. Whose serene gaze rests upon the lotus like vakshasthala of your beloved Lakshmi, a limitless repository of untainted virtues and congeniality, O Lord of mount Venkata please arise, may your morning be auspicious.",
+          // "23. O beautiful divine form that destroys the pride of Cupid, with eyes that glance at the budding vakshasthala of your consort, the abode of auspicious and pure virtues, O Lord of Venkata hill, may it be an auspicious dawn to you.",
 
-          "23.1: (Salutations to Sri Govinda) In this Beautiful Dawn Your Devotees are Contemplating on Your Beautiful Divine Form which though beyond the Three Gunas has the Power to remove the Pride of Kama Deva (of giving rise to attraction in the mind), 23.2: When Your Incarnation attract Beautiful Women with Lotus-Like Bosom with Your Rolling Glance of Pure Curved Eyes, 23.3: You are Auspicious and Pure and storehouse of abundant Divine Attributes; Your Divine Glory is limitless. 23.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
+          // "O Lord whose divine beauty rivals that of cupid. Whose serene gaze rests upon the lotus like vakshasthala of your beloved Lakshmi, a limitless repository of untainted virtues and congeniality, O Lord of mount Venkata please arise, may your morning be auspicious.",
+
+          // "23.1: (Salutations to Sri Govinda) In this Beautiful Dawn Your Devotees are Contemplating on Your Beautiful Divine Form which though beyond the Three Gunas has the Power to remove the Pride of Kama Deva (of giving rise to attraction in the mind), 23.2: When Your Incarnation attract Beautiful Women with Lotus-Like Bosom with Your Rolling Glance of Pure Curved Eyes, 23.3: You are Auspicious and Pure and storehouse of abundant Divine Attributes; Your Divine Glory is limitless. 23.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
       notes: [
 
