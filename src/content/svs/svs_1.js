@@ -1249,7 +1249,7 @@ const verses = [
           "हेम-घटेषु = हेम-घटः (घट - पुं - golden pot) - सप्तमी - बहु.व.",
           "पूर्णम् = पूर्णः (पूर्ण - पुं) - full",
           "धृत्वा = धृत्वः (धृ - 1U - to hold - क्त्वान्त) = having held",
-          "आद्य = first ?? HOW",
+          "आद्य = foremost",
           "वैदिक-शिखा-मणयः = वैदिक-शिखा-मणिः (वैदिक-शिखा-मणि - पुं - crest jewel of Vedic knowledge) - प्रथमा.वि. - बहु.व. = highly learned brahmanas",
           "प्र-हृष्टाः = प्रकर्षेण (हृष् - 1P - to be delighted/joyful - क्त पुं - कर्मणि) - हृष्टः = one who is delighted",
           "तिष्ठन्ति = तिष्ठति (तिष्ठ् - 1P - to stand) - प्रथमा.बहु.",
