@@ -1277,15 +1277,21 @@ const verses = [
           "भास्वान् उदेति ।",
           "सरोरुहाणि विकचानि (सन्ति) ।",
           "विहङ्गाः निनदैः ककुभः सम्पूरयन्ति ।",
-          "(अर्थित-मङ्गलाः) श्री-वैष्णवाः सततम् ते धाम आश्रयन्ति ।",
+          "(सततम् अर्थित-मङ्गलाः) श्री-वैष्णवाः ते धाम आश्रयन्ति ।",
           "हे वेङ्कट ! तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "26. The sun rises, the lotuses bloom, the birds fill the directions with their songs, and the Vaishnavas always seek your auspiciousness, O Lord of Venkata hill, may it be an auspicious dawn to you.",
+          "The sun is rising,",
+          "the lotuses are blooming,",
+          "and the birds are filling the directions with their songs.",
+          "The Sri Vaishnavas, who always seek your auspiciousness, are taking shelter at your abode.",
+          "O Lord of Venkata! May it be an auspicious dawn (morning) to you.",
 
-          "O Lord of Mount Venkata! Behold, the sun is arising, the lotus are blooming, and the birds are filling the directions with their song, your devotees the Srivaishnavas who always desire your welfare, have arrived at your residence, O Lord of mount Venkata please arise, may your morning be auspicious.",
+          // "26. The sun rises, the lotuses bloom, the birds fill the directions with their songs, and the Vaishnavas always seek your auspiciousness, O Lord of Venkata hill, may it be an auspicious dawn to you.",
 
-          "26.1: (Salutations to Sri Govinda) In this Beautiful Dawn the Sun is rising and the Lotus Flowers are blossoming, 26.2: The mountain Birds are filling the Sky with their sweet Chirping Sound, 26.3: The Sri Vaishnavas who are eternally Desirous of Your Auspicious Presence ... 26.4: ... have taken Refuge in Your Abode and they are Singing - Salutations to You, O Venkateswara; Salutations to You in this Beautiful Dawn of Yours.",
+          // "O Lord of Mount Venkata! Behold, the sun is arising, the lotus are blooming, and the birds are filling the directions with their song, your devotees the Srivaishnavas who always desire your welfare, have arrived at your residence, O Lord of mount Venkata please arise, may your morning be auspicious.",
+
+          // "26.1: (Salutations to Sri Govinda) In this Beautiful Dawn the Sun is rising and the Lotus Flowers are blossoming, 26.2: The mountain Birds are filling the Sky with their sweet Chirping Sound, 26.3: The Sri Vaishnavas who are eternally Desirous of Your Auspicious Presence ... 26.4: ... have taken Refuge in Your Abode and they are Singing - Salutations to You, O Venkateswara; Salutations to You in this Beautiful Dawn of Yours.",
       ],
       notes: [
 
