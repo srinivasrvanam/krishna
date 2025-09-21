@@ -1219,9 +1219,9 @@ const verses = [
           "हे वेङ्कट-पते ! तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "The highly delighted (प्रहृष्टाः) scholars of the Vedas (वैदिक-शिखामणयः),",
+          "The highly delighted (प्रहृष्टाः) foremost (आद्य) scholars of the Vedas (वैदिक-शिखामणयः),",
           "- holding (धृत्वा) golden pots (हेम-घटेषु) filled (पूर्णम्) with divine (दिव्यं) water (तीर्थं) from the celestial river (वियत्-सरिति / akasa ganga),",
-          "are standing (तिष्ठन्ति) there, first (आद्य).",
+          "are standing (तिष्ठन्ति) (at your door).",
           "O Lord of Venkata! May it be an auspicious dawn (morning) to you.",
 
 
