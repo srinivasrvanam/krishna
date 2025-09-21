@@ -1120,7 +1120,7 @@ const verses = [
       ],
       transl: [
           "O Lord! whose divine form who vanquishes the pride of Cupid (Kandarpa)!",
-          "O Lord! whose gaze (दृष्टि) is eagerly fixed (लोल) on the lotus-like (अम्बुरुह) vakshastala (कुच-कुड्मल) of his beloved Lakshmi (कान्ता)",
+          "O Lord! whose gaze (दृष्टि) is eagerly fixed (लोल) on the lotus-like (अम्बुरुह) budding vakshastala (कुच-कुड्मल) of his beloved Lakshmi (कान्ता)",
           "O Lord! who is the embodiment (आकर) of auspicious (कल्याण), pure (निर्मल), and virtuous (गुण) qualities, possessing a divine reputation (दिव्यकीर्ति).",
           "O Lord of Venkatachala!",
           "May it be an auspicious dawn (morning) to you.",
@@ -1210,20 +1210,31 @@ const verses = [
       ],
       anvaya: [
           "(प्रहृष्टाः) वैदिक-शिखामणयः",
-          "- - (वियत्-सरिति दिव्यं)",
+          "- - (वियत्-सरिति)",
           "- - (हेम-घटेषु पूर्णम्)",
-          "- एला-लवङ्ग-घनसार-सुगन्धि-तीर्थं",
+          "- (दिव्यं) एला-लवङ्ग-घनसार-सुगन्धि-तीर्थं",
           "- धृत्वा",
           "आद्य तिष्ठन्ति ।",
 
           "हे वेङ्कट-पते ! तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "25. The Vedic scholars, holding golden pots filled with divine water scented with cardamom, cloves, and camphor, stand joyfully, O Lord of Venkata hill, may it be an auspicious dawn to you.",
+          "The highly delighted (प्रहृष्टाः) scholars of the Vedas (वैदिक-शिखामणयः),",
+          "- holding (धृत्वा) golden pots (हेम-घटेषु) filled (पूर्णम्) with divine (दिव्यं) water (तीर्थं) from the celestial river (वियत्-सरिति / akasa ganga),",
+          "are standing (तिष्ठन्ति) there, first (आद्य).",
+          "O Lord of Venkata! May it be an auspicious dawn (morning) to you.",
 
-          "The best of priests well versed in the sacred lore, carry upon their shoulders sacred waters scented with cardamon, cloves, sugar-­‐cane juice and camphor, taken in golden jars from the Celestial Ganges await at your gate for your service, O Lord of mount Venkata please arise, may your morning be auspicious.",
 
-          "25.1: (Salutations to Sri Govinda) In this Beautiful Dawn the Brahmins are performing Your Divine Rituals; With Water made fragrant with Cardamom, Clove and Camphor ... 25.2: ... the Water obtained from the Divine Akasa Ganga river which they filled in their Golden Pots ... 25.3: ... And now carrying the Pots the Brahmins who are crest-jewel in Vedic Knowledge are thrilled with Divine Joy, 25.4: They are standing before You and Singing - Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
+          // "The holy water (tīrthaṃ) is fragrant (sugandhi) with cardamom (elā), cloves (lavaṅga), and camphor (ghanasāra).",
+          // "This divine (divyaṃ) water, filled (pūrṇam) in golden pots (hema-ghaṭeṣu), comes from the celestial river (viyat-sariti), which is believed to be the Ganges.",
+          // "Holding (dhṛtvā) these pots, the foremost scholars of the Vedas (vaidika-śikhāmaṇayaḥ), filled with joy (prahṛṣṭāḥ), are waiting.",
+          // "They are standing (tiṣṭhanti) there, O Lord of Venkata (Venkateswara), awaiting your good morning.",
+
+          // "25. The Vedic scholars, holding golden pots filled with divine water scented with cardamom, cloves, and camphor, stand joyfully, O Lord of Venkata hill, may it be an auspicious dawn to you.",
+
+          // "The best of priests well versed in the sacred lore, carry upon their shoulders sacred waters scented with cardamon, cloves, sugar-­‐cane juice and camphor, taken in golden jars from the Celestial Ganges await at your gate for your service, O Lord of mount Venkata please arise, may your morning be auspicious.",
+
+          // "25.1: (Salutations to Sri Govinda) In this Beautiful Dawn the Brahmins are performing Your Divine Rituals; With Water made fragrant with Cardamom, Clove and Camphor ... 25.2: ... the Water obtained from the Divine Akasa Ganga river which they filled in their Golden Pots ... 25.3: ... And now carrying the Pots the Brahmins who are crest-jewel in Vedic Knowledge are thrilled with Divine Joy, 25.4: They are standing before You and Singing - Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
       notes: [
 
