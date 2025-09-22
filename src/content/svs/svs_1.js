@@ -23,7 +23,7 @@ const verses = [
       ],
       essence: [
         "This sloka is taken from Srimad Ramayanam (Balakanda, Chapter 23, Verse 2), where sage Vishwamitra wakes up Lord Rama to perform the dawn rituals.",
-        "Prathivadhi Bhayankaram Annangaracharya (author of this Sri Venkateswara Suprabatham) has taken this sloka to begin the Suprabatham",
+        "Prathivadhi Bhayankaram Annangaracharya (author of this Sri Venkateswara Suprabatham) has taken this sloka to begin the Suprabatham.",
       ],
       meanings: [
           "कौसल्या = Kausalya",

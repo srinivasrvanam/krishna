@@ -9,12 +9,14 @@ const Section = ({type, lines, compact, ch_num, verse_num}) => {
         case "vicheda": heading = "पदच्छेदः"; break;
         case "anvaya":  heading = "अन्वयक्रम:"; break;
         case "transl":  heading = "Translation: "; break;
+        case "essence": heading = "Essence: "; break;
+        case "meanings":heading = "Meanings: "; break;
         case "notes":   heading = "Notes: "; break;
         default:        heading = "";
     }
 
 
-    if (type === "transl" || type === "notes" || type === "anvaya") {
+    if (type === "transl" || type === "notes" || type === "anvaya" || type === "essence" || type === "meanings") {
         return (
           <div className="shadow-lg rounded-lg px-10 py-6 bg-gray-100 dark:bg-gray-800">
             <h4 className="text-2xl font-semibold text-center text-gray-800 dark:text-gray-100 mb-4">{heading}</h4>
