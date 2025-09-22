@@ -25,8 +25,22 @@ const verses = [
 
           // "1.1: (Salutations to Sri Govinda) O Rama, the most Excellent Son of Kaushalya; in the East the Dawn is fast approaching in this Beautiful juncture of Night and Day, 1.2: Please Wake Up in Our Hearts, O Purushottama (the Best of Men ) so that we can perform our Daily Duties as Divine Rituals unto You and thus do the Ultimate Duty of our lives.",
       ],
-      essence: [],
-      meanings: [],
+      essence: [
+        "This sloka is taken from Ramayana (Balakanda, Chapter 23, Verse 2), where sage Vishwamitra wakes up Lord Rama to perform the dawn rituals.",
+        "Prathivadhi Bhayankaram Annangaracharya (author of this Sri Venkateswara Suprabatham) has taken this sloka to begin the Suprabatham",
+      ],
+      meanings: [
+          "कौसल्या = Kausalya",
+          "सुप्रजा = virtuous son",
+          "राम = O Sri Rama!",
+          "पूर्वा = east",
+          "सन्ध्या = dawn",
+          "प्रवर्तते = is happening (sun is rising)",
+          "उत्तिष्ठ = please wake up",
+          "नरशार्दूल = O tiger among men!",
+          "कर्तव्यं = should be done",
+          "दैवम्-आह्निकम् = daily divine duties",
+      ],
       notes: [
           "कौसल्या = Kausalya",
           "सुप्रजा = well born son (प्रजा = स्त्री.लि. एक.व. - why स्त्री.लि. ??)",
