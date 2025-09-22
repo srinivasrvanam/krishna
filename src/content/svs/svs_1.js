@@ -18,10 +18,6 @@ const verses = [
       transl: [
           "O Rama (Virtuous son of Kausalya)! dawn is happening (sun is rising) in the east.",
           "O best among men (tiger among men)! please wake up, as the daily divine duties should be performed.",
-          
-          // "1. O Rama, son of Kausalya, the auspicious dawn is rising in the east.",
-
-          // "O virtuous son of Queen Kausalya! Behold the dawn is appearing. O Lion-­‐like-­‐Lord, please arise and perform the daily religious rites.",
 
           // "1.1: (Salutations to Sri Govinda) O Rama, the most Excellent Son of Kaushalya; in the East the Dawn is fast approaching in this Beautiful juncture of Night and Day, 1.2: Please Wake Up in Our Hearts, O Purushottama (the Best of Men ) so that we can perform our Daily Duties as Divine Rituals unto You and thus do the Ultimate Duty of our lives.",
       ],
