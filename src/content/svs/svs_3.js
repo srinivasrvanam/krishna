@@ -30,6 +30,8 @@ const verses = [
       "I pay my obeisance to Lakshmi the ruler of the universe, who is the most beloved of Lord Vishnu the Lord of Mount Venkata, who rests with supreme delight upon His chest, and increases His forbearance, whose hands tender as sprouts, are decorated with lotus blossoms, whose seat is the lotus (of the mind) who is radiant with perfection of qualities such as tender solicitude etc. and who is the Mother of the Universe.",
       "I bow down to the divine Goddess Lakshmi, the supreme beloved of Lord Vishnu, the Lord of Venkata hills and ruler of the universe. She eternally resides on His chest and nurtures His patience and forbearance. Her tender hands are adorned with lotuses, and she is seated on a lotus throne. She shines with qualities such as motherly affection and is the universal mother. O Bhagavati, I offer my reverence to you!",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "अस्य जगतः = of this world",
       "ईशानां = To the Lord/master/ruler(feminine) - द्वितीया.वि. - एक.व.",
@@ -72,6 +74,8 @@ const verses = [
       "I take refuge in the lotus feet of Lord Venkateswara, who is opulent, and ocean of compassion, the Creator of the entire universe, omniscient, omnipotent, affectionate to the humble, the essence of the universe, the Master, amiable and receptive, fulfilling the desires of those who take refuge in him.",
       "O Lord of prosperity! O ocean of mercy! O creator of all worlds! You are omniscient, omnipotent, and the protector of those who bow before You. You are the ultimate refuge of all. O Master! You are virtuous, easily accessible, and like a wish-fulfilling tree for those who seek shelter in You. O Lord Venkatesha! I completely surrender at Your divine feet.",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "श्रीमन् = O Lord of great fortune (possessor of Lakshmi)",
       "कृपा-जल-निधे = O the Lord, who is Ocean of compassion",
@@ -117,6 +121,8 @@ const verses = [
       "I take refuge in the lotus feet of Lord Venkatesvara, which impart their fragrance to the lovely garlands of scented flowers which hang below his anklets, resting gently, although experienced constantly, the enjoyment is ever fresh.",
       "I surrender to the divine feet of Lord Venkatesha, which are adorned with beautifully fragrant flowers placed near His anklets. These feet emanate a divine fragrance, are symmetrically positioned, and possess a gentle charm. Even when experienced continuously, they always appear fresh and ever new.",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "आनूपुर = Near the anklets",
       "अर्पित = Offered, placed",
@@ -157,6 +163,8 @@ const verses = [
       "I take refuge in the lotus feet of Lord Venkatesvara, which resemble by their beauty newly blossomed exceedingly fragrant red lotuses. The testimony is self evident.",
       "I surrender to the divine feet of Lord Venkatesha, which bloom instantly like a freshly opened lotus, enriched with deep red color and overflowing with fragrance. Their beauty reminds one of a lotus. As He moves with bold and confident steps, His divine feet leave marks on the ground, radiating their celestial presence.",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "सद्यः-विकासि = Instantly blooming",
       "समुदित = Fully manifesting",
@@ -196,6 +204,8 @@ const verses = [
       "I surrender to the divine feet of Lord Venkatesha, whose soles are adorned with auspicious marks representing the Supreme Truth, such as lines, flag, nectar pot, umbrella, thunderbolt, goad, lotus, celestial wish-fulfilling tree, conch, and discus.",
       "This verse glorifies the sacred feet of Lord Venkatesha, highlighting the divine symbols that adorn them, which signify protection, prosperity, and supreme divinity.",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "भव्यैः = auspicious",
       "परतत्त्व-चिन्हैः = with symbols representing the supreme truth",      
@@ -234,6 +244,8 @@ const verses = [
       "I surrender to the divine feet of Lord Venkatesha, which shine with the brilliance of red lotus gems, surpassing even the radiance of glowing copper; whose outer luster eclipses the grandeur of the great blue sapphire (Indranīla); and whose toenails emit a rising brilliance, resembling the radiant glow of the full moon.",
       "This verse poetically describes the dazzling radiance of Lord Venkatesha's feet, comparing their colors and brilliance to precious gems, celestial lights, and natural elements, emphasizing their divine beauty and auspiciousness.",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "ताम्र (tāmra) = Copper",
       "उदर (udara) = Belly, interior, or core",
@@ -273,6 +285,8 @@ const verses = [
       "I take refuge in the divine feet of Lord Venkatesha, Which, even when gently massaged with lotus-bud-like hands with love and reverence, instantly feel fatigue. These feet possess such extreme delicateness that they are beyond the grasp of speech and mind, even for Goddess Lakshmi herself.",
       "This verse beautifully describes the supreme delicacy and divine nature of Lord Venkatesha's feet, which are so tender that even the lightest touch from Goddess Lakshmi causes them to feel fatigue. This emphasizes their transcendental nature, which is beyond human perception.",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "स-प्रेम-भीति = With both love and reverence (mixed with slight fear)",
       "कमलाकर = A pond of lotuses",
@@ -318,6 +332,8 @@ const verses = [
       "I take refuge in the divine feet of Lord Venkatesha, which have turned deeply red due to the transfer of the reddish hue from the tender fingertips of His divine consorts—Lakshmi, Bhūdevi, Nīlādevi, and others— whose hands are befitting His divine majesty.",
       "This verse poetically describes how Lord Venkatesha's feet appear reddish due to the gentle touch of His divine consorts, who lovingly serve Him.",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "लक्ष्मी = Goddess Lakshmi",
       "महीतद = (of) Bhūdevi (Earth goddess)",
@@ -369,6 +385,8 @@ const verses = [
       "I take refuge in the divine feet of Lord Venkatesha, which assume the magnificent form of an Aarti (waving of lights) by the radiance emanating from the countless embedded shining Navaratna (nine-gem) crowns of Brahma, Shiva, and other gods, as they bow eternally before Him.",
       "This verse describes how Brahma, Shiva, and other celestial beings continuously bow before Lord Venkatesha. Their crowns, studded with radiant Navaratna (nine gems), shine brilliantly as they touch the Lord's feet. The collective glow of these crowns appears like a grand Nīrājana (Aarti ceremony), naturally illuminating His divine feet. This showcases Lord Venkatesha's supreme divinity, as even the greatest deities pay homage to Him.",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "नित्य = Always, eternally",
       "आनमत् = Bowing down, reverentially bent",
@@ -419,6 +437,8 @@ const verses = [
       "I take refuge in the divine feet of Lord Venkatesha, which are praised as 'the supreme abode of Vishnu', which are also accepted as 'the source of nectar' due to their blissful nature, and which You Yourself have further indicated by showing them with Your own hands.",
       "The feet of Vishnu are glorified in the scriptures as the supreme abode (param padam), signifying mokṣa (liberation). They are also called 'madhv-utsa' (a spring of nectar) because they provide divine bliss to devotees. Finally, the verse states that Lord Venkatesha Himself points to His feet with His hands, emphasizing them as the ultimate refuge for all beings. This verse reinforces the path of surrender (śaraṇāgati), which is central to Vaishnavism.",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "विष्णोः = Of Lord Vishnu",
       "पदे = Feet, position",
@@ -475,6 +495,8 @@ const verses = [
       "The verse emphasizes the path of surrender (śaraṇāgati), as the devotee seeks refuge at the feet of the Lord, who personally guides and protects them.",
       "It highlights the direct and personal relationship between the devotee and the Lord, with the Lord personally showing His feet to grant protection and bliss.",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "पार्थाय = To Arjuna",
       "तत्सदृश = तत्-सदृश = Similar to that (to what was shown in the previous example)",
@@ -525,6 +547,8 @@ const verses = [
       "'शिरसि श्रुतीनाम्' highlights that the feet of Lord Venkatesha are revered by the Vedas themselves. The feet are considered so divine that they are placed above even the sacred texts.",
       "The verse concludes by emphasizing that those who have single-minded devotion and unwavering focus on Lord Venkatesha's feet, find them as the ultimate refuge."
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "मन्मूर्ध्नि = On my head",
       "कालियफणे = Of Kaliya's hood (the serpent Kaliya)",
@@ -574,6 +598,8 @@ const verses = [
       "I take refuge in the divine feet of Lord Venkatesha, which are like ever-fresh flowers, thrilling the earth as they are worshipped with scattered blossoms, which serve as an ornament to the peak of the Venkata mountain, and which delight the minds and eyes of all beings.",
       "'अम्लान-हृष्यद-अवनी-तल-कीर्ण-पुष्पौ' compares the Lord's feet to flowers that remain ever fresh, as they are constantly worshipped by devotees, covering the earth with joy and divine beauty. 'श्रीवेङ्कटाद्रि-शिखर-आभरणाय-मानौ' highlights that Lord Venkatesha's feet are the greatest ornament of the Venkata mountain, making it a sacred pilgrimage site. 'आनन्दित-अखिल-मनो-नयनौ' means that His feet bring immense joy to the minds and eyes of all devotees, who experience bliss upon seeing them.",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "अम्लान = Unfading, ever-fresh",
       "हृष्यद = Thrilling with joy, delighted",
@@ -624,6 +650,8 @@ const verses = [
       "I take refuge in the divine feet of Lord Venkatesha, which are the foremost refuge for those who surrender, which are like a mother's breasts to an infant, nourishing them with nectar-like immortality, which, though appearing equal to each other, are incomparable in their greatness.",
       "'प्रपन्नजनता प्रथमावगाह्यौ' → The Lord's feet are the first and foremost refuge for surrendered devotees, meaning they are the ultimate source of protection and solace. 'मातुः स्तनाविव शिशोः अमृताय मानौ' → The Lord's feet are compared to a mother's nourishing breasts, which provide nectar-like sustenance to an infant. Just as a baby instinctively seeks its mother for nourishment and comfort, devotees instinctively seek the Lord's feet for spiritual nourishment and liberation. 'प्राप्तौ परस्पर तुलाम अतुलान्तरौ' → The two feet appear equal in stature, yet they are incomparable in their spiritual significance, meaning that each of them holds infinite divine greatness beyond human understanding."
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "प्रायः = Generally, usually",
       "प्रपन्न = Surrendered",
@@ -676,6 +704,8 @@ const verses = [
       "I take refuge in the divine feet of Lord Venkatesha, which are constantly worshipped by highly virtuous beings, which, with their compassionate glance, uplift devotees from the bondage of the material world, and which were revealed to me by the gentle and guiding sage.",
       "'सत्त्वोत्तरैः सततसेव्यपदाम्बुजेन' → The Lord's lotus feet are constantly worshipped by the most virtuous and pure-hearted beings. This highlights the supreme sanctity of His feet. 'संसारतारकदयार्द्र दृगञ्चलेन' → The Lord's compassionate glance helps devotees cross the ocean of worldly existence (samsāra), meaning that He alone can liberate them from suffering. 'सौम्योपयन्तृमुनिना मम दर्शितौ' → The gentle sage (possibly referring to an acharya or spiritual teacher) revealed these divine feet to the devotee, indicating that spiritual guidance is necessary to perceive the Lord's grace.",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "सत्त्वोत्तरैः = By those of superior purity (highly virtuous beings)",
       "सतत = Constantly",
@@ -725,6 +755,8 @@ const verses = [
       "'श्रिया घटिकया त्वदुपायभावे' → Śrī Lakṣmī acts as the means (upāya) to attain the Lord, meaning She intercedes for devotees and ensures their salvation. 'प्राप्ये त्वयि स्वयमुपेयतया स्फुरन्त्या' → The Lord is the ultimate goal (upeya), but Lakṣmī Herself is also the final attainment, meaning She represents divine bliss and eternal service to the Lord. 'नित्याश्रिताय निरवद्यगुणाय' → The Lord is eternally sought as refuge and possesses flawless divine qualities (compassion, justice, love). 'स्यां किङ्करो' → The devotee prays: 'May I always remain Your humble servant.' This is a declaration of complete surrender and servitude to the Lord. 'न जातु मह्यम्' → 'Never let there be any sense of independence for me.' The devotee rejects all notions of self-dependence and desires only servitude to God.",
       "This verse beautifully encapsulates the essence of Śaraṇāgati (total surrender), acknowledging the grace of Lakṣmī as both a guide and the ultimate blissful attainment.",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "श्रीश = O Lord of Śrī (Vishnu, Venkatesha)",
       "श्रिया = By Śrī (Lakṣmī)",

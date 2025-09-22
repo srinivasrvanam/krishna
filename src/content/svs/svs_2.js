@@ -28,6 +28,8 @@ const verses = [
       "Your incomparable dark-blue body is always reddened by the saffron (kumkuma) from the Vakshasthala of Mother Lakshmi.",
       "May You be ever victorious!",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "कमला = Mother Lakshmi",
       "चूचुक = स्तनाग्रः",
@@ -70,6 +72,8 @@ const verses = [
       "Including the four-faced Brahma, six-faced Kumaraswamy (Subrahmanya swami), and five-faced Hanuman, you are the greatest crown jewel among all angels. You are the abode of kindness to those who submit themselves at your feet. O Lord of Vrisha hill, save me.",
       "Please protect me oh., Lord of Vrusha mountain, Who is the crown jewel among all the gods, With four faces, six faces and five faces, And who is the ultimate treasure who loves, Those who come and surrender to him,",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "स = सह",
       "चतुर्मुख = Brahma Deva",
@@ -111,6 +115,8 @@ const verses = [
       "Extremely trembling on being committed various sins and hundreds of wrong deeds, I came running speedily to submit myself at your feet. O Lord of Vrisha hill, shower mercy on me.",
       "Greatly trembling for having committed various sins, And also trembling for having done hundreds of wrongs, I have rushed speedily for surrendering to you, Lord of Vrusha, And so Oh, Hari, please shower on me your eternal mercy,",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "अति-वेलतया = वेल (time) - अति-वेल (excessive) - तस्य भावः(अतिवेलता) - तृतीया.वि. - एक.व. = due to constant/excessive occurence",
       "तव दुर्विषहैः = दुर् (difficult) - विषहैः (to bear/endure) = unbearable to you",
@@ -158,6 +164,8 @@ const verses = [
       "O bounteous Lord of Venkata hill, who gives away always more than what your devotees desire, all the other angels (gods) are also saluting to you, and none is equal to you. ",
       "There is none greater to you, Oh Lord of Lakshmi, Who is merciful by nature residing on Venkata mountain, Who blesses his devotees with much more than they desire, And who is saluted by other gods and books that show the way.",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "अधि-वेङ्कट-शैलम्-उदार-मतेः = पञ्चमी.वि. = from the one who resides on Venkata Chala and Generous",
       "?? शैलम्-उदार (or) शैल-मुदार",
@@ -197,6 +205,8 @@ const verses = [
       "With an enchanting music from your flute, you attracted the gopis and bestowed each one of them with their desired happiness that is equal to the happiness obtained from hundred crore penances or crores of prayers. O Son of VasudEva (Krishna), none is equal to you. ",
       "There is no comparison to the son of Vasudeva, Who attracts the gopa maidens, by music from his flute, And fulfills the desire of each gopi and gives her pleasure, Much More than hundreds of crores of penances, And prayers addressed to crores of similar Gods..",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "कल = Melodious/sweet",
       "वेणु = Flute",
@@ -241,6 +251,8 @@ const verses = [
       "You have been the lovely and virtuous son of Dasharatha; you are the only courageous and great archer of the entire world, the chief of Raghukula, the pleasing and entertaining Lord. Please grant the boon to me, O Lord and Ocean of Mercy. ",
       "Become the boon giver, Oh sea of mercy, Oh matchless doer of the good, Oh son of Dasaratha, Oh only archer of the world, oh god with a brave heart, Oh Rama the lord of Raghu clan, And Oh God who is the Lord of Lakshmi.",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "अभिराम = extremely charming/delightful/pleasing",
       "गुणाकर = mine of virtues, one who possesses noble qualities",
@@ -286,6 +298,8 @@ const verses = [
       "Your pretty hands are held by the daughter of Earth, Sita; and you are beautiful with your lotus-like face resembling the moon. You are the king dispelling all the darkness by walking in the nights. Grant me refuge O Rama of Raghu clan.",
       "I seek refuge in the great Rama of Raghu clan, Whose pretty hands are held by the daughter of earth, Who has a pretty lotus-like face, similar to the moon, And who as a king walks at night and destroys darkness like the sun.",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "अवनी = Earth",
       "तनया = Daughter",
@@ -331,6 +345,8 @@ const verses = [
       "You are pleasant-faced, good-hearted, easily reachable, and you are the provider of happiness along with your brothers and with a never-ending flow of arrows. So, I never pray to anyone else even for a while except you, O Rama. ",
       "You are with a pleasant face, good heart, Very easy to reach and giver of pleasures, Along with your brothers and with a never-ending stream of arrows, So leaving you, I would never at any time, even for a second, Pray anyone else, Oh Jewel of the Raghu clan.",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "अहं = I",
       "जातु = कदाचित् = at any time/ever",
@@ -371,6 +387,8 @@ const verses = [
       "Without you, O Venkateshwara, I am an orphan. I always keep remembering your name. O Venkatesa, kindly be pleased with me and bestow me with your love and grace.",
       "I do not have any Lord except Venkatesa, I remember and remember only Lord Venkatesa, So Hey Venkatesa, be pleased with me, I request you to give me only what you like.",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "प्रसीद = प्र + सद् (सुखी होना) - कर्तरि लोट् - (परस्मै) - म.पु. - एक.व. = Please become pleased - (सद् - 1P - भ्वादिः - to dry up/lose power - सीदन्ति मम गात्राणि - BG 1.28)",
       "प्रियं = Beloved, dear thing",
@@ -402,6 +420,8 @@ const verses = [
       "I have been far away from your lotus-like feet and have now come with a wish to serve the feet. So, Lord Venkatesha, I request you, again and again, please allow me the benefit of performing a good service to you. ",
       "I was far away from your two lotus-like feet, And have come with a wish to serve them, And so I request and request you, Lord Venkatesa, To please allow me to do good service to you. ",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "अम्भोज = lotus = borm from water (अम्भः = जलं - water)",
       "युग्म = pair",
@@ -429,6 +449,8 @@ const verses = [
       "The sins committed by me are all simply due to the sheer ignorance of mine; so kindly please pardon me, pardon me, O jewel of Sesha Shaila Mountain.",
       "Please pardon, please pardon, Oh crest jewel of the Sesha mountain, This ignorant sinner of the sins committed, Due to sheer helplessness, Oh Hari.",
     ],
+    essence: [],
+    meanings: [],
     notes: [],
   },
   // "॥ इति वेङ्कटेशस्तोत्रम् ॥"

@@ -33,6 +33,8 @@ const verses = [
     transl  : [
       "The Supreme Divine Personality said: O scion of Bharata, these are the saintly virtues of those endowed with a divine nature — fearlessness, purity of mind, steadfastness in spiritual knowledge, charity, control of the senses, sacrifice, study of the sacred books, austerity, and straightforwardness; non-violence, truthfulness, absence of anger, renunciation, peacefulness, restraint from fault-finding, compassion toward all living beings, absence of covetousness, gentleness, modesty, and lack of fickleness; vigor, forgiveness, fortitude, cleanliness, bearing enmity toward none, and absence of vanity(pride)." 
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'श्रीभगवान् = the Blessed Lord',
       'उवाच = said',
@@ -89,6 +91,8 @@ const verses = [
     transl  : [
       "Hypocrisy, arrogance, pride, anger, harshness, and ignorance — these, O Arjuna, are the qualities of one born with a demoniac nature." 
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'दम्भः = hypocrisy',
       'दर्पः = arrogance',
@@ -126,6 +130,8 @@ const verses = [
     transl  : [
       "The divine qualities are considered to lead to liberation, while the demoniac qualities lead to bondage. Do not grieve, O Arjuna, for you are born with divine qualities." 
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'दैवी = divine',
       'सम्पत् = qualities / disposition',
@@ -161,6 +167,8 @@ const verses = [
     transl  : [
       "This is the threefold gate of hell, destructive of the self—lust, anger, and greed. Therefore, one should abandon these three." 
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'त्रिविधम् = threefold',
       'नरकस्य = of hell',
@@ -197,6 +205,8 @@ const verses = [
     transl  : [
       "O son of Kunti, a man who is freed from these three gates of darkness — lust, anger, and greed — acts for the good of the soul and thereby attains the supreme goal." 
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'एतैः = from these',
       'विमुक्तः = freed',
@@ -231,6 +241,8 @@ const verses = [
     transl  : [
       "He who acts according to his desires, abandoning the injunctions of the scriptures, does not attain perfection, nor happiness, nor the supreme goal." 
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'यः = who',
       'शास्त्रविधिम् = scriptural injunctions',
@@ -264,6 +276,8 @@ const verses = [
     transl  : [
       "Therefore, let scripture be your authority in determining what is to be done and what is not to be done. Knowing the ordinances of the scripture, you ought to perform action here." 
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'तस्मात् = therefore',
       'शास्त्रम् = scripture',

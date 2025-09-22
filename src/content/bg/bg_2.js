@@ -20,6 +20,8 @@ const verses = [
     transl  : [
       'The Supreme Lord said: You grieve for those who should not be grieved for, and yet you speak words of wisdom. The wise, who know the truth, do not lament for the living or the dead.', 
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'अशोच्यानन्वशोचस्त्वं = अशोच्यान् + अन्वशोचः + त्वं --- ?? सन्धिः',
       'प्रज्ञावादांश्च = प्रज्ञावादान् + च --- ?? सन्धिः',
@@ -57,6 +59,8 @@ const verses = [
     transl  : [
       'Never was there a time when I did not exist, nor you, nor all these kings nor in the future shall any of us cease to be.', 
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'जातु (avyaya) = कदाचित्'
     ],
@@ -80,6 +84,8 @@ const verses = [
     transl  : [
       'Just as the embodied soul continuously passes from childhood to youth to old age, similarly, at the time of death, the soul passes into another body. The wise are not deluded by this.', 
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'देहिनः = देहिन् (embodied) - षष्ठी एक.व.'
     ],
@@ -104,6 +110,8 @@ const verses = [
     transl  : [
       'O son of Kunti, the contact between the senses and the sense objects gives rise to fleeting perceptions of happiness and distress. These are non-permanent, and come and go like the winter and summer seasons. O descendent of Bharat, one must learn to tolerate them without being disturbed.', 
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'तिज् - endure/tolerate --- कर्तरि लोट्लकारः = तितिक्षस्व',
       'Matrah means those by which are marked off (measured up) sounds etc., i.e. the organs of hearing etc. The sparsah, contacts, of the organs with sound etc. are matra-sparsah. Or, sparsah means those which are contacted, i.e. objects, viz sound etc.'
@@ -128,6 +136,8 @@ const verses = [
     transl  : [
       'O Arjun, noblest amongst men, that person who is not affected by happiness and distress, and remains steady in both, becomes eligible for liberation.', 
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'व्यथ् - to be vexed/feared/irritated णिजन्ते - व्यथयन्ति',
       'कल्पते (कृप्) - to be able/capable',
@@ -153,6 +163,8 @@ const verses = [
     transl  : [
       'Of the transient there is no endurance, and of the eternal there is no cessation. This has verily been observed and concluded by the seers of the Truth, after studying the nature of both.', 
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'असतः = असत् (पुं) - षष्ठी - एक.व.',
       'सत: = सत् (पुं) - षष्ठी - एक.व.',
@@ -183,6 +195,8 @@ const verses = [
     transl  : [
       'That which pervades the entire body, know it to be indestructible. No one can cause the destruction of the imperishable soul.',
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'इदम् = इदम् (सर्वनाम न.पु.) - प्रथमा - एक.व.',
       'सर्वम् = सर्व (सर्वनाम न.पु.) - प्रथमा - एक.व.',
@@ -211,6 +225,8 @@ const verses = [
     transl  : [
       'Only the material body is perishable; the embodied soul within is indestructible, immeasurable, and eternal. Therefore, fight, O descendent of Bharat.',
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'नित्यस्य = नित्य (eternal - पु.लि. - नित्यः) - षष्ठी.वि. - एक.व.',
       'अनाशिनः = अ-नाशिनः - नाशिन् (perishable - पु.लि. - नाशी) - षष्ठी.वि. -एक.व.',
@@ -244,6 +260,8 @@ const verses = [
     transl  : [
       'Neither of them is in knowledge—the one who thinks the soul can slay and the one who thinks the soul can be slain. For truly, the soul neither kills nor can it be killed.'
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'य: = who',
       'एनम् = this (Self / Atman)',
@@ -292,6 +310,8 @@ const verses = [
       'It is unborn, eternal, everlasting, and ancient.',
       'It is not slain when the body is slain.',
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'न = not',
       'जायते = is born - (जन् - 4A - दिवादिः - to be born - कर्तरि लट् - प्र.पु. - एक.व.)',
@@ -336,6 +356,8 @@ const verses = [
     transl  : [
       'O Arjuna, he who knows the Self as indestructible, eternal, unborn, and unchanging — how can that person slay anyone, or cause anyone to be slain?',
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'वेद/वेत्ति = knows - (विद् - 2P - अदादिः - to know - कर्तरि लट् - प्र.पु. - एक.व.)',
       'अविनाशिनम् = indestructible',
@@ -378,6 +400,8 @@ const verses = [
     transl  : [
       'Just as a person discards old clothes and puts on new ones, so too the embodied Self discards old, worn-out bodies and enters new ones.',
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'वासांसि = clothes',
       'जीर्णानि = old / worn-out',
@@ -417,6 +441,8 @@ const verses = [
     transl  : [
       'Weapons do not cut this Self, fire does not burn it, water does not wet it, and wind does not dry it.',
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'न = not',
       'एनम् = this (Self)',
@@ -450,6 +476,8 @@ const verses = [
     transl  : [
       'This Self is uncuttable, unburnable, unwettable, and undryable. It is eternal, all-pervading, stable, immovable, and everlasting.',
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'अच्छेद्य: = uncuttable',
       'अयम् = this (Self)',
@@ -485,6 +513,8 @@ const verses = [
     transl  : [
       'This Self is said to be unmanifest, inconceivable, and unchanging. Therefore, having understood it thus, you should not grieve for it.',
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'अव्यक्त: = unmanifest / invisible',
       'अयम् = this (Self)',
@@ -521,6 +551,8 @@ const verses = [
     transl  : [
       'But even if you think of this Self as always being born and always dying, even then, O mighty-armed Arjuna, you should not grieve like this.',
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'अथ = but / or',
       'च = and',
@@ -559,6 +591,8 @@ const verses = [
     transl  : [
       'For one who is born, death is certain; and for one who has died, birth is certain. Therefore, in a situation that is unavoidable, you should not grieve.',
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'जातस्य = for one who is born',
       'हि = indeed / surely',
@@ -597,6 +631,8 @@ const verses = [
     transl  : [
       'Even considering your own duty (as a warrior), you should not waver. For a Kshatriya, there is no greater good than a righteous war.',
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'स्वधर्मम् = one\'s own duty',
       'अपि = even',
@@ -636,6 +672,8 @@ const verses = [
     transl  : [
       'O Partha, happy are the Kshatriyas who get such a battle as this, which comes of its own accord and opens the gates of heaven.',
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'यदृच्छया = by chance / spontaneously',
       'च = and',
@@ -671,6 +709,8 @@ const verses = [
     transl  : [
       'If slain, you will attain heaven; if victorious, you will enjoy the kingdom on earth. Therefore, O Kaunteya, arise with determination for battle.',
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'हतः = slain',
       'वा = or',
@@ -707,6 +747,8 @@ const verses = [
     transl  : [
       'Treating pleasure and pain, gain and loss, victory and defeat alike, then prepare for battle — thus, you will not incur sin.',
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'सुख = pleasure',
       'दुःखे = pain',
@@ -744,6 +786,8 @@ const verses = [
     transl  : [
       'So far, I have explained to you this Buddhi (wisdom) in the context of Sankhya (analytical knowledge). Now listen to this in the context of Yoga (action). Indeed, when you are endowed with this wisdom, O Partha, you will be freed from the bondage of action.',
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'एषा = this',
       'ते = to you',
@@ -782,6 +826,8 @@ const verses = [
     transl  : [
       'In this path, there is no loss of effort, nor is there any adverse result. Even a little practice of this dharma protects one from great fear.',
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'न = not',
       'इह = in this (path or practice)',
@@ -818,6 +864,8 @@ const verses = [
     transl  : [
       'The Vedas are concerned with the three guṇas, O Arjuna. You become one who is beyond these guṇas, free from the dualities, ever established in purity (sattva), without anxiety for gain and preservation, and self-realized (situated in the self).',
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'त्रैगुण्यविषयाः = concerned with the three gunas (modes of nature)',
       'वेदाः = the Vedas',
@@ -851,6 +899,8 @@ const verses = [
       'You have the right only to perform your duties, not to the fruits of actions. Never consider yourself the cause of the results of your actions, nor be attached to inaction.',
       'At any time, Your right is only in action, not in the fruits of action. Do not become the cause of the fruits of action, nor be attached to inaction.',
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'कर्मणि = in action / in your duties',
       'एव = only / indeed',
@@ -886,6 +936,8 @@ const verses = [
     transl  : [
       'O Dhananjaya, perform your duties being established in yoga, abandoning attachment, and remaining equal in success and failure. Such equanimity is called Yoga.',
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'योगस्थः = established in yoga',
       'कुरु = perform',

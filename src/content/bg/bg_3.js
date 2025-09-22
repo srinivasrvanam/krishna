@@ -17,6 +17,8 @@ const verses = [
     transl  : [
       "Therefore, always perform your prescribed duty without attachment. For by performing work without attachment, a person attains the supreme goal (liberation)." 
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       "तस्मात् = Therefore",
       "सक्तः = (सञ्ज् - 1P - to cling/to stick to/to attach) - क्त प्रत्यय (past) = one who is attached)",
@@ -54,6 +56,8 @@ const verses = [
     transl  : [
       "Whatever actions great persons perform, common people follow. Whatever standards they set, all the world pursues." 
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       "यत् = whatever",
       "यत् = whatever",
@@ -92,6 +96,8 @@ const verses = [
     transl  : [
       "O Pārtha (Arjuna), there is no duty whatsoever for me in all the three worlds. There is nothing unattained or yet to be attained by me. Yet, I remain engaged in action.", 
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       "न (na) = Not",
       "मे (me) = For me",
@@ -127,6 +133,8 @@ const verses = [
     transl  : [
       "All actions are performed in every way by the modes (gunas) of material nature (Prakriti). But one whose self is deluded by ego thinks, 'I am the doer.'", 
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       "प्रकृतेः = of Prakriti (material nature)",
       "क्रियमाणानि = being performed - भावकर्म-शानच् (present participle - आत्मनेपदी - नपुं)",
@@ -163,6 +171,8 @@ const verses = [
       "But one who knows the truth, O mighty-armed (Arjuna), about the distinction between the gunas (modes of nature) and actions, understands that the gunas act upon the gunas. Thus, he does not become attached.",
       "O mighty-armed Arjuna, illumined persons distinguish the soul as distinct from guṇas and karmas. They perceive that it is only the guṇas (in the shape of the senses, mind, and others) that move among the guṇas (in the shape of the objects of perception), and thus they do not get entangled in them.",
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       "तत्त्ववित् = one who knows the truth",
       "तु = but",
@@ -197,6 +207,8 @@ const verses = [
     transl  : [
       "Surrendering all actions to Me (Performing all works as an offering unto Me), with your mind focused on the Self, free from desires and the sense of ownership, and with your mental grief departed, fight!",
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       "मयि = in Me (Krishna, the Supreme Lord)",
       "सर्वाणि = all",
@@ -232,6 +244,8 @@ const verses = [
     transl  : [
       "Those human beings who consistently follow this teaching of Mine with faith and without envy, they too are freed from the bondage of actions.",
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       "ये = those who",
       "मे = My",
@@ -267,6 +281,8 @@ const verses = [
     transl  : [
       "But those who, out of envy, do not follow this teaching of Mine—know them to be deluded of all knowledge, devoid of discernment, and doomed to ruin.",
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       "ये = those who",
       "तु = but",
@@ -304,6 +320,8 @@ const verses = [
     transl  : [
       "Better is one's own duty, though imperfect, than the well-performed duty of another. Death in the course of one's own duty is better; the duty of another is fraught with fear.",
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       "श्रेयान् = better - (श्रेयस् - पुं - प्रथमा - एक.व. - द्वाभ्याम् अधिकं कल्याणकारी)",
       "स्वधर्मः = one's own duty",
@@ -342,6 +360,8 @@ const verses = [
     transl  : [
       "O Krishna (O descendant of Vrishni), by what is a person impelled to commit sin, even against his will, as if driven by force?",
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       "अथ = but / then",
       "केन = by what / by whom",
@@ -381,6 +401,8 @@ const verses = [
     transl  : [
       "It is desire — it is anger — born of the mode of passion (rajas); Know this as the great devourer, the great sinner; know this as the enemy here (in this world)."
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       "कामः = desire / lust",
       "एषः = this",
@@ -416,6 +438,8 @@ const verses = [
     transl  : [
       "Just as fire is covered by smoke, a mirror by dust, and a fetus by the womb, so is this (wisdom) covered by that (desire).",
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       "धूमेन = by smoke",
       "आव्रियते = is covered - (भावकर्मणोः लट् आत्मने)",
@@ -452,6 +476,8 @@ const verses = [
     transl  : [
       "O Arjuna, the knowledge of the wise is covered by this eternal enemy in the form of desire, which is insatiable and like a consuming fire.",
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       "आवृतम् = covered",
       "ज्ञानम् = knowledge / wisdom",
@@ -483,6 +509,8 @@ const verses = [
     transl  : [
       "The senses, the mind, and the intellect are said to be its (desire's) seat. Through these, it deludes the embodied being by covering knowledge.",
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       "इन्द्रियाणि = the senses",
       "मनो = the mind",
@@ -519,6 +547,8 @@ const verses = [
     transl  : [
       "Therefore, O Arjuna, first control the senses and slay this sinful one (desire), which is the destroyer of both knowledge and realization.",
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       "तस्मात् = therefore",
       "त्वम् = you",
@@ -555,6 +585,8 @@ const verses = [
     transl  : [
       "The senses are said to be superior (to the body), but higher than the senses is the mind. Higher than the mind is the intellect, and beyond the intellect is That (the Self).",
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       "इन्द्रियाणि = the senses",
       "पराणि = superior / powerful",
@@ -592,6 +624,8 @@ const verses = [
     transl  : [
       "Thus, knowing the Self to be higher than the intellect, and restraining the lower self by the higher self, slay the enemy in the form of desire, O mighty-armed Arjuna — this enemy is very difficult to conquer.",
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       "एवम् = thus",
       "बुद्धेः = than the intellect",

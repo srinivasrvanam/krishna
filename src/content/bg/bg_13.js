@@ -18,6 +18,8 @@ const verses = [
     transl  : [
       "Therefore, always perform your prescribed duty without attachment. For by performing work without attachment, a person attains the supreme goal (liberation)." 
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       "तस्मात् = Therefore",
       "सक्तः = (सञ्ज् - 1P - to cling/to stick to/to attach) - क्त प्रत्यय (past) = one who is attached)",
@@ -80,6 +82,8 @@ const verses = [
     transl  : [
       "Humility, absence of hypocrisy, non-violence, forgiveness, uprightness, service to the teacher, purity, steadfastness, self-control; dispassion toward sense objects, absence of ego; constant reflection on the evils of birth, death, old age, and disease; detachment, absence of clinging to son, wife, and home; equanimity of mind in favorable and unfavorable circumstances; unwavering devotion to Me with undivided focus; love for solitude, disinterest in crowds; constancy in self-knowledge and perception of the goal of true knowledge—this is declared as knowledge, and what is contrary to this is ignorance." 
     ],
+    essence : [],
+    meanings: [],
     notes   : [
       'अमानित्वम् = humility',
       'अदम्भित्वम् = absence of hypocrisy',

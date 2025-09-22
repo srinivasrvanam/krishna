@@ -23,6 +23,8 @@ const verses = [
       "Auspiciousness be to the Lord Venkatesa the resident of Mount Venkata, the spouse of Lakshmi, who is the repository of auspiciousness, and a treasury towards those who take refuge in Him.",
       "May auspiciousness be upon Śrīnivāsa, who is the beloved consort of Lakṣmī, who is the treasure-house of  all auspiciousness, who is the refuge of all seekers, who resides in Venkata (Tirumala), and who is the  eternal abode of Lakṣmī Herself!",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "श्रियः = Of Lakṣmī (Goddess of wealth and prosperity)",
       "कान्ताय = To the beloved consort (of Lakṣmī)",
@@ -56,6 +58,8 @@ const verses = [
       "May auspiciousness be upon Lord Venkatesha, whose enchanting eyes captivate even Lakṣmī, whose playful glances charm the Goddess with Her beautiful eyebrows, and who is the divine eye (protector) of all the worlds!",
       "'लक्ष्मी सविभ्रम आलोक सुभ्रू विभ्रम चक्षुषे' → The Lord's glance is so mesmerizing that even Goddess Lakṣmī is enchanted by His divine beauty. 'चक्षुषे सर्वलोकानाम्' → His eyes are not just beautiful but also protective, as He is the watchful guardian of all worlds. 'वेङ्कटेशाय मङ्गलम्' → The verse bestows auspiciousness upon Lord Venkatesha, ensuring His blessings upon all devotees who recite it.",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "लक्ष्मी = Goddess Lakṣmī",
       "सविभ्रम = With playful (charming) expressions",
@@ -90,6 +94,8 @@ const verses = [
       "Auspiciousness be to the Lord of Lakshmi Devi, the repository of auspiciousness whose auspicious feet adorn the crest of mount Venkata.",
       "May auspiciousness be upon Śrīnivāsa, who resides atop the sacred peak of Venkata Hill, whose holy feet are the greatest ornaments adorning the summit, and who is the very abode of all auspiciousness!"
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "श्रीवेङ्कट = Of the sacred Venkata (Tirumala)",
       "अद्रि = Mountain",
@@ -125,6 +131,8 @@ const verses = [
       "Auspiciousness be to the Lord Venkatesa, the inestimable beauty of whose form continually enraptures all beings.",
       "May auspiciousness be upon Lord Venkatesha, who is endowed with the supreme beauty of all His limbs, who eternally captivates the hearts of all beings!",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "सर्व = All, every",
       "अवयव = Limbs, body parts",
@@ -162,6 +170,8 @@ const verses = [
       "Auspiciousness be to the Lord Venkatesa the Supreme Spirit, the Absolute Truth, the Ultimate Joy, who is Eternal, Immaculate, and the indweller in every soul.",
       "May auspiciousness be upon Śrī Venkatesha, who is eternal, flawless, and the very essence of truth, bliss, and pure consciousness, who is the indwelling soul of all beings!"
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "नित्याय = To the eternal one",
       "निरवद्याय = To the flawless, faultless one",
@@ -205,6 +215,8 @@ const verses = [
       "- who is easily accessible to devotees,",
       "- and who is endowed with supreme virtues!",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "स्वतः = By His own nature, inherently",
       "सर्वविदे = To the all-knowing one, the omniscient one",
@@ -243,6 +255,8 @@ const verses = [
       " - and who is the highest divine truth!",
       " - I offer my salutations to Him.",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "परस्मै = To the supreme, transcendent one",
       "ब्रह्मणे = To Brahman, the absolute reality",
@@ -278,6 +292,8 @@ const verses = [
       " - who is tireless in guiding seekers of the Self,",
       " - and whose form is an inexhaustible nectar of bliss!"
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "आकालतत्त्वम् = The eternal principle, the essence beyond time",
       "अश्रान्तम् = The tireless, ever-active one",
@@ -309,6 +325,8 @@ const verses = [
       " - who mercifully directs people towards His own feet as their ultimate refuge,",
       " - by pointing to them with His hand, out of boundless compassion!",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "प्रायः = Generally, mostly, often",
       "स्वचरणौ = His own two feet",
@@ -343,6 +361,8 @@ const verses = [
       " - with His cool, soothing sidelong glances,",
       " - just like the gentle waves of a river of nectar-like compassion!"
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "दयामृततरङ्गिण्याः = Of the river of nectar-like compassion",
       "तरङ्गैः = With waves",
@@ -379,6 +399,8 @@ const verses = [
       " - whose form radiates supreme beauty,",
       " - and who removes all suffering and distress!",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "स्रग् (Srag) = Garland, wreath of flowers",
       "भूषा (Bhūṣā) = Ornaments, jewelry, decorations",
@@ -420,6 +442,8 @@ const verses = [
       " - who resides on the banks of the sacred Swami Pushkarini,",
       " - and who joyfully sports with Goddess Lakshmi (Rama)."
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "श्री-वैकुण्ठ-विरक्ताय = To the one who has renounced the supreme abode Vaikuntha",
       "स्वामि-पुष्करिणी-तटे = On the banks of the sacred Swami Pushkarini",
@@ -454,6 +478,8 @@ const verses = [
       " - who resides in the heart of the great sage Srī Manavāḷa Māmuni (the son-in-law of Sundara),",
       " - and who is the divine abode of all beings in the universe.",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "श्रीमत् = Sacred, glorious, revered",
       "सुन्दरजामातृ = The son-in-law of Sundara (Srī Manavāḷa Māmuni)",
@@ -491,6 +517,8 @@ const verses = [
       "Auspiciousness be to the Lord Venkatesa who is adored by all the Spiritual Preceptors of my lineage and all those that went before them.",
       "May auspiciousness always be upon the greatly revered Lord Venkatesha, who has been glorified through Mangalaashasana by all my Acharyas and all the great preceptors of the past.",
     ],
+    essence: [],
+    meanings: [],
     notes: [
       "मङ्गल (Mangala) = Auspicious, beneficial, or well-being",
       "आशासन (Āśāsana) = (आङ् + शास् - ल्युट् प्रत्यय) Benediction, blessing, or benedictory verse",
