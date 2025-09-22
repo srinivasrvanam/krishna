@@ -26,7 +26,7 @@ const verses = [
           // "1.1: (Salutations to Sri Govinda) O Rama, the most Excellent Son of Kaushalya; in the East the Dawn is fast approaching in this Beautiful juncture of Night and Day, 1.2: Please Wake Up in Our Hearts, O Purushottama (the Best of Men ) so that we can perform our Daily Duties as Divine Rituals unto You and thus do the Ultimate Duty of our lives.",
       ],
       essence: [
-        "This sloka is taken from Ramayana (Balakanda, Chapter 23, Verse 2), where sage Vishwamitra wakes up Lord Rama to perform the dawn rituals.",
+        "This sloka is taken from Srimad Ramayanam (Balakanda, Chapter 23, Verse 2), where sage Vishwamitra wakes up Lord Rama to perform the dawn rituals.",
         "Prathivadhi Bhayankaram Annangaracharya (author of this Sri Venkateswara Suprabatham) has taken this sloka to begin the Suprabatham",
       ],
       meanings: [
@@ -42,13 +42,9 @@ const verses = [
           "दैवम्-आह्निकम् = daily divine duties",
       ],
       notes: [
-          "कौसल्या = Kausalya",
-          "सुप्रजा = well born son (प्रजा = स्त्री.लि. एक.व. - why स्त्री.लि. ??)",
-          "राम = O Sri Rama!",
+          "सुप्रजा = well born son (प्रजा = स्त्री.लि. एक.व.) - (why स्त्री.लि. - प्रजा is नित्य स्त्री.लि. पदम् whether applied to a man/woman - similar to व्यक्तिः - person)",
           "पूर्वा = (सर्व स्त्री 1 एक) = east",
-          "सन्ध्या = dawn",
           "प्रवर्तते = प्रकर्षेण वर्तते - वृत् (1A - भ्वादिः आत्मने - to be/to happen - कर्तरि लट्)",
-          "नरशार्दूल = O Tiger among men",
           "उत्तिष्ठ = उत्-तिष्ठ (get up) - स्था (1P - to stay - भ्वादिः परस्मै) - कर्तरि लोट्",
           "आह्निकम् = daily duties",
           "दैवम्-आह्निकम् = daily pujas/rituals (divine work)",
