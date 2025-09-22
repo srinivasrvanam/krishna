@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 const Home = () => {
   return (
     <div>
@@ -6,8 +8,14 @@ const Home = () => {
         This site contains Sloka Study from Sri Venkateswara Suprabhatham,
         Bhagavad Gita
         <br /><br />
+        <div className="flex flex-wrap justify-center gap-2 mt-2">
+          <Link to="/svs" className="sv-btn">Suprabhatham</Link>
+          <Link to="/bg" className="sv-btn">Bhagavad Gita</Link>
+        </div>
+        <br /><br />
         <div className="flex flex-col align-center justify-around h-[60vh] w-[90%] md:w-[80%] lg:w-[60%] mx-auto"> 
           {/* <img src="https://www.tallengestore.com/cdn/shop/files/SriTirupatiVenkateswaraSwamy_Balaji_Painting_large.jpg?v=1694996304" /> */}
+          
           <div className="text-xl bg-gray-100 dark:bg-gray-800 rounded-lg p-4">
            || B.G. 4.38 || <br />
             न हि ज्ञानेन सदृशं पवित्रमिह विद्यते | <br />
