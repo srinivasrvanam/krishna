@@ -39,7 +39,10 @@ function SVSHome() {
             This site contains all slokas in a list format to just recite/chant. 
             <br />
             Also, if you click on a particular sloka, you can read more details of the sloka, pada cheda (breaking down of words), anvaya krama (rearranging words to understand meaning in prose format), translations, word-to-word meanings and sanskrit notes for some words.
-            <br />
+            <br /><br />
+            <div className="flex justify-center">
+              <iframe width="749" height="562" src="https://www.youtube.com/embed/VGSy_p5epsw?start=39" title="Sri Venkateswara Suprabhatam (Animated Film)" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
           <br />
           <div className="text-3xl">Reference Links:</div>
           <SVSLinks />
