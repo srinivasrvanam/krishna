@@ -61,8 +61,8 @@ function SVSVerse() {
                     <Breadcrumbs />
                   </div>
                   <div className="flex flex-wrap justify-center gap-2 mt-2 py-4">
-                    {prevVerse && prevVerse.number && <Link to={`/svs/${chapter_num}/${prevVerse.number}`} className="sv-btn">Prev - {prevVerse.number}</Link>}
-                    {nextVerse && nextVerse.number && <Link to={`/svs/${chapter_num}/${nextVerse.number}`} className="sv-btn">Next - {nextVerse.number}</Link>}
+                    {prevVerse && prevVerse.number && <Link to={`/svs/${chapter_num}/${prevVerse.number}`} className="sv-btn fixed bottom-4 left-5">Prev - {prevVerse.number}</Link>}
+                    {nextVerse && nextVerse.number && <Link to={`/svs/${chapter_num}/${nextVerse.number}`} className="sv-btn fixed bottom-4 right-5">Next - {nextVerse.number}</Link>}
                   </div>
                   <Verse verse={verses.find(verse => verse.number === Number(verse_num))} />
                     <br />
