@@ -41,7 +41,7 @@ function SVSHome() {
             <br />
             Also, if you click on a particular sloka, you can read more details of the sloka, pada cheda (breaking down of words), anvaya krama (rearranging words to understand meaning in prose format), translations, word-to-word meanings and sanskrit notes for some words.
             <br /><br /><br />
-            <div className="flex flex-col justify-center">
+            <div className="flex flex-col items-center justify-center">
               <b>Suprabhatham Video in VFX (Credits to Makers)</b>
               <iframe 
               className="w-full max-w-2xl aspect-video rounded-lg shadow-xl"
