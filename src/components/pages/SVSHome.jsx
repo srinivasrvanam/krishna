@@ -34,15 +34,19 @@ function SVSHome() {
             It is generally recited along with Stotram, Prapatti and Mangalaashasanam.
             <br />
             It is composed by the great poet Prativadi Bhayankaram Annangaracharya (13th to 14th century), is a Sanskrit and Tamil scholar, a Sri Vaishnava acharya and is a disciple of Sri Manavala Mamuni.
-            <br /><br />
+            <br /><br /><br />
             
+            <b>How to use the site:</b><br />
             This site contains all slokas in a list format to just recite/chant. 
             <br />
             Also, if you click on a particular sloka, you can read more details of the sloka, pada cheda (breaking down of words), anvaya krama (rearranging words to understand meaning in prose format), translations, word-to-word meanings and sanskrit notes for some words.
-            <br /><br />
-            {/* <div className="flex justify-center">
-              <iframe width="749" height="562" src="https://www.youtube.com/embed/VGSy_p5epsw?start=39" title="Sri Venkateswara Suprabhatam (Animated Film)" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-            </div> */}
+            <br /><br /><br />
+            <div className="flex flex-col justify-center">
+              <b>Suprabhatham Video in VFX (Credits to Makers)</b>
+              <iframe 
+              className="w-full max-w-2xl aspect-video rounded-lg shadow-xl"
+              src="https://www.youtube.com/embed/VGSy_p5epsw?start=39" title="Sri Venkateswara Suprabhatam (Animated Film)" frameBorder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+            </div>
           <br />
           <div className="text-3xl">Reference Links:</div>
           <SVSLinks />
