@@ -18,7 +18,7 @@ function SVSHome() {
         {/* Second Column (70%) */}
         <div className="w-full lg:w-7/10 flex items-center justify-center p-2">
           <div className="md:px-10 px-5">
-            Please click the links below to access Suprabhatham, Stotram, Prapatti and Mangalaashasanam.
+            <div className="text-center">Please click these buttons below to view slokas (list and detailed study) of Suprabhatham, Stotram, Prapatti and Mangalaashasanam.</div>
             <br /><br />
             <div className="flex flex-wrap justify-center gap-2 mt-2">
               <Link to="/svs/1" className="sv-btn">SV-सुप्रभातम्</Link>
