@@ -31,7 +31,7 @@ function SVSHome() {
               <b>Suprabhatham Video in VFX (Credits to Makers)</b>
               <iframe 
               className="w-full max-w-2xl aspect-video rounded-lg shadow-xl"
-              src="https://www.youtube.com/embed/VGSy_p5epsw?start=39" title="Sri Venkateswara Suprabhatam (Animated Film)" frameBorder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+              src="https://www.youtube.com/embed/VGSy_p5epsw?start=39" title="Sri Venkateswara Suprabhatam (Animated Film)" frameBorder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
             </div>
             <br /><br /><br />
             <ul className="list-disc list-outside">
@@ -61,7 +61,7 @@ function SVSHome() {
                 <li><b>Translation</b> - English translation of the sloka</li>
                 <li><b>Essence</b> - Further explanations/important notes of the sloka</li>
                 <li><b>Meanings</b> - Word-to-word meanings of the sloka</li>
-                <li><b>Notes</b> - Sanskrit notes for some words (if applicable)</li>
+                <li><b>Notes</b> - Grammar notes for some words</li>
               </ul>
             </ul>
             <br /><br /><br />
