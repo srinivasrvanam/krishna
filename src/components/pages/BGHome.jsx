@@ -8,7 +8,7 @@ function BGHome() {
       <br />
       <div className="text-4xl text-center">Bhagavad Gita </div>
       <br /><br />
-      <div className="flex flex-col md:flex-row">
+      <div className="flex flex-col lg:flex-row">
         {/* First Column (30%) */}
         <div className="w-full lg:w-3/10 flex items-center justify-center">
           <div className="flex flex-row justify-center"> 
