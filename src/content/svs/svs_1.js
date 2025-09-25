@@ -1208,12 +1208,11 @@ const verses = [
           "श्री-वेङ्कट-अचल-पते तव सुप्रभातम् ॥ २४॥",
       ],
       anvaya: [
-          "हे",
+          "हे स्वामिन्",
           "- मीन-आकृते",
           "- कमठ",
           "- कोल",
           "- नृसिंह-वर्णिन्",
-          "- स्वामिन्",
           "- परश्वध",
           "- तपोधन",
           "- रामचन्द्र",
@@ -1224,11 +1223,26 @@ const verses = [
           "तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "24. O Lord, who incarnated as fish, tortoise, boar, and Narasimha, O master, wielder of the axe, ascetic, Rama, O Rama, son of Shesha, Yadunandana, and Kalki, O Lord of Venkata hill, may it be an auspicious dawn to you.",
+          "O Lord! who incarnated as",
+          "- fish (Matsya/मीन),",
+          "- tortoise (Kurma/कमठ),",
+          "- boar (Varaha/कोल),",
+          "- Narasimha",
+          "- Parashurama",
+          "- Vamana",
+          "- Ramachandra",
+          "- Balarama (Adishesha)",
+          "- Krishna",
+          "- Kalki",
+          "O Lord of Venkatachala!",
+          "May it be an auspicious dawn (morning) to you.",
 
-          "O Lord who has incarnated as Mina, Kurma, Narasimha, Vamana, Parasurama, Ramacandra, Balarama and Krishna, and Kalki, O Lord of mount Venkata please arise, may your morning be auspicious.",
 
-          "24.1: (Salutations to Sri Govinda) In this Beautiful Dawn Your Devotees are contemplating on Your Divine Incarnations - Sri Matsa Avatara ( Form of Fish ), Sri Kurma Avatara ( Form of Tortoise ), Sri Varaha Avatara ( Form of Boar ), Sri Nrisimha Avatara ( Form of Man-Lion ) ... 24.2: ... Your Form O Lord of Sri Parashurama Avatara ( Wielder of Axe ), Sri Vamana Avatara ( Rich in Austerities ), Sri Ramachandra Avatara ... 24.3: ... Sri Balarama Avatara ( Rama who was Part of Adisesha ), Sri Krishna Avatara ( Son born in Yadu Dynasty ) and the form of Sri Kalki Avatara. 24.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
+          // "24. O Lord, who incarnated as fish, tortoise, boar, and Narasimha, O master, wielder of the axe, ascetic, Rama, O Rama, son of Shesha, Yadunandana, and Kalki, O Lord of Venkata hill, may it be an auspicious dawn to you.",
+
+          // "O Lord who has incarnated as Mina, Kurma, Narasimha, Vamana, Parasurama, Ramacandra, Balarama and Krishna, and Kalki, O Lord of mount Venkata please arise, may your morning be auspicious.",
+
+          // "24.1: (Salutations to Sri Govinda) In this Beautiful Dawn Your Devotees are contemplating on Your Divine Incarnations - Sri Matsa Avatara ( Form of Fish ), Sri Kurma Avatara ( Form of Tortoise ), Sri Varaha Avatara ( Form of Boar ), Sri Nrisimha Avatara ( Form of Man-Lion ) ... 24.2: ... Your Form O Lord of Sri Parashurama Avatara ( Wielder of Axe ), Sri Vamana Avatara ( Rich in Austerities ), Sri Ramachandra Avatara ... 24.3: ... Sri Balarama Avatara ( Rama who was Part of Adisesha ), Sri Krishna Avatara ( Son born in Yadu Dynasty ) and the form of Sri Kalki Avatara. 24.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
       essence: [],
       meanings: [],
