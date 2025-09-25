@@ -9,7 +9,7 @@ function SVSHome() {
       <br /><br />
       <div className="flex flex-col lg:flex-row">
         {/* First Column (30%) */}
-        <div className="w-full lg:w-3/10 flex items-center justify-center">
+        <div className="w-full lg:w-3/10 flex items-start justify-center">
           <div className="flex flex-row justify-center"> 
             <img src="https://www.tallengestore.com/cdn/shop/files/SriTirupatiVenkateswaraSwamy_Balaji_Painting_large.jpg?v=1694996304" alt="Sri Venkateswara Swamy" />
           </div>
