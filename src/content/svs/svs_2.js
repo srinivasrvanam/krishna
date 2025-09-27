@@ -113,16 +113,23 @@ const verses = [
     ],
     anvaya: [
       "हे (वृष-शैल-पते) हरे !",
-      "- (अतिवेलतया) (तव दुर्विषहैः) (अनुवेलकृतैः) अपराधशतैः ।",
-      "- त्वरितं भरितं (मां) ।",
-      "परया कृपया परि-पाहि ।",
+      "- (अतिवेलतया) (दुर्विषहैः) (अनुवेलकृतैः) अपराधशतैः",
+      "- भरितं (मां) ",
+      "- (तव परया कृपया) त्वरितं परि-पाहि ।",
     ],
     transl: [
-      "O Hari! Lord of Vrisha mountain, exceeding all limits, I have continuously committed hundreds of offenses, I am overcome by them! Seeking you shelter I implore you to have mercy on me and absolve me.",
-      "Extremely trembling on being committed various sins and hundreds of wrong deeds, I came running speedily to submit myself at your feet. O Lord of Vrisha hill, shower mercy on me.",
-      "Greatly trembling for having committed various sins, And also trembling for having done hundreds of wrongs, I have rushed speedily for surrendering to you, Lord of Vrusha, And so Oh, Hari, please shower on me your eternal mercy,",
+      "O Lord of Vrisha shaila! O Hari!",
+      "- by the hundreds of unbearable offenses committed consistently again and again,",
+      "- filled with (me)",
+      "- with your utmost compassion, quickly please protect (me)",
+
+      // "O Hari! Lord of Vrisha mountain, exceeding all limits, I have continuously committed hundreds of offenses, I am overcome by them! Seeking you shelter I implore you to have mercy on me and absolve me.",
+      // "Extremely trembling on being committed various sins and hundreds of wrong deeds, I came running speedily to submit myself at your feet. O Lord of Vrisha hill, shower mercy on me.",
+      // "Greatly trembling for having committed various sins, And also trembling for having done hundreds of wrongs, I have rushed speedily for surrendering to you, Lord of Vrusha, And so Oh, Hari, please shower on me your eternal mercy,",
     ],
-    essence: [],
+    essence: [
+      "O Lord Venkateswara! O Hari! With your utmost compassion, please quickly protect me, who is filled with hundreds of unbearable offenses committed consistently again and again.",
+    ],
     meanings: [],
     notes: [
       "अति-वेलतया = वेल (time) - अति-वेल (excessive) - तस्य भावः(अतिवेलता) - तृतीया.वि. - एक.व. = due to constant/excessive occurence",
