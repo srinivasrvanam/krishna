@@ -1475,11 +1475,21 @@ const verses = [
           "तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
-          "28. O abode of Lakshmi, ocean of flawless virtues, the only bridge to cross the ocean of samsara, known through Vedanta, enjoyed by devotees, O Lord of Venkata hill, may it be an auspicious dawn to you.",
+          "O Lord!",
+          "- one who is abode of Mother Lakshmi,",
+          "- one who is an ocean of unblamable qualities,",
+          "- one who is the only bridge to cross the ocean of samsara,",
+          "- one who is known through Vedas and Upanishads,",
+          "- one who is eternally Glorious,",
+          "- one who is enjoyed by devotees,",
+          "O Lord of Venkatachala!",
+          "May it be an auspicious dawn (morning) to you.",
 
-          "O Lord of Mount Venkata, the resort of Mother Lakshmi, the unfathomable ocean of pure and divine qualities. You alone are the bridge to cross over this mundane existence. You reveal yourself through the medium of the Vedas and Upanishads, and are enjoyed by your devotees. O Lord of mount Venkata please arise, may your morning be auspicious.",
+          // "28. O abode of Lakshmi, ocean of flawless virtues, the only bridge to cross the ocean of samsara, known through Vedanta, enjoyed by devotees, O Lord of Venkata hill, may it be an auspicious dawn to you.",
 
-          "28.1: (Salutations to Sri Govinda) In this Beautiful Dawn the Devotees are Invoking You; You Who are the Abode of Lakshmi and the One Ocean of blemishless Divine Qualities, 28.2: You Who are the One Bridge to cross over the Samsara (Delusion of Worldly Existence); the Samsara which is like an endless Ocean, 28.3: You Whose Own Divine Glory is only known by understanding the transcendental Knowledge of Vedanta; You Whose Transcendental Nature is always there to be enjoyed by the Devotees, 28.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
+          // "O Lord of Mount Venkata, the resort of Mother Lakshmi, the unfathomable ocean of pure and divine qualities. You alone are the bridge to cross over this mundane existence. You reveal yourself through the medium of the Vedas and Upanishads, and are enjoyed by your devotees. O Lord of mount Venkata please arise, may your morning be auspicious.",
+
+          // "28.1: (Salutations to Sri Govinda) In this Beautiful Dawn the Devotees are Invoking You; You Who are the Abode of Lakshmi and the One Ocean of blemishless Divine Qualities, 28.2: You Who are the One Bridge to cross over the Samsara (Delusion of Worldly Existence); the Samsara which is like an endless Ocean, 28.3: You Whose Own Divine Glory is only known by understanding the transcendental Knowledge of Vedanta; You Whose Transcendental Nature is always there to be enjoyed by the Devotees, 28.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
       essence: [],
       meanings: [],
