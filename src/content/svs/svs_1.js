@@ -1541,7 +1541,9 @@ const verses = [
 
           // "29.1: (Salutations to Sri Govinda) Thus ends the Suprabhatam of the Lord of Vrishachala Hill here, 29.2: Those Persons who will engage themselves in reciting this everyday with Devotion, 29.3: And at Dawn will Worship Sri Govinda with Mind and Body and with Intense Devotion, 29.4: For them the highest Attainment of Spiritual Wisdom will become easy by the Grace of the Supreme awakened in their Hearts.",
       ],
-      essence: [],
+      essence: [
+          "Thus, this suprabhatham of Lord Venkateswara gives rise to supreme wisdom (that makes liberation easily attainable) in those hearts, who are engaged in worshipping Lord Venkateswara with mind and body, by reciting it everyday in the morning (dawn).",
+      ],
       meanings: [],
       notes: [
 
