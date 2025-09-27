@@ -220,16 +220,18 @@ const verses = [
     transl: [
       "I do not consider anyone Supreme other than the one",
       "- who is surrounded by hundres of crores of Gopikas who are enchanted by the music from his flute,",
-      "- whose beauty is equal to that of hundreds of Cupids,",
+      "- whose beauty is equal to that of crores of Cupids,",
       "- who is in the hearts of each and every Gopika",
       "- who is giver of happiness,",
-      "- who is son of Vasudeva,",
+      "- who is son of Vasudeva",
 
       // "I will consider no deity other than the Lord Krishna the son of Vasudeva, whose beauty is equal to that of a thousand cupids; surrounded by thousands of Gopis enchanted by the flute, the granter of joy to all beings.",
       // "With an enchanting music from your flute, you attracted the gopis and bestowed each one of them with their desired happiness that is equal to the happiness obtained from hundred crore penances or crores of prayers. O Son of VasudEva (Krishna), none is equal to you. ",
       // "There is no comparison to the son of Vasudeva, Who attracts the gopa maidens, by music from his flute, And fulfills the desire of each gopi and gives her pleasure, Much More than hundreds of crores of penances, And prayers addressed to crores of similar Gods..",
     ],
-    essence: [],
+    essence: [
+      "I do not consider anyone Supreme other than Lord Krishna (Venkateswara), who is surrounded by hundreds of crores of Gopikas who are enchanted by the music from his flute, whose beauty is equal to that of crores of Manmathas, who is in the hearts of each and every gopika, who is giver of happiness, and the son of Vasudeva.",
+    ],
     meanings: [],
     notes: [
       "कल = Melodious/sweet",
