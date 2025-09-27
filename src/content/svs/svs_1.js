@@ -1529,11 +1529,17 @@ const verses = [
           "प्रसूते ।",
       ],
       transl: [
-          "29. Thus, those humans who are engaged in reciting this Suprabhatam of the Lord of Vrusha hill every day, at the time of dawn, attain supreme wisdom and the highest state of bliss.",
+          "Thus,",
+          "This suprabatham of the Lord of Vrishachala hill (वृष-अचल-पतेः).",
+          "- Those humans (मानवाः) who are engaged (प्रवृत्ताः) in reciting (पठितुं) every day (प्रतिदिनं) at the time of dawn (प्रभात-समये).",
+          "- Their supreme wisdom (that which gives liberation)",
+          "will be enlightened.",
 
-          "All those who daily chant this morning hymn to the Lord of Mount Venkata, through this regular contemplation of Lord Venkatesvara, obtain divine wisdom through which the Supreme Goal is easily obtained.",
+          // "29. Thus, those humans who are engaged in reciting this Suprabhatam of the Lord of Vrusha hill every day, at the time of dawn, attain supreme wisdom and the highest state of bliss.",
 
-          "29.1: (Salutations to Sri Govinda) Thus ends the Suprabhatam of the Lord of Vrishachala Hill here, 29.2: Those Persons who will engage themselves in reciting this everyday with Devotion, 29.3: And at Dawn will Worship Sri Govinda with Mind and Body and with Intense Devotion, 29.4: For them the highest Attainment of Spiritual Wisdom will become easy by the Grace of the Supreme awakened in their Hearts.",
+          // "All those who daily chant this morning hymn to the Lord of Mount Venkata, through this regular contemplation of Lord Venkatesvara, obtain divine wisdom through which the Supreme Goal is easily obtained.",
+
+          // "29.1: (Salutations to Sri Govinda) Thus ends the Suprabhatam of the Lord of Vrishachala Hill here, 29.2: Those Persons who will engage themselves in reciting this everyday with Devotion, 29.3: And at Dawn will Worship Sri Govinda with Mind and Body and with Intense Devotion, 29.4: For them the highest Attainment of Spiritual Wisdom will become easy by the Grace of the Supreme awakened in their Hearts.",
       ],
       essence: [],
       meanings: [],
