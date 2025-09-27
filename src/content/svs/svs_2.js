@@ -133,7 +133,7 @@ const verses = [
     meanings: [],
     notes: [
       "अति-वेलतया = वेल (time) - अति-वेल (excessive) - तस्य भावः(अतिवेलता) - तृतीया.वि. - एक.व. = due to constant/excessive occurence",
-      "तव दुर्विषहैः = दुर् (difficult) - विषहैः (to bear/endure) = unbearable to you",
+      "दुर्विषहैः = दुर् (difficult) - विषहैः (to bear/endure) = unbearable",
       "अनु-वेल-कृतैः = अनु-वेल (at every moment/repeatedly) = done/committed repeatedly",
       "अपराधशतैः = by hundreds of sins(offenses)",
       "भरितं = भरित = filled with/burdended",
