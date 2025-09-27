@@ -169,16 +169,19 @@ const verses = [
       "परं न कलये ।",
     ],
     transl: [
-      "I do not consider anyone Supreme other than Lord Venkateswara who is",
-      "- resides up on Venkatachala and has a noble/generous nature",
-      "- bestows to devotees more than what they asked for",
-      "- proclaimed as Supreme by Vedas and other Devatas",
-      "- Husband of Lakshmi",
-      "I know no other being, except the Lord of Lakshmi, who is described by the Vedas as the best of all gods, who can exceed you in broad-­‐mindedness and generosity? You give more than anyone can every ask for. ",
-      "O bounteous Lord of Venkata hill, who gives away always more than what your devotees desire, all the other angels (gods) are also saluting to you, and none is equal to you. ",
-      "There is none greater to you, Oh Lord of Lakshmi, Who is merciful by nature residing on Venkata mountain, Who blesses his devotees with much more than they desire, And who is saluted by other gods and books that show the way.",
+      "I do not consider anyone Supreme other than the one",
+      "- who resides up on Venkatachala and has a noble/generous nature",
+      "- who bestows to devotees more than what they asked for",
+      "- who is proclaimed as Supreme by Vedas and other Devatas",
+      "- who is the Husband of Mother Lakshmi",
+
+      // "I know no other being, except the Lord of Lakshmi, who is described by the Vedas as the best of all gods, who can exceed you in broad-­‐mindedness and generosity? You give more than anyone can every ask for. ",
+      // "O bounteous Lord of Venkata hill, who gives away always more than what your devotees desire, all the other angels (gods) are also saluting to you, and none is equal to you. ",
+      // "There is none greater to you, Oh Lord of Lakshmi, Who is merciful by nature residing on Venkata mountain, Who blesses his devotees with much more than they desire, And who is saluted by other gods and books that show the way.",
     ],
-    essence: [],
+    essence: [
+      "I do not consider anyone Supreme other than Lord Venkateswara who resides on Venkatachala, who has a generous nature, who blesses devotees with more than what they wish for, who is proclaimed as the Supreme Lord by Vedas and by Devatas, and who is the husband of Mother Lakshmi.",
+    ],
     meanings: [],
     notes: [
       "अधि-वेङ्कट-शैलम्-उदार-मतेः = पञ्चमी.वि. = from the one who resides on Venkata Chala and Generous",
