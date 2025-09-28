@@ -17,7 +17,8 @@ const verses = [
     ],
     anvaya: [
       "अहं",
-      "- (अस्य जगतः ईशानां) (वेङ्कटपतेः) विष्णोः परां प्रेयसीं ।",
+      "- (अस्य जगतः ईशानां)", 
+      "- (वेङ्कटपतेः) विष्णोः परां प्रेयसीं ।",
       "- (तत्-वक्षःस्थल-नित्यवास-रसिकां) ।",
       "- तत्-क्षान्ति-संवर्धिनीम् ।",
       "- पद्म-आलङ्कृत-पाणि-पल्लव-युगां ।",
@@ -27,10 +28,24 @@ const verses = [
       "भगवतीं श्रियं वन्दे ।",
     ],
     transl: [
-      "I pay my obeisance to Lakshmi the ruler of the universe, who is the most beloved of Lord Vishnu the Lord of Mount Venkata, who rests with supreme delight upon His chest, and increases His forbearance, whose hands tender as sprouts, are decorated with lotus blossoms, whose seat is the lotus (of the mind) who is radiant with perfection of qualities such as tender solicitude etc. and who is the Mother of the Universe.",
-      "I bow down to the divine Goddess Lakshmi, the supreme beloved of Lord Vishnu, the Lord of Venkata hills and ruler of the universe. She eternally resides on His chest and nurtures His patience and forbearance. Her tender hands are adorned with lotuses, and she is seated on a lotus throne. She shines with qualities such as motherly affection and is the universal mother. O Bhagavati, I offer my reverence to you!",
+      "I",
+      "- to the master of this universe",
+      "- to the supreme beloved of Vishnu (Venkatapathi),",
+      "- to the one who always resides in the heart of Sri Venkateswara,",
+      "- to the one who increases his patience,",
+      "- to the one whose hands are adorned with lotuses,",
+      "- to the one who is seated on lotus throne",
+      "- to the one who shines with qualities like motherly affection,",
+      "- to the mother of the universe,",
+      "- to the Bhagavati Sri Lakshmi,",
+      "(I am) offering my obeisances",
+
+      // "I pay my obeisance to Lakshmi the ruler of the universe, who is the most beloved of Lord Vishnu the Lord of Mount Venkata, who rests with supreme delight upon His chest, and increases His forbearance, whose hands tender as sprouts, are decorated with lotus blossoms, whose seat is the lotus (of the mind) who is radiant with perfection of qualities such as tender solicitude etc. and who is the Mother of the Universe.",
+      // "I bow down to the divine Goddess Lakshmi, the supreme beloved of Lord Vishnu, the Lord of Venkata hills and ruler of the universe. She eternally resides on His chest and nurtures His patience and forbearance. Her tender hands are adorned with lotuses, and she is seated on a lotus throne. She shines with qualities such as motherly affection and is the universal mother. O Bhagavati, I offer my reverence to you!",
     ],
-    essence: [],
+    essence: [
+      "I offer my obiesances to Bhagavati Sri Lakshmi, who is the Lord of this universe, who is the supreme beloved of Lord Venkateswara, who is an eternal resident of his heart, who increases his patience, whose hands are decorated with lotuses, who is seated on lotus throne, who shines with qualities like motherly affection, and the mother of the universe.",
+    ],
     meanings: [],
     notes: [
       "अस्य जगतः = of this world",
