@@ -28,7 +28,9 @@ const verses = [
       "Your incomparable dark-blue body is always reddened by the saffron (kumkuma) from the Vakshasthala of Mother Lakshmi.",
       "May You be ever victorious!",
     ],
-    essence: [],
+    essence: [
+      "O Lord of Venkatachala! O Lord! the one whose blue-complexioned body is reddended due to kumkuma from the vakshasthala of Mother Lakshmi, who has lotus-like eyes, who is the lord of the worlds. May you be ever victorious.",
+    ],
     meanings: [],
     notes: [
       "कमला = Mother Lakshmi",
@@ -70,7 +72,7 @@ const verses = [
     transl: [
       "O Lord!",
       "- who is crest jewel among the best of all devatas including Brahma, Subrahmanya, Lord Siva,",
-      "- who is so compassionate towards those who take refuge in you,",
+      "- who is so compassionate to the refugees,",
       "- who is the treasure of all the essence",
       "O Lord of Vrisha shaila!",
       "Please protect me.",
@@ -79,7 +81,9 @@ const verses = [
       // "Including the four-faced Brahma, six-faced Kumaraswamy (Subrahmanya swami), and five-faced Hanuman, you are the greatest crown jewel among all angels. You are the abode of kindness to those who submit themselves at your feet. O Lord of Vrisha hill, save me.",
       // "Please protect me oh., Lord of Vrusha mountain, Who is the crown jewel among all the gods, With four faces, six faces and five faces, And who is the ultimate treasure who loves, Those who come and surrender to him,",
     ],
-    essence: [],
+    essence: [
+      "O Lord of Vrusha shaila (Venkateswara), O Lord, one who is a crest jewel among the best of all devatas (including Brahma, Subrahmanya, Lord Siva), who is so compassionate to the refugees, who is a treasure of all the essence. Please protect me.",
+    ],
     meanings: [],
     notes: [
       "स = सह",
