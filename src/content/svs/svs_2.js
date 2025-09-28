@@ -474,13 +474,15 @@ const verses = [
       "I do not have any other master other than Lord Venkateswara.",
       "I always remember Lord Venkateswara.",
       "O Hari! O Venkatesa! Become pleased.",
-      "O Venkatesa! please bestow me (with your love and grace).",
+      "O Venkatesa! please bestow (with your love and grace).",
 
       // "Apart from Lord Venkatesvara I have neither master nor place of rest. Again and again I remember Lord Venkatesvara. O Saviour, O Lord Venkatesvara! Be gracious towards me and bestow your compassion upon me. ",
       // "Without you, O Venkateshwara, I am an orphan. I always keep remembering your name. O Venkatesa, kindly be pleased with me and bestow me with your love and grace.",
       // "I do not have any Lord except Venkatesa, I remember and remember only Lord Venkatesa, So Hey Venkatesa, be pleased with me, I request you to give me only what you like.",
     ],
-    essence: [],
+    essence: [
+      "I do not have any other master other than Lord Venkateswara. I always remember Lord Venkateswara. O Lord Hari! O Lord Venkatesa! please become pleased by me. O Lord Venkatesa! please bestow your love and grace upon me.",
+    ],
     meanings: [],
     notes: [
       "प्रसीद = प्र + सद् (सुखी होना) - कर्तरि लोट् - (परस्मै) - म.पु. - एक.व. = Please become pleased - (सद् - 1P - भ्वादिः - to dry up/lose power - सीदन्ति मम गात्राणि - BG 1.28)",
