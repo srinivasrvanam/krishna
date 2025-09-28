@@ -507,15 +507,21 @@ const verses = [
     ],
     anvaya: [
       "हे (वेङ्कटेश) प्रभो !",
-      "अहं दूरतः ते पद-अम्भोज-युग्म-प्रणाम-इच्छया आगत्य सेवां करोमि ।",
-      "त्वं सकृत्सेवया नित्यसेवाफलं प्रयच्छ प्रयच्छ ।",
+      "(ते पद-अम्भोज-युग्म-प्रणाम-इच्छया) (दूरतः आगत्य) अहं सेवां करोमि ।",
+      "सकृत्सेवया नित्यसेवाफलं त्वं प्रयच्छ प्रयच्छ ।",
     ],
     transl: [
-      "O Lord Venkatesvara! I have come from afar in order to salute you lotus feet, and I have come to perform some service, by this small service, grant me the fruit of daily service. ",
-      "I have been far away from your lotus-like feet and have now come with a wish to serve the feet. So, Lord Venkatesha, I request you, again and again, please allow me the benefit of performing a good service to you. ",
-      "I was far away from your two lotus-like feet, And have come with a wish to serve them, And so I request and request you, Lord Venkatesa, To please allow me to do good service to you. ",
+      "O Venkatesa! O Lord!",
+      "By the desire of worshipping your lotus feet, having come from distance, I am serving you.",
+      "By this one-time service, You please bestow upon me the result of serving you eternally.",
+
+      // "O Lord Venkatesvara! I have come from afar in order to salute you lotus feet, and I have come to perform some service, by this small service, grant me the fruit of daily service. ",
+      // "I have been far away from your lotus-like feet and have now come with a wish to serve the feet. So, Lord Venkatesha, I request you, again and again, please allow me the benefit of performing a good service to you. ",
+      // "I was far away from your two lotus-like feet, And have come with a wish to serve them, And so I request and request you, Lord Venkatesa, To please allow me to do good service to you. ",
     ],
-    essence: [],
+    essence: [
+      "O Lord Venkatesa! By the desire of worshipping your lotus feet, having come from distance, I am serving you. By this one-time service, you please bestow upon me the result of serving you eternally.",
+    ],
     meanings: [],
     notes: [
       "अम्भोज = lotus = borm from water (अम्भः = जलं - water)",
