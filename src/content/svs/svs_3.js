@@ -31,7 +31,7 @@ const verses = [
       "I",
       "- to the master of this universe",
       "- to the supreme beloved of Vishnu (Venkatapathi),",
-      "- to the one who always resides in the heart of Sri Venkateswara,",
+      "- to the one who takes delight in residing in the heart of Sri Venkateswara,",
       "- to the one who increases his patience,",
       "- to the one whose hands are adorned with lotuses,",
       "- to the one who is seated on lotus throne",
@@ -44,7 +44,7 @@ const verses = [
       // "I bow down to the divine Goddess Lakshmi, the supreme beloved of Lord Vishnu, the Lord of Venkata hills and ruler of the universe. She eternally resides on His chest and nurtures His patience and forbearance. Her tender hands are adorned with lotuses, and she is seated on a lotus throne. She shines with qualities such as motherly affection and is the universal mother. O Bhagavati, I offer my reverence to you!",
     ],
     essence: [
-      "I offer my obiesances to Bhagavati Sri Lakshmi, who is the Lord of this universe, who is the supreme beloved of Lord Venkateswara, who is an eternal resident of his heart, who increases his patience, whose hands are decorated with lotuses, who is seated on lotus throne, who shines with qualities like motherly affection, and the mother of the universe.",
+      "I offer my obiesances to Bhagavati Sri Lakshmi, who is the Lord of this universe, who is the supreme beloved of Lord Venkateswara, who takes delight in residing in his heart, who increases his patience, whose hands are decorated with lotuses, who is seated on lotus throne, who shines with qualities like motherly affection, and the mother of the universe.",
     ],
     meanings: [],
     notes: [
