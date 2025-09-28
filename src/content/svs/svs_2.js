@@ -546,11 +546,17 @@ const verses = [
       "त्वं क्षमस्व त्वं क्षमस्व ।",
     ],
     transl: [
-      "O Gorgeous Gem of Shesha Mountain! O Saviour! Please grant me forgiveness for all these faults which I an ignorant person have committed. Please forgive me!",
-      "The sins committed by me are all simply due to the sheer ignorance of mine; so kindly please pardon me, pardon me, O jewel of Sesha Shaila Mountain.",
-      "Please pardon, please pardon, Oh crest jewel of the Sesha mountain, This ignorant sinner of the sins committed, Due to sheer helplessness, Oh Hari.",
+      "O Lord Hari! O jewel of Shesha Shaila!",
+      "innumerabale faults committed by (ignorant) me,",
+      "You please forgive, please forgive.",
+
+      // "O Gorgeous Gem of Shesha Mountain! O Saviour! Please grant me forgiveness for all these faults which I an ignorant person have committed. Please forgive me!",
+      // "The sins committed by me are all simply due to the sheer ignorance of mine; so kindly please pardon me, pardon me, O jewel of Sesha Shaila Mountain.",
+      // "Please pardon, please pardon, Oh crest jewel of the Sesha mountain, This ignorant sinner of the sins committed, Due to sheer helplessness, Oh Hari.",
     ],
-    essence: [],
+    essence: [
+      "O Lord Hari! O Lord Venkatesa! Please forgive all the faults committed by (ignorant) me.",
+    ],
     meanings: [],
     notes: [],
   },
