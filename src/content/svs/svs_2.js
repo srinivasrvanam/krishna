@@ -420,14 +420,14 @@ const verses = [
       "- and the great one of Raghu dyansty,",
       "having left",
       "- anyone else",
-      "do not worship any other devata for any reason.",
+      "do not worship any other devata in any way.",
 
       // "O Handsome One, O Friend easily accessible, Giver of Joy, having good brothers, O you of Beauteous Body, with the unfailing arrow, the Saviour, abandoning all others I take refuge in you alone. ",
       // "You are pleasant-faced, good-hearted, easily reachable, and you are the provider of happiness along with your brothers and with a never-ending flow of arrows. So, I never pray to anyone else even for a while except you, O Rama. ",
       // "You are with a pleasant face, good heart, Very easy to reach and giver of pleasures, Along with your brothers and with a never-ending stream of arrows, So leaving you, I would never at any time, even for a second, Pray anyone else, Oh Jewel of the Raghu clan.",
     ],
     essence: [
-      "I do not worship any other devata at any time for any reason, having left, Lord Sri Rama (Venkateswara) who is the best of Raghu dynasty, who has a beautiful face and a good heart, who has great brothers, who has a good body, who arrows never go in vain.",
+      "I do not worship any other devata at any time in any way, having left, Lord Sri Rama (Venkateswara) who is the best of Raghu dynasty, who has a beautiful face and a good heart, who has great brothers, who has a good body, who arrows never go in vain.",
     ],
     meanings: [],
     notes: [
