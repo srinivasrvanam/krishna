@@ -343,12 +343,22 @@ const verses = [
       "अये ।",
     ],
     transl: [
-      "The one who is pleasing to Sita. The one whose face is as beautiful as the moon and resembles a lotus. The one who is like the sun that destroys the darkness of the king of night-wanderers (Ravana). I take refuge in the most worshipful Lord Rama of the Raghu dynasty.",
-      "I take refuge at the feet of scion of the race of Raghu; Lord Rama, who is the delight of Sita; with a lotus-­‐face like the full moon; who is like the sun in the destruction of the darkness of ignorance, most worthy of honour.",
-      "Your pretty hands are held by the daughter of Earth, Sita; and you are beautiful with your lotus-like face resembling the moon. You are the king dispelling all the darkness by walking in the nights. Grant me refuge O Rama of Raghu clan.",
-      "I seek refuge in the great Rama of Raghu clan, Whose pretty hands are held by the daughter of earth, Who has a pretty lotus-like face, similar to the moon, And who as a king walks at night and destroys darkness like the sun.",
+      "I",
+      "- the one who is pleasing to the daughter of earth (Mother Sita),",
+      "- the one who lotus face (मुख-अम्बुरुहम्) is as beautiful as moon (रजनी-कर),",
+      "- the one who removes darkness of Ravana (king of night wanderers - रजनी-चर) like the Sun,",
+      "- the one who is great/worthy of worship,",
+      "- the Sri Rama of Raghu dynasty,",
+      "take refuge in",
+
+      // "The one who is pleasing to Sita. The one whose face is as beautiful as the moon and resembles a lotus. The one who is like the sun that destroys the darkness of the king of night-wanderers (Ravana). I take refuge in the most worshipful Lord Rama of the Raghu dynasty.",
+      // "I take refuge at the feet of scion of the race of Raghu; Lord Rama, who is the delight of Sita; with a lotus-­‐face like the full moon; who is like the sun in the destruction of the darkness of ignorance, most worthy of honour.",
+      // "Your pretty hands are held by the daughter of Earth, Sita; and you are beautiful with your lotus-like face resembling the moon. You are the king dispelling all the darkness by walking in the nights. Grant me refuge O Rama of Raghu clan.",
+      // "I seek refuge in the great Rama of Raghu clan, Whose pretty hands are held by the daughter of earth, Who has a pretty lotus-like face, similar to the moon, And who as a king walks at night and destroys darkness like the sun.",
     ],
-    essence: [],
+    essence: [
+      "I take refugee in Lord Sri Rama (Venkateswara), who is pleasing to Mother Sita, who has a lotus face as beautiful as the moon, who removes darkness of Ravana like the Sun, who is worthy of worship, and who belongs to Raghu dynasty.",
+    ],
     meanings: [],
     notes: [
       "अवनी = Earth",
