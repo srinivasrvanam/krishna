@@ -3,6 +3,10 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App.jsx";
 import reportWebVitals from "./reportWebVitals";
+import ReactGA from 'react-ga4';
+
+const MEASUREMENT_ID = "G-CHQXV0WZ72"; // Replace with your G-ID
+ReactGA.initialize(MEASUREMENT_ID);
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
