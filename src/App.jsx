@@ -12,6 +12,7 @@ import Navbar from "./components/display/Navbar";
 import Footer from "./components/display/Footer";
 import BackToTop from "./components/utility/BackToTop";
 import Breadcrumbs from "./components/utility/Breadcrumbs";
+import RouteChangeTracker from "./components/utility/RouteChangeTracker";
 
 const Layout = ({ children }) => {
   return (
@@ -27,6 +28,7 @@ const Layout = ({ children }) => {
 function App() {
   return (
     <Router>
+      <RouteChangeTracker />
       <Layout>
       <ScrollToTop />
         <Routes>
