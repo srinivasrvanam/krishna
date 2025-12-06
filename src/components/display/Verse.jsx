@@ -27,11 +27,11 @@ const Verse = ({ verse, type, compact }) => {
         <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 gap-4">
           <Section type="sloka" lines={verse.sloka} />
           <Section type="vicheda" lines={verse.vicheda} />
-          <Section type="anvaya" lines={verse.anvaya} />
+          <Section type="essence" lines={verse.essence} />
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4 mt-4">       
+          <Section type="anvaya" lines={verse.anvaya} />
           <Section type="transl" lines={verse.transl} />
-          <Section type="essence" lines={verse.essence} />
         </div> 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4 mt-4">       
           <Section type="meanings" lines={verse.meanings} />
