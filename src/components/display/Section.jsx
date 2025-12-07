@@ -8,8 +8,8 @@ const Section = ({type, lines, compact, ch_num, verse_num}) => {
         case "sloka":   heading = "श्लोकः"; break;
         case "vicheda": heading = "पदच्छेदः"; break;
         case "anvaya":  heading = "अन्वयक्रम:"; break;
-        case "transl":  heading = "Translation: "; break;
-        case "essence": heading = "Essence: "; break;
+        case "transl":  heading = "Anvaya: "; break;
+        case "essence": heading = "Translation: "; break;
         case "meanings":heading = "Meanings: "; break;
         case "notes":   heading = "Notes: "; break;
         default:        heading = "";
