@@ -106,7 +106,7 @@ const verses = [
       "- good natured,",
       "- easily attainable,",
       "- wish fulfilling tree of the one who take refugee.",
-      "I take refugee (surrender) at the feet of Lord Venkateswara.",
+      "I take refuge (surrender) at the feet of Lord Venkateswara.",
 
       // "I take refuge in the lotus feet of Lord Venkateswara, who is opulent, and ocean of compassion, the Creator of the entire universe, omniscient, omnipotent, affectionate to the humble, the essence of the universe, the Master, amiable and receptive, fulfilling the desires of those who take refuge in him.",
       // "O Lord of prosperity! O ocean of mercy! O creator of all worlds! You are omniscient, omnipotent, and the protector of those who bow before You. You are the ultimate refuge of all. O Master! You are virtuous, easily accessible, and like a wish-fulfilling tree for those who seek shelter in You. O Lord Venkatesha! I completely surrender at Your divine feet.",
@@ -157,10 +157,20 @@ const verses = [
       "शरणं प्रपद्ये ।",
     ],
     transl: [
-      "I take refuge in the lotus feet of Lord Venkatesvara, which impart their fragrance to the lovely garlands of scented flowers which hang below his anklets, resting gently, although experienced constantly, the enjoyment is ever fresh.",
-      "I surrender to the divine feet of Lord Venkatesha, which are adorned with beautifully fragrant flowers placed near His anklets. These feet emanate a divine fragrance, are symmetrically positioned, and possess a gentle charm. Even when experienced continuously, they always appear fresh and ever new.",
+      "(I)",
+      "- at (those feet) that give fragrance to the fragrant flowers offered near the anklets,",
+      "- at (those feet) that appear symmetrical,",
+      "- at (those feet) that are gentle,",
+      "- at (those feet) that give fresh experience even though are experienced constantly,",
+      "- at the lotus feet of Lord Venkateswara,",
+      "take refuge (completely surrender)",
+
+      // "I take refuge in the lotus feet of Lord Venkatesvara, which impart their fragrance to the lovely garlands of scented flowers which hang below his anklets, resting gently, although experienced constantly, the enjoyment is ever fresh.",
+      // "I surrender to the divine feet of Lord Venkatesha, which are adorned with beautifully fragrant flowers placed near His anklets. These feet emanate a divine fragrance, are symmetrically positioned, and possess a gentle charm. Even when experienced continuously, they always appear fresh and ever new.",
     ],
-    essence: [],
+    essence: [
+      "I take refuge at the lotus feet of Lord Venkateswara, which give fragrance to the fragrant flowers offered near the anklets, that appear symmetrical, that are gentle, that give fresh experience even though are experienced constantly.",
+    ],
     meanings: [],
     notes: [
       "आनूपुर = Near the anklets",
