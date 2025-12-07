@@ -111,7 +111,9 @@ const verses = [
       // "I take refuge in the lotus feet of Lord Venkateswara, who is opulent, and ocean of compassion, the Creator of the entire universe, omniscient, omnipotent, affectionate to the humble, the essence of the universe, the Master, amiable and receptive, fulfilling the desires of those who take refuge in him.",
       // "O Lord of prosperity! O ocean of mercy! O creator of all worlds! You are omniscient, omnipotent, and the protector of those who bow before You. You are the ultimate refuge of all. O Master! You are virtuous, easily accessible, and like a wish-fulfilling tree for those who seek shelter in You. O Lord Venkatesha! I completely surrender at Your divine feet.",
     ],
-    essence: [],
+    essence: [
+      "O Lord Venkateswara! the one who is opulent, ocean of compassion, creator of all worlds, omniscient, omnipotent, compassionate towards the humble, the essence of the universe, the master, good natured, easily attainable, wish fulfilling tree of the one who take refuge. I take refuge (completely surrender) at your lotus feet.",
+    ],
     meanings: [],
     notes: [
       "श्रीमन् = O Lord of great fortune (possessor of Lakshmi)",
