@@ -222,8 +222,7 @@ const verses = [
     essence: [
       "I take refuge at the lotus feet of Lord Venkateswara, which are supremely beautiful beyond comparison to the freshly bloomed fragrant deep red lotuses, in the perfect and courageous steps.",
     ],
-    meanings: [],
-    notes: [
+    meanings: [
       "सद्यः-विकासि = Instantly blooming",
       "समुदित = Fully manifesting",
       "वर = Supreme, excellent",
@@ -233,6 +232,8 @@ const verses = [
       "सम्यक्-अषु = Very quickly, properly",
       "साहस-पदेषु = In bold or courageous steps",
       "विलेखयन्तौ = Marking or engraving (the ground as they move)",
+    ],
+    notes: [      
     ],
   },
   {
