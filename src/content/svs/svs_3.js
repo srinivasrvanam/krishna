@@ -273,8 +273,7 @@ const verses = [
     essence: [
       "I take refuge at the lotus feet of Lord Venkateswara, which are decorated with divine and auspicious symbols like: lines, flag, amritha kalasham, umbrella, thunderbolt (vajra), goad (ankusham), lotus, kalpa vriksha, shankam and chakram.",
     ],
-    meanings: [],
-    notes: [
+    meanings: [
       "भव्यैः = auspicious",
       "परतत्त्व-चिन्हैः = with symbols representing the supreme truth",      
       "रेखामय-ध्वज-सुधा-कलश-आतपत्र-वज्र-अङ्कुश-अम्बुरुह-कल्पक-शङ्ख-चक्रैः = marked with divine symbols such as lines, flag, nectar pot, umbrella, thunderbolt, goad, lotus, celestial wish-fulfilling tree, conch, and discus",
@@ -282,6 +281,9 @@ const verses = [
       "शरणं प्रपद्ये = I surrender",
       "अङ्कुश = The Sanskrit word अङ्कुश (aṅkuśa) means elephant goad or hook. It is a traditional tool used to control and guide elephants, typically made of metal with a pointed curved end. In a spiritual or symbolic context, अङ्कुश represents control, discipline, and guidance, often signifying the ability to steer one's mind and senses in the right direction. It is commonly associated with Lord Ganesha and other deities, symbolizing mastery over desires and obstacles.",
       "तलौ = The word तलौ (talau) is the dual form of तल (tala), which means sole (bottom part of feet.)"
+    ],
+    notes: [
+      
     ],
   },
   {
@@ -308,13 +310,21 @@ const verses = [
       "शरणं प्रपद्ये ।",
     ],
     transl: [
-      "I take refuge in the lotus feet of Lord Venkatesvara, whose redness surpasses that of a ruby, and whose eternal resplendence exceeds that of the sapphire, the radiance of the nails excels that of the moon.",
-      "I surrender to the divine feet of Lord Venkatesha, which shine with the brilliance of red lotus gems, surpassing even the radiance of glowing copper; whose outer luster eclipses the grandeur of the great blue sapphire (Indranīla); and whose toenails emit a rising brilliance, resembling the radiant glow of the full moon.",
-      "This verse poetically describes the dazzling radiance of Lord Venkatesha's feet, comparing their colors and brilliance to precious gems, celestial lights, and natural elements, emphasizing their divine beauty and auspiciousness.",
+      "(I)",
+      "- at (those feet) that have the luster of a red lotus gem (Padmarāga), surpassing the radiance of copper interiors,",
+      "- at (those feet) that by their external brilliance, surpassing the radiance of the great Indra Nīla (blue sapphire),",
+      "- at (those feet) that with rising brilliance from the toenails, shining like the raised radiance of the full moon,",
+      "- at the lotus feet of Lord Venkateswara,",
+      "take refuge (completely surrender)",
+
+      // "I take refuge in the lotus feet of Lord Venkatesvara, whose redness surpasses that of a ruby, and whose eternal resplendence exceeds that of the sapphire, the radiance of the nails excels that of the moon.",
+      // "I surrender to the divine feet of Lord Venkatesha, which shine with the brilliance of red lotus gems, surpassing even the radiance of glowing copper; whose outer luster eclipses the grandeur of the great blue sapphire (Indranīla); and whose toenails emit a rising brilliance, resembling the radiant glow of the full moon.",
+      // "This verse poetically describes the dazzling radiance of Lord Venkatesha's feet, comparing their colors and brilliance to precious gems, celestial lights, and natural elements, emphasizing their divine beauty and auspiciousness.",
     ],
-    essence: [],
-    meanings: [],
-    notes: [
+    essence: [
+      "I take refuge at the lotus feet of Lord Venkateswara, that have the luster of a red lotus gem (Padmarāga), surpassing the radiance of copper interiors; that by their external brilliance, surpassing the radiance of the great Indra Nīla (blue sapphire); that with rising brilliance from the toenails, shining like the raised radiance of the full moon.",
+    ],
+    meanings: [
       "ताम्र (tāmra) = Copper",
       "उदर (udara) = Belly, interior, or core",
       "द्युति (dyuti) = Radiance, brilliance, or luster",
@@ -324,6 +334,9 @@ const verses = [
       "अभिभूत-महेन्द्रनीलौ = surpassing the radiance of the great Indra Nīla (blue sapphire)",
       "उद्यत्-नख-अंशुभिः = with rising brilliance from the toenails",
       "उदस्त-शशाङ्क-भासौ = shining like the raised radiance of the full moon",
+    ],
+    notes: [
+      
     ],
   },
   {
