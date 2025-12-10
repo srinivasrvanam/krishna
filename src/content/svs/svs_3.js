@@ -604,16 +604,23 @@ const verses = [
       "शरणं प्रपद्ये ।",
     ],
     transl: [
-      "I take refuge in the lotus feet of Lord Venkatesvara — those feet which were resorted to by Arjuna, when you acted as his charioteer. You pointed to them with your hand as you gave the injunction — 'take refuge in me alone'.",
-      "I take refuge in the divine feet of Lord Venkatesha, which You alone showed to Arjuna, similar to how You revealed Your own feet and instructed him to take refuge, and which You have now shown to me with Your own hands here.",
-      "The verse draws a parallel between the revelation of Lord Krishna's feet to Arjuna on the battlefield of Kurukshetra, as described in the Bhagavad Gita, where Krishna reveals His divine form (Vishwarupa) and instructs Arjuna to take refuge in His feet.",
-      "Lord Venkatesha's feet are now described as being shown by the Lord Himself to the devotee, just as Krishna revealed His feet to Arjuna.",
-      "The verse emphasizes the path of surrender (śaraṇāgati), as the devotee seeks refuge at the feet of the Lord, who personally guides and protects them.",
-      "It highlights the direct and personal relationship between the devotee and the Lord, with the Lord personally showing His feet to grant protection and bliss.",
+      "(I)",
+      "- at (those feet) that (just like) you have shown to Arjuna (Partha) saying 'Surrender unto me',",
+      "- at (those feet) that you are now showing to me by indicating with your hand,",
+      "- at the lotus feet of Lord Venkateswara,",
+      "take refuge (completely surrender)",
+
+      // "I take refuge in the lotus feet of Lord Venkatesvara — those feet which were resorted to by Arjuna, when you acted as his charioteer. You pointed to them with your hand as you gave the injunction — 'take refuge in me alone'.",
+      // "I take refuge in the divine feet of Lord Venkatesha, which You alone showed to Arjuna, similar to how You revealed Your own feet and instructed him to take refuge, and which You have now shown to me with Your own hands here.",
+      // "The verse draws a parallel between the revelation of Lord Krishna's feet to Arjuna on the battlefield of Kurukshetra, as described in the Bhagavad Gita, where Krishna reveals His divine form (Vishwarupa) and instructs Arjuna to take refuge in His feet.",
+      // "Lord Venkatesha's feet are now described as being shown by the Lord Himself to the devotee, just as Krishna revealed His feet to Arjuna.",
+      // "The verse emphasizes the path of surrender (śaraṇāgati), as the devotee seeks refuge at the feet of the Lord, who personally guides and protects them.",
+      // "It highlights the direct and personal relationship between the devotee and the Lord, with the Lord personally showing His feet to grant protection and bliss.",
     ],
-    essence: [],
-    meanings: [],
-    notes: [
+    essence: [
+      "I take refuge at the lotus feet of Lord Venkateswara, that you have revealed to Arjuna instructing him to take refugee, similarly, now you are showing them to me.",
+    ],
+    meanings: [
       "पार्थाय = To Arjuna",
       "तत्सदृश = तत्-सदृश = Similar to that (to what was shown in the previous example)",
       "सारथिना = By the charioteer",
@@ -631,6 +638,8 @@ const verses = [
       "तौ = Those two",
       "करदर्शितौ = Shown by the hand",
       "ते = Your",
+    ],
+    notes: [      
     ],
   },
   {
