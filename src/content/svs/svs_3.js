@@ -527,25 +527,33 @@ const verses = [
     vicheda: [
       "विष्णोः पदे परम इति उदित-प्रशंसौ",
       "यौ मधु-उत्स इति भोग्यतया अपि उपात्तौ ।",
-      "भूयः तथा इति तव पाणि-तल-प्रदिष्टौ",
+      "भूयः (तथा) इति तव पाणि-तल-प्रदिष्टौ",
       "श्री-वेङ्कटेश-चरणौ शरणं प्रपद्ये ॥ १०॥",
     ],
     anvaya: [
       "(अहं)",
       "- (यौ) विष्णोः पदे परम इति उदित-प्रशंसौ",
-      "- (यौ) मधु-उत्स इति भोग्यतया अपि उपात्तौ",
+      "- (यौ) मधु-उत्स इति भोग्यतया (अपि) उपात्तौ",
       "- (यौ) भूयः तथा इति तव पाणि-तल-प्रदिष्टौ",
       "- श्री-वेङ्कटेश-चरणौ",
       "शरणं प्रपद्ये ।",
     ],
     transl: [
-      "I take refuge in the lotus feet of Lord Venkatesvara, whose feet are described in the Vedas as a fountain of ambrosia, an object of profound mystical experience expressed in manifold ways, and whose efficacy is demonstrated by the gesture of his hand pointing downwards.",
-      "I take refuge in the divine feet of Lord Venkatesha, which are praised as 'the supreme abode of Vishnu', which are also accepted as 'the source of nectar' due to their blissful nature, and which You Yourself have further indicated by showing them with Your own hands.",
-      "The feet of Vishnu are glorified in the scriptures as the supreme abode (param padam), signifying mokṣa (liberation). They are also called 'madhv-utsa' (a spring of nectar) because they provide divine bliss to devotees. Finally, the verse states that Lord Venkatesha Himself points to His feet with His hands, emphasizing them as the ultimate refuge for all beings. This verse reinforces the path of surrender (śaraṇāgati), which is central to Vaishnavism.",
+      "(I)",
+      "- at (those feet) (Lord Vishnu's feet) that are glorified as Supreme,",
+      "- at (those feet) that are considered spring of nectar, as they are an object of enjoyment to devotees,",
+      "- at (those feet) that are indicated by your palm,",
+      "- at the lotus feet of Lord Venkateswara,",
+      "take refuge (completely surrender)",
+
+      // "I take refuge in the lotus feet of Lord Venkatesvara, whose feet are described in the Vedas as a fountain of ambrosia, an object of profound mystical experience expressed in manifold ways, and whose efficacy is demonstrated by the gesture of his hand pointing downwards.",
+      // "I take refuge in the divine feet of Lord Venkatesha, which are praised as 'the supreme abode of Vishnu', which are also accepted as 'the source of nectar' due to their blissful nature, and which You Yourself have further indicated by showing them with Your own hands.",
+      // "The feet of Vishnu are glorified in the scriptures as the supreme abode (param padam), signifying mokṣa (liberation). They are also called 'madhv-utsa' (a spring of nectar) because they provide divine bliss to devotees. Finally, the verse states that Lord Venkatesha Himself points to His feet with His hands, emphasizing them as the ultimate refuge for all beings. This verse reinforces the path of surrender (śaraṇāgati), which is central to Vaishnavism.",
     ],
-    essence: [],
-    meanings: [],
-    notes: [
+    essence: [
+      "I take refuge at the lotus feet of Lord Venkateswara, that (Lord Vishnu's feet) are glorified as Supreme, that are considered a spring of nectar as they are an enjoyment to devotees, and also, that are indicated by your own palm.",
+    ],
+    meanings: [
       "विष्णोः = Of Lord Vishnu",
       "पदे = Feet, position",
       "परम् = Supreme, highest",
@@ -569,6 +577,8 @@ const verses = [
       "श्रीवेङ्कटेश = Lord Venkatesha",
       "चरणौ = The two feet",
       "शरणं प्रपद्ये = I take refuge in"
+    ],
+    notes: [      
     ],
   },
   {
