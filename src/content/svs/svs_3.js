@@ -478,13 +478,19 @@ const verses = [
       "शरणं प्रपद्ये ।",
     ],
     transl: [
-      "I take refuge in the lotus feet of Lord Venkatesvara, who are constantly receiving the adoration of lights from the crowns of the deities like Brahma, Siva etc as they repeatedly bow down and pay their daily obeisance.",
-      "I take refuge in the divine feet of Lord Venkatesha, which assume the magnificent form of an Aarti (waving of lights) by the radiance emanating from the countless embedded shining Navaratna (nine-gem) crowns of Brahma, Shiva, and other gods, as they bow eternally before Him.",
-      "This verse describes how Brahma, Shiva, and other celestial beings continuously bow before Lord Venkatesha. Their crowns, studded with radiant Navaratna (nine gems), shine brilliantly as they touch the Lord's feet. The collective glow of these crowns appears like a grand Nīrājana (Aarti ceremony), naturally illuminating His divine feet. This showcases Lord Venkatesha's supreme divinity, as even the greatest deities pay homage to Him.",
+      "(I)",
+      "- at (those feet) that appear magnificient in the process of Arati, by the light emanating from countless embedded shining navaratna crowns of Brahma, Lord Shiva, and other gods, as they eternally bow before him,",
+      "- at the lotus feet of Lord Venkateswara,",
+      "take refuge (completely surrender)",
+
+      // "I take refuge in the lotus feet of Lord Venkatesvara, who are constantly receiving the adoration of lights from the crowns of the deities like Brahma, Siva etc as they repeatedly bow down and pay their daily obeisance.",
+      // "I take refuge in the divine feet of Lord Venkatesha, which assume the magnificent form of an Aarti (waving of lights) by the radiance emanating from the countless embedded shining Navaratna (nine-gem) crowns of Brahma, Shiva, and other gods, as they bow eternally before Him.",
+      // "This verse describes how Brahma, Shiva, and other celestial beings continuously bow before Lord Venkatesha. Their crowns, studded with radiant Navaratna (nine gems), shine brilliantly as they touch the Lord's feet. The collective glow of these crowns appears like a grand Nīrājana (Aarti ceremony), naturally illuminating His divine feet. This showcases Lord Venkatesha's supreme divinity, as even the greatest deities pay homage to Him.",
     ],
-    essence: [],
-    meanings: [],
-    notes: [
+    essence: [
+      "I take refuge at the lotus feet of Lord Venkateswara, that appear magnificient in the process of Arati, by the light emanating from countless embedded shining navaratna crowns of Brahma, Lord Shiva, and other gods, as they eternally bow before him.",
+    ],
+    meanings: [
       "नित्य = Always, eternally",
       "आनमत् = Bowing down, reverentially bent",
       "विधि = Brahma (the creator god)",
@@ -504,6 +510,9 @@ const verses = [
       "श्रीवेङ्कटेश = Lord Venkatesha",
       "चरणौ = The two feet",
       "शरणं प्रपद्ये = I take refuge in"
+    ],
+    notes: [
+      
     ],
   },
   {
