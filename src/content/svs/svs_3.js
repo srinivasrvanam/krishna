@@ -362,13 +362,20 @@ const verses = [
       "शरणं प्रपद्ये ।",
     ],
     transl: [
-      "I take refuge in the lotus feet of Lord Venkatesvara, so tender that they cannot bear even the gentle and careful massaging by the lotus-like hands of Lakshmi. whose charm and delicacy are beyond comprehension and expression.",
-      "I take refuge in the divine feet of Lord Venkatesha, Which, even when gently massaged with lotus-bud-like hands with love and reverence, instantly feel fatigue. These feet possess such extreme delicateness that they are beyond the grasp of speech and mind, even for Goddess Lakshmi herself.",
-      "This verse beautifully describes the supreme delicacy and divine nature of Lord Venkatesha's feet, which are so tender that even the lightest touch from Goddess Lakshmi causes them to feel fatigue. This emphasizes their transcendental nature, which is beyond human perception.",
+      "(I)",
+      "- at (those feet) that experience fatigue even with the gentle massage by hands of Mother Lakshmi done with love and fear,",
+      "- at (those feet) who delicacy is beyond comprehension for even Mother Lakshmi's mind and speech,",
+      "- at the lotus feet of Lord Venkateswara,",
+      "take refuge (completely surrender)",
+
+      // "I take refuge in the lotus feet of Lord Venkatesvara, so tender that they cannot bear even the gentle and careful massaging by the lotus-like hands of Lakshmi. whose charm and delicacy are beyond comprehension and expression.",
+      // "I take refuge in the divine feet of Lord Venkatesha, Which, even when gently massaged with lotus-bud-like hands with love and reverence, instantly feel fatigue. These feet possess such extreme delicateness that they are beyond the grasp of speech and mind, even for Goddess Lakshmi herself.",
+      // "This verse beautifully describes the supreme delicacy and divine nature of Lord Venkatesha's feet, which are so tender that even the lightest touch from Goddess Lakshmi causes them to feel fatigue. This emphasizes their transcendental nature, which is beyond human perception.",
     ],
-    essence: [],
-    meanings: [],
-    notes: [
+    essence: [
+      "I take refuge at the lotus feet of Lord Venkateswara, that experience fatigue even with the gentle massage by hands of Mother Lakshmi done with love and fear; whose delicacy is beyond comprehension for even Mother Lakshmi's mind and speech.",
+    ],
+    meanings: [
       "स-प्रेम-भीति = With both love and reverence (mixed with slight fear)",
       "कमलाकर = A pond of lotuses",
       "पल्लव = Tender sprout, bud, or young leaf.",
@@ -384,6 +391,8 @@ const verses = [
       "श्री-वेङ्कटेश-चरणौ = The sacred feet of Lord Venkatesha",
       "शरणं प्रपद्ये = I take refuge in",
       "In sloka वाङ्ग्मनस, half ga ग् is there, is it correct?",
+    ],
+    notes: [
     ],
   },
   {
