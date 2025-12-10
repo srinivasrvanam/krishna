@@ -412,19 +412,24 @@ const verses = [
     ],
     anvaya: [
       "(अहं)",
-      "- (लक्ष्मी-महीतद-अनुरूप-निज-अनुभाव-नीला-आदि-दिव्य-महिषी-कर-पल्लवानाम्)",
-      "- आरुण्य-सङ्क्रमणतः किल सान्द्र-रागौ",
+      "- (लक्ष्मी-महीतद-अनुरूप-निज-अनुभाव-नीला-आदि-दिव्य-महिषी-कर-पल्लवानाम्) (आरुण्य-सङ्क्रमणतः) किल सान्द्र-रागौ",
       "- श्री-वेङ्कटेश-चरणौ",
       "शरणं प्रपद्ये ।",
     ],
     transl: [
-      "I take refuge in the lotus feet of Lord Venkatesvara, whose red hue has been contracted from the reddish hands of Lakshmi, Bhudevi and Niladevi and the other consorts, all of equal dignity and radiance.",
-      "I take refuge in the divine feet of Lord Venkatesha, which have turned deeply red due to the transfer of the reddish hue from the tender fingertips of His divine consorts—Lakshmi, Bhūdevi, Nīlādevi, and others— whose hands are befitting His divine majesty.",
-      "This verse poetically describes how Lord Venkatesha's feet appear reddish due to the gentle touch of His divine consorts, who lovingly serve Him.",
+      "(I)",
+      "- at (those feet) that turned red due to the transfer of redness of the finger tips of his divine consorts like Mother Lakshmi, Mother Bhudevi, Mother Nila Devi and others,",
+      "- at the lotus feet of Lord Venkateswara,",
+      "take refuge (completely surrender)",
+
+      // "I take refuge in the lotus feet of Lord Venkatesvara, whose red hue has been contracted from the reddish hands of Lakshmi, Bhudevi and Niladevi and the other consorts, all of equal dignity and radiance.",
+      // "I take refuge in the divine feet of Lord Venkatesha, which have turned deeply red due to the transfer of the reddish hue from the tender fingertips of His divine consorts—Lakshmi, Bhūdevi, Nīlādevi, and others— whose hands are befitting His divine majesty.",
+      // "This verse poetically describes how Lord Venkatesha's feet appear reddish due to the gentle touch of His divine consorts, who lovingly serve Him.",
     ],
-    essence: [],
-    meanings: [],
-    notes: [
+    essence: [
+      "I take refuge at the lotus feet of Lord Venkateswara, that turned red due to the transfer of redness of the finger tips of his divine consorts like Mother Lakshmi, Mother Bhudevi, Mother Nila Devi and others.",
+    ],
+    meanings: [
       "लक्ष्मी = Goddess Lakshmi",
       "महीतद = (of) Bhūdevi (Earth goddess)",
       "अनुरूप = Suitable, corresponding",
@@ -446,6 +451,8 @@ const verses = [
       "श्रीवेङ्कटेश = Lord Venkatesha",
       "चरणौ = The two feet",
       "शरणं प्रपद्ये = I take refuge in"
+    ],
+    notes: [      
     ],
   },
   {
