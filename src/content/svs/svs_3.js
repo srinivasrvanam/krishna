@@ -665,16 +665,23 @@ const verses = [
       "शरणं प्रपद्ये ।",
     ],
     transl: [
-      "I take refuge in the lotus feet of Lord Venkatesvara, which are equally placed on my head as on the head of the dragon Kaliya, on the crest of Mount Venkata, on the head of the Secret Doctrine of the Upanishads and in the unwavering mind of the yogis.",
-      "I take refuge in the divine feet of Lord Venkatesha, which were placed on my head, which crushed the hood of the serpent Kaliya in the dense forest, which rest on the peak of the Venkata hill and on the heads of the Vedas, and which reside in the hearts of those whose minds are single-minded and completely devoted.",
-      "'मन्मूर्ध्नि कालियफणे विकटाटवीषु' refers to the incident in the Bhagavata Purana, where Lord Krishna placed His feet on the head of the serpent Kaliya, thereby defeating him. This is being used as a metaphor for the divine power of Lord Venkatesha's feet.",
-      "'श्रीवेङ्कटाद्रिशिखरे' refers to the Venkata hill, which is considered the abode of Lord Venkatesha. His feet rest on the peak of this hill, symbolizing His supreme position.",
-      "'शिरसि श्रुतीनाम्' highlights that the feet of Lord Venkatesha are revered by the Vedas themselves. The feet are considered so divine that they are placed above even the sacred texts.",
-      "The verse concludes by emphasizing that those who have single-minded devotion and unwavering focus on Lord Venkatesha's feet, find them as the ultimate refuge."
+      "(I)",
+      "- (on my head, on serpent kaliya, in the dense forests, on crest of Venkatachala, on head of Vedas, and also, in the minds of unwavering devotees),",
+      "- at (those feet) that are uniformly established,",
+      "- at the lotus feet of Lord Venkateswara,",
+      "take refuge (completely surrender)",
+
+      // "I take refuge in the lotus feet of Lord Venkatesvara, which are equally placed on my head as on the head of the dragon Kaliya, on the crest of Mount Venkata, on the head of the Secret Doctrine of the Upanishads and in the unwavering mind of the yogis.",
+      // "I take refuge in the divine feet of Lord Venkatesha, which were placed on my head, which crushed the hood of the serpent Kaliya in the dense forest, which rest on the peak of the Venkata hill and on the heads of the Vedas, and which reside in the hearts of those whose minds are single-minded and completely devoted.",
+      // "'मन्मूर्ध्नि कालियफणे विकटाटवीषु' refers to the incident in the Bhagavata Purana, where Lord Krishna placed His feet on the head of the serpent Kaliya, thereby defeating him. This is being used as a metaphor for the divine power of Lord Venkatesha's feet.",
+      // "'श्रीवेङ्कटाद्रिशिखरे' refers to the Venkata hill, which is considered the abode of Lord Venkatesha. His feet rest on the peak of this hill, symbolizing His supreme position.",
+      // "'शिरसि श्रुतीनाम्' highlights that the feet of Lord Venkatesha are revered by the Vedas themselves. The feet are considered so divine that they are placed above even the sacred texts.",
+      // "The verse concludes by emphasizing that those who have single-minded devotion and unwavering focus on Lord Venkatesha's feet, find them as the ultimate refuge."
     ],
-    essence: [],
-    meanings: [],
-    notes: [
+    essence: [
+      "I take refuge at the lotus feet of Lord Venkateswara, that are uniformly established on my head, on serpent Kaliya, in the dense forests, on the crest of Venkatachala, on the head of Vedas, and also in the minds of unwavering devotees.",
+    ],
+    meanings: [
       "मन्मूर्ध्नि = On my head",
       "कालियफणे = Of Kaliya's hood (the serpent Kaliya)",
       "विकटाटवीषु = In the terrible, dense forest",
@@ -692,6 +699,8 @@ const verses = [
       "श्रीवेङ्कटेश = Lord Venkatesha",
       "चरणौ = The feet",
       "शरणं प्रपद्ये = I take refuge in"
+    ],
+    notes: [      
     ],
   },
   {
