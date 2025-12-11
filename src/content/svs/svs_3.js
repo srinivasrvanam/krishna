@@ -916,16 +916,21 @@ const verses = [
       "हे वृषगिरीश!",
       "(श्रीया) घटिकया त्वत्-उपाय-भावे,",
       "(त्वयि) प्राप्ये, स्वयम्-उपेयतया स्फुरन्त्या,",
-      "(नित्याश्रिताय) निरवद्य-गुणाय (तुभ्यं)",
-      "स्याम् किङ्करः। न जातु मह्यम् (इदं)",
+      "(नित्याश्रिताय) (निरवद्य-गुणाय) (तुभ्यं) किङ्करः स्याम्",
+      "न जातु मह्यम् (इदं)",
     ],
     transl: [
-      "O Lord of Opulence, you yourself are the means to final beatitude, after reaching you, mother Lakshmi herself became the Mediatrix overflowing with compassion and solicitude, I have dedicated myself to your service for no reward whatsoever, but only to please you.",
-      "O Lord of Vṛṣagiri (Tirumala)! Since Śrī (Lakṣmī) acts as a mediator (means) to attain You, and at the same time, She Herself manifests as the ultimate goal, O eternally sought refuge, O One with flawless qualities, May I always remain Your humble servant! Never let there be (any sense of independence) for me!",
-      "'श्रिया घटिकया त्वदुपायभावे' → Śrī Lakṣmī acts as the means (upāya) to attain the Lord, meaning She intercedes for devotees and ensures their salvation. 'प्राप्ये त्वयि स्वयमुपेयतया स्फुरन्त्या' → The Lord is the ultimate goal (upeya), but Lakṣmī Herself is also the final attainment, meaning She represents divine bliss and eternal service to the Lord. 'नित्याश्रिताय निरवद्यगुणाय' → The Lord is eternally sought as refuge and possesses flawless divine qualities (compassion, justice, love). 'स्यां किङ्करो' → The devotee prays: 'May I always remain Your humble servant.' This is a declaration of complete surrender and servitude to the Lord. 'न जातु मह्यम्' → 'Never let there be any sense of independence for me.' The devotee rejects all notions of self-dependence and desires only servitude to God.",
-      "This verse beautifully encapsulates the essence of Śaraṇāgati (total surrender), acknowledging the grace of Lakṣmī as both a guide and the ultimate blissful attainment.",
+      "O Lord of Vṛṣagiri (Tirumala)!",
+      "Since Śrī (Lakṣmī) acts as a mediator (means) to attain You, and at the same time, She Herself manifests as the ultimate goal, O eternally sought refuge, O One with flawless qualities, May I always remain Your humble servant! Never let there be (any sense of independence) for me!",
+
+      // "O Lord of Opulence, you yourself are the means to final beatitude, after reaching you, mother Lakshmi herself became the Mediatrix overflowing with compassion and solicitude, I have dedicated myself to your service for no reward whatsoever, but only to please you.",
+      // "O Lord of Vṛṣagiri (Tirumala)! Since Śrī (Lakṣmī) acts as a mediator (means) to attain You, and at the same time, She Herself manifests as the ultimate goal, O eternally sought refuge, O One with flawless qualities, May I always remain Your humble servant! Never let there be (any sense of independence) for me!",
+      // "'श्रिया घटिकया त्वदुपायभावे' → Śrī Lakṣmī acts as the means (upāya) to attain the Lord, meaning She intercedes for devotees and ensures their salvation. 'प्राप्ये त्वयि स्वयमुपेयतया स्फुरन्त्या' → The Lord is the ultimate goal (upeya), but Lakṣmī Herself is also the final attainment, meaning She represents divine bliss and eternal service to the Lord. 'नित्याश्रिताय निरवद्यगुणाय' → The Lord is eternally sought as refuge and possesses flawless divine qualities (compassion, justice, love). 'स्यां किङ्करो' → The devotee prays: 'May I always remain Your humble servant.' This is a declaration of complete surrender and servitude to the Lord. 'न जातु मह्यम्' → 'Never let there be any sense of independence for me.' The devotee rejects all notions of self-dependence and desires only servitude to God.",
+      // "This verse beautifully encapsulates the essence of Śaraṇāgati (total surrender), acknowledging the grace of Lakṣmī as both a guide and the ultimate blissful attainment.",
     ],
-    essence: [],
+    essence: [
+      "O Lord of Vṛṣagiri (Tirumala)! Since Śrī (Lakṣmī) acts as a mediator (means) to attain You, and at the same time, She Herself manifests as the ultimate goal, O eternally sought refuge, O One with flawless qualities, May I always remain Your humble servant! Never let there be (any sense of independence) for me!",
+    ],
     meanings: [
       "श्रीश = O Lord of Śrī (Vishnu, Venkatesha)",
       "श्रिया = By Śrī (Lakṣmī)",
