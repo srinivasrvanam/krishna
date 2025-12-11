@@ -700,7 +700,8 @@ const verses = [
       "चरणौ = The feet",
       "शरणं प्रपद्ये = I take refuge in"
     ],
-    notes: [      
+    notes: [     
+      "समम् = indeclinable adjective here meaning 'equally' or 'uniformly'", 
     ],
   },
   {
@@ -713,14 +714,14 @@ const verses = [
       "श्रीवेङ्कटेशचरणौ शरणं प्रपद्ये ॥ १३॥",
     ],
     vicheda: [
-      "अम्लान-हृष्यद-अवनी-तल-कीर्ण-पुष्पौ",
+      "अम्लान-हृष्यत् अवनी-तल-कीर्ण-पुष्पौ",
       "श्रीवेङ्कटाद्रि-शिखर-आभरणाय-मानौ ।",
       "आनन्दित-अखिल-मनो-नयनौ तव एतौ",
       "श्रीवेङ्कटेश-चरणौ शरणं प्रपद्ये ॥ १३॥",
     ],
     anvaya: [
       "(अहं)",
-      "- (यौ) अम्लान-हृष्यद-अवनी-तल-कीर्ण-पुष्पौ ",
+      "- (यौ) अम्लान-हृष्यत् अवनी-तल-कीर्ण-पुष्पौ ",
       "- (यौ) श्रीवेङ्कटाद्रि-शिखर-आभरणाय-मानौ ",
       "- (यौ) आनन्दित-अखिल-मनो-नयनौ",
       "- तव एतौ",
@@ -728,15 +729,24 @@ const verses = [
       "शरणं प्रपद्ये ।",
     ],
     transl: [
-      "I take refuge in the lotus feet of Lord Venkatesvara, which appear as unfading flowers, spread over the earth and the crest of Mount Venkata, an ornament of great beauty in the mind and vision of everyone.",
-      "I take refuge in the divine feet of Lord Venkatesha, which are like ever-fresh flowers, thrilling the earth as they are worshipped with scattered blossoms, which serve as an ornament to the peak of the Venkata mountain, and which delight the minds and eyes of all beings.",
-      "'अम्लान-हृष्यद-अवनी-तल-कीर्ण-पुष्पौ' compares the Lord's feet to flowers that remain ever fresh, as they are constantly worshipped by devotees, covering the earth with joy and divine beauty. 'श्रीवेङ्कटाद्रि-शिखर-आभरणाय-मानौ' highlights that Lord Venkatesha's feet are the greatest ornament of the Venkata mountain, making it a sacred pilgrimage site. 'आनन्दित-अखिल-मनो-नयनौ' means that His feet bring immense joy to the minds and eyes of all devotees, who experience bliss upon seeing them.",
+      "(I)",
+      "- at (those feet) that appear like unfading flowers spread on the surface of the earth giving joy,",
+      "- at (those feet) that are considered an ornament to the peak of Venkatadri mountain,",
+      "- at (those feet) that delight minds and eyes of all devotees,",
+      "- at your feet",
+      "- at the lotus feet of Lord Venkateswara,",
+      "take refuge (completely surrender)",
+
+      // "I take refuge in the lotus feet of Lord Venkatesvara, which appear as unfading flowers, spread over the earth and the crest of Mount Venkata, an ornament of great beauty in the mind and vision of everyone.",
+      // "I take refuge in the divine feet of Lord Venkatesha, which are like ever-fresh flowers, thrilling the earth as they are worshipped with scattered blossoms, which serve as an ornament to the peak of the Venkata mountain, and which delight the minds and eyes of all beings.",
+      // "'अम्लान-हृष्यद-अवनी-तल-कीर्ण-पुष्पौ' compares the Lord's feet to flowers that remain ever fresh, as they are constantly worshipped by devotees, covering the earth with joy and divine beauty. 'श्रीवेङ्कटाद्रि-शिखर-आभरणाय-मानौ' highlights that Lord Venkatesha's feet are the greatest ornament of the Venkata mountain, making it a sacred pilgrimage site. 'आनन्दित-अखिल-मनो-नयनौ' means that His feet bring immense joy to the minds and eyes of all devotees, who experience bliss upon seeing them.",
     ],
-    essence: [],
-    meanings: [],
-    notes: [
+    essence: [
+       "I take refuge at your lotus feet, O Lord Venkateswara!, that appear like unfading flowers spread on the surface of the earth giving joy, that are considered an ornament to the peak of Venkatadri mountain, that delight minds and eyes of all devotees.",
+    ],
+    meanings: [
       "अम्लान = Unfading, ever-fresh",
-      "हृष्यद = Thrilling with joy, delighted",
+      "हृष्यत् = Thrilling with joy, delighted",
       "अवनी = Earth",
       "तल = Surface, ground",
       "कीर्ण = Scattered, spread",
@@ -754,6 +764,9 @@ const verses = [
       "श्रीवेङ्कटेश = Lord Venkatesha",
       "चरणौ = The two feet",
       "शरणं प्रपद्ये = I take refuge in"
+    ],
+    notes: [    
+      "हृष्यत् becomes हृष्यद् due to sandhi",  
     ],
   },
   {
