@@ -849,21 +849,32 @@ const verses = [
     ],
     anvaya: [
       "(अहं)",
-      "- (यौ) ",
-      "- (सत्त्वोत्तरैः सतत-सेव्य-पदाम्बुजेन) ",
+      "- (सत्त्वोत्तरैः)",
+      "- (सतत-सेव्य-पदाम्बुजेन) ",
       "- (संसार-तारक-दयार्द्र-दृग-अञ्चलेन)",
-      "- सौम्य-उपयन्तृ-मुनिना मम दर्शितौ",
+      "- (सौम्य-उपयन्तृ-मुनिना)",
+      "- (यौ) मम दर्शितौ ते (चरणौ)",
       "- श्री-वेङ्कटेश-चरणौ",
       "शरणं प्रपद्ये ।",
     ],
     transl: [
-      "I take refuge in the lotus feet of Lord Venkatesvara, adored by the pious and virtuous, and which are a boat for crossing over this world of mundane existence: they were revealed to me by the gentle sage Manavalamamuni whose eyes were moist with compassion.",
-      "I take refuge in the divine feet of Lord Venkatesha, which are constantly worshipped by highly virtuous beings, which, with their compassionate glance, uplift devotees from the bondage of the material world, and which were revealed to me by the gentle and guiding sage.",
-      "'सत्त्वोत्तरैः सततसेव्यपदाम्बुजेन' → The Lord's lotus feet are constantly worshipped by the most virtuous and pure-hearted beings. This highlights the supreme sanctity of His feet. 'संसारतारकदयार्द्र दृगञ्चलेन' → The Lord's compassionate glance helps devotees cross the ocean of worldly existence (samsāra), meaning that He alone can liberate them from suffering. 'सौम्योपयन्तृमुनिना मम दर्शितौ' → The gentle sage (possibly referring to an acharya or spiritual teacher) revealed these divine feet to the devotee, indicating that spiritual guidance is necessary to perceive the Lord's grace.",
+      "(I)",
+      "- (by the virtuous beings),",
+      "- (by those whose serve you constantly),",
+      "- (by the divine glance that helps cross over the worldly existence),",
+      "- (by the sage/spritual master),",
+      "- at (your feet) that were revealed to me,",
+      "- at the lotus feet of Lord Venkateswara,",
+      "take refuge (completely surrender)",
+
+      // "I take refuge in the lotus feet of Lord Venkatesvara, adored by the pious and virtuous, and which are a boat for crossing over this world of mundane existence: they were revealed to me by the gentle sage Manavalamamuni whose eyes were moist with compassion.",
+      // "I take refuge in the divine feet of Lord Venkatesha, which are constantly worshipped by highly virtuous beings, which, with their compassionate glance, uplift devotees from the bondage of the material world, and which were revealed to me by the gentle and guiding sage.",
+      // "'सत्त्वोत्तरैः सततसेव्यपदाम्बुजेन' → The Lord's lotus feet are constantly worshipped by the most virtuous and pure-hearted beings. This highlights the supreme sanctity of His feet. 'संसारतारकदयार्द्र दृगञ्चलेन' → The Lord's compassionate glance helps devotees cross the ocean of worldly existence (samsāra), meaning that He alone can liberate them from suffering. 'सौम्योपयन्तृमुनिना मम दर्शितौ' → The gentle sage (possibly referring to an acharya or spiritual teacher) revealed these divine feet to the devotee, indicating that spiritual guidance is necessary to perceive the Lord's grace.",
     ],
-    essence: [],
-    meanings: [],
-    notes: [
+    essence: [
+      "I take refuge at your lotus feet, O Lord Venkateswara!, that are revealed to me by the kind sage, who is virtuous, always worshipping you, and whose glance helps cross the worldly existence.",
+    ],
+    meanings: [
       "सत्त्वोत्तरैः = By those of superior purity (highly virtuous beings)",
       "सतत = Constantly",
       "सेव्य = To be served, worshipped",
@@ -882,6 +893,8 @@ const verses = [
       "श्रीवेङ्कटेश = Lord Venkatesha",
       "चरणौ = The two feet",
       "शरणं प्रपद्ये = I take refuge in"
+    ],
+    notes: [      
     ],
   },
   {
