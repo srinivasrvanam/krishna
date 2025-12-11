@@ -793,13 +793,21 @@ const verses = [
       "शरणं प्रपद्ये ।",
     ],
     transl: [
-      "I take refuge in the lotus feet of Lord Venkatesvara, whose attraction to those who surrender (prapannas) is like the breast of a mother for a suckling infant, spouting the incomparable spiritual ambrosia whereby they are nourished.",
-      "I take refuge in the divine feet of Lord Venkatesha, which are the foremost refuge for those who surrender, which are like a mother's breasts to an infant, nourishing them with nectar-like immortality, which, though appearing equal to each other, are incomparable in their greatness.",
-      "'प्रपन्नजनता प्रथमावगाह्यौ' → The Lord's feet are the first and foremost refuge for surrendered devotees, meaning they are the ultimate source of protection and solace. 'मातुः स्तनाविव शिशोः अमृताय मानौ' → The Lord's feet are compared to a mother's nourishing breasts, which provide nectar-like sustenance to an infant. Just as a baby instinctively seeks its mother for nourishment and comfort, devotees instinctively seek the Lord's feet for spiritual nourishment and liberation. 'प्राप्तौ परस्पर तुलाम अतुलान्तरौ' → The two feet appear equal in stature, yet they are incomparable in their spiritual significance, meaning that each of them holds infinite divine greatness beyond human understanding."
+      "(I)",
+      "- at (those feet) that are primary refuge for those surrendered devotees,",
+      "- at (those feet) that appear like nectar to devotees for spiritual nourishment, as if mother's breast to an infant for nourishment,",
+      "- at (those feet) that appear equal to eyes, yet incomparable in their spiritual significance,",
+      "- at the lotus feet of Lord Venkateswara,",
+      "take refuge (completely surrender)",
+
+      // "I take refuge in the lotus feet of Lord Venkatesvara, whose attraction to those who surrender (prapannas) is like the breast of a mother for a suckling infant, spouting the incomparable spiritual ambrosia whereby they are nourished.",
+      // "I take refuge in the divine feet of Lord Venkatesha, which are the foremost refuge for those who surrender, which are like a mother's breasts to an infant, nourishing them with nectar-like immortality, which, though appearing equal to each other, are incomparable in their greatness.",
+      // "'प्रपन्नजनता प्रथमावगाह्यौ' → The Lord's feet are the first and foremost refuge for surrendered devotees, meaning they are the ultimate source of protection and solace. 'मातुः स्तनाविव शिशोः अमृताय मानौ' → The Lord's feet are compared to a mother's nourishing breasts, which provide nectar-like sustenance to an infant. Just as a baby instinctively seeks its mother for nourishment and comfort, devotees instinctively seek the Lord's feet for spiritual nourishment and liberation. 'प्राप्तौ परस्पर तुलाम अतुलान्तरौ' → The two feet appear equal in stature, yet they are incomparable in their spiritual significance, meaning that each of them holds infinite divine greatness beyond human understanding."
     ],
-    essence: [],
-    meanings: [],
-    notes: [
+    essence: [
+      "I take refuge at your lotus feet, O Lord Venkateswara!, that are primary refuge for those surrendered devotees; that appear like nectar to devotees for spiritual nourishment, as if mother's breast to an infant for nourishment; that appear equal to eyes, yet incomparable in their spiritual significance.",
+    ],
+    meanings: [
       "प्रायः = Generally, usually",
       "प्रपन्न = Surrendered",
       "जनता = People, devotees",
@@ -820,6 +828,8 @@ const verses = [
       "श्रीवेङ्कटेश = Lord Venkatesha",
       "चरणौ = The two feet",
       "शरणं प्रपद्ये = I take refuge in"
+    ],
+    notes: [      
     ],
   },
   {
