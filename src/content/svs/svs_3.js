@@ -926,8 +926,7 @@ const verses = [
       "This verse beautifully encapsulates the essence of Śaraṇāgati (total surrender), acknowledging the grace of Lakṣmī as both a guide and the ultimate blissful attainment.",
     ],
     essence: [],
-    meanings: [],
-    notes: [
+    meanings: [
       "श्रीश = O Lord of Śrī (Vishnu, Venkatesha)",
       "श्रिया = By Śrī (Lakṣmī)",
       "घटिकया = By acting as a link (mediator, means)",
@@ -945,6 +944,8 @@ const verses = [
       "न = Never",
       "जातु = At any time",
       "मह्यम् = To me"
+    ],
+    notes: [      
     ],
   },
 ];
