@@ -926,7 +926,7 @@ const verses = [
       "May I become humble servant to the you, O Lord!, the One who is eternally sought refuge and has flawless qualities, ",
       "Never let there be (any sense of independence) for me!",
 
-      "Since Śrī (Lakṣmī) acts as a mediator (means) to attain You, and at the same time, She Herself manifests as the ultimate goal, O eternally sought refuge, O One with flawless qualities, May I always remain Your humble servant! Never let there be (any sense of independence) for me!",
+      // "Since Śrī (Lakṣmī) acts as a mediator (means) to attain You, and at the same time, She Herself manifests as the ultimate goal, O eternally sought refuge, O One with flawless qualities, May I always remain Your humble servant! Never let there be (any sense of independence) for me!",
 
       // "O Lord of Opulence, you yourself are the means to final beatitude, after reaching you, mother Lakshmi herself became the Mediatrix overflowing with compassion and solicitude, I have dedicated myself to your service for no reward whatsoever, but only to please you.",
       // "O Lord of Vṛṣagiri (Tirumala)! Since Śrī (Lakṣmī) acts as a mediator (means) to attain You, and at the same time, She Herself manifests as the ultimate goal, O eternally sought refuge, O One with flawless qualities, May I always remain Your humble servant! Never let there be (any sense of independence) for me!",
