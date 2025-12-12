@@ -914,13 +914,18 @@ const verses = [
     ],
     anvaya: [
       "हे वृषगिरीश!",
-      "(श्रीया) घटिकया त्वत्-उपाय-भावे,",
-      "(त्वयि) प्राप्ये, स्वयम्-उपेयतया स्फुरन्त्या,",
+      "हे श्रीश!",
+      "त्वत्-उपाय-भावे (घटिकया) श्रिया प्राप्ये, त्वयि स्वयम्-उपेयतया स्फुरन्त्या,",
       "(नित्याश्रिताय) (निरवद्य-गुणाय) (तुभ्यं) किङ्करः स्याम्",
-      "न जातु मह्यम् (इदं)",
+      "न जातु मह्यम्",
     ],
     transl: [
       "O Lord of Vṛṣagiri (Tirumala)!",
+      "O Lord of Śrī (Vishnu, Venkatesha)!",
+      "- TODO",
+      "May I become humble servant to the you, O Lord!, the One who is eternally sought refuge and has flawless qualities, ",
+      "Never let there be (any sense of independence) for me!",
+
       "Since Śrī (Lakṣmī) acts as a mediator (means) to attain You, and at the same time, She Herself manifests as the ultimate goal, O eternally sought refuge, O One with flawless qualities, May I always remain Your humble servant! Never let there be (any sense of independence) for me!",
 
       // "O Lord of Opulence, you yourself are the means to final beatitude, after reaching you, mother Lakshmi herself became the Mediatrix overflowing with compassion and solicitude, I have dedicated myself to your service for no reward whatsoever, but only to please you.",
@@ -929,7 +934,7 @@ const verses = [
       // "This verse beautifully encapsulates the essence of Śaraṇāgati (total surrender), acknowledging the grace of Lakṣmī as both a guide and the ultimate blissful attainment.",
     ],
     essence: [
-      "O Lord of Vṛṣagiri (Tirumala)! Since Śrī (Lakṣmī) acts as a mediator (means) to attain You, and at the same time, She Herself manifests as the ultimate goal, O eternally sought refuge, O One with flawless qualities, May I always remain Your humble servant! Never let there be (any sense of independence) for me!",
+      "O Lord of Tirupati, the consort of Śrī! May I become a servant for You—who are possessed of flawless qualities and eternally depended upon—and not for my own sake. This is because You are the ultimate goal (Upeya) who manifests spontaneously, while the Goddess Śrī serves as the intermediary (Ghaṭikā) and means (Upāya) by which one reaches You.",
     ],
     meanings: [
       "श्रीश = O Lord of Śrī (Vishnu, Venkatesha)",
@@ -951,6 +956,8 @@ const verses = [
       "मह्यम् = To me"
     ],
     notes: [      
+      // It seems this is avyaya, not a verb, "प्राप्ये = प्रा - to be content - णिजन्ते - भावकर्मणोः लट्लकारः (आत्मनेपदम्) - उ.पु. एक.व.",
+      "स्याम् = optative form of 'अस्मि' (to be), meaning 'may I become' - कर्तरि विधिलिङ्लकारः - अस् root - उ.पु. एक.व.",
     ],
   },
 ];
