@@ -923,8 +923,8 @@ const verses = [
       "O Lord of Vṛṣagiri (Tirumala)!",
       "O Lord of Śrī (Vishnu, Venkatesha)!",
       "- TODO",
-      "May I become humble servant to the you, O Lord!, the One who is eternally sought refuge and has flawless qualities, ",
-      "Never let there be (any sense of independence) for me!",
+      "May I become humble servant to the you (to the One who is eternally sought refuge and has flawless qualities), ",
+      "Not to me at any time (meaning becoming servant to my own sense gratification)!",
 
       // "Since Śrī (Lakṣmī) acts as a mediator (means) to attain You, and at the same time, She Herself manifests as the ultimate goal, O eternally sought refuge, O One with flawless qualities, May I always remain Your humble servant! Never let there be (any sense of independence) for me!",
 
