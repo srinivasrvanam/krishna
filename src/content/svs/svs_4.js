@@ -20,12 +20,20 @@ const verses = [
       "मङ्गलम्",
     ],
     transl: [
-      "Auspiciousness be to the Lord Venkatesa the resident of Mount Venkata, the spouse of Lakshmi, who is the repository of auspiciousness, and a treasury towards those who take refuge in Him.",
+      "- the husband of Lakshmi,",
+      "- the treasure-house of auspiciousness,",
+      "- the refuge of those who seek (wealth, grace),",
+      "- who resides in Venkata (Tirumala),",
+      "- who is the abode of Lakshmi,",
+      "May auspiciousness be upon",
+
+      // "Auspiciousness be to the Lord Venkatesa the resident of Mount Venkata, the spouse of Lakshmi, who is the repository of auspiciousness, and a treasury towards those who take refuge in Him.",
+      // "May auspiciousness be upon Śrīnivāsa, who is the beloved consort of Lakṣmī, who is the treasure-house of  all auspiciousness, who is the refuge of all seekers, who resides in Venkata (Tirumala), and who is the  eternal abode of Lakṣmī Herself!",
+    ],
+    essence: [
       "May auspiciousness be upon Śrīnivāsa, who is the beloved consort of Lakṣmī, who is the treasure-house of  all auspiciousness, who is the refuge of all seekers, who resides in Venkata (Tirumala), and who is the  eternal abode of Lakṣmī Herself!",
     ],
-    essence: [],
-    meanings: [],
-    notes: [
+    meanings: [
       "श्रियः = Of Lakṣmī (Goddess of wealth and prosperity)",
       "कान्ताय = To the beloved consort (of Lakṣmī)",
       "कल्याण-निधये = To the treasure-house of auspiciousness",
@@ -34,6 +42,9 @@ const verses = [
       "श्रीवेङ्कटनिवासाय = To the One who resides in Venkata (Tirumala)",
       "श्रीनिवासाय = To the One who is the abode of Lakṣmī",
       "मङ्गलम् = May auspiciousness be (upon Him)"
+    ],
+    notes: [
+      
     ],
   },
   {
@@ -54,13 +65,19 @@ const verses = [
       "मङ्गलम्",
     ],
     transl: [
-      "Auspiciousness be to the Lord Venkatesa who gazes alluringly at Goddess Lakshmi with elegant eyebrows, and who observes all the worlds with His vacillating eyes. ",
-      "May auspiciousness be upon Lord Venkatesha, whose enchanting eyes captivate even Lakṣmī, whose playful glances charm the Goddess with Her beautiful eyebrows, and who is the divine eye (protector) of all the worlds!",
-      "'लक्ष्मी सविभ्रम आलोक सुभ्रू विभ्रम चक्षुषे' → The Lord's glance is so mesmerizing that even Goddess Lakṣmī is enchanted by His divine beauty. 'चक्षुषे सर्वलोकानाम्' → His eyes are not just beautiful but also protective, as He is the watchful guardian of all worlds. 'वेङ्कटेशाय मङ्गलम्' → The verse bestows auspiciousness upon Lord Venkatesha, ensuring His blessings upon all devotees who recite it.",
+      "- the One whose glance is so mesmerizing that even Goddess Lakṣmī is enchanted by His divine beauty,",
+      "- the One who is the divine eye of all the worlds,",
+      "- Lord Venkateswara,",
+      "May auspiciousness be upon",
+
+      // "Auspiciousness be to the Lord Venkatesa who gazes alluringly at Goddess Lakshmi with elegant eyebrows, and who observes all the worlds with His vacillating eyes. ",
+      // "May auspiciousness be upon Lord Venkatesha, whose enchanting eyes captivate even Lakṣmī, whose playful glances charm the Goddess with Her beautiful eyebrows, and who is the divine eye (protector) of all the worlds!",
+      // "'लक्ष्मी सविभ्रम आलोक सुभ्रू विभ्रम चक्षुषे' → The Lord's glance is so mesmerizing that even Goddess Lakṣmī is enchanted by His divine beauty. 'चक्षुषे सर्वलोकानाम्' → His eyes are not just beautiful but also protective, as He is the watchful guardian of all worlds. 'वेङ्कटेशाय मङ्गलम्' → The verse bestows auspiciousness upon Lord Venkatesha, ensuring His blessings upon all devotees who recite it.",
     ],
-    essence: [],
-    meanings: [],
-    notes: [
+    essence: [
+      "May auspiciousness be upon Lord Venkateswara, whose enchanting eyes captivate even Lakṣmī, whose playful glances charm the Goddess with Her beautiful eyebrows, and who is the divine eye (protector) of all the worlds!",
+    ],
+    meanings: [
       "लक्ष्मी = Goddess Lakṣmī",
       "सविभ्रम = With playful (charming) expressions",
       "आलोक = Glance, vision",
@@ -71,6 +88,8 @@ const verses = [
       "सर्वलोकानाम् = Of all the worlds",
       "वेङ्कटेशाय = To Lord Venkatesha",
       "मङ्गलम् = May auspiciousness be"
+    ],
+    notes: [      
     ],
   },
   {
@@ -91,12 +110,18 @@ const verses = [
       "मङ्गलम्",
     ],
     transl: [
-      "Auspiciousness be to the Lord of Lakshmi Devi, the repository of auspiciousness whose auspicious feet adorn the crest of mount Venkata.",
-      "May auspiciousness be upon Śrīnivāsa, who resides atop the sacred peak of Venkata Hill, whose holy feet are the greatest ornaments adorning the summit, and who is the very abode of all auspiciousness!"
+      "- the One whose feet are like auspicious ornaments to the peak of Venkatachala,",
+      "- the One who is the abode of all auspiciousness,",
+      "- Lord Srinivasa,",
+      "May auspiciousness be upon",
+
+      // "Auspiciousness be to the Lord of Lakshmi Devi, the repository of auspiciousness whose auspicious feet adorn the crest of mount Venkata.",
+      // "May auspiciousness be upon Śrīnivāsa, who resides atop the sacred peak of Venkata Hill, whose holy feet are the greatest ornaments adorning the summit, and who is the very abode of all auspiciousness!"
     ],
-    essence: [],
-    meanings: [],
-    notes: [
+    essence: [
+      "May auspiciousness be upon Śrīnivāsa, whose holy feet are the greatest ornaments adorning the summit of Venkatachala, and who is the very abode of all auspiciousness!",
+    ],
+    meanings: [
       "श्रीवेङ्कट = Of the sacred Venkata (Tirumala)",
       "अद्रि = Mountain",
       "श‍ृङ्ग = Peak, summit",
@@ -108,6 +133,8 @@ const verses = [
       "निवासाय = To the One who is the very abode",
       "श्रीनिवासाय = To Lord Śrīnivāsa (the abode of Lakṣmī)",
       "मङ्गलम् = May auspiciousness be"
+    ],
+    notes: [      
     ],
   },
   {
@@ -128,12 +155,18 @@ const verses = [
       "मङ्गलम् अस्तु",
     ],
     transl: [
-      "Auspiciousness be to the Lord Venkatesa, the inestimable beauty of whose form continually enraptures all beings.",
-      "May auspiciousness be upon Lord Venkatesha, who is endowed with the supreme beauty of all His limbs, who eternally captivates the hearts of all beings!",
+      "- (with the wealth of supreme beauty of his limbs),",
+      "- the One eternally captivates the hearts of all beings,",
+      "- Lord Venkateswara,",
+      "May auspiciousness be upon",
+
+      // "Auspiciousness be to the Lord Venkatesa, the inestimable beauty of whose form continually enraptures all beings.",
+      // "May auspiciousness be upon Lord Venkatesha, who is endowed with the supreme beauty of all His limbs, who eternally captivates the hearts of all beings!",
     ],
-    essence: [],
-    meanings: [],
-    notes: [
+    essence: [
+      "May auspiciousness be upon Lord Venkatesha, who eternally captivates the hearts of all beings (with the supreme beauty of all His limbs)!",
+    ],
+    meanings: [
       "सर्व = All, every",
       "अवयव = Limbs, body parts",
       "सौन्दर्य = Beauty",
@@ -145,6 +178,8 @@ const verses = [
       "अस्तु = May it be",
       "वेङ्कटेशाय = To Lord Venkatesha",
       "मङ्गलम् = May auspiciousness be"
+    ],
+    notes: [      
     ],
   },
   {
@@ -167,12 +202,20 @@ const verses = [
       "मङ्गलम्",
     ],
     transl: [
-      "Auspiciousness be to the Lord Venkatesa the Supreme Spirit, the Absolute Truth, the Ultimate Joy, who is Eternal, Immaculate, and the indweller in every soul.",
-      "May auspiciousness be upon Śrī Venkatesha, who is eternal, flawless, and the very essence of truth, bliss, and pure consciousness, who is the indwelling soul of all beings!"
+      "- the eternal One,",
+      "- the One with flawless qualities,",
+      "- the One who is supreme conciousness of truth, bliss and knowledge,",
+      "- the One who is indwelling soul of all beings,",
+      "- Lord Venkateswara,",
+      "May auspiciousness be upon",
+
+      // "Auspiciousness be to the Lord Venkatesa the Supreme Spirit, the Absolute Truth, the Ultimate Joy, who is Eternal, Immaculate, and the indweller in every soul.",
+      // "May auspiciousness be upon Śrī Venkatesha, who is eternal, flawless, and the very essence of truth, bliss, and pure consciousness, who is the indwelling soul of all beings!"
     ],
-    essence: [],
-    meanings: [],
-    notes: [
+    essence: [
+      "May auspiciousness be upon Śrī Venkatesha, who is eternal, flawless, and the supreme conciousness of truth, bliss and knowledge, who is the indwelling soul of all beings!",
+    ],
+    meanings: [
       "नित्याय = To the eternal one",
       "निरवद्याय = To the flawless, faultless one",
       "सत्य = Truth, real",
@@ -185,6 +228,8 @@ const verses = [
       "श्रीमद् = Glorious, auspicious",
       "वेङ्कटेशाय = To Lord Venkatesha",
       "मङ्गलम् = May auspiciousness be"
+    ],
+    notes: [      
     ],
   },
   {
@@ -208,16 +253,25 @@ const verses = [
       "मङ्गलम्",
     ],
     transl: [
-      "Auspiciousness be to the Lord Venkatesa who is Himself omniscient, omnipotent, the Supreme Soul, easily accessible and most amiable.",
-      "May auspiciousness be upon Lord Venkatesha,",
-      "- who is omniscient by His very nature,",
-      "- who is all-powerful and the supreme master of all,",
-      "- who is easily accessible to devotees,",
-      "- and who is endowed with supreme virtues!",
+      "- who is omniscient by his very nature,",
+      "- who is all powerful,",
+      "- who is supreme master of all,",
+      "- who is easily attainable to devotees,",
+      "- who is endowed with supreme virtues,",
+      "- Lord Venkateswara,",
+      "May auspiciousness be upon",
+
+      // "Auspiciousness be to the Lord Venkatesa who is Himself omniscient, omnipotent, the Supreme Soul, easily accessible and most amiable.",
+      // "May auspiciousness be upon Lord Venkatesha,",
+      // "- who is omniscient by His very nature,",
+      // "- who is all-powerful and the supreme master of all,",
+      // "- who is easily accessible to devotees,",
+      // "- and who is endowed with supreme virtues!",
     ],
-    essence: [],
-    meanings: [],
-    notes: [
+    essence: [
+      "May auspiciousness be upon Lord Venkatesha, who is omniscient by His very nature, who is all-powerful and the supreme master of all, who is easily accessible to devotees, and who is endowed with supreme virtues!",
+    ],
+    meanings: [
       "स्वतः = By His own nature, inherently",
       "सर्वविदे = To the all-knowing one, the omniscient one",
       "सर्वशक्तये = To the all-powerful one, the omnipotent one",
@@ -226,6 +280,9 @@ const verses = [
       "सुशीलाय = To the one with noble virtues, supremely kind and righteous",
       "वेङ्कटेशाय = To Lord Venkatesha",
       "मङ्गलम् = May auspiciousness be"
+    ],
+    notes: [
+      
     ],
   },
   {
@@ -240,24 +297,35 @@ const verses = [
       "प्रयुञ्जे परतत्त्वाय वेङ्कटेशाय मङ्गलम् ॥ ७॥",
     ],
     anvaya: [
-      "(अहं)",
-      "- परस्मै ब्रह्मणे पूर्णकामाय परमात्मने परतत्त्वाय ",
-      "प्रयुञ्जे ",
+      "- परस्मै", 
+      "- ब्रह्मणे", 
+      "- पूर्णकामाय", 
+      "- परमात्मने", 
+      "- परतत्त्वाय",
       "- वेङ्कटेशाय",
-      "मङ्गलम्",
+      "मङ्गलम् प्रयुञ्जे",
     ],
     transl: [
-      "Auspiciousness be to the Lord Venkatesa the Supreme Being, fully self-­‐content, the Supreme Lord, the Absolute Truth that is to be known and sought.",
-      "May auspiciousness be upon Lord Venkatesha,",
-      " - who is the Supreme Brahman,",
-      " - who is eternally fulfilled and complete,",
-      " - who is the Supreme Soul,",
-      " - and who is the highest divine truth!",
-      " - I offer my salutations to Him.",
+      "- the Supreme one,",
+      "- the eternal Brahman,",
+      "- who is eternally fulfilled and complete,",
+      "- the Supreme Soul,",
+      "- who is the highest divine truth,",
+      "- Lord Venkateswara,",
+      "I offer auspicious wishes upon ",
+
+      // "Auspiciousness be to the Lord Venkatesa the Supreme Being, fully self-­‐content, the Supreme Lord, the Absolute Truth that is to be known and sought.",
+      // "May auspiciousness be upon Lord Venkatesha,",
+      // " - who is the Supreme Brahman,",
+      // " - who is eternally fulfilled and complete,",
+      // " - who is the Supreme Soul,",
+      // " - and who is the highest divine truth!",
+      // " - I offer my salutations to Him.",
     ],
-    essence: [],
-    meanings: [],
-    notes: [
+    essence: [
+      "I offer auspicious wishes upon Lord Venkatesha, who is the Supreme Brahman, who is eternally fulfilled and complete, who is the Supreme Soul, and who is the highest divine truth!",
+    ],
+    meanings: [
       "परस्मै = To the supreme, transcendent one",
       "ब्रह्मणे = To Brahman, the absolute reality",
       "पूर्णकामाय = To the one who is eternally fulfilled, having all desires already complete",
@@ -266,6 +334,8 @@ const verses = [
       "परतत्त्वाय = To the highest truth, the ultimate reality",
       "वेङ्कटेशाय = To Lord Venkatesha",
       "मङ्गलम् = May auspiciousness be"
+    ],
+    notes: [      
     ],
   },
   {
@@ -286,11 +356,16 @@ const verses = [
       "मङ्गलम्",
     ],
     transl: [
-      "Auspiciousness be to the Lord Venkatesa whose ambrosial beauty is such, that devotees having the beatific vision are never satiated with gazing upon Him even for eternity.",
-      "May auspiciousness be upon Lord Venkatesha,",
-      " - who is the eternal principle beyond time,",
-      " - who is tireless in guiding seekers of the Self,",
-      " - and whose form is an inexhaustible nectar of bliss!"
+      "- the Supreme one,",
+      "- one whose form is like inexhaustible nectar, never ceasing bliss,",
+      "- Lord Venkateswara,",
+      "May auspiciousness be upon",
+
+      // "Auspiciousness be to the Lord Venkatesa whose ambrosial beauty is such, that devotees having the beatific vision are never satiated with gazing upon Him even for eternity.",
+      // "May auspiciousness be upon Lord Venkatesha,",
+      // " - who is the eternal principle beyond time,",
+      // " - who is tireless in guiding seekers of the Self,",
+      // " - and whose form is an inexhaustible nectar of bliss!"
     ],
     essence: [],
     meanings: [],
