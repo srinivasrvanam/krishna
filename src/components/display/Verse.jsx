@@ -22,11 +22,13 @@ const Verse = ({ verse, type, compact }) => {
 
   /* Full Display */
   return (
-      <div className="border-t-2 border-gray-300 dark:border-gray-700 py-8 mb-4">
+      <div className="border-t-2 border-gray-300 dark:border-gray-700 py-8 mb-4 w-[100%] md:w-[90%] lg:w-[80%] mx-auto">
         <div className="text-2xl text-center font-bold pb-3">{verse.chapter} - {verse.number}</div>
-        <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 gap-4">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4">
           <Section type="sloka" lines={verse.sloka} />          
           <Section type="essence" lines={verse.essence} />
+        </div>
+        <div className="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-1 gap-4 mt-4">
           <Section type="vicheda" lines={verse.vicheda} />
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4 mt-4">       
