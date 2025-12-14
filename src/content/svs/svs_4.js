@@ -536,15 +536,21 @@ const verses = [
       "मङ्गलम्",
     ],
     transl: [
-      "Auspiciousness be to the Lord Venkatesa who being unattached to His Heavenly Abode of Vaikuntha, is sporting with His consort Lakshmi on the banks of this earthly lake of Pushkarini.",
-      "May auspiciousness be upon Lord Venkatesha,",
-      " - who has renounced the supreme abode of Vaikuntha,",
-      " - who resides on the banks of the sacred Swami Pushkarini,",
-      " - and who joyfully sports with Goddess Lakshmi (Rama)."
+      "- the one who is unattached to his supreme abode of Vaikuntha,",
+      "- the one who is enjoying divine pastimes with Mother Lakshmi(Ramaa) on the banks of Swami Pushkarini,",
+      "- Lord Venkateswara,",
+      "May auspiciousness be upon!",
+
+      // "Auspiciousness be to the Lord Venkatesa who being unattached to His Heavenly Abode of Vaikuntha, is sporting with His consort Lakshmi on the banks of this earthly lake of Pushkarini.",
+      // "May auspiciousness be upon Lord Venkatesha,",
+      // " - who has renounced the supreme abode of Vaikuntha,",
+      // " - who resides on the banks of the sacred Swami Pushkarini,",
+      // " - and who joyfully sports with Goddess Lakshmi (Rama)."
     ],
-    essence: [],
-    meanings: [],
-    notes: [
+    essence: [
+      "May auspiciousness be upon Lord Venkatesha, who is unattached to his supreme abode of Vaikuntha, and who is enjoying divine pastimes with Mother Lakshmi(Ramaa) on the banks of Swami Pushkarini!",
+    ],
+    meanings: [
       "श्री-वैकुण्ठ-विरक्ताय = To the one who has renounced the supreme abode Vaikuntha",
       "स्वामि-पुष्करिणी-तटे = On the banks of the sacred Swami Pushkarini",
       "रमया = With Goddess Lakshmi (Rama, the consort of Vishnu)",
@@ -553,6 +559,8 @@ const verses = [
       "रममाणाय = To the one who is joyfully sporting, enjoying divine pastimes",
       "वेङ्कटेशाय = To Lord Venkatesha",
       "मङ्गलम् = May there be auspiciousness"
+    ],
+    notes: [      
     ],
   },
   {
