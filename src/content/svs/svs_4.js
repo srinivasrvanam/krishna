@@ -626,12 +626,19 @@ const verses = [
       "मङ्गलम् अस्तु",
     ],
     transl: [
-      "Auspiciousness be to the Lord Venkatesa who is adored by all the Spiritual Preceptors of my lineage and all those that went before them.",
-      "May auspiciousness always be upon the greatly revered Lord Venkatesha, who has been glorified through Mangalaashasana by all my Acharyas and all the great preceptors of the past.",
+      " - by those who are engaged in offering auspicious benedictions,",
+      " - by my acharya and all his predecessors,",
+      " - by all and all the previous acharyas,",
+      " - the One who is well honored",
+      "May auspiciousness be upon,",
+
+      // "Auspiciousness be to the Lord Venkatesa who is adored by all the Spiritual Preceptors of my lineage and all those that went before them.",
+      // "May auspiciousness always be upon the greatly revered Lord Venkatesha, who has been glorified through Mangalaashasana by all my Acharyas and all the great preceptors of the past.",
     ],
-    essence: [],
-    meanings: [],
-    notes: [
+    essence: [
+      "May auspiciousness be upon Lord Venkateswara, who is greatly honoured by all the previous acharyas(starting from my acharya and who are engaged in offering auspicious benedictions)!",
+    ],
+    meanings: [
       "मङ्गल (Mangala) = Auspicious, beneficial, or well-being",
       "आशासन (Āśāsana) = (आङ् + शास् - ल्युट् प्रत्यय) Benediction, blessing, or benedictory verse",
       "परैः = By those who are engaged in (spiritual) service",
@@ -647,6 +654,8 @@ const verses = [
       "सत्कृताय = To the one who is well-honored (Lord Venkatesha)",
       "अस्तु = Let there be",
       "मङ्गलम् = Auspiciousness, well-being"
+    ],
+    notes: [      
     ],
   },
 ];
