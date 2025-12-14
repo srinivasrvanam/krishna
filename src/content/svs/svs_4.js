@@ -571,8 +571,8 @@ const verses = [
       "सर्वलोकनिवासाय श्रीनिवासाय मङ्गलम् ॥ १३॥",
     ],
     vicheda: [
-      "श्रीमत्सुन्दरजामातृमुनिमानसवासिने",
-      "सर्वलोकनिवासाय श्रीनिवासाय मङ्गलम् ॥ १३॥",
+      "श्रीमत्-सुन्दर-जामातृ-मुनि-मानस-वासिने",
+      "सर्व-लोक-निवासाय श्री-निवासाय मङ्गलम् ॥ १३॥",
     ],
     anvaya: [
       "- श्रीमत्-सुन्दर-जामातृ-मुनि-मानस-वासिने",
@@ -580,15 +580,16 @@ const verses = [
       "- श्री-निवासाय",
       "मङ्गलम्",
     ],
-    transl: [
-      "Auspiciousness be to the Lord Srinivasa, who dwells within the mind of the fortuitous and beautiful sage Srī Manavāḷa Māmuni, and is Himself the abode of the entire universe.",
-      "May auspiciousness be upon Lord Srinivasa (Venkatesha),",
+    transl: [            
       " - who resides in the heart of the great sage Srī Manavāḷa Māmuni (the son-in-law of Sundara),",
       " - and who is the divine abode of all beings in the universe.",
+      " - Lord Srinivasa (Venkatesha),",
+      "May auspiciousness be upon,",
     ],
-    essence: [],
-    meanings: [],
-    notes: [
+    essence: [
+      "Auspiciousness be to the Lord Srinivasa, who dwells within the mind of the fortuitous and beautiful sage Srī Manavāḷa Māmuni, and is Himself the abode of the entire universe.",
+    ],
+    meanings: [
       "श्रीमत् = Sacred, glorious, revered",
       "सुन्दरजामातृ = The son-in-law of Sundara (Srī Manavāḷa Māmuni)",
       "श्रीमत्-सुन्दर-जामातृ = To the beautiful sage Srī Manavāḷa Māmuni, the son-in-law of Sundara",
@@ -601,6 +602,9 @@ const verses = [
       "सर्व-लोक-निवासाय = To the one who is the abode of all beings",
       "श्री-निवासाय = To Lord Srinivasa (Venkatesha, the abode of Lakshmi)",
       "मङ्गलम् = May there be auspiciousness"
+    ],
+    notes: [
+      
     ],
   },
   {
