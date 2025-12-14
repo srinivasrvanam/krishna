@@ -22,8 +22,7 @@ const verses = [
           // "1.1: (Salutations to Sri Govinda) O Rama, the most Excellent Son of Kaushalya; in the East the Dawn is fast approaching in this Beautiful juncture of Night and Day, 1.2: Please Wake Up in Our Hearts, O Purushottama (the Best of Men ) so that we can perform our Daily Duties as Divine Rituals unto You and thus do the Ultimate Duty of our lives.",
       ],
       essence: [
-        "This sloka is taken from Srimad Ramayanam (Balakanda, Chapter 23, Verse 2), where sage Vishwamitra wakes up Lord Rama to perform the dawn rituals.",
-        "Prathivadhi Bhayankaram Annangaracharya (author of this Sri Venkateswara Suprabatham) has taken this sloka to begin the Suprabatham.",
+        "O virtuous son of Kausalya(Sri Rama)! Sun is rising in the east. O tiger among men! please wake up, as the daily divine duties should be performed.",
       ],
       meanings: [
           "कौसल्या = Kausalya",
@@ -45,6 +44,8 @@ const verses = [
           "आह्निकम् = daily duties",
           "दैवम्-आह्निकम् = daily pujas/rituals (divine work)",
           "कर्तव्यं = कृ (8U - to do - तनादिः उभयपदी - तव्यत्) - should be done - follows the linga/vachana/vibhakti of 'दैवम्-आह्निकम्' - तव्यत् & अनियर् generally used in कर्मणि - कर्ता depends on context",
+          "This sloka is taken from Srimad Ramayanam (Balakanda, Chapter 23, Verse 2), where sage Vishwamitra wakes up Lord Rama to perform the dawn rituals.",
+          "Prathivadhi Bhayankaram Annangaracharya (author of this Sri Venkateswara Suprabatham) has taken this sloka to begin the Suprabatham.",
 
       ]
   },
@@ -66,19 +67,18 @@ const verses = [
       ],
       transl: [
           "O Govinda! please wake up, please wake up.", 
-          "O Lord (with Garuda in his flag)! please wake up.", 
-          "O Madhava (beloved of Mother Lakshmi)! please wake up, and grant auspiciousness to all the three worlds.",
+          "O Garudadwaja (one with Garuda in his flag)! please wake up.", 
+          "O Kamalaa Kantha (beloved of Mother Lakshmi)! please wake up, and grant auspiciousness to all the three worlds.",
 
           // "2. Arise, arise, O Govinda! Arise, O Garuda-flagged one! Arise, O Lord of the lotus! Do good to the three worlds!",
-
           // "O Govinda (lord of the Universe), O Lord of the Garuda Ensign, O Lover of Lakshmi, Please arise and grant auspiciousness to all the three realms (the physical world, the mental world and the transcendental world).",
-
           // "2.1: (Salutations to Sri Govinda) In this Beautiful Dawn Wake Up, Wake Up O Govinda within Our Hearts. Wake Up O the One with Garuda in His Flag, 2.2: Please Wake Up, O Beloved of Kamala and fill the Hearts of the Devotees in the Three Worlds with the Auspicious Bliss of Your Presence.",
       ],
-      essence: [],
+      essence: [
+        "O Govinda! please wake up, please wake up. O Garudadwaja (with Garuda in his flag)! please wake up. O Kamalaa Kantha (beloved of Mother Lakshmi)! please wake up, and grant auspiciousness to all the three worlds.",
+      ],
       meanings: [],
       notes: [
-
           "उत्तिष्ठ = done in previous sloka",
           "गरुडध्वज = समस्तपदम् (?? समास)",
           "कमलाकान्त = समस्तपदम् (?? समास)",
@@ -113,23 +113,24 @@ const verses = [
           "श्रीवेङ्कटेशदयिते !",
           "तव सुप्रभातम् (भवतु) |",
       ],
-      transl: [
-          "O Mother Lakshmi! (beloved wife of Sri Venkatesa)",
+      transl: [          
           "- who is the Mother of all the worlds (entire universe)",
           "- who playfully resides within the heart of Govinda (slayer of Madhu and Kaitaba),",
           "- who has beautiful divine form",
           "- who is the Goddess of wealth",
           "- one whose nature is to give benedictions (fulfill desires) to those devotees who takes refuge",
+          "O Mother Lakshmi! (beloved wife of Sri Venkatesa)",
           "May it be an auspicious dawn (morning) to you.",
 
           // "O Mother of the Universe, who sports upon the broad chest of Lord Vishnu the vanquisher of the Demons Madhu & Kaitabha ( ego and 'mineness') O Lady of the divine form, O Lady of Oppulence, benevolent to those who take refuge in you, O Beloved consort of Venkatesa, an auspicious morning be yours.",
 
           // "3.1 (Salutations to Divine Mother Lakshmi) In this Beautiful Dawn, O Mother of all the Worlds, Let Our Inner enemies Madhu and Kaitabha disappear, 3.2: And Let us only see Your Beautiful Divine Form playing within the Heart of Sri Govinda in the entire Creation, 3.3: You are worshipped as the Lord of all the Worlds and extremely Dear to the Devotees; and Your Liberal Disposition has created such Abundance in Creation, 3.4: Such is Your Glory that this Beautiful Dawn of Your Creation is being cherished by Sri Venkatesa Himself.",
       ],
-      essence: [],
+      essence: [
+        "May it be an auspicious morning to you, O Mother Lakshmi, who is the Mother of all the worlds (entire universe), who playfully resides within the heart of Govinda (slayer of Madhu and Kaitaba), who has beautiful divine form, who is the Goddess of wealth, one whose nature is to give benedictions (fulfill desires) to those devotees who takes refuge, beloved wife of Sri Venkatesa.",
+      ],
       meanings: [],
       notes: [
-
           "समस्त-जगताम् = जगत् (नपुंसक - world) - षष्ठी.वि. - बहु.व.",
           "मातः = माता (सं.प्रथमा.वि. एक.व.) - मातृ ( स्त्री )",
           "मधुकैटभ-अरेः = अरिः (पुं - enemy) - षष्ठी.वि. - एक.व. = Lord Vishnu - who in the avatar of Hayagriva killed the demons Madhu and Kaitaba to protect Vedas",
@@ -157,26 +158,31 @@ const verses = [
           "वृष-शैल-नाथ-दयिते दया-निधे ॥",
       ],
       anvaya: [
-          "हे (अरविन्द-लोचने) (प्रसन्न-मुख-चन्द्र-मण्डले) (विधि-शङ्कर-इन्द्र-वनिताभिः अर्चिते) (दया-निधे)",
+          "हे",
+          " (अरविन्द-लोचने)", 
+          " (प्रसन्न-मुख-चन्द्र-मण्डले)", 
+          " (विधि-शङ्कर-इन्द्र-वनिताभिः अर्चिते)", 
+          " (दया-निधे)",
           "वृष-शैल-नाथ-दयिते !",
           "तव सुप्रभातम् भवतु |",
       ],
-      transl: [
-          "O Mother Lakshmi! (beloved wife of the Lord of Vrusha hill)",
+      transl: [     
+        "O Mother!",     
           "- whose eyes are lotus-like,",
           "- whose face is as pleasant as the full moon,",
           "- who is worshipped by the wives of Brahma (Saraswati), Shiva (Parvati), and Indra (Sachi Devi),",
           "- who is the treasure of mercy,",
+          "O Mother Lakshmi! (beloved wife of the Lord of Vrusha hill)",
           "May it be an auspicious dawn (morning) to you.",
 
           // "O Lotus-­‐eyed One, with a face as radiant as the Moon, who is adored by the consorts of the gods like Brahma, Siva, Indra et al, reservoir of compassion, beloved consort of the Lord of the Vrisha mountain, darling, repository of compassion.",
-
           // "4.1: (Salutations to Divine Mother Lakshmi) In this Beautiful Dawn of Yours, Let us see the Creation within Your Lotus-Eyes, 4.2: Let us see the Creation existing within the Halo of Your Compassionate Moon-Face, 4.3: You are Served and Worshipped by Vidhi (Sri Brahma), Sri Shankara and Indra Deva, 4.4: And Your Ocean of Compassion manifested in Creation as Abundance is cherished by the Lord of Vrishabhadra Hill.",
       ],
-      essence: [],
+      essence: [
+        "May it be an auspicious morning to you, O Mother Lakshmi, whose eyes are lotus-like, whose face is as pleasant as the full moon, who is worshipped by the wives of Brahma (Saraswati), Shiva (Parvati), and Indra (Sachi Devi), who is the treasure of mercy, beloved wife of the Lord of Vrusha hill.",
+      ],
       meanings: [],
       notes: [
-
           "समासाः = TO-DO",
           "मण्डले = मण्डला (circular - स्त्री.लि. - सं.प्रथमा.वि. एक.व.)",
           "दया-निधे = निधा (?? - स्त्री.लि. - सं.प्रथमा.वि. एक.व.)",
@@ -212,20 +218,19 @@ const verses = [
           "O Lord of Sheshadri! May it be an auspicious dawn (morning) to you.",
           
           // "5. The seven sages (Atri and others) , having worshipped the dawn, and having brought beautiful lotuses from the celestial Ganges, are ready to worship your feet, O Lord of Sheshadri, may it be an auspicious dawn to you.",
-
           // "O Lord of Sheshadri, behold the seven sages Atri and the others, having performed their morning rites, bearing with them the charming lotuses of the sacred river; have arrived for worshipping your lotus feet. So please arise now, may your morning be auspicious.",
-
           // "5.1: (Salutations to Sri Govinda) In this Beautiful Dawn when the Night is meeting the Day, Sage Atri and other Sapta Rishis are chanting the Morning Prayers together ... 5.2: ... near the Akasa Ganga River on which is blossoming the Beautiful Lotuses; 5.3: And then taking Refuge in Your Lotus Feet they are Worshipping them, 5.4: (The Sapta-Rishis are Singing) Salutations to You, O Govinda, the One Who Manifested on the Peak of the Seshadri Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
-      essence: [],
+      essence: [
+        "May it be an auspicious morning to you, O Lord of Sheshadri! The seven sages (Atri maharshi and others), having worshipped the dawn (performed the morning rituals), and having taken the beautiful lotuses from the celestial Ganga, have come to worship your feet.",
+      ],
       meanings: [],
       notes: [
-
-          "आदाय = having taken - 'ल्यप्'",
-          "पादयुगम् = पाद (पुं) - युगम् (नपुं) = pair of feet",
-          "प्र-पन्नाः = प्र-पन्न (पद् धातु - 4A - to go) - (क्त प्रत्यय - past tense - कृदन्त - कर्मणि प्रयोगः - पन्न) - पु.लि. - बहु.व. = they came",
-          "शेखर = chief",
-          "विभो = विभु (पुं) - सं.प्रथमा.वि. - एक.व. = स्वामी",
+        "आदाय = having taken - 'ल्यप्'",
+        "पादयुगम् = पाद (पुं) - युगम् (नपुं) = pair of feet",
+        "प्र-पन्नाः = प्र-पन्न (पद् धातु - 4A - to go) - (क्त प्रत्यय - past tense - कृदन्त - कर्मणि प्रयोगः - पन्न) - पु.लि. - बहु.व. = they came",
+        "शेखर = chief",
+        "विभो = विभु (पुं) - सं.प्रथमा.वि. - एक.व. = स्वामी",
       ]
   },
   {
@@ -254,12 +259,12 @@ const verses = [
           "O Lord of Sheshadri! May it be an auspicious dawn (morning) to you.",
 
           // "6. The gods like Brahma, Shiva, Subrahmanya, and Indra praise your deeds like Trivikrama, and the lord of speech (Brihaspati) recites the auspiciousness of the day, O Lord of Sheshadri, may it be an auspicious dawn to you.",
-
           // "O Lord of the summit of Sheshadri mountain, Lord Siva, Brahma, Kartikeya, Indra and the others praise you by chanting your pastimes as Vamana etc. The preceptor of the gods Jupiter stands near, reciting the astrological parameters for this day, proclaiming its auspiciousness, so please arise, may your morning be auspicious.",
-
           // "6.1: (Salutations to Sri Govinda) In this Beautiful Dawn, Sri Panchanana (Five-Faced Brahma) abiding on Lotus, Sri Shanmukha (Six-Faced Subramaniya), Indra Deva and Other Devas, 6.2: Are praising the Divine Deeds of Trivikrama (Who covered the 3 worlds with his steps) and other Incarnations of Yours, 6.3: Sri Brihaspati, the Lord of Sacred Speech is Reciting the Sacred Hymns to Purify the Day, 6.4: (The Gods are Singing) Salutations to You, O Govinda, the One Who Manifested on the Peak of the Seshadri Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
-      essence: [],
+      essence: [
+        "May it be an auspicious dawn (morning) to you, O Lord of Sheshadri! The gods like Lord Shiva (five-faced god), Brahma, Shanmukha (Subrahmanya/Kartikeya), Indra and others praise your pastimes like Trivikrama (Vamana Avatara) etc. The god of speech (Deva guru/Brihaspati) recites the auspiciousness of the day.",
+      ],
       meanings: [],
       notes: [
           "पञ्चानन = पञ्च (5) + आनन (face) = 5 faced - Lord Shiva",
@@ -305,15 +310,14 @@ const verses = [
           "O Lord of Sheshadri! May it be an auspicious dawn (morning) to you.", 
 
           // "7. The gentle breeze, carrying the divine fragrance of slightly bloomed lotuses, coconut trees, and other beautiful plants, blows gently, O Lord of Sheshadri, may it be an auspicious dawn to you.",
-
           // "The gentle breeze blows everywhere wafting the divine fragrance of the blossoms of the lotus, as well as the coconut-­‐nut and betel nut trees. O Mighty Lord of the Sheshadri mountain may this morning be auspicious for you.",
-
           // "7.1: (Salutations to Sri Govinda) In this Beautiful Dawn, The slightly Blooming Lotuses on the Lake and the Coconut, ... 7.2: ... Betel-Nut and other Trees Beautifully set along the edge of the Lake ... 7.3: ... are Worshipping You O Lord, by blowing Gentle Breeze towards You which is filled with Divine Fragrance, 7.4: (The Trees are Singing) Salutations to You, O Govinda, the One Who Manifested on the Peak of the Seshadri Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
-      essence: [],
+      essence: [
+        "May it be an auspicious dawn (morning) to you, O Lord of Sheshadri! The wind (gentle breeze), carrying the divine fragrance of beautiful plants like (slightly bloomed lotuses, coconut trees, betel nut trees etc) blows gently.", 
+      ],
       meanings: [],
       notes: [
-
           "ईषत् = ईष् (1P - भ्वादिः - to glean/gather bit by bit) - शतृ प्रत्यय - (नपुं) = while gathering bit by bit",
           "प्रफुल्ल = प्र-फल् (to blossom/bloom) - फल् (1P - भ्वादिः) - क्त प्रत्यय - नपुं.लि.",
           "सरसी-रुह = sprung up from a lake/pond = lotus",
@@ -365,21 +369,22 @@ const verses = [
 
           // "8.1: (Salutations to Sri Govinda) In this Beautiful Dawn, opening their pair of Eyes those excellent Parrots living within the Cage, 8.2: See Your Prasad consisting of Sweet Payasam mixed with Bananas Leftover in their Bowls; 8.3: And having eaten them Playfully, they are Playfully Reciting Your Hymns, 8.4: (The Parrots are Singing) Salutations to You, O Govinda, the One Who Manifested on the Peak of the Seshadri Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
-      essence: [],
+      essence: [
+        "May it be an auspicious dawn (morning) to you, O Lord of Sheshadri! Now, The Parrots (kept in the best cages), having opened their eyes, having playfully eaten the leftover bananas and sweet rice in their bowls, are singing (your names).",
+      ],
       meanings: [],
       notes: [
+        "अथ = now (अव्ययम्)",
+        "उत्तम-पञ्जर-स्थाः = Those that are kept in best cages",
+        "केलिशुकाः = parrots kept for pleasure",
+        "नेत्र-युगम् उन्मील्य = having opened their eyes",
+        "पात्र-अवशिष्ट-कदलीफल-पायसानि = left over banana and payasam in the bowl (from previous night)",
+        "(सलीलम्) भुक्त्वा = having playfully eaten",
+        "पठन्ति = are singing (your names)",
 
-          "अथ = now (अव्ययम्)",
-          "उत्तम-पञ्जर-स्थाः = Those that are kept in best cages",
-          "केलिशुकाः = parrots kept for pleasure",
-          "नेत्र-युगम् उन्मील्य = having opened their eyes",
-          "पात्र-अवशिष्ट-कदलीफल-पायसानि = left over banana and payasam in the bowl (from previous night)",
-          "(सलीलम्) भुक्त्वा = having playfully eaten",
-          "पठन्ति = are singing (your names)",
-
-          "स्थाः = स्थ = being situated in",
-          "केलि = playful/sportive",
-          "सलीलम् = स—लीलम् (अम्) = playfully, with ease",
+        "स्थाः = स्थ = being situated in",
+        "केलि = playful/sportive",
+        "सलीलम् = स—लीलम् (अम्) = playfully, with ease",
       ]
   },
   {
@@ -420,10 +425,11 @@ const verses = [
 
           // "Sriram Cadambi The sage Narada with his Veena of sweet music produced by tight grip of his strings, is singing in praise of your endless deeds, expressed in fine language, and by beautifully waving the hand often. Oh. the one who manifested on the peak of Seshadri hill, May it be an auspicious dawn for you.",
       ],
-      essence: [],
+      essence: [
+        "May it be an auspicious dawn (morning) to you, O Lord of Sheshadri! Devarshi Narada also (with the sweet sound produced by pulling strings of his Veena) (beautifully waving his hand often), is singing your infinite pastimes (expressed in fine language).",
+      ],
       meanings: [],
       notes: [
-
           "तन्त्री = strings of वीणा",
           "प्रकर्ष = to draw/pull",
           "मधुर = sweet",
@@ -475,10 +481,11 @@ const verses = [
 
           // "10.1: (Salutations to Sri Govinda) In this Beautiful Dawn the swarm of Bees who were staying all Night within the Lotus Flowers abounding in the Juice of Honey ... 10.2 ... is Worshipping You at Dawn with the Sweet Sound of their Buzzing Music .. 10.3: ... after they came out of the interior of the Lotus Flowers towards the edge of the Lake. 10.4: (The Bees are Singing) Salutations to You, O Govinda, the One Who Manifested on the Peak of the Seshadri Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
-      essence: [],
+      essence: [
+        "May it be an auspicious dawn (morning) to you, O Lord of Sheshadri! The swarm of bees filled with the nectar of flowers, with the sweet sounds of buzzing music, for the purpose of serving (you), are coming out of the lotus flowers in the nearby lakes.",
+      ],
       meanings: [],
       notes: [
-
           "भृङ्ग = a species of large black bee",
           "आवलि = a row/continuous line/series",
           "मकरन्द = honey (juice of flowers)",
@@ -533,10 +540,11 @@ const verses = [
 
           // "11.1: (Salutations to Sri Govinda) In this Beautiful Dawn the Cowherd Girls are engaged in producing the best of Curds, 11.2: The loud sound of Churning of the Curds are coming from their Houses, 11.3: Where their Churning Rods and lofty Pitchers are engaged in passionate strife to produce the best of Curds, 11.4: (The Cowherd Girls are Singing) Salutations to You, O Govinda, the One Who Manifested on the Peak of the Seshadri Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
-      essence: [],
+      essence: [
+        "May it be an auspicious dawn (morning) to you, O Lord of Sheshadri! The loud noises of churning curd in the goshalas by the gopikas, while churning curd, appear as if the directions of space (Kakubhah) and the clay pots (Kumbha) are engaged in a battle due to anger.",
+      ],
       meanings: [],
       notes: [
-
           "योषा = a young women (cowherd girl)",
           "गणेन = by a group of",
           "वर = श्रेष्ठः",
@@ -550,7 +558,6 @@ const verses = [
           "वि-दधते = धा (3U - जुहोत्यादि - to bear/support - causing) - कर्तरि लट् - आत्मने - प्र.पु. - बहु.व.",
           "ककुभः = ककुप्/ककुब् (ककुभ् - स्त्री - दिशा/दिक् - direction) - प्रथमा.वि. - बहु.व. = directions",
           "कुम्भाः = clay pots",
-
       ]
   },
   {
@@ -589,10 +596,11 @@ const verses = [
 
           // "12.1: (Salutations to Sri Govinda) In this Beautiful Dawn, O possessor of Lotus in the Navel and sustainer of the World, the swarm of Bees within the Hundred-Petalled Lotuses, 12.2: Who have surpassed in their Blue Lustre (which is the Color of Sri Vishnu), the Lustre of the Blue Water Lily's own form, 12.3: Are conveying with their loud Humming Sound which appears like the Sound of the Kettle-Drum, the Rise of the Blue Form (i.e. Sri Vishnu) in the Dawn, 12.4: (The Bees are Singing) Salutations to You, O Govinda, the One Who Manifested on the Peak of the Seshadri Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
-      essence: [],
+      essence: [
+        "May it be an auspicious dawn (morning) to you, O Lord of Sheshadri! The swarm of bees (friends of lotus) within the 100 petaled lotuses, to steal the beauty of the blue water lily (kuvalaya) with their own beauty, are making a loud noise, like the sound of kettle drum (bheri).",
+      ],
       meanings: [],
       notes: [
-
           "वर्गाः = वर्गः (वर्ग - group/division/class) - पु.लि. - प्रथमा.वि. - बहु.व.",
           "अलि = a black bee",
           "शत-पत्र-गत = situated in 100 petalled lotuses",
@@ -604,7 +612,6 @@ const verses = [
           "कुवलयस्य = कुवलय (water lily - especially the blue variety , the flower of which opens at night) - न.पु.लि. - षष्ठी.वि. - एक.व.",
           "श्रियं = श्रीः - (श्री - beauty/glow/radiance) - स्त्री.लि. - द्वितीया.वि. - एक.व.",
           "बिभ्रति = भृ (3U - जुहोत्यादि - to wear/bear/support/nourish/protect) - कर्तरि लट् - परस्मै - प्र.पु. - बहु.व.",
-
       ]
   },
   {
@@ -650,16 +657,16 @@ const verses = [
 
           // "13.1: (Salutations to Sri Govinda) In this Beautiful Dawn the Devotees are Invoking You, O Govinda, the possessor of Sri, the desired end of the Devotees, Giver of Boons and Friend of the Entire World, 13.2: The Devotees are Invoking You O Sri Srinivasa, the One (Purusha) in the World Who is the One Ocean of Compassion, 13.3: The One with Divine Form Whose Vakshasthala (Chest) is the Abode of Divine Mother Sri, 13.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
-      essence: [],
+      essence: [
+        "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! One who is possessor of Sri (wealth, prosperity, beauty), who is bestower of desired boons, who is the friend of all the worlds (the entire universe), who is the abode of Sri (Mother Lakshmi), who is the only ocean of compassion in the world, whose chest (Vakshasthala) is the abode of Mother Lakshmi, who has the divine form.",
+      ],
       meanings: [],
       notes: [
-
           "श्रीमन् = श्रीमान् (श्रीमत् - पुं) - सं.प्रथमा.वि. - एक.व.",
           "बन्धो = बन्धुः (बन्धु - पुं) - सं.प्रथमा.वि. - एक.व.",
           "सिन्धो = सिन्धुः (सिन्धु - पुं) - सं.प्रथमा.वि. - एक.व.",
           "मूर्ते = मूर्तिः (मूर्ति - पुं/स्त्री - अत्र पुं) - सं.प्रथमा.वि. - एक.व.",
           "पते = पतिः(पति - पुं) - सं.प्रथमा.वि. - एक.व.",
-
       ]
   },
   {
@@ -695,9 +702,7 @@ const verses = [
           "O Lord of Venkatachala! May it be an auspicious dawn (morning) to you.",
 
           // "14. Having bathed in the Swami Pushkarini, with pure bodies, seeking prosperity, Shiva, Brahma, Sanandana, and others stand at your door with their heads bowed, O Lord of Venkata hill, may it be an auspicious dawn to you.",
-
           // "Having purified themselves in the Holy Lake of Pushkarini, Lord Shiva, Brahma, Sanandana and the other sages with the gate keepers bearing staves, at their head, are standing at your gate, so now please arise and may your morning be auspicious.",
-
           // "14.1: (Salutations to Sri Govinda) In this Beautiful Dawn the Pure-Bodied Ones (Sri Shiva, Sri Brahma etc) having taken their Bath in the Sri Swami Pushkarini (the temple tank), 14.2: Those Pure Bodied Ones Sri Hara (Sri Shiva), Sri Virinchi (Sri Brahma), Sage Sanandana and Other Sages Who are Your Best Devotees, 14.3: Are proceeding towards the Gate of Your Shrine where are staying Your most Excellent Retinue who have been struck by Your Boon-Giving Staff (and hence blessed to be in your close company), 14.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
       essence: [],
