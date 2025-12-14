@@ -441,15 +441,19 @@ const verses = [
       "वेङ्कटेशाय मङ्गलम्",
     ],
     transl: [
-      "Auspiciousness be to the Lord Venkatesa whose tears of compassion pour out like waves from his eyes and flow down upon the world like cool rivers of ambrosia.",
-      "May auspiciousness be upon Lord Venkatesha,",
-      " - who sprinkles the entire universe",
-      " - with His cool, soothing sidelong glances,",
-      " - just like the gentle waves of a river of nectar-like compassion!"
+      "The Lord Venkatesha sprinkles the entire universe with his cool, soothing sidelong glances, just like the gentle waves of a river of nectar-like compassion.",
+      "May auspiciousness be upon Lord Venkateswara!",
+
+      // "Auspiciousness be to the Lord Venkatesa whose tears of compassion pour out like waves from his eyes and flow down upon the world like cool rivers of ambrosia.",
+      // "May auspiciousness be upon Lord Venkatesha,",
+      // " - who sprinkles the entire universe",
+      // " - with His cool, soothing sidelong glances,",
+      // " - just like the gentle waves of a river of nectar-like compassion!"
     ],
-    essence: [],
-    meanings: [],
-    notes: [
+    essence: [
+      "May auspiciousness be upon Lord Venkateswara! who sprinkles the entire universe with his cool, soothing sidelong glances, just like the gentle waves of a river of nectar-like compassion.",
+    ],
+    meanings: [
       "दयामृततरङ्गिण्याः = Of the river of nectar-like compassion",
       "तरङ्गैः = With waves",
       "इव = Like, as if",
@@ -459,6 +463,8 @@ const verses = [
       "विश्वम् = The whole universe",
       "वेङ्कटेशाय = To Lord Venkatesha",
       "मङ्गलम् = May auspiciousness be"
+    ],
+    notes: [
     ],
   },
   {
