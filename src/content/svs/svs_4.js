@@ -350,14 +350,13 @@ const verses = [
       "अतृप्त्यमृतरूपाय वेङ्कटेशाय मङ्गलम् ॥ ८॥",
     ],
     anvaya: [
-      "- (आकालतत्त्वम् अश्रान्तम् आत्मनाम् अनुपश्यताम्)",
-      "- अतृप्त्यमृतरूपाय",
+      "- (आकालतत्त्वम् अश्रान्तम् अनुपश्यताम् आत्मनाम्) अतृप्त्यमृतरूपाय",
       "- वेङ्कटेशाय",
       "मङ्गलम्",
     ],
     transl: [
       "- the Supreme one,",
-      "- one whose form is like inexhaustible nectar, never ceasing bliss,",
+      "- one whose form is like inexhaustible nectar, for those souls constantly seeking supreme truth beyond time",
       "- Lord Venkateswara,",
       "May auspiciousness be upon",
 
@@ -367,9 +366,10 @@ const verses = [
       // " - who is tireless in guiding seekers of the Self,",
       // " - and whose form is an inexhaustible nectar of bliss!"
     ],
-    essence: [],
-    meanings: [],
-    notes: [
+    essence: [
+      "May auspiciousness be upon Lord Venkatesha, whose form is like inexhaustible nectar, for those souls constantly seeking supreme truth beyond time!",
+    ],
+    meanings: [
       "आकालतत्त्वम् = The eternal principle, the essence beyond time",
       "अश्रान्तम् = The tireless, ever-active one",
       "आत्मनाम् = Of the selves, of the souls",
@@ -377,6 +377,9 @@ const verses = [
       "अतृप्त्यमृतरूपाय = To the one whose form is like inexhaustible nectar, never ceasing bliss",
       "वेङ्कटेशाय = To Lord Venkatesha",
       "मङ्गलम् = May auspiciousness be"
+    ],
+    notes: [
+      "अश्रान्तम् = adverb, meaning tirelessly, without getting tired or exhausted.",
     ],
   },
   {
