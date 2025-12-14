@@ -485,15 +485,21 @@ const verses = [
       "मङ्गलम् अस्तु",
     ],
     transl: [
-      "Auspiciousness be to the Lord Venkatesa who appears most charming wearing beautiful garlands, gorgeous ornaments and fine silk garments, bearing the celestial weapons, dispelling all distress.",
-      "May auspiciousness be upon Lord Venkatesha,",
-      " - who is adorned with divine garlands, ornaments, garments, and weapons,",
-      " - whose form radiates supreme beauty,",
-      " - and who removes all suffering and distress!",
+      "- the one who carries a radiant form of garlands, ornaments, garments and weapons,",
+      "- the one who removes all sufferings and distress,",
+      "- Lord Venkateswara,",
+      "May auspiciousness be upon!",
+
+      // "Auspiciousness be to the Lord Venkatesa who appears most charming wearing beautiful garlands, gorgeous ornaments and fine silk garments, bearing the celestial weapons, dispelling all distress.",
+      // "May auspiciousness be upon Lord Venkatesha,",
+      // " - who is adorned with divine garlands, ornaments, garments, and weapons,",
+      // " - whose form radiates supreme beauty,",
+      // " - and who removes all suffering and distress!",
     ],
-    essence: [],
-    meanings: [],
-    notes: [
+    essence: [
+      "May auspiciousness be upon Lord Venkatesha, who carries a radiant form of garlands, ornaments, garments and weapons, and who removes all suffering and distress!",
+    ],
+    meanings: [
       "स्रग् (Srag) = Garland, wreath of flowers",
       "भूषा (Bhūṣā) = Ornaments, jewelry, decorations",
       "अम्बर (Ambara) = Garments, clothing, attire",
@@ -508,6 +514,8 @@ const verses = [
       "अस्तु = May it be, let it be",
       "वेङ्कटेशाय = To Lord Venkatesha",
       "मङ्गलम् = May auspiciousness be"
+    ],
+    notes: [
     ],
   },
   {
