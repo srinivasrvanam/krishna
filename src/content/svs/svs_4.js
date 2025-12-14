@@ -355,7 +355,6 @@ const verses = [
       "मङ्गलम्",
     ],
     transl: [
-      "- the Supreme one,",
       "- one whose form is like inexhaustible nectar, for those souls constantly seeking supreme truth beyond time",
       "- Lord Venkateswara,",
       "May auspiciousness be upon",
@@ -394,18 +393,25 @@ const verses = [
       "कृपया आदिशते श्रीमद्वेङ्कटेशाय मङ्गलम् ॥ ९॥",
     ],
     anvaya: [
-      "प्रायः स्वचरणौ पुंसाम् शरण्यत्वेन पाणिना कृपया आदिशते,",
-      "श्रीमद्वेङ्कटेशाय मङ्गलम्"
+      "- (प्रायः स्वचरणौ शरण्यत्वेन पाणिना कृपया पुंसाम् आदिशते",
+      "- श्रीमद्वेङ्कटेशाय",
+      "मङ्गलम्",
     ],
     transl: [
-      "Auspiciousness be to the Lord Venkatesa who out of unbounded compassion points to His own feet as a refuge for everyone.",
-      "May auspiciousness be upon the glorious Lord Venkatesha,",
-      " - who mercifully directs people towards His own feet as their ultimate refuge,",
-      " - by pointing to them with His hand, out of boundless compassion!",
+      "- one who points his own feet with his hand, due to compassion, as a refuge to all beings,",
+      "- Lord Venkateswara,",
+      "May auspiciousness be upon",
+
+
+      // "Auspiciousness be to the Lord Venkatesa who out of unbounded compassion points to His own feet as a refuge for everyone.",
+      // "May auspiciousness be upon the glorious Lord Venkatesha,",
+      // " - who mercifully directs people towards His own feet as their ultimate refuge,",
+      // " - by pointing to them with His hand, out of boundless compassion!",
     ],
-    essence: [],
-    meanings: [],
-    notes: [
+    essence: [
+      "May auspiciousness be upon the glorious Lord Venkatesha, who points his own feet with his hand, due to compassion, as a refuge to all beings!",
+    ],
+    meanings: [
       "प्रायः = Generally, mostly, often",
       "स्वचरणौ = His own two feet",
       "पुंसाम् = For all beings, for people",
@@ -415,6 +421,8 @@ const verses = [
       "आदिशते = He directs, He instructs",
       "श्रीमद्वेङ्कटेशाय = To the glorious Lord Venkatesha",
       "मङ्गलम् = May auspiciousness be"
+    ],
+    notes: [      
     ],
   },
   {
