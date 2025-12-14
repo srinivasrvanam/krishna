@@ -705,10 +705,11 @@ const verses = [
           // "Having purified themselves in the Holy Lake of Pushkarini, Lord Shiva, Brahma, Sanandana and the other sages with the gate keepers bearing staves, at their head, are standing at your gate, so now please arise and may your morning be auspicious.",
           // "14.1: (Salutations to Sri Govinda) In this Beautiful Dawn the Pure-Bodied Ones (Sri Shiva, Sri Brahma etc) having taken their Bath in the Sri Swami Pushkarini (the temple tank), 14.2: Those Pure Bodied Ones Sri Hara (Sri Shiva), Sri Virinchi (Sri Brahma), Sage Sanandana and Other Sages Who are Your Best Devotees, 14.3: Are proceeding towards the Gate of Your Shrine where are staying Your most Excellent Retinue who have been struck by Your Boon-Giving Staff (and hence blessed to be in your close company), 14.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
-      essence: [],
+      essence: [
+        "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! Lord Shiva, Brahma, Sanandana, and others having pure bodies after bathing in the Swami Pushkarini, are standing at your door, seeking prosperity, with their heads bowed.",
+      ],
       meanings: [],
       notes: [
-
           "पुष्करिणि = पुष्करी (पुष्करिन् - पुं) - lake/pond of lotuses - सप्तमी - एक.व.",
           "का = ?? WHY",
           "आप्लव = आप्लवः (आप्लव - पुं) = ablution/bathing = అభ్యంగన స్నానం",
@@ -720,7 +721,6 @@ const verses = [
           "उत्तम = Best, excellent",
           "उत्तम+अंगं = ‘the best limb ‘of the body’, the head",
           "वर-वेत्र-हत-उत्तम-अङ्गाः = those who are struck in their heads by your boon giving staff - (?? any explanation for this ??)",
-
       ]
   },
   {
@@ -754,15 +754,15 @@ const verses = [
 
           // "15.1: (Salutations to Sri Govinda) In this Beautiful Dawn the Devotees are Remembering the Sheshadri Hill, the Garudachala Hill, the Venkatadri Hill, ... 15.2: ... the Narayanadri Hill, the Vrishabhadri Hill, the Vrishadri Hill which are the Chief ... 15.3: ... among the Hills named where the Devotees say that You Dwell Incessantly, 15.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
-      essence: [],
+      essence: [
+        "O Lord of Venkatachala! May it be an auspicious dawn (morning) to you. Sheshaadri, Garudaadri, Venkataadri, Narayanaadri, Vrishabhaadri, and Vrishaadri are always spoken of as places where you reside.",
+      ],
       meanings: [],
       notes: [
-
           "आख्यां = आख्या (आख्या - स्त्री - to tell/inform/declare - called) - द्वितीया - एक.व.",
           "त्वदीय = त्वदीयः (त्वदीय - पुं) = your",
           "वसतेः = ?? HOW",
           "अनिशम् = अनिशम् (अनिश - नपुं) = incessantly/uninterrupted",
-
       ]
   },
   {
@@ -799,10 +799,11 @@ const verses = [
 
           // "16.1: (Salutations to Sri Govinda) In this Beautiful Dawn the Eight Dikpalas (Guardian deities of the eight directions) who are Intent upon Serving You - Shiva (Ishana), Indra ( the Lord of the Devas ), Krishanu (Agni or God of Fire), Dharma (Dharmaraja or Yama), ... 16.2: ... Rakshasa (Niruthi), Varuna ( the Lord of Water ) and Kubera ( the Lord of Wealth ), 16.3: Are standing with their Palms joined in Devotion and their Heads are shining with Divine Glow, 16.4: (The Dikpalas are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
-      essence: [],
+      essence: [
+        "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! Lord Shiva, Indra, Agni, Yama, Nirruti (God of Southwest direction), Varuna, Vayu, Kubera are engaged in your service, with folded hands, shining, and with their heads bowed down to the ground.",
+      ],
       meanings: [],
       notes: [
-
           "शिव = Lord Shiva",
           "सुरेश = Indra",
           "कृशानु = अग्निः",
@@ -820,7 +821,6 @@ const verses = [
           "देशाः = देशः (देश - पुं) - प्रथमा.वि. - बहु.व.",
           "पराः = परः (पर - पुं) - प्रथमा.वि. - बहु.व.",
           "सेवापराः = those who are engaged in service",
-
       ]
   },
   {
@@ -858,10 +858,11 @@ const verses = [
 
           // "17.1: (Salutations to Sri Govinda) In this Beautiful Dawn Your Vahanas ( Conveyances ) - Garuda ( the King of Birds ), Lion ( the King of Animals ) ... 17.2: ... Adisesha ( the King of Snakes ), Airavatha ( the King of Elephants ) and Ucchaisravas ( the King of Horses ), 17.3: Are seeking Your Blessings for augmenting their greatness in their respective Duties in order to Serve You Better, 17.4: (The Vahanas are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
-      essence: [],
+      essence: [
+        "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! The king of birds (Garuda), the king of animals (Simha), the king of serpents (Adishesha), the king of elephants (Airavatha), and the king of horses(Ucchaisravas) are seeking your blessings for increasing their own authority and greatness.",
+      ],
       meanings: [],
       notes: [
-
           "विहगराज = King of Birds, Garuda",
           "मृगाधिराज = King of Animals, Lion",
           "नागाधिराज = King of Serpents, AdiShesha",
@@ -876,7 +877,6 @@ const verses = [
           "स्वस्वाधिकारमहिमा = their own authority and greatness",
           "अधिकमर्थयन्ते = seeking to increase",
           "अर्थयन्ते = (अर्थ - 10A - चुरादिः - to beg/request) - कर्तरि लट् - प्र.पु. - बहु.व. = seeking",
-
       ]
   },
   {
@@ -911,10 +911,11 @@ const verses = [
 
           // "18.1: (Salutations to Sri Govinda) In this Beautiful Dawn the Navagrahas (Nine Planets) - Surya (Surya), Indu (Moon), Bhauma (Mars), Budha (Mercury), Vakpati (the Lord of Speech or Brihaspati or Jupiter), Kavya (Sukra or Venus), Sauri (Saturn) ... 18.2: ... Swarbhanu (Rahu), Ketu who are among the chief in the assembly of the Devas (Gods), 18.3: Are Your Servant's Servant (i.e. willing to serve Your true Devotees) and will remain as Your Servant's Servant till the end, 18.4: (The Navagrahas are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
-      essence: [],
+      essence: [
+        "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! The Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu, and Ketu, the chief among the celestial beings are the servants of your servants's servants.",
+      ],
       meanings: [],
       notes: [
-
           "सूर्य = Sun",
           "इन्दु = Moon",
           "भौम = मङ्गलः = Mars",
@@ -931,7 +932,6 @@ const verses = [
           "दास = servant",
           "चरम = last/ultimate/final",
           "अवधि = limit/boundary",
-
       ]
   },
   {
@@ -970,10 +970,11 @@ const verses = [
 
           // "19.1: (Salutations to Sri Govinda) In this Beautiful Dawn Your Devotees are taking the Sacred Dust of Your Lotus Feet; their Foreheads filled with the Sacred Dust are exhibiting Your Insignia, 19.2: Your Sacred Insignia on their Outer Bodies and Surrender to Your Lotus Feet have made their Inner Bodies (i.e. Mind) Indifferent to Heaven and Desire for Emancipation, 19.3: In the cycles of the Ages to come (referring to passage of time), their Surrender and Desire to Reach Your Lotus Feet will turn into Intense Yearning, and finally attain Your Abode. 19.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
-      essence: [],
+      essence: [
+        "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! Those devotees whose heads are filled with the dust of your feet, and are not inclined for heaven and liberation, (but your service) are attaining the feeling of perplexity(confusion) by the counting of the coming of the next Kalpa.",
+      ],
       meanings: [],
       notes: [
-
           "भरित = filled with",
           "स्फुरित = shining",
           "उत्तम-अङ्गाः = heads (refers to those who came)",
@@ -1026,16 +1027,16 @@ const verses = [
 
           // "20.1: (Salutations to Sri Govinda) In this Beautiful Dawn Your Devotees are looking at the highest Pinnacle of Your Temple Gopuram (Ornamented Temple Gateway) and contemplating on Its Greatness, 20.2: Which is their Supreme Refuge, superior to position in Heaven and Desire for Emancipation, 20.3: Which is a place where the Heart can Surrender to the Bliss of Your Lotus Feet in this Mortal World of Human Beings. 20.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
-      essence: [],
+      essence: [
+        "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! Those mortals who are serving highest positions in heaven, having seen the tops of your temple towers, are attracted to the material world(earth).", 
+      ],
       meanings: [],
       notes: [
-
           "निरीक्षमाणाः = निर्-ईक्षमाणः - (पुं) - (ईक्ष् - 1A - to see/perceive - शानच्) = while seeing - (निर् doesn't change meaning here)",
           "परमां = highest/most prominent",
           "श्रयन्तः = श्रयन् (श्रयत् - पुं) - (श्रि - 1U - to serve - शतृ) - while serving",
           "मतिम् = मतिः (मति - स्त्री - thought/mind/intellect) - द्वितीया.वि. - एक.व.",
           "आश्रयन्ते = आ-श्रयन्ते - (आ-श्रि - 1U - to go/stay near) - आत्मने - कर्तरि लट् - प्र.पु. - बहु.व. = they are seeking refuge",
-
       ]
   },
   {
@@ -1081,14 +1082,14 @@ const verses = [
 
           // "21.1: (Salutations to Sri Govinda) In this Beautiful Dawn Your Devotees are having Your Darshan, O Lord of Sri Devi and Bhu Devi; You are an Ocean filled with Compassion and other Nectar-like Qualities, 21.2: You are the God of the Gods and the One Great Embodiment of Giving Refuge to the Devotees in this World, 21.3: O the Possessor of Sri, the Devotees are Worshipping Your Lotus Feet which is Worshipped by Ananta (Adisesha), Garuda and Others. 21.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
-      essence: [],
+      essence: [
+        "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! O Lord! the One who is the husband of Sri Devi (Mother Lakshmi) and Bhu Devi (Mother Earth), who is an ocean of mercy and other virtues, who is the God of the Gods, who is the only refuge of the world, who is the lord of prosperity, whose feet are worshipped by Ananta, Garuda, and others,",
+      ],
       meanings: [],
       notes: [
-
           "अब्धे = अब्धिः (अब्धि - पुं) = ocean = समुद्रः",
           "मूर्ते = (मुर्च्छ्) = form",
           "अङ्घ्रे = अङ्घ्रिः (अङ्घ्रि - पुं = foot) = चरणः",
-
       ]
   },
   {
@@ -1140,14 +1141,14 @@ const verses = [
 
           // "22.1: (Salutations to Sri Govinda) In this Beautiful Dawn Your Devotees are repeating Your various Names - Sri Padmanabha (having Lotus in His Navel), Purushottama, Vasudeva, ... 22.2: Vaikuntha (Abode of Sri Vishnu), Madhava, Janardhana and Chakrapani (holding Chakra in His Hand). 22.3: You are the One with the Mark of Srivatsa on His Chest (where Sri Resides) and the Wish-Fulfiller of all those who take Shelter in Your Lotus Feet. 22.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
-      essence: [],
+      essence: [
+        "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! O Lord! The one who has a lotus in his navel (Padmanabha), who is the Supreme Person (Purushottama), who is omni-present (Vasudeva), who is resident of Vaikuntha (the abode of Vishnu), who is husband of Mother Lakshmi (Madhava), who is Janardana, who is the wielder of the Discus (Chakrapani), who has the mark of Srivatsa on his chest, who is the divine tree (Parijata) for those who have taken refuge in him.",
+      ],
       meanings: [],
       notes: [
-
           "वैकुण्ठ = विष्णुः = विकुण्ठायां भवः",
           "श्रीवत्स =",
           "पारिजात = of one of the 5 trees of paradise (produced at the churning of the ocean and taken possession of by Indra from whom it was afterwards taken by Kṛṣṇa",
-
       ]
   },
   {
@@ -1186,15 +1187,15 @@ const verses = [
 
           // "23.1: (Salutations to Sri Govinda) In this Beautiful Dawn Your Devotees are Contemplating on Your Beautiful Divine Form which though beyond the Three Gunas has the Power to remove the Pride of Kama Deva (of giving rise to attraction in the mind), 23.2: When Your Incarnation attract Beautiful Women with Lotus-Like Bosom with Your Rolling Glance of Pure Curved Eyes, 23.3: You are Auspicious and Pure and storehouse of abundant Divine Attributes; Your Divine Glory is limitless. 23.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
-      essence: [],
+      essence: [
+        "May it be an auspicious dawn (morning) to you. O Lord of Venkatachala! O Lord! One whose divine form vanquishes the pride of Cupid (Kandarpa), whose gaze (दृष्टि) is eagerly fixed (लोल) on the lotus-like (अम्बुरुह) budding vakshastala (कुच-कुड्मल) of his beloved Lakshmi (कान्ता), who is the embodiment (आकर) of auspicious (कल्याण), pure (निर्मल), and virtuous (गुण) qualities, possessing a divine reputation (दिव्यकीर्ति).",
+      ],
       meanings: [],
       notes: [
-
           "कुड्मल =",
           "लोल =",
           "दृष्टे = दृष्टः (दृश् - 1P - to see/look - क्त) - सप्तमी.वि. - एक.व. - (Eg: मया दृष्टे वृक्षे फलम् अस्ति - Fruit on the tree seen by me) - (Eg: मया दृष्टः वृक्षः - Tree seen by me)",
           "कीर्ते = कीर्तिः (कीर्ति) - सं.प्रथमा.वि. - एक.व.",
-
       ]
   },
   {
@@ -1249,10 +1250,11 @@ const verses = [
 
           // "24.1: (Salutations to Sri Govinda) In this Beautiful Dawn Your Devotees are contemplating on Your Divine Incarnations - Sri Matsa Avatara ( Form of Fish ), Sri Kurma Avatara ( Form of Tortoise ), Sri Varaha Avatara ( Form of Boar ), Sri Nrisimha Avatara ( Form of Man-Lion ) ... 24.2: ... Your Form O Lord of Sri Parashurama Avatara ( Wielder of Axe ), Sri Vamana Avatara ( Rich in Austerities ), Sri Ramachandra Avatara ... 24.3: ... Sri Balarama Avatara ( Rama who was Part of Adisesha ), Sri Krishna Avatara ( Son born in Yadu Dynasty ) and the form of Sri Kalki Avatara. 24.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
-      essence: [],
+      essence: [
+        "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! O Lord! who incarnated as Matsya, Kurma, Varaha(Kola), Narasimha, Parashurama, Vamana, Ramachandra, Balarama(Adishesha), Krishna, and Kalki.",
+      ],
       meanings: [],
       notes: [
-
           "मीन-आकृते = रूपं",
           "कमठ = कूर्मः",
           "कोल = वराहः",
@@ -1263,7 +1265,6 @@ const verses = [
           "शेषांश-राम = Balarama, who is an amsha of Adisesha",
           "यदु-नन्दन = Krishna, son of Yadu",
           "कल्कि-रूप = Kalki, in the form of",
-
       ]
   },
   {
@@ -1309,10 +1310,11 @@ const verses = [
 
           // "25.1: (Salutations to Sri Govinda) In this Beautiful Dawn the Brahmins are performing Your Divine Rituals; With Water made fragrant with Cardamom, Clove and Camphor ... 25.2: ... the Water obtained from the Divine Akasa Ganga river which they filled in their Golden Pots ... 25.3: ... And now carrying the Pots the Brahmins who are crest-jewel in Vedic Knowledge are thrilled with Divine Joy, 25.4: They are standing before You and Singing - Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
-      essence: [],
+      essence: [
+        "May it be an auspicious dawn (morning) to you, O Lord of Venkata! The highly delighted (प्रहृष्टाः) foremost (आद्य) scholars of the Vedas (वैदिक-शिखामणयः) are standing (तिष्ठन्ति) (at your door) holding (धृत्वा) golden pots (हेम-घटेषु) filled (पूर्णम्) with divine (दिव्यं) water (तीर्थं) from the celestial river (वियत्-सरिति / akasa ganga).",
+      ],
       meanings: [],
       notes: [
-
           "एला = Cardamom",
           "लवङ्ग = Cloves",
           "घनसार = Camphor",
@@ -1330,7 +1332,6 @@ const verses = [
           "तिष्ठन्ति = तिष्ठति (तिष्ठ् - 1P - to stand) - प्रथमा.बहु.",
           "वेङ्कट-पते = वेङ्कट-पतिः (वेङ्कट-पति - पुं) - Lord of Venkata",
           "सुप्रभातम् = सुप्रभातः (सुप्रभात - पुं) - auspicious dawn",
-
       ]
   },
   {
@@ -1368,10 +1369,11 @@ const verses = [
 
           // "26.1: (Salutations to Sri Govinda) In this Beautiful Dawn the Sun is rising and the Lotus Flowers are blossoming, 26.2: The mountain Birds are filling the Sky with their sweet Chirping Sound, 26.3: The Sri Vaishnavas who are eternally Desirous of Your Auspicious Presence ... 26.4: ... have taken Refuge in Your Abode and they are Singing - Salutations to You, O Venkateswara; Salutations to You in this Beautiful Dawn of Yours.",
       ],
-      essence: [],
+      essence: [
+        "May it be an auspicious dawn (morning) to you, O Lord of Venkata! The sun is rising, the lotuses are blooming, and the birds are filling the directions with their songs. The Sri Vaishnavas, who always seek your auspiciousness, are taking shelter at your abode.",
+      ],
       meanings: [],
       notes: [
-
           "भास्वान् = सूर्यः (भास्वान् - भास्वत् - वतुप्-प्रत्यय - तकारान्तः - पुंलिङ्गः - प्रथमा - एक.व.)",
           "उदेति = (उत् + इ - उदय होना, उगना, ऊपर जाना) - कर्तरि लट् - परस्मै - प्र.पु. - एक.व. = is rising",
           "सरोरुहाणि = सरोरुहम् = सरस्-रुह = lake-growing = कमल = lotus",
@@ -1387,7 +1389,6 @@ const verses = [
           "ते = त्वम् (युष्मद् - you) षष्ठी - एक.व. = your",
           "धाम = धाम (धामन् - न.पुं.) प्रथमा - एक.व. = abode",
           "आश्रयन्ति = आ-श्रि (1U - आश्रय करना/समीप जाना या रहना - to take shelter) - कर्तरि लट् - प्र.पु. - बहु.व. = are taking shelter",
-
       ]
   },
   {
@@ -1432,10 +1433,11 @@ const verses = [
 
           // "27.1: (Salutations to Sri Govinda) In this Beautiful Dawn Sri Brahma and other Principal Gods along with the Maharishis, ... 27.2: ... Great Sages like Sanandana and other Eminent Yogis ... 27.3: ... have come to Your Abode in Your Presence with Auspicious Items in their Hands, 27.4: (They are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
-      essence: [],
+      essence: [
+        "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! Gods like, Brahma and others, along with Maharshis; Saints like Sanandana and the best of Yogis; have come (आगताः) to your abode (धाम अन्तिके) with auspicious items in their hands (मङ्गल-वस्तु-हस्ताः).",
+      ],
       meanings: [],
       notes: [
-
           "अथ = now - an auspicious and inceptive particle (not easily expressed in English)",
           "ते = Those",
           "तु = Indeed",
@@ -1450,7 +1452,6 @@ const verses = [
           "धाम = धाम (धामन् - न.पुं.) प्रथमा - एक.व. = abode",
           "अन्तिके = अन्तिक (अन्तिक - पुं.लि. - near - समीपः) - सप्तमी - एक.व.",
           "मङ्गल-वस्तु-हस्ताः = मङ्गल-वस्तु + हस्तः (mangala + item + hand) - प्रथमा - बहु.व. = auspicious items in their hands",
-
       ]
   },
   {
@@ -1496,10 +1497,11 @@ const verses = [
 
           // "28.1: (Salutations to Sri Govinda) In this Beautiful Dawn the Devotees are Invoking You; You Who are the Abode of Lakshmi and the One Ocean of blemishless Divine Qualities, 28.2: You Who are the One Bridge to cross over the Samsara (Delusion of Worldly Existence); the Samsara which is like an endless Ocean, 28.3: You Whose Own Divine Glory is only known by understanding the transcendental Knowledge of Vedanta; You Whose Transcendental Nature is always there to be enjoyed by the Devotees, 28.4: (The Devotees are Singing) Salutations to You, O Govinda, the Lord of the Venkatachala Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
-      essence: [],
+      essence: [
+        "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! O Lord! One who is abode of Mother Lakshmi, who is an ocean of unblamable qualities, who is the only bridge to cross the ocean of samsara, who is known through Vedas and Upanishads, who is eternally Glorious, who is enjoyed by devotees.",
+      ],
       meanings: [],
       notes: [
-
           "लक्ष्मी-निवास = O, one who is abode of Lakshmi",
           "निरवद्य = निर्—अवद्य = unblamable, unobjectionable (अवद्य = अधमम् = low/inferior - Fit to be condemned, censurable, not to be praised)",
           "निरवद्य-गुण-एक-सिन्धो = O, one who is an ocean of unblamable qualities",
@@ -1508,7 +1510,6 @@ const verses = [
           "वेदान्त-वेद्य = O, One who is known through Vedas and Upanishads",
           "निज-वैभव = O, One who is Eternally Glorious",
           "भक्त-भोग्य = O, One who is Enjoyed by devotees",
-
       ]
   },
   {
