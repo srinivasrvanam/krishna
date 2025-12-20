@@ -7,6 +7,8 @@ const verses = [
       'मदनुग्रहाय परमं गुह्यमध्यात्मसञ्ज्ञितम् |',
       'यत्त्वयोक्तं वचस्तेन मोहोऽयं विगतो मम ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'तस्मात् असक्तः सततं कार्यं कर्म समाचर |',
       'असक्तः हि आचरन् कर्म परम् आप्नोति पूरुष: ||'
@@ -19,6 +21,9 @@ const verses = [
       "Therefore, always perform your prescribed duty without attachment. For by performing work without attachment, a person attains the supreme goal (liberation)." 
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       "तस्मात् = Therefore",

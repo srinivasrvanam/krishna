@@ -11,6 +11,8 @@ const verses = [
       'तेज: क्षमा धृति: शौचमद्रोहोनातिमानिता |',
       'भवन्ति सम्पदं दैवीमभिजातस्य भारत || 3 ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'श्री-भगवान् उवाच |',
       'अभयं सत्त्व-सम्शुद्धिः ज्ञान-योग-व्यवस्थितिः |',
@@ -34,6 +36,9 @@ const verses = [
       "The Supreme Divine Personality said: O scion of Bharata, these are the saintly virtues of those endowed with a divine nature — fearlessness, purity of mind, steadfastness in spiritual knowledge, charity, control of the senses, sacrifice, study of the sacred books, austerity, and straightforwardness; non-violence, truthfulness, absence of anger, renunciation, peacefulness, restraint from fault-finding, compassion toward all living beings, absence of covetousness, gentleness, modesty, and lack of fickleness; vigor, forgiveness, fortitude, cleanliness, bearing enmity toward none, and absence of vanity(pride)." 
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'श्रीभगवान् = the Blessed Lord',
@@ -79,6 +84,8 @@ const verses = [
       'दम्भो दर्पोऽभिमानश्च क्रोध: पारुष्यमेव च |',
       'अज्ञानं चाभिजातस्य पार्थ सम्पदमासुरीम् || 4 ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'दम्भः दर्पः अभिमानः च क्रोधः पारुष्यम् एव च |',
       'अज्ञानं च अभिजातस्य पार्थ सम्पदम् आसुरीम् ||'
@@ -92,6 +99,9 @@ const verses = [
       "Hypocrisy, arrogance, pride, anger, harshness, and ignorance — these, O Arjuna, are the qualities of one born with a demoniac nature." 
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'दम्भः = hypocrisy',
@@ -117,6 +127,8 @@ const verses = [
       'दैवी सम्पद्विमोक्षाय निबन्धायासुरी मता |',
       'मा शुच: सम्पदं दैवीमभिजातोऽसि पाण्डव || 5 ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'दैवी सम्पत् विमोक्षाय निबन्धाय आसुरी मता |',
       'मा शुच: सम्पदं दैवीम् अभिजातः असि पाण्डव ||',
@@ -131,6 +143,9 @@ const verses = [
       "The divine qualities are considered to lead to liberation, while the demoniac qualities lead to bondage. Do not grieve, O Arjuna, for you are born with divine qualities." 
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'दैवी = divine',
@@ -155,6 +170,8 @@ const verses = [
       'त्रिविधं नरकस्येदं द्वारं नाशनमात्मन: |',
       'काम: क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत् || 21 ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'त्रिविधं नरकस्य इदम् द्वारं नाशनम् आत्मनः |',
       'काम: क्रोधः तथा लोभः तस्मात् एतत् त्रयम् त्यजेत् ||'
@@ -168,6 +185,9 @@ const verses = [
       "This is the threefold gate of hell, destructive of the self—lust, anger, and greed. Therefore, one should abandon these three." 
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'त्रिविधम् = threefold',
@@ -193,6 +213,8 @@ const verses = [
       'एतैर्विमुक्त: कौन्तेय तमोद्वारैस्त्रिभिर्नर: |',
       'आचरत्यात्मन: श्रेयस्ततो याति परां गतिम् || 22 ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'एतै: विमुक्त: कौन्तेय तमः-द्वारैः त्रिभिः नरः |',
       'आचरति आत्मनः श्रेयः ततः याति परां गतिम् ||'
@@ -206,6 +228,9 @@ const verses = [
       "O son of Kunti, a man who is freed from these three gates of darkness — lust, anger, and greed — acts for the good of the soul and thereby attains the supreme goal." 
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'एतैः = from these',
@@ -230,6 +255,8 @@ const verses = [
       'य: शास्त्रविधिमुत्सृज्य वर्तते कामकारत: |',
       'न स सिद्धिमवाप्नोति न सुखं न परां गतिम् || 23||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'य: शास्त्रविधिम् उत्सृज्य वर्तते कामकारत: |',
       'न सः सिद्धिम् अवाप्नोति न सुखं न परां गतिम् ||'
@@ -242,6 +269,9 @@ const verses = [
       "He who acts according to his desires, abandoning the injunctions of the scriptures, does not attain perfection, nor happiness, nor the supreme goal." 
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'यः = who',
@@ -265,6 +295,8 @@ const verses = [
       'तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ |',
       'ज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि || 24 ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'तस्मात् शास्त्रम् प्रमाणं ते कार्याकार्यव्यवस्थितौ |',
       'ज्ञात्वा शास्त्र-विधान-उक्तम् कर्म कर्तुम् इह अर्हसि ||'
@@ -277,6 +309,9 @@ const verses = [
       "Therefore, let scripture be your authority in determining what is to be done and what is not to be done. Knowing the ordinances of the scripture, you ought to perform action here." 
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'तस्मात् = therefore',

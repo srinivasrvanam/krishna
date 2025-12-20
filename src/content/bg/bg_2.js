@@ -7,6 +7,8 @@ const verses = [
       'अशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे |',
       'गतासूनगतासूंश्च नानुशोचन्ति पण्डिता: ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'श्रीभगवान् उवाच',
       'अशोच्यान् अन्वशोचः त्वं प्रज्ञावादान् च भाषसे |',
@@ -21,6 +23,9 @@ const verses = [
       'The Supreme Lord said: You grieve for those who should not be grieved for, and yet you speak words of wisdom. The wise, who know the truth, do not lament for the living or the dead.', 
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'अशोच्यानन्वशोचस्त्वं = अशोच्यान् + अन्वशोचः + त्वं --- ?? सन्धिः',
@@ -43,6 +48,8 @@ const verses = [
       'न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपाः |',
       'न चैव न भविष्याम: सर्वे वयमत: परम् ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'न तु एव अहं जातु न आसं न त्वं न इमे जनाधिपाः |',
       'न च एव न भविष्याम: सर्वे वयम् अतः परम् ||'
@@ -60,6 +67,9 @@ const verses = [
       'Never was there a time when I did not exist, nor you, nor all these kings nor in the future shall any of us cease to be.', 
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'जातु (avyaya) = कदाचित्'
@@ -71,6 +81,8 @@ const verses = [
     sloka   : [
       'देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा |',
       'तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति ||'
+    ],
+    sloka_tel : [
     ],
     vicheda : [
       'देहिनः अस्मिन् यथा देहे कौमारं यौवनं जरा |',
@@ -85,6 +97,9 @@ const verses = [
       'Just as the embodied soul continuously passes from childhood to youth to old age, similarly, at the time of death, the soul passes into another body. The wise are not deluded by this.', 
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'देहिनः = देहिन् (embodied) - षष्ठी एक.व.'
@@ -96,6 +111,8 @@ const verses = [
     sloka   : [
       'मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदु:खदा: |',
       'आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत ||'
+    ],
+    sloka_tel : [
     ],
     vicheda : [
       'मात्रा-स्पर्शा: तु कौन्तेय शीत-उष्ण-सुख-दु:ख-दा: |',
@@ -111,6 +128,9 @@ const verses = [
       'O son of Kunti, the contact between the senses and the sense objects gives rise to fleeting perceptions of happiness and distress. These are non-permanent, and come and go like the winter and summer seasons. O descendent of Bharat, one must learn to tolerate them without being disturbed.', 
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'तिज् - endure/tolerate --- कर्तरि लोट्लकारः = तितिक्षस्व',
@@ -123,6 +143,8 @@ const verses = [
     sloka   : [
       'यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ |',
       'समदु:खसुखं धीरं सोऽमृतत्वाय कल्पते ||'
+    ],
+    sloka_tel : [
     ],
     vicheda : [
       'यं हि न व्यथयन्ति एते पुरुषं पुरुषर्षभ |',
@@ -137,6 +159,9 @@ const verses = [
       'O Arjun, noblest amongst men, that person who is not affected by happiness and distress, and remains steady in both, becomes eligible for liberation.', 
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'व्यथ् - to be vexed/feared/irritated णिजन्ते - व्यथयन्ति',
@@ -149,6 +174,8 @@ const verses = [
     sloka   : [
       'नासतो विद्यते भावो नाभावो विद्यते सत: |',
       'उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभि: ||'
+    ],
+    sloka_tel : [
     ],
     vicheda : [
       'न असतः विद्यते भावः न अभावः विद्यते सत: |',
@@ -164,6 +191,9 @@ const verses = [
       'Of the transient there is no endurance, and of the eternal there is no cessation. This has verily been observed and concluded by the seers of the Truth, after studying the nature of both.', 
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'असतः = असत् (पुं) - षष्ठी - एक.व.',
@@ -184,6 +214,8 @@ const verses = [
       'अविनाशि तु तद्विद्धि येन सर्वमिदं ततम् |',
       'विनाशमव्ययस्यास्य न कश्चित्कर्तुमर्हति ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'अविनाशि तु तत् विद्धि येन सर्वम् इदं ततम् |',
       'विनाशम् अव्ययस्य अस्य न कश्चित् कर्तुम् अर्हति ||'
@@ -196,6 +228,9 @@ const verses = [
       'That which pervades the entire body, know it to be indestructible. No one can cause the destruction of the imperishable soul.',
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'इदम् = इदम् (सर्वनाम न.पु.) - प्रथमा - एक.व.',
@@ -214,6 +249,8 @@ const verses = [
       'अन्तवन्त इमे देहा नित्यस्योक्ता: शरीरिण: |',
       'अनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत ||',
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'अन्तवन्तः इमे देहाः नित्यस्य उक्ताः शरीरिण: |',
       'अनाशिनः अप्रमेयस्य तस्मात् युध्यस्व भारत ||',
@@ -226,6 +263,9 @@ const verses = [
       'Only the material body is perishable; the embodied soul within is indestructible, immeasurable, and eternal. Therefore, fight, O descendent of Bharat.',
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'नित्यस्य = नित्य (eternal - पु.लि. - नित्यः) - षष्ठी.वि. - एक.व.',
@@ -246,6 +286,8 @@ const verses = [
       'य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम् |',
       'उभौ तौ न विजानीतो नायं हन्ति न हन्यते ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'य: एनं वेत्ति हन्तारं य: च एनं मन्यते हतम् |',
       'उभौ तौ न विजानीतः न अयं हन्ति न हन्यते ||'
@@ -261,6 +303,9 @@ const verses = [
       'Neither of them is in knowledge—the one who thinks the soul can slay and the one who thinks the soul can be slain. For truly, the soul neither kills nor can it be killed.'
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'य: = who',
@@ -291,6 +336,8 @@ const verses = [
       'अजो नित्य: शाश्वतोऽयं पुराणो',
       'न हन्यते हन्यमाने शरीरे ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'न जायते म्रियते वा कदाचित्',
       'न अयं भूत्वा भविता वा न भूय: |',
@@ -311,6 +358,9 @@ const verses = [
       'It is not slain when the body is slain.',
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'न = not',
@@ -344,6 +394,8 @@ const verses = [
       'वेदाविनाशिनं नित्यं य एनमजमव्ययम् |',
       'कथं स पुरुष: पार्थ कं घातयति हन्ति कम् ||',
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'वेद अविनाशिनं नित्यं यः एनम् अजम् अव्ययम् |',
       'कथं सः पुरुष: पार्थ कं घातयति हन्ति कम् ||',
@@ -357,6 +409,9 @@ const verses = [
       'O Arjuna, he who knows the Self as indestructible, eternal, unborn, and unchanging — how can that person slay anyone, or cause anyone to be slain?',
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'वेद/वेत्ति = knows - (विद् - 2P - अदादिः - to know - कर्तरि लट् - प्र.पु. - एक.व.)',
@@ -385,6 +440,8 @@ const verses = [
       'तथा शरीराणि विहाय जीर्णा',
       'न्यन्यानि संयाति नवानि देही ||',
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'वासांसि जीर्णानि यथा विहाय',
       'नवानि गृह्णाति नर: अपराणि |',
@@ -401,6 +458,9 @@ const verses = [
       'Just as a person discards old clothes and puts on new ones, so too the embodied Self discards old, worn-out bodies and enters new ones.',
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'वासांसि = clothes',
@@ -428,6 +488,8 @@ const verses = [
       'नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावक:',
       'न चैनं क्लेदयन्त्यापो न शोषयति मारुत: ||',
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'न एनं छिन्दन्ति शस्त्राणि न एनं दहति पावक:',
       'न च एनं क्लेदयन्ति आप: न शोषयति मारुत: ||',
@@ -442,6 +504,9 @@ const verses = [
       'Weapons do not cut this Self, fire does not burn it, water does not wet it, and wind does not dry it.',
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'न = not',
@@ -464,6 +529,8 @@ const verses = [
       'अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च |',
       'नित्य: सर्वगत: स्थाणुरचलोऽयं सनातन: ||',
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'अच्छेद्य: अयम् अदाह्य: अयम् अक्लेद्य: अशोष्य: एव च |',
       'नित्य: सर्वगत: स्थाणु: अचल: अयम् सनातन: ||',
@@ -477,6 +544,9 @@ const verses = [
       'This Self is uncuttable, unburnable, unwettable, and undryable. It is eternal, all-pervading, stable, immovable, and everlasting.',
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'अच्छेद्य: = uncuttable',
@@ -500,6 +570,8 @@ const verses = [
       'अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते |',
       'तस्मादेवं विदित्वैनं नानुशोचितुमर्हसि ||',
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'अव्यक्त: अयम् अचिन्त्य: अयम् अविकार्य: अयम् उच्यते |',
       'तस्मात् एवम् विदित्वा एनम् न अनुशोचितुम् अर्हसि ||',
@@ -514,6 +586,9 @@ const verses = [
       'This Self is said to be unmanifest, inconceivable, and unchanging. Therefore, having understood it thus, you should not grieve for it.',
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'अव्यक्त: = unmanifest / invisible',
@@ -537,6 +612,8 @@ const verses = [
       'अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम् |',
       'तथापि त्वं महाबाहो नैवं शोचितुमर्हसि ||',
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'अथ च एनं नित्यजातं नित्यं वा मन्यसे मृतम् |',
       'तथापि त्वं महाबाहो न एवम् शोचितुम् अर्हसि ||',
@@ -552,6 +629,9 @@ const verses = [
       'But even if you think of this Self as always being born and always dying, even then, O mighty-armed Arjuna, you should not grieve like this.',
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'अथ = but / or',
@@ -578,6 +658,8 @@ const verses = [
       'जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च |',
       'तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि ||',
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'जातस्य हि ध्रुव: मृत्यु:, ध्रुवम् जन्म मृतस्य च |',
       'तस्मात् अपरिहार्ये अर्थे न त्वम् शोचितुम् अर्हसि ||',
@@ -592,6 +674,9 @@ const verses = [
       'For one who is born, death is certain; and for one who has died, birth is certain. Therefore, in a situation that is unavoidable, you should not grieve.',
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'जातस्य = for one who is born',
@@ -619,6 +704,8 @@ const verses = [
       'स्वधर्ममपि चावेक्ष्य न विकम्पितुमर्हसि |',
       'धर्म्याद्धि युद्धाच्छ्रेयोऽन्यत्क्षत्रियस्य न विद्यते ||', 
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'स्वधर्मम् अपि च अवेक्ष्य न विकम्पितुम् अर्हसि |',
       'धर्म्यात् हि युद्धात् श्रेय: अन्यत् क्षत्रियस्य न विद्यते ||', 
@@ -632,6 +719,9 @@ const verses = [
       'Even considering your own duty (as a warrior), you should not waver. For a Kshatriya, there is no greater good than a righteous war.',
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'स्वधर्मम् = one\'s own duty',
@@ -658,6 +748,8 @@ const verses = [
       'यदृच्छया चोपपन्नं स्वर्गद्वारमपावृतम् |',
       'सुखिन: क्षत्रिया: पार्थ लभन्ते युद्धमीदृशम् ||',
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'यदृच्छया च उपपन्नम् स्वर्गद्वारम् अपावृतम् |',
       'सुखिन: क्षत्रिया: पार्थ लभन्ते युद्धम् ईदृशम् ||',
@@ -673,6 +765,9 @@ const verses = [
       'O Partha, happy are the Kshatriyas who get such a battle as this, which comes of its own accord and opens the gates of heaven.',
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'यदृच्छया = by chance / spontaneously',
@@ -695,6 +790,8 @@ const verses = [
       'हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम् |',
       'तस्मादुत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चय: ||',
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'हतः वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम् |',
       'तस्मात् उत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चय: ||',
@@ -710,6 +807,9 @@ const verses = [
       'If slain, you will attain heaven; if victorious, you will enjoy the kingdom on earth. Therefore, O Kaunteya, arise with determination for battle.',
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'हतः = slain',
@@ -734,6 +834,8 @@ const verses = [
       'सुखदु:खे समे कृत्वा लाभालाभौ जयाजयौ |',
       'ततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि ||',
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'सुख-दु:खे समे कृत्वा लाभ-अलाभौ जय-अजयौ |',
       'ततो युद्धाय युज्यस्व न एवम् पापम् अवाप्स्यसि ||',
@@ -748,6 +850,9 @@ const verses = [
       'Treating pleasure and pain, gain and loss, victory and defeat alike, then prepare for battle — thus, you will not incur sin.',
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'सुख = pleasure',
@@ -773,6 +878,8 @@ const verses = [
       'एषा तेऽभिहिता साङ्ख्ये बुद्धिर्योगे त्विमां शृणु |',
       'बुद्ध्या युक्तो यया पार्थ कर्मबन्धं प्रहास्यसि ||',
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'एषा ते अभिहिता साङ्ख्ये बुद्धिः योगे तु इमां शृणु |',
       'बुद्ध्या युक्तः यया पार्थ कर्मबन्धं प्रहास्यसि ||',
@@ -787,6 +894,9 @@ const verses = [
       'So far, I have explained to you this Buddhi (wisdom) in the context of Sankhya (analytical knowledge). Now listen to this in the context of Yoga (action). Indeed, when you are endowed with this wisdom, O Partha, you will be freed from the bondage of action.',
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'एषा = this',
@@ -813,6 +923,8 @@ const verses = [
       'नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते |',
       'स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात् ||',
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'न इह अभिक्रम-नाशः अस्ति प्रत्यवायः न विद्यते |',
       'स्वल्पम् अपि अस्य धर्मस्य त्रायते महतः भयात् ||',
@@ -827,6 +939,9 @@ const verses = [
       'In this path, there is no loss of effort, nor is there any adverse result. Even a little practice of this dharma protects one from great fear.',
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'न = not',
@@ -852,6 +967,8 @@ const verses = [
       'त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन |',
       'निर्द्वन्द्वो नित्यसत्त्वस्थो निर्योगक्षेम आत्मवान् ||',
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'त्रैगुण्य-विषयाः वेदाः निस्त्रैगुण्यः भव अर्जुन |',
       'निर्द्वन्द्वः नित्य-सत्त्व-स्थः निर्योग-क्षेमः आत्मवान् ||',
@@ -865,6 +982,9 @@ const verses = [
       'The Vedas are concerned with the three guṇas, O Arjuna. You become one who is beyond these guṇas, free from the dualities, ever established in purity (sattva), without anxiety for gain and preservation, and self-realized (situated in the self).',
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'त्रैगुण्यविषयाः = concerned with the three gunas (modes of nature)',
@@ -885,6 +1005,8 @@ const verses = [
       'कर्मण्येवाधिकारस्ते मा फलेषु कदाचन |',
       'मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ||',
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'कर्मणि एव अधिकारः ते मा फलेषु कदाचन |',
       'मा कर्मफलहेतुः भूः मा ते सङ्गः अस्तु अकर्मणि ||',
@@ -900,6 +1022,9 @@ const verses = [
       'At any time, Your right is only in action, not in the fruits of action. Do not become the cause of the fruits of action, nor be attached to inaction.',
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'कर्मणि = in action / in your duties',
@@ -923,6 +1048,8 @@ const verses = [
       'योगस्थ: कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय |',
       'सिद्ध्यसिद्ध्यो: समो भूत्वा समत्वं योग उच्यते ||',
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'योगस्थ: कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय |',
       'सिद्धि-असिद्ध्यो: समः भूत्वा समत्वं योगः उच्यते ||',
@@ -937,6 +1064,9 @@ const verses = [
       'O Dhananjaya, perform your duties being established in yoga, abandoning attachment, and remaining equal in success and failure. Such equanimity is called Yoga.',
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'योगस्थः = established in yoga',

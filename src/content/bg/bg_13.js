@@ -7,6 +7,8 @@ const verses = [
       'प्रकृतिं पुरुषं चैव क्षेत्रं क्षेत्रज्ञमेव च |',
       'एतद्वेदितुमिच्छामि ज्ञानं ज्ञेयं च केशव || '
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'तस्मात् असक्तः सततं कार्यं कर्म समाचर |',
       'असक्तः हि आचरन् कर्म परम् आप्नोति पूरुष: ||'
@@ -19,6 +21,9 @@ const verses = [
       "Therefore, always perform your prescribed duty without attachment. For by performing work without attachment, a person attains the supreme goal (liberation)." 
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       "तस्मात् = Therefore",
@@ -54,6 +59,8 @@ const verses = [
       'अध्यात्मज्ञाननित्यत्वं तत्वज्ञानार्थदर्शनम् |',
       'एतज्ज्ञानमिति प्रोक्तमज्ञानं यदतोऽन्यथा || 12 ||',
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'अमानित्वम् अदम्भित्वम् अहिंसा क्षान्तिः आर्जवम् |',
       'आचार्योपासनं शौचं स्थैर्यम् आत्मविनिग्रहः || 8 ||',
@@ -83,6 +90,9 @@ const verses = [
       "Humility, absence of hypocrisy, non-violence, forgiveness, uprightness, service to the teacher, purity, steadfastness, self-control; dispassion toward sense objects, absence of ego; constant reflection on the evils of birth, death, old age, and disease; detachment, absence of clinging to son, wife, and home; equanimity of mind in favorable and unfavorable circumstances; unwavering devotion to Me with undivided focus; love for solitude, disinterest in crowds; constancy in self-knowledge and perception of the goal of true knowledge—this is declared as knowledge, and what is contrary to this is ignorance." 
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       'अमानित्वम् = humility',

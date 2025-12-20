@@ -6,6 +6,8 @@ const verses = [
       'तस्मादसक्त: सततं कार्यं कर्म समाचर |',
       'असक्तो ह्याचरन्कर्म परमाप्नोति पूरुष: ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'तस्मात् असक्तः सततं कार्यं कर्म समाचर |',
       'असक्तः हि आचरन् कर्म परम् आप्नोति पूरुष: ||'
@@ -18,6 +20,9 @@ const verses = [
       "Therefore, always perform your prescribed duty without attachment. For by performing work without attachment, a person attains the supreme goal (liberation)." 
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       "तस्मात् = Therefore",
@@ -45,6 +50,8 @@ const verses = [
       'यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जन: |',
       'स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'यत्-यत् आचरति श्रेष्ठः तत्-तत् एव इतरः जन: |',
       'सः यत् प्रमाणं कुरुते लोकः तत् अनुवर्तते ||'
@@ -57,6 +64,9 @@ const verses = [
       "Whatever actions great persons perform, common people follow. Whatever standards they set, all the world pursues." 
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       "यत् = whatever",
@@ -84,6 +94,8 @@ const verses = [
       'न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन |',
       'नानवाप्तमवाप्तव्यं वर्त एव च कर्मणि ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'न मे पार्थ अस्ति कर्तव्यं त्रिषु लोकेषु किञ्चन |',
       'न अनवाप्तम् अवाप्तव्यं वर्ते एव च कर्मणि ||'
@@ -97,6 +109,9 @@ const verses = [
       "O Pārtha (Arjuna), there is no duty whatsoever for me in all the three worlds. There is nothing unattained or yet to be attained by me. Yet, I remain engaged in action.", 
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       "न (na) = Not",
@@ -122,6 +137,8 @@ const verses = [
       'प्रकृते: क्रियमाणानि गुणै: कर्माणि सर्वश: |',
       'अहङ्कारविमूढात्मा कर्ताहमिति मन्यते ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'प्रकृते: क्रियमाणानि गुणै: कर्माणि सर्वश: |',
       'अहङ्कार-विमूढ-आत्मा कर्ता अहम् इति मन्यते ||'
@@ -134,6 +151,9 @@ const verses = [
       "All actions are performed in every way by the modes (gunas) of material nature (Prakriti). But one whose self is deluded by ego thinks, 'I am the doer.'", 
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       "प्रकृतेः = of Prakriti (material nature)",
@@ -157,6 +177,8 @@ const verses = [
       'तत्त्ववित्तु महाबाहो गुणकर्मविभागयो: |',
       'गुणा गुणेषु वर्तन्त इति मत्वा न सज्जते ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'तत्त्ववित् तु महाबाहो गुण-कर्म-विभागयो: |',
       'गुणाः गुणेषु वर्तन्ते इति मत्वा न सज्जते ||'
@@ -172,6 +194,9 @@ const verses = [
       "O mighty-armed Arjuna, illumined persons distinguish the soul as distinct from guṇas and karmas. They perceive that it is only the guṇas (in the shape of the senses, mind, and others) that move among the guṇas (in the shape of the objects of perception), and thus they do not get entangled in them.",
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       "तत्त्ववित् = one who knows the truth",
@@ -194,6 +219,8 @@ const verses = [
       'मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा |',
       'निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वर: ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'मयि सर्वाणि कर्माणि संन्यस्य अध्यात्म-चेतसा |',
       'निराशीः निर्ममः भूत्वा युध्यस्व विगतज्वर: ||'
@@ -208,6 +235,9 @@ const verses = [
       "Surrendering all actions to Me (Performing all works as an offering unto Me), with your mind focused on the Self, free from desires and the sense of ownership, and with your mental grief departed, fight!",
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       "मयि = in Me (Krishna, the Supreme Lord)",
@@ -231,6 +261,8 @@ const verses = [
       'ये मे मतमिदं नित्यमनुतिष्ठन्ति मानवा: |',
       'श्रद्धावन्तोऽनसूयन्तो मुच्यन्ते तेऽपि कर्मभि: ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'ये मे मतम् इदं नित्यम् अनुतिष्ठन्ति मानवाः |',
       'श्रद्धावन्तः अनसूयन्तः मुच्यन्ते ते अपि कर्मभिः ||'
@@ -245,6 +277,9 @@ const verses = [
       "Those human beings who consistently follow this teaching of Mine with faith and without envy, they too are freed from the bondage of actions.",
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       "ये = those who",
@@ -269,6 +304,8 @@ const verses = [
       'ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम् |',
       'सर्वज्ञानविमूढांस्तान्विद्धि नष्टानचेतस: ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'ये तु एतत् अभ्यसूयन्तः न अनुतिष्ठन्ति मे मतम् |',
       'सर्वज्ञानविमूढान् तान् विद्धि नष्टान् अचेतसः: ||'
@@ -282,6 +319,9 @@ const verses = [
       "But those who, out of envy, do not follow this teaching of Mine—know them to be deluded of all knowledge, devoid of discernment, and doomed to ruin.",
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       "ये = those who",
@@ -307,6 +347,8 @@ const verses = [
       'श्रेयान्स्वधर्मो विगुण: परधर्मात्स्वनुष्ठितात् |',
       'स्वधर्मे निधनं श्रेय: परधर्मो भयावह: ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'श्रेयान् स्वधर्मः विगुणः परधर्मात् सु-अनुष्ठितात् |',
       'स्वधर्मे निधनम् श्रेयः परधर्मः भयावहः ||'
@@ -321,6 +363,9 @@ const verses = [
       "Better is one's own duty, though imperfect, than the well-performed duty of another. Death in the course of one's own duty is better; the duty of another is fraught with fear.",
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       "श्रेयान् = better - (श्रेयस् - पुं - प्रथमा - एक.व. - द्वाभ्याम् अधिकं कल्याणकारी)",
@@ -343,6 +388,8 @@ const verses = [
       'अथ केन प्रयुक्तोऽयं पापं चरति पूरुष: |',
       'अनिच्छन्नपि वार्ष्णेय बलादिव नियोजित: ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'अर्जुन उवाच',
       'अथ केन प्रयुक्तः अयं पापं चरति पूरुष: |',
@@ -361,6 +408,9 @@ const verses = [
       "O Krishna (O descendant of Vrishni), by what is a person impelled to commit sin, even against his will, as if driven by force?",
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       "अथ = but / then",
@@ -386,6 +436,8 @@ const verses = [
       'काम एष क्रोध एष रजोगुणसमुद्भव: ||',
       'महाशनो महापाप्मा विद्ध्येनमिह वैरिणम् ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'श्रीभगवानुवाच',
       'कामः एषः क्रोधः एषः रजोगुण-समुद्भव: ||',
@@ -402,6 +454,9 @@ const verses = [
       "It is desire — it is anger — born of the mode of passion (rajas); Know this as the great devourer, the great sinner; know this as the enemy here (in this world)."
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       "कामः = desire / lust",
@@ -423,6 +478,8 @@ const verses = [
       'धूमेनाव्रियते वह्निर्यथादर्शो मलेन च |',
       'यथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम् ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'धूमेन आव्रियते वह्निः यथा आदर्शः मलेन च |',
       'यथा उल्बेन आवृतः गर्भः तथा तेन इदम् आवृतम् ||'
@@ -439,6 +496,9 @@ const verses = [
       "Just as fire is covered by smoke, a mirror by dust, and a fetus by the womb, so is this (wisdom) covered by that (desire).",
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       "धूमेन = by smoke",
@@ -464,6 +524,8 @@ const verses = [
       'आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा |',
       'कामरूपेण कौन्तेय दुष्पूरेणानलेन च ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'आवृतं ज्ञानम् एतेन ज्ञानिनः नित्यवैरिणा |',
       'कामरूपेण कौन्तेय दुष्पूरेण अनलेन  च ||'
@@ -477,6 +539,9 @@ const verses = [
       "O Arjuna, the knowledge of the wise is covered by this eternal enemy in the form of desire, which is insatiable and like a consuming fire.",
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       "आवृतम् = covered",
@@ -498,6 +563,8 @@ const verses = [
       'इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते |',
       'एतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम् ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'इन्द्रियाणि मनः बुद्धिः अस्य अधिष्ठानम् उच्यते |',
       'एतैः विमोहयति एषः ज्ञानम् आवृत्य देहिनम् ||'
@@ -510,6 +577,9 @@ const verses = [
       "The senses, the mind, and the intellect are said to be its (desire's) seat. Through these, it deludes the embodied being by covering knowledge.",
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       "इन्द्रियाणि = the senses",
@@ -533,6 +603,8 @@ const verses = [
       'तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ |',
       'पाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम् ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'तस्मात् त्वम् इन्द्रियाणि आदौ नियम्य भरतर्षभ |',
       'पाप्मानं प्रजहि हि एनं ज्ञान-विज्ञान-नाशनम् ||'
@@ -548,6 +620,9 @@ const verses = [
       "Therefore, O Arjuna, first control the senses and slay this sinful one (desire), which is the destroyer of both knowledge and realization.",
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       "तस्मात् = therefore",
@@ -572,6 +647,8 @@ const verses = [
       'इन्द्रियाणि पराण्याहुरिन्द्रियेभ्य: परं मन: |',
       'मनसस्तु परा बुद्धिर्यो बुद्धे: परतस्तु स: ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'इन्द्रियाणि पराणि आहु: इन्द्रियेभ्य: परं मन: |',
       'मनस: तु परा बुद्धि: य: बुद्धे: परत: तु स: ||'
@@ -586,6 +663,9 @@ const verses = [
       "The senses are said to be superior (to the body), but higher than the senses is the mind. Higher than the mind is the intellect, and beyond the intellect is That (the Self).",
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       "इन्द्रियाणि = the senses",
@@ -611,6 +691,8 @@ const verses = [
       'एवं बुद्धे: परं बुद्ध्वा संस्तभ्यात्मानमात्मना |',
       'जहि शत्रुं महाबाहो कामरूपं दुरासदम् ||'
     ],
+    sloka_tel : [
+    ],
     vicheda : [
       'एवं बुद्धे: परं बुद्ध्वा संस्तभ्य आत्मानम् आत्मना |',
       'जहि शत्रुं महाबाहो कामरूपं दुरासदम् ||'
@@ -625,6 +707,9 @@ const verses = [
       "Thus, knowing the Self to be higher than the intellect, and restraining the lower self by the higher self, slay the enemy in the form of desire, O mighty-armed Arjuna — this enemy is very difficult to conquer.",
     ],
     essence : [],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes   : [
       "एवम् = thus",
