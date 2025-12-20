@@ -29,7 +29,7 @@ const verses = [
         "O virtuous son of Kausalya(Sri Rama)! Sun is rising in the east. O tiger among men! please wake up, as the daily divine duties should be performed.",
       ],
       essence_tel: [
-          "కౌసల్యాదేవికి సుపుత్రుడవగు ఓ రామా! పురుషోత్తమా! తూర్పు తెల్లవారుచున్నది. దైవ సంబంధములైన ఆహ్నికములను చేయవలసియున్నది. కావున లెమ్ము.",
+          "కౌసల్యకు పుట్టిన ఓ ఉత్తమ కుమారుడా (శ్రీరామా)! తూర్పున సూర్యోదయం అవుతోంది. పురుషోత్తమా! నిద్ర మేలుకో, నిత్యం చేయవలసిన దైవ కార్యాలను నిర్వహించవలసి ఉంది.",
       ],
       meanings: [
           "कौसल्या = Kausalya",
