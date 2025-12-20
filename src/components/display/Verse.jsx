@@ -28,6 +28,10 @@ const Verse = ({ verse, type, compact }) => {
           <Section type="sloka" lines={verse.sloka} />          
           <Section type="essence" lines={verse.essence} />
         </div>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4 mt-4">       
+          <Section type="sloka_tel" lines={verse.sloka_tel} />
+          <Section type="essence_tel" lines={verse.essence_tel} />
+        </div>
         <div className="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-1 gap-4 mt-4">
           <Section type="vicheda" lines={verse.vicheda} />
         </div>

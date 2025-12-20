@@ -6,10 +6,12 @@ const Section = ({type, lines, compact, ch_num, verse_num}) => {
     let heading = '';
     switch(type){
         case "sloka":   heading = "श्लोकः"; break;
+        case "sloka_tel":   heading = "శ్లోకం"; break;
         case "vicheda": heading = "पदच्छेदः"; break;
         case "anvaya":  heading = "अन्वयक्रम:"; break;
         case "transl":  heading = "Anvaya: "; break;
         case "essence": heading = "Translation: "; break;
+        case "essence_tel": heading = "అనువాదం"; break;
         case "meanings":heading = "Meanings: "; break;
         case "notes":   heading = "Notes: "; break;
         default:        heading = "";

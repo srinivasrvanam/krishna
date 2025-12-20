@@ -32,6 +32,9 @@ const verses = [
     essence: [
       "O Lord of Venkatachala! O Lord! the one whose blue-complexioned body is reddended due to kumkuma from the vakshasthala of Mother Lakshmi, who has lotus-like eyes, who is the lord of the worlds. May you be ever victorious.",
     ],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes: [
       "कमला = Mother Lakshmi",
@@ -86,6 +89,9 @@ const verses = [
     essence: [
       "O Lord of Vrusha shaila (Venkateswara), O Lord, one who is a crest jewel among the best of all devatas (including Brahma, Subrahmanya, Lord Siva), who is so compassionate to the refugees, who is a treasure of all the essence. Please protect me.",
     ],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes: [
       "स = सह",
@@ -136,6 +142,9 @@ const verses = [
     ],
     essence: [
       "O Lord Venkateswara! O Hari! With your utmost compassion, please quickly protect me, who is filled with hundreds of unbearable offenses committed consistently again and again.",
+    ],
+    essence_tel: [
+      "",
     ],
     meanings: [],
     notes: [
@@ -190,6 +199,9 @@ const verses = [
     essence: [
       "I do not consider anyone Supreme other than Lord Venkateswara who resides on Venkatachala, who has a generous nature, who blesses devotees with more than what they wish for, who is proclaimed as the Supreme Lord by Vedas and by Devatas, and who is the husband of Mother Lakshmi.",
     ],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes: [
       "अधि-वेङ्कट-शैलम्-उदार-मतेः = पञ्चमी.वि. = from the one who resides on Venkata Chala and Generous",
@@ -240,6 +252,9 @@ const verses = [
     ],
     essence: [
       "I do not consider anyone Supreme other than Lord Krishna (Venkateswara), who is surrounded by hundreds of crores of Gopikas who are enchanted by the music from his flute, whose beauty is equal to that of crores of Manmathas, who is in the hearts of each and every gopika, who is giver of happiness, and the son of Vasudeva.",
+    ],
+    essence_tel: [
+      "",
     ],
     meanings: [],
     notes: [
@@ -312,6 +327,9 @@ const verses = [
     essence: [
       "O Lord Rama (Lord Venkateswara) ! O Lord! the one who gives extreme bliss, who is a repository of noble qualities, who is son of Dasaratha, who is an only wielder of the bow, who has a courageous mind, who is the leader of Raghu dynasty, who is all pleasing, who is the Lord of Ramaa (Lakshmi), who is all pervading one, and who is an ocean of compassion. Please become a boon giver.",
     ],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes: [
       "अभिराम = extremely charming/delightful/pleasing",
@@ -369,6 +387,9 @@ const verses = [
     ],
     essence: [
       "I take refugee in Lord Sri Rama (Venkateswara), who is pleasing to Mother Sita, who has a lotus face as beautiful as the moon, who removes darkness of Ravana like the Sun, who is worthy of worship, and who belongs to Raghu dynasty.",
+    ],
+    essence_tel: [
+      "",
     ],
     meanings: [],
     notes: [
@@ -441,6 +462,9 @@ const verses = [
     essence: [
       "I do not worship any other devata at any time in any way, having left, Lord Sri Rama (Venkateswara) who is the best of Raghu dynasty, who has a beautiful face and a good heart, who has great brothers, who has a good body, who arrows never go in vain.",
     ],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes: [
       "अहं = I",
@@ -496,6 +520,9 @@ const verses = [
     essence: [
       "I do not have any other master other than Lord Venkateswara. I always remember Lord Venkateswara. O Lord Hari! O Lord Venkatesa! please become pleased by me. O Lord Venkatesa! please bestow your love and grace upon me.",
     ],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes: [
       "प्रसीद = प्र + सद् (सुखी होना) - कर्तरि लोट् - (परस्मै) - म.पु. - एक.व. = Please become pleased - (सद् - 1P - भ्वादिः - to dry up/lose power - सीदन्ति मम गात्राणि - BG 1.28)",
@@ -536,6 +563,9 @@ const verses = [
     essence: [
       "O Lord Venkatesa! By the desire of worshipping your lotus feet, having come from distance, I am serving you. By this one-time service, you please bestow upon me the result of serving you eternally.",
     ],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes: [
       "अम्भोज = lotus = borm from water (अम्भः = जलं - water)",
@@ -571,6 +601,9 @@ const verses = [
     ],
     essence: [
       "O Lord Hari! O Lord Venkatesa! Please forgive all the faults committed by (ignorant) me.",
+    ],
+    essence_tel: [
+      "",
     ],
     meanings: [],
     notes: [],

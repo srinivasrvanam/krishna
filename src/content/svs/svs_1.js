@@ -28,6 +28,9 @@ const verses = [
       essence: [
         "O virtuous son of Kausalya(Sri Rama)! Sun is rising in the east. O tiger among men! please wake up, as the daily divine duties should be performed.",
       ],
+      essence_tel: [
+          "",
+      ],
       meanings: [
           "कौसल्या = Kausalya",
           "सुप्रजा = virtuous son",
@@ -84,6 +87,9 @@ const verses = [
       ],
       essence: [
         "O Govinda! please wake up, please wake up. O Garudadwaja (with Garuda in his flag)! please wake up. O Kamalaa Kantha (beloved of Mother Lakshmi)! please wake up, and grant auspiciousness to all the three worlds.",
+      ],
+      essence_tel: [
+          "",
       ],
       meanings: [],
       notes: [
@@ -143,6 +149,9 @@ const verses = [
       essence: [
         "May it be an auspicious morning to you, O Mother Lakshmi, who is the Mother of all the worlds (entire universe), who playfully resides within the heart of Govinda (slayer of Madhu and Kaitaba), who has beautiful divine form, who is the Goddess of wealth, one whose nature is to give benedictions (fulfill desires) to those devotees who takes refuge, beloved wife of Sri Venkatesa.",
       ],
+      essence_tel: [
+          "",
+      ],
       meanings: [],
       notes: [
           "समस्त-जगताम् = जगत् (नपुंसक - world) - षष्ठी.वि. - बहु.व.",
@@ -201,6 +210,9 @@ const verses = [
       essence: [
         "May it be an auspicious morning to you, O Mother Lakshmi, whose eyes are lotus-like, whose face is as pleasant as the full moon, who is worshipped by the wives of Brahma (Saraswati), Shiva (Parvati), and Indra (Sachi Devi), who is the treasure of mercy, beloved wife of the Lord of Vrusha hill.",
       ],
+      essence_tel: [
+          "",
+      ],
       meanings: [],
       notes: [
           "समासाः = TO-DO",
@@ -250,6 +262,9 @@ const verses = [
       essence: [
         "May it be an auspicious morning to you, O Lord of Sheshadri! The seven sages (Atri maharshi and others), having worshipped the dawn (performed the morning rituals), and having taken the beautiful lotuses from the celestial Ganga, have come to worship your feet.",
       ],
+      essence_tel: [
+          "",
+      ],
       meanings: [],
       notes: [
         "आदाय = having taken - 'ल्यप्'",
@@ -296,6 +311,9 @@ const verses = [
       ],
       essence: [
         "May it be an auspicious dawn (morning) to you, O Lord of Sheshadri! The gods like Lord Shiva (five-faced god), Brahma, Shanmukha (Subrahmanya/Kartikeya), Indra and others praise your pastimes like Trivikrama (Vamana Avatara) etc. The god of speech (Deva guru/Brihaspati) recites the auspiciousness of the day.",
+      ],
+      essence_tel: [
+          "",
       ],
       meanings: [],
       notes: [
@@ -353,6 +371,9 @@ const verses = [
       ],
       essence: [
         "May it be an auspicious dawn (morning) to you, O Lord of Sheshadri! The wind (gentle breeze), carrying the divine fragrance of beautiful plants like (slightly bloomed lotuses, coconut trees, betel nut trees etc) blows gently.", 
+      ],
+      essence_tel: [
+          "",
       ],
       meanings: [],
       notes: [
@@ -416,6 +437,9 @@ const verses = [
       essence: [
         "May it be an auspicious dawn (morning) to you, O Lord of Sheshadri! Now, The Parrots (kept in the best cages), having opened their eyes, having playfully eaten the leftover bananas and sweet rice in their bowls, are singing (your names).",
       ],
+      essence_tel: [
+          "",
+      ],
       meanings: [],
       notes: [
         "अथ = now (अव्ययम्)",
@@ -478,6 +502,9 @@ const verses = [
       essence: [
         "May it be an auspicious dawn (morning) to you, O Lord of Sheshadri! Devarshi Narada also (with the sweet sound produced by pulling strings of his Veena) (beautifully waving his hand often), is singing your infinite pastimes (expressed in fine language).",
       ],
+      essence_tel: [
+          "",
+      ],
       meanings: [],
       notes: [
           "तन्त्री = strings of वीणा",
@@ -539,6 +566,9 @@ const verses = [
       ],
       essence: [
         "May it be an auspicious dawn (morning) to you, O Lord of Sheshadri! The swarm of bees filled with the nectar of flowers, with the sweet sounds of buzzing music, for the purpose of serving (you), are coming out of the lotus flowers in the nearby lakes.",
+      ],
+      essence_tel: [
+          "",
       ],
       meanings: [],
       notes: [
@@ -605,6 +635,9 @@ const verses = [
       essence: [
         "May it be an auspicious dawn (morning) to you, O Lord of Sheshadri! The loud noises of churning curd in the goshalas by the gopikas, while churning curd, appear as if the directions of space (Kakubhah) and the clay pots (Kumbha) are engaged in a battle due to anger.",
       ],
+      essence_tel: [
+          "",
+      ],
       meanings: [],
       notes: [
           "योषा = a young women (cowherd girl)",
@@ -666,6 +699,9 @@ const verses = [
       ],
       essence: [
         "May it be an auspicious dawn (morning) to you, O Lord of Sheshadri! The swarm of bees (friends of lotus) within the 100 petaled lotuses, to steal the beauty of the blue water lily (kuvalaya) with their own beauty, are making a loud noise, like the sound of kettle drum (bheri).",
+      ],
+      essence_tel: [
+          "",
       ],
       meanings: [],
       notes: [
@@ -734,6 +770,9 @@ const verses = [
       essence: [
         "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! One who is possessor of Sri (wealth, prosperity, beauty), who is bestower of desired boons, who is the friend of all the worlds (the entire universe), who is the abode of Sri (Mother Lakshmi), who is the only ocean of compassion in the world, whose chest (Vakshasthala) is the abode of Mother Lakshmi, who has the divine form.",
       ],
+      essence_tel: [
+          "",
+      ],
       meanings: [],
       notes: [
           "श्रीमन् = श्रीमान् (श्रीमत् - पुं) - सं.प्रथमा.वि. - एक.व.",
@@ -787,6 +826,9 @@ const verses = [
       ],
       essence: [
         "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! Lord Shiva, Brahma, Sanandana, and others having pure bodies after bathing in the Swami Pushkarini, are standing at your door, seeking prosperity, with their heads bowed.",
+      ],
+      essence_tel: [
+          "",
       ],
       meanings: [],
       notes: [
@@ -843,6 +885,9 @@ const verses = [
       essence: [
         "O Lord of Venkatachala! May it be an auspicious dawn (morning) to you. Sheshaadri, Garudaadri, Venkataadri, Narayanaadri, Vrishabhaadri, and Vrishaadri are always spoken of as places where you reside.",
       ],
+      essence_tel: [
+          "",
+      ],
       meanings: [],
       notes: [
           "आख्यां = आख्या (आख्या - स्त्री - to tell/inform/declare - called) - द्वितीया - एक.व.",
@@ -893,6 +938,9 @@ const verses = [
       ],
       essence: [
         "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! Lord Shiva, Indra, Agni, Yama, Nirruti (God of Southwest direction), Varuna, Vayu, Kubera are engaged in your service, with folded hands, shining, and with their heads bowed down to the ground.",
+      ],
+      essence_tel: [
+          "",
       ],
       meanings: [],
       notes: [
@@ -959,6 +1007,9 @@ const verses = [
       essence: [
         "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! The king of birds (Garuda), the king of animals (Simha), the king of serpents (Adishesha), the king of elephants (Airavatha), and the king of horses(Ucchaisravas) are seeking your blessings for increasing their own authority and greatness.",
       ],
+      essence_tel: [
+          "",
+      ],
       meanings: [],
       notes: [
           "विहगराज = King of Birds, Garuda",
@@ -1017,6 +1068,9 @@ const verses = [
       ],
       essence: [
         "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! The Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu, and Ketu, the chief among the celestial beings are the servants of your servants's servants.",
+      ],
+      essence_tel: [
+          "",
       ],
       meanings: [],
       notes: [
@@ -1083,6 +1137,9 @@ const verses = [
       essence: [
         "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! Those devotees whose heads are filled with the dust of your feet, and are not inclined for heaven and liberation, (but your service) are attaining the feeling of perplexity(confusion) by the counting of the coming of the next Kalpa.",
       ],
+      essence_tel: [
+          "",
+      ],
       meanings: [],
       notes: [
           "भरित = filled with",
@@ -1146,6 +1203,9 @@ const verses = [
       essence: [
         "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! Those mortals who are serving highest positions in heaven, having seen the tops of your temple towers, are attracted to the material world(earth).", 
       ],
+      essence_tel: [
+          "",
+      ],
       meanings: [],
       notes: [
           "निरीक्षमाणाः = निर्-ईक्षमाणः - (पुं) - (ईक्ष् - 1A - to see/perceive - शानच्) = while seeing - (निर् doesn't change meaning here)",
@@ -1206,6 +1266,9 @@ const verses = [
       ],
       essence: [
         "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! O Lord! the One who is the husband of Sri Devi (Mother Lakshmi) and Bhu Devi (Mother Earth), who is an ocean of mercy and other virtues, who is the God of the Gods, who is the only refuge of the world, who is the lord of prosperity, whose feet are worshipped by Ananta, Garuda, and others,",
+      ],
+      essence_tel: [
+          "",
       ],
       meanings: [],
       notes: [
@@ -1272,6 +1335,9 @@ const verses = [
       essence: [
         "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! O Lord! The one who has a lotus in his navel (Padmanabha), who is the Supreme Person (Purushottama), who is omni-present (Vasudeva), who is resident of Vaikuntha (the abode of Vishnu), who is husband of Mother Lakshmi (Madhava), who is Janardana, who is the wielder of the Discus (Chakrapani), who has the mark of Srivatsa on his chest, who is the divine tree (Parijata) for those who have taken refuge in him.",
       ],
+      essence_tel: [
+          "",
+      ],
       meanings: [],
       notes: [
           "वैकुण्ठ = विष्णुः = विकुण्ठायां भवः",
@@ -1323,6 +1389,9 @@ const verses = [
       ],
       essence: [
         "May it be an auspicious dawn (morning) to you. O Lord of Venkatachala! O Lord! One whose divine form vanquishes the pride of Cupid (Kandarpa), whose gaze (दृष्टि) is eagerly fixed (लोल) on the lotus-like (अम्बुरुह) budding vakshastala (कुच-कुड्मल) of his beloved Lakshmi (कान्ता), who is the embodiment (आकर) of auspicious (कल्याण), pure (निर्मल), and virtuous (गुण) qualities, possessing a divine reputation (दिव्यकीर्ति).",
+      ],
+      essence_tel: [
+          "",
       ],
       meanings: [],
       notes: [
@@ -1393,6 +1462,9 @@ const verses = [
       essence: [
         "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! O Lord! who incarnated as Matsya, Kurma, Varaha(Kola), Narasimha, Parashurama, Vamana, Ramachandra, Balarama(Adishesha), Krishna, and Kalki.",
       ],
+      essence_tel: [
+          "",
+      ],
       meanings: [],
       notes: [
           "मीन-आकृते = रूपं",
@@ -1459,6 +1531,9 @@ const verses = [
       essence: [
         "May it be an auspicious dawn (morning) to you, O Lord of Venkata! The highly delighted (प्रहृष्टाः) foremost (आद्य) scholars of the Vedas (वैदिक-शिखामणयः) are standing (तिष्ठन्ति) (at your door) holding (धृत्वा) golden pots (हेम-घटेषु) filled (पूर्णम्) with divine (दिव्यं) water (तीर्थं) from the celestial river (वियत्-सरिति / akasa ganga).",
       ],
+      essence_tel: [
+          "",
+      ],
       meanings: [],
       notes: [
           "एला = Cardamom",
@@ -1523,6 +1598,9 @@ const verses = [
       ],
       essence: [
         "May it be an auspicious dawn (morning) to you, O Lord of Venkata! The sun is rising, the lotuses are blooming, and the birds are filling the directions with their songs. The Sri Vaishnavas, who always seek your auspiciousness, are taking shelter at your abode.",
+      ],
+      essence_tel: [
+          "",
       ],
       meanings: [],
       notes: [
@@ -1594,6 +1672,9 @@ const verses = [
       essence: [
         "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! Gods like, Brahma and others, along with Maharshis; Saints like Sanandana and the best of Yogis; have come (आगताः) to your abode (धाम अन्तिके) with auspicious items in their hands (मङ्गल-वस्तु-हस्ताः).",
       ],
+      essence_tel: [
+          "",
+      ],
       meanings: [],
       notes: [
           "अथ = now - an auspicious and inceptive particle (not easily expressed in English)",
@@ -1664,6 +1745,9 @@ const verses = [
       essence: [
         "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! O Lord! One who is abode of Mother Lakshmi, who is an ocean of unblamable qualities, who is the only bridge to cross the ocean of samsara, who is known through Vedas and Upanishads, who is eternally Glorious, who is enjoyed by devotees.",
       ],
+      essence_tel: [
+          "",
+      ],
       meanings: [],
       notes: [
           "लक्ष्मी-निवास = O, one who is abode of Lakshmi",
@@ -1719,6 +1803,9 @@ const verses = [
       ],
       essence: [
           "Thus, this suprabhatham of Lord Venkateswara gives rise to supreme wisdom (that makes liberation easily attainable) in those hearts, who are engaged in worshipping Lord Venkateswara with mind and body, by reciting it everyday in the morning (dawn).",
+      ],
+      essence_tel: [
+          "",
       ],
       meanings: [],
       notes: [

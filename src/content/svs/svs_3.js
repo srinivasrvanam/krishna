@@ -47,6 +47,9 @@ const verses = [
     essence: [
       "I offer my obiesances to Bhagavati Sri Lakshmi, who is the Lord of this universe, who is the supreme beloved of Lord Venkateswara, who takes delight in residing in his heart, who increases his patience, whose hands are decorated with lotuses, who is seated on lotus throne, who shines with qualities like motherly affection, and the mother of the universe.",
     ],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes: [
       "अस्य जगतः = of this world",
@@ -116,6 +119,9 @@ const verses = [
     essence: [
       "O Lord Venkateswara! the one who is opulent, ocean of compassion, creator of all worlds, omniscient, omnipotent, compassionate towards the humble, the essence of the universe, the master, good natured, easily attainable, wish fulfilling tree of the one who take refuge. I take refuge (completely surrender) at your lotus feet.",
     ],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes: [
       "श्रीमन् = O Lord of great fortune (possessor of Lakshmi)",
@@ -174,6 +180,9 @@ const verses = [
     essence: [
       "I take refuge at the lotus feet of Lord Venkateswara, which give fragrance to the fragrant flowers offered near the anklets, that appear symmetrical, that are gentle, that give fresh experience even though are experienced constantly.",
     ],
+    essence_tel: [
+      "",
+    ],
     meanings: [],
     notes: [
       "आनूपुर = Near the anklets",
@@ -225,6 +234,9 @@ const verses = [
     ],
     essence: [
       "I take refuge at the lotus feet of Lord Venkateswara, which are supremely beautiful beyond comparison to the freshly bloomed fragrant deep red lotuses, in the perfect and courageous steps.",
+    ],
+    essence_tel: [
+      "",
     ],
     meanings: [
       "सद्यः-विकासि = Instantly blooming",
@@ -278,6 +290,9 @@ const verses = [
     essence: [
       "I take refuge at the lotus feet of Lord Venkateswara, which are decorated with divine and auspicious symbols like: lines, flag, amritha kalasham, umbrella, thunderbolt (vajra), goad (ankusham), lotus, kalpa vriksha, shankam and chakram.",
     ],
+    essence_tel: [
+      "",
+    ],
     meanings: [
       "भव्यैः = auspicious",
       "परतत्त्व-चिन्हैः = with symbols representing the supreme truth",      
@@ -330,6 +345,9 @@ const verses = [
     essence: [
       "I take refuge at the lotus feet of Lord Venkateswara, that have the luster of a red lotus gem (Padmarāga), surpassing the radiance of copper interiors; that by their external brilliance, surpassing the radiance of the great Indra Nīla (blue sapphire); that with rising brilliance from the toenails, shining like the raised radiance of the full moon.",
     ],
+    essence_tel: [
+      "",
+    ],
     meanings: [
       "ताम्र (tāmra) = Copper",
       "उदर (udara) = Belly, interior, or core",
@@ -381,6 +399,9 @@ const verses = [
     ],
     essence: [
       "I take refuge at the lotus feet of Lord Venkateswara, that experience fatigue even with the gentle massage by hands of Mother Lakshmi done with love and fear; whose delicacy is beyond comprehension for even Mother Lakshmi's mind and speech.",
+    ],
+    essence_tel: [
+      "",
     ],
     meanings: [
       "स-प्रेम-भीति = With both love and reverence (mixed with slight fear)",
@@ -436,6 +457,9 @@ const verses = [
     ],
     essence: [
       "I take refuge at the lotus feet of Lord Venkateswara, that turned red due to the transfer of redness of the finger tips of his divine consorts like Mother Lakshmi, Mother Bhudevi, Mother Nila Devi and others.",
+    ],
+    essence_tel: [
+      "",
     ],
     meanings: [
       "लक्ष्मी = Goddess Lakshmi",
@@ -498,6 +522,9 @@ const verses = [
     ],
     essence: [
       "I take refuge at the lotus feet of Lord Venkateswara, that appear magnificient in the process of Arati, by the light emanating from countless embedded shining navaratna crowns of Brahma, Lord Shiva, and other gods, as they eternally bow before him.",
+    ],
+    essence_tel: [
+      "",
     ],
     meanings: [
       "नित्य = Always, eternally",
@@ -562,6 +589,9 @@ const verses = [
     ],
     essence: [
       "I take refuge at the lotus feet of Lord Venkateswara, that (Lord Vishnu's feet) are glorified as Supreme, that are considered a spring of nectar as they are an enjoyment to devotees, and also, that are indicated by your own palm.",
+    ],
+    essence_tel: [
+      "",
     ],
     meanings: [
       "विष्णोः = Of Lord Vishnu",
@@ -631,6 +661,9 @@ const verses = [
     essence: [
       "I take refuge at the lotus feet of Lord Venkateswara, that you have revealed to Arjuna instructing him to take refugee, similarly, now you are showing them to me.",
     ],
+    essence_tel: [
+      "",
+    ],
     meanings: [
       "पार्थाय = To Arjuna",
       "तत्सदृश = तत्-सदृश = Similar to that (to what was shown in the previous example)",
@@ -692,6 +725,9 @@ const verses = [
     ],
     essence: [
       "I take refuge at the lotus feet of Lord Venkateswara, that are uniformly established on my head, on serpent Kaliya, in the dense forests, on the crest of Venkatachala, on the head of Vedas, and also in the minds of unwavering devotees.",
+    ],
+    essence_tel: [
+      "",
     ],
     meanings: [
       "मन्मूर्ध्नि = On my head",
@@ -757,6 +793,9 @@ const verses = [
     essence: [
        "I take refuge at your lotus feet, O Lord Venkateswara!, that appear like unfading flowers spread on the surface of the earth giving joy, that are considered an ornament to the peak of Venkatadri mountain, that delight minds and eyes of all devotees.",
     ],
+    essence_tel: [
+      "",
+    ],
     meanings: [
       "अम्लान = Unfading, ever-fresh",
       "हृष्यत् = Thrilling with joy, delighted",
@@ -820,6 +859,9 @@ const verses = [
     ],
     essence: [
       "I take refuge at your lotus feet, O Lord Venkateswara!, that are primary refuge for those surrendered devotees; that appear like nectar to devotees for spiritual nourishment, as if mother's breast to an infant for nourishment; that appear equal to eyes, yet incomparable in their spiritual significance.",
+    ],
+    essence_tel: [
+      "",
     ],
     meanings: [
       "प्रायः = Generally, usually",
@@ -889,6 +931,9 @@ const verses = [
     essence: [
       "I take refuge at your lotus feet, O Lord Venkateswara!, that are revealed to me by the kind sage, who is virtuous, always worshipping you, and whose glance helps cross the worldly existence.",
     ],
+    essence_tel: [
+      "",
+    ],
     meanings: [
       "सत्त्वोत्तरैः = By those of superior purity (highly virtuous beings)",
       "सतत = Constantly",
@@ -951,6 +996,9 @@ const verses = [
     ],
     essence: [
       "O Lord of Tirupati, the consort of Śrī! May I become a servant for You—who are possessed of flawless qualities and eternally depended upon—and not for my own sake. This is because You are the ultimate goal (Upeya) who manifests spontaneously, while the Goddess Śrī serves as the intermediary (Ghaṭikā) and means (Upāya) by which one reaches You.",
+    ],
+    essence_tel: [
+      "",
     ],
     meanings: [
       "श्रीश = O Lord of Śrī (Vishnu, Venkatesha)",

@@ -34,6 +34,9 @@ const verses = [
     essence: [
       "May auspiciousness be upon Śrīnivāsa, who is the beloved consort of Lakṣmī, who is the treasure-house of  all auspiciousness, who is the refuge of all seekers, who resides in Venkata (Tirumala), and who is the  eternal abode of Lakṣmī Herself!",
     ],
+    essence_tel: [
+      "",
+    ],
     meanings: [
       "श्रियः = Of Lakṣmī (Goddess of wealth and prosperity)",
       "कान्ताय = To the beloved consort (of Lakṣmī)",
@@ -78,6 +81,9 @@ const verses = [
     ],
     essence: [
       "May auspiciousness be upon Lord Venkateswara, whose enchanting eyes captivate even Lakṣmī, whose playful glances charm the Goddess with Her beautiful eyebrows, and who is the divine eye (protector) of all the worlds!",
+    ],
+    essence_tel: [
+      "",
     ],
     meanings: [
       "लक्ष्मी = Goddess Lakṣmī",
@@ -124,6 +130,9 @@ const verses = [
     essence: [
       "May auspiciousness be upon Śrīnivāsa, whose holy feet are the greatest ornaments adorning the summit of Venkatachala, and who is the very abode of all auspiciousness!",
     ],
+    essence_tel: [
+      "",
+    ],
     meanings: [
       "श्रीवेङ्कट = Of the sacred Venkata (Tirumala)",
       "अद्रि = Mountain",
@@ -169,6 +178,9 @@ const verses = [
     ],
     essence: [
       "May auspiciousness be upon Lord Venkatesha, who eternally captivates the hearts of all beings (with the supreme beauty of all His limbs)!",
+    ],
+    essence_tel: [
+      "",
     ],
     meanings: [
       "सर्व = All, every",
@@ -219,6 +231,9 @@ const verses = [
     ],
     essence: [
       "May auspiciousness be upon Śrī Venkatesha, who is eternal, flawless, and the supreme conciousness of truth, bliss and knowledge, who is the indwelling soul of all beings!",
+    ],
+    essence_tel: [
+      "",
     ],
     meanings: [
       "नित्याय = To the eternal one",
@@ -277,6 +292,9 @@ const verses = [
     essence: [
       "May auspiciousness be upon Lord Venkatesha, who is omniscient by His very nature, who is all-powerful and the supreme master of all, who is easily accessible to devotees, and who is endowed with supreme virtues!",
     ],
+    essence_tel: [
+      "",
+    ],
     meanings: [
       "स्वतः = By His own nature, inherently",
       "सर्वविदे = To the all-knowing one, the omniscient one",
@@ -332,6 +350,9 @@ const verses = [
     essence: [
       "I offer auspicious wishes upon Lord Venkatesha, who is the Supreme Brahman, who is eternally fulfilled and complete, who is the Supreme Soul, and who is the highest divine truth!",
     ],
+    essence_tel: [
+      "",
+    ],
     meanings: [
       "परस्मै = To the supreme, transcendent one",
       "ब्रह्मणे = To Brahman, the absolute reality",
@@ -375,6 +396,9 @@ const verses = [
     ],
     essence: [
       "May auspiciousness be upon Lord Venkatesha, whose form is like inexhaustible nectar, for those souls constantly seeking supreme truth beyond time!",
+    ],
+    essence_tel: [
+      "",
     ],
     meanings: [
       "आकालतत्त्वम् = The eternal principle, the essence beyond time",
@@ -420,6 +444,9 @@ const verses = [
     essence: [
       "May auspiciousness be upon the glorious Lord Venkatesha, who points his own feet with his hand, due to compassion, as a refuge to all beings!",
     ],
+    essence_tel: [
+      "",
+    ],
     meanings: [
       "प्रायः = Generally, mostly, often",
       "स्वचरणौ = His own two feet",
@@ -462,6 +489,9 @@ const verses = [
     ],
     essence: [
       "May auspiciousness be upon Lord Venkateswara! who sprinkles the entire universe with his cool, soothing sidelong glances, just like the gentle waves of a river of nectar-like compassion.",
+    ],
+    essence_tel: [
+      "",
     ],
     meanings: [
       "दयामृततरङ्गिण्याः = Of the river of nectar-like compassion",
@@ -509,6 +539,9 @@ const verses = [
     ],
     essence: [
       "May auspiciousness be upon Lord Venkatesha, who carries a radiant form of garlands, ornaments, garments and weapons, and who removes all suffering and distress!",
+    ],
+    essence_tel: [
+      "",
     ],
     meanings: [
       "स्रग् (Srag) = Garland, wreath of flowers",
@@ -562,6 +595,9 @@ const verses = [
     essence: [
       "May auspiciousness be upon Lord Venkatesha, who is unattached to his supreme abode of Vaikuntha, and who is enjoying divine pastimes with Mother Lakshmi(Ramaa) on the banks of Swami Pushkarini!",
     ],
+    essence_tel: [
+      "",
+    ],
     meanings: [
       "श्री-वैकुण्ठ-विरक्ताय = To the one who has renounced the supreme abode Vaikuntha",
       "स्वामि-पुष्करिणी-तटे = On the banks of the sacred Swami Pushkarini",
@@ -601,6 +637,9 @@ const verses = [
     ],
     essence: [
       "Auspiciousness be to the Lord Srinivasa, who dwells within the mind of the fortuitous and beautiful sage Srī Manavāḷa Māmuni, and is Himself the abode of the entire universe.",
+    ],
+    essence_tel: [
+      "",
     ],
     meanings: [
       "श्रीमत् = Sacred, glorious, revered",
@@ -651,6 +690,9 @@ const verses = [
     ],
     essence: [
       "May auspiciousness be upon Lord Venkateswara, who is greatly honoured by all the previous acharyas(starting from my acharya and who are engaged in offering auspicious benedictions)!",
+    ],
+    essence_tel: [
+      "",
     ],
     meanings: [
       "मङ्गल (Mangala) = Auspicious, beneficial, or well-being",
