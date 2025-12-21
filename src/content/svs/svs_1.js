@@ -89,7 +89,7 @@ const verses = [
         "O Govinda! please wake up, please wake up. O Garudadwaja (with Garuda in his flag)! please wake up. O Kamalaa Kantha (beloved of Mother Lakshmi)! please wake up, and grant auspiciousness to all the three worlds.",
       ],
       essence_tel: [
-          "",
+          "ఓ గోవిందా! దయచేసి మేలుకో, మేలుకో. ఓ గరుడధ్వజా! మేలుకో. ఓ కమలాకాంతా! మేలుకో, మరియు ముల్లోకములకు శుభములను చేకూర్చు.",
       ],
       meanings: [],
       notes: [
@@ -113,7 +113,7 @@ const verses = [
       ],
       sloka_tel: [
           "మాతస్సమస్తజగతాం మధుకైటభారేః",
-          "వక్షోవిహారిణి మనోహరదివ్యమూర్తే | [రూపే]",
+          "వక్షోవిహారిణి మనోహరదివ్యమూర్తే |",
           "శ్రీస్వామిని శ్రితజనప్రియదానశీలే",
           "శ్రీవేంకటేశదయితే తవ సుప్రభాతమ్ || ౩ ||",
       ],
@@ -150,7 +150,7 @@ const verses = [
         "May it be an auspicious morning to you, O Mother Lakshmi, who is the Mother of all the worlds (entire universe), who playfully resides within the heart of Govinda (slayer of Madhu and Kaitaba), who has beautiful divine form, who is the Goddess of wealth, one whose nature is to give benedictions (fulfill desires) to those devotees who takes refuge, beloved wife of Sri Venkatesa.",
       ],
       essence_tel: [
-          "",
+          "అఖిల లోకములకు తల్లివైన, మధుకైటభ సంహారుడైన గోవిందుని హృదయంలో విలాసంగా నివసించే, దివ్య మంగళ స్వరూపిణివైన, ఐశ్వర్య ప్రదాయినివైన, నీ శరణు కోరిన భక్తుల కోర్కెలను తీర్చే స్వభావము కలిగిన దానివైన, ఆ శ్రీ వేంకటేశ్వరుని ప్రియపత్నివి అయిన ఓ లక్ష్మీదేవీ! నీకు సుప్రభాతము (శుభోదయము).",
       ],
       meanings: [],
       notes: [
@@ -211,7 +211,7 @@ const verses = [
         "May it be an auspicious morning to you, O Mother Lakshmi, whose eyes are lotus-like, whose face is as pleasant as the full moon, who is worshipped by the wives of Brahma (Saraswati), Shiva (Parvati), and Indra (Sachi Devi), who is the treasure of mercy, beloved wife of the Lord of Vrusha hill.",
       ],
       essence_tel: [
-          "",
+          "పద్మముల వంటి కన్నులు కలదానివైన, పున్నమి చంద్రుని వంటి ప్రసన్నమైన ముఖము కలదానివైన, సరస్వతీ పార్వతీ శచీదేవిలచే పూజింపబడేదానివైన, కరుణా సముద్రానివైన, వృషాచలపతి (శ్రీ వేంకటేశ్వరుని) ప్రియపత్నివైన ఓ లక్ష్మీదేవీ! నీకు సుప్రభాతము (శుభోదయము).",
       ],
       meanings: [],
       notes: [
@@ -263,7 +263,7 @@ const verses = [
         "May it be an auspicious morning to you, O Lord of Sheshadri! The seven sages (Atri maharshi and others), having worshipped the dawn (performed the morning rituals), and having taken the beautiful lotuses from the celestial Ganga, have come to worship your feet.",
       ],
       essence_tel: [
-          "",
+          "శేషాద్రి నాథా! నీకు సుప్రభాతము. అత్రి మహర్షి మొదలైన సప్తఋషులు ఉషఃకాల విధులను పూర్తిచేసుకొని, ఆకాశ గంగలోని అందమైన పద్మములను తెచ్చి, నీ పాదాలను అర్చించడానికి వేచి ఉన్నారు.",
       ],
       meanings: [],
       notes: [
@@ -313,7 +313,7 @@ const verses = [
         "May it be an auspicious dawn (morning) to you, O Lord of Sheshadri! The gods like Lord Shiva (five-faced god), Brahma, Shanmukha (Subrahmanya/Kartikeya), Indra and others praise your pastimes like Trivikrama (Vamana Avatara) etc. The god of speech (Deva guru/Brihaspati) recites the auspiciousness of the day.",
       ],
       essence_tel: [
-          "",
+          "శేషాద్రి నాథా! నీకు సుప్రభాతము. పంచముఖుడైన శివుడు, బ్రహ్మదేవుడు, షణ్ముఖుడు, ఇంద్రుడు మొదలైన దేవతలందరూ నీ త్రివిక్రమ అవతారము వంటి లీలా విశేషాలను కీర్తిస్తున్నారు. దేవగురువైన బృహస్పతి ఈ రోజు యొక్క శుభ విశేషాలను (పంచాంగమును) పఠిస్తున్నారు.",
       ],
       meanings: [],
       notes: [
@@ -373,7 +373,7 @@ const verses = [
         "May it be an auspicious dawn (morning) to you, O Lord of Sheshadri! The wind (gentle breeze), carrying the divine fragrance of beautiful plants like (slightly bloomed lotuses, coconut trees, betel nut trees etc) blows gently.", 
       ],
       essence_tel: [
-          "",
+          "శేషాద్రి నాథా! నీకు సుప్రభాతము. కొద్దిగా వికసించిన పద్మములు, కొబ్బరి తోటలు, పోక చెట్లు మొదలైన సుందర వనములలోని దివ్య పరిమళాలను మోసుకొస్తూ వాయువు మెల్లగా వీస్తోంది.",
       ],
       meanings: [],
       notes: [
@@ -438,7 +438,7 @@ const verses = [
         "May it be an auspicious dawn (morning) to you, O Lord of Sheshadri! Now, The Parrots (kept in the best cages), having opened their eyes, having playfully eaten the leftover bananas and sweet rice in their bowls, are singing (your names).",
       ],
       essence_tel: [
-          "",
+          "శేషాద్రి నాథా! నీకు సుప్రభాతము. ఉత్తమమైన పంజరాలలో ఉన్న చిలుకలు, కళ్లు విప్పి, తమ గిన్నెలలోని మిగిలిన అరటిపండ్లను మరియు మధురమైన పరమాన్నమును (చక్కెర పొంగలిని) ఆడుతూ పాడుతూ తిని, నీ నామాలను కీర్తిస్తున్నాయి.",
       ],
       meanings: [],
       notes: [
@@ -503,7 +503,7 @@ const verses = [
         "May it be an auspicious dawn (morning) to you, O Lord of Sheshadri! Devarshi Narada also (with the sweet sound produced by pulling strings of his Veena) (beautifully waving his hand often), is singing your infinite pastimes (expressed in fine language).",
       ],
       essence_tel: [
-          "",
+          "శేషాద్రి నాథా! నీకు సుప్రభాతము. దేవర్షి నారదుడు కూడా తన వీణాతంత్రులను మీటుతూ వచ్చే మధుర ధ్వనితో, తరచుగా తన చేతులను అందంగా త్రిప్పుతూ (అభినయిస్తూ), చక్కని భాషలో నీ అనంతమైన లీలా విశేషాలను గానం చేస్తున్నాడు.",
       ],
       meanings: [],
       notes: [
@@ -568,7 +568,7 @@ const verses = [
         "May it be an auspicious dawn (morning) to you, O Lord of Sheshadri! The swarm of bees filled with the nectar of flowers, with the sweet sounds of buzzing music, for the purpose of serving (you), are coming out of the lotus flowers in the nearby lakes.",
       ],
       essence_tel: [
-          "",
+          "శేషాద్రి నాథా! నీకు సుప్రభాతము. పూల మకరందాన్ని నింపుకున్న తుమ్మెదల గుంపులు, మధురమైన జుంకార నాదాలు చేస్తూ, నిన్ను సేవించడం కోసమే అన్నట్లుగా దగ్గరలోని సరస్సులలోని పద్మముల నుండి వెలుపలికి వస్తున్నాయి.",
       ],
       meanings: [],
       notes: [
@@ -636,7 +636,7 @@ const verses = [
         "May it be an auspicious dawn (morning) to you, O Lord of Sheshadri! The loud noises of churning curd in the goshalas by the gopikas, while churning curd, appear as if the directions of space (Kakubhah) and the clay pots (Kumbha) are engaged in a battle due to anger.",
       ],
       essence_tel: [
-          "",
+          "శేషాద్రి నాథా! నీకు సుప్రభాతము. గోశాలలలోని గోపికలు పెరుగు చిలుకుతున్నప్పుడు వస్తున్న ఆ పెద్ద శబ్దాలు, దిక్కులు (కకుభములు) మరియు ఆ మట్టి కుండలు (కుంభములు) కోపంతో యుద్ధం చేస్తున్నాయా అన్నట్లుగా ప్రతిధ్వనిస్తున్నాయి.",
       ],
       meanings: [],
       notes: [
@@ -701,7 +701,7 @@ const verses = [
         "May it be an auspicious dawn (morning) to you, O Lord of Sheshadri! The swarm of bees (friends of lotus) within the 100 petaled lotuses, to steal the beauty of the blue water lily (kuvalaya) with their own beauty, are making a loud noise, like the sound of kettle drum (bheri).",
       ],
       essence_tel: [
-          "",
+          "శేషాద్రి నాథా! నీకు సుప్రభాతము. పద్మములకు మిత్రులైన తుమ్మెదలు, నూటొక్క రేకుల పద్మాలలో ఉండి, తమ సౌందర్యంతో నల్ల కలువ (కువలయము) అందాన్ని దొంగిలించాలన్నట్లుగా, భేరీ నాదం (పెద్ద నగారా శబ్దం) వంటి గంభీరమైన ధ్వనిని చేస్తున్నాయి.",
       ],
       meanings: [],
       notes: [
@@ -771,7 +771,7 @@ const verses = [
         "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! One who is possessor of Sri (wealth, prosperity, beauty), who is bestower of desired boons, who is the friend of all the worlds (the entire universe), who is the abode of Sri (Mother Lakshmi), who is the only ocean of compassion in the world, whose chest (Vakshasthala) is the abode of Mother Lakshmi, who has the divine form.",
       ],
       essence_tel: [
-          "",
+          "శ్రీ వేంకటాచలపతీ! నీకు సుప్రభాతము. శ్రీ మహాలక్ష్మిని తనలో కలిగినవాడా, కోరిన వరాలను ప్రసాదించేవాడా, అఖిల లోకములకు మిత్రుడా, శ్రీదేవికి నివాసమైనవాడా, లోకంలో ఏకైక కరుణా సముద్రుడా, లక్ష్మీదేవి నివసించే దివ్యమైన వక్షస్థలము కలవాడా, దివ్య మంగళ స్వరూపుడా! నీకు శుభోదయము.",
       ],
       meanings: [],
       notes: [
@@ -828,7 +828,7 @@ const verses = [
         "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! Lord Shiva, Brahma, Sanandana, and others having pure bodies after bathing in the Swami Pushkarini, are standing at your door, seeking prosperity, with their heads bowed.",
       ],
       essence_tel: [
-          "",
+          "శ్రీ వేంకటాచలపతీ! నీకు సుప్రభాతము. శివుడు, బ్రహ్మ, సనందనుడు మొదలైన దేవతలు, మహర్షులు స్వామి పుష్కరిణిలో స్నానమాచరించి, పవిత్రమైన శరీరములతో నీ ద్వారం వద్ద నిలబడి ఉన్నారు. వారు తమ తలలు వంచి, నీ నుండి ఐశ్వర్యమును (మోక్షమును) కోరుకుంటున్నారు.",
       ],
       meanings: [],
       notes: [
@@ -886,7 +886,7 @@ const verses = [
         "O Lord of Venkatachala! May it be an auspicious dawn (morning) to you. Sheshaadri, Garudaadri, Venkataadri, Narayanaadri, Vrishabhaadri, and Vrishaadri are always spoken of as places where you reside.",
       ],
       essence_tel: [
-          "",
+          "శ్రీ వేంకటాచలపతీ! నీకు సుప్రభాతము. శేషాద్రి, గరుడాద్రి, వేంకటాద్రి, నారాయణాద్రి, వృషభాద్రి మరియు వృషాద్రి—ఇవన్నీ నీవు నిరంతరం నివసించే పుణ్యస్థలాలుగా (కొండలుగా) కొనియాడబడుతున్నాయి.",
       ],
       meanings: [],
       notes: [
@@ -940,7 +940,7 @@ const verses = [
         "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! Lord Shiva, Indra, Agni, Yama, Nirruti (God of Southwest direction), Varuna, Vayu, Kubera are engaged in your service, with folded hands, shining, and with their heads bowed down to the ground.",
       ],
       essence_tel: [
-          "",
+          "శ్రీ వేంకటాచలపతీ! నీకు సుప్రభాతము. శివుడు, ఇంద్రుడు, అగ్ని, యముడు, నిరృతి, వరుణుడు, వాయువు మరియు కుబేరుడు—ఈ దిక్పాలకులు అందరూ తమ శిరస్సులపై చేతులు జోడించి, ప్రకాశిస్తూ, నీ సేవలో నిమగ్నమై ఉన్నారు.",
       ],
       meanings: [],
       notes: [
@@ -1008,7 +1008,7 @@ const verses = [
         "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! The king of birds (Garuda), the king of animals (Simha), the king of serpents (Adishesha), the king of elephants (Airavatha), and the king of horses(Ucchaisravas) are seeking your blessings for increasing their own authority and greatness.",
       ],
       essence_tel: [
-          "",
+          "శ్రీ వేంకటాచలపతీ! నీకు సుప్రభాతము. పక్షిరాజైన గరుత్మంతుడు, మృగరాజైన సింహము, సర్పరాజైన ఆదిశేషుడు, గజరాజైన ఐరావతము మరియు అశ్వరాజైన ఉచ్చైశ్రవము—వీరందరూ తమ తమ అధికారములను మరియు గొప్పతనమును వృద్ధి చేసుకోవడం కోసం నీ అనుగ్రహాన్ని కోరుకుంటున్నారు.",
       ],
       meanings: [],
       notes: [
@@ -1070,7 +1070,7 @@ const verses = [
         "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! The Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu, and Ketu, the chief among the celestial beings are the servants of your servants's servants.",
       ],
       essence_tel: [
-          "",
+          "శ్రీ వేంకటాచలపతీ! నీకు సుప్రభాతము. సూర్యుడు, చంద్రుడు, అంగారకుడు, బుధుడు, బృహస్పతి, శుక్రుడు, శని, రాహువు మరియు కేతువు—ఈ నవగ్రహాలు, దేవతలలో ముఖ్యులైనప్పటికీ, నీ దాసానుదాసుల యొక్క దాసులై నీ సేవలో ఉన్నారు.",
       ],
       meanings: [],
       notes: [
@@ -1138,7 +1138,7 @@ const verses = [
         "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! Those devotees whose heads are filled with the dust of your feet, and are not inclined for heaven and liberation, (but your service) are attaining the feeling of perplexity(confusion) by the counting of the coming of the next Kalpa.",
       ],
       essence_tel: [
-          "",
+          "శ్రీ వేంకటాచలపతీ! నీకు సుప్రభాతము. నీ పాదధూళిని శిరస్సున ధరించిన భక్తులు, స్వర్గమును కానీ మోక్షమును కానీ కోరుకోరు. వారు కేవలం నీ సేవలోనే నిమగ్నమై, కాలం గడిచే కొద్దీ వచ్చే తదుపరి 'కల్పము' ఎప్పుడు వస్తుందో అన్న లెక్కల్లో మునిగిపోయి, ఆ పరవశంలో వ్యాకులపాటుకు లోనవుతున్నారు.",
       ],
       meanings: [],
       notes: [
@@ -1204,7 +1204,7 @@ const verses = [
         "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! Those mortals who are serving highest positions in heaven, having seen the tops of your temple towers, are attracted to the material world(earth).", 
       ],
       essence_tel: [
-          "",
+          "శ్రీ వేంకటాచలపతీ! నీకు సుప్రభాతము. స్వర్గలోకంలో అత్యున్నత పదవులను అనుభవిస్తున్న పుణ్యాత్ములు సైతం, నీ ఆలయ గోపుర శిఖరాలను దర్శించిన తర్వాత, వాటి అందానికి ముగ్ధులై తిరిగి ఈ భూలోకం (సంసారం) వైపు ఆకర్షితులవుతున్నారు.",
       ],
       meanings: [],
       notes: [
@@ -1268,7 +1268,7 @@ const verses = [
         "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! O Lord! the One who is the husband of Sri Devi (Mother Lakshmi) and Bhu Devi (Mother Earth), who is an ocean of mercy and other virtues, who is the God of the Gods, who is the only refuge of the world, who is the lord of prosperity, whose feet are worshipped by Ananta, Garuda, and others,",
       ],
       essence_tel: [
-          "",
+          "శ్రీ వేంకటాచలపతీ! నీకు సుప్రభాతము. ఓ ప్రభూ! శ్రీదేవి మరియు భూదేవుల నాథుడా, దయాగుణమునకు మరియు ఇతర సద్గుణములకు సముద్రుడైనవాడా, దేవతలకు దేవుడా, ఈ లోకానికి ఏకైక శరణాగతివైనవాడా, ఐశ్వర్య ప్రదాతవు, ఆదిశేషుడు మరియు గరుత్మంతుడు వంటి వారిచే పూజింపబడే పాదపద్మములు కలవాడా! నీకు శుభోదయము.",
       ],
       meanings: [],
       notes: [
@@ -1336,7 +1336,7 @@ const verses = [
         "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! O Lord! The one who has a lotus in his navel (Padmanabha), who is the Supreme Person (Purushottama), who is omni-present (Vasudeva), who is resident of Vaikuntha (the abode of Vishnu), who is husband of Mother Lakshmi (Madhava), who is Janardana, who is the wielder of the Discus (Chakrapani), who has the mark of Srivatsa on his chest, who is the divine tree (Parijata) for those who have taken refuge in him.",
       ],
       essence_tel: [
-          "",
+          "శ్రీ వేంకటాచలపతీ! నీకు సుప్రభాతము. ఓ ప్రభూ! పద్మనాభుడా, పురుషోత్తముడా, సర్వవ్యాపియైన వాసుదేవుడా, వైకుంఠవాసుడా, లక్ష్మీపతివైన మాధవుడా, జనార్దనుడా, చేతిలో చక్రమును ధరించిన చక్రపాణి! నీ వక్షస్థలముపై శ్రీవత్స చిహ్నము కలవాడా, నిన్ను శరణువేడిన వారికి కల్పవృక్షము వంటి పారిజాతానివైన వాడా! నీకు శుభోదయము.",
       ],
       meanings: [],
       notes: [
@@ -1391,7 +1391,7 @@ const verses = [
         "May it be an auspicious dawn (morning) to you. O Lord of Venkatachala! O Lord! One whose divine form vanquishes the pride of Cupid (Kandarpa), whose gaze (दृष्टि) is eagerly fixed (लोल) on the lotus-like (अम्बुरुह) budding vakshastala (कुच-कुड्मल) of his beloved Lakshmi (कान्ता), who is the embodiment (आकर) of auspicious (कल्याण), pure (निर्मल), and virtuous (गुण) qualities, possessing a divine reputation (दिव्यकीर्ति).",
       ],
       essence_tel: [
-          "",
+          "శ్రీ వేంకటాచలపతీ! నీకు సుప్రభాతము. ఓ ప్రభూ! మన్మథుని గర్వాన్ని సైతం అణచివేసే అత్యంత సుందరమైన దివ్య మంగళ స్వరూపం కలవాడా! నీ ప్రియురాలైన లక్ష్మీదేవి యొక్క పద్మం వంటి వక్షస్థలంపై లగ్నమైన చూపులు కలవాడా! మంగళకరమైన, నిర్మలమైన సద్గుణాలకు నిలయమై, దివ్యమైన కీర్తిని పొందినవాడా! నీకు శుభోదయము.",
       ],
       meanings: [],
       notes: [
@@ -1463,7 +1463,7 @@ const verses = [
         "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! O Lord! who incarnated as Matsya, Kurma, Varaha(Kola), Narasimha, Parashurama, Vamana, Ramachandra, Balarama(Adishesha), Krishna, and Kalki.",
       ],
       essence_tel: [
-          "",
+          "శ్రీ వేంకటాచలపతీ! నీకు సుప్రభాతము. ఓ ప్రభూ! మత్స్య, కూర్మ, వరాహ (కోల), నరసింహ, పరశురామ, వామన, రామచంద్ర, బలరామ (ఆదిశేష), కృష్ణ మరియు కల్కి అవతారములుగా ఉద్భవించినవాడా! నీకు శుభోదయము.",
       ],
       meanings: [],
       notes: [
@@ -1532,7 +1532,7 @@ const verses = [
         "May it be an auspicious dawn (morning) to you, O Lord of Venkata! The highly delighted (प्रहृष्टाः) foremost (आद्य) scholars of the Vedas (वैदिक-शिखामणयः) are standing (तिष्ठन्ति) (at your door) holding (धृत्वा) golden pots (हेम-घटेषु) filled (पूर्णम्) with divine (दिव्यं) water (तीर्थं) from the celestial river (वियत्-सरिति / akasa ganga).",
       ],
       essence_tel: [
-          "",
+          "శ్రీ వేంకటాచలపతీ! నీకు సుప్రభాతము. వేద పండితులలో శ్రేష్ఠులైనవారు అత్యంత సంతోషంతో, ఆకాశ గంగ నుండి తెచ్చిన దివ్యమైన తీర్థంతో నిండిన బంగారు కలశాలను చేతబూని నీ ద్వారం వద్ద వేచి ఉన్నారు.",
       ],
       meanings: [],
       notes: [
@@ -1600,7 +1600,7 @@ const verses = [
         "May it be an auspicious dawn (morning) to you, O Lord of Venkata! The sun is rising, the lotuses are blooming, and the birds are filling the directions with their songs. The Sri Vaishnavas, who always seek your auspiciousness, are taking shelter at your abode.",
       ],
       essence_tel: [
-          "",
+          "శ్రీ వేంకటాచలపతీ! నీకు సుప్రభాతము. సూర్యుడు ఉదయిస్తున్నాడు, పద్మములు వికసిస్తున్నాయి మరియు పక్షులు తమ మధుర గానంతో దిక్కులన్నింటినీ నింపుతున్నాయి. నీ మంగళాన్ని నిరంతరం కాంక్షించే శ్రీవైష్ణవులు నీ సన్నిధిలో శరణు పొందుతున్నారు.",
       ],
       meanings: [],
       notes: [
@@ -1673,7 +1673,7 @@ const verses = [
         "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! Gods like, Brahma and others, along with Maharshis; Saints like Sanandana and the best of Yogis; have come (आगताः) to your abode (धाम अन्तिके) with auspicious items in their hands (मङ्गल-वस्तु-हस्ताः).",
       ],
       essence_tel: [
-          "",
+          "శ్రీ వేంకటాచలపతీ! నీకు సుప్రభాతము. బ్రహ్మదేవుడు మొదలైన దేవతలు, మహర్షులు, సనందనుడు వంటి యోగిశ్రేష్ఠులు—వీరందరూ తమ చేతులలో మంగళకరమైన వస్తువులను ధరించి, నీ దివ్య ధామము (సన్నిధి) చెంతకు చేరుకున్నారు.",
       ],
       meanings: [],
       notes: [
@@ -1746,7 +1746,7 @@ const verses = [
         "May it be an auspicious dawn (morning) to you, O Lord of Venkatachala! O Lord! One who is abode of Mother Lakshmi, who is an ocean of unblamable qualities, who is the only bridge to cross the ocean of samsara, who is known through Vedas and Upanishads, who is eternally Glorious, who is enjoyed by devotees.",
       ],
       essence_tel: [
-          "",
+          "శ్రీ వేంకటాచలపతీ! నీకు సుప్రభాతము. ఓ ప్రభూ! లక్ష్మీదేవికి నివాసమైనవాడా, మచ్చలేని (నిర్దోషమైన) సద్గుణాలకు సముద్రుడవైన వాడా, ఈ సంసార సాగరాన్ని దాటడానికి ఏకైక వారధివైనవాడా, వేద వేదాంతముల (ఉపనిషత్తుల) ద్వారా తెలుసుకోదగినవాడా, నిత్యమైన కీర్తి కలిగినవాడా మరియు భక్తులచే సదా అనుభవించబడేవాడా! నీకు శుభోదయము.",
       ],
       meanings: [],
       notes: [
@@ -1805,7 +1805,7 @@ const verses = [
           "Thus, this suprabhatham of Lord Venkateswara gives rise to supreme wisdom (that makes liberation easily attainable) in those hearts, who are engaged in worshipping Lord Venkateswara with mind and body, by reciting it everyday in the morning (dawn).",
       ],
       essence_tel: [
-          "",
+          "శ్రీ వేంకటేశ్వర సుప్రభాతమును ప్రతిరోజూ ఉదయమే (శుభవేళ) పఠించేవారికి, మనస్సుతో మరియు శరీరంతో ఆ స్వామిని ఆరాధించేవారికి, వారి హృదయాలలో పరమ జ్ఞానము ఉదయిస్తుంది. ఆ జ్ఞానమే వారికి మోక్షమును సులభముగా లభించేలా చేస్తుంది.",
       ],
       meanings: [],
       notes: [
