@@ -53,7 +53,7 @@ const verses = [
       "I offer my obiesances to Bhagavati Sri Lakshmi, who is the Lord of this universe, who is the supreme beloved of Lord Venkateswara, who takes delight in residing in his heart, who increases his patience, whose hands are decorated with lotuses, who is seated on lotus throne, who shines with qualities like motherly affection, and the mother of the universe.",
     ],
     essence_tel: [
-      "",
+      "ఈ నిఖిల విశ్వమునకు అధిదేవత, శ్రీ వేంకటేశ్వరునికి అత్యంత ప్రియమైన ప్రాణసఖి, ఆయన వక్షస్థలమున నివసించుటలో పరమానందము పొందునది, ఆయన ఓర్పును (క్షమను) పెంపొందించునది, తన హస్తములలో పద్మములను ధరించి, పద్మాసనముపై కొలువై ఉన్నది, మాతృత్వము వంటి మధుర గుణములతో ప్రకాశించునది మరియు ఈ జగత్తుకే తల్లియైన ఆ శ్రీమహాలక్ష్మికి నా నమస్కారములు.",
     ],
     meanings: [],
     notes: [
@@ -130,7 +130,7 @@ const verses = [
       "O Lord Venkateswara! the one who is opulent, ocean of compassion, creator of all worlds, omniscient, omnipotent, compassionate towards the humble, the essence of the universe, the master, good natured, easily attainable, wish fulfilling tree of the one who take refuge. I take refuge (completely surrender) at your lotus feet.",
     ],
     essence_tel: [
-      "",
+      "ఓ శ్రీ వేంకటేశ్వరా! సకల ఐశ్వర్య సంపన్నుడా, దయా సముద్రుడా, సర్వలోక సృష్టికర్తా, సర్వజ్ఞుడా, సర్వశక్తిమంతుడా! దీనుల పట్ల అత్యంత దయ చూపేవాడా, విశ్వమంతటా వ్యాపించి ఉన్న సారరూపుడా, జగన్నాథుడా, సుగుణశీలుడా, భక్తులకు సులభముగా లభించేవాడా మరియు నిన్ను శరణువేడిన వారికి కల్పవృక్షము వంటివాడా! నీ దివ్య పాదపద్మములకు నేను సంపూర్ణముగా శరణాగతి చేస్తున్నాను.",
     ],
     meanings: [],
     notes: [
@@ -196,7 +196,7 @@ const verses = [
       "I take refuge at the lotus feet of Lord Venkateswara, which give fragrance to the fragrant flowers offered near the anklets, that appear symmetrical, that are gentle, that give fresh experience even though are experienced constantly.",
     ],
     essence_tel: [
-      "",
+      "శ్రీ వేంకటేశ్వరుని దివ్య పాదపద్మములకు నేను శరణాగతి చేస్తున్నాను. ఆ పాదములు తన అందెల చెంత అర్పించిన సుగంధ పుష్పాలకు సైతం మరింత పరిమళాన్ని అద్దుతాయి; అవి ఎంతో సుకుమారమైనవి, చూడముచ్చటైన రూపంతో సమానంగా అమరి ఉంటాయి; వాటిని నిరంతరం దర్శిస్తున్నప్పటికీ, ప్రతి క్షణం సరికొత్త అనుభూతిని ఇచ్చే ఆ పాదపద్మములను నేను శరణు వేడుతున్నాను.",
     ],
     meanings: [],
     notes: [
@@ -256,7 +256,7 @@ const verses = [
       "I take refuge at the lotus feet of Lord Venkateswara, which are supremely beautiful beyond comparison to the freshly bloomed fragrant deep red lotuses, in the perfect and courageous steps.",
     ],
     essence_tel: [
-      "",
+      "తాజాగానే వికసించిన, మధుర పరిమళం వెదజల్లే ముదురు ఎరుపు రంగు పద్మములతో కూడా పోల్చలేనంతటి అత్యున్నత సౌందర్యము కలవి, గంభీరము మరియు ధైర్యము ఉట్టిపడే నడకలతో ప్రకాశించే ఆ శ్రీవేంకటేశ్వరుని దివ్య పాదపద్మములకు నేను శరణాగతి చేస్తున్నాను.",
     ],
     meanings: [
       "सद्यः-विकासि = Instantly blooming",
@@ -316,7 +316,7 @@ const verses = [
       "I take refuge at the lotus feet of Lord Venkateswara, which are decorated with divine and auspicious symbols like: lines, flag, amritha kalasham, umbrella, thunderbolt (vajra), goad (ankusham), lotus, kalpa vriksha, shankam and chakram.",
     ],
     essence_tel: [
-      "",
+      "రేఖలు, ధ్వజము (జెండా), అమృత కలశము, ఛత్రము (గొడుగు), వజ్రాయుధము, అంకుశము, పద్మము, కల్పవృక్షము, శంఖము మరియు చక్రము వంటి దివ్యమైన, శుభప్రదమైన చిహ్నములతో అలంకరించబడిన శ్రీ వేంకటేశ్వరుని పాదపద్మములకు నేను శరణాగతి చేస్తున్నాను.",
     ],
     meanings: [
       "भव्यैः = auspicious",
@@ -376,7 +376,7 @@ const verses = [
       "I take refuge at the lotus feet of Lord Venkateswara, that have the luster of a red lotus gem (Padmarāga), surpassing the radiance of copper interiors; that by their external brilliance, surpassing the radiance of the great Indra Nīla (blue sapphire); that with rising brilliance from the toenails, shining like the raised radiance of the full moon.",
     ],
     essence_tel: [
-      "",
+      "రాగి లోపలి భాగము కంటే మిన్నగా ప్రకాశించే పద్మరాగమణి వంటి ఎర్రని కాంతి కలిగినవి, పైన ఇంద్రనీలమణి (నీలమణి) కాంతిని మించి ప్రకాశించే నీలపు ఛాయ కలవి, మరియు పౌర్ణమి నాటి చంద్రుని వెన్నెల వలె తెల్లని కాంతిని వెదజల్లే గోళ్ళతో విరాజిల్లే ఆ శ్రీవేంకటేశ్వరుని దివ్య పాదపద్మములకు నేను శరణాగతి చేస్తున్నాను.",
     ],
     meanings: [
       "ताम्र (tāmra) = Copper",
@@ -436,7 +436,7 @@ const verses = [
       "I take refuge at the lotus feet of Lord Venkateswara, that experience fatigue even with the gentle massage by hands of Mother Lakshmi done with love and fear; whose delicacy is beyond comprehension for even Mother Lakshmi's mind and speech.",
     ],
     essence_tel: [
-      "",
+      "లక్ష్మీదేవి ఎంతో భక్తితో, ప్రేమతో, మరియు ఎక్కడ తన స్పర్శ ఆయనకు కష్టాన్ని కలిగిస్తుందో అన్న భయముతో మెల్లగా ఒత్తుతున్నప్పటికీ—ఆ సుకుమారమైన చేతుల స్పర్శకే అలసటను పొందేటంతటి మృదువైనవి, మరియు లక్ష్మీదేవి యొక్క మనస్సుకూ, వాక్కుకూ కూడా అందని అతిశయమైన కోమలత్వం కలిగిన ఆ శ్రీవేంకటేశ్వరుని దివ్య పాదపద్మములకు నేను శరణాగతి చేస్తున్నాను.",
     ],
     meanings: [
       "स-प्रेम-भीति = With both love and reverence (mixed with slight fear)",
@@ -499,7 +499,7 @@ const verses = [
       "I take refuge at the lotus feet of Lord Venkateswara, that turned red due to the transfer of redness of the finger tips of his divine consorts like Mother Lakshmi, Mother Bhudevi, Mother Nila Devi and others.",
     ],
     essence_tel: [
-      "",
+      "లక్ష్మీదేవి, భూదేవి, నీళాదేవి మొదలైన దివ్య మహిషులు తమ కోమలమైన వేలికొనలతో ఆయన పాదములను ఒత్తుతున్నప్పుడు—వారి వేళ్ళకున్న ఎర్రని వర్ణము అంటుకోవడం వల్ల మరింత ఎర్రగా మారినట్లు భ్రమింపజేసే ఆ శ్రీవేంకటేశ్వరుని దివ్య పాదపద్మములకు నేను సంపూర్ణముగా శరణాగతి చేస్తున్నాను.",
     ],
     meanings: [
       "लक्ष्मी = Goddess Lakshmi",
@@ -569,7 +569,7 @@ const verses = [
       "I take refuge at the lotus feet of Lord Venkateswara, that appear magnificient in the process of Arati, by the light emanating from countless embedded shining navaratna crowns of Brahma, Lord Shiva, and other gods, as they eternally bow before him.",
     ],
     essence_tel: [
-      "",
+      "బ్రహ్మ, పరమశివుడు మరియు ఇతర దేవతలందరూ నిరంతరం ఆయనకు సాష్టాంగ నమస్కారము చేస్తున్నప్పుడు—వారి కిరీటములలో పొదిగిన నవరత్నాల నుండి వెలువడే వెలుగులు ఆయన పాదములపై పడి, ఒక దివ్యమైన హారతి వలె వెలిగిపోతుంటాయి. అటువంటి వైభవముతో ప్రకాశించే శ్రీవేంకటేశ్వరుని దివ్య పాదపద్మములకు నేను శరణాగతి చేస్తున్నాను.",
     ],
     meanings: [
       "नित्य = Always, eternally",
@@ -641,7 +641,7 @@ const verses = [
       "I take refuge at the lotus feet of Lord Venkateswara, that (Lord Vishnu's feet) are glorified as Supreme, that are considered a spring of nectar as they are an enjoyment to devotees, and also, that are indicated by your own palm.",
     ],
     essence_tel: [
-      "",
+      "సకల వేదములలో సర్వోన్నతమైనవిగా కీర్తించబడినవి, నిరంతరం భక్తులకు అమృతం వంటి పరమానందాన్ని పంచే ఊటబావి వంటివి, మరియు 'నన్ను శరణు వేడండి' అని నీ హస్తముతో స్వయంగా నీవే సూచిస్తున్న ఆ శ్రీవేంకటేశ్వరుని దివ్య పాదపద్మములకు నేను శరణాగతి చేస్తున్నాను.",
     ],
     meanings: [
       "विष्णोः = Of Lord Vishnu",
@@ -717,7 +717,7 @@ const verses = [
       "I take refuge at the lotus feet of Lord Venkateswara, that you have revealed to Arjuna instructing him to take refugee, similarly, now you are showing them to me.",
     ],
     essence_tel: [
-      "",
+      "నాడు కురుక్షేత్ర సంగ్రామంలో అర్జునుడికి 'నన్నే శరణువేడు' అని ఉపదేశిస్తూ ఏ పాదపద్మములనైతే నీవు చూపావో, సరిగ్గా అవే పాదములను ఇప్పుడు నాకు కూడా చూపుతున్నావు. అటువంటి అభయాన్నిచ్చే శ్రీవేంకటేశ్వరుని దివ్య పాదపద్మములకు నేను సంపూర్ణముగా శరణాగతి చేస్తున్నాను.",
     ],
     meanings: [
       "पार्थाय = To Arjuna",
@@ -787,7 +787,7 @@ const verses = [
       "I take refuge at the lotus feet of Lord Venkateswara, that are uniformly established on my head, on serpent Kaliya, in the dense forests, on the crest of Venkatachala, on the head of Vedas, and also in the minds of unwavering devotees.",
     ],
     essence_tel: [
-      "",
+      "నా శిరస్సు పైన, కాళీయుడనే సర్పము తలపైన, దట్టమైన అడవులలో, వేంకటాచల శిఖరము పైన, వేదముల అగ్రభాగమున (ఉపనిషత్తులలో), మరియు స్థిరమైన భక్తి కలిగిన భక్తుల మనస్సులలో—అన్ని చోట్లా సమానముగా నిలిచి ఉండే శ్రీ వేంకటేశ్వరుని దివ్య పాదపద్మములకు నేను శరణాగతి చేస్తున్నాను.",
     ],
     meanings: [
       "मन्मूर्ध्नि = On my head",
@@ -859,7 +859,7 @@ const verses = [
        "I take refuge at your lotus feet, O Lord Venkateswara!, that appear like unfading flowers spread on the surface of the earth giving joy, that are considered an ornament to the peak of Venkatadri mountain, that delight minds and eyes of all devotees.",
     ],
     essence_tel: [
-      "",
+      "భూతలంపై పరుచుకున్న ఎన్నడూ వాడిపోని పుష్పముల వలె ఉండి అందరికీ ఆనందాన్ని పంచేవి, వేంకటాద్రి శిఖరానికి ఒక అలంకారము వంటివి, మరియు సకల భక్తుల కళ్ళకు, మనస్సులకు అమితమైన ఆహ్లాదాన్ని కలిగించే ఆ శ్రీవేంకటేశ్వరుని దివ్య పాదపద్మములకు నేను శరణాగతి చేస్తున్నాను.",
     ],
     meanings: [
       "अम्लान = Unfading, ever-fresh",
@@ -931,7 +931,7 @@ const verses = [
       "I take refuge at your lotus feet, O Lord Venkateswara!, that are primary refuge for those surrendered devotees; that appear like nectar to devotees for spiritual nourishment, as if mother's breast to an infant for nourishment; that appear equal to eyes, yet incomparable in their spiritual significance.",
     ],
     essence_tel: [
-      "",
+      "శరణు కోరిన భక్తులకు ఏకైక ఆధారమైనవి, తల్లి పాలు బిడ్డకు ఏవిధంగా పోషణను ఇస్తాయో—అదేవిధంగా భక్తులకు ఆధ్యాత్మిక పుష్టిని ఇచ్చే అమృతము వంటివి, చూడటానికి మన కళ్ళకు సమానముగా (సాధారణముగా) కనిపించినప్పటికీ—వాటి ఆధ్యాత్మిక ప్రాముఖ్యతలో సాటిలేనివైన ఆ శ్రీవేంకటేశ్వరుని దివ్య పాదపద్మములకు నేను శరణాగతి చేస్తున్నాను.",
     ],
     meanings: [
       "प्रायः = Generally, usually",
@@ -1007,7 +1007,7 @@ const verses = [
       "I take refuge at your lotus feet, O Lord Venkateswara!, that are revealed to me by the kind sage, who is virtuous, always worshipping you, and whose glance helps cross the worldly existence.",
     ],
     essence_tel: [
-      "",
+      "పుణ్యాత్ముడు, ఎల్లప్పుడూ నిన్నే ఆరాధించేవాడు మరియు తన కరుణా వీక్షణముతో భక్తులు ఈ సంసార సాగరాన్ని దాటడానికి సహాయపడేవాడైన—శ్రేష్ఠుడైన గురువు (ముని) నాకు చూపిన నీ దివ్య పాదపద్మములకు నేను శరణాగతి చేస్తున్నాను.",
     ],
     meanings: [
       "सत्त्वोत्तरैः = By those of superior purity (highly virtuous beings)",
@@ -1078,7 +1078,7 @@ const verses = [
       "O Lord of Tirupati, the consort of Śrī! May I become a servant for You—who are possessed of flawless qualities and eternally depended upon—and not for my own sake. This is because You are the ultimate goal (Upeya) who manifests spontaneously, while the Goddess Śrī serves as the intermediary (Ghaṭikā) and means (Upāya) by which one reaches You.",
     ],
     essence_tel: [
-      "",
+      "శ్రీదేవి నాథా! తిరుమలవాసా! కళ్యాణ గుణ నిధివైన నిన్నే నేను నిరంతరం ఆశ్రయిస్తున్నాను. నేను నాకు కావలసిన దాని కోసం కాకుండా, కేవలం నీ సేవ కోసం మాత్రమే నీకు దాసుడను కావాలని కోరుకుంటున్నాను. ఎందుకంటే నీవు స్వయంప్రకాశమానమైన పరమ లక్ష్యానివి (ఉపేయము), మరియు శ్రీమహాలక్ష్మి నిన్ను చేరుకోవడానికి మాకు మధ్యవర్తిగా (ఘటిక), మార్గముగా (ఉపాయము) ఉండి మమ్ములను కాపాడుతుంది.",
     ],
     meanings: [
       "श्रीश = O Lord of Śrī (Vishnu, Venkatesha)",
