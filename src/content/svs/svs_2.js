@@ -38,7 +38,7 @@ const verses = [
       "O Lord of Venkatachala! O Lord! the one whose blue-complexioned body is reddended due to kumkuma from the vakshasthala of Mother Lakshmi, who has lotus-like eyes, who is the lord of the worlds. May you be ever victorious.",
     ],
     essence_tel: [
-      "",
+      "శ్రీ వేంకటాచలపతీ! ఓ ప్రభూ! నీలమేఘ శ్యామల వర్ణము కలిగిన నీ దివ్య మంగళ విగ్రహము, అలమేలుమంగ (లక్ష్మీదేవి) వక్షస్థలముపై ఉన్న కుంకుమ తాకడం వల్ల ఎర్రని కాంతితో ప్రకాశిస్తోంది. పద్మముల వంటి కన్నులు కలవాడా, లోకములకు అధిపతివైనవాడా! నీకు ఎల్లప్పుడూ జయము కలుగుగాక.",
     ],
     meanings: [],
     notes: [
@@ -100,7 +100,7 @@ const verses = [
       "O Lord of Vrusha shaila (Venkateswara), O Lord, one who is a crest jewel among the best of all devatas (including Brahma, Subrahmanya, Lord Siva), who is so compassionate to the refugees, who is a treasure of all the essence. Please protect me.",
     ],
     essence_tel: [
-      "",
+      "వృషాచలపతివైన ఓ వేంకటేశ్వరా! బ్రహ్మ, సుబ్రహ్మణ్యుడు మరియు పరమశివుడు వంటి గొప్ప దేవతలందరిలో మణికిరీటం వంటి శ్రేష్ఠుడవైనవాడా! నిన్ను శరణువేడిన వారిపై అపారమైన దయను కురిపించేవాడా, సకల సద్గుణ సారములకు నిలయమైనవాడా! నన్ను రక్షించుము.",
     ],
     meanings: [],
     notes: [
@@ -159,7 +159,7 @@ const verses = [
       "O Lord Venkateswara! O Hari! With your utmost compassion, please quickly protect me, who is filled with hundreds of unbearable offenses committed consistently again and again.",
     ],
     essence_tel: [
-      "",
+      "ఓ వేంకటేశ్వరా! హరీ! పదే పదే, నిరంతరము నేను చేస్తున్న భరించలేని వందలాది అపరాధములతో నిండిన నన్ను, నీ అపారమైన దయతో దయచేసి త్వరగా రక్షించుము.",
     ],
     meanings: [],
     notes: [
@@ -220,7 +220,7 @@ const verses = [
       "I do not consider anyone Supreme other than Lord Venkateswara who resides on Venkatachala, who has a generous nature, who blesses devotees with more than what they wish for, who is proclaimed as the Supreme Lord by Vedas and by Devatas, and who is the husband of Mother Lakshmi.",
     ],
     essence_tel: [
-      "",
+      "వేంకటాచలంపై నివసించేవాడు, అత్యంత ఉదార స్వభావం కలవాడు, భక్తులు కోరుకున్న దానికంటే ఎక్కువే అనుగ్రహించేవాడు, వేదములలో మరియు దేవతలచే సర్వోన్నత దైవముగా కొనియాడబడేవాడు మరియు లక్ష్మీదేవి నాథుడైన వేంకటేశ్వరుడు తప్ప వేరే ఏ దైవమును నేను సర్వోన్నతుడిగా భావించను.",
     ],
     meanings: [],
     notes: [
@@ -279,7 +279,7 @@ const verses = [
       "I do not consider anyone Supreme other than Lord Krishna (Venkateswara), who is surrounded by hundreds of crores of Gopikas who are enchanted by the music from his flute, whose beauty is equal to that of crores of Manmathas, who is in the hearts of each and every gopika, who is giver of happiness, and the son of Vasudeva.",
     ],
     essence_tel: [
-      "",
+      "వేలకోట్ల గోపికలతో చుట్టుముట్టబడి, తన మురళీ గానంతో వారిని మంత్రముగ్ధులను చేసేవాడు, కోట్లాది మన్మథుల సౌందర్యంతో సమానమైన రూపం కలవాడు, ప్రతి గోపిక హృదయంలో నివసించేవాడు, సకల సౌఖ్యములను ప్రసాదించేవాడు మరియు వసుదేవ నందనుడైన ఆ శ్రీకృష్ణుడు (వేంకటేశ్వరుడు) తప్ప వేరే ఎవరిని నేను సర్వోన్నతుడిగా భావించను.",
     ],
     meanings: [],
     notes: [
@@ -358,7 +358,7 @@ const verses = [
       "O Lord Rama (Lord Venkateswara) ! O Lord! the one who gives extreme bliss, who is a repository of noble qualities, who is son of Dasaratha, who is an only wielder of the bow, who has a courageous mind, who is the leader of Raghu dynasty, who is all pleasing, who is the Lord of Ramaa (Lakshmi), who is all pervading one, and who is an ocean of compassion. Please become a boon giver.",
     ],
     essence_tel: [
-      "",
+      "శ్రీ వేంకటాచలపతీ! రామచంద్రా! పరమానంద స్వరూపుడా, సకల సద్గుణాలకు నిలయమైనవాడా, దశరథ నందనా! సాటిలేని కోదండధారివి, ధైర్యవంతుడైన మనసు కలవాడా, రఘువంశ తిలకమా! అందరినీ అలరించేవాడా, రమాదేవి (లక్ష్మి) నాథుడా, విభుడా (సర్వవ్యాపివైన వాసుదేవుడా), దయా సముద్రుడా! మాకు వరములను అనుగ్రహించుము.",
     ],
     meanings: [],
     notes: [
@@ -421,10 +421,10 @@ const verses = [
       // "I seek refuge in the great Rama of Raghu clan, Whose pretty hands are held by the daughter of earth, Who has a pretty lotus-like face, similar to the moon, And who as a king walks at night and destroys darkness like the sun.",
     ],
     essence: [
-      "I take refugee in Lord Sri Rama (Venkateswara), who is pleasing to Mother Sita, who has a lotus face as beautiful as the moon, who removes darkness of Ravana like the Sun, who is worthy of worship, and who belongs to Raghu dynasty.",
+      "I take refuge in Lord Sri Rama (Venkateswara), who is pleasing to Mother Sita, who has a lotus face as beautiful as the moon, who removes darkness of Ravana like the Sun, who is worthy of worship, and who belongs to Raghu dynasty.",
     ],
     essence_tel: [
-      "",
+      "సీతాదేవికి మనోల్లాసాన్ని కలిగించేవాడు, చంద్రుని వంటి అందమైన ముఖకమలము కలవాడు, సూర్యుడు చీకటిని పారద్రోలినట్లుగా రావణుడనే అంధకారాన్ని నశింపజేసినవాడు, సకల లోకములచే పూజింపదగినవాడు మరియు రఘువంశమున జన్మించినవాడైన ఆ శ్రీరామచంద్రుని (వేంకటేశ్వరుని) నేను శరణు వేడుతున్నాను.",
     ],
     meanings: [],
     notes: [
@@ -503,7 +503,7 @@ const verses = [
       "I do not worship any other devata at any time in any way, having left, Lord Sri Rama (Venkateswara) who is the best of Raghu dynasty, who has a beautiful face and a good heart, who has great brothers, who has a good body, who arrows never go in vain.",
     ],
     essence_tel: [
-      "",
+      "రఘువంశ శ్రేష్ఠుడైనవాడు, అందమైన ముఖము మరియు నిర్మలమైన హృదయము కలవాడు, గొప్పవారైన సోదరులు (లక్ష్మణ, భరత, శత్రుఘ్నులు) కలవాడు, సుందరమైన విగ్రహము కలవాడు మరియు ఎన్నడూ లక్ష్యం తప్పని అమోఘమైన బాణములు కలవాడైన ఆ శ్రీరామచంద్రుని (వేంకటేశ్వరుని) వదిలి—నేను మరి ఏ ఇతర దేవతను, ఎన్నడూ, ఏ విధంగానూ ఆరాధించను.",
     ],
     meanings: [],
     notes: [
@@ -566,7 +566,7 @@ const verses = [
       "I do not have any other master other than Lord Venkateswara. I always remember Lord Venkateswara. O Lord Hari! O Lord Venkatesa! please become pleased by me. O Lord Venkatesa! please bestow your love and grace upon me.",
     ],
     essence_tel: [
-      "",
+      "శ్రీ వేంకటేశ్వరుడు తప్ప నాకు వేరే దిక్కు (యజమాని) లేరు. నేను ఎల్లప్పుడూ ఆ వేంకటేశ్వరునినే స్మరిస్తాను. ఓ హరీ! వేంకటేశా! నాపై ప్రసన్నుడవు కమ్ము. ఓ వేంకటేశా! నీ ప్రేమను మరియు అనుగ్రహాన్ని నాపై కురిపించుము.",
     ],
     meanings: [],
     notes: [
@@ -614,7 +614,7 @@ const verses = [
       "O Lord Venkatesa! By the desire of worshipping your lotus feet, having come from distance, I am serving you. By this one-time service, you please bestow upon me the result of serving you eternally.",
     ],
     essence_tel: [
-      "",
+      "ఓ వేంకటేశా! నీ పాదపద్మములను సేవించాలనే కోరికతో, ఎంతో దూరం నుండి వచ్చి నేను నిన్ను కొలుస్తున్నాను. నేను చేసిన ఈ ఒక్కసారి సేవకే సంతసించి, నీకు నిరంతరం సేవ చేసే (నిత్య కైంకర్య) ఫలాన్ని నాకు ప్రసాదించుము.",
     ],
     meanings: [],
     notes: [
@@ -656,7 +656,7 @@ const verses = [
       "O Lord Hari! O Lord Venkatesa! Please forgive all the faults committed by (ignorant) me.",
     ],
     essence_tel: [
-      "",
+      "ఓ హరీ! వేంకటేశ్వరా! అజ్ఞానినైన నా చేత తెలియక చేయబడిన సకల అపరాధములను దయతో క్షమించుము.",
     ],
     meanings: [],
     notes: [],
