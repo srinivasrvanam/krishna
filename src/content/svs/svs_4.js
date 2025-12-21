@@ -38,7 +38,7 @@ const verses = [
       "May auspiciousness be upon Śrīnivāsa, who is the beloved consort of Lakṣmī, who is the treasure-house of  all auspiciousness, who is the refuge of all seekers, who resides in Venkata (Tirumala), and who is the  eternal abode of Lakṣmī Herself!",
     ],
     essence_tel: [
-      "",
+      "లక్ష్మీదేవికి ప్రియతముడైనవాడు, సకల శుభములకు నిలయమైనవాడు, శరణుకోరిన వారందరికీ ఆశ్రయమిచ్చేవాడు, వేంకటాద్రి (తిరుమల) నివాసుడు మరియు సాక్షాత్తు లక్ష్మీదేవికి నిత్య నివాసస్థానమైన ఆ శ్రీనివాసునికి సర్వదా శుభము కలుగుగాక!",
     ],
     meanings: [
       "श्रियः = Of Lakṣmī (Goddess of wealth and prosperity)",
@@ -89,7 +89,7 @@ const verses = [
       "May auspiciousness be upon Lord Venkateswara, whose enchanting eyes captivate even Lakṣmī, whose playful glances charm the Goddess with Her beautiful eyebrows, and who is the divine eye (protector) of all the worlds!",
     ],
     essence_tel: [
-      "",
+      "లక్ష్మీదేవినే పరవశింపజేసే అందమైన కన్నులు కలవాడు, తన విలాసవంతమైన చూపులతో సుందరమైన కనుబొమ్మలు కలిగిన ఆ దేవిని సైతం మురిపించేవాడు, మరియు సకల లోకములను కనిపెట్టుకుని కాపాడే దివ్య నేత్రము (రక్షకుడు) అయిన ఆ శ్రీవేంకటేశ్వరునికి మంగళము కలుగుగాక!",
     ],
     meanings: [
       "लक्ष्मी = Goddess Lakṣmī",
@@ -140,7 +140,7 @@ const verses = [
       "May auspiciousness be upon Śrīnivāsa, whose holy feet are the greatest ornaments adorning the summit of Venkatachala, and who is the very abode of all auspiciousness!",
     ],
     essence_tel: [
-      "",
+      "వేంకటాచల శిఖరానికి అత్యున్నతమైన ఆభరణాల వలె శోభిల్లే దివ్య పాదపద్మములు కలవాడు, మరియు సమస్త మంగళములకు నిలయమైనవాడైన ఆ శ్రీనివాసునికి సర్వదా మంగళము కలుగుగాక!",
     ],
     meanings: [
       "श्रीवेङ्कट = Of the sacred Venkata (Tirumala)",
@@ -192,7 +192,7 @@ const verses = [
       "May auspiciousness be upon Lord Venkatesha, who eternally captivates the hearts of all beings (with the supreme beauty of all His limbs)!",
     ],
     essence_tel: [
-      "",
+      "తన నఖశిఖపర్యంతం (పాదాల నుండి శిరస్సు వరకు) గల దివ్య మంగళ స్వరూప సౌందర్యముతో, సకల ప్రాణుల హృదయాలను నిరంతరం పరవశింపజేసే ఆ వేంకటేశ్వర స్వామికి నిత్య మంగళము కలుగుగాక!",
     ],
     meanings: [
       "सर्व = All, every",
@@ -248,7 +248,7 @@ const verses = [
       "May auspiciousness be upon Śrī Venkatesha, who is eternal, flawless, and the supreme conciousness of truth, bliss and knowledge, who is the indwelling soul of all beings!",
     ],
     essence_tel: [
-      "",
+      "నిత్యుడైనవాడు, ఎటువంటి దోషములు లేనివాడు, సత్యము, జ్ఞానము మరియు అనంతమైన ఆనంద స్వరూపుడైనవాడు, మరియు సకల జీవులలో అంతర్యామిగా (ఆత్మగా) వెలిగే ఆ శ్రీ వేంకటేశ్వర స్వామికి మంగళము కలుగుగాక!",
     ],
     meanings: [
       "नित्याय = To the eternal one",
@@ -311,7 +311,7 @@ const verses = [
       "May auspiciousness be upon Lord Venkatesha, who is omniscient by His very nature, who is all-powerful and the supreme master of all, who is easily accessible to devotees, and who is endowed with supreme virtues!",
     ],
     essence_tel: [
-      "",
+      "స్వాభావికముగానే సర్వజ్ఞుడైనవాడు, సర్వశక్తిమంతుడు మరియు సకల లోకములకు అధిపతి అయినవాడు, తనను నమ్ముకున్న భక్తులకు సులభముగా లభించేవాడు, మరియు సాటిలేని దివ్య కళ్యాణ గుణములు కలిగిన ఆ శ్రీ వేంకటేశ్వర స్వామికి నిత్య మంగళము కలుగుగాక!",
     ],
     meanings: [
       "स्वतः = By His own nature, inherently",
@@ -372,7 +372,7 @@ const verses = [
       "I offer auspicious wishes upon Lord Venkatesha, who is the Supreme Brahman, who is eternally fulfilled and complete, who is the Supreme Soul, and who is the highest divine truth!",
     ],
     essence_tel: [
-      "",
+      "పరబ్రహ్మ స్వరూపుడైనవాడు, ఎల్లప్పుడూ సంపూర్ణత్వముతో నిండి తృప్తిగా ఉండేవాడు (నిత్య తృప్తుడు), సకల ఆత్మలకు పరమాత్మ అయినవాడు మరియు పరమ సత్యమైన దైవమైన ఆ శ్రీ వేంకటేశ్వర స్వామికి మంగళము కలుగుగాక!",
     ],
     meanings: [
       "परस्मै = To the supreme, transcendent one",
@@ -422,7 +422,7 @@ const verses = [
       "May auspiciousness be upon Lord Venkatesha, whose form is like inexhaustible nectar, for those souls constantly seeking supreme truth beyond time!",
     ],
     essence_tel: [
-      "",
+      "కాలానికి అతీతమైన పరమ సత్యాన్ని నిరంతరం అన్వేషించే ఆత్మలకు—ఎన్నటికీ తరిగిపోని అమృతము వంటి దివ్య మంగళ స్వరూపము కలిగిన ఆ శ్రీ వేంకటేశ్వర స్వామికి మంగళము కలుగుగాక!",
     ],
     meanings: [
       "आकालतत्त्वम् = The eternal principle, the essence beyond time",
@@ -472,7 +472,7 @@ const verses = [
       "May auspiciousness be upon the glorious Lord Venkatesha, who points his own feet with his hand, due to compassion, as a refuge to all beings!",
     ],
     essence_tel: [
-      "",
+      "సకల జీవుల మీద గల అపారమైన కరుణతో—'నన్నే శరణువేడండి' అని తన హస్తముతో స్వయంగా తన పాదములను చూపిస్తున్న ఆ దివ్య తేజోమయుడైన శ్రీ వేంకటేశ్వర స్వామికి మంగళము కలుగుగాక!",
     ],
     meanings: [
       "प्रायः = Generally, mostly, often",
@@ -521,7 +521,7 @@ const verses = [
       "May auspiciousness be upon Lord Venkateswara! who sprinkles the entire universe with his cool, soothing sidelong glances, just like the gentle waves of a river of nectar-like compassion.",
     ],
     essence_tel: [
-      "",
+      "తన కరుణ అనే అమృతవాహిని యొక్క అలల వలె—చల్లని, ప్రశాంతమైన తన కడకంటి చూపులతో ఈ సమస్త విశ్వాన్ని సేదదీర్చి ముంచెత్తే ఆ శ్రీవేంకటేశ్వర స్వామికి మంగళము కలుగుగాక!",
     ],
     meanings: [
       "दयामृततरङ्गिण्याः = Of the river of nectar-like compassion",
@@ -574,7 +574,7 @@ const verses = [
       "May auspiciousness be upon Lord Venkatesha, who carries a radiant form of garlands, ornaments, garments and weapons, and who removes all suffering and distress!",
     ],
     essence_tel: [
-      "",
+      "తేజోమయమైన మాలలు, ఆభరణాలు, పీతాంబరములు మరియు దివ్యాయుధములను ధరించినవాడు, మరియు తనను ఆశ్రయించిన వారి సకల దుఃఖములను, కష్టములను రూపుమాపే ఆ శ్రీవేంకటేశ్వర స్వామికి మంగళము కలుగుగాక!",
     ],
     meanings: [
       "स्रग् (Srag) = Garland, wreath of flowers",
@@ -632,7 +632,7 @@ const verses = [
       "May auspiciousness be upon Lord Venkatesha, who is unattached to his supreme abode of Vaikuntha, and who is enjoying divine pastimes with Mother Lakshmi(Ramaa) on the banks of Swami Pushkarini!",
     ],
     essence_tel: [
-      "",
+      "తన పరమపదమైన వైకుంఠము పట్ల కూడా ఆసక్తి లేకుండా (విరక్తి చెంది), తిరుమలలోని స్వామి పుష్కరిణీ తీరమున రమాదేవి (లక్ష్మీదేవి) తో కలిసి దివ్య క్రీడలను వినోదముగా ఆస్వాదించే ఆ శ్రీవేంకటేశ్వర స్వామికి మంగళము కలుగుగాక!",
     ],
     meanings: [
       "श्री-वैकुण्ठ-विरक्ताय = To the one who has renounced the supreme abode Vaikuntha",
@@ -678,7 +678,7 @@ const verses = [
       "Auspiciousness be to the Lord Srinivasa, who dwells within the mind of the fortuitous and beautiful sage Srī Manavāḷa Māmuni, and is Himself the abode of the entire universe.",
     ],
     essence_tel: [
-      "",
+      "శ్రీ మణవాళ మామునుల మనస్సులో ఎల్లప్పుడూ నివసించేవాడు, మరియు ఈ సమస్త విశ్వానికి తానే నిలయమైనవాడైన ఆ శ్రీనివాస ప్రభువుకు సర్వదా మంగళము కలుగుగాక!",
     ],
     meanings: [
       "श्रीमत् = Sacred, glorious, revered",
@@ -734,7 +734,7 @@ const verses = [
       "May auspiciousness be upon Lord Venkateswara, who is greatly honoured by all the previous acharyas(starting from my acharya and who are engaged in offering auspicious benedictions)!",
     ],
     essence_tel: [
-      "",
+      "నా గురువుగారి నుండి ప్రారంభించి, పరమ భక్తితో మంగళాశాసనములు చేసిన పూర్వాచార్యులందరిచే మిక్కిలి గౌరవింపబడే ఆ శ్రీ వేంకటేశ్వర స్వామికి సర్వదా మంగళము కలుగుగాక!",
     ],
     meanings: [
       "मङ्गल (Mangala) = Auspicious, beneficial, or well-being",
