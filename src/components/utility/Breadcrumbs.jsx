@@ -17,11 +17,11 @@ const Breadcrumbs = () => {
           const path = `/${pathSegments.slice(0, index + 1).join("/")}`;
           
           const isLast = index === pathSegments.length - 1;
-          console.log('SV: index: '+index);
-          console.log('SV: pathSegments.length: '+pathSegments.length);
-          console.log('SV: pathSegments[0]: '+pathSegments[0]);
-          console.log('SV: path: '+path);
-          console.log('SV: segment: '+segment);
+          // console.log('SV: index: '+index);
+          // console.log('SV: pathSegments.length: '+pathSegments.length);
+          // console.log('SV: pathSegments[0]: '+pathSegments[0]);
+          // console.log('SV: path: '+path);
+          // console.log('SV: segment: '+segment);
           let title = '';
           switch(segment){
             case 'svs':
