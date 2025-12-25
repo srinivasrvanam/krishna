@@ -11,7 +11,7 @@ function VSNHome() {
         {/* First Column (30%) */}
         <div className="w-full lg:w-3/10 flex items-start justify-center">
           <div className="flex flex-row justify-center"> 
-            <img src="https://www.tallengestore.com/cdn/shop/files/SriTirupatiVenkateswaraSwamy_Balaji_Painting_large.jpg?v=1694996304" alt="Sri Venkateswara Swamy" />
+            <img src="./VSN_Home.jpg" alt="Sri Venkateswara Swamy" />
           </div>
         </div>
 
