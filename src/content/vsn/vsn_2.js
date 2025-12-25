@@ -7,25 +7,14 @@ const verses = [
       "अस्य श्रीविष्णोर्दिव्यसहस्रनामस्तोत्रमहामन्त्रस्य ।",
       "श्रीवेदव्यासो भगवान् ऋषिः ।",
     ],
-    sloka_tel : [
-    ],
-    vicheda : [
-      "",
-    ],
-    anvaya  : [
-      "",
-    ],
-    transl  : [
-      "",
-    ],
+    sloka_tel : [],
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
     essence : [],
-    essence_tel: [
-      "",
-    ],
+    essence_tel: [],
     meanings: [],
-    notes   : [
-      "",
-    ],
+    notes   : [],
   },
 ];
 

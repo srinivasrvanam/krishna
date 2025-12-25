@@ -6,25 +6,14 @@ const verses = [
       "ॐ विश्वं विष्णुर्वषट्कारो भूतभव्यभवत्प्रभुः ।",
       "भूतकृद्भूतभृद्भावो भूतात्मा भूतभावनः ॥ १॥",
     ],
-    sloka_tel : [
-    ],
-    vicheda : [
-      "",
-    ],
-    anvaya  : [
-      "",
-    ],
-    transl  : [
-      "",
-    ],
+    sloka_tel : [],
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
     essence : [],
-    essence_tel: [
-      "",
-    ],
+    essence_tel: [],
     meanings: [],
-    notes   : [
-      "",
-    ],
+    notes   : [],
   },
 ];
 
