@@ -2,10 +2,10 @@
 import { useParams } from "react-router-dom";
 import Verse from "../display/Verse";
 import { Link } from "react-router-dom";
-import verses1 from '../../content/svs/svs_1';
-import verses2 from '../../content/svs/svs_2';
-import verses3 from '../../content/svs/svs_3';
-import verses4 from '../../content/svs/svs_4';
+import verses1 from '../../content/vsn/vsn_1';
+import verses2 from '../../content/vsn/vsn_2';
+import verses3 from '../../content/vsn/vsn_3';
+import verses4 from '../../content/vsn/vsn_4';
 import Breadcrumbs from "../utility/Breadcrumbs";
 
 function VSNVerse() {
@@ -20,22 +20,22 @@ function VSNVerse() {
       switch(Number(chapter_num)){
             case 1:
               verses = verses1;
-              title = "Suprabhatham - सुप्रभातम्";
+              title = "पूर्व पीठिका";
               break;
             case 2:
               verses = verses2;
-              title = "Stotram - स्तोत्रम्";
+              title = "न्यासः / ध्यानम्";
               break;
             case 3:
               verses = verses3;
-              title = "Prapatti - प्रपत्तिः";
+              title = "सहस्रनामम्";
               break;
             case 4:
               verses = verses4;
-              title = "Mangalaashasanam - मङ्गलाशासनम्";
-                break;
+              title = "उत्तर पीठिका";
+              break;
             default:
-                verses = [];
+              verses = [];
         }
         const verse = verses.find(verse => verse.number === Number(verse_num));
         console.log('SV: verse: '+verse);
@@ -61,8 +61,8 @@ function VSNVerse() {
                     <Breadcrumbs />
                   </div>
                   <div className="flex flex-wrap justify-center gap-2 mt-2 py-4">
-                    {prevVerse && prevVerse.number && <Link to={`/svs/${chapter_num}/${prevVerse.number}`} className="sv-btn fixed bottom-4 left-5">Prev - {prevVerse.number}</Link>}
-                    {nextVerse && nextVerse.number && <Link to={`/svs/${chapter_num}/${nextVerse.number}`} className="sv-btn fixed bottom-4 right-5">Next - {nextVerse.number}</Link>}
+                    {prevVerse && prevVerse.number && <Link to={`/vsn/${chapter_num}/${prevVerse.number}`} className="sv-btn fixed bottom-4 left-5">Prev - {prevVerse.number}</Link>}
+                    {nextVerse && nextVerse.number && <Link to={`/vsn/${chapter_num}/${nextVerse.number}`} className="sv-btn fixed bottom-4 right-5">Next - {nextVerse.number}</Link>}
                   </div>
                   <Verse verse={verses.find(verse => verse.number === Number(verse_num))} />
                     <br />
