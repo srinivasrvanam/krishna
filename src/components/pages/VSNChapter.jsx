@@ -1,9 +1,9 @@
 import { useParams } from "react-router-dom";
 import Chapter from '../display/Chapter';
-import verses1 from '../../content/svs/svs_1';
-import verses2 from '../../content/svs/svs_2';
-import verses3 from '../../content/svs/svs_3';
-import verses4 from '../../content/svs/svs_4';
+import verses1 from '../../content/vsn/vsn_1';
+import verses2 from '../../content/vsn/vsn_2';
+import verses3 from '../../content/vsn/vsn_3';
+import verses4 from '../../content/vsn/vsn_4';
 import Breadcrumbs from "../utility/Breadcrumbs";
 
 function VSNChapter() {
@@ -15,19 +15,19 @@ function VSNChapter() {
     switch(Number(chapter_num)){
       case 1:
         verses = verses1;
-        title = "Suprabhatham - सुप्रभातम्";
+        title = "पूर्व पीठिका";
         break;
       case 2:
         verses = verses2;
-        title = "Stotram - स्तोत्रम्";
+        title = "न्यासः / ध्यानम्";
         break;
       case 3:
         verses = verses3;
-        title = "Prapatti - प्रपत्तिः";
+        title = "सहस्रनामम्";
         break;
       case 4:
         verses = verses4;
-        title = "Mangalaashasanam - मङ्गलाशासनम्";
+        title = "उत्तर पीठिका";
         break;
       default:
         verses = [];

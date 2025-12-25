@@ -5,7 +5,7 @@ function VSNHome() {
   return (
     <div className="w-full">
       <br />
-      <div className="text-4xl text-center">Sri Venkateswara Suprabhatham </div>
+      <div className="text-4xl text-center">Sri Vishnu Sahasranama Stotram </div>
       <br /><br />
       <div className="flex flex-col lg:flex-row">
         {/* First Column (30%) */}
@@ -21,13 +21,13 @@ function VSNHome() {
             <div className="text-center">Please click these buttons below to view slokas (list and detailed study) of Suprabhatham, Stotram, Prapatti and Mangalaashasanam.</div>
             <br /><br />
             <div className="flex flex-wrap justify-center gap-2 mt-2">
-              <Link to="/svs/1" className="sv-btn">SV-सुप्रभातम्</Link>
-              <Link to="/svs/2" className="sv-btn">SV-स्तोत्रम्</Link>
-              <Link to="/svs/3" className="sv-btn">SV-प्रपत्ति</Link>
-              <Link to="/svs/4" className="sv-btn">SV-मङ्गलाशासनम्</Link>
+              <Link to="/vsn/1" className="sv-btn">पूर्व पीठिका</Link>
+              <Link to="/vsn/2" className="sv-btn">न्यासः / ध्यानम्</Link>
+              <Link to="/vsn/3" className="sv-btn">सहस्रनामम्</Link>
+              <Link to="/vsn/4" className="sv-btn">उत्तर पीठिका</Link>
             </div>   
             <br /><br />
-            <div className="flex flex-col items-center justify-center">
+            {/* <div className="flex flex-col items-center justify-center">
               <b>Suprabhatham Video in VFX (Credits to Makers)</b>
               <iframe 
               className="w-full max-w-2xl aspect-video rounded-lg shadow-xl"
@@ -46,7 +46,7 @@ function VSNHome() {
                   <li><b>Prapatti</b> - contains 16 verses. Is recited as an expression of total surrender to the Lord</li>
                   <li><b>Mangalaashasanam</b> - contains 14 verses. Is recited for glory and well-being of the Lord</li>
                 </ul>
-            </ul>
+            </ul> */}
             <br /><br />
             
             <b><u>How to use the site:</u></b><br />
@@ -66,8 +66,8 @@ function VSNHome() {
             </ul>
             <br /><br /><br />
             
-          <div className="text-3xl">Reference Links:</div>
-          <SVSLinks />
+          {/* <div className="text-3xl">Reference Links:</div>
+          <SVSLinks /> */}
           <br />
           </div>
         </div>
