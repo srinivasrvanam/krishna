@@ -6,11 +6,12 @@ const Home = () => {
       <br /><br />
       <div className="text-center text-2xl font-bold">
         This site contains Sloka Study from Sri Venkateswara Suprabhatham,
-        Bhagavad Gita
+        Bhagavad Gita and Sri Vishnu Sahasranamam.
         <br /><br />
         <div className="flex flex-wrap justify-center gap-2 mt-2">
           <Link to="/svs" className="sv-btn">Suprabhatham</Link>
           <Link to="/bg" className="sv-btn">Bhagavad Gita</Link>
+          <Link to="/vsn" className="sv-btn">Sahasranamam</Link>
         </div>
         <br /><br />
         <div className="flex flex-col align-center justify-around h-[60vh] w-[90%] md:w-[80%] lg:w-[60%] mx-auto"> 

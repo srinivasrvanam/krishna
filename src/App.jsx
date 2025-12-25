@@ -8,6 +8,9 @@ import SVSVerse from "./components/pages/SVSVerse";
 import BGHome from "./components/pages/BGHome";
 import BGChapter from "./components/pages/BGChapter";
 import BGVerse from "./components/pages/BGVerse";
+import VSNHome from "./components/pages/VSNHome";
+import VSNChapter from "./components/pages/VSNChapter";
+import VSNVerse from "./components/pages/VSNVerse";
 import Navbar from "./components/display/Navbar";
 import Footer from "./components/display/Footer";
 import BackToTop from "./components/utility/BackToTop";
@@ -39,6 +42,9 @@ function App() {
           <Route path="/bg" element={<BGHome />} />
           <Route path="/bg/:chapter_num" element={<BGChapter />} />
           <Route path="/bg/:chapter_num/:verse_num" element={<BGVerse />} />
+          <Route path="/vsn" element={<VSNHome />} />
+          <Route path="/vsn/:chapter_num" element={<VSNChapter />} />
+          <Route path="/vsn/:chapter_num/:verse_num" element={<VSNVerse />} />
           <Route path="/:topic_name/:chapter_num/:verse_num" element={<Breadcrumbs />} />
         </Routes>
       </Layout>

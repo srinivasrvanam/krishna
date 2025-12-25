@@ -27,17 +27,28 @@ const Breadcrumbs = () => {
             case 'bg':
               title = "Bhagavad Gita";
               break;
+            case 'vsn':
+              title = "Sahasranamam";
+              break;
             case '1':
-              title = (pathSegments[0] === 'svs') ? "Suprabhatham" : "1. Arjuna Vishada Yoga";
+              if(pathSegments[0] === 'svs') title = "Suprabhatham";
+              if(pathSegments[0] === 'bg') title = "1. Arjuna Vishada Yoga";
+              if(pathSegments[0] === 'vsn') title = "पूर्व पीठिका";
               break;
             case '2':
-              title = (pathSegments[0] === 'svs') ? "Stotram" : "2. Sankhya Yoga";
+              if(pathSegments[0] === 'svs') title = "Stotram";
+              if(pathSegments[0] === 'bg') title = "2. Sankhya Yoga";
+              if(pathSegments[0] === 'vsn') title = "न्यासः / ध्यानम्";
               break;
             case '3':
-              title = (pathSegments[0] === 'svs') ? "Prapatti" : "3. Karma Yoga";
+              if(pathSegments[0] === 'svs') title = "Prapatti";
+              if(pathSegments[0] === 'bg') title = "3. Karma Yoga";
+              if(pathSegments[0] === 'vsn') title = "सहस्रनामम्";
               break;
             case '4':
-              title = (pathSegments[0] === 'svs') ? "Mangalaashasanam" : "4. Karma Sanyasa Yoga";
+              if(pathSegments[0] === 'svs') title = "Mangalaashasanam";
+              if(pathSegments[0] === 'bg') title = "4. Karma Sanyasa Yoga";
+              if(pathSegments[0] === 'vsn') title = "उत्तर पीठिका";
               break;
             default:
               title = segment;

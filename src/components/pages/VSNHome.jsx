@@ -18,7 +18,7 @@ function VSNHome() {
         {/* Second Column (70%) */}
         <div className="w-full lg:w-7/10 flex items-center justify-center p-2">
           <div className="md:px-10 px-5">
-            <div className="text-center">Please click these buttons below to view slokas (list and detailed study) of Suprabhatham, Stotram, Prapatti and Mangalaashasanam.</div>
+            <div className="text-center">Please click these buttons below to view slokas (list and detailed study) of Sri Vishnu Sahasranama Stotram.</div>
             <br /><br />
             <div className="flex flex-wrap justify-center gap-2 mt-2">
               <Link to="/vsn/1" className="sv-btn">पूर्व पीठिका</Link>
