@@ -17,6 +17,9 @@ const Breadcrumbs = () => {
           const path = `/${pathSegments.slice(0, index + 1).join("/")}`;
           
           const isLast = index === pathSegments.length - 1;
+          console.log('SV: index: '+index);
+          console.log('SV: pathSegments.length: '+pathSegments.length);
+          console.log('SV: pathSegments[0]: '+pathSegments[0]);
           console.log('SV: path: '+path);
           console.log('SV: segment: '+segment);
           let title = '';
@@ -54,11 +57,14 @@ const Breadcrumbs = () => {
               title = segment;
               break;
           }
+          if(index === 2) title = segment;
+
           return (
             <li key={path} className="flex pl-2">
-              {isLast===false && <span className="mx-1 pr-2">&gt;</span>}
+              <span className="mx-1 pr-2">&gt;</span>
+              {/* {isLast===false && <span className="mx-1 pr-2">&gt;</span>} */}
               {isLast ? (
-                <span>{/*segment*/}</span>
+                <span>{title}</span>
               ) : (
                 <Link to={path} className="sv-btn-nav">
                   {title}
