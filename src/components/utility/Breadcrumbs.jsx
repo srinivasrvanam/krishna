@@ -41,16 +41,19 @@ const Breadcrumbs = () => {
             case '2':
               if(pathSegments[0] === 'svs') title = "Stotram";
               if(pathSegments[0] === 'bg') title = "2. Sankhya Yoga";
-              if(pathSegments[0] === 'vsn') title = "न्यासः / ध्यानम्";
+              if(pathSegments[0] === 'vsn') title = "न्यासः";
               break;
             case '3':
               if(pathSegments[0] === 'svs') title = "Prapatti";
               if(pathSegments[0] === 'bg') title = "3. Karma Yoga";
-              if(pathSegments[0] === 'vsn') title = "सहस्रनामम्";
+              if(pathSegments[0] === 'vsn') title = "ध्यानम्";
               break;
             case '4':
               if(pathSegments[0] === 'svs') title = "Mangalaashasanam";
               if(pathSegments[0] === 'bg') title = "4. Karma Sanyasa Yoga";
+              if(pathSegments[0] === 'vsn') title = "सहस्रनामम्";
+              break;
+            case '5':
               if(pathSegments[0] === 'vsn') title = "उत्तर पीठिका";
               break;
             default:

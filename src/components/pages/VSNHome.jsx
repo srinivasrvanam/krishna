@@ -22,9 +22,10 @@ function VSNHome() {
             <br /><br />
             <div className="flex flex-wrap justify-center gap-2 mt-2">
               <Link to="/vsn/1" className="sv-btn">पूर्व पीठिका</Link>
-              <Link to="/vsn/2" className="sv-btn">न्यासः / ध्यानम्</Link>
-              <Link to="/vsn/3" className="sv-btn">सहस्रनामम्</Link>
-              <Link to="/vsn/4" className="sv-btn">उत्तर पीठिका</Link>
+              <Link to="/vsn/2" className="sv-btn">न्यासः</Link>
+              <Link to="/vsn/3" className="sv-btn">ध्यानम्</Link>
+              <Link to="/vsn/4" className="sv-btn">सहस्रनामम्</Link>
+              <Link to="/vsn/5" className="sv-btn">उत्तर पीठिका</Link>
             </div>   
             <br /><br />
             {/* <div className="flex flex-col items-center justify-center">

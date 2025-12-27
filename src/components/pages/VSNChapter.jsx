@@ -4,12 +4,13 @@ import verses1 from '../../content/vsn/vsn_1';
 import verses2 from '../../content/vsn/vsn_2';
 import verses3 from '../../content/vsn/vsn_3';
 import verses4 from '../../content/vsn/vsn_4';
+import verses5 from '../../content/vsn/vsn_5';
 import Breadcrumbs from "../utility/Breadcrumbs";
 
 function VSNChapter() {
   const { chapter_num } = useParams();
 
-  if(chapter_num !== undefined && chapter_num >= 1 && chapter_num <= 4){
+  if(chapter_num !== undefined && chapter_num >= 1 && chapter_num <= 5){
     let verses = [];
     let title = '';
     switch(Number(chapter_num)){
@@ -19,14 +20,18 @@ function VSNChapter() {
         break;
       case 2:
         verses = verses2;
-        title = "न्यासः / ध्यानम्";
+        title = "न्यासः";
         break;
       case 3:
         verses = verses3;
-        title = "सहस्रनामम्";
+        title = "ध्यानम्";
         break;
       case 4:
         verses = verses4;
+        title = "सहस्रनामम्";
+        break;
+      case 5:
+        verses = verses5;
         title = "उत्तर पीठिका";
         break;
       default:

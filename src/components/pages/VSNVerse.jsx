@@ -24,13 +24,17 @@ function VSNVerse() {
               break;
             case 2:
               verses = verses2;
-              title = "न्यासः / ध्यानम्";
+              title = "न्यासः";
               break;
             case 3:
               verses = verses3;
-              title = "सहस्रनामम्";
+              title = "ध्यानम्";
               break;
             case 4:
+              verses = verses4;
+              title = "सहस्रनामम्";
+              break;
+            case 5:
               verses = verses4;
               title = "उत्तर पीठिका";
               break;
