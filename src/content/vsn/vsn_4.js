@@ -3,6 +3,7 @@ const verses = [
     chapter : 4,
     number  : 1,
     sloka   : [
+      "हरिः ॐ ।",
       "ॐ विश्वं विष्णुर्वषट्कारो भूतभव्यभवत्प्रभुः ।",
       "भूतकृद्भूतभृद्भावो भूतात्मा भूतभावनः ॥ १॥",
     ],
@@ -18,7 +19,10 @@ const verses = [
   {
     chapter : 4,
     number  : 2,
-    sloka   : [],
+    sloka   : [
+      "पूतात्मा परमात्मा च मुक्तानां परमा गतिः ।",
+      "अव्ययः पुरुषः साक्षी क्षेत्रज्ञोऽक्षर एव च ॥ २॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -31,7 +35,10 @@ const verses = [
   {
     chapter : 4,
     number  : 3,
-    sloka   : [],
+    sloka   : [
+      "योगो योगविदां नेता प्रधानपुरुषेश्वरः ।",
+      "नारसिंहवपुः श्रीमान् केशवः पुरुषोत्तमः ॥ ३॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -44,7 +51,10 @@ const verses = [
   {
     chapter : 4,
     number  : 4,
-    sloka   : [],
+    sloka   : [
+      "सर्वः शर्वः शिवः स्थाणुर्भूतादिर्निधिरव्ययः ।",
+      "सम्भवो भावनो भर्ता प्रभवः प्रभुरीश्वरः ॥ ४॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -57,7 +67,10 @@ const verses = [
   {
     chapter : 4,
     number  : 5,
-    sloka   : [],
+    sloka   : [
+      "स्वयम्भूः शम्भुरादित्यः पुष्कराक्षो महास्वनः ।",
+      "अनादिनिधनो धाता विधाता धातुरुत्तमः ॥ ५॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -70,7 +83,10 @@ const verses = [
   {
     chapter : 4,
     number  : 6,
-    sloka   : [],
+    sloka   : [
+      "अप्रमेयो हृषीकेशः पद्मनाभोऽमरप्रभुः ।",
+      "विश्वकर्मा मनुस्त्वष्टा स्थविष्ठः स्थविरो ध्रुवः ॥ ६॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -83,7 +99,10 @@ const verses = [
   {
     chapter : 4,
     number  : 7,
-    sloka   : [],
+    sloka   : [
+      "अग्राह्यः शाश्वतः कृष्णो लोहिताक्षः प्रतर्दनः ।",
+      "प्रभूतस्त्रिककुब्धाम पवित्रं मङ्गलं परम् ॥ ७॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -96,7 +115,10 @@ const verses = [
   {
     chapter : 4,
     number  : 8,
-    sloka   : [],
+    sloka   : [
+      "ईशानः प्राणदः प्राणो ज्येष्ठः श्रेष्ठः प्रजापतिः ।",
+      "हिरण्यगर्भो भूगर्भो माधवो मधुसूदनः ॥ ८॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -109,7 +131,10 @@ const verses = [
   {
     chapter : 4,
     number  : 9,
-    sloka   : [],
+    sloka   : [
+      "ईश्वरो विक्रमी धन्वी मेधावी विक्रमः क्रमः ।",
+      "अनुत्तमो दुराधर्षः कृतज्ञः कृतिरात्मवान् ॥ ९॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -122,7 +147,10 @@ const verses = [
   {
     chapter : 4,
     number  : 10,
-    sloka   : [],
+    sloka   : [
+      "सुरेशः शरणं शर्म विश्वरेताः प्रजाभवः ।",
+      "अहः संवत्सरो व्यालः प्रत्ययः सर्वदर्शनः ॥ १०॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -135,7 +163,10 @@ const verses = [
   {
     chapter : 4,
     number  : 11,
-    sloka   : [],
+    sloka   : [
+      "अजः सर्वेश्वरः सिद्धः सिद्धिः सर्वादिरच्युतः ।",
+      "वृषाकपिरमेयात्मा सर्वयोगविनिःसृतः ॥ ११॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -148,7 +179,10 @@ const verses = [
   {
     chapter : 4,
     number  : 12,
-    sloka   : [],
+    sloka   : [
+      "वसुर्वसुमनाः सत्यः समात्माऽसम्मितः समः ।",
+      "अमोघः पुण्डरीकाक्षो वृषकर्मा वृषाकृतिः ॥ १२॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -161,7 +195,10 @@ const verses = [
   {
     chapter : 4,
     number  : 13,
-    sloka   : [],
+    sloka   : [
+      "रुद्रो बहुशिरा बभ्रुर्विश्वयोनिः शुचिश्रवाः ।",
+      "अमृतः शाश्वतस्थाणुर्वरारोहो महातपाः ॥ १३॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -174,7 +211,10 @@ const verses = [
   {
     chapter : 4,
     number  : 14,
-    sloka   : [],
+    sloka   : [
+      "सर्वगः सर्वविद्भानुर्विष्वक्सेनो जनार्दनः ।",
+      "वेदो वेदविदव्यङ्गो वेदाङ्गो वेदवित् कविः ॥ १४॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -187,7 +227,10 @@ const verses = [
   {
     chapter : 4,
     number  : 15,
-    sloka   : [],
+    sloka   : [
+      "लोकाध्यक्षः सुराध्यक्षो धर्माध्यक्षः कृताकृतः ।",
+      "चतुरात्मा चतुर्व्यूहश्चतुर्दंष्ट्रश्चतुर्भुजः ॥ १५॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -200,7 +243,10 @@ const verses = [
   {
     chapter : 4,
     number  : 16,
-    sloka   : [],
+    sloka   : [
+      "भ्राजिष्णुर्भोजनं भोक्ता सहिष्णुर्जगदादिजः ।",
+      "अनघो विजयो जेता विश्वयोनिः पुनर्वसुः ॥ १६॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -213,7 +259,10 @@ const verses = [
   {
     chapter : 4,
     number  : 17,
-    sloka   : [],
+    sloka   : [
+      "उपेन्द्रो वामनः प्रांशुरमोघः शुचिरूर्जितः ।",
+      "अतीन्द्रः सङ्ग्रहः सर्गो धृतात्मा नियमो यमः ॥ १७॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -226,7 +275,10 @@ const verses = [
   {
     chapter : 4,
     number  : 18,
-    sloka   : [],
+    sloka   : [
+      "वेद्यो वैद्यः सदायोगी वीरहा माधवो मधुः ।",
+      "अतीन्द्रियो महामायो महोत्साहो महाबलः ॥ १८॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -239,7 +291,10 @@ const verses = [
   {
     chapter : 4,
     number  : 19,
-    sloka   : [],
+    sloka   : [
+      "महाबुद्धिर्महावीर्यो महाशक्तिर्महाद्युतिः ।",
+      "अनिर्देश्यवपुः श्रीमानमेयात्मा महाद्रिधृक् ॥ १९॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -252,7 +307,10 @@ const verses = [
   {
     chapter : 4,
     number  : 20,
-    sloka   : [],
+    sloka   : [
+      "महेष्वासो महीभर्ता श्रीनिवासः सतां गतिः ।",
+      "अनिरुद्धः सुरानन्दो गोविन्दो गोविदां पतिः ॥ २०॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -265,7 +323,10 @@ const verses = [
   {
     chapter : 4,
     number  : 21,
-    sloka   : [],
+    sloka   : [
+      "मरीचिर्दमनो हंसः सुपर्णो भुजगोत्तमः ।",
+      "हिरण्यनाभः सुतपाः पद्मनाभः प्रजापतिः ॥ २१॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -278,7 +339,10 @@ const verses = [
   {
     chapter : 4,
     number  : 22,
-    sloka   : [],
+    sloka   : [
+      "अमृत्युः सर्वदृक् सिंहः सन्धाता सन्धिमान् स्थिरः ।",
+      "अजो दुर्मर्षणः शास्ता विश्रुतात्मा सुरारिहा ॥ २२॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -291,7 +355,10 @@ const verses = [
   {
     chapter : 4,
     number  : 23,
-    sloka   : [],
+    sloka   : [
+      "गुरुर्गुरुतमो धाम सत्यः सत्यपराक्रमः ।",
+      "निमिषोऽनिमिषः स्रग्वी वाचस्पतिरुदारधीः ॥ २३॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -304,7 +371,10 @@ const verses = [
   {
     chapter : 4,
     number  : 24,
-    sloka   : [],
+    sloka   : [
+      "अग्रणीर्ग्रामणीः श्रीमान् न्यायो नेता समीरणः ।",
+      "सहस्रमूर्धा विश्वात्मा सहस्राक्षः सहस्रपात् ॥ २४॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -317,7 +387,10 @@ const verses = [
   {
     chapter : 4,
     number  : 25,
-    sloka   : [],
+    sloka   : [
+      "आवर्तनो निवृत्तात्मा संवृतः सम्प्रमर्दनः ।",
+      "अहः संवर्तको वह्निरनिलो धरणीधरः ॥ २५॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -330,7 +403,10 @@ const verses = [
   {
     chapter : 4,
     number  : 26,
-    sloka   : [],
+    sloka   : [
+      "सुप्रसादः प्रसन्नात्मा विश्वधृग्विश्वभुग्विभुः ।",
+      "सत्कर्ता सत्कृतः साधुर्जह्नुर्नारायणो नरः ॥ २६॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -343,7 +419,10 @@ const verses = [
   {
     chapter : 4,
     number  : 27,
-    sloka   : [],
+    sloka   : [
+      "असङ्ख्येयोऽप्रमेयात्मा विशिष्टः शिष्टकृच्छुचिः ।",
+      "सिद्धार्थः सिद्धसङ्कल्पः सिद्धिदः सिद्धिसाधनः ॥ २७॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -356,7 +435,10 @@ const verses = [
   {
     chapter : 4,
     number  : 28,
-    sloka   : [],
+    sloka   : [
+      "वृषाही वृषभो विष्णुर्वृषपर्वा वृषोदरः ।",
+      "वर्धनो वर्धमानश्च विविक्तः श्रुतिसागरः ॥ २८॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -369,7 +451,10 @@ const verses = [
   {
     chapter : 4,
     number  : 29,
-    sloka   : [],
+    sloka   : [
+      "सुभुजो दुर्धरो वाग्मी महेन्द्रो वसुदो वसुः ।",
+      "नैकरूपो बृहद्रूपः शिपिविष्टः प्रकाशनः ॥ २९॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -382,7 +467,10 @@ const verses = [
   {
     chapter : 4,
     number  : 30,
-    sloka   : [],
+    sloka   : [
+      "ओजस्तेजोद्युतिधरः प्रकाशात्मा प्रतापनः ।",
+      "ऋद्धः स्पष्टाक्षरो मन्त्रश्चन्द्रांशुर्भास्करद्युतिः ॥ ३०॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -395,7 +483,10 @@ const verses = [
   {
     chapter : 4,
     number  : 31,
-    sloka   : [],
+    sloka   : [
+      "अमृतांशूद्भवो भानुः शशबिन्दुः सुरेश्वरः ।",
+      "औषधं जगतः सेतुः सत्यधर्मपराक्रमः ॥ ३१॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -408,7 +499,10 @@ const verses = [
   {
     chapter : 4,
     number  : 32,
-    sloka   : [],
+    sloka   : [
+      "भूतभव्यभवन्नाथः पवनः पावनोऽनलः ।",
+      "कामहा कामकृत्कान्तः कामः कामप्रदः प्रभुः ॥ ३२॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -421,7 +515,10 @@ const verses = [
   {
     chapter : 4,
     number  : 33,
-    sloka   : [],
+    sloka   : [
+      "युगादिकृद्युगावर्तो नैकमायो महाशनः ।",
+      "अदृश्यो व्यक्तरूपश्च सहस्रजिदनन्तजित् ॥ ३३॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -434,7 +531,10 @@ const verses = [
   {
     chapter : 4,
     number  : 34,
-    sloka   : [],
+    sloka   : [
+      "इष्टोऽविशिष्टः शिष्टेष्टः शिखण्डी नहुषो वृषः ।",
+      "क्रोधहा क्रोधकृत्कर्ता विश्वबाहुर्महीधरः ॥ ३४॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -447,7 +547,10 @@ const verses = [
   {
     chapter : 4,
     number  : 35,
-    sloka   : [],
+    sloka   : [
+      "अच्युतः प्रथितः प्राणः प्राणदो वासवानुजः ।",
+      "अपांनिधिरधिष्ठानमप्रमत्तः प्रतिष्ठितः ॥ ३५॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -460,7 +563,10 @@ const verses = [
   {
     chapter : 4,
     number  : 36,
-    sloka   : [],
+    sloka   : [
+      "स्कन्दः स्कन्दधरो धुर्यो वरदो वायुवाहनः ।",
+      "वासुदेवो बृहद्भानुरादिदेवः पुरन्दरः ॥ ३६॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -473,7 +579,10 @@ const verses = [
   {
     chapter : 4,
     number  : 37,
-    sloka   : [],
+    sloka   : [
+      "अशोकस्तारणस्तारः शूरः शौरिर्जनेश्वरः ।",
+      "अनुकूलः शतावर्तः पद्मी पद्मनिभेक्षणः ॥ ३७॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -486,7 +595,10 @@ const verses = [
   {
     chapter : 4,
     number  : 38,
-    sloka   : [],
+    sloka   : [
+      "पद्मनाभोऽरविन्दाक्षः पद्मगर्भः शरीरभृत् ।",
+      "महर्द्धिरृद्धो वृद्धात्मा महाक्षो गरुडध्वजः ॥ ३८॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -499,7 +611,10 @@ const verses = [
   {
     chapter : 4,
     number  : 39,
-    sloka   : [],
+    sloka   : [
+      "अतुलः शरभो भीमः समयज्ञो हविर्हरिः ।",
+      "सर्वलक्षणलक्षण्यो लक्ष्मीवान् समितिञ्जयः ॥ ३९॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -512,7 +627,10 @@ const verses = [
   {
     chapter : 4,
     number  : 40,
-    sloka   : [],
+    sloka   : [
+      "विक्षरो रोहितो मार्गो हेतुर्दामोदरः सहः ।",
+      "महीधरो महाभागो वेगवानमिताशनः ॥ ४०॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -525,7 +643,10 @@ const verses = [
   {
     chapter : 4,
     number  : 41,
-    sloka   : [],
+    sloka   : [
+      "उद्भवः क्षोभणो देवः श्रीगर्भः परमेश्वरः ।",
+      "करणं कारणं कर्ता विकर्ता गहनो गुहः ॥ ४१॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -538,7 +659,10 @@ const verses = [
   {
     chapter : 4,
     number  : 42,
-    sloka   : [],
+    sloka   : [
+      "व्यवसायो व्यवस्थानः संस्थानः स्थानदो ध्रुवः ।",
+      "परर्द्धिः परमस्पष्टस्तुष्टः पुष्टः शुभेक्षणः ॥ ४२॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -551,7 +675,10 @@ const verses = [
   {
     chapter : 4,
     number  : 43,
-    sloka   : [],
+    sloka   : [
+      "रामो विरामो विरजो मार्गो नेयो नयोऽनयः । (विरामो विरतो)",
+      "वीरः शक्तिमतां श्रेष्ठो धर्मो धर्मविदुत्तमः ॥ ४३॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -564,7 +691,10 @@ const verses = [
   {
     chapter : 4,
     number  : 44,
-    sloka   : [],
+    sloka   : [
+      "वैकुण्ठः पुरुषः प्राणः प्राणदः प्रणवः पृथुः ।",
+      "हिरण्यगर्भः शत्रुघ्नो व्याप्तो वायुरधोक्षजः ॥ ४४॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -577,7 +707,10 @@ const verses = [
   {
     chapter : 4,
     number  : 45,
-    sloka   : [],
+    sloka   : [
+      "ऋतुः सुदर्शनः कालः परमेष्ठी परिग्रहः ।",
+      "उग्रः संवत्सरो दक्षो विश्रामो विश्वदक्षिणः ॥ ४५॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -590,7 +723,10 @@ const verses = [
   {
     chapter : 4,
     number  : 46,
-    sloka   : [],
+    sloka   : [
+      "विस्तारः स्थावरस्थाणुः प्रमाणं बीजमव्ययम् ।",
+      "अर्थोऽनर्थो महाकोशो महाभोगो महाधनः ॥ ४६॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -603,7 +739,10 @@ const verses = [
   {
     chapter : 4,
     number  : 47,
-    sloka   : [],
+    sloka   : [
+      "अनिर्विण्णः स्थविष्ठोऽभूर्धर्मयूपो महामखः ।",
+      "नक्षत्रनेमिर्नक्षत्री क्षमः क्षामः समीहनः ॥ ४७॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -616,7 +755,10 @@ const verses = [
   {
     chapter : 4,
     number  : 48,
-    sloka   : [],
+    sloka   : [
+      "यज्ञ इज्यो महेज्यश्च क्रतुः सत्रं सतां गतिः ।",
+      "सर्वदर्शी विमुक्तात्मा सर्वज्ञो ज्ञानमुत्तमम् ॥ ४८॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -629,7 +771,10 @@ const verses = [
   {
     chapter : 4,
     number  : 49,
-    sloka   : [],
+    sloka   : [
+      "सुव्रतः सुमुखः सूक्ष्मः सुघोषः सुखदः सुहृत् ।",
+      "मनोहरो जितक्रोधो वीरबाहुर्विदारणः ॥ ४९॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -642,7 +787,10 @@ const verses = [
   {
     chapter : 4,
     number  : 50,
-    sloka   : [],
+    sloka   : [
+      "स्वापनः स्ववशो व्यापी नैकात्मा नैककर्मकृत् ।",
+      "वत्सरो वत्सलो वत्सी रत्नगर्भो धनेश्वरः ॥ ५०॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -655,7 +803,10 @@ const verses = [
   {
     chapter : 4,
     number  : 51,
-    sloka   : [],
+    sloka   : [
+      "धर्मगुब्धर्मकृद्धर्मी सदसत्क्षरमक्षरम् ।",
+      "अविज्ञाता सहस्रांशुर्विधाता कृतलक्षणः ॥ ५१॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -668,7 +819,10 @@ const verses = [
   {
     chapter : 4,
     number  : 52,
-    sloka   : [],
+    sloka   : [
+      "गभस्तिनेमिः सत्त्वस्थः सिंहो भूतमहेश्वरः ।",
+      "आदिदेवो महादेवो देवेशो देवभृद्गुरुः ॥ ५२॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -681,7 +835,10 @@ const verses = [
   {
     chapter : 4,
     number  : 53,
-    sloka   : [],
+    sloka   : [
+      "उत्तरो गोपतिर्गोप्ता ज्ञानगम्यः पुरातनः ।",
+      "शरीरभूतभृद्भोक्ता कपीन्द्रो भूरिदक्षिणः ॥ ५३॥",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -694,7 +851,10 @@ const verses = [
   {
     chapter : 4,
     number  : 54,
-    sloka   : [],
+    sloka   : [
+      "सोमपोऽमृतपः सोमः पुरुजित्पुरुसत्तमः ।",
+      "विनयो जयः सत्यसन्धो दाशार्हः सात्वताम्पतिः ॥ ५४॥ विनियोज्यः",
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -707,7 +867,9 @@ const verses = [
   {
     chapter : 4,
     number  : 55,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -720,7 +882,9 @@ const verses = [
   {
     chapter : 4,
     number  : 56,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -733,7 +897,9 @@ const verses = [
   {
     chapter : 4,
     number  : 57,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -746,7 +912,9 @@ const verses = [
   {
     chapter : 4,
     number  : 58,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -759,7 +927,9 @@ const verses = [
   {
     chapter : 4,
     number  : 59,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -772,7 +942,9 @@ const verses = [
   {
     chapter : 4,
     number  : 60,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -785,7 +957,9 @@ const verses = [
   {
     chapter : 4,
     number  : 61,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -798,7 +972,9 @@ const verses = [
   {
     chapter : 4,
     number  : 62,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -811,7 +987,9 @@ const verses = [
   {
     chapter : 4,
     number  : 63,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -824,7 +1002,9 @@ const verses = [
   {
     chapter : 4,
     number  : 64,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -837,7 +1017,9 @@ const verses = [
   {
     chapter : 4,
     number  : 65,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -850,7 +1032,9 @@ const verses = [
   {
     chapter : 4,
     number  : 66,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -863,7 +1047,9 @@ const verses = [
   {
     chapter : 4,
     number  : 67,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -876,7 +1062,9 @@ const verses = [
   {
     chapter : 4,
     number  : 68,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -889,7 +1077,9 @@ const verses = [
   {
     chapter : 4,
     number  : 69,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -902,7 +1092,9 @@ const verses = [
   {
     chapter : 4,
     number  : 70,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -915,7 +1107,9 @@ const verses = [
   {
     chapter : 4,
     number  : 71,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -928,7 +1122,9 @@ const verses = [
   {
     chapter : 4,
     number  : 72,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -941,7 +1137,9 @@ const verses = [
   {
     chapter : 4,
     number  : 73,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -954,7 +1152,9 @@ const verses = [
   {
     chapter : 4,
     number  : 74,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -967,7 +1167,9 @@ const verses = [
   {
     chapter : 4,
     number  : 75,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -980,7 +1182,9 @@ const verses = [
   {
     chapter : 4,
     number  : 76,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -993,7 +1197,9 @@ const verses = [
   {
     chapter : 4,
     number  : 77,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1006,7 +1212,9 @@ const verses = [
   {
     chapter : 4,
     number  : 78,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1019,7 +1227,9 @@ const verses = [
   {
     chapter : 4,
     number  : 79,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1032,7 +1242,9 @@ const verses = [
   {
     chapter : 4,
     number  : 80,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1045,7 +1257,9 @@ const verses = [
   {
     chapter : 4,
     number  : 81,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1058,7 +1272,9 @@ const verses = [
   {
     chapter : 4,
     number  : 82,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1071,7 +1287,9 @@ const verses = [
   {
     chapter : 4,
     number  : 83,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1084,7 +1302,9 @@ const verses = [
   {
     chapter : 4,
     number  : 84,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1097,7 +1317,9 @@ const verses = [
   {
     chapter : 4,
     number  : 85,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1110,7 +1332,9 @@ const verses = [
   {
     chapter : 4,
     number  : 86,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1123,7 +1347,9 @@ const verses = [
   {
     chapter : 4,
     number  : 87,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1136,7 +1362,9 @@ const verses = [
   {
     chapter : 4,
     number  : 88,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1149,7 +1377,9 @@ const verses = [
   {
     chapter : 4,
     number  : 89,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1162,7 +1392,9 @@ const verses = [
   {
     chapter : 4,
     number  : 90,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1175,7 +1407,9 @@ const verses = [
   {
     chapter : 4,
     number  : 91,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1188,7 +1422,9 @@ const verses = [
   {
     chapter : 4,
     number  : 92,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1201,7 +1437,9 @@ const verses = [
   {
     chapter : 4,
     number  : 93,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1214,7 +1452,9 @@ const verses = [
   {
     chapter : 4,
     number  : 94,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1227,7 +1467,9 @@ const verses = [
   {
     chapter : 4,
     number  : 95,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1240,7 +1482,9 @@ const verses = [
   {
     chapter : 4,
     number  : 96,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1253,7 +1497,9 @@ const verses = [
   {
     chapter : 4,
     number  : 97,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1266,7 +1512,9 @@ const verses = [
   {
     chapter : 4,
     number  : 98,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1279,7 +1527,9 @@ const verses = [
   {
     chapter : 4,
     number  : 99,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1292,7 +1542,9 @@ const verses = [
   {
     chapter : 4,
     number  : 100,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1305,7 +1557,9 @@ const verses = [
   {
     chapter : 4,
     number  : 101,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1318,7 +1572,9 @@ const verses = [
   {
     chapter : 4,
     number  : 102,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1331,7 +1587,9 @@ const verses = [
   {
     chapter : 4,
     number  : 103,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1344,7 +1602,9 @@ const verses = [
   {
     chapter : 4,
     number  : 104,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1357,7 +1617,9 @@ const verses = [
   {
     chapter : 4,
     number  : 105,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1370,7 +1632,9 @@ const verses = [
   {
     chapter : 4,
     number  : 106,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1383,7 +1647,9 @@ const verses = [
   {
     chapter : 4,
     number  : 107,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
@@ -1396,7 +1662,9 @@ const verses = [
   {
     chapter : 4,
     number  : 108,
-    sloka   : [],
+    sloka   : [
+      
+    ],
     sloka_tel : [],
     vicheda : [],
     anvaya  : [],
