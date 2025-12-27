@@ -15,7 +15,7 @@ function VSNVerse() {
     console.log('SV: chapter_num: '+chapter_num);
     console.log('SV: verse_num: '+verse_num);
     
-    if(chapter_num !== undefined && chapter_num >= 1 && chapter_num <=4 && verse_num !== undefined){
+    if(chapter_num !== undefined && chapter_num >= 1 && chapter_num <=5 && verse_num !== undefined){
       let verses = [];  
       let title = '';
       switch(Number(chapter_num)){
