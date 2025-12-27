@@ -26,6 +26,7 @@ function VSNHome() {
               <Link to="/vsn/3" className="sv-btn">ध्यानम्</Link>
               <Link to="/vsn/4" className="sv-btn">सहस्रनामम्</Link>
               <Link to="/vsn/5" className="sv-btn">उत्तर पीठिका</Link>
+              <Link to="/las/1" className="sv-btn">लक्ष्मी अष्टोत्तरम्</Link>
             </div>   
             <br /><br />
             {/* <div className="flex flex-col items-center justify-center">

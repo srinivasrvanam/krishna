@@ -33,10 +33,14 @@ const Breadcrumbs = () => {
             case 'vsn':
               title = "Sahasranamam";
               break;
+            case 'las':
+              title = "Sahasranamam";
+              break;
             case '1':
               if(pathSegments[0] === 'svs') title = "Suprabhatham";
               if(pathSegments[0] === 'bg') title = "1. Arjuna Vishada Yoga";
               if(pathSegments[0] === 'vsn') title = "पूर्व पीठिका";
+              if(pathSegments[0] === 'las') title = "लक्ष्मी अष्टोत्तरम्";
               break;
             case '2':
               if(pathSegments[0] === 'svs') title = "Stotram";

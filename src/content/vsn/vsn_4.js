@@ -1,6 +1,6 @@
 const verses = [
   {
-    chapter : 3,
+    chapter : 4,
     number  : 1,
     sloka   : [
       "ॐ विश्वं विष्णुर्वषट्कारो भूतभव्यभवत्प्रभुः ।",

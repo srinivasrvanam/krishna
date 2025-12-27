@@ -1,6 +1,6 @@
 const verses = [
   {
-    chapter : 4,
+    chapter : 5,
     number  : 1,
     sloka   : [
       "भीष्म उवाच",
