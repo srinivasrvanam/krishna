@@ -31,6 +31,7 @@ const Navbar = () => {
           <Link to="/svs" className="sv-btn-nav">Suprabhatham</Link>
           <Link to="/bg" className="sv-btn-nav">Bhagavad Gita</Link>
           <Link to="/vsn" className="sv-btn-nav">Sahasranamam</Link>
+          <Link to="/las" className="sv-btn-nav">Ashtottaram</Link>
         </div>
 
         {/* Hamburger Menu (Visible on small screens) */}
@@ -54,6 +55,7 @@ const Navbar = () => {
           <li className="sv-btn-nav"><Link to="/svs" onClick={() => setIsOpen(false)}>Suprabhatham</Link></li>
           <li className="sv-btn-nav"><Link to="/bg" onClick={() => setIsOpen(false)}>Bhagavad Gita</Link></li>
           <li className="sv-btn-nav"><Link to="/vsn" onClick={() => setIsOpen(false)}>Sahasranamam</Link></li>
+          <li className="sv-btn-nav"><Link to="/las" onClick={() => setIsOpen(false)}>Ashtottaram</Link></li>
         </ul>
       )}
     </nav>    

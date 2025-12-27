@@ -1,32 +1,29 @@
 import { Link } from "react-router-dom";
 import SVSLinks from "../utility/SVSLinks";
 
-function VSNHome() {
+function LASHome() {
   return (
     <div className="w-full">
       <br />
-      <div className="text-4xl text-center">Sri Vishnu Sahasranama Stotram </div>
+      <div className="text-4xl text-center">Sri Lakshmi Ashtottara Shatanama Stotram</div>
       <br /><br />
       <div className="flex flex-col lg:flex-row">
         {/* First Column (30%) */}
         <div className="w-full lg:w-3/10 flex items-start justify-center">
           <div className="flex flex-row justify-center"> 
-            <img src="./VSN_Home.jpg" alt="Sri Venkateswara Swamy" />
+            <img src="./LAS_Home.png" alt="Sri Maha Lakshmi" />
           </div>
         </div>
 
         {/* Second Column (70%) */}
         <div className="w-full lg:w-7/10 flex items-center justify-center p-2">
           <div className="md:px-10 px-5">
-            <div className="text-center">Please click these buttons below to view slokas (list and detailed study) of Sri Vishnu Sahasranama Stotram.</div>
+            <div className="text-center">Please click these buttons below to view slokas (list and detailed study) of Sri Lakshmi Ashtottara Shatanama Stotram.</div>
             <br /><br />
             <div className="flex flex-wrap justify-center gap-2 mt-2">
-              <Link to="/vsn/1" className="sv-btn">पूर्व पीठिका</Link>
-              <Link to="/vsn/2" className="sv-btn">न्यासः</Link>
-              <Link to="/vsn/3" className="sv-btn">ध्यानम्</Link>
-              <Link to="/vsn/4" className="sv-btn">सहस्रनामम्</Link>
-              <Link to="/vsn/5" className="sv-btn">उत्तर पीठिका</Link>
-              {/* <Link to="/las/1" className="sv-btn">लक्ष्मी अष्टोत्तरम्</Link> */}
+              <Link to="/las/1" className="sv-btn">पूर्व पीठिका</Link>
+              <Link to="/las/2" className="sv-btn">लक्ष्मी अष्टोत्तरम्</Link>
+              <Link to="/las/3" className="sv-btn">फलश्रुतिः</Link>
             </div>   
             <br /><br />
             {/* <div className="flex flex-col items-center justify-center">
@@ -83,4 +80,4 @@ function VSNHome() {
   );
 }
 
-export default VSNHome;
+export default LASHome;

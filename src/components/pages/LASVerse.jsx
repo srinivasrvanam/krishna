@@ -3,6 +3,8 @@ import { useParams } from "react-router-dom";
 import Verse from "../display/Verse";
 import { Link } from "react-router-dom";
 import verses1 from '../../content/las/las_1';
+import verses2 from '../../content/las/las_2';
+import verses3 from '../../content/las/las_3';
 import Breadcrumbs from "../utility/Breadcrumbs";
 
 function LASVerse() {
@@ -11,13 +13,21 @@ function LASVerse() {
     console.log('SV: chapter_num: '+chapter_num);
     console.log('SV: verse_num: '+verse_num);
     
-    if(chapter_num !== undefined && chapter_num >= 1 && chapter_num <=4 && verse_num !== undefined){
+    if(chapter_num !== undefined && chapter_num >= 1 && chapter_num <=3 && verse_num !== undefined){
       let verses = [];  
       let title = '';
       switch(Number(chapter_num)){
             case 1:
               verses = verses1;
+              title = "पूर्व पीठिका";
+              break;
+            case 2:
+              verses = verses2;
               title = "लक्ष्मी अष्टोत्तरम्";
+              break;
+            case 3:
+              verses = verses3;
+              title = "फलश्रुतिः";
               break;
             default:
               verses = [];

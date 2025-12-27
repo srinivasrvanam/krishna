@@ -11,6 +11,7 @@ import BGVerse from "./components/pages/BGVerse";
 import VSNHome from "./components/pages/VSNHome";
 import VSNChapter from "./components/pages/VSNChapter";
 import VSNVerse from "./components/pages/VSNVerse";
+import LASHome from "./components/pages/LASHome";
 import LASChapter from "./components/pages/LASChapter";
 import LASVerse from "./components/pages/LASVerse";
 import Navbar from "./components/display/Navbar";
@@ -47,7 +48,7 @@ function App() {
           <Route path="/vsn" element={<VSNHome />} />
           <Route path="/vsn/:chapter_num" element={<VSNChapter />} />
           <Route path="/vsn/:chapter_num/:verse_num" element={<VSNVerse />} />
-          <Route path="/las" element={<VSNHome />} /> {/* LASHome can be created later if needed */}  
+          <Route path="/las" element={<LASHome />} />
           <Route path="/las/:chapter_num" element={<LASChapter />} />
           <Route path="/las/:chapter_num/:verse_num" element={<LASVerse />} />
           <Route path="/:topic_name/:chapter_num/:verse_num" element={<Breadcrumbs />} />
