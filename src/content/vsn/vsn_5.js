@@ -107,7 +107,13 @@ const verses = [
       "యశః ప్రాప్నోతి విపులం జ్ఞాతిప్రాధాన్యమేవ చ |",
       "అచలాం శ్రియమాప్నోతి శ్రేయః ప్రాప్నోత్యనుత్తమమ్ ॥ ౬॥"
     ],
-    vicheda : [], anvaya : [], transl : [], essence : [], essence_tel : [], meanings : [], notes : []
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
+    essence : [],
+    essence_tel: [],
+    meanings: [],
+    notes   : [],
   },
   {
     chapter : 5,
@@ -120,7 +126,13 @@ const verses = [
       "న భయం క్వచిదాప్నోతి వీర్యం తేజశ్చ విన్దతి |",
       "భవత్యరోగో ద్యుతిమాన్ బలరూపగుణాన్వితః ॥ ౭॥"
     ],
-    vicheda : [], anvaya : [], transl : [], essence : [], essence_tel : [], meanings : [], notes : []
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
+    essence : [],
+    essence_tel: [],
+    meanings: [],
+    notes   : [],
   },
   {
     chapter : 5,
@@ -133,7 +145,13 @@ const verses = [
       "రోగార్తో ముచ్యతే రోగాద్బద్ధో ముచ్యేత బన్ధనాత్ |",
       "భయాన్ముచ్యేత భీతస్తు ముచ్యేతాపన్న ఆపదః ॥ ౮॥"
     ],
-    vicheda : [], anvaya : [], transl : [], essence : [], essence_tel : [], meanings : [], notes : []
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
+    essence : [],
+    essence_tel: [],
+    meanings: [],
+    notes   : [],
   },
   {
     chapter : 5,
@@ -146,7 +164,13 @@ const verses = [
       "దుర్గాణ్యతితరత్యాశు పురుషః పురుషోత్తమమ్ |",
       "స్తువన్నామసహస్రేణ నిత్యం భక్తిసమన్వితః ॥ ౯॥"
     ],
-    vicheda : [], anvaya : [], transl : [], essence : [], essence_tel : [], meanings : [], notes : []
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
+    essence : [],
+    essence_tel: [],
+    meanings: [],
+    notes   : [],
   },
   {
     chapter : 5,
@@ -159,7 +183,13 @@ const verses = [
       "వాసుదేవాశ్రయో మర్త్యో వాసుదేవపరాయణః |",
       "సర్వపాపవిశుద్ధాత్మా యాతి బ్రహ్మ సనాతనమ్ ॥ ౧౦॥"
     ],
-    vicheda : [], anvaya : [], transl : [], essence : [], essence_tel : [], meanings : [], notes : []
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
+    essence : [],
+    essence_tel: [],
+    meanings: [],
+    notes   : [],
   },
   {
     chapter : 5,
@@ -172,7 +202,13 @@ const verses = [
       "న వాసుదేవభక్తానామశుభం విద్యతే క్వచిత్ |",
       "జన్మమృత్యుజరావ్యాధిభయం నైవోపజాయతే ॥ ౧౧॥"
     ],
-    vicheda : [], anvaya : [], transl : [], essence : [], essence_tel : [], meanings : [], notes : []
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
+    essence : [],
+    essence_tel: [],
+    meanings: [],
+    notes   : [],
   },
   {
     chapter : 5,
@@ -185,7 +221,13 @@ const verses = [
       "ఇమం స్తవమధీయానః శ్రద్ధాభక్తిసమన్వితః |",
       "యుజ్యేతాత్మసుఖక్షాన్తిశ్రీధృతిస్మృతికీర్తిభిః ॥ ౧౨॥"
     ],
-    vicheda : [], anvaya : [], transl : [], essence : [], essence_tel : [], meanings : [], notes : []
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
+    essence : [],
+    essence_tel: [],
+    meanings: [],
+    notes   : [],
   },
   {
     chapter : 5,
@@ -198,7 +240,13 @@ const verses = [
       "న క్రోధో న చ మాత్సర్యం న లోభో నాశుభా మతిః |",
       "భవన్తి కృతపుణ్యానాం భక్తానాం పురుషోత్తమే ॥ ౧౩॥"
     ],
-    vicheda : [], anvaya : [], transl : [], essence : [], essence_tel : [], meanings : [], notes : []
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
+    essence : [],
+    essence_tel: [],
+    meanings: [],
+    notes   : [],
   },
   {
     chapter : 5,
@@ -211,7 +259,13 @@ const verses = [
       "ద్యౌః సచన్ద్రార్కనక్షత్రా ఖం దిశో భూర్మహోదధిః |",
       "వాసుదేవస్య వీర్యేణ విధృతాని మహాత్మనః ॥ ౧౪॥"
     ],
-    vicheda : [], anvaya : [], transl : [], essence : [], essence_tel : [], meanings : [], notes : []
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
+    essence : [],
+    essence_tel: [],
+    meanings: [],
+    notes   : [],
   },
   {
     chapter : 5,
@@ -224,7 +278,13 @@ const verses = [
       "ససురాసురగన్ధర్వం సయక్షోరగరాక్షసమ్ |",
       "జగద్వశే వర్తతేదం కృష్ణస్య సచరాచరమ్ ॥ ౧౫॥"
     ],
-    vicheda : [], anvaya : [], transl : [], essence : [], essence_tel : [], meanings : [], notes : []
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
+    essence : [],
+    essence_tel: [],
+    meanings: [],
+    notes   : [],
   },
   {
     chapter : 5,
@@ -237,7 +297,13 @@ const verses = [
       "ఇన్ద్రియాణి మనో బుద్ధిః సత్త్వం తేజో బలం ధృతిః |",
       "వాసుదేవాత్మకాన్యాహుః క్షేత్రం క్షేత్రజ్ఞ ఏవ చ ॥ ౧౬॥"
     ],
-    vicheda : [], anvaya : [], transl : [], essence : [], essence_tel : [], meanings : [], notes : []
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
+    essence : [],
+    essence_tel: [],
+    meanings: [],
+    notes   : [],
   },
   {
     chapter : 5,
@@ -250,7 +316,13 @@ const verses = [
       "సర్వాగమానామాచారః ప్రథమం పరికల్పతే |",
       "ఆచారప్రభవో ధర్మో ధర్మస్య ప్రభురచ్యుతః ॥ ౧౭॥"
     ],
-    vicheda : [], anvaya : [], transl : [], essence : [], essence_tel : [], meanings : [], notes : []
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
+    essence : [],
+    essence_tel: [],
+    meanings: [],
+    notes   : [],
   },
   {
     chapter : 5,
@@ -263,7 +335,13 @@ const verses = [
       "ఋషయః పితరో దేవా మహాభూతాని ధాతవః |",
       "జఙ్గమాజఙ్గమం చేదం జగన్నారాయణోద్భవమ్ ॥ ౧౮॥"
     ],
-    vicheda : [], anvaya : [], transl : [], essence : [], essence_tel : [], meanings : [], notes : []
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
+    essence : [],
+    essence_tel: [],
+    meanings: [],
+    notes   : [],
   },
   {
     chapter : 5,
@@ -276,7 +354,13 @@ const verses = [
       "యోగో జ్ఞానం తథా సాఙ్ఖ్యం విద్యాః శిల్పాది కర్మ చ |",
       "వేదాః శాస్త్రాణి విజ్ఞానమేతత్ సర్వం జనార్దనాత్ ॥ ౧౯॥"
     ],
-    vicheda : [], anvaya : [], transl : [], essence : [], essence_tel : [], meanings : [], notes : []
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
+    essence : [],
+    essence_tel: [],
+    meanings: [],
+    notes   : [],
   },
   {
     chapter : 5,
@@ -289,7 +373,13 @@ const verses = [
       "ఏకో విష్ణురనేకాని భూతాన్యన్తశ్చరన్ విభుః |",
       "వ్యాప్య లోకాన్త్రయాన్ సర్వాన్ భుఙ్క్తే విశ్వభుగవ్యయః ॥ ౨౦॥"
     ],
-    vicheda : [], anvaya : [], transl : [], essence : [], essence_tel : [], meanings : [], notes : []
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
+    essence : [],
+    essence_tel: [],
+    meanings: [],
+    notes   : [],
   },
   {
     chapter : 5,
@@ -302,7 +392,13 @@ const verses = [
       "ఇమం స్తవం భగవతో విష్ణోర్వ్యాసేన కీర్తితమ్ |",
       "పఠేద్య ఇచ్ఛేత్పురుషః శ్రేయః ప్రాప్తుం సుఖాని చ ॥ ౨౧॥"
     ],
-    vicheda : [], anvaya : [], transl : [], essence : [], essence_tel : [], meanings : [], notes : []
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
+    essence : [],
+    essence_tel: [],
+    meanings: [],
+    notes   : [],
   },
   {
     chapter : 5,
@@ -315,7 +411,13 @@ const verses = [
       "విశ్వేశ్వరమజం దేవం జగతః ప్రభుమవ్యయమ్ |",
       "భజన్తి యే పుష్కరాక్షం న తే యాన్తి పరాభవమ్ ॥ ౨౨॥"
     ],
-    vicheda : [], anvaya : [], transl : [], essence : [], essence_tel : [], meanings : [], notes : []
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
+    essence : [],
+    essence_tel: [],
+    meanings: [],
+    notes   : [],
   },
   {
     chapter : 5,
@@ -330,7 +432,13 @@ const verses = [
       "పద్మపత్రవిశాలాక్ష పద్మనాభ సురోత్తమ |",
       "భక్తానామనురక్తానాం త్రాతా భవ జనార్దన ॥ ౨౩॥"
     ],
-    vicheda : [], anvaya : [], transl : [], essence : [], essence_tel : [], meanings : [], notes : []
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
+    essence : [],
+    essence_tel: [],
+    meanings: [],
+    notes   : [],
   },
   {
     chapter : 5,
@@ -345,7 +453,13 @@ const verses = [
       "యో మాం నామసహస్రేణ స్తోతుమిచ్ఛతి పాణ్డవ |",
       "సోऽహమేకేన శ్లోకేన స్తుత ఏవ న సంశయః ॥ ౨౪॥"
     ],
-    vicheda : [], anvaya : [], transl : [], essence : [], essence_tel : [], meanings : [], notes : []
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
+    essence : [],
+    essence_tel: [],
+    meanings: [],
+    notes   : [],
   },
   {
     chapter : 5,
@@ -360,7 +474,13 @@ const verses = [
       "వాసనాద్వాసుదేవస్య వాసితం భువనత్రయమ్ |",
       "సర్వభూతనివాసోऽసి వాసుదేవ నమోऽస్తు తే ॥ ౨౫॥"
     ],
-    vicheda : [], anvaya : [], transl : [], essence : [], essence_tel : [], meanings : [], notes : []
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
+    essence : [],
+    essence_tel: [],
+    meanings: [],
+    notes   : [],
   },
   {
     chapter : 5,
@@ -375,7 +495,13 @@ const verses = [
       "కేనోపాయేన లఘునా విష్ణోర్నామసహస్రకమ్ |",
       "పథ్యతే పణ్డితైర్నిత్యం శ్రోతుమిచ్ఛామ్యహం ప్రభో ॥ ౨౬॥"
     ],
-    vicheda : [], anvaya : [], transl : [], essence : [], essence_tel : [], meanings : [], notes : []
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
+    essence : [],
+    essence_tel: [],
+    meanings: [],
+    notes   : [],
   },
   {
     chapter : 5,
@@ -390,7 +516,13 @@ const verses = [
       "శ్రీరామ రామ రామేతి రమే రామే మనోరమే |",
       "సహస్రనామ తత్తుల్యం రామనామ వరాననే ॥ ౨౭॥"
     ],
-    vicheda : [], anvaya : [], transl : [], essence : [], essence_tel : [], meanings : [], notes : []
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
+    essence : [],
+    essence_tel: [],
+    meanings: [],
+    notes   : [],
   },
   {
     chapter : 5,
@@ -405,7 +537,13 @@ const verses = [
       "నమోऽస్త్వనన్తాయ సహస్రమూర్తయే సహస్రపాదక్షిశిరోరుబాహవే |",
       "సహస్రనామ్నే పురుషాయ శాశ్వతే సహస్రకోటీయుగధారిణే నమః ॥ ౨౮॥"
     ],
-    vicheda : [], anvaya : [], transl : [], essence : [], essence_tel : [], meanings : [], notes : []
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
+    essence : [],
+    essence_tel: [],
+    meanings: [],
+    notes   : [],
   },
   {
     chapter : 5,
@@ -420,7 +558,13 @@ const verses = [
       "యత్ర యోగేశ్వరః కృష్ణో యత్ర పార్థో ధనుర్ధరః |",
       "తత్ర శ్రీర్విజయో భూతిర్ధ్రువా నీతిర్మతిర్మమ ॥ ౨౯॥"
     ],
-    vicheda : [], anvaya : [], transl : [], essence : [], essence_tel : [], meanings : [], notes : []
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
+    essence : [],
+    essence_tel: [],
+    meanings: [],
+    notes   : [],
   },
   {
     chapter : 5,
@@ -435,7 +579,13 @@ const verses = [
       "అనన్యాశ్చిన్తయన్తో మాం యే జనాః పర్యుపాసతే |",
       "తేషాం నిత్యాభియుక్తానాం యోగక్షేమం వహామ్యహమ్ ॥ ౩౦॥"
     ],
-    vicheda : [], anvaya : [], transl : [], essence : [], essence_tel : [], meanings : [], notes : []
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
+    essence : [],
+    essence_tel: [],
+    meanings: [],
+    notes   : [],
   },
   {
     chapter : 5,
@@ -448,7 +598,13 @@ const verses = [
       "పరిత్రాణాయ సాధూనాం వినాశాయ చ దుష్కృతామ్ |",
       "ధర్మసంస్థాపనార్థాయ సమ్భవామి యుగే యుగే ॥ ౩౧॥"
     ],
-    vicheda : [], anvaya : [], transl : [], essence : [], essence_tel : [], meanings : [], notes : []
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
+    essence : [],
+    essence_tel: [],
+    meanings: [],
+    notes   : [],
   },
   {
     chapter : 5,
@@ -461,7 +617,13 @@ const verses = [
       "ఆర్తా విషణ్ణాః శిథిలాశ్చ భీతాః ఘోరేషు చ వ్యాధిషు వర్తమానాః |",
       "సఙ్కీర్త్య నారాయణశబ్దమాత్రం విముక్తదుఃఖాః సుఖినో భవన్తి ॥ ౩౨॥"
     ],
-    vicheda : [], anvaya : [], transl : [], essence : [], essence_tel : [], meanings : [], notes : []
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
+    essence : [],
+    essence_tel: [],
+    meanings: [],
+    notes   : [],
   },
   {
     chapter : 5,
@@ -474,7 +636,13 @@ const verses = [
       "కాయేన వాచా మనసేన్ద్రియైర్వా బుద్ధ్యాత్మనా వా ప్రకృతేః స్వభావాత్ |",
       "కరోమి యద్యత్సకలం పరస్మై నారాయణాయేతి సమర్పయామి ॥ ౩౩॥"
     ],
-    vicheda : [], anvaya : [], transl : [], essence : [], essence_tel : [], meanings : [], notes : []
+    vicheda : [],
+    anvaya  : [],
+    transl  : [],
+    essence : [],
+    essence_tel: [],
+    meanings: [],
+    notes   : [],
   }
 ];
 
