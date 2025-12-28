@@ -421,14 +421,48 @@ const verses = [
       "को धर्मः सर्वधर्माणां भवतः परमो मतः ।",
       "किं जपन्मुच्यते जन्तुर्जन्मसंसारबन्धनात् ॥ ९॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    sloka_tel : [
+      "కో ధర్మః సర్వధర్మాణాం భవతః పరమో మతః ।",
+      "కిం జపన్ముచ్యతే జంతుర్జన్మసంసారబంధనాత్ ॥ ౯॥",
+    ],
+    vicheda : [
+      "कः धर्मः सर्व-धर्माणां भवतः परमः मतः ।",
+      "किम् जपन् मुच्यते जन्तुः जन्म-संसार-बन्धनात् ॥",
+    ],
+    anvaya  : [
+      "सर्वधर्माणां कः धर्मः भवतः परमः मतः?", 
+      "जन्तुः किम् जपन् जन्म-संसार-बन्धनात् मुच्यते?",
+    ],
+    transl  : [
+      "Which among all duties (Dharmas) is, in your opinion, the greatest?",
+      "By chanting what does a living being find release from the bondage of the cycle of birth and worldly existence?",
+    ],
+    essence : [
+      "Which among all duties (Dharmas) is, in your opinion, the greatest? By chanting what does a living being find release from the bondage of the cycle of birth and worldly existence?"
+    ],
+    essence_tel : [
+      "అన్ని ధర్మములలోను ఏ ధర్మము గొప్పదని మీ అభిప్రాయం? దేనిని జపించడం వల్ల మానవుడు ఈ పుట్టుక, మరణం అనే సంసార బంధం నుండి విముక్తి పొందుతాడు?"
+    ],
+    meanings: [
+      "Kaḥ = Which / Who",
+      "Dharmaḥ = Duty / Righteous path",
+      "Sarva-dharmāṇām = Among all Dharmas",
+      "Bhavataḥ = Your (Respectful 'Yours')",
+      "Paramaḥ = Supreme / Greatest",
+      "Mataḥ = Opinion / Considered as",
+      "Kim = What / Which",
+      "Japan = Chanting / Reciting (while doing Japa)",
+      "Mucyate = Is released / Is liberated",
+      "Jantuḥ = A living being / creature",
+      "Janma-saṃsāra-bandhanāt = From the bondage of the cycle of birth and death"
+    ],
+    notes   : [
+      "Yudhishthira asks the final two of his six questions: 5. What is the ultimate Dharma above all others? 6. What specific Mantra or Name, when chanted, liberates a soul from the suffering of repeated births?",
+      "Grammar: 'Japan' is a Present Participle (Śatṛ-pratyaya), meaning 'while chanting'.",
+      "Grammar: 'Mucyate' is Passive Voice (Karmaṇi Prayoga), meaning 'is freed'.",
+      "Context: The word 'Jantu' is used broadly to include all living beings, emphasizing that this path to liberation is open to everyone.",
+      "This completes the 'Ṣaṭ-praśna' (The Six Questions) that define the scope of the Vishnu Sahasranama."
+    ],
   },
   {
     chapter : 1,
