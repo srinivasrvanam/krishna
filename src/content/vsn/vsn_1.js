@@ -260,14 +260,49 @@ const verses = [
       "यस्य स्मरणमात्रेण जन्मसंसारबन्धनात् ।",
       "विमुच्यते नमस्तस्मै विष्णवे प्रभविष्णवे ॥ ६॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    sloka_tel : [
+      "యస్య స్మరణమాత్రేణ జన్మసంసారబంధనాత్ ।",
+      "విముచ్యతే నమస్తస్మై విష్ణవే ప్రభవిష్ణవే ॥ ౬॥",
+    ],
+    vicheda : [
+      "यस्य स्मरण-मात्रेण जन्म-संसार-बन्धनात् ।",
+      "विमुच्यते नमः तस्मै विष्णवे प्रभ-विष्णवे ॥",
+    ],
+    anvaya  : [
+      "यस्य स्मरण-मात्रेण जन्म-संसार-बन्धनात् विमुच्यते, तस्मै",
+      "प्रभ-विष्णवे", 
+      "विष्णवे", 
+      "नमः",
+    ],
+    transl  : [
+      "to the One whose mere remembrance liberates one from the bondage of birth and worldly existence",
+      "to the Lord who is the source of all power",
+      "to the Lord Vishnu",
+      "Salutations",
+    ],
+    essence : [
+      "Salutations to that all-powerful Lord Vishnu, by mere remembrance of whom one is liberated from the bondage of the cycle of birth and worldly existence.",      
+    ],
+    essence_tel : [
+      "ఎవరిని స్మరించినంత మాత్రము చేతనే మనిషి పుట్టుక అనే సంసార బంధము నుండి విముక్తి పొందుతాడో, అట్టి సర్వశక్తిమంతుడైన విష్ణుమూర్తికి నమస్కారం."
+    ],
+    meanings: [
+      "Yasya = Whose / Of whom",
+      "Smaraṇa-mātreṇa = By mere remembrance",
+      "Janma-saṃsāra-bandhanāt = From the bondage of birth and worldly life",
+      "Vimucyate = (One) is liberated / set free",
+      "Namaḥ = Salutation",
+      "Tasmai = To Him",
+      "Viṣṇave = To Vishnu",
+      "Prabhaviṣṇave = To the all-powerful / Lord of all"
+    ],
+    notes   : [
+      "This verse emphasizes the efficacy of 'Namasmarana' (chanting/remembering the name). It promises that the simple act of remembering Vishnu is sufficient to break the chains of Samsara (the cycle of birth and death).",
+      "Grammar: 'Bandhanāt' is in the Pañcamī Vibhakti (5th case), indicating 'separation from' or 'liberation from'.",
+      "The verb 'Vimucyate' is in the Passive Voice (Karmani Prayoga) - 'is liberated'.",
+      "The word 'Mātreṇa' (by mere/only) suggests that even without complex rituals, simple devotion is enough for salvation.",
+      "Prabhaviṣṇu: 'Prabhavati iti prabhaviṣṇuḥ' - The one who is the source of all power."
+    ],
   },
   {
     chapter : 1,
