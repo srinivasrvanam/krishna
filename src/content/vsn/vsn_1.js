@@ -307,38 +307,57 @@ const verses = [
       "Prabhaviṣṇu: 'Prabhavati iti prabhaviṣṇuḥ' - The one who is the source of all power."
     ],
   },
-  // {
-  //   chapter : 1,
-  //   number  : 6.1,
-  //   sloka   : [
-  //     "(नमः समस्तभूतानामादिभूताय भूभृते ।",
-  //     "अनेकरूपरूपाय विष्णवे प्रभविष्णवे ॥)",
-  //   ],
-  //   sloka_tel : [],
-  //   vicheda : [],
-  //   anvaya  : [],
-  //   transl  : [],
-  //   essence : [],
-  //   essence_tel: [],
-  //   meanings: [],
-  //   notes   : [],
-  // },
   {
     chapter : 1,
     number  : 7,
     sloka   : [
-      "श्रीवैशम्पायन उवाच ---",
+      "-- श्रीवैशम्पायन उवाच --",
       "श्रुत्वा धर्मानशेषेण पावनानि च सर्वशः ।",
       "युधिष्ठिरः शान्तनवं पुनरेवाभ्यभाषत ॥ ७॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    sloka_tel : [
+      "-- శ్రీవైశంపాయన ఉవాచ --",
+      "శ్రుత్వా ధర్మానశేషేణ పావనాని చ సర్వశః ।",
+      "యుధిష్ఠిరః శాంతనవం పునరేవాభ్యభాషత ॥ ౭॥",
+    ],
+    vicheda : [
+      "श्रुत्वा धर्मान् अशेषेण पावनानि च सर्वशः ।",
+      "युधिष्ठिरः शान्तनवं पुनः एव अभि-अभाषत ॥",
+    ],
+    anvaya  : [
+      "धर्मान् अशेषेण पावनानि च सर्वशः श्रुत्वा", 
+      "युधिष्ठिरः शान्तनवं पुनः एव अभि-अभाषत ।"
+    ],
+    transl  : [
+      "Having heard all the Dharmas in their entirety and various purifying acts",
+      "Yudhishthira once again addressed Bhishma, the son of Shantanu.",
+    ],
+    essence : [
+      "Sri Vaishampayana said: Having heard all the Dharmas in their entirety and various purifying acts, Yudhishthira once again addressed Bhishma, the son of Shantanu."
+    ],
+    essence_tel : [
+      "వైశంపాయన మహర్షి ఇలా పలికెను: సమస్త ధర్మములను, పుణ్య కార్యములను పూర్తిగా వినిన తరువాత, ధర్మరాజు శంతనుని కుమారుడైన భీష్ముడిని మరల ఇట్లు ప్రశ్నించెను."
+    ],
+    meanings: [
+      "Śrī-Vaiśampāyana uvāca = Sage Vaishampayana said",
+      "Śrutvā = Having heard",
+      "Dharmān = Dharmas / Duties",
+      "Aśeṣeṇa = In their entirety (without remainder)",
+      "Pāvanāni = Purifying acts / rituals",
+      "Ca = And",
+      "Sarvaśaḥ = In every way",
+      "Yudhiṣṭhiraḥ = King Yudhishthira",
+      "Śāntanavam = The son of Shantanu (Bhishma)",
+      "Punaḥ-eva = Once again",
+      "Abhyabhāṣata = Addressed / Spoke to"
+    ],
+    notes   : [
+      "After hearing a vast discourse on various duties and rituals from Bhishma on his bed of arrows, Yudhishthira remains inquisitive. He asks a set of six famous questions that lead to the revelation of the Vishnu Sahasranama.",
+      "Grammar: 'Śrutvā' uses the Ktva-pratyaya (Gerund), indicating an action completed before the main verb.",
+      "Grammar: 'Abhyabhāṣata' is in the Liṭ-lakāra (Past Tense), reflecting the historical narrative style of the Itihasa.",
+      "Context: This verse sets the stage for the dialogue in the Anushasana Parva of the Mahabharata.",
+      "Śāntanavam refers to Bhishma Pitamaha, identifying him by his father Shantanu."
+    ],
   },
   {
     chapter : 1,
