@@ -521,17 +521,56 @@ const verses = [
     chapter : 1,
     number  : 11,
     sloka   : [
-      "तमेव चार्चयन्नित्यं  भक्त्या पुरुषमव्ययम् ।",
+      "तमेव चार्चयन्नित्यं भक्त्या पुरुषमव्ययम् ।",
       "ध्यायन् स्तुवन् नमस्यंश्च यजमानस्तमेव च ॥ ११॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    sloka_tel : [
+      "తమేవ చార్చయన్నిత్యం భక్త్యా పురుషమవ్యయమ్ ।",
+      "ధ్యాయన్ స్తువన్ నమస్యంశ్చ యజమానస్తమేవ చ ॥ ౧౧॥",
+    ],
+    vicheda : [
+      "तम् एव च अर्चयन् नित्यं भक्त्या पुरुषम् अव्ययम् ।",
+      "ध्यायन् स्तुवन् नमस्यन् च यजमानः तम् एव च ॥",
+    ],
+    anvaya  : [
+      "यजमानः",
+      "- नित्यं भक्त्या (अव्ययम् पुरुषम्) तम् एव अर्चयन्",
+      "- ध्यायन् स्तुवन् नमस्यन् च",
+      "(शुभं प्राप्नोति) ।",
+    ],
+    transl  : [
+      "The worshiper (Yajamāna)",
+      "- by always worshipping that imperishable Being (the Supreme Person) with devotion",
+      "- by meditating on Him, by praising Him, and by bowing down to Him",
+      "(attains the highest good)."
+    ],
+    essence : [
+      "And also by always worshipping that imperishable Being with devotion, by meditating on Him, by praising Him, and by bowing down to Him, the worshiper (attains the highest good)."
+    ],
+    essence_tel: [
+      "ఆ అవ్యయుడైన పురుషుడిని ఎల్లప్పుడూ భక్తితో పూజిస్తూ, ధ్యానిస్తూ, స్తుతిస్తూ మరియు నమస్కరిస్తూ ఉండేవారు ఆ పరమాత్మను పొందుతారు (శుభములను పొందుతారు)."
+    ],
+    meanings: [
+      "Tam = Him",
+      "Eva = Only / Alone",
+      "Ca = And",
+      "Arcayan = Worshipping",
+      "Nityaṃ = Constantly / Always",
+      "Bhaktyā = With devotion",
+      "Puruṣam = The Person / Being",
+      "Avyayam = Imperishable / Changeless",
+      "Dhyāyan = Meditating",
+      "Stuvan = Praising / Laudating",
+      "Namasyan = Saluting / Bowing",
+      "Yajamānaḥ = The worshiper / The one performing the ritual"
+    ],
+    notes   : [
+      "Bhishma describes a complete form of worship that involves the mind, speech, and body (Trikaraṇa Śuddhi). He emphasizes that the 'Yajamāna' (seeker) should perform these acts—meditation, praise, and salutation—continuously and with deep devotion.",
+      "Grammar: The words 'Arcayan', 'Dhyāyan', 'Stuvan', and 'Namasyan' are all Present Participles (Śatṛ-pratyaya). This indicates that the worshiper should perform these actions simultaneously or as a continuous flow.",
+      "The term 'Avyayam' means that which does not decay or decrease (Na vyeti iti avyayaḥ).",
+      "Trikaraṇa Śuddhi: Meditation (Mind), Praise (Speech), and Bowing/Worship (Body) are all highlighted here.",
+      "The use of 'Eva' (only) reinforces that the focus must remain solely on the Supreme Being."
+    ],
   },
   {
     chapter : 1,
