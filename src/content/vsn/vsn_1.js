@@ -468,18 +468,54 @@ const verses = [
     chapter : 1,
     number  : 10,
     sloka   : [
-      "भीष्म उवाच ---",
+      "-- भीष्म उवाच --",
       "जगत्प्रभुं देवदेवमनन्तं पुरुषोत्तमम् ।",
       "स्तुवन् नामसहस्रेण पुरुषः सततोत्थितः ॥ १०॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    sloka_tel : [
+      "-- భీష్మ ఉవాచ --",
+      "జగత్ప్రభుం దేవదేవమనంతం పురుషోత్తమమ్ ।",
+      "స్తువన్ నామసహస్రేణ పురుషః సతతోత్థితః ॥ ౧౦॥",
+    ],
+    vicheda : [
+      "जगत्-प्रभुम् देव-देवम् अनन्तम् पुरुष-उत्तमम् ।",
+      "स्तुवन् नाम-सहस्रेण पुरुषः सतत-उत्थितः ॥",
+    ],
+    anvaya  : [
+      "सतत-उत्थितः पुरुषः", 
+      "- नाम-सहस्रेण", 
+      "- जगत्प्रभुं देवदेवम् अनन्तं पुरुषोत्तमम्", 
+      "स्तुवन्"
+    ],
+    transl  : [
+      "A person who is ever-alert / constantly diligent",
+      "- with the thousand names",
+      "- the Lord of the Universe, the God of gods, the Infinite One, and the Supreme Person (Highest among men/beings)",
+      "while praising"
+    ],
+    essence : [
+      "Bhishma said: A person who is ever-diligent and constantly alert, by praising the Lord of the Universe, the God of gods, the Infinite One, and the Supreme Person with His thousand names (attains the highest good)."
+    ],
+    essence_tel : [
+      "భీష్ముడు ఇట్లు పలికెను: ఎల్లప్పుడూ జాగరూకతతో ఉన్నవాడై, లోకనాథుడు, దైవములకు దైవము, అంతము లేనివాడు మరియు పురుషోత్తముడైన ఆ పరమాత్మను వేయి నామములతో స్తుతించుట ద్వారా మానవుడు (శుభములను పొందును)."
+    ],
+    meanings: [
+      "Jagat-prabhum = The Lord of the Universe",
+      "Deva-devam = The God of gods",
+      "Anantam = The Infinite / Endless One",
+      "Puruṣottamam = The Supreme Person (Highest among men/beings)",
+      "Stuvan = While praising / extolling",
+      "Nāma-sahasreṇa = With the thousand names",
+      "Puruṣaḥ = A person",
+      "Satato-tthitaḥ = Ever-alert / Constantly diligent"
+    ],
+    notes   : [
+      "Bhishma begins his answer by identifying the object of worship: the Supreme Being who is both the master of the world and the highest of all persons. He suggests that the chanting of the Thousand Names (Sahasranama) should be done with constant alertness and devotion.",
+      "Grammar: 'Stuvan' is a Present Participle (Śatṛ-pratyaya) in the Nominative case, masculine singular.",
+      "Grammar: 'Satatotthitaḥ' is a compound (Satata + Utthita), literally meaning 'one who has always risen', implying spiritual alertness or readiness.",
+      "The terms Jagatprabhum, Devadevam, Anantam, and Purushottamam are all in the Accusative case (2nd case), as they are the objects of the act of praising.",
+      "This verse introduces the central theme: the Vishnu Sahasranama as the solution to Yudhishthira's inquiry."
+    ],
   },
   {
     chapter : 1,
