@@ -1077,14 +1077,45 @@ const verses = [
       "विष्णुं जिष्णुं महाविष्णुं प्रभविष्णुं महेश्वरम् ।",
       "अनेकरूपदैत्यान्तं नमामि पुरुषोत्तमम् ॥ २२॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    sloka_tel : [
+      "విష్ణుం జిష్ణుం మహావిష్ణుం ప్రభవిష్ణుం మహేశ్వరమ్ ।",
+      "అనేకరూపదైత్యాంతం నమామి పురుషోత్తమమ్ ॥ ౨౨॥",
+    ],
+    vicheda : [
+      "विष्णुं जिष्णुं महा-विष्णुं प्रभविष्णुं महा-ईश्वरम् ।",
+      "अनेक-रूप-दैत्य-अन्तं नमामि पुरुष-उत्तमम् ॥",
+    ],
+    anvaya  : [
+      "विष्णुं जिष्णुं महाविष्णुं प्रभविष्णुं महेश्वरम् अनेकरूपदैत्यान्तं पुरुषोत्तमम्", 
+      "नमामि ।"
+    ],
+    transl  : [
+      "the Supreme Person, Vishnu, who is the victorious, the Great Vishnu, the all-powerful source of all, the Supreme Lord, and the destroyer of the many-formed demons",
+      "I bow down to",
+    ],
+    essence : [
+      "I bow to the Supreme Person, Vishnu, who is the victorious, the Great Vishnu, the all-powerful source of all, the Supreme Lord, and the destroyer of the many-formed demons."
+    ],
+    essence_tel: [
+      "సర్వవ్యాపియైనవాడు, జయశీలుడు, గొప్పవాడైన విష్ణువు, సర్వశక్తిమంతుడు, మహేశ్వరుడు, రకరకాల రూపాల్లో ఉండే రాక్షసులను సంహరించేవాడు మరియు పురుషోత్తముడైన ఆ స్వామికి నేను నమస్కరిస్తున్నాను."
+    ],
+    meanings: [
+      "Viṣṇuṃ = The All-pervasive One",
+      "Jiṣṇuṃ = The Victorious / Triumphant One",
+      "Mahā-viṣṇuṃ = The Great Vishnu (Infinite)",
+      "Prabhaviṣṇuṃ = The Source / One from whom all emerge",
+      "Maheśvaram = The Supreme Lord / Controller",
+      "Aneka-rūpa-daitya-antam = The destroyer of demons of various forms",
+      "Namāmi = I bow / I salute",
+      "Puruṣottamam = The Supreme Person"
+    ],
+    notes   : [
+      "In this verse, the seeker offers total surrender to the Lord. The Lord is described as the one who pervades everything (Vishnu), conquers everything (Jishnu), is the origin of everything (Prabhavishnu), and who destroys the varied forms of evil (Daityantam) to protect the righteous.",
+      "Grammar: 'Namāmi' is the first-person singular (Laṭ-lakāra), meaning 'I bow'. All other words are in the Accusative case (2nd case) as they are the objects of the action of bowing.",
+      "The suffix '-iṣṇu' indicates a constant or natural tendency (e.g., 'Jiṣṇu' is one whose nature is to always be victorious).",
+      "Anekarūpa-daitya: This refers to demons like Ravana, Kamsa, or Hiranyakashipu, but spiritually it refers to the many 'demonic' qualities or distractions within the mind.",
+      "This shloka is often treated as a Dhyana Shloka, helping the devotee focus on the majestic form of the Lord before starting the names."
+    ],
   },
 ];
 
