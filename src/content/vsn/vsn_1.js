@@ -108,14 +108,58 @@ const verses = [
       "व्यासं वसिष्ठनप्तारं शक्तेः पौत्रमकल्मषम् ।",
       "पराशरात्मजं वन्दे शुकतातं तपोनिधिम् ॥ ३॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    sloka_tel : [
+      "వ్యాసం వసిష్ఠనప్తారం శక్తేః పౌత్రమకల్మషమ్ ।",
+      "పరాశరాత్మజం వందే శుకతాతం తపోనిధిమ్ ॥ ౩॥",
+    ],
+    vicheda : [
+      "व्यासं वसिष्ठ-नप्तारं शक्तेः पौत्रं अकल्मषम् ।",
+      "पराशर-आत्मजं वन्दे शुक-तातं तपो-निधिम् ॥",
+    ],
+    anvaya  : [
+      "अहम्",
+      "- वसिष्ठनप्तारं",
+      "- शक्तेः पौत्रं",
+      "- अकल्मषं",
+      "- पराशरात्मजं",
+      "- शुकतातं",
+      "- तपोनिधिं",
+      "- व्यासं",
+      "वन्दे",
+    ],
+    transl  : [
+      "I",
+      "- the great-grandson of Vashistha",
+      "- the grandson of Shakti",
+      "- one who is free from all impurities",
+      "- the son of Parashara",
+      "- the father of Shuka",
+      "- a treasure of penance",
+      "- Sage Vyasa",
+      "salute",
+    ],
+    essence : [
+      "I salute Sage Vyasa, who is the great-grandson of Vashistha, the grandson of Shakti, the son of Parashara, the father of Shuka, the one free from all impurities, and a treasure of penance."
+    ],
+    essence_tel: [
+      "వశిష్ఠుని మునిమనుమడు, శక్తి యొక్క మనుమడు, పరాశరుని కుమారుడు, శుకమహర్షి తండ్రి, పాపము లేనివాడు మరియు తపస్సుకి నిధి వంటివాడైన వ్యాసమహర్షికి నేను నమస్కరిస్తున్నాను."
+    ],
+    meanings: [
+      "Vyāsam = Sage Vyasa",
+      "Vasiṣṭha-naptāram = The great-grandson of Vashistha",
+      "Śakteḥ pautram = The grandson of Shakti",
+      "Akalmaṣam = One who is blemishless / pure",
+      "Parāśara-ātmajam = The son of Parashara",
+      "Vande = I salute / I bow down",
+      "Śuka-tātam = The father of Shuka",
+      "Tapo-nidhim = A treasure-house of penance"
+    ],
+    notes   : [
+      "This verse pays homage to Sage Vyasa, the compiler of the Vedas and author of the Mahabharata, by tracing his holy lineage. It establishes his authority as a 'Taponidhi' (treasure-house of penance).",
+      "Lineage Logic: Vashistha (Great-grandfather) -> Shakti (Grandfather) -> Parashara (Father) -> Vyasa.",
+      "Grammar: 'Vande' is 1st person singular (Uttama Purusha), meaning the 'Aham' (I) is implied as the one performing the salutation.",
+      "The word 'Akalmasham' indicates that Vyasa is free from the three types of impurities (mental, verbal, and physical)."
+    ],
   },
   {
     chapter : 1,
