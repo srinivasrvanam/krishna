@@ -826,14 +826,48 @@ const verses = [
       "यतः सर्वाणि भूतानि भवन्त्यादियुगागमे ।",
       "यस्मिंश्च प्रलयं यान्ति पुनरेव युगक्षये ॥ १७॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    sloka_tel : [
+      "యతః సర్వాణి భూతాని భవంత్యాదియుగాగమే ।",
+      "యస్మింశ్చ ప్రలయం యాంతి పునరేవ యుగక్షయే ॥ ౧౭॥",
+    ],
+    vicheda : [
+      "यतः सर्वाणि भूतानि भवन्ति आदि-युग-आगमे ।",
+      "यस्मिन् च प्रलयं यान्ति पुनः एव युग-क्षये ॥",
+    ],
+    anvaya  : [
+      "आदियुगागमे यतः सर्वाणि भूतानि भवन्ति,", 
+      "युगक्षये च यस्मिन् पुनः एव प्रलयं यान्ति", 
+      "(सः विष्णुः) ।"
+    ],
+    transl  : [
+      "At the beginning of the Yuga, where all the beings emerge from",
+      "At the end of the Yuga, where all the beings merge back again",
+      "(that is Vishnu)."
+    ],
+    essence : [
+      "From whom all beings emerge at the beginning of the first age (Yuga), and into whom they all merge back again at the end of the age."
+    ],
+    essence_tel: [
+      "సృష్టి ఆరంభంలో సమస్త ప్రాణులు ఎవరి నుండి పుడుతున్నాయో, మరల ప్రళయ కాలంలో సమస్త ప్రాణులు ఎవరిలో కలిసిపోతాయో ఆయనే విష్ణువు."
+    ],
+    meanings: [
+      "Yataḥ = From whom",
+      "Sarvāṇi bhūtāni = All living beings",
+      "Bhavanti = Become / Arise / Are born",
+      "Ādi-yuga-āgame = At the beginning of the Yuga / cycle",
+      "Yasmin = In whom",
+      "Ca = And",
+      "Pralayaṃ yānti = Attain dissolution / merge back",
+      "Punaḥ-eva = Again indeed",
+      "Yuga-kṣaye = At the end of the Yuga / cycle"
+    ],
+    notes   : [
+      "Bhishma describes the cyclic nature of time and the Lord's role as the material and efficient cause of the universe. Just as waves arise from the ocean and return to it, all living beings emerge from Vishnu during creation and dissolve back into Him during the great dissolution.",
+      "Grammar: 'Yataḥ' (from whom) is in the 5th case (Ablative), indicating the source. 'Yasmin' (in whom) is in the 7th case (Locative), indicating the final resting place.",
+      "The terms 'Āgama' (arrival/beginning) and 'Kṣaya' (decay/end) highlight the temporary nature of the manifested world compared to the eternal nature of the Lord.",
+      "This verse echoes the 'Janmādyasya yataḥ' sutra from the Brahma Sutras, which defines Brahman as the source of birth, etc., of the universe.",
+      "It emphasizes that nothing exists outside of the Supreme Reality; everything is a part of His cyclic manifestation."
+    ],
   },
   {
     chapter : 1,
