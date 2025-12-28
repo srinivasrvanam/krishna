@@ -215,14 +215,43 @@ const verses = [
       "अविकाराय शुद्धाय नित्याय परमात्मने ।",
       "सदैकरूपरूपाय विष्णवे सर्वजिष्णवे ॥ ५॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    sloka_tel : [
+      "అవికారాయ శుద్ధాయ నిత్యాయ పరమాత్మనే ।",
+      "సదైకరూపరూపాయ విష్ణవే సర్వజిష్ణవే ॥ ౫॥",
+    ],
+    vicheda : [
+      "अ-विकाराय शुद्धाय नित्याय परम-आत्मने ।",
+      "सदा-एक-रूप-रूपाय विष्णवे सर्व-जिष्णवे ॥",
+    ],
+    anvaya  : [
+      "- अविकाराय शुद्धाय नित्याय परमात्मने सदा-एक-रूप-रूपाय सर्व-जिष्णवे विष्णवे", 
+      "नमः"
+    ],
+    transl  : [
+      "- to Lord Vishnu, who is changeless, pure, eternal, and the Supreme Self; who always possesses the same form, and who is the conqueror of everything.",
+      "Salutations",
+    ],
+    essence : [
+      "Salutations to Lord Vishnu, who is changeless, pure, eternal, and the Supreme Self; who always possesses the same form, and who is the conqueror of everything."
+    ],
+    essence_tel : [
+      "మార్పు లేనివాడు, పరిశుద్ధుడు, నిత్యుడు, పరమాత్మ స్వరూపుడు, ఎల్లప్పుడూ ఒకే రూపము కలిగినవాడు మరియు సమస్తమును జయించువాడైన విష్ణుమూర్తికి నమస్కారం."
+    ],
+    meanings: [
+      "Avikārāya = To the one who is changeless / without modification",
+      "Śuddhāya = To the one who is pure / untainted",
+      "Nityāya = To the one who is eternal",
+      "Paramātmane = To the Supreme Self",
+      "Sadā-eka-rūpa-rūpāya = To the one whose form is always the same",
+      "Viṣṇave = To Lord Vishnu",
+      "Sarva-jiṣṇave = To the one who is victorious over everything"
+    ],
+    notes   : [
+      "This verse describes the absolute nature of the Divine. It portrays Vishnu not just as a deity with a form, but as the unchanging, eternal Brahman who remains constant throughout time and transcends all impurities.",
+      "Grammar: Like the previous shloka, all adjectives are in the Chaturthi Vibhakti (4th case), indicating they qualify 'Viṣṇave' (to Vishnu).",
+      "The term 'Avikāra' is significant in Vedanta, meaning that the Divine does not undergo the six types of changes (birth, existence, growth, maturity, decay, and death).",
+      "Sadaikarūparūpāya: 'Sada' (always) + 'Eka' (one/same) + 'Rupa' (form)."
+    ],
   },
   {
     chapter : 1,
