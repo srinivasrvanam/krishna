@@ -65,13 +65,19 @@ const verses = [
       "विघ्नम् निघ्नन्ति सततम् विष्वक्सेनम् तम् आश्रये ॥"
     ],
     anvaya  : [
-      "यस्य द्विरदवक्त्राद्याः परः शतम् पारिषद्याः सततं विघ्नं निघ्नन्ति, तम् विष्वक्सेनं आश्रये ।"
+      "अहम्",
+      "- यस्य (द्विरदवक्त्राद्याः परः-शतम्) पारिषद्याः सततं विघ्नं निघ्नन्ति,",
+      "- (विष्वक्सेनं) तम्",
+      "आश्रये",
     ],
     transl  : [
-      "I take refuge in Lord Vishvaksena, whose attendants (led by those with elephant faces) numbering more than a hundred, constantly destroy all obstacles."
+      "I",
+      "- whose attendants (elephant-faced and more than 100 in number) always destroys obstacles",
+      "- him (Lord Vishwaksena)",
+      "take refuge in",
     ],
     essence : [
-      "In the Vaishnava tradition, Vishvaksena is the commander-in-chief. This verse seeks his protection by acknowledging that even his subordinates are powerful enough to remove hundreds of obstacles."
+      "I take refuge in Lord Vishvaksena, whose attendants (led by those with elephant faces) numbering more than a hundred, constantly destroy all obstacles.",
     ],
     essence_tel: [
       "ఎవరి యొక్క గజముఖము వంటి ముఖము గల సేవకులు వందల సంఖ్యలో ఉండి నిరంతరము విఘ్నములను నశింపజేస్తారో, అట్టి విష్వక్సేనుడిని నేను శరణు వేడుతున్నాను."
@@ -89,6 +95,7 @@ const verses = [
       "Āśraye = I take refuge / I seek shelter"
     ],
     notes   : [
+      "In the Vaishnava tradition, Vishvaksena is the commander-in-chief. This verse seeks his protection by acknowledging that even his subordinates are powerful enough to remove hundreds of obstacles.",
       "Grammar: 'Āśraye' is Lat-lakara (Present Tense), Uttama Purusha (1st Person Singular), Atmanepada. It corresponds to 'ఆశ్రయిస్తున్నాను' in Telugu.",
       "The word 'Nighnanti' is Prathama Purusha Bahuvachana (3rd Person Plural), referring to the many attendants acting.",
       "Vicheda Note: Sandhi like 'tam + āśraye' is split into 'tam āśraye' for better clarity in chanting."
