@@ -672,14 +672,49 @@ const verses = [
       "एष मे सर्वधर्माणां धर्मोऽधिकतमो मतः ।",
       "यद्भक्त्या पुण्डरीकाक्षं स्तवैरर्चेन्नरः सदा ॥ १४॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    sloka_tel : [
+      "ఏష మే సర్వధర్మాణాం ధర్మోఽధికతమో మతః ।",
+      "యద్భక్త్యా పుండరీకాక్షం స్తవైరర్చేన్నరః సదా ॥ ౧౪॥",
+    ],
+    vicheda : [
+      "एषः मे सर्व-धर्माणां धर्मः अधिक-तमः मतः ।",
+      "यत् भक्त्या पुण्डरीक-अक्षं स्तवैः अर्चेत् नरः सदा ॥",
+    ],
+    anvaya  : [
+      "'नरः सदा यत् भक्त्या स्तवैः पुण्डरीकाक्षं अर्चेत्',", 
+      "सर्वधर्माणां अधिकतमः धर्मः एषः मे मतः ।"
+    ],
+    transl  : [
+      "A person should always worship the lotus-eyed Lord (Vishnu) with devotion through hymns of praise.",
+      "This, in my opinion, is the greatest of all Dharmas.",
+    ],
+    essence : [
+      "This, in my opinion, is the greatest of all Dharmas: that a person should always worship the lotus-eyed Lord (Vishnu) with devotion through hymns of praise."
+    ],
+    essence_tel: [
+      "మనిషి ఎల్లప్పుడూ భక్తితో, స్తోత్రములతో ఆ పుండరీకాక్షుడిని (తామర కన్నులు గల విష్ణువును) పూజించడమే అన్ని ధర్మములలోకల్లా మిక్కిలి గొప్ప ధర్మమని నా అభిప్రాయం."
+    ],
+    meanings: [
+      "Eṣaḥ = This (path)",
+      "Me = My / To me",
+      "Sarva-dharmāṇām = Of all Dharmas / duties",
+      "Dharmaḥ-adhikatamaḥ = The highest/greatest Dharma",
+      "Mataḥ = Opinion / Considered as",
+      "Yat = That which",
+      "Bhaktyā = With devotion",
+      "Puṇḍarīka-akṣaṃ = The lotus-eyed one (Vishnu)",
+      "Stavaiḥ = With hymns of praise / stotras",
+      "Arcet = Should worship",
+      "Naraḥ = A person / man",
+      "Sadā = Always"
+    ],
+    notes   : [
+      "Bhishma categorically answers the 5th question. He states that while there are many religious duties, the constant worship and chanting of the glories of the Lord is the highest path. He emphasizes 'Bhakti' (devotion) as the essential ingredient that makes this Dharma superior.",
+      "Grammar: 'Adhikatamaḥ' uses the superlative suffix '-tama', meaning 'the most' or 'highest'.",
+      "Grammar: 'Arcet' is in the Vidhi-liṅ Lakāra (Potential Mood), indicating an injunction or recommended action.",
+      "The name 'Puṇḍarīkākṣa' is a famous epithet for Vishnu, where 'Puṇḍarīka' is a white lotus and 'Akṣa' means eyes.",
+      "By saying 'Me mataḥ' (my opinion), Bhishma, who is the greatest authority on Dharma, gives his final seal of approval to this practice."
+    ],
   },
   {
     chapter : 1,
