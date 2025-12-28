@@ -928,14 +928,47 @@ const verses = [
       "यानि नामानि गौणानि विख्यातानि महात्मनः ।",
       "ऋषिभिः परिगीतानि तानि वक्ष्यामि भूतये ॥ १९॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    sloka_tel : [
+      "యాని నామాని గౌణాని విఖ్యాతాని మహాత్మనః ।",
+      "ఋషిభిః పరిగీతాని తాని వక్ష్యామి భూతయే ॥ ౧౯॥",
+    ],
+    vicheda : [
+      "यानि नामानि गौणानि विख्यातानि महा-आत्मनः ।",
+      "ऋषिभिः परिगीतानि तानि वक्ष्यामि भूतये ॥",
+    ],
+    anvaya  : [
+      "महात्मनः यानि गौणानि नामानि विख्यातानि (ऋषिभिः परिगीतानि) च,", 
+      "तानि भूतये (ते) वक्ष्यामि ।"
+    ],
+    transl  : [
+      "those world-renowned names of the Great Soul (Vishnu), which are based on His divine attributes and have been sung by the great sages.",
+      "I shall recite for your well-being",
+    ],
+    essence : [
+      "I shall recite for your well-being those world-renowned names of the Great Soul (Vishnu), which are based on His divine attributes and have been sung by the great sages."
+    ],
+    essence_tel: [
+      "మహాత్ముడైన ఆ విష్ణుమూర్తి యొక్క ఏ నామములైతే ఆయన గుణములను తెలియజేస్తాయో, ఏవైతే మహర్షులచే గానం చేయబడ్డాయో, అట్టి ప్రసిద్ధ నామములను నీ శ్రేయస్సు కొరకు తెలియజేస్తున్నాను."
+    ],
+    meanings: [
+      "Yāni = Which",
+      "Nāmāni = Names",
+      "Gauṇāni = Based on attributes/qualities (Gunas)",
+      "Vikhyātāni = Well-known / Famous",
+      "Mahātmanaḥ = Of the Great Soul (Vishnu)",
+      "Ṛṣibhiḥ = By the sages",
+      "Parigītāni = Thoroughly sung / celebrated",
+      "Tāni = Them (those names)",
+      "Vakṣyāmi = I shall tell / recite",
+      "Bhūtaye = For well-being / prosperity"
+    ],
+    notes   : [
+      "Bhishma clarifies that these names are 'Gaunani'—meaning they describe the qualities and actions of the Lord. He notes that these are not new inventions but are 'Parigeetani' (well-sung) by Rishis who have realized the Truth. The purpose of this recitation is 'Bhutaye'—for the prosperity and spiritual well-being of the listener.",
+      "Grammar: 'Vakṣyāmi' is in the Lṛṭ-lakāra (Future Tense), first person singular ('I will speak').",
+      "Grammar: 'Ṛṣibhiḥ' is in the Tritiya Vibhakti (3rd case), indicating the agents by whom the names were sung.",
+      "Technical Term: 'Gauṇa-nāma' refers to names derived from 'Guṇa' (quality). For example, the name 'Padmanābha' is a Gauṇa-nāma because it describes the attribute of having a lotus at the navel.",
+      "The word 'Bhutaye' indicates that the Sahasranama is intended for the all-round welfare (spiritual and material) of the devotee."
+    ],
   },
   {
     chapter : 1,
