@@ -723,14 +723,49 @@ const verses = [
       "परमं यो महत्तेजः परमं यो महत्तपः ।",
       "परमं यो महद्ब्रह्म परमं यः परायणम् ॥ १५॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    sloka_tel : [
+      "పరమం యో మహత్తేజః పరమం యో మహత్తపః ।",
+      "పరమం యో మహద్బ్రహ్మ పరమం యః పరాయణమ్ ॥ ౧౫॥",
+    ],
+    vicheda : [
+      "परमं यः महत्-तेजः परमं यः महत्-तपः ।",
+      "परमं यः महद्-ब्रह्म परमं यः परायणम् ॥",
+    ],
+    anvaya  : [
+      "यः परमं महत् तेजः", 
+      "यः परमं महत् तपः", 
+      "यः परमं महद् ब्रह्म", 
+      "यः परमं परायणम्",
+      "(सः विष्णुः) ।",
+    ],
+    transl  : [
+      "Who is the supreme and great light",
+      "who is the supreme and great penance",
+      "who is the supreme and great Brahman (truth)",
+      "and who is the supreme ultimate goal",
+      "(that is Vishnu)."
+    ],
+    essence : [
+      "Who is the supreme and great light, who is the supreme and great penance, who is the supreme and great Brahman (truth), and who is the supreme ultimate goal."
+    ],
+    essence_tel: [
+      "ఎవరు గొప్పదైన తేజస్సో, ఎవరు గొప్పదైన తపస్సో, ఎవరు పరబ్రహ్మమో మరియు ఎవరు అందరికీ పరమ గమ్యస్థానమో ఆయనే విష్ణువు."
+    ],
+    meanings: [
+      "Paramam = Supreme / Highest",
+      "Yaḥ = Who / That which",
+      "Mahat-tejaḥ = The great light / brilliance",
+      "Mahat-tapaḥ = The great penance / austerity",
+      "Mahad-brahma = The great Brahman (Infinite Reality)",
+      "Parāyaṇam = The ultimate refuge / final destination"
+    ],
+    notes   : [
+      "This verse defines the Lord not as a physical person, but as the underlying essence of all spiritual concepts. He is the Light that illuminates the mind, the Power behind all austerities, the Absolute Truth (Brahman), and the final refuge for all souls.",
+      "Grammar: The word 'Yaḥ' (Who) is used repeatedly to emphasize that all these supreme qualities belong to the singular entity of Vishnu.",
+      "Tejas (Light): This doesn't mean physical light (like the sun), but the 'Chaitanya' or consciousness that allows us to perceive everything.",
+      "Tapas (Penance): The Lord is called the supreme Tapas because He is the one who empowers every seeker's efforts.",
+      "Brahman: Refers to the Vedantic concept of the one, undivided, eternal reality."
+    ],
   },
   {
     chapter : 1,
