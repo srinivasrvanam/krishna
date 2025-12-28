@@ -977,14 +977,49 @@ const verses = [
       "ऋषिर्नाम्नां सहस्रस्य वेदव्यासो महामुनिः ।",
       "छन्दोऽनुष्टुप् तथा देवो भगवान् देवकीसुतः ॥ २०॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    sloka_tel : [
+      "ఋషిర్నామ్నాం సహస్రస్య వేదవ్యాసో మహామునిః ।",
+      "ఛందోఽనుష్టుప్ తథా దేవో భగవాన్ దేవకీసుతః ॥ ౨౦॥",
+    ],
+    vicheda : [
+      "ऋषिः नाम्नां सहस्रस्य वेदव्यासः महा-मुनिः ।",
+      "छन्दः अनुष्टुप् तथा देवः भगवान् देवकी-सुतः ॥",
+    ],
+    anvaya  : [
+      "अस्य नाम्नां सहस्रस्य ऋषिः महामुनिः वेदव्यासः,", 
+      "छन्दः अनुष्टुप्,", 
+      "तथा देवः भगवान् देवकीसुतः (अस्ति) ।"
+    ],
+    transl  : [
+      "The Rishi (Seer) of these thousand names is the great sage Vedavyasa;",
+      "the Chhandas (Meter) is Anushtup;",
+      "and the Deity is the Supreme Lord, the son of Devaki (Krishna/Vishnu)."
+    ],
+    essence : [
+      "The Rishi (Seer) of these thousand names is the great sage Vedavyasa; the Chhandas (Meter) is Anushtup; and the Deity is the Supreme Lord, the son of Devaki (Krishna)."
+    ],
+    essence_tel: [
+      "ఈ విష్ణు సహస్రనామములకు కర్త (ఋషి) మహామునియైన వేదవ్యాసుడు. దీని ఛందస్సు అనుష్టుప్. దీనికి అధిష్టాన దైవము దేవకీ పుత్రుడైన శ్రీకృష్ణ పరమాత్మ."
+    ],
+    meanings: [
+      "Ṛṣiḥ = The Seer/Sage (to whom the mantra was revealed)",
+      "Nāmnāṃ sahasrasya = Of the thousand names",
+      "Veda-vyāsaḥ = Sage Vedavyasa",
+      "Mahā-muniḥ = The great sage",
+      "Chandaḥ = The poetic meter",
+      "Anuṣṭup = Anushtup meter (8 syllables per quarter)",
+      "Tathā = And also",
+      "Devaḥ = The Deity",
+      "Bhagavān = The Supreme Lord (possessing 6 divine opulences)",
+      "Devakī-sutaḥ = The son of Devaki (Krishna)"
+    ],
+    notes   : [
+      "Every mantra has a Rishi, a Chhandas, and a Devata. Here, Vyasa is the visionary, the rhythm is the 32-syllable Anushtup meter, and the focus of worship is Krishna (Vishnu). Reciting this ensures the student acknowledges the source and structure of the knowledge.",
+      "Grammar: 'Ṛṣiḥ' and 'Chandaḥ' are in the Nominative case (1st case), identifying the 'Who' and 'What'.",
+      "Historical Context: Vedavyasa is the compiler of the Vedas and the author of the Mahabharata. By identifying him as the Rishi, the text gains supreme authority.",
+      "Technical Note: Anushtup is the most common meter in the Puranas, consisting of 4 lines (padas) with 8 syllables each, totaling 32 syllables.",
+      "The mention of 'Devaki-sutah' confirms that Vishnu and Krishna are non-different in this context."
+    ],
   },
   {
     chapter : 1,
