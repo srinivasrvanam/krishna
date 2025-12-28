@@ -876,14 +876,50 @@ const verses = [
       "तस्य लोकप्रधानस्य जगन्नाथस्य भूपते ।",
       "विष्णोर्नामसहस्रं मे श‍ृणु पापभयापहम् ॥ १८॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    sloka_tel : [
+      "తస్య లోకప్రధానస్య జగన్నాథస్య భూపతే ।",
+      "విష్ణోర్నామసహస్రం మే శృణు పాపభయాపహమ్ ॥ ౧౮॥",
+    ],
+    vicheda : [
+      "तस्य लोक-प्रधानस्य जगत्-नाथस्य भूपते ।",
+      "विष्णोः नाम-सहस्रं मे शृणु पाप-भय-अपहम् ॥",
+    ],
+    anvaya  : [
+      "भूपते!", 
+      "लोकप्रधानस्य जगन्नाथस्य तस्य विष्णोः",  
+      "- पापभयापहम् नामसहस्रं", 
+      "मे शृणु ।"
+    ],
+    transl  : [
+      "O King!",
+      "of the Lord of the Universe, the chief of the worlds, Vishnu,",
+      "- the thousand names which destroy all sins and fears,",
+      "listen from me."
+    ],
+    essence : [
+      "O King! Listen from me to the thousand names of Lord Vishnu, who is the foremost in all the worlds and the Master of the universe—names which destroy all sins and fears."
+    ],
+    essence_tel : [
+      "ఓ రాజా! లోకములలో ప్రధానమైనవాడు, జగత్తుకు నాథుడైన ఆ విష్ణుమూర్తి యొక్క వెయ్యి నామములను నా నుండి వినుము. ఇవి పాపములను, భయములను పోగొట్టేవి."
+    ],
+    meanings: [
+      "Tasya = Of Him",
+      "Loka-pradhānasya = Of the foremost/chief of the worlds",
+      "Jagannāthasya = Of the Lord of the Universe",
+      "Bhūpate = O King (Yudhishthira)",
+      "Viṣṇoḥ = Of Vishnu",
+      "Nāma-sahasraṃ = The thousand names",
+      "Me = From me",
+      "Śṛṇu = Listen (Imperative command)",
+      "Pāpa-bhaya-apaham = That which destroys/removes sins and fears"
+    ],
+    notes   : [
+      "Bhishma addresses Yudhishthira as 'Bhupate' (Lord of the Earth) and introduces the Sahasranama as a spiritual tool. He highlights two primary benefits: 'Papa-apaham' (destruction of sins) and 'Bhaya-apaham' (removal of fear), specifically the fear of death and rebirth.",
+      "Grammar: 'Śṛṇu' is in the Lot-lakāra (Imperative mood), which is a direct command or request to listen attentively.",
+      "Grammar: The adjectives 'Loka-pradhānasya', 'Jagannāthasya', and 'Viṣṇoḥ' are all in the Genitive case (6th case), showing possession of the 'Names'.",
+      "The compound 'Pāpa-bhaya-apaham' is significant; 'Apaham' comes from the root 'han' (to kill/destroy). It suggests that the names act as a medicine or a weapon against spiritual obstacles.",
+      "By addressing Yudhishthira as 'Bhupate', Bhishma acknowledges his earthly responsibility while offering him a path to transcendental peace."
+    ],
   },
   {
     chapter : 1,
