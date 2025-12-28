@@ -168,14 +168,45 @@ const verses = [
       "व्यासाय विष्णुरूपाय व्यासरूपाय विष्णवे ।",
       "नमो वै ब्रह्मनिधये वासिष्ठाय नमो नमः ॥ ४॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    sloka_tel : [
+      "వ్యాసాయ విష్ణురూపాయ వ్యాసరూపాయ విష్ణవే ।",
+      "నమో వై బ్రహ్మనిధయే వాసిష్ఠాయ నమో నమః ॥ ౪॥",
+    ],
+    vicheda : [
+      "व्यासाय विष्णु-रूपाय व्यास-रूपाय विष्णवे ।",
+      "नमः वै ब्रह्म-निधये वासिष्ठाय नमः नमः ॥",
+    ],
+    anvaya  : [
+      "(विष्णुरूपाय) व्यासाय (व्यासरूपाय) विष्णवे नमः", 
+      "(वै) ब्रह्मनिधये वासिष्ठाय नमः नमः"
+    ],
+    transl  : [
+      "Salutations to Vyasa who is the form of Vishnu, and to Vishnu who is the form of Vyasa.", 
+      "Salutations again and again to the descendant of Vashistha who is a treasure of Vedic knowledge.",
+    ],
+    essence : [
+      "Salutations to Vyasa who is the form of Vishnu, and to Vishnu who is the form of Vyasa. Salutations again and again to the descendant of Vashistha who is a treasure of Vedic knowledge.",
+    ],
+    essence_tel : [
+      "విష్ణు స్వరూపుడైన వ్యాసుడికి, వ్యాస స్వరూపుడైన విష్ణువుకి నమస్కారం. బ్రహ్మజ్ఞాన నిధి, వశిష్ఠ వంశీయుడైన వ్యాసమహర్షికి మరల మరల నమస్కారములు."
+    ],
+    meanings: [
+      "Vyāsāya = To Vyasa",
+      "Viṣṇu-rūpāya = To the one in the form of Vishnu",
+      "Vyāsa-rūpāya = To the one in the form of Vyasa",
+      "Viṣṇave = To Vishnu",
+      "Namaḥ = Salutation / Bow",
+      "Vai = Indeed / Truly",
+      "Brahma-nidhaye = To the treasure-house of Brahman (the Vedas)",
+      "Vāsiṣṭhāya = To the descendant of Vashistha",
+      "Namo Namaḥ = Repeated salutations"
+    ],
+    notes   : [
+      "This shloka highlights the identity between Sage Vyasa and Lord Vishnu, suggesting that the Guru and the God are one. It identifies Vyasa as a divine incarnation who brought the treasure of Brahman (knowledge) to humanity.",
+      "Grammar: Uses the Chaturthi Vibhakti (4th case) throughout because of the word 'Namaḥ'.",
+      "Philosophy: The verse emphasizes 'Advaita' or non-difference between the supreme deity and the enlightened sage.",
+      "The term 'Brahma-nidhi' suggests that Vyasa doesn't just know the Vedas, but is a storehouse of that divine light."
+    ],
   },
   {
     chapter : 1,
