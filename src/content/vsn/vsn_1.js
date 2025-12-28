@@ -56,14 +56,43 @@ const verses = [
       "यस्य द्विरदवक्त्राद्याः पारिषद्याः परः शतम् ।",
       "विघ्नं निघ्नन्ति सततं विष्वक्सेनं तमाश्रये ॥ २॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    sloka_tel : [
+      "యస్య ద్విరదవక్త్రాద్యాః పారిషద్యాః పరః శతమ్ ।",
+      "విఘ్నం నిఘ్నంతి సతతం విష్వక్సేనం తమాశ్రయే ॥ ౨॥"
+    ],
+    vicheda : [
+      "यस्य द्विरद-वक्त्र-आद्याः पारिषद्याः परः-शतम् ।",
+      "विघ्नम् निघ्नन्ति सततम् विष्वक्सेनम् तम् आश्रये ॥"
+    ],
+    anvaya  : [
+      "यस्य द्विरदवक्त्राद्याः परः शतम् पारिषद्याः सततं विघ्नं निघ्नन्ति, तम् विष्वक्सेनं आश्रये ।"
+    ],
+    transl  : [
+      "I take refuge in Lord Vishvaksena, whose attendants (led by those with elephant faces) numbering more than a hundred, constantly destroy all obstacles."
+    ],
+    essence : [
+      "In the Vaishnava tradition, Vishvaksena is the commander-in-chief. This verse seeks his protection by acknowledging that even his subordinates are powerful enough to remove hundreds of obstacles."
+    ],
+    essence_tel: [
+      "ఎవరి యొక్క గజముఖము వంటి ముఖము గల సేవకులు వందల సంఖ్యలో ఉండి నిరంతరము విఘ్నములను నశింపజేస్తారో, అట్టి విష్వక్సేనుడిని నేను శరణు వేడుతున్నాను."
+    ],
+    meanings: [
+      "Yasya = Whose / Of whom",
+      "Dvirada-vaktra-ādyāḥ = Led by those with the face of an elephant (Gajavaktra)",
+      "Pāriṣadyāḥ = Attendants / Members of the assembly / Retainers",
+      "Paraḥ-śatam = More than a hundred",
+      "Vighnam = Obstacles / Hindrances",
+      "Nighnanti = They strike down / They destroy",
+      "Satatam = Always / Constantly",
+      "Viṣvaksenam = Lord Vishvaksena",
+      "Tam = Him (In that person)",
+      "Āśraye = I take refuge / I seek shelter"
+    ],
+    notes   : [
+      "Grammar: 'Āśraye' is Lat-lakara (Present Tense), Uttama Purusha (1st Person Singular), Atmanepada. It corresponds to 'ఆశ్రయిస్తున్నాను' in Telugu.",
+      "The word 'Nighnanti' is Prathama Purusha Bahuvachana (3rd Person Plural), referring to the many attendants acting.",
+      "Vicheda Note: Sandhi like 'tam + āśraye' is split into 'tam āśraye' for better clarity in chanting."
+    ],
   },
   {
     chapter : 1,
