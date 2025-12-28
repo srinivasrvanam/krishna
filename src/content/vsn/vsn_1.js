@@ -774,14 +774,50 @@ const verses = [
       "पवित्राणां पवित्रं यो मङ्गलानां च मङ्गलम् ।",
       "दैवतं दैवतानां च भूतानां योऽव्ययः पिता ॥ १६॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    sloka_tel : [
+      "పవిత్రాణాం పవిత్రం యో మంగళానాం చ మంగళమ్ ।",
+      "దైవతం దైవతానాం చ భూతానాం యోఽవ్యయః పితా ॥ ౧౬॥",
+    ],
+    vicheda : [
+      "पवित्राणां पवित्रं यः मङ्गलानां च मङ्गलम् ।",
+      "दैवतं दैवतानां च भूतानां यः अव्ययः पिता ॥",
+    ],
+    anvaya  : [
+      "यः पवित्राणां पवित्रं", 
+      "मङ्गलानां च मङ्गलं", 
+      "दैवतानां दैवतं च", 
+      "यः भूतानां अव्ययः पिता", 
+      "(सः विष्णुः) ।"
+    ],
+    transl  : [
+      "Who is the sanctifier of all sanctifiers,", 
+      "the most auspicious among the auspicious,", 
+      "the God of all gods,", 
+      "and the imperishable Father of all living beings.",
+      "(That is Vishnu)."
+    ],
+    essence : [
+      "Who is the sanctifier of all sanctifiers, the most auspicious among the auspicious, the God of all gods, and the imperishable Father of all living beings."
+    ],
+    essence_tel: [
+      "పవిత్రమైన వాటిని పవిత్రం చేసేవాడు, శుభప్రదమైన వాటిలో అత్యంత శుభప్రదమైనవాడు, దైవములకు దైవము మరియు సమస్త జీవరాశులకు శాశ్వతమైన తండ్రి ఆ విష్ణుమూర్తి."
+    ],
+    meanings: [
+      "Pavitrāṇāṃ pavitram = The most pure among all pure things",
+      "Maṅgalānāṃ = Among auspicious things",
+      "Maṅgalam = Auspiciousness / Good fortune",
+      "Daivataṃ daivatānāṃ = The God of all gods",
+      "Bhūtānāṃ = Of all living beings",
+      "Yaḥ = Who",
+      "Avyayaḥ pitā = The imperishable/eternal Father"
+    ],
+    notes   : [
+      "Bhishma explains that even things we consider holy (like the Ganges or Fire) derive their purity from Him. He is the ultimate 'Mangalam' (auspiciousness). Furthermore, He is the 'Avyaya Pita'—the eternal father who, unlike earthly parents, never changes and is the source of all life.",
+      "Grammar: The use of Genitive Case (6th case) plural—'Pavitrāṇāṃ', 'Maṅgalānāṃ', 'Daivatānāṃ'—followed by a singular noun creates a superlative effect (e.g., King of kings).",
+      "Philosophy: 'Pavitrāṇāṃ pavitram' implies that while water or rituals can purify the body, only the Lord can purify the mind and the soul.",
+      "Avyayaḥ Pitā: This identifies the Lord as the 'Nimitta Karana' (Efficient Cause) of the universe, who remains unaffected even after creating everything.",
+      "The word 'Ca' (and) is used to link these supreme identities together."
+    ],
   },
   {
     chapter : 1,
