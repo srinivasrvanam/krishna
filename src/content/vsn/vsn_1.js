@@ -1026,16 +1026,49 @@ const verses = [
     number  : 21,
     sloka   : [
       "अमृतांशूद्भवो बीजं शक्तिर्देवकीनन्दनः ।",
-      "त्रिसामा हृदयं तस्य शान्त्यर्थे विनियोज्यते ॥ २१॥",
+      "त्रिसामा हृदयं तस्य शान्त्यर्थे विनियुज्यते ॥ २१॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    sloka_tel : [
+      "అమృతాంశూద్భవో బీజం శక్తిర్దేవకీనందనః ।",
+      "త్రిసామా హృదయం తస్య శాంత్యర్థే వినియుజ్యతే ॥ ౨౧॥",
+    ],
+    vicheda : [
+      "अमृतांशु-उद्भवः बीजं शक्तिः देवकी-नन्दनः ।",
+      "त्रिसामा हृदयं तस्य शान्ति-अर्थे विनियुज्यते ॥",
+    ],
+    anvaya  : [
+      "तस्य बीजं अमृतांशूद्भवः,", 
+      "तस्य शक्तिः देवकीनन्दनः,",
+      "तस्य हृदयं त्रिसामा (भवति)",
+      "शान्त्यर्थे विनियुज्यते ।"
+    ],
+    transl  : [
+      
+    ],
+    essence : [
+      "The 'Seed' is the one born from the moon; the 'Power' is the son of Devaki; the 'Heart' is the singer of the three Samas; and it is used for the attainment of peace."
+    ],
+    essence_tel : [
+      "ఈ స్తోత్రమునకు 'అమృతాంశూద్భవః' అనునది బీజము. 'దేవకీనందనః' అనునది శక్తి. 'త్రిసామా' అనునది హృదయము. ఇది శాంతి కొరకు వినియోగించబడుచున్నది."
+    ],
+    meanings: [
+      "Amṛtāṃśu-udbhavaḥ = The one born from the nectar-rayed moon",
+      "Bījaṃ = The Seed",
+      "Śaktiḥ = The Power",
+      "Devakī-nandanaḥ = The joy of Devaki (Lord Krishna)",
+      "Trisāmā = The singer of the three Samas",
+      "Hṛdayaṃ = The Heart",
+      "Tasya = Its",
+      "Śānti-arthe = For the sake of peace",
+      "Viniyujyate = Is used / is applied"
+    ],
+    notes   : [
+      "This verse defines the mystical structure of the Sahasranama. The 'Seed' (Bijam) is the origin, the 'Power' (Shakti) is the driving force, and the 'Heart' (Hridayam) is the core essence. The purpose (Viniyoga) is declared as 'Shanti'—the attainment of peace.",
+      "Grammar: 'Viniyujyate' is the simple passive form (Karmani Prayoga) of the root 'Yuj' with prefixes 'Vi' and 'Ni'.",
+      "Bīja (Seed): The mystical origin point of the mantra.",
+      "Śakti (Power): The energy that makes the recitation effective.",
+      "The use of 'Viniyujyate' emphasizes the direct application of the hymn for the purpose of peace."
+    ],
   },
   {
     chapter : 1,
