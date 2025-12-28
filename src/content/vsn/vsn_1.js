@@ -363,18 +363,56 @@ const verses = [
     chapter : 1,
     number  : 8,
     sloka   : [
-      "युधिष्ठिर उवाच ---",
+      "-- युधिष्ठिर उवाच --",
       "किमेकं दैवतं लोके किं वाप्येकं परायणम् ।",
       "स्तुवन्तः कं कमर्चन्तः प्राप्नुयुर्मानवाः शुभम् ॥ ८॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    sloka_tel : [
+      "-- యుధిష్ఠిర ఉవాచ --",
+      "కిమేకం దైవతం లోకే కిం వాప్యేకం పరాయణమ్ ।",
+      "స్తువంతః కం కమర్చంతః ప్రాప్నుయుర్మానవాః శుభమ్ ॥ ౮॥",
+    ],
+    vicheda : [
+      "किम् एकं दैवतं लोके किम् वा अपि एकं परायणम् ।",
+      "स्तुवन्तः कम् कम् अर्चन्तः प्राप्नुयुः मानवाः शुभम् ॥",
+    ],
+    anvaya  : [
+      "लोके एकं दैवतं किम्?", 
+      "(वा अपि) एकं परायणम् किम्?", 
+      "कम् स्तुवन्तः कम् अर्चन्तः मानवाः शुभम् प्राप्नुयुः?"
+    ],
+    transl  : [
+      "Who is the one Supreme Deity in the world?",
+      "What is the one ultimate goal?",
+      "By praising whom and by worshipping whom do human beings attain auspiciousness?"
+    ],
+    essence : [
+      "Yudhishthira asked: Who is the one Supreme Deity in the world? What is the one ultimate goal (refuge)? By praising whom and by worshipping whom do human beings attain auspiciousness (salvation)?"
+    ],
+    essence_tel : [
+      "ధర్మరాజు అడుగుతున్నాడు: ఈ లోకంలో అందరికంటే గొప్ప దైవం ఎవరు? అందరూ చేరుకోవాల్సిన పరమపదం (గమ్యం) ఏది? ఎవరిని స్తుతించడం వల్ల, ఎవరిని పూజించడం వల్ల మానవులకు శుభము (మోక్షము) కలుగుతుంది?"
+    ],
+    meanings: [
+      "Kim = Who / What",
+      "Ekam = One / Sole",
+      "Daivatam = Deity / God",
+      "Loke = In the world",
+      "Vā-api = Or also",
+      "Parāyaṇam = Ultimate refuge / Supreme goal",
+      "Stuvantaḥ = By praising (those who praise)",
+      "Kam = Whom",
+      "Arcantaḥ = By worshipping (those who worship)",
+      "Prāpnuyuḥ = Might attain / would reach",
+      "Mānavāḥ = Human beings",
+      "Śubham = Auspiciousness / Good fortune / Liberation"
+    ],
+    notes   : [
+      "Yudhishthira seeks to simplify the vast complexities of Dharma into direct answers. He asks: 1. Who is the sole God? 2. What is the highest goal? 3. Whose praise brings benefits? 4. Whose worship grants peace?",
+      "Grammar: 'Stuvantaḥ' and 'Arcantaḥ' are present participles (Śatṛ-pratyaya) indicating ongoing action.",
+      "Grammar: 'Prāpnuyuḥ' is in the Vidhi-liṅ Lakāra (Potential Mood), asking what *might* happen or what *should* be done.",
+      "This verse starts the 'Ṣaṭ-praśna' (Six Questions) that Yudhishthira presents to Bhishma.",
+      "The repetition of 'Kam' (Kam Kam-arcantaḥ) emphasizes the search for that one specific entity among many."
+    ],
   },
   {
     chapter : 1,
