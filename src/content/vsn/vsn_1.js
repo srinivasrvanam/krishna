@@ -628,14 +628,42 @@ const verses = [
       "ब्रह्मण्यं सर्वधर्मज्ञं लोकानां कीर्तिवर्धनम् ।",
       "लोकनाथं महद्भूतं सर्वभूतभवोद्भवम् ॥ १३॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    sloka_tel : [
+      "బ్రహ్మణ్యం సర్వధర్మజ్ఞం లోకానాం కీర్తివర్ధనమ్ ।",
+      "లోకనాథం మహద్భూతం సర్వభూతభవోద్భవమ్ ॥ ౧౩॥",
+    ],
+    vicheda : [
+      "ब्रह्मण्यं सर्व-धर्म-ज्ञं लोकानां कीर्ति-वर्धनम् ।",
+      "लोक-नाथं महद्-भूतं सर्व-भूत-भव-उद्भवम् ॥",
+    ],
+    anvaya  : [
+      "ब्रह्मण्यं सर्व-धर्म-ज्ञं लोकानां कीर्ति-वर्धनं", 
+      "लोक-नाथं महद्-भूतं सर्व-भूत-भव-उद्भवम् ।"
+    ],
+    transl  : [
+      
+    ],
+    essence : [
+      "I worship Him who is the protector of Brahman (the Vedas and the seekers), the knower of all Dharmas, the one who increases the glory of the worlds, the Lord of the universe, the Great Being, and the source from which all beings originate."
+    ],
+    essence_tel : [
+      "బ్రాహ్మణ్యులకు మరియు వేదములకు హితుడైనవాడు, సర్వ ధర్మములు తెలిసినవాడు, లోకములకు కీర్తిని పెంచువాడు, లోకములకు నాథుడు, గొప్పవాడు మరియు సర్వ ప్రాణుల ఉత్పత్తికి కారణమైన ఆ విష్ణుమూర్తిని (స్తుతించాలి)."
+    ],
+    meanings: [
+      "Brahmaṇyaṃ = The protector/benefactor of Brahman (Vedas, Penance, Truth)",
+      "Sarva-dharma-jñaṃ = The knower of all Dharmas",
+      "Lokānāṃ kīrti-vardhanam = The enhancer of the fame of the worlds",
+      "Loka-nāthaṃ = The Lord/Protector of the worlds",
+      "Mahad-bhūtaṃ = The Great Being (The Supreme Reality)",
+      "Sarva-bhūta-bhava-udbhavam = The source of the existence/origin of all beings"
+    ],
+    notes   : [
+      "Bhishma describes the Lord as the ultimate authority on Righteousness (Dharma) and the very source of existence. By calling Him 'Mahadbhutam', he refers to the Supreme Reality that is the cause of all causes, from whom every living entity is born.",
+      "Grammar: All terms are in the Accusative case (2nd case), continuing the list of objects of 'Stuvan' (praising) from the previous verses.",
+      "The term 'Brahmaṇyam' specifically denotes one who is favorable to those on the path of spiritual knowledge.",
+      "Sarva-bhūta-bhava-udbhavam: A complex compound meaning 'Sarva' (all) + 'Bhūta' (beings) + 'Bhava' (existence/birth) + 'Udbhavam' (origin).",
+      "The word 'Mahadbhūtam' highlights that God is the greatest entity that has ever existed, encompassing all of creation."
+    ],
   },
   {
     chapter : 1,
