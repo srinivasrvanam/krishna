@@ -579,14 +579,47 @@ const verses = [
       "अनादिनिधनं विष्णुं सर्वलोकमहेश्वरम् ।",
       "लोकाध्यक्षं स्तुवन्नित्यं सर्वदुःखातिगो भवेत् ॥ १२॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    sloka_tel : [
+      "అనాదినిధనం విష్ణుం సర్వలోకమహేశ్వరమ్ ।",
+      "లోకాధ్యక్షం స్తువన్నిత్యం సర్వదుఃఖాతిగో భవేత్ ॥ ౧౨॥",
+    ],
+    vicheda : [
+      "अनादि-निधनं विष्णुं सर्व-लोक-महेश्वरम् ।",
+      "लोक-अध्यक्षं स्तुवन् नित्यं सर्व-दुःख-अतिगः भवेत् ॥",
+    ],
+    anvaya  : [
+      "सर्व-दुःख-अतिगः भवेत्",
+      "(अनादि-निधनं सर्व-लोक-महेश्वरम् लोक-अध्यक्षं) विष्णुं", 
+      "नित्यं स्तुवन् ",      
+    ],
+    transl  : [
+      "One becomes transcended of all sorrows",
+      "- Vishnu, who is without beginning or end, the supreme Lord of all worlds, and the witness of the universe.",
+      "by constantly praising", 
+    ],
+    essence : [
+      "By constantly praising Vishnu, who is without beginning or end, the supreme Lord of all worlds, and the witness of the universe, one becomes transcended of all sorrows."
+    ],
+    essence_tel : [
+      "ఆది అంతము లేనివాడు, సమస్త లోకములకు అధిపతి, లోకములను పర్యవేక్షించువాడైన విష్ణుమూర్తిని నిరంతరము స్తుతించువాడు సమస్త దుఃఖముల నుండి విముక్తుడవుతాడు."
+    ],
+    meanings: [
+      "Anādi-nidhanam = One who has no beginning (Adi) and no end (Nidhana)",
+      "Viṣṇuṃ = Lord Vishnu (The All-pervasive One)",
+      "Sarva-loka-maheśvaram = The great Lord of all the worlds",
+      "Lokādhyakṣaṃ = The master/witness of the worlds",
+      "Stuvan = Praising / Extolling",
+      "Nityaṃ = Constantly / Daily",
+      "Sarva-duḥkha-atigaḥ = One who has gone beyond (transcended) all sorrows",
+      "Bhavet = Should become / May become"
+    ],
+    notes   : [
+      "This verse provides the fruit of the action (Phala). Bhishma defines Vishnu as being beyond the constraints of time (birth and death) and as the presiding deity of all existence. He promises that regular chanting leads to the complete cessation of all types of suffering.",
+      "Grammar: 'Bhavet' is in the Vidhi-liṅ Lakāra (Potential/Optative Mood), indicating a result that surely follows the cause.",
+      "The word 'Atigaḥ' (Ati + Ga) means 'one who has crossed over' or 'surmounted'.",
+      "Anādi-nidhanam: This compound emphasizes that the Supreme Reality is unconditioned by time.",
+      "Lokādhyakṣa: 'Adhyakṣa' implies a supervisor or one who sees everything directly; Vishnu is the conscious witness of all worldly activities."
+    ],
   },
   {
     chapter : 1,
