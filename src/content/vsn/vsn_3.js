@@ -188,14 +188,45 @@ const verses = [
       "पुण्योपेतं पुण्डरीकायताक्षं",
       "विष्णुं वन्दे सर्वलोकैकनाथम् ॥ ४॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
+    sloka_tel : [
+      "మేఘశ్యామం పీతకౌశేయవాసం",
+      "శ్రీవత్సాంకం కౌస్తుభోద్భాసితాంగమ్ ।",
+      "పుణ్యోపేతం పుండరీకాయతాక్షం",
+      "విష్ణుం వందే సర్వలోకైకనాథమ్ ॥ ౪॥",
+    ],
+    vicheda : [
+      "मेघ-श्यामं पीत-कौशेय-वासं",
+      "श्रीवत्स-अङ्कं कौस्तुभ-उद्भासित-अङ्गम् ।",
+      "पुण्य-उपेतं पुण्डरीक-आयत-अक्षं",
+      "विष्णुं वन्दे सर्व-लोक-एक-नाथम् ॥",
+    ],
+    anvaya  : [
+      "मेघश्यामं पीतकौशेयवासं श्रीवत्साङ्कं कौस्तुभोद्भासिताङ्गम् पुण्योपेतं पुण्डरीकायताक्षं सर्वलोकैकनाथं विष्णुं वन्दे ।"
+    ],
     transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence : [
+      "I salute Lord Vishnu, the sole master of all the worlds, who is dark like a rain-bearing cloud, who wears yellow silk robes, who bears the mark of Srivatsa on His chest, whose body shines with the Kaustubha gem, who is endowed with holiness, and who has broad eyes like the petals of a lotus."
+    ],
+    essence_tel : [
+      "మేఘం వలె నల్లని వర్ణం కలవాడు, పట్టు పీతాంబరమును ధరించినవాడు, వక్షస్థలమున శ్రీవత్సమనే మచ్చ గలవాడు, కౌస్తుభ మణితో ప్రకాశించే శరీరము కలవాడు, పుణ్యమూర్తి, తామర రేకుల వంటి విశాలమైన కన్నులు కలవాడు మరియు సర్వలోకములకు నాథుడైన ఆ విష్ణుమూర్తికి నమస్కరిస్తున్నాను."
+    ],
+    meanings: [
+      "Megha-śyāmaṃ = Dark/beautiful like a rain cloud",
+      "Pīta-kauśeya-vāsaṃ = Wearing yellow silk garments",
+      "Śrīvatsa-aṅkaṃ = Bearing the mark of Srivatsa (the mark of Lakshmi)",
+      "Kaustubha-udbhāsita-aṅgam = Whose body is illuminated by the Kaustubha gem",
+      "Puṇya-upetaṃ = Associated with or reaching through merit/holiness",
+      "Puṇḍarīka-āyata-akṣaṃ = Having broad eyes like a white lotus",
+      "Viṣṇuṃ = Lord Vishnu",
+      "Vande = I salute / bow",
+      "Sarva-loka-eka-nātham = The one Lord of all the worlds"
+    ],
+    notes   : [
+      "This verse provides a vivid description for 'Sthūla Dhyāna' (meditation on the physical form), helping the practitioner fix the mind on specific divine attributes.",
+      "The contrast between the dark skin (Megha-śyāma) and the yellow cloth (Pīta-vāsa) is a recurring motif in Sanskrit poetry, symbolizing the union of the infinite void with the creative energy of light.",
+      "The Kaustubha gem and Śrīvatsa mark are 'Nitya-Vibhūtis' (eternal splendors) unique to Lord Vishnu, identifying Him as the Supreme Purusha.",
+      "Grammar: All descriptors are in the 2nd case (Accusative), as they qualify the object of worship, 'Viṣṇuṃ'."
+    ],
   },
   {
     chapter : 3,
