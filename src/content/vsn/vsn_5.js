@@ -415,7 +415,11 @@ const verses = [
       "ఇది సాధకుడికి ఒక గొప్ప భరోసాను ఇచ్చే శ్లోకం. జీవిత ప్రయాణంలో ఎదురయ్యే సంక్లిష్ట పరిస్థితులను అధిగమించే శక్తిని ఇది ప్రసాదిస్తుంది."
     ],
   },
-  {
+  In this tenth verse of the Phalaśruti, Bhishma Pitamaha describes the ultimate spiritual destination for a devotee of Vasudeva. This shloka transitions from worldly benefits to the final goal of human existence: Moksha (liberation) and the purification of the soul.
+
+JavaScript
+
+{
     chapter : 5,
     number  : 10,
     sloka   : [
@@ -426,13 +430,36 @@ const verses = [
       "వాసుదేవాశ్రయో మర్త్యో వాసుదేవపరాయణః |",
       "సర్వపాపవిశుద్ధాత్మా యాతి బ్రహ్మ సనాతనమ్ ॥ ౧౦॥"
     ],
-    vicheda : [],
-    anvaya  : [],
+    vicheda : [
+      "वासुदेव-आश्रयः मर्त्यः वासुदेव-परायणः ।",
+      "सर्व-पाप-विशुद्ध-आत्मा याति ब्रह्म सनातनम् ॥"
+    ],
+    anvaya  : [
+      "वासुदेवाश्रयः वासुदेवपरायणः मर्त्यः सर्वपापविशुद्धात्मा (भूत्वा) सनातनम् ब्रह्म याति ।"
+    ],
     transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence : [
+      "That mortal who has taken sole refuge in Vasudeva and who regards Vasudeva as the highest goal, becomes purified of all sins and attains the eternal Brahman (Supreme Reality)."
+    ],
+    essence_tel : [
+      "వాసుదేవుడిని ఆశ్రయించినవాడు, వాసుదేవుడే పరమ గతి అని నమ్మిన మనుష్యుడు, సమస్త పాపాల నుండి విముక్తుడై పరిశుద్ధమైన మనస్సుతో శాశ్వతమైన బ్రహ్మమును (మోక్షమును) పొందుతాడు."
+    ],
+    meanings: [
+      "Vāsudeva-āśrayaḥ = One who has taken refuge in Vasudeva",
+      "Martyaḥ = A mortal / human being",
+      "Vāsudeva-parāyaṇaḥ = One to whom Vasudeva is the supreme goal",
+      "Sarva-pāpa-viśuddha-ātmā = One whose soul is purified of all sins",
+      "Yāti = Attains / reaches / goes to",
+      "Brahma = The Supreme Reality / Brahman",
+      "Sanātanam = Eternal / ancient / timeless"
+    ],
+    notes   : [
+      "This verse defines the path of 'Prapatti' (surrender). A 'Martya' (mortal subject to death) becomes 'Amrta' (immortal) by aligning with the 'Sanatana' (eternal).",
+      "The term 'Vāsudeva-parāyaṇaḥ' suggests that the devotee doesn't just worship for favors, but sees the Lord as the end-goal itself.",
+      "Purification: 'Viśuddha-ātmā' implies that the vibration of the thousand names acts as a detergent for the 'Samskaras' or impressions of past sins.",
+      "The result 'Yāti Brahma Sanātanam' confirms that the Vishnu Sahasranama is not just a prayer for health and wealth, but a complete Shastra for liberation.",
+      "Grammar: The use of the word 'Martya' (mortal) emphasizes the contrast between our temporary physical existence and the 'Sanatana' (eternal) nature of the destination."
+    ],
   },
   {
     chapter : 5,
