@@ -825,13 +825,39 @@ const verses = [
       "యోగో జ్ఞానం తథా సాఙ్ఖ్యం విద్యాః శిల్పాది కర్మ చ |",
       "వేదాః శాస్త్రాణి విజ్ఞానమేతత్ సర్వం జనార్దనాత్ ॥ ౧౯॥"
     ],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
+    vicheda : [
+      "योगः ज्ञानं तथा साङ्ख्यं विद्याः शिल्प-आदि कर्म च ।",
+      "वेदाः शास्त्राणि विज्ञानम् एतत् सर्वं जनार्दनात् ॥"
+    ],
+    anvaya  : [
+      "योगः, ज्ञानं, तथा साङ्ख्यं, विद्याः, शिल्पादि कर्म च, वेदाः, शास्त्राणि, विज्ञानं (च) - एतत् सर्वं जनार्दनात् (प्रवृत्तम्) ।"
+    ],
+    transl  : [
+      "Yoga, spiritual knowledge, the Sankhya philosophy, the various sciences, arts, and crafts; the Vedas, the scriptures, and specific secular knowledge—all these have originated from Janardana."
+    ],
     essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence_tel : [
+      "యోగము, జ్ఞానము, సాంఖ్యము, వివిధ విద్యలు, శిల్పాది కళలు, వేదాలు, శాస్త్రాలు మరియు విజ్ఞానము—ఇవన్నీ జనార్దనుడి నుండి పుట్టినవే."
+    ],
+    meanings: [
+      "Yogaḥ = The path of union / meditation",
+      "Jñānaṃ = Spiritual wisdom / direct realization",
+      "Sāṅkhyaṃ = The philosophy of discriminative knowledge",
+      "Vidyāḥ = Various branches of learning",
+      "Śilpa-ādi karma = Arts, crafts, and technical skills",
+      "Vedāḥ = The four Vedas (Rig, Yajur, Sama, Atharva)",
+      "Śāstrāṇi = The scriptures / law books",
+      "Vijñānam = Specialized or scientific knowledge",
+      "Janārdanāt = From Janardana (He who is prayed to for liberation)"
+    ],
+    notes   : [
+      "Per your instruction, the essence has been moved here: Yoga, spiritual knowledge, the Sankhya philosophy, the various sciences, arts, and crafts; the Vedas, the scriptures, and specific secular knowledge—all these have originated from Janardana.",
+      "Inclusivity of Knowledge: Bhishma emphasizes that there is no divide between 'sacred' and 'secular' knowledge. Even crafts (Shilpa) and specialized sciences (Vijnanam) are divine in origin.",
+      "The term 'Janārdana' is used here, meaning 'one who stirs or destroys the ignorance of the people.' He is the source of the light that dispels the darkness of the mind.",
+      "Yoga and Sankhya: These represent the two major ancient Indian paths—discipline/action and analysis/knowledge—both finding their source in the same Lord.",
+      "By acknowledging this, a professional or an artist can see their work (Karma) as an expression of Janardana, turning mundane activity into worship.",
+      "Grammar: The word 'Sarvam' (everything) underscores that there is no intellectual or creative endeavor outside the scope of the Divine influence."
+    ],
   },
   {
     chapter : 5,
