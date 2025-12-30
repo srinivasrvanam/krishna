@@ -870,13 +870,42 @@ const verses = [
       "ఏకో విష్ణురనేకాని భూతాన్యన్తశ్చరన్ విభుః |",
       "వ్యాప్య లోకాన్త్రయాన్ సర్వాన్ భుఙ్క్తే విశ్వభుగవ్యయః ॥ ౨౦॥"
     ],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
+    vicheda : [
+      "एकः विष्णुः अनेकानि भूतानि अन्तः चरन् विभुः ।",
+      "व्याप्य लोकान् त्रयान् सर्वान् भुङ्क्ते विश्व-भुक् अव्ययः ॥"
+    ],
+    anvaya  : [
+      "विभुः एकः विष्णुः अनेकानि भूतानि अन्तः चरन्, सर्वान् त्रयान् लोकान् व्याप्य, विश्वभुక్ अव्ययः (सन्) भुङ्क्ते ।"
+    ],
+    transl  : [
+      "The one all-pervading Vishnu, dwelling within the hearts of diverse beings and pervading all the three worlds, experiences and enjoys everything as the inexhaustible protector of the universe."
+    ],
     essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence_tel : [
+      "సర్వవ్యాపకుడైన విష్ణువు ఒక్కడే అయినప్పటికీ, అనేకమైన భూతాల (జీవుల) అంతరాత్మగా సంచరిస్తూ, మూడు లోకాలను వ్యాపించి ఉన్నాడు. ఆ నిత్యుడైన పరమాత్మ విశ్వమంతటినీ అనుభవిస్తూ అందరినీ రక్షిస్తున్నాడు."
+    ],
+    meanings: [
+      "Ekaḥ = The One",
+      "Viṣṇuḥ = Vishnu (The All-pervasive)",
+      "Anekāni = Many / diverse",
+      "Bhūtāni = Beings / elements",
+      "Antaḥ-caran = Dwelling / moving within",
+      "Vibhuḥ = The Almighty / All-pervading Lord",
+      "Vyāpya = Having pervaded",
+      "Lokān trayān = The three worlds (Earth, Atmosphere, Heavens)",
+      "Sarvān = All",
+      "Bhuṅkte = Enjoys / experiences / protects",
+      "Viśva-bhuk = The consumer/protector of the universe",
+      "Avyayaḥ = The Inexhaustible / Imperishable One"
+    ],
+    notes   : [
+      "Per your instruction, the essence has been moved here: The one all-pervading Vishnu, dwelling within the hearts of diverse beings and pervading all the three worlds, experiences and enjoys everything as the inexhaustible protector of the universe.",
+      "Immanence and Transcendence: This verse beautifully captures both qualities of God. He is 'Antah-caran' (inside every atom) and 'Vyāpya' (outside, encompassing all worlds).",
+      "The term 'Viśva-bhuk' has a dual meaning: He who 'eats' or consumes the universe at the time of Pralaya, and He who 'enjoys' the universe through the senses of all living beings.",
+      "Avyayaḥ: Despite being the inner soul of millions of beings and experiencing their lives, He remains 'Avyaya'—completely unaffected, undiminished, and pure.",
+      "Philosophical Context: This aligns with the 'Antaryami' (Inner Ruler) concept of the Upanishads. It suggests that our own experiences are ultimately witnessed by the One Vishnu within us.",
+      "Grammar: The transition from 'Eka' (one) to 'Aneka' (many) emphasizes that diversity is a manifestation of a single underlying unity."
+    ],
   },
   {
     chapter : 5,
