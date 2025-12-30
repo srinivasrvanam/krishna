@@ -511,13 +511,39 @@ const verses = [
       "ఇమం స్తవమధీయానః శ్రద్ధాభక్తిసమన్వితః |",
       "యుజ్యేతాత్మసుఖక్షాన్తిశ్రీధృతిస్మృతికీర్తిభిః ॥ ౧౨॥"
     ],
-    vicheda : [],
-    anvaya  : [],
+    vicheda : [
+      "इमं स्तवम् अधीयानः श्रद्धा-भक्ति-समन्वितः ।",
+      "युज्येत आत्म-सुख-क्षान्ति-श्री-धृति-स्मृति-कीर्तिभिः ॥"
+    ],
+    anvaya  : [
+      "श्रद्धाभक्तिसमन्वितः इमं स्तवम् अधीयानः (पुण्यवान्) आत्मसुख-क्षान्ति-श्री-धृति-स्मृति-कीर्तिभिः युज्येत ।"
+    ],
     transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence : [
+      "One who studies this hymn with deep faith and devotion becomes endowed with the bliss of the self, forgiveness, prosperity, fortitude, memory, and fame."
+    ],
+    essence_tel : [
+      "శ్రద్ధాభక్తులతో ఈ స్తోత్రాన్ని పఠించేవాడు ఆత్మసుఖము, క్షమ, ఐశ్వర్యము, ధైర్యము, జ్ఞాపకశక్తి మరియు కీర్తిని పొందుతాడు."
+    ],
+    meanings: [
+      "Imaṃ stavaṃ = This hymn (the Sahasranama)",
+      "Adhīyānaḥ = One who studies / recites",
+      "Śraddhā-bhakti-samanvitaḥ = Endowed with faith and devotion",
+      "Yujyeta = Becomes united with / endowed with",
+      "Ātma-sukha = Bliss of the soul / inner peace",
+      "Kṣānti = Forgiveness / patience",
+      "Śrī = Prosperity / glory",
+      "Dhṛti = Fortitude / firmness / willpower",
+      "Smṛti = Memory / mindfulness",
+      "Kīrtibhiḥ = With fame / reputation"
+    ],
+    notes   : [
+      "This verse highlights the 'Guna-Vibhuti' (attributes of excellence) that develop in a devotee. It describes a total personality transformation.",
+      "The term 'Ātma-sukha' is profound; it refers to a happiness that is independent of external objects, arising from within the self.",
+      "Dhṛti and Smṛti: These are cognitive benefits. Dhṛti allows one to stay firm during trials, and Smṛti ensures that one does not forget their divine nature or their duties.",
+      "Kṣānti (Forgiveness): This is a rare virtue. Chanting the names of the Lord, who is the 'Ocean of Mercy,' naturally makes the devotee more forgiving and patient with others.",
+      "Grammar: 'Yujyeta' is in the passive optative, suggesting that these qualities are not 'earned' through egoistic effort, but 'bestowed' upon the devotee as they align with the Lord."
+    ],
   },
   {
     chapter : 5,
