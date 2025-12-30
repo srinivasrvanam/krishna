@@ -56,13 +56,44 @@ const verses = [
       "య ఇదం శృణుయాన్నిత్యం యశ్చాపి పరికీర్తయేత్ |",
       "నాశుభం ప్రాప్నుయాత్ కిఞ్చిత్సోऽముత్రేహ చ మానవః ॥ ౨॥"
     ],
-    vicheda : [],
-    anvaya  : [],
+    vicheda : [
+      "यः इदं श‍ृणुयात् नित्यं यः च अपि परि-कीर्तयेत् ।",
+      "न अशुभं प्राप्नुयात् किञ्चित् सः अमुत्र इह च मानवः ॥",
+    ],
+    anvaya  : [
+      "यः नित्यं इदं श‍ृणुयात् यः च अपि परिकीर्तयेत्, सः मानवः इह अमुत्र च किञ्चित् अशुभं न प्राप्नुयात् ।"
+    ],
     transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence : [
+      "That person who hears this daily and who also recites it shall not meet with anything inauspicious or evil, both in this world and in the world hereafter."
+    ],
+    essence_tel : [
+      "ఎవడైతే దీనిని ప్రతిరోజూ వింటాడో మరియు ఎవడైతే దీనిని పఠిస్తాడో, ఆ మనిషి ఈ లోకంలోనూ మరియు పరలోకంలోనూ ఎటువంటి అశుభాన్ని పొందడు."
+    ],
+    meanings: [
+      "Yaḥ = Who / He who",
+      "Idaṃ = This (the Sahasranama)",
+      "Ś‍ṛṇuyāt = Should hear / listens",
+      "Nityaṃ = Daily / constantly",
+      "Yaḥ ca api = And also who",
+      "Parikīrtayet = Should recite / praise well",
+      "Na = Not",
+      "Aśubhaṃ = Inauspiciousness / evil / ill-fortune",
+      "Prāpnuyāt = Shall attain / shall meet with",
+      "Kiñcit = Anything / even a little",
+      "Saḥ = That (person)",
+      "Amutra = In the other world / hereafter",
+      "Iha = In this world",
+      "Ca = And",
+      "Mānavaḥ = Human being"
+    ],
+    notes   : [
+      "The verse emphasizes two paths of devotion: 'Śravaṇa' (hearing) and 'Kīrtana' (reciting). Both are considered equally effective in providing protection.",
+      "The scope of protection is total ('Kiñcit' - not even a little) and covers both the current life ('Iha') and the life after death ('Amutra').",
+      "Grammar: 'Ś‍ṛṇuyāt' and 'Prāpnuyāt' are in the Vidhi-liṅ (Potential Mood), which in the context of Phalaśruti acts as a definitive promise of the result.",
+      "Sandhi Note: 'Sāmutra-iha' is a combination of 'Saḥ' + 'Amutra' + 'Iha'.",
+      "This shloka highlights the 'Abhaya' (fearlessness) aspect of Vishnu devotion, ensuring the devotee is shielded from all forms of negativity."
+    ],
   },
   {
     chapter : 5,
