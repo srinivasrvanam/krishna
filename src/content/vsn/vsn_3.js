@@ -65,14 +65,58 @@ const verses = [
       "अन्तःस्थं यस्य विश्वं सुरनरखगगोभोगिगन्धर्वदैत्यैः",
       "चित्रं रंरम्यते तं त्रिभुवनवपुषं विष्णुमीशं नमामि ॥ २॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
+    sloka_tel : [
+      "భూః పాదౌ యస్య నాభిర్వియదసురనిలశ్చంద్రసూర్యౌ చ నేత్రే",
+      "కర్ణావాశాః శిరో ద్యౌర్ముఖమపి దహనో యస్య వాస్తేయమబ్ధిః ।",
+      "అంతస్థం యస్య విశ్వం సురనరఖగగోభోగిగంధర్వదైత్యैః",
+      "చిత్రం రంరమ్యతే తం త్రిభువనవపుషం విష్ణుమీశం నమామి ॥ ౨॥",
+    ],
+    vicheda : [
+      "भूः पादौ यस्य नाभिः वियत् असुर-निलः चन्द्र-सूर्यौ च नेत्रे",
+      "कर्णौ आशाः शिरः द्यौः मुखम् अपि दहनः यस्य वास्तेयम् अब्धिः ।",
+      "अन्तःस्थं यस्य विश्वं सुर-नर-खग-गो-भोगि-गन्धर्व-दैत्यैः",
+      "चित्रं रंरम्यते तं त्रिभुवन-वपुषं विष्णुम् ईशं नमामि ॥",
+    ],
+    anvaya  : [
+      "यस्य भूः पादौ, नाभिः वियत्, असुरनिलः (प्राणः), चन्द्रसूर्यौ च नेत्रे, आशाः कर्णौ, द्यौः शिरः, मुखम् अपि दहनः, यस्य अब्धिः वास्तेयम्, यस्य अन्तःस्थं सुर-नर-खग-गो-भोगि-गन्धर्व-दैत्यैः चित्रं विश्वं रंरम्यते, तं त्रिभुवनवपुषं ईशं विष्णुं नमामि ।"
+    ],
     transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence : [
+      "I bow to Lord Vishnu, the Master of the three worlds, whose feet are the earth, whose navel is the sky, whose breath is the wind, and whose eyes are the sun and the moon. His ears are the directions, His head is the heavens, and His mouth is the fire. The ocean is His stomach, and within Him, the entire diverse world—consisting of gods, humans, birds, animals, serpents, celestial singers, and demons—rejoices. I salute that Supreme Lord."
+    ],
+    essence_tel : [
+      "ఎవరికి భూమి పాదాలో, ఆకాశం నాభియో, గాలి ప్రాణమో, సూర్య చంద్రులు నేత్రములో, దిక్కులు చెవులో, స్వర్గం శిరస్సో, అగ్ని ముఖమో, సముద్రం పొట్టయో, ఎవరి గర్భంలో దేవతలు, మనుషులు, పక్షులు, పశువులు, పాములు, గంధర్వులు, రాక్షసులు ఉండి క్రీడిస్తున్నారో, అట్టి త్రిభువన రూపధారియైన విష్ణుమూర్తికి నమస్కరిస్తున్నాను."
+    ],
+    meanings: [
+      "Bhūḥ = The Earth",
+      "Pādau = The two feet",
+      "Yasya = Whose / Of whom",
+      "Nābhiḥ = Navel",
+      "Viyat = The sky / ether",
+      "Asura-nilaḥ = The wind / breath (Prana)",
+      "Candra-sūryau = Moon and Sun",
+      "Netre = The two eyes",
+      "Karṇau = The two ears",
+      "Āśāḥ = The directions (Dik)",
+      "Śiraḥ = The head",
+      "Dyauḥ = The heavens / celestial world",
+      "Mukham = Mouth",
+      "Dahanaḥ = Fire (Agni)",
+      "Vāsteyam = The abdomen / stomach",
+      "Abdhiḥ = The ocean",
+      "Antaḥsthaṃ = Residing within",
+      "Viśvaṃ = The Universe",
+      "Raṃramyate = Rejoices / sports beautifully",
+      "Tribhuvana-vapuṣam = He whose body is the three worlds",
+      "Namāmi = I bow / salute"
+    ],
+    notes   : [
+      "This shloka presents the concept of 'Viraṭ Puruṣa'. It encourages the devotee to see the physical elements of nature as parts of God's body. The earth, sky, sun, and oceans are not just matter, but divine anatomy. This meditation helps dissolve the ego by showing that all living beings reside within Him.",
+      "Grammar: 'Raṃramyate' is a frequentative verb (Yaṅ-luganta), indicating an action that happens repeatedly and intensely—the joyful 'play' of creation.",
+      "Symbolism: The 'Dahana' (Fire) in the mouth represents the power of speech and the digestive fire (Vaishvanara).",
+      "The list of beings (Gods to Demons) emphasizes that the Lord's body contains all polarities of existence.",
+      "This visualization aligns with the Purusha Sukta and the 11th chapter of the Bhagavad Gita."
+    ],
   },
   {
     chapter : 3,
