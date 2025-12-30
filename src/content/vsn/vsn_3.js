@@ -329,14 +329,49 @@ const verses = [
       "चन्द्राननं चतुर्बाहुं श्रीवत्साङ्कितवक्षसं",
       "रुक्मिणीसत्यभामाभ्यां सहितं कृष्णमाश्रये ॥ ७॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
+    sloka_tel : [
+      "ఛాయాయాం పారిజాతస్య హేమసింహాసనోపరి",
+      "ఆసీనమమ్బుదశ్యామమాయతాక్షమలఙ్కృతమ్ ।",
+      "చంద్రాన్నం చతుర్బాహుం శ్రీవత్సాంకితవక్షసం",
+      "రుక్మిణీసత్యభామాభ్యాం సహితం కృష్ణమాశ్రయే ॥ ౭॥",
+    ],
+    vicheda : [
+      "छायायां पारिजातस्य हेम-सिंहासन-उपरि",
+      "आसीनम् अम्बुद-श्यामम् आयत-अक्षम् अलंकृतम् ।",
+      "चन्द्र-आननं चतुः-बाहुं श्रीवत्स-अङ्कित-वक्षसं",
+      "रुक्मिणी-सत्यभामाभ्यां सहितं कृष्णम् आश्रये ॥",
+    ],
+    anvaya  : [
+      "पारिजातस्य छायायां हेमसिंहासनोपरि आसीनम्, अम्बुदश्यामम्, आयताक्षम्, अलंकृतम्, चन्द्राननम्, चतुर्बाहुम्, श्रीवत्साङ्कितवक्षसम्, रुक्मिणीसत्यभामाभ्यां सहितं कृष्णम् आश्रये ।"
+    ],
     transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence : [
+      "I take refuge in Lord Krishna, who is seated upon a golden throne under the shade of the celestial Parijata tree. He is dark as a water-laden cloud, with large eyes and beautiful ornaments. He has a face as pleasing as the moon, four arms, and the mark of Srivatsa on His chest. He is accompanied by His consorts, Rukmini and Satyabhama."
+    ],
+    essence_tel : [
+      "పారిజాత వృక్షము యొక్క నీడలో, బంగారు సింహాసనంపై కూర్చుని ఉన్నవాడు, మేఘం వంటి నల్లని వర్ణం కలవాడు, విశాలమైన కన్నులు కలవాడు, ఆభరణములతో అలంకరించబడినవాడు, చంద్రుని వంటి ముఖము కలవాడు, నాలుగు భుజములు కలిగి వక్షస్థలమున శ్రీవత్స చిహ్నము కలవాడు మరియు రుక్మిణీ సత్యభామలతో కూడి ఉన్నవాడైన శ్రీకృష్ణుడిని నేను ఆశ్రయిస్తున్నాను."
+    ],
+    meanings: [
+      "Chāyāyāṃ = In the shade",
+      "Pārijātasya = Of the (celestial) Parijata tree",
+      "Hema-siṃhāsana-upari = Upon a golden throne",
+      "Āsīnam = Seated",
+      "Ambuda-śyāmam = Dark like a water-bearing cloud",
+      "Āyata-akṣam = Large-eyed",
+      "Alaṃkṛtam = Adorned (with ornaments)",
+      "Candra-ānanaṃ = Moon-faced (pleasing and bright)",
+      "Catuḥ-bāhuṃ = Four-armed",
+      "Śrīvatsa-aṅkita-vakṣasaṃ = Having the Srivatsa mark on the chest",
+      "Rukmiṇī-satyabhāmābhyāṃ sahitaṃ = Together with Rukmini and Satyabhama",
+      "Kṛṣṇam āśraye = I take refuge in Krishna"
+    ],
+    notes   : [
+      "This verse shifts the meditative focus to the 'Dvaraka-Lila' aspect of the Lord, where He is depicted as a king (*Raja-Gopala*).",
+      "The Parijata tree represents the fulfillment of all desires, signifying that seeking refuge in Him grants both material and spiritual peace.",
+      "The mention of Rukmini and Satyabhama represents the union of the Lord with His Shaktis—Rukmini representing selfless devotion and Satyabhama representing assertive action/earthly abundance.",
+      "Grammar: 'Āśraye' is in the Atmanepada, 1st person singular ('I take shelter'). All the adjectives for Krishna are in the Accusative case (2nd case).",
+      "Symbolism: The moon-like face (*Candra-ānanaṃ*) indicates that His presence cools the 'heat' of worldly sorrows (Taapa-traya)."
+    ],
   },
 ];
 
