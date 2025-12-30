@@ -556,13 +556,37 @@ const verses = [
       "న క్రోధో న చ మాత్సర్యం న లోభో నాశుభా మతిః |",
       "భవన్తి కృతపుణ్యానాం భక్తానాం పురుషోత్తమే ॥ ౧౩॥"
     ],
-    vicheda : [],
-    anvaya  : [],
+    vicheda : [
+      "न क्रोधः न च मात्सर्यं न लोभः न अशुभा मतिः ।",
+      "भवन्ति कृत-पुण्यानां भक्तानां पुरुष-उत्तमे ॥"
+    ],
+    anvaya  : [
+      "पुरुषोत्तमे (रतानां) कृतपुण्यानां भक्तानां न क्रोधः, न च मात्सर्यं, न लोभः, न अशुभा मतिः भवन्ति ।"
+    ],
     transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence : [
+      "In those devotees of the Supreme Being (Purushottama) who have acquired great merit, there exists no anger, no jealousy, no greed, and no evil thoughts."
+    ],
+    essence_tel : [
+      "పురుషోత్తముడైన ఆ విష్ణుమూర్తి యందు భక్తి కలిగి, పుణ్యం చేసుకున్న భక్తులలో కోపం, అసూయ, లోభం మరియు చెడు ఆలోచనలు ఉండవు."
+    ],
+    meanings: [
+      "Na krodhaḥ = No anger",
+      "Na ca mātsaryam = Nor any jealousy/envy",
+      "Na lobhaḥ = No greed",
+      "Na aśubhā matiḥ = No inauspicious or evil thoughts",
+      "Bhavanti = Exist / are (in this case, 'are not')",
+      "Kṛta-puṇyānām = Of those who have performed meritorious deeds",
+      "Bhaktānām = Of the devotees",
+      "Puruṣottame = In (the devotion to) the Supreme Being"
+    ],
+    notes   : [
+      "This verse describes the 'Sattvic' state of a devotee. True success of the Sahasranama is measured by the reduction of these negative emotions.",
+      "The phrase 'Kṛta-puṇyānām' suggests that only through the accumulation of spiritual merit does one gain the steadiness of mind required for such high-level devotion.",
+      "Aśubhā matiḥ: This refers to the root of all wrong actions—the 'impure intent.' The names of Vishnu act as a purifying agent for the subconscious mind.",
+      "Internal Victory: While previous verses spoke of victory over external enemies, this verse celebrates victory over the internal enemies (*Antah-shatru*).",
+      "Grammar: The repetitive use of 'Na' (no/not) emphasizes a state of total absence of negativity, creating a vacuum that the Lord eventually fills with His presence."
+    ],
   },
   {
     chapter : 5,
