@@ -780,13 +780,39 @@ const verses = [
       "ఋషయః పితరో దేవా మహాభూతాని ధాతవః |",
       "జఙ్గమాజఙ్గమం చేదం జగన్నారాయణోద్భవమ్ ॥ ౧౮॥"
     ],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
+    vicheda : [
+      "ऋषयः पितरः देवाः महा-भूतानि धातवः ।",
+      "जङ्गम-अजङ्गमम् च इदं जगత్ नारायण-उद्भवम् ॥"
+    ],
+    anvaya  : [
+      "ऋषयः, पितरः, देवाः, महाभूतानि, धातवः, इदं जङ्गमाजङ्गमं जगत् च नारायणोद्भवम् (अस्ति) ।"
+    ],
+    transl  : [
+      "The Sages, the Ancestors, the Gods, the Great Elements, and the bodily constituents; this entire world of moving and unmoving beings, has its origin in Narayana."
+    ],
     essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence_tel : [
+      "ఋషులు, పితృదేవతలు, దేవతలు, పంచభూతములు, శరీర ధాతువులు—ఇవన్నీ మరియు ఈ చరాచర జగత్తు అంతా నారాయణుడి నుండి పుట్టినవే."
+    ],
+    meanings: [
+      "Ṛṣayaḥ = The Seers / Sages (the repositories of knowledge)",
+      "Pitaraḥ = The Ancestors (the lineage of life)",
+      "Devāḥ = The celestial beings / Gods",
+      "Mahā-bhūtāni = The five great elements (Space, Air, Fire, Water, Earth)",
+      "Dhātavaḥ = The bodily constituents / minerals / structural elements",
+      "Jaṅgama-ajaṅgamam = Everything moving and unmoving",
+      "Ca idaṃ = And this",
+      "Jagat = World / Universe",
+      "Nārāyaṇa-udbhavam = Born of / originated from Narayana"
+    ],
+    notes   : [
+      "Per your instruction, the essence has been moved here: The Sages, the Ancestors, the Gods, the Great Elements, and the bodily constituents; this entire world of moving and unmoving beings, has its origin in Narayana.",
+      "Comprehensive Origin: This verse covers all dimensions of existence—the past (Ancestors), the spiritual (Sages/Gods), the physical (Elements), and the biological (Constituents).",
+      "Dhātavaḥ: In the context of Ayurveda, this refers to the seven tissues (*Sapta Dhatu*) that build the body. In a broader sense, it refers to the fundamental properties of matter.",
+      "The name 'Narayana' is used here specifically to denote the 'Ground of all existence' (*Nara* meaning beings, and *Ayana* meaning the resting place or source).",
+      "Philosophical Context: This verse reinforces the 'Ekātma-vāda' (the doctrine of the one soul), showing that diversity is merely an expression of the one underlying Divine principle.",
+      "By recognizing that even our physical body (*Dhatu*) is born of Narayana, the devotee learns to treat the body as a temple and every creature as a sibling in creation."
+    ],
   },
   {
     chapter : 5,
