@@ -599,13 +599,39 @@ const verses = [
       "ద్యౌః సచన్ద్రార్కనక్షత్రా ఖం దిశో భూర్మహోదధిః |",
       "వాసుదేవస్య వీర్యేణ విధృతాని మహాత్మనః ॥ ౧౪॥"
     ],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
+    vicheda : [
+      "द्यौः स-चन्द्र-अर्क-नक्षत्रा खं दिशः भूः महोदधिः ।",
+      "वासुदेवस्य वीर्येण वि-धृतानि महा-आत्मनः ॥"
+    ],
+    anvaya  : [
+      "स-चन्द्र-अर्क-नक्षत्रा द्यौः, खं, दिशः, भूः, महोदधिः (च) महात्मनः वासुदेवस्य वीर्येण विधृतानि ।"
+    ],
+    transl  : [
+      "The sky, along with the moon, sun, and stars; the ether, the directions, the earth, and the great ocean—all are supported and held together by the power of the high-souled Vasudeva."
+    ],
     essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence_tel : [
+      "చంద్రుడు, సూర్యుడు, నక్షత్రాలతో కూడిన ఆకాశం, అంతరిక్షం, దిక్కులు, భూమి మరియు మహాసముద్రం—ఇవన్నీ మహాత్ముడైన వాసుదేవుని శక్తిచేతనే ధరింపబడి ఉన్నాయి."
+    ],
+    meanings: [
+      "Dyauḥ = The sky / heavens",
+      "Sa-candra-arka-nakṣatrā = Together with the moon, sun, and stars",
+      "Khaṃ = The ether / space",
+      "Diśaḥ = The directions (quarters of the sky)",
+      "Bhūḥ = The earth",
+      "Mahodadhiḥ = The great ocean",
+      "Vāsudevasya = Of Vasudeva",
+      "Vīryeṇa = By the power / strength / potency",
+      "Vidhṛtāni = Are supported / held / maintained",
+      "Mahātmanaḥ = Of the great-souled One"
+    ],
+    notes   : [
+      "Per your instruction, the essence has been moved here: The sky, along with the moon, sun, and stars; the ether, the directions, the earth, and the great ocean—all are supported and held together by the power of the high-souled Vasudeva.",
+      "This verse highlights the 'Vibhuti' or the cosmic majesty of the Lord. It establishes that the same Vasudeva whose names we chant is the fundamental force holding the cosmos in place.",
+      "The word 'Vidhṛtāni' comes from the root 'Dhṛ' (to hold/sustain). It implies that without the underlying consciousness of the Lord, the physical universe would lose its cohesion.",
+      "Philosophical Context: This aligns with the 'Vishwarupa' concept, showing that God is not just 'up there' but is the very fabric and support of the material reality (Prakriti).",
+      "By chanting His names, the devotee aligns themselves with this universal power that sustains the stars and oceans."
+    ],
   },
   {
     chapter : 5,
