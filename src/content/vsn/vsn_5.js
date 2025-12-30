@@ -146,19 +146,47 @@ const verses = [
     number  : 4,
     sloka   : [
       "धर्मार्थी प्राप्नुयाद्धर्ममर्थार्थी चार्थमाप्नुयात् ।",
-      "कामानवाप्नुयात्कामी प्रजार्थी प्राप्नुयात्प्रजाम् ॥ ४॥",
+      "कामानवाप्नुयात्कामी प्रजार्थी प्राप्नुयात्प्रजाः ॥ ४॥",
     ],
     sloka_tel : [
       "ధర్మార్థీ ప్రాప్నుయాద్ధర్మమర్థార్థీ చార్థమాప్నుయాత్ |",
-      "కామానవాప్నుయాత్కామీ ప్రజార్థీ ప్రాప్నుయాత్ప్రజామ్ ॥ ౪॥"
+      "కామానవాప్నుయాత్కామీ ప్రజార్థీ ప్రాప్నుయాత్ప్రజాః ॥ ౪॥"
     ],
-    vicheda : [],
-    anvaya  : [],
+    vicheda : [
+      "धर्म-अर्थी प्राप्नुयात् धर्मम् अर्थ-अर्थी च अर्थम् आप्नुयात् ।",
+      "कामान् अवाप्नुयात् कामी प्रजा-अर्थी प्राप्नुयात् प्रजाः ॥",
+    ],
+    anvaya  : [
+      "धर्मार्थी धर्मं प्राप्नुयात्, अर्थार्थी च अर्थं आप्नुयात्, कामी कामान् अवाप्नुयात्, प्रजार्थी प्रजाः प्राप्नुयात् ।"
+    ],
     transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence : [
+      "He who desires righteousness shall attain Dharma; he who desires wealth shall attain riches; he who seeks the fulfillment of desires shall have them satisfied; and he who desires progeny shall be blessed with descendants."
+    ],
+    essence_tel : [
+      "ధర్మాన్ని కోరుకునేవాడు ధర్మాన్ని పొందుతాడు, ధనాన్ని కోరుకునేవాడు ధనాన్ని పొందుతాడు, కోరికలు గలవాడు తన కోరికలను నెరవేర్చుకుంటాడు మరియు సంతానాన్ని కోరుకునేవాడు సంతానాన్ని పొందుతాడు."
+    ],
+    meanings: [
+      "Dharma-arthī = seeker of righteousness/merit",
+      "Prāpnuyāt = shall attain",
+      "Dharmam = Dharma (virtue/righteousness)",
+      "Artha-arthī = seeker of wealth/prosperity",
+      "Ca = and",
+      "Artham = wealth",
+      "Āpnuyāt = shall obtain",
+      "Kāmān = desires / objects of desire",
+      "Avāpnuyāt = shall reach / attain",
+      "Kāmī = one who has desires",
+      "Prajā-arthī = seeker of progeny / children",
+      "Prajāḥ = offspring / descendants"
+    ],
+    notes   : [
+      "This verse explicitly links the recitation of the Sahasranāma to the attainment of the 'Purusharthas'—the four legitimate aims of human life.",
+      "The repetition of 'Arthī' (seeker) and the corresponding result emphasizes the law of 'Yat Bhāvam Tat Bhavati' (as is your intent, so is the result).",
+      "The use of 'Prajāḥ' (plural) in your requested version signifies a blessing for not just a child, but a flourishing lineage or many descendants.",
+      "Grammar: The suffix '-arthī' comes from the root 'artha' (purpose/desire), turning the noun into a description of the seeker's intent.",
+      "Philosophically, while the Sahasranāma can lead to Moksha (liberation), Bhishma here acknowledges that human beings have legitimate worldly needs and assures them that Vishnu supports these too."
+    ],
   },
   {
     chapter : 5,
