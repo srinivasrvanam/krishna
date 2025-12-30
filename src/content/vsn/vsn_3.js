@@ -129,14 +129,55 @@ const verses = [
       "लक्ष्मीकान्तं कमलनयनं योगिभिर्ध्यानगम्यं (योगिहृद्ध्यानगम्यं)",
       "वन्दे विष्णुं भवभयहरं सर्वलोकैकनाथम् ॥ ३॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
+    sloka_tel : [
+      "ఓం నమో భగవతే వాసుదేవాయ ॥",
+      "",
+      "ఓం శాంతాకారం భుజగశయనం పద్మనాభం సురేశం",
+      "విశ్వాధారం గగనసదృశం మేఘవర్ణం శుభాంగమ్ ।",
+      "లక్ష్మీకాంతం కమలనయనం యోగిభిర్ధ్యానగమ్యం",
+      "వందే విష్ణుం భవభయహరం సర్వలోకైకనాథమ్ ॥ ౩॥",
+    ],
+    vicheda : [
+      "ॐ नमः भगवते वासुदेवाय ॥",
+      "शान्त-आकारं भुजग-शयनं पद्म-नाभं सुर-ईशं",
+      "विश्व-आधारं गगन-सदृशं मेघ-वर्णं शुभ-अङ्गम् ।",
+      "लक्ष्मी-कान्तं कमल-नयनं योगिभिः ध्यान-गम्यं",
+      "वन्दे विष्णुं भव-भय-हरं सर्व-लोक-एक-नाथम् ॥",
+    ],
+    anvaya  : [
+      "भगवते वासुदेवाय नमः । शान्ताकारं भुजगशयनं पद्मनाभं सुरेशं विश्वाधारं गगनसदृशं मेघवर्णं शुभाङ्गम् लक्ष्मीकान्तं कमलनयनं योगिभिः ध्यानगम्यं भवभयहरं सर्वलोकैकनाथं विष्णुं वन्दे ।"
+    ],
     transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence : [
+      "Salutations to the Blessed Lord Vasudeva. I salute Lord Vishnu, the sole master of all the worlds, the destroyer of the fear of worldly existence, who is of peaceful appearance, who rests on a serpent, who has a lotus in His navel, who is the Lord of the gods, who is the support of the universe, who is infinite like the sky, whose color is like that of clouds, who has auspicious limbs, who is the beloved of Lakshmi, who has lotus-like eyes, and who is reached by yogis through meditation."
+    ],
+    essence_tel : [
+      "ప్రశాంతమైన ఆకారం గలవాడు, శేషతల్పంపై శయనించువాడు, నాభిలో పద్మము కలవాడు, దేవతలకు ప్రభువు, విశ్వానికి ఆధారం, ఆకాశం వలె నిర్మలుడు, మేఘం వంటి వర్ణం కలవాడు, శుభప్రదమైన అవయవాలు కలవాడు, లక్ష్మీదేవికి ప్రియుడు, పద్మము వంటి కన్నులు కలవాడు, యోగుల ధ్యానము ద్వారా లభ్యమగువాడు, సంసార భయాన్ని పోగొట్టేవాడు మరియు సర్వలోకములకు నాథుడైన ఆ విష్ణుమూర్తికి నమస్కరిస్తున్నాను."
+    ],
+    meanings: [
+      "Oṃ namo bhagavate vāsudevāya = Om, salutations to the Lord, the son of Vasudeva",
+      "Śānta-ākāraṃ = Of peaceful form",
+      "Bhujaga-śayanaṃ = Reclining on the serpent (Adishesha)",
+      "Padma-nābhaṃ = Having a lotus at the navel",
+      "Sureśaṃ = The Lord of the Devas",
+      "Viśva-ādhāraṃ = The support of the entire universe",
+      "Gagana-sadṛśaṃ = Infinite and pervasive like the sky",
+      "Megha-varṇaṃ = Having the color of a dark cloud",
+      "Śubha-aṅgam = Having auspicious limbs",
+      "Lakṣmī-kāntaṃ = The beloved of Lakshmi",
+      "Kamala-nayanaṃ = Having eyes like the lotus",
+      "Yogibhiḥ dhyāna-gamyaṃ = Reachable by yogis through meditation",
+      "Vande = I salute / bow",
+      "Bhava-bhaya-haraṃ = The destroyer of the fear of the cycle of birth and death",
+      "Sarva-loka-eka-nātham = The supreme Lord of all the worlds"
+    ],
+    notes   : [
+      "This is one of the most famous meditative verses for Lord Vishnu, summarizing His transcendental and peaceful nature. It contrasts His role as the 'Support of the Universe' with His 'Peaceful Appearance,' suggesting that while He manages all of creation, He remains internally undisturbed.",
+      "The verse serves as a bridge between the cosmic visualization of the previous sloka and the personal, graceful form of the Lord.",
+      "Grammar: 'Vande' is a verb in the Atmanepada, 1st person singular ('I salute'). All other words are in the Accusative case (2nd case) as they describe the object of worship (Vishnu).",
+      "Symbolism: 'Bhujaga-śayanaṃ' represents the Lord remaining calm amidst the 'coils' of time and worldly energy (represented by the serpent).",
+      "Variants: 'Yogibhir-dhyāna-gamyaṃ' (reachable by yogis) and 'Yogi-hṛd-dhyāna-gamyaṃ' (reachable by meditation in the hearts of yogis) are both commonly used."
+    ],
   },
   {
     chapter : 3,
