@@ -235,14 +235,40 @@ const verses = [
       "नमः समस्तभूतानामादिभूताय भूभृते ।",
       "अनेकरूपरूपाय विष्णवे प्रभविष्णवे ॥ ५॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
+    sloka_tel : [
+      "నమః సమస్తభూతానామాదిభూతాయ భూభృతే ।",
+      "అనేకరూపరూపాయ విష్ణవే ప్రభవిష్ణవే ॥ ౫॥",
+    ],
+    vicheda : [
+      "नमः समस्त-भूतानाम् आदि-भूताय भू-भृते ।",
+      "अनेक-रूप-रूपाय विष्णवे प्रभविष्णवे ॥",
+    ],
+    anvaya  : [
+      "समस्तभूतानाम् आदिभूताय भूभृते अनेकरूपरूपाय प्रभविष्णवे विष्णवे नमः ।"
+    ],
     transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence : [
+      "Salutations to Lord Vishnu, the source of all beings, the supporter of the earth, who manifests in countless forms, and who is the all-pervading, supreme Lord of all power."
+    ],
+    essence_tel : [
+      "సమస్త ప్రాణులకు ఆది కారణమైనవాడు, భూమిని మోయువాడు, అనేక రూపములలో ప్రకాశించువాడు, సర్వవ్యాపి మరియు అత్యంత శక్తిమంతుడైన ఆ విష్ణుమూర్తికి నమస్కారము."
+    ],
+    meanings: [
+      "Namaḥ = Salutations / Bow",
+      "Samasta-bhūtānām = Of all living beings",
+      "Ādi-bhūtāya = To the primordial cause / the first being",
+      "Bhū-bhṛte = To the supporter of the earth",
+      "Aneka-rūpa-rūpāya = To Him who takes many forms / has infinite forms",
+      "Viṣṇave = To Vishnu (the all-pervasive)",
+      "Prabhaviṣṇave = To the one who is exceedingly powerful / the source of all origin"
+    ],
+    notes   : [
+      "This sloka serves as a universal salutation, recognizing the Lord not just as a deity, but as the underlying 'Bhuta' (element/reality) of every creature.",
+      "The term 'Bhū-bhṛte' (Supporter of the Earth) refers both to the Lord as the Varaha avatar and to His constant maintenance of the physical world.",
+      "The compound 'Aneka-rūpa-rūpāya' emphasizes that while the Lord is one, His manifestations (Rupa) are infinite. This reconciles the concept of Monotheism and Polytheism in the Vedic tradition.",
+      "Grammar: The word 'Namaḥ' triggers the Chaturthi Vibhakti (4th case/Dative), which is why all the descriptive names end in '–āya' or '–e' (e.g., Ādi-bhūtāya, Viṣṇave).",
+      "Prabhaviṣṇu: This specific name implies a natural tendency to be the source of all things and to be perpetually mighty."
+    ],
   },
   {
     chapter : 3,
