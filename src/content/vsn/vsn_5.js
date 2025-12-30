@@ -336,13 +336,40 @@ const verses = [
       "రోగార్తో ముచ్యతే రోగాద్బద్ధో ముచ్యేత బన్ధనాత్ |",
       "భయాన్ముచ్యేత భీతస్తు ముచ్యేతాపన్న ఆపదః ॥ ౮॥"
     ],
-    vicheda : [],
-    anvaya  : [],
+    vicheda : [
+      "रोग-आर्तः मुच्यते रोगात् बद्धः मुच्येत बन्धनात् ।",
+      "भयात् मुच्येत भीतः तु मुच्येत आपन्नः आपदः ॥"
+    ],
+    anvaya  : [
+      "रोगार्तः रोगात् मुच्यते, बद्धः बन्धनात् मुच्येत, भीतः भयात् मुच्येत, आपन्नः आपदः (च) मुच्येत ।"
+    ],
     transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence : [
+      "He who is suffering from disease is freed from his ailment; he who is in bondage is released from his shackles; he who is gripped by fear is freed from that fear; and he who is beset by calamities is delivered from his misfortunes."
+    ],
+    essence_tel : [
+      "రోగి వ్యాధి నుండి విముక్తి పొందుతాడు, బంధనాలలో చిక్కుకున్నవాడు ఆ బంధనాల నుండి విడుదలవుతాడు, భయపడేవాడు భయం నుండి విముక్తుడవుతాడు మరియు ఆపదలలో ఉన్నవాడు ఆ కష్టాల నుండి గట్టెక్కుతాడు."
+    ],
+    meanings: [
+      "Roga-ārtaḥ = One afflicted by disease",
+      "Mucyate = Is freed / is released",
+      "Rogāt = From disease",
+      "Baddhaḥ = One who is bound (in prison or by debt)",
+      "Mucyeta = Should be freed / gets released",
+      "Bandhanāt = From bondage / shackles",
+      "Bhayāt = From fear",
+      "Bhītaḥ = One who is afraid",
+      "Tu = Indeed / but",
+      "Āpannaḥ = One who has fallen into trouble",
+      "Āpadaḥ = From calamities / misfortunes"
+    ],
+    notes   : [
+      "This verse specifically addresses the 'Aarta' (the distressed) category of devotees mentioned in the Bhagavad Gita. It promises immediate relief from acute crises.",
+      "The term 'Bandhanāt' (bondage) is interpreted in two ways: literally, as release from prison or legal entanglements, and philosophically, as release from the 'bondage of Karma'.",
+      "The repetition of the root 'Muc' (to free/release) four times reinforces the role of Vishnu as 'Mukunda'—the giver of liberation.",
+      "Grammar: 'Mucyate' is in the present tense (Atmanepada), while 'Mucyeta' is in the potential/lin mood. This variety emphasizes both the immediate and the certain nature of the relief.",
+      "Psychologically, this verse provides hope to the desperate, shifting their focus from the magnitude of their problem to the magnitude of the Protector."
+    ],
   },
   {
     chapter : 5,
