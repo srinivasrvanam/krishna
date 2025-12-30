@@ -9,14 +9,52 @@ const verses = [
       "शुभ्रैरभ्रैरदभ्रैरुपरिविरचितैर्मुक्तपीयूषवर्षै-",
       "रानन्दी नः पुनीयादरिनलिनगदाशङ्खपाणिर्मुकुन्दः ॥ १॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    sloka_tel : [
+      "క్షీరోదన్వత్ప్రదేశే శుచిమణివిలసత్సైకతే మౌక్తికానాం",
+      "మాలాక్లుప్తాసనస్థః స్ఫటికమణినిభైర్మౌక్తికైర్మండితాంగః ।",
+      "శుభ్రైరభ్రైరదభ్రైరుపరివిరచితైర్ముక్తపీయూషవర్షై-",
+      "రానందీ నః పునీయాదరినలినగదాశంఖపాణిర్ముకుందః ॥ ౧॥",
+    ],
+    vicheda : [
+      "क्षीर-उदन्वत्-प्रदेशे शुचि-मणि-विलसत्-सैकते मौक्तिकानां",
+      "माला-कॢप्त-आसन-स्थः स्फटिक-मणि-निभैः मौक्तिकैः मण्डित-अङ्गः ।",
+      "शुभ्रैः अभ्रैः अदभ्रैः उपरि-विरचितैः मुक्त-पीयूष-वर्षैः",
+      "आनन्दी नः पुनीयात् अरि-नलिन-गदा-शङ्ख-पाणिः मुकुन्दः ॥",
+    ],
+    anvaya  : [
+      "क्षीरोदन्वत्प्रदेशे शुचिमणिविलसत्सैकते मौक्तिकानां माला-कॢप्तासनस्थः स्फटिकमणिनिभैः मौक्तिकैः मण्डिताङ्गः उपरि विरचितैः पियूषवर्षैः शुभ्रैः अदभ्रैः अभ्रैः (युक्तः) अरिनलिनगदाशङ्खपाणिः आनन्दी मुकुन्दः नः पुनीयात् ।",
+      "TODO",
+    ],
+    transl  : [
+      "TODO",
+    ],
+    essence : [
+      "May Mukunda, with the discus, lotus, mace, and conch in His hands, purify us. He is seated on a throne of pearls on the pure, gem-strewn sands of the Milk Ocean. His body is adorned with pearls clear as crystals, and He is delighted by the thick, white clouds above that shower nectar like rain."
+    ],
+    essence_tel : [
+      "పాలసముద్ర తీరమున, స్వచ్ఛమైన మణులతో ప్రకాశించు ఇసుక తిన్నెలపై, ముత్యాల మాలలతో నిర్మించబడిన ఆసనముపై కూర్చుని, స్ఫటికము వంటి తెల్లని ముత్యాల ఆభరణములతో అలంకరించబడినవాడై, అమృతమును కురిపించే తెల్లని మేఘముల క్రింద ఉన్నవాడై, శంఖ చక్ర గదా పద్మములను ధరించిన ముకుందుడు మనలను పవిత్రము చేయుగాక."
+    ],
+    meanings: [
+      "Kṣīra-udanvat-pradeśe = In the region of the Milk Ocean",
+      "Śuci-maṇi-vilasat-saikate = On the sands shining with pure gems",
+      "Mauktikānām mālā-kḷpta-āsanasthaḥ = Seated on a throne made of strings of pearls",
+      "Sphaṭika-maṇi-nibhaiḥ = Resembling crystal gems",
+      "Mauktikaiḥ maṇḍita-aṅgaḥ = Body adorned with pearls",
+      "Śubhraiḥ-abhraiḥ-adabhraiḥ = By white, massive clouds",
+      "Upari-viracitaiḥ = Arranged above",
+      "Mukta-pīyūṣa-varṣaiḥ = Showering rains of nectar",
+      "Ānandī = The Joyful One",
+      "Naḥ punīyāt = May He purify us",
+      "Ari-nalina-gadā-śaṅkha-pāṇiḥ = Holding the Discus, Lotus, Mace, and Conch in His hands",
+      "Mukundaḥ = Lord Mukunda (Giver of Liberation)"
+    ],
+    notes   : [
+      "This verse provides a complete visualization for meditation. It sets the scene in the Milky Ocean (Ksheera Sagara), describes the Lord's posture on a pearl-encrusted throne, His ornaments, and His weapons. The goal is to invoke 'Mukunda' (the giver of liberation) to purify the devotee's mind.",
+      "Grammar: 'Punīyāt' is in the Āśīr-liṅ (Benedictive mood), expressing a prayer or wish: 'May He purify'.",
+      "Visualization: The shloka uses high-contrast imagery—white pearls, white clouds, white milk ocean, and white crystals—to symbolize 'Sattva Guna' (purity and light).",
+      "The four weapons (Ayudhas) are listed: Ari (Chakra), Nalina (Lotus), Gada (Mace), and Shankha (Conch).",
+      "This meter is more complex (Sragdharā) compared to the standard Anushtup, giving it a grand, majestic flow."
+    ],
   },
   {
     chapter : 3,
