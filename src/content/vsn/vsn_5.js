@@ -918,13 +918,42 @@ const verses = [
       "ఇమం స్తవం భగవతో విష్ణోర్వ్యాసేన కీర్తితమ్ |",
       "పఠేద్య ఇచ్ఛేత్పురుషః శ్రేయః ప్రాప్తుం సుఖాని చ ॥ ౨౧॥"
     ],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
+    vicheda : [
+      "इमं स्तवं भगवतः विष्णोः व्यासेन कीर्तितम् ।",
+      "पठेत् यः इच्छेत् पुरुषः श्रेयः प्राप्तुम् सुखानि च ॥"
+    ],
+    anvaya  : [
+      "यः पुरुषः श्रेयः सुखानि च प्राप्तुम् इच्छेत्, (सः) व्यासेन कीर्तितम् भगवतः विष्णोः इमं स्तवं पठेत् ।"
+    ],
+    transl  : [
+      "A person who desires to attain supreme spiritual good and worldly happiness should recite this hymn of Lord Vishnu, which was composed and proclaimed by the great sage Vyasa."
+    ],
     essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence_tel : [
+      "ఎవరైతే మోక్షాన్ని (శ్రేయస్సును), ఇహలోక సుఖాలను పొందాలని కోరుకుంటారో, అట్టి వారు వేదవ్యాస మహర్షి చేత చెప్పబడిన భగవంతుడైన విష్ణుమూర్తి యొక్క ఈ స్తోత్రాన్ని పఠించాలి."
+    ],
+    meanings: [
+      "Imaṃ stavaṃ = This hymn",
+      "Bhagavataḥ Viṣṇoḥ = Of Lord Vishnu",
+      "Vyāsena = By Sage Vyasa",
+      "Kīrtitam = Proclaimed / composed",
+      "Paṭhet = Should read / recite",
+      "Yaḥ = Who",
+      "Icchet = Desires",
+      "Puruṣaḥ = A person",
+      "Śreyaḥ = Spiritual well-being / liberation",
+      "Prāptum = To attain",
+      "Sukhāni = Happiness / comforts",
+      "Ca = And"
+    ],
+    notes   : [
+      "Per your instruction, the essence has been moved here: A person who desires to attain supreme spiritual good and worldly happiness should recite this hymn of Lord Vishnu, which was composed and proclaimed by the great sage Vyasa.",
+      "The Authority of Sage Vyasa: By mentioning Vyasa, Bhishma emphasizes the 'Arsha' (divine/sage-like) origin of the stotra, ensuring its authenticity and power.",
+      "Śreya vs Preya (Sukhāni): This verse beautifully balances the two human pursuits. 'Sukhāni' refers to material comfort, while 'Śreya' refers to the ultimate spiritual realization. The stotra is a path to both.",
+      "The word 'Paṭhet' (should recite) is a Vidhilin-lakara, indicating a recommendation or a rule for those who seek these specific fruits.",
+      "Philosophical Context: This verse acts as a bridge. It moves from the description of the Lord's glory back to the practitioner's intent, reminding us that while the Lord is infinite, the stotra is a practical tool for the human condition.",
+      "Grammar: The use of 'Icchhet' (desires) acknowledges that human effort is driven by desire, but it directs that desire toward the highest possible goals."
+    ],
   },
   {
     chapter : 5,
