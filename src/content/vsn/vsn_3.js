@@ -272,25 +272,57 @@ const verses = [
   },
   {
     chapter : 3,
-    number  : 7,
+    number  : 6,
     sloka   : [
       "सशङ्खचक्रं सकिरीटकुण्डलं",
       "सपीतवस्त्रं सरसीरुहेक्षणम् ।",
       "सहारवक्षःस्थलकौस्तुभश्रियं (स्थलशोभिकौस्तुभं)",
       "नमामि विष्णुं शिरसा चतुर्भुजम् ॥ ६॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
+    sloka_tel : [
+      "సశంఖచక్రం సకిరీటకుండలం",
+      "సపీతవస్త్రం సరసీరుహేక్షణమ్ ।",
+      "సహారవక్షఃస్థలకౌస్తుభశ్రియం",
+      "నమామి విష్ణుం శిరసా చతుర్భుజమ్ ॥ ౬॥",
+    ],
+    vicheda : [
+      "स-शङ्ख-चक्रं स-किरीट-कुण्डलं",
+      "स-पीत-वस्त्रं सरसीरुह-ईक्षणम् ।",
+      "स-हार-वक्षः-स्थल-कौस्तुभ-श्रियं",
+      "नमामि विष्णुं शिरसा चतुः-भुजम् ॥",
+    ],
+    anvaya  : [
+      "सशङ्खचक्रं सकिरीटकुण्डलं सपीतवस्त्रं सरसीरुहेक्षणम् सहारवक्षःस्थलकौस्तुभश्रियं चतुर्भुजं विष्णुं शिरसा नमामि ।"
+    ],
     transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence : [
+      "I bow my head to the four-armed Lord Vishnu, who holds the conch and the discus, who wears a crown and earrings, who is clad in yellow silk robes, whose eyes are like the lotus, and whose chest is adorned with pearl necklaces and the radiant Kaustubha gem."
+    ],
+    essence_tel : [
+      "శంఖ చక్రములను ధరించినవాడు, కిరీటము మరియు కుండలములతో ప్రకాశించువాడు, పీతాంబరమును ధరించినవాడు, పద్మము వంటి కన్నులు కలవాడు, వక్షస్థలమున హారములతోను కౌస్తుభ మణితోను శోభిల్లువాడు మరియు నాలుగు భుజములు కలవాడైన ఆ విష్ణుమూర్తికి తల వంచి నమస్కరిస్తున్నాను."
+    ],
+    meanings: [
+      "Sa-śaṅkha-cakraṃ = Along with the Conch and Discus",
+      "Sa-kirīṭa-kuṇḍalaṃ = Along with the Crown and Earrings",
+      "Sa-pīta-vastraṃ = Along with the yellow garments",
+      "Sarasīruha-īkṣaṇam = Having eyes like a lotus (born in a lake)",
+      "Sa-hāra-vakṣaḥ-sthala-kaustubha-śriyaṃ = With the beauty of necklaces and the Kaustubha gem on His chest",
+      "Namāmi = I bow / I salute",
+      "Viṣṇuṃ = To Lord Vishnu",
+      "Śirasā = With the head (lowered in humility)",
+      "Catuḥ-bhujam = The four-armed one"
+    ],
+    notes   : [
+      "This verse is an 'Aṅga-Dhyāna', where the seeker moves their mental focus from the Lord's weapons to His face, then His robes, and finally His chest, concluding with a full prostration (Śirasā Namāmi).",
+      "The prefix 'Sa-' (Saha) is used repeatedly to emphasize that the Lord is always inseparable from His divine ornaments and weapons.",
+      "Grammar: 'Śirasā' is in the Tritiya Vibhakti (3rd case), indicating the instrument of the bow—the head. This signifies total surrender of the intellect.",
+      "The 'Chaturbhuja' (four-armed) form represents the Lord's mastery over the four directions and His ability to simultaneously offer protection, punishment, and grace.",
+      "Variant: Some versions use 'Sthala-śobhi-kaustubhaṃ', which emphasizes the 'shining' or 'ornamenting' quality of the gem on His chest."
+    ],
   },
   {
     chapter : 3,
-    number  : 8,
+    number  : 7,
     sloka   : [
       "छायायां पारिजातस्य हेमसिंहासनोपरि",
       "आसीनमम्बुदश्याममायताक्षमलंकृतम् ।",
