@@ -245,13 +245,39 @@ const verses = [
       "యశః ప్రాప్నోతి విపులం జ్ఞాతిప్రాధాన్యమేవ చ |",
       "అచలాం శ్రియమాప్నోతి శ్రేయః ప్రాప్నోత్యనుత్తమమ్ ॥ ౬॥"
     ],
-    vicheda : [],
-    anvaya  : [],
+    vicheda : [
+      "यशः प्राप्नोति विपुलं ज्ञाति-प्राधान्यम् एव च ।",
+      "अचलां श्रियम् आप्नोति श्रेयः प्राप्नोति अनुत्तमम् ॥"
+    ],
+    anvaya  : [
+      "विपुलं यशः प्राप्नोति, ज्ञातिप्राधान्यम् एव च (प्राप्नोति), अचलां श्रियं आप्नोति, अनुत्तमं श्रेयः प्राप्नोति ।"
+    ],
     transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence : [
+      "He acquires great fame and becomes the most prominent among his kinsmen. He attains steady and enduring prosperity, and reaches the highest, unsurpassed good (liberation)."
+    ],
+    essence_tel : [
+      "అతడు గొప్ప కీర్తిని పొందుతాడు, తన బంధువులలో ప్రముఖుడవుతాడు, స్థిరమైన ఐశ్వర్యాన్ని పొందుతాడు మరియు అన్నింటికంటే గొప్పదైన శ్రేయస్సును (మోక్షాన్ని) పొందుతాడు."
+    ],
+    meanings: [
+      "Yaśaḥ = Fame / reputation",
+      "Prāpnoti = Attains / acquires",
+      "Vipulaṃ = Abundant / great",
+      "Jñāti-prādhānyam = Pre-eminence among kinsmen / relatives",
+      "Eva ca = Also / certainly",
+      "Acalāṃ = Unshakable / steady / permanent",
+      "Śriyam = Wealth / prosperity / glory",
+      "Āpnoti = Obtains",
+      "Śreyaḥ = Goodness / spiritual well-being",
+      "Anuttamam = Unsurpassed / supreme"
+    ],
+    notes   : [
+      "This verse addresses both the social (Preyas) and spiritual (Shreyas) needs of a human being.",
+      "The term 'Acalāṃ Śriyam' is significant; while wealth usually fluctuates, the prosperity gained through this stotra is said to be 'steady' because it is rooted in divine grace.",
+      "The distinction between 'Yaśaḥ' (Fame) and 'Jñāti-prādhānyam' (Leadership) suggests that the devotee gains respect both from the world at large and from their immediate community.",
+      "The word 'Anuttamam' (nothing higher than this) identifies the result as the highest possible benefit—Moksha or absolute spiritual bliss.",
+      "Grammar: The change from the potential mood (Prāpnuyāt) in earlier verses to the present tense (Prāpnoti) suggests an even stronger certainty of these results for the focused devotee described in the previous verse."
+    ],
   },
   {
     chapter : 5,
