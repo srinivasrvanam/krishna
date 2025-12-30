@@ -735,13 +735,39 @@ const verses = [
       "సర్వాగమానామాచారః ప్రథమం పరికల్పతే |",
       "ఆచారప్రభవో ధర్మో ధర్మస్య ప్రభురచ్యుతః ॥ ౧౭॥"
     ],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
+    vicheda : [
+      "सर्व-आगमानाम् आचारः प्रथमं परि-कल्पते ।",
+      "आचार-प्रभवः धर्मः धर्मस्य प्रभुः अच्युतः ॥"
+    ],
+    anvaya  : [
+      "सर्व-आगमानाम् आचारः प्रथमं परिकल्पते, आचारप्रभवः धर्मः, धर्मस्य (च) प्रभुः अच्युतः (अस्ति) ।"
+    ],
+    transl  : [
+      "In all the scriptures (Agamas), right conduct (Achara) is established as the first and foremost thing. From right conduct is born Dharma, and of Dharma, Achyuta is the Lord."
+    ],
     essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence_tel : [
+      "సకల శాస్త్రాలలోను ఆచారమే (సరైన ప్రవర్తన) మొదటిదిగా చెప్పబడింది. అట్టి ఆచారము నుండి ధర్మము పుడుతుంది. ఆ ధర్మానికి అధిపతి అచ్యుతుడైన శ్రీమన్నారాయణుడు."
+    ],
+    meanings: [
+      "Sarva-āgamānām = Of all the scriptures / traditional wisdom",
+      "Ācāraḥ = Right conduct / behavior / practice",
+      "Prathamaṃ = First / foremost",
+      "Parikalpate = Is established / considered",
+      "Ācāra-prabhavaḥ = Originating from right conduct",
+      "Dharmaḥ = Righteousness / duty / cosmic order",
+      "Dharmasya = Of Dharma",
+      "Prabhuḥ = Lord / Master / Sovereign",
+      "Acyutaḥ = Achyuta (The Infallible One)"
+    ],
+    notes   : [
+      "Per your instruction, the essence has been moved here: In all the scriptures (Agamas), right conduct (Achara) is established as the first and foremost thing. From right conduct is born Dharma, and of Dharma, Achyuta is the Lord.",
+      "The Hierarchy of Truth: Bhishma creates a beautiful chain of command: Achara (Practice) → Dharma (Principles) → Achyuta (The Personification).",
+      "Achara: This refers to the daily rituals, ethics, and lifestyle prescribed by the Vedas and Agamas. Without 'Achara', Dharma remains a mere abstract theory.",
+      "Achyuta as 'Dharma-Prabhu': This confirms that the Lord is not just a passive observer but the actual authority who defines, protects, and rewards righteous actions.",
+      "The choice of the name 'Achyuta' is significant; it means 'one who never falls' or 'one who never fails His devotees.' It implies that Dharma, being rooted in Him, is equally firm and unfailing.",
+      "Philosophical Context: This shloka explains why we chant the Sahasranama (an 'Achara'). By doing this act, we cultivate Dharma, which ultimately leads us to the Lord of Dharma."
+    ],
   },
   {
     chapter : 5,
