@@ -1016,13 +1016,38 @@ const verses = [
       "పద్మపత్రవిశాలాక్ష పద్మనాభ సురోత్తమ |",
       "భక్తానామనురక్తానాం త్రాతా భవ జనార్దన ॥ ౨౩॥"
     ],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
+    vicheda : [
+      "पद्म-पत्र-विशाल-अक्ष पद्म-नाभ सुर-उत्तम ।",
+      "भक्तानाम् अनुरक्तानां त्राता भव जनार्दन ॥"
+    ],
+    anvaya  : [
+      "हे पद्मपत्रविशालाक्ष! हे पद्मनाभ! हे सुरोत्तम! हे जनार्दन! अनुरक्तानां भक्तानां त्राता भव ।"
+    ],
+    transl  : [
+      "O Lord with eyes as broad as the petals of a lotus, O You with a lotus in Your navel, O best among the gods! O Janardana, please be the protector of Your devotees who are deeply attached to You."
+    ],
     essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence_tel : [
+      "తామర రేకుల వంటి విశాలమైన కన్నులు కలవాడా! పద్మనాభుడా! దేవతలలో శ్రేష్ఠుడా! జనార్దనా! నీపై అమితమైన అనురాగం (భక్తి) కలిగిన భక్తులకు నువ్వు రక్షకుడవు కావాలి."
+    ],
+    meanings: [
+      "Padma-patra-viśāla-akṣa = One whose eyes are as broad/large as lotus petals",
+      "Padmanābha = One with a lotus emerging from the navel",
+      "Surottama = Best among the Suras (gods)",
+      "Bhaktānām = Of the devotees",
+      "Anuraktānām = Of those who are deeply attached / filled with love",
+      "Trātā = Protector / Savior",
+      "Bhava = Become / Be",
+      "Janārdana = O Janardana (He who is prayed to for liberation / He who destroys the wicked)"
+    ],
+    notes   : [
+      "Per your instruction, the essence has been moved here: O Lord with eyes as broad as the petals of a lotus, O You with a lotus in Your navel, O best among the gods! O Janardana, please be the protector of Your devotees who are deeply attached to You.",
+      "Anuraktānām: This word is special. It doesn't just mean 'devotee' (Bhakta), but someone whose heart is 'colored' (Rakta) with love for the Divine. It implies an emotional and personal bond.",
+      "The Request for Protection: Arjuna isn't asking for wealth or fame here; he is asking for the Lord to be the 'Trātā'—the one who carries the soul across the ocean of worldly existence.",
+      "Epithets: Arjuna uses three names that highlight the Lord's beauty (Padmapatravishalaksha), His role as the source of creation (Padmanabha), and His supremacy (Surottama).",
+      "Janārdana: This address is often used when a devotee is in distress or seeking help, as it refers to the Lord's power to intervene in human affairs.",
+      "This verse serves as a template for a 'Sharanagati' (surrender) prayer, shifting from the descriptive style of Bhishma to the petitionary style of a friend and disciple."
+    ],
   },
   {
     chapter : 5,
