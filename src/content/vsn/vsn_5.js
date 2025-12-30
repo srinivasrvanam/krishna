@@ -106,13 +106,40 @@ const verses = [
       "వేదాన్తగో బ్రాహ్మణః స్యాత్ క్షత్రియో విజయీ భవేత్ |",
       "వైశ్యో ధనసమృద్ధః స్యాచ్ఛూద్రః సుఖమవాప్నుయాత్ ॥ ౩॥"
     ],
-    vicheda : [],
-    anvaya  : [],
+    vicheda : [
+      "वेदान्त-गः ब्राह्मणः स्यात् क्षत्रियः विजयी भवेत् ।",
+      "वैश्यः धन-समृद्धः स्यात् शूद्रः सुखम् अवाप्नुयात् ॥",
+    ],
+    anvaya  : [
+      "ब्राह्मणः वेदान्तगः स्यात्, क्षत्रियः विजयी भवेत्, वैश्यः धनसमृद्धः स्यात्, शूद्रः सुखम् अवाप्नुयात् ।"
+    ],
     transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence : [
+      "A Brahmin shall attain mastery over the Vedanta (end of Knowledge), a Kshatriya shall become victorious in his endeavors, a Vaishya shall acquire immense wealth, and a Shudra shall attain happiness."
+    ],
+    essence_tel : [
+      "ఈ స్తోత్రమును పఠించడం వలన బ్రాహ్మణుడు వేదాంత జ్ఞానాన్ని పొందుతాడు, క్షత్రియుడు విజయాన్ని సాధిస్తాడు, వైశ్యుడు ధనసమృద్ధిని పొందుతాడు మరియు శూద్రుడు సుఖాన్ని పొందుతాడు."
+    ],
+    meanings: [
+      "Vedānta-gaḥ = One who has mastered/reached the end of the Vedas (Vedanta)",
+      "Brāhmaṇaḥ = A Brahmin (seeker of knowledge)",
+      "Syāt = Shall be / would become",
+      "Kṣatriyaḥ = A Kshatriya (warrior/administrator)",
+      "Vijayī = Victorious / triumphant",
+      "Bhavet = Shall become",
+      "Vaiśyaḥ = A Vaishya (merchant/agriculturist)",
+      "Dhana-samṛddhaḥ = Abundant in wealth",
+      "Śūdraḥ = A Shudra (provider of service)",
+      "Sukham = Happiness / well-being",
+      "Avāpnuyāt = Shall attain / reach"
+    ],
+    notes   : [
+      "This verse illustrates that the Vishnu Sahasranama is 'Sarva-Phala-Prada'—it grants results tailored to the specific needs and nature (Svadharmas) of the seeker.",
+      "The 'Victory' promised to the Kshatriya is not just in physical battle, but victory over the senses and external obstacles.",
+      "For a Brahmin, the highest fruit is 'Vedānta-gaḥ'—the realization of the Ultimate Truth, which is the end of all Vedic study.",
+      "Grammar: The verbs 'Syāt', 'Bhavet', and 'Avāpnuyāt' are all in the Optative mood, indicating a certain and auspicious result for those who follow the practice.",
+      "Philosophically, this verse shows that Vishnu serves all levels of human aspiration, from the material (wealth/happiness) to the spiritual (Vedanta)."
+    ],
   },
   {
     chapter : 5,
