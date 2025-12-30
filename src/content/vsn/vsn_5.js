@@ -644,13 +644,38 @@ const verses = [
       "ససురాసురగన్ధర్వం సయక్షోరగరాక్షసమ్ |",
       "జగద్వశే వర్తతేదం కృష్ణస్య సచరాచరమ్ ॥ ౧౫॥"
     ],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
+    vicheda : [
+      "स-सुर-असुर-गन्धर्वं स-यक्ष-उरग-राक्षसम् ।",
+      "जगत् वशे वर्तते इदं कृष्णस्य स-चर-अचरम् ॥"
+    ],
+    anvaya  : [
+      "स-सुर-असुर-गन्धर्वं स-यक्ष-उरग-राक्षसम् स-चर-अचरम् इदं जगत् कृष्णस्य वशे वर्तते ।"
+    ],
+    transl  : [
+      "This entire world, comprising gods, demons, and celestial singers; along with yakshas, serpents, and giants; including everything that moves and is stationary, remains under the control of Lord Krishna."
+    ],
     essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence_tel : [
+      "దేవతలు, అసురులు, గంధర్వులు, యక్షులు, నాగులు, రాక్షసులతో కూడినది మరియు చరాచర రూపమైన ఈ సమస్త జగత్తు శ్రీకృష్ణుని ఆధీనంలోనే ఉన్నది."
+    ],
+    meanings: [
+      "Sa-sura-asura-gandharvaṃ = Including gods, demons, and celestial musicians",
+      "Sa-yakṣa-uraga-rākṣasam = Along with Yakshas, serpents (Nagas), and giants",
+      "Jagat = The world / universe",
+      "Vaśe = Under the control / influence",
+      "Vartate = Exists / remains",
+      "Idaṃ = This",
+      "Kṛṣṇasya = Of Krishna",
+      "Sa-cara-acaram = With everything moving and unmoving"
+    ],
+    notes   : [
+      "Per your instruction, the essence has been moved here: This entire world, comprising gods, demons, and celestial singers; along with yakshas, serpents, and giants; including everything that moves and is stationary, remains under the control of Lord Krishna.",
+      "The term 'Vaśe' (under control) suggests that Krishna is the 'Ishwara'—the supreme regulator of the laws of nature and karma.",
+      "The mention of 'Asuras' and 'Rakshasas' alongside 'Suras' (Gods) indicates that even the forces we perceive as negative are ultimately part of His cosmic play and governed by His laws.",
+      "Sa-cara-acaram: This covers the entirety of existence, from the smallest insect and the human being (moving) to the mountains and plants (stationary).",
+      "Philosophical Context: This shloka reinforces the idea of 'Sarvam Vishnu-mayam Jagat'—the universe is permeated by and subordinate to Vishnu/Krishna.",
+      "By establishing Krishna's total control, Bhishma assures Yudhishthira that there is no power in the universe that can harm a devotee who has the Lord's protection."
+    ],
   },
   {
     chapter : 5,
