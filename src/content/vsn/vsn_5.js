@@ -966,13 +966,42 @@ const verses = [
       "విశ్వేశ్వరమజం దేవం జగతః ప్రభుమవ్యయమ్ |",
       "భజన్తి యే పుష్కరాక్షం న తే యాన్తి పరాభవమ్ ॥ ౨౨॥"
     ],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
+    vicheda : [
+      "विश्व-ईश्वरम् अजम् देवं जगतः प्रभुమ్ अव्ययम् ।",
+      "भजन्ति ये पुष्कर-अक्षं न ते यान्ति पराभवम् ॥"
+    ],
+    anvaya  : [
+      "ये अजम्, देवं, जगतః प्रभुమ్, अव्ययम्, पुष्कराक्षं विश्वेश्वरम् भजन्ति, ते पराभवम् न यान्ति ।"
+    ],
+    transl  : [
+      "Those who worship the Lord of the Universe, the unborn, the divine, the inexhaustible master of the world, the lotus-eyed one—they never meet with any defeat or humiliation."
+    ],
     essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence_tel : [
+      "విశ్వేశ్వరుడు, పుట్టుక లేనివాడు, దివ్యప్రకాశవంతుడు, జగత్ప్రభువు, నాశరహితుడు మరియు పద్మముల వంటి కన్నులు గలవాడైన ఆ పరమాత్మను ఎవరు భజిస్తారో, వారు ఎన్నటికీ పరాజయాన్ని పొందరు."
+    ],
+    meanings: [
+      "Viśveśvaram = The Lord of the Universe",
+      "Ajam = The Unborn",
+      "Devam = The Divine / Luminous One",
+      "Jagataḥ prabhum = The Master of the world",
+      "Avyayam = The Imperishable / Inexhaustible",
+      "Bhajanti = Worship / adore",
+      "Ye = Those who",
+      "Puṣkarākṣam = The Lotus-eyed one",
+      "Na = Not",
+      "Te = They",
+      "Yānti = Go to / attain",
+      "Parābhavam = Defeat / humiliation / downfall"
+    ],
+    notes   : [
+      "Per your instruction, the essence has been moved here: Those who worship the Lord of the Universe, the unborn, the divine, the inexhaustible master of the world, the lotus-eyed one—they never meet with any defeat or humiliation.",
+      "The Promise of Victory: This is a 'Sarvabhauma' (universal) assurance. The term 'Parābhava' implies not just physical defeat, but spiritual or moral downfall as well.",
+      "Puṣkarākṣam: This beautiful epithet (Lotus-eyed) suggests that the Lord watches over His devotees with the same tenderness and beauty found in a blooming lotus.",
+      "Vishweshwaram vs. Jagatah Prabhum: These terms emphasize that His authority is not just over the physical world (Jagat), but over the entire cosmic order (Vishwa).",
+      "Philosophical Context: To a devotee, even a worldly setback is seen as a lesson or a temporary phase because they are anchored in the 'Avyaya' (Imperishable). Thus, they never truly experience 'defeat.'",
+      "Grammar: The plural 'Bhajanti' and 'Te' makes this a collective promise—it applies to every single person who chooses the path of devotion."
+    ],
   },
   {
     chapter : 5,
