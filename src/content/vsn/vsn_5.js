@@ -199,13 +199,40 @@ const verses = [
       "భక్తిమాన్ యః సదోత్థాయ శుచిస్తద్గతమానసః |",
       "సహస్రం వాసుదేవస్య నామ్నామేతత్ ప్రకీర్తయేత్ ॥ ౫॥"
     ],
-    vicheda : [],
-    anvaya  : [],
+    vicheda : [
+      "भक्तिमान् यः सदा उत्थाय शुचिः तत्-गत-मानसः ।",
+      "सहस्रं वासुदेवस्य नाम्नाम् एतत् प्र-कीर्तयेत् ॥",
+    ],
+    anvaya  : [
+      "यः भक्तिमान् सदा उत्थाय शुचिः तद्गतमानसः (सन्) वासुदेवस्य एतत् नाम्नां सहस्रं प्रकीर्तयेत् (सः शुभं विन्दति) ।"
+    ],
     transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence : [
+      "That devotee who, rising early in the morning and purifying himself, recites this thousand names of Vasudeva with a mind solely concentrated on Him, attains great auspiciousness."
+    ],
+    essence_tel : [
+      "భక్తి గలవాడై, ప్రతిరోజూ ఉదయాన్నే నిద్రలేచి, శుచిగా (బాహ్య అంతర శుద్ధితో), మనస్సును ఆయనపైనే నిలిపి, వాసుదేవుని ఈ వెయ్యి నామములను పఠించేవాడు శుభములను పొందుతాడు."
+    ],
+    meanings: [
+      "Bhaktimān = One endowed with devotion",
+      "Yaḥ = Who / He who",
+      "Sadā = Always",
+      "Utthāya = Having risen (early)",
+      "Śuciḥ = Pure (both physically and mentally)",
+      "Tad-gata-mānasaḥ = With the mind absorbed in Him (Vasudeva)",
+      "Sahasraṃ = Thousand",
+      "Vāsudevasya = Of Vasudeva",
+      "Nāmnām = Of names",
+      "Etat = This",
+      "Prakīrtayet = Should recite / proclaim"
+    ],
+    notes   : [
+      "This verse defines the 'Adhikari' (qualified practitioner). The results are not just for anyone, but for one who possesses Bhakti and discipline.",
+      "The phrase 'Sadotthāya' (Sada + Utthāya) implies the importance of the Brahma Muhurta—the early morning hours—for spiritual practice.",
+      "Internal vs External Purity: 'Śuciḥ' refers to Snana (bath) for the body and Sandhyavandana/Pranayama for the internal purification of the mind.",
+      "One-pointed focus: 'Tad-gata-mānasaḥ' is the key; it means the mind should not wander toward worldly anxieties during the chanting.",
+      "Grammar: 'Utthāya' is a Lyap-pratyaya (having risen), indicating that the rising and purification are prerequisites that happen before the chanting (Prakīrtayet)."
+    ],
   },
   {
     chapter : 5,
