@@ -12,13 +12,38 @@ const verses = [
       "ఇతీదం కీర్తనీయస్య కేశవస్య మహాత్మనః |",
       "నామ్నాం సహస్రం దివ్యానామశేషేణ ప్రకీర్తితమ్ ॥ ౧॥"
     ],
-    vicheda : [],
-    anvaya  : [],
+    vicheda : [
+      "इति इदं कीर्तनीयस्य केशवस्य महा-आत्मनः ।",
+      "नाम्नां सहस्रं दिव्यानाम् अशेषेण प्र-कीर्तितम् ॥",
+    ],
+    anvaya  : [
+      "इति कीर्तनीयस्य महात्मनः केशवस्य दिव्यानां नाम्नां इदं सहस्रम् अशेषेण प्रकीर्तितम् ।"
+    ],
     transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence : [
+      "Bhishma said: Thus, this thousand divine names of the great-souled Keshava, who is most worthy of being praised, has been sung in its entirety."
+    ],
+    essence_tel : [
+      "భీష్ముడు పలికెను: ఈ విధముగా, కీర్తించదగినవాడు మరియు మహాత్ముడైన కేశవుని యొక్క వెయ్యి దివ్య నామములు సంపూర్ణముగా గానం చేయబడినవి."
+    ],
+    meanings: [
+      "Bhīṣma uvāca = Bhishma said",
+      "Iti = Thus / In this manner",
+      "Idaṃ = This",
+      "Kīrtanīyasya = Of the one who is worthy of praise",
+      "Keśavasya = Of Keshava",
+      "Mahātmanaḥ = Of the Great-Souled One",
+      "Nāmnāṃ sahasraṃ = Thousand names",
+      "Divyānām = Divine / celestial",
+      "Aśeṣeṇa = Without leaving anything / completely / in its entirety",
+      "Prakīrtitam = Has been proclaimed / well-sung"
+    ],
+    notes   : [
+      "This verse acts as a formal conclusion to the 'Sahasranāma Stotra' portion before Bhishma begins explaining the merits of hearing or reciting these names.",
+      "The word 'Aśeṣeṇa' is significant; it implies that Bhishma has not left out a single name and has transmitted the knowledge exactly as it was meant to be.",
+      "Keshava: This name refers to the Lord who has beautiful long hair, or the Lord who destroyed the demon Keshi. It also represents the Trinity (Ka+A+Isha).",
+      "Grammar: 'Prakīrtitam' is the past passive participle of 'Kirt' with the prefix 'Pra', indicating a completed action of high quality or public proclamation."
+    ],
   },
   {
     chapter : 5,
