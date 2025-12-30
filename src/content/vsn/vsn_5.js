@@ -415,11 +415,7 @@ const verses = [
       "ఇది సాధకుడికి ఒక గొప్ప భరోసాను ఇచ్చే శ్లోకం. జీవిత ప్రయాణంలో ఎదురయ్యే సంక్లిష్ట పరిస్థితులను అధిగమించే శక్తిని ఇది ప్రసాదిస్తుంది."
     ],
   },
-  In this tenth verse of the Phalaśruti, Bhishma Pitamaha describes the ultimate spiritual destination for a devotee of Vasudeva. This shloka transitions from worldly benefits to the final goal of human existence: Moksha (liberation) and the purification of the soul.
-
-JavaScript
-
-{
+  {
     chapter : 5,
     number  : 10,
     sloka   : [
