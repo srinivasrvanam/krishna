@@ -290,13 +290,40 @@ const verses = [
       "న భయం క్వచిదాప్నోతి వీర్యం తేజశ్చ విన్దతి |",
       "భవత్యరోగో ద్యుతిమాన్ బలరూపగుణాన్వితః ॥ ౭॥"
     ],
-    vicheda : [],
-    anvaya  : [],
+    vicheda : [
+      "न भयं क्वचित् आप्नोति वीर्यं तेजः च विन्दति ।",
+      "भवति अरोगः द्युतिमान् बल-रूप-गुण-अन्वितः ॥"
+    ],
+    anvaya  : [
+      " (सः) क्वचित् भयं न आप्नोति, वीर्यं तेजः च विन्दति, अरोगः द्युतिमान् बल-रूप-गुण-अन्वितः च भवति ।"
+    ],
     transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence : [
+      "The devotee never meets with fear from any quarter; he gains valor and energy. He becomes free from diseases, glows with a divine luster, and is endowed with strength, beauty, and noble qualities."
+    ],
+    essence_tel : [
+      "అతడు ఎక్కడా ఎప్పుడూ భయాన్ని పొందడు, పరాక్రమాన్ని మరియు తేజస్సును పొందుతాడు. రోగాలు లేనివాడుగా, కాంతివంతుడుగా, బలము, చక్కని రూపము మరియు ఉత్తమ గుణములతో కూడినవాడు అవుతాడు."
+    ],
+    meanings: [
+      "Na bhayaṃ = No fear",
+      "Kvacit = At any place / at any time",
+      "Āpnoti = Attains / gets",
+      "Vīryaṃ = Valor / courage",
+      "Tejaḥ = Radiance / energy / spiritual power",
+      "Ca = And",
+      "Vindati = Obtains / gains",
+      "Bhavati = Becomes",
+      "Arogaḥ = Free from disease / healthy",
+      "Dyutimān = Luminous / glowing / brilliant",
+      "Bala-rūpa-guṇa-anvitaḥ = Endowed with strength, beauty, and good qualities"
+    ],
+    notes   : [
+      "This verse highlights the 'holistic health' benefits of the stotra. It covers psychological health (fearlessness), physical health (Aroga/Bala), and character (Guna).",
+      "Fearlessness (Abhaya): One of the primary fruits of Vishnu worship is the removal of 'Bhava-Bhaya' (fear of existence) and worldly anxieties.",
+      "Luster (Dyuti/Tejas): In the Vedic tradition, constant meditation on the radiant form of Vishnu reflects onto the devotee's own countenance, creating a 'Tejas' or spiritual glow.",
+      "Grammar: 'Vindati' (from the root 'vid') means to find or obtain, suggesting that these qualities were perhaps latent in the devotee and are now discovered through prayer.",
+      "The compound 'Bala-rūpa-guṇa-anvitaḥ' suggests that internal purity eventually manifests as external strength and pleasing form."
+    ],
   },
   {
     chapter : 5,
