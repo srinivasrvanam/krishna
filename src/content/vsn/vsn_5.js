@@ -688,13 +688,41 @@ const verses = [
       "ఇన్ద్రియాణి మనో బుద్ధిః సత్త్వం తేజో బలం ధృతిః |",
       "వాసుదేవాత్మకాన్యాహుః క్షేత్రం క్షేత్రజ్ఞ ఏవ చ ॥ ౧౬॥"
     ],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
+    vicheda : [
+      "इन्द्रियाणि मनः बुद्धिः सत्त्वं तेजः बलं धृतिः ।",
+      "वासुदेव-आत्मकानि आहुः क्षेत्रं क्षेत्र-ज्ञः एव च ॥"
+    ],
+    anvaya  : [
+      "इन्द्रियाणि, मनः, बुद्धिः, सत्त्वं, तेजः, बलं, धृतिः, क्षेत्रं, क्षेत्रज्ञः च एव वासुदेवात्मकानि आहुः ।"
+    ],
+    transl  : [
+      "The senses, the mind, the intellect, the ego (sattva), energy, strength, and fortitude—all these, it is said, have Vasudeva as their inner soul. So too are the body (kshetra) and the knower of the body (kshetrajna)."
+    ],
     essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence_tel : [
+      "ఇంద్రియములు, మనస్సు, బుద్ధి, సత్త్వగుణము, తేజస్సు, బలము, ధైర్యము—ఇవన్నీ వాసుదేవ స్వరూపములేనని పెద్దలు చెబుతారు. అలాగే క్షేత్రము (శరీరము) మరియు క్షేత్రజ్ఞుడు (జీవాత్మ) కూడా ఆయన రూపాలే."
+    ],
+    meanings: [
+      "Indriyāṇi = The senses (perceptive and active)",
+      "Manaḥ = The mind",
+      "Buddhiḥ = The intellect / discernment",
+      "Sattvaṃ = The psyche / inner nature / ego",
+      "Tejaḥ = Energy / brilliance",
+      "Balaṃ = Strength",
+      "Dhṛtiḥ = Fortitude / firmness",
+      "Vāsudeva-ātmakāni = Having Vasudeva as their essence/soul",
+      "Āhuḥ = (The wise) say / declare",
+      "Kṣetraṃ = The field (the body/matter)",
+      "Kṣetrajñaḥ = The knower of the field (the soul/consciousness)",
+      "Eva ca = And also / certainly"
+    ],
+    notes   : [
+      "Per your instruction, the essence has been moved here: The senses, the mind, the intellect, the ego (sattva), energy, strength, and fortitude—all these, it is said, have Vasudeva as their inner soul. So too are the body (kshetra) and the knower of the body (kshetrajna).",
+      "This verse is deeply philosophical, drawing from Sankhya and Yoga. It states that both matter (Prakriti/Kshetra) and spirit (Purusha/Kshetrajna) are non-different from Vasudeva.",
+      "The term 'Vāsudeva-ātmakāni' is key; it implies that just as the body cannot function without a soul, these faculties cannot function without the underlying power of Vasudeva.",
+      "By identifying our strength (Balam) and intellect (Buddhi) as Vasudeva, Bhishma teaches the devotee to renounce ego and see every success as the Lord's grace.",
+      "Kshetra and Kshetrajna: This terminology is famously used in the 13th Chapter of the Bhagavad Gita. Bhishma confirms here that Krishna/Vasudeva is the ultimate reality behind both the biological body and the individual soul."
+    ],
   },
   {
     chapter : 5,
