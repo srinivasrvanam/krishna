@@ -468,13 +468,37 @@ const verses = [
       "న వాసుదేవభక్తానామశుభం విద్యతే క్వచిత్ |",
       "జన్మమృత్యుజరావ్యాధిభయం నైవోపజాయతే ॥ ౧౧॥"
     ],
-    vicheda : [],
-    anvaya  : [],
+    vicheda : [
+      "न वासुदेव-भक्तानाम् अशुभं विद्यते क्वचित् ।",
+      "जन्म-मृत्यु-जरा-व्याधि-भयं न एव उपजायते ॥"
+    ],
+    anvaya  : [
+      "वासुदेवभक्तानां क्वचित् अशुभं न विद्यते, (तेषां) जन्म-मृत्यु-जरा-व्याधि-भयं न एव उपजायते ।"
+    ],
     transl  : [],
-    essence : [],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence : [
+      "For the devotees of Vasudeva, there is never any inauspiciousness. The fear of birth, death, old age, and disease never arises for them again."
+    ],
+    essence_tel : [
+      "వాసుదేవ భక్తులకు ఎన్నడూ, ఎక్కడా అశుభం కలగదు. వారికి పుట్టుక, మరణం, ముసలితనం మరియు వ్యాధుల వల్ల కలిగే భయం అసలే ఉండదు."
+    ],
+    meanings: [
+      "Na = No / Not",
+      "Vāsudeva-bhaktānām = For the devotees of Vasudeva",
+      "Aśubhaṃ = Inauspiciousness / evil",
+      "Vidyate = Exists",
+      "Kvacit = Anywhere / anytime",
+      "Janma-mṛtyu-jarā-vyādhi-bhayaṃ = The fear of birth, death, old age, and disease",
+      "Na eva = Not at all",
+      "Upajāyate = Arises / is produced"
+    ],
+    notes   : [
+      "This verse is the pinnacle of the Phalaśruti's assurance. It echoes the famous declaration in the Bhagavad Gita: 'Na me bhaktaḥ praṇaśyati' (My devotee never perishes).",
+      "The phrase 'Janma-mṛtyu-jarā-vyādhi' identifies the four fundamental sufferings of the material world. By chanting the 1,000 names, one rises above the identification with the body, thereby conquering the fear associated with these four stages.",
+      "The use of 'Kvacit' (anywhere/anytime) implies that this protection is not limited by geography or circumstances. Whether in this world or another, the devotee remains under the Lord's grace.",
+      "Grammar: 'Upajāyate' (is born/arises) with 'Na eva' creates a strong negation, suggesting that the very root of fear is cauterized by devotion.",
+      "Philosophically, 'Aśubhaṃ' (inauspiciousness) cannot exist where Vasudeva is present, just as darkness cannot exist in the presence of the sun."
+    ],
   },
   {
     chapter : 5,
