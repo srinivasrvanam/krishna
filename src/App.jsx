@@ -14,6 +14,9 @@ import VSNVerse from "./components/pages/VSNVerse";
 import LASHome from "./components/pages/LASHome";
 import LASChapter from "./components/pages/LASChapter";
 import LASVerse from "./components/pages/LASVerse";
+import GPSHome from "./components/pages/GPSHome";
+import GPSChapter from "./components/pages/GPSChapter";
+import GPSVerse from "./components/pages/GPSVerse";
 import Navbar from "./components/display/Navbar";
 import Footer from "./components/display/Footer";
 import BackToTop from "./components/utility/BackToTop";
@@ -51,6 +54,9 @@ function App() {
           <Route path="/las" element={<LASHome />} />
           <Route path="/las/:chapter_num" element={<LASChapter />} />
           <Route path="/las/:chapter_num/:verse_num" element={<LASVerse />} />
+          <Route path="/gps" element={<GPSHome />} />
+          <Route path="/gps/:chapter_num" element={<GPSChapter />} />
+          <Route path="/gps/:chapter_num/:verse_num" element={<GPSVerse />} />
           <Route path="/:topic_name/:chapter_num/:verse_num" element={<Breadcrumbs />} />
         </Routes>
       </Layout>
