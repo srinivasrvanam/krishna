@@ -11,7 +11,7 @@ function GPSHome() {
         {/* First Column (30%) */}
         <div className="w-full lg:w-3/10 flex items-start justify-center">
           <div className="flex flex-row justify-center"> 
-            <img src="https://greenmesg.org/images/gods/ganesha/ganesha1.jpg" alt="Ganesha" />
+            <img src="https://m.media-amazon.com/images/I/71NFLEPKWuL._AC_SL1100_.jpg" alt="Ganesha" />
           </div>
         </div>
 
