@@ -11,7 +11,7 @@ function DAHome() {
         {/* First Column (30%) */}
         <div className="w-full lg:w-3/10 flex items-start justify-center">
           <div className="flex flex-row justify-center"> 
-            <img src="https://www.harekrsna.de/yasoda/Damodar_s.jpg" alt="Damodara" />
+            <img src="https://www.harekrsna.de/yasoda/Damodar.jpg" alt="Damodara" />
           </div>
         </div>
 
