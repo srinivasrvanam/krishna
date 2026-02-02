@@ -8,16 +8,49 @@ const verses = [
       "यशोदा-भियोलूखलाद् धावमानं",
       "परामृष्टम् अत्यन्ततो द्रुत्य गोप्या ॥ १॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
+    sloka_tel : [
+      "నమామీశ్వరం సచ్చిదానందరూపం",
+      "లసత్కుండలం గోకులే భ్రాజమానమ్",
+      "యశోదాభియోలూఖలాద్ ధావమానం",
+      "పరామృష్టమత్యంతతో దృత్య గోప్యా ॥ 1 ॥"
+    ],
+    vicheda : [
+      "नमामि ईश्वरम् सत्-चित्-आनन्द-रूपम्",
+      "लसत्-कुण्डलम् गोकुले भ्राजमानम्",
+      "यशोदा-भयात् उलूखलात् धावमानम्",
+      "परामृष्टम् अत्यन्ततः द्रुत्वा गोप्या"
+    ],
+    anvaya  : [
+      "सत्-चित्-आनन्द-रूपम् लसत्-कुण्डलम् गोकुले भ्राजमानम् ईश्वरम् नमामि । यशोदा-भयात् उलूखलात् धावमानम् गोप्या द्रुत्वा अत्यन्ततः परामृष्टम् (तम् ईश्वरम् नमामि) ।"
+    ],
+    transl  : [
+      "I bow down to the Supreme Lord, whose form is the embodiment of eternal existence, knowledge, and bliss, whose earrings are swinging, and who shines in Gokula. He who, in fear of Mother Yashoda, ran away from the wooden mortar but was caught from behind by her who ran swiftly after Him."
+    ],
     essence : [
       "To the Supreme Lord, whose form is the embodiment of eternal existence, knowledge, and bliss, whose shark-shaped earrings are swinging to and fro, who is beautifully shining in the divine realm of Gokula, who I (due to the offense of breaking the pot of yogurt that His mother was churning into butter and then stealing the butter that was kept hanging from a swing) is quickly running from the wooden grinding mortar in fear of mother Yasoda, but who has been caught from behind by her who ran after Him with greater speed--to that Supreme Lord, Sri Damodara, I offer my humble obeisances."
     ],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence_tel: [
+      "సచ్చిదానంద స్వరూపుడు, ప్రకాశించే కుండలములు కలవాడు, గోకులంలో విరాజిల్లేవాడు, యశోదమ్మకు భయపడి రోలు నుండి దూకి పరుగెడుతూ, ఆమె చేత పట్టుబడినవాడైన ఆ పరమేశ్వరునికి (శ్రీ దామోదరునికి) నా నమస్కారములు."
+    ],
+    meanings: [
+      "namāmi: I offer my obeisances",
+      "īśvaram: to the Supreme Lord",
+      "sac-cid-ānanda-rūpam: whose form is eternal, full of knowledge and bliss",
+      "lasat-kuṇḍalam: whose earrings are swinging/glistening",
+      "gokule: in the land of Gokula",
+      "bhrājamānam: shining brilliantly",
+      "yaśodā-bhiyā: due to fear of Yashoda",
+      "ulūkhalāt: from the wooden grinding mortar",
+      "dhāvamānam: running away",
+      "parāmṛṣṭam: caught/grasped from behind",
+      "atyantataḥ: greatly/completely",
+      "drutyā: running quickly",
+      "gopyā: by the Gopi (Mother Yashoda)"
+    ],
+    notes   : [
+      "The word 'atyantataḥ' emphasizes that Yashoda had to run very fast to catch the Lord, who is usually unreachable by mind or speech.",
+      "This lila takes place on the day of Deepavali."
+    ]
   },
   {
     chapter : 1,
