@@ -14,6 +14,7 @@ const Home = () => {
           <Link to="/vsn" className="sv-btn">Sahasranamam</Link>
           <Link to="/las" className="sv-btn">Ashtottaram</Link>
           <Link to="/gps" className="sv-btn">Pancharatnam</Link>
+          <Link to="/da" className="sv-btn">Damodara</Link>
         </div>
         <br /><br />
         <div className="flex flex-col align-center justify-around h-[60vh] w-[90%] md:w-[80%] lg:w-[60%] mx-auto"> 

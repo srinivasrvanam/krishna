@@ -33,6 +33,7 @@ const Navbar = () => {
           <Link to="/vsn" className="sv-btn-nav">Sahasranamam</Link>
           <Link to="/las" className="sv-btn-nav">Ashtottaram</Link>
           <Link to="/gps" className="sv-btn-nav">Pancharatnam</Link>
+          <Link to="/da" className="sv-btn-nav">Damodara</Link>
         </div>
 
         {/* Hamburger Menu (Visible on small screens) */}
@@ -58,6 +59,7 @@ const Navbar = () => {
           <li className="sv-btn-nav"><Link to="/vsn" onClick={() => setIsOpen(false)}>Sahasranamam</Link></li>
           <li className="sv-btn-nav"><Link to="/las" onClick={() => setIsOpen(false)}>Ashtottaram</Link></li>
           <li className="sv-btn-nav"><Link to="/gps" onClick={() => setIsOpen(false)}>Pancharatnam</Link></li>
+          <li className="sv-btn-nav"><Link to="/da" onClick={() => setIsOpen(false)}>Damodara</Link></li>
         </ul>
       )}
     </nav>    
