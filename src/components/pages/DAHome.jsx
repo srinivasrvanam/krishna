@@ -45,6 +45,13 @@ function DAHome() {
                   <li><b>Mangalaashasanam</b> - contains 14 verses. Is recited for glory and well-being of the Lord</li>
                 </ul>
             </ul> */}
+
+            <ul className="list-disc list-outside">
+              <li><b>About Sri Damodara Ashtakam:</b></li>
+              <li>This song is sung during the Month of Kartik, also known as the month of Damodara. As quoted in the Sri Hari-Bhakti-Vilasa, "In the month of Kartika one should worship Lord Damodara and daily recite the prayer known as Damodarastaka, which has been spoken by the sage Satyavrata and which attracts Lord Damodara. (Sri Hari-bhakti-vilasa 2.16.198).”</li>
+              <li>Ref: https://www.harekrsna.de/damodarastakam-e.htm</li>
+            </ul>
+
             <br /><br />
             
             <b><u>How to use the site:</u></b><br />
