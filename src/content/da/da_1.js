@@ -397,16 +397,49 @@ const verses = [
       "नमो राधिकायै त्वदीय-प्रियायै",
       "नमो ‘नन्त-लीलाय देवाय तुभ्यम् ॥ ८॥",
     ],
-    sloka_tel : [],
-    vicheda : [],
-    anvaya  : [],
-    transl  : [],
+    sloka_tel : [
+      "నమస్ తే ऽస్తు దామ్నే స్ఫురద్-దీప్తి-ధామ్నే",
+      "త్వదీయోదరాయాథ విశ్వస్య ధామ్నే",
+      "నమో రాధికాయై త్వదీయ-ప్రియాయై",
+      "నమో ऽనంత-లీలాయ దేవాయ తుభ్యమ్ ॥ 8 ॥",
+    ],
+    vicheda : [
+      "नमः ते अस्तु दाम्ने स्फुरत्-दीप्ति-धाम्ने",
+      "त्वदीय-उदराय अथ विश्वस्य धाम्ने",
+      "नमः राधिकायै त्वदीय-प्रियायै",
+      "नमः अनन्त-लीलाय देवाय तुभ्यम्",
+    ],
+    anvaya  : [
+      "स्फुरत्-दीप्ति-धाम्ने ते दाम्ने नमः अस्तु, अथ विश्वस्य धाम्ने त्वदीय-उदराय नमः। त्वदीय-प्रियायै राधिकायै नमः, अनन्त-लीलाय देवाय तुभ्यम् नमः ।",
+    ],
+    transl  : [
+      "O Lord, I offer my obeisances to the rope that binds You, which is a reservoir of brilliant effulgence. I then offer my obeisances to Your belly, which is the support of the entire universe. I offer my obeisances to Your beloved Srimati Radharani, and I offer my obeisances to You, the Supreme Lord of unlimited pastimes.",
+    ],
     essence : [
       "O Lord Damodara, I first of all offer my obeisances to the brilliantly effulgent rope which binds Your belly. I then offer my obeisances to Your belly, which is the abode of the entire universe. I humbly bow down to Your most beloved Srimati Radharani, and I offer all obeisances to You, the Supreme Lord, who displays unlimited pastimes.",
     ],
-    essence_tel: [],
-    meanings: [],
-    notes   : [],
+    essence_tel: [
+      "ఓ దామోదరా! నీ ఉదరమును చుట్టి ఉన్న ప్రకాశవంతమైన ఆ తాడుకు నా నమస్కారము. సమస్త బ్రహ్మాండములకు నిలయమైన నీ ఉదరమునకు నా నమస్కారము. నీకు అత్యంత ప్రియమైన శ్రీమతి రాధారాణికి నా నమస్కారము. అనంతమైన లీలలను ప్రదర్శించే ఓ దైవమా! నీకు నా వందనములు.",
+    ],
+    meanings: [
+      "namaḥ: obeisances",
+      "te: to You",
+      "astu: let there be",
+      "dāmne: to the rope",
+      "sphurat-dīpti-dhāmne: which is the abode of brilliant effulgence",
+      "tvadīya-udarāya: to Your belly",
+      "atha: and then",
+      "viśvasya dhāmne: the abode of the universe",
+      "namaḥ rādhikāyai: obeisances to Radharani",
+      "tvadīya-priyāyai: Your beloved",
+      "ananta-līlāya: of unlimited pastimes",
+      "devāya: to the Lord",
+      "tubhyam: to You",
+    ],
+    notes   : [
+      "The 'dāma' (rope) is not material; it represents the 'Dāma-śakti' or the binding power of the devotee's love.",
+      "The mention of Radharani at the end of the prayer is significant as she is the personification of the highest devotion (Mahabhava) that binds Krishna.",
+    ],
   },
 ];
 
