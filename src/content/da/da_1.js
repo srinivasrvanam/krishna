@@ -5,7 +5,7 @@ const verses = [
     sloka   : [
       "नमामीश्वरं सच्-चिद्-आनन्द-रूपं",
       "लसत्-कुण्डलं गोकुले भ्राजमनम्",
-      "यशोदा-भियोलूखलाद् धावमानं",
+      "यशोदाभियोलूखलाद् धावमानं",
       "परामृष्टम् अत्यन्ततो द्रुत्य गोप्या ॥ १॥",
     ],
     sloka_tel : [
@@ -17,14 +17,28 @@ const verses = [
     vicheda : [
       "नमामि ईश्वरम् सत्-चित्-आनन्द-रूपम्",
       "लसत्-कुण्डलम् गोकुले भ्राजमानम्",
-      "यशोदा-भयात् उलूखलात् धावमानम्",
-      "परामृष्टम् अत्यन्ततः द्रुत्वा गोप्या"
+      "यशोदा-भिया उलूखलात् धावमानम्",
+      "परामृष्टम् अत्यन्ततः द्रुत्य गोप्या"
     ],
     anvaya  : [
-      "सत्-चित्-आनन्द-रूपम् लसत्-कुण्डलम् गोकुले भ्राजमानम् ईश्वरम् नमामि । यशोदा-भयात् उलूखलात् धावमानम् गोप्या द्रुत्वा अत्यन्ततः परामृष्टम् (तम् ईश्वरम् नमामि) ।"
+      "(अहं)",
+      "- ईश्वरम्",
+      "- सत्-चित्-आनन्द-रूपम्", 
+      "- लसत्-कुण्डलम्", 
+      "- गोकुले भ्राजमानम्", 
+      "- यशोदा-भिया उलूखलात् धावमानम्", 
+      "- गोप्या अत्यन्ततः द्रुत्य परामृष्टम्",
+      "नमामि",
     ],
     transl  : [
-      "I bow down to the Supreme Lord, whose form is the embodiment of eternal existence, knowledge, and bliss, whose earrings are swinging, and who shines in Gokula. He who, in fear of Mother Yashoda, ran away from the wooden mortar but was caught from behind by her who ran swiftly after Him."
+      "(I)", 
+      "- to the Supreme Lord",
+      "- whose form is the embodiment of eternal existence, knowledge, and bliss",
+      "- whose earrings are swinging",
+      "- who is shining in Gokula",
+      "- who is running away from the wooden mortar, due to the fear of Mother Yashoda,",
+      "- but who has been caught from behind by Mother Yashoda (Gopi) who ran swiftly after Him.",
+      "bow down (offer my obeisances).",
     ],
     essence : [
       "To the Supreme Lord, whose form is the embodiment of eternal existence, knowledge, and bliss, whose shark-shaped earrings are swinging to and fro, who is beautifully shining in the divine realm of Gokula, who I (due to the offense of breaking the pot of yogurt that His mother was churning into butter and then stealing the butter that was kept hanging from a swing) is quickly running from the wooden grinding mortar in fear of mother Yasoda, but who has been caught from behind by her who ran after Him with greater speed--to that Supreme Lord, Sri Damodara, I offer my humble obeisances."
@@ -48,8 +62,18 @@ const verses = [
       "gopyā: by the Gopi (Mother Yashoda)"
     ],
     notes   : [
+      "Krishna had broken a pot of yogurt and was feeding butter to the monkeys while sitting on a wooden grinding mortar (ulūkhala). When he saw Mother Yashoda approaching with a whipping stick, he jumped off the mortar in a state of 'staged' panic.",
+      "The phrase is philosophically profound because it describes the Fear of Fear personified. The Upanishads state that fear itself is afraid of the Supreme Lord, yet here, out of love for His devotee, the Lord is yaśodā-bhiyā (fearing Yashoda).",
       "The word 'atyantataḥ' emphasizes that Yashoda had to run very fast to catch the Lord, who is usually unreachable by mind or speech.",
-      "This lila takes place on the day of Deepavali."
+      "This lila takes place on the day of Deepavali.",
+      "यशोदा-भिया = Instrumental Case - भीः (भयम्) - तृतीया विभक्ति - एकवचनम् - 'due to the fear of Mother Yashoda'",
+      "उलूखलात् - Ablative Case - उलूखलम् (उलूखल) (wooden grinding mortar) - पञ्चमी विभक्ति - एकवचनम् - 'from the wooden grinding mortar'",
+      "धावमानम् - Present Participle - धावमानः - धाव् (to run) - शानच् परत्ययः - 'running away'",
+      "द्रुत्य (drutya): This is a Lyap-pratyaya (similar to ktvā, meaning 'having done'). It comes from the root dru (to run/flow). It signifies that Yashoda had to run with great speed before the moment of catching occurred.",
+      "परामृष्टम् - परा (parā) + मृश् (mṛś) + क्त (kta) ",
+      "परा (parā) = A prefix (upasarga) that can mean 'back,' 'away,' or 'opposite.' In this specific context, it signifies 'from behind' or reaching back.",
+      "",
+      "",
     ]
   },
   {
