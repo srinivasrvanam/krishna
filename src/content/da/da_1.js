@@ -72,8 +72,8 @@ const verses = [
       "द्रुत्य (drutya): This is a Lyap-pratyaya (similar to ktvā, meaning 'having done'). It comes from the root dru (to run/flow). It signifies that Yashoda had to run with great speed before the moment of catching occurred.",
       "परामृष्टम् - परा (parā) + मृश् (mṛś) + क्त (kta) ",
       "परा (parā) = A prefix (upasarga) that can mean 'back,' 'away,' or 'opposite.' In this specific context, it signifies 'from behind' or reaching back.",
-      "",
-      "",
+      " मृश् (mṛś) = A root verb meaning 'to touch,' 'to grasp,' or 'to catch.'",
+      "क्त (kta) = A suffix (pratyaya) that indicates the past participle form, meaning 'having been done.'",
     ]
   },
   {
