@@ -99,7 +99,6 @@ const verses = [
       "स्थित-ग्रैवं दाम-उदरम् भक्ति-बद्धम्",
     ],
     anvaya  : [
-      "मुहुः रुदन्तम् कर-अम्भोज-युग्मेन नेत्र-युग्मम् मृजन्तम् स-आतङ्क-नेत्रम् मुहुः श्वास-कम्प-त्रि-रेखा-अङ्क-कण्ठ-स्थित-ग्रैवम् भक्ति-बद्धम् दाम-उदरम् (नमामि) ।",
       "(अहं)",
       "- मुहुः रुदन्तम्",
       "- कर-अम्भोज-युग्मेन नेत्र-युग्मम् मृजन्तम्",
@@ -141,6 +140,10 @@ const verses = [
     notes   : [
       "The term 'tri-rekhā' refers to the three lines on the neck, considered a sign of supreme beauty and divinity, often compared to the spirals of a conch shell.",
       "The phrase 'bhakti-baddham' is the theological heart of this verse, showing that the Infinite can only be captured by pure love.",
+      "रुदन्तम् = रुद् (rud) + शतृ (śatṛ) = रुदन् - द्वितीया विभक्ति - present participle",
+      "युग्मम् = युज् (yuj) + म (ma) - Kṛt-pratyaya = pair",
+      "ग्रैवम् = ग्रीवा (grīvā) - 'neck.' = refers to necklace here",
+
     ],
   },
   {
