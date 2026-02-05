@@ -37,7 +37,7 @@ const verses = [
       "- whose earrings are swinging",
       "- who is shining in Gokula",
       "- who is running away from the wooden mortar, due to the fear of Mother Yashoda,",
-      "- but who has been caught from behind by Mother Yashoda (Gopi) who ran swiftly after Him.",
+      "- (but) who has been caught from behind by Mother Yashoda (Gopi) who ran swiftly after Him.",
       "bow down (offer my obeisances).",
     ],
     essence : [
@@ -57,7 +57,7 @@ const verses = [
       "ulūkhalāt: from the wooden grinding mortar",
       "dhāvamānam: running away",
       "parāmṛṣṭam: caught/grasped from behind",
-      "atyantataḥ: greatly/completely",
+      "atyantataḥ: greatly/completely (adverb)",
       "drutyā: running quickly",
       "gopyā: by the Gopi (Mother Yashoda)"
     ],
@@ -74,6 +74,7 @@ const verses = [
       "परा (parā) = A prefix (upasarga) that can mean 'back,' 'away,' or 'opposite.' In this specific context, it signifies 'from behind' or reaching back.",
       " मृश् (mṛś) = A root verb meaning 'to touch,' 'to grasp,' or 'to catch.'",
       "क्त (kta) = A suffix (pratyaya) that indicates the past participle form, meaning 'having been done.'",
+      "अत्यन्ततः (atyantataḥ): The suffix -tasi (tah) is used here in the sense of the ablative or adverbial. It emphasizes the intensity. It implies that she didn't just catch Him casually; she had to exert herself 'to the extreme' to catch the Lord who is usually faster than the mind.",
     ]
   },
   {
