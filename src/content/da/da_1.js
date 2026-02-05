@@ -37,7 +37,7 @@ const verses = [
       "- whose earrings are swinging",
       "- who is shining in Gokula",
       "- who is running away from the wooden mortar, due to the fear of Mother Yashoda,",
-      "- (but) who has been caught from behind by Mother Yashoda (Gopi) who ran swiftly after Him.",
+      "- (but) who has been caught from behind by Mother Yashoda (Gopi) after running with great effort after him.",
       "bow down (offer my obeisances).",
     ],
     essence : [
