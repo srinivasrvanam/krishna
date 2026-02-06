@@ -214,6 +214,7 @@ const verses = [
       "जितत्वम् = जि (root - to win/conquer) + kta (Past Passive Participle - winner) + त्व (Taddhita-pratyaya - abstract noun = -ness/-ship/-hood)",
       "आख्यापयन्तम् = Present Participle (Śatṛ Pratyaya) - dwitiya vibhakti",
       "आख्यापयन्तम् = आ (upasarga - fully) + ख्या (root - to know) + णिच् (make someone know) + शतृ (ongoing action)",
+      "आवृत्ति = आ (fully) + वृत् (to turn/rotate) + क्तिन् (suffix used to form feminine abstract nouns from verbal roots) = times/repetitions",
     ],
   },
   {
