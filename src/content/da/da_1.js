@@ -168,10 +168,18 @@ const verses = [
       "पुनः प्रेमतः तम् शत-आवृत्ति वन्दे",
     ],
     anvaya  : [
-      "इति ईदृक् स्व-लीलाभिः स्व-घोषम् आनन्द-कुण्डे निमज्जन्तम्, तदीय-ईषित-ज्ञेषु भक्तैः जितत्वम् आख्यापयन्तम्, तम् पुनः प्रेमतः शत-आवृत्ति वन्दे ।",
+      "(अहं)",
+      "- इति ईदृक् स्व-लीलाभिः स्व-घोषम् आनन्द-कुण्डे निमज्जन्तम्,",
+      "- (तदीय-ईषित-ज्ञेषु भक्तैः जितत्वम्) आख्यापयन्तम्,",
+      "- (दाम-उदरम्) तम्",
+      "पुनः प्रेमतः शत-आवृत्ति वन्दे",
     ],
     transl  : [
-      "By such childhood pastimes, He drowns the inhabitants of Gokula in pools of ecstasy. To those who are absorbed in His majestic aspect (aisvarya), He declares that He is conquered only by His intimate devotees. To that Lord Damodara, I offer my obeisances hundreds of times with great love.",
+      "(I)", 
+      "- who drowns the inhabitants of Gokula in pools of ecstasy, with such childhood pastimes",
+      "- who declares that He is conquered only by His intimate devotees to those who are absorbed in His majestic aspect (aisvarya),",
+      "- to that Lord Damodara,", 
+      "again offer my obeisances hundreds of times with great love.",
     ],
     essence : [
       "By such childhood pastimes as this He is drowning the inhabitants of Gokula in pools of ecstasy, and is revealing to those devotees who are absorbed in knowledge of His supreme majesty and opulence that He is only conquered by devotees whose pure love is imbues with intimacy and is free from all conceptions of awe and reverence. With great love I again offer my obeisances to Lord Damodara hundreds and hundreds of times.",
@@ -186,7 +194,7 @@ const verses = [
       "ānanda-kuṇḍe: in a pool of bliss",
       "sva-ghoṣam: His own village (Gokula)",
       "nimajjantam: immersion/drowning",
-      "ākhyāpayantam: proclaiming/revealing",
+      "ākhyāpayantam: to the one who is proclaiming/revealing",
       "tadīya-īṣita-jñeṣu: to those who know His majesty",
       "bhaktaiḥ: by His devotees",
       "jitatvam: the state of being conquered",
@@ -199,6 +207,13 @@ const verses = [
     notes   : [
       "The contrast between 'Aisvarya-jnana' (knowledge of majesty) and 'Madhurya' (sweetness) is highlighted here; the Lord prefers the latter.",
       "The phrase 'Sva-ghosam' refers to the cowherd settlement of Vraja, which vibrates with the sound of Krishna's glories.",
+      "तदीय = His / Relating to Him",
+      "ईषित = Majesty / Godhood / Opulence / Sovereignty",
+      "ज्ञेषु = To the knowers / Among those who know",
+      "जितत्वम् = The state of being conquered",
+      "जितत्वम् = जि (root - to win/conquer) + kta (Past Passive Participle - winner) + त्व (Taddhita-pratyaya - abstract noun = -ness/-ship/-hood)",
+      "आख्यापयन्तम् = Present Participle (Śatṛ Pratyaya) - dwitiya vibhakti",
+      "आख्यापयन्तम् = आ (upasarga - fully) + ख्या (root - to know) + णिच् (make someone know) + शतृ (ongoing action)",
     ],
   },
   {
@@ -226,7 +241,7 @@ const verses = [
       "हे देव! अहम् मोక్షమ్ न (वृणे), मोक्ष-अवधिम् वा न (वृणे), इह वरेषात् अन्यम् अपि न वृणे। हे नाथ! ते इदम् गोपाल-बालम् वपुः सदा मे मनसि आविरास्ताम्, అన్యైః కిమ్?",
     ],
     transl  : [
-      "O Lord, I do not pray for liberation, nor the highest limit of liberation (Vaikuntha), nor any other boon even if it is the best. O Lord, may this form of Yours as a cowherd child (Gala Gopala) always remain manifest in my heart. What is the use of any other boon to me?",
+      "O Lord, I do not pray for liberation, nor the highest limit of liberation (Vaikuntha), nor any other boon even if it is the best. O Lord, may this form of Yours as a cowherd child (Bala Gopala) always remain manifest in my heart. What is the use of any other boon to me?",
     ],
     essence : [
       "O Lord, although You are able to give all kinds of benedictions, I do not pray to You for the boon of impersonal liberation, nor the highest liberation of eternal life in Vaikuntha, nor any other boon (which may be obtained by executing the nine processes of bhakti). O Lord, I simply wish that this form of Yours as Bala Gopala in Vrndavana may ever be manifest in my heart, for what is the use to me of any other boon besides this?",
