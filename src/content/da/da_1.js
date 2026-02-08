@@ -314,10 +314,20 @@ const verses = [
       "मनसि आविरास्ताम् अलम् लक्ष-लाभैः",
     ],
     anvaya  : [
-      "अत्यन्त-नीलैः स्निग्ध-रक्तैः च कुन्तलैः वृतम्, गोप्या मुहुः चुम्बितम्, बिम्ब-रक्त-अधरम् ते इदम् मुख-अम्भोजम् मे मनसि आविरास्ताम्, लक्ष-लाभैः अलम् ।",
+      "ते इदम् मुख-अम्भोजम्",
+      "- अत्यन्त-नीलैः स्निग्ध-रक्तैः च कुन्तलैः वृतम्,", 
+      "- गोप्या मुहुः चुम्बितम्,", 
+      "बिम्ब-रक्त-अधरम्",  
+      "मे मनसि आविरास्ताम्,",
+      "लक्ष-लाभैः अलम् ।",
     ],
     transl  : [
-      "O Lord, Your lotus-like face, encircled by soft black locks of hair tinged with red, is kissed again and again by Mother Yashoda. Your lips are as red as the bimba fruit. May this vision of Your lotus face always be manifest in my heart. Of what use are thousands of other gains to me?",
+      "This lotus face of yours",
+      "- is encircled by locks of soft black hair tinged with red,",
+      "- is kissed again and again by mother Yasoda,",
+      "Your lips are as red as the bimba fruit.",
+      "May this form of yours always manifest in my heart",
+      "What is the use of thousands of other gains to me?",
     ],
     essence : [
       "O Lord, Your lotus face, which is encircled by locks of soft black hair tinged with red, is kissed again and again by mother Yasoda, and Your lips are reddish like the bimba fruit. May this beautiful vision of Your lotus face be ever manifest in my heart. Thousands and thousands of other benedictions are of no use to me.",
