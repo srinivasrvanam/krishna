@@ -446,10 +446,14 @@ const verses = [
       "न मोक्षे ग्रहः मे अस्ति दामोदर इह",
     ],
     anvaya  : [
-      "यद्वत् बद्ध-मूर्त्या त्वया कुवेर-आत्मजौ मोचितौ भक्ति-भाजौ कृतौ च, तथा मे स्वकाम् प्रेम-भक्तिम् प्रयच्छ। हे दामोदर! इह मोक्षे मे ग्रहः न अस्ति ।",
+      "यद्वत् (बद्ध-मूर्त्या) त्वया कुवेर-आत्मजौ मोचितौ भक्ति-भाजौ कृतौ च", 
+      "तथा मे स्वकाम् प्रेम-भक्तिम् प्रयच्छ।", 
+      "हे दामोदर! इह मोक्षे मे ग्रहः न अस्ति ।",
     ],
     transl  : [
-      "Just as the two sons of Kuvera (Nalakuvara and Manigriva) were delivered and turned into great devotees by You in Your form bound to the mortar, please grant me Your own pure loving devotion (prema-bhakti). O Lord Damodara, I have no desire for liberation in this world.",
+      "Just as the two sons of Kuvera (Nalakuvara and Manigriva) were delivered and turned into great devotees by You in Your form bound to the mortar,", 
+      "Similarly, please grant me Your own pure loving devotion (prema-bhakti).", 
+      "O Lord Damodara, I have no desire for liberation in this world.",
     ],
     essence : [
       "O Lord Damodara, just as the two sons of Kuvera--Manigriva and Nalakuvara--were delivered from the curse of Narada and made into great devotees by You in Your form as a baby tied with rope to a wooden grinding mortar, in the same way, please give to me Your own prema-bhakti. I only long for this and have no desire for any kind of liberation.",
