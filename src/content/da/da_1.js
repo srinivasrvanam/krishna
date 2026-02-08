@@ -510,10 +510,16 @@ const verses = [
       "नमः अनन्त-लीलाय देवाय तुभ्यम्",
     ],
     anvaya  : [
-      "स्फुरत्-दीप्ति-धाम्ने ते दाम्ने नमः अस्तु, अथ विश्वस्य धाम्ने त्वदीय-उदराय नमः। त्वदीय-प्रियायै राधिकायै नमः, अनन्त-लीलाय देवाय तुभ्यम् नमः ।",
+      "स्फुरत्-दीप्ति-धाम्ने ते दाम्ने नमः अस्तु ।", 
+      "अथ विश्वस्य धाम्ने त्वदीय-उदराय नमः ।", 
+      "त्वदीय-प्रियायै राधिकायै नमः ।", 
+      "अनन्त-लीलाय देवाय तुभ्यम् नमः ।",
     ],
     transl  : [
-      "O Lord, I offer my obeisances to the rope that binds You, which is a reservoir of brilliant effulgence. I then offer my obeisances to Your belly, which is the support of the entire universe. I offer my obeisances to Your beloved Srimati Radharani, and I offer my obeisances to You, the Supreme Lord of unlimited pastimes.",
+      "O Lord, I offer my obeisances to the rope that binds You, which is a reservoir of brilliant effulgence.", 
+      "I then offer my obeisances to Your belly, which is the support of the entire universe.", 
+      "I offer my obeisances to Your beloved Srimati Radharani,", 
+      "and I offer my obeisances to You, the Supreme Lord of unlimited pastimes.",
     ],
     essence : [
       "O Lord Damodara, I first of all offer my obeisances to the brilliantly effulgent rope which binds Your belly. I then offer my obeisances to Your belly, which is the abode of the entire universe. I humbly bow down to Your most beloved Srimati Radharani, and I offer all obeisances to You, the Supreme Lord, who displays unlimited pastimes.",
