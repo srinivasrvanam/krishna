@@ -377,13 +377,19 @@ const verses = [
       "नमः देव दामोदर अनन्त विष्णो",
       "प्रसीद प्रभो दुःख-जाल-अब्धि-मग्नम्",
       "कृपा-दृष्टि-वृष्ट्या अति-दीनम् बत अनु-",
-      "गृहाण ईष माम् अज्ञम् एधि अक्षि-दृश्यः",
+      "गृहाण ईश माम् अज्ञम् एधि अक्षि-दृश्यः",
     ],
     anvaya  : [
-      "हे देव! दामोदर! अनन्त! विष्णो! नमः। हे प्रभो! प्रसीद। दुःख-जाल-अब्धि-मग्नम् अति-दीनम् अज्ञम् माम् कृपा-दृष्टि-वृष्ट्या अनुगृहाण। हे ईष! एधि, मम अक्षि-दृश्यः (भव) ।",
+      "हे देव! दामोदर! अनन्त! विष्णो! (ते) नमः।", 
+      "हे प्रभो! प्रसीद।", 
+      "बत! (दुःख-जाल-अब्धि-मग्नम्) (अति-दीनम्) (अज्ञम्) माम् कृपा-दृष्टि-वृष्ट्या अनुगृहाण।", 
+      "हे ईश! मम अक्षि-दृश्यः एधि ।",
     ],
     transl  : [
-      "O Divine Lord! O Damodara! O Ananta! O Vishnu! My obeisances unto You. O Master, be pleased with me! I am an ignorant fool, greatly distressed and sunken in an ocean of worldly sorrows. Please uplift me by showering Your glance of mercy, and become visible to my eyes.",
+      "O Divine Lord! O Damodara! O Ananta! O Vishnu! My obeisances unto You.", 
+      "O Master! Please become pleased with me!", 
+      "Alas! Please uplift me who is sunken in an ocean of worldly sorrows, greatly distressed, an ignorant with Your glance of mercy,", 
+      "O Lord! Please become visible to my eyes.",
     ],
     essence : [
       "O Supreme Godhead, I offer my obeisances unto You. O Damodara! O Ananta! O Vishnu! O master! O my Lord, be pleased upon me. By showering Your glance of mercy upon me, deliver this poor ignorant fool who is immersed in an ocean of worldly sorrows, and become visible to my eyes.",
@@ -413,6 +419,9 @@ const verses = [
     notes   : [
       "This verse shifts from praising the Lord's form to a direct, humble prayer for deliverance from 'Samsara' (the material cycle of birth and death).",
       "The term 'Ananta' highlights that while He is bound as Damodara, He remains the Infinite and Limitless Lord.",
+      "बत = Alas! (expressing sorrow)",
+      "अनुगृहाण = अनु + ग्रह् (root) = कृपा करना, अनुग्रह करना - कर्तरि लोट् - madhyama पुरुष - एकवचन = please uplift/favor",
+      "एधि = अस् (root) - अस्ति - कर्तरि लोट् - madhyama पुरुष - एकवचन = please come/be",
     ],
   },
   {
