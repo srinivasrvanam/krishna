@@ -41,7 +41,7 @@ const verses = [
       "bow down (offer my obeisances).",
     ],
     essence : [
-      "To the Supreme Lord, whose form is the embodiment of eternal existence, knowledge, and bliss, whose shark-shaped earrings are swinging to and fro, who is beautifully shining in the divine realm of Gokula, who I (due to the offense of breaking the pot of yogurt that His mother was churning into butter and then stealing the butter that was kept hanging from a swing) is quickly running from the wooden grinding mortar in fear of mother Yasoda, but who has been caught from behind by her who ran after Him with greater speed--to that Supreme Lord, Sri Damodara, I offer my humble obeisances."
+      "To the Supreme Lord, whose form is the embodiment of eternal existence, knowledge, and bliss, whose earrings are swinging, who is beautifully shining in the divine realm of Gokula, who (due to the offense of breaking the pot of yogurt that His mother was churning into butter and then stealing the butter that was kept hanging from a swing) is quickly running from the wooden grinding mortar in fear of mother Yasoda, but who has been caught from behind by her who ran after Him with greater speed--to that Supreme Lord, Sri Damodara, I offer my humble obeisances."
     ],
     essence_tel: [
       "సచ్చిదానంద స్వరూపుడు, ప్రకాశించే కుండలములు కలవాడు, గోకులంలో విరాజిల్లేవాడు, యశోదమ్మకు భయపడి రోలు నుండి దూకి పరుగెడుతూ, ఆమె చేత పట్టుబడినవాడైన ఆ పరమేశ్వరునికి (శ్రీ దామోదరునికి) నా నమస్కారములు."
