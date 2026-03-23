@@ -1083,6 +1083,58 @@ const verses = [
       'उच्यते = is called',
     ],
   },
+  {
+    chapter : 2,
+    number  : 49,
+    sloka   : [
+      'दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय |',
+      'बुद्धौ शरणमन्विच्छ कृपणा: फलहेतव: ||',
+    ],
+    sloka_tel : [
+      'దూరేణ హ్యవరం కర్మ బుద్ధియోగాద్ధనంజయ |',
+      'బుద్ధౌ శరణమన్విచ్ఛ కృపణా: ఫలహేతవ: ||',
+    ],
+    vicheda : [
+      'दूरेण हि अवरं कर्म बुद्धियोगात् धनञ्जय |',
+      'बुद्धौ शरणम् अन्विच्छ कृपणा: फल-हेतव: ||',
+    ],
+    anvaya  : [
+      'हे धनञ्जय! बुद्धियोगात् कर्म दूरेण हि अवरम् |',
+      '(त्वं) बुद्धौ शरणम् अन्विच्छ |',
+      'फलहेतव: कृपणा: |',
+    ],
+    transl  : [
+      'O Dhananjaya (Arjuna), motivated action is far inferior to the yoga of wisdom.',
+      'Take refuge in pure divine intelligence', 
+      'those who seek the fruits of their actions are indeed pitiable (miserly).',
+    ],
+    essence : [
+      'Seek refuge in divine knowledge and insight, O Arjuna, and discard reward-seeking actions that are certainly inferior to works performed with the intellect established in divine knowledge. Miserly are those who seek to enjoy the fruits of their works.',
+    ],
+    essence_tel: [
+      "ఓ ధనంజయ! నిష్కామ బుద్ధియోగము కంటే ఫలాపేక్షతో చేసే కర్మ అత్యంత అధమమైనది. కావున నీవు సమత్వ బుద్ధిని ఆశ్రయించుము. ఫలాపేక్షతో కర్మలు చేసేవారు దీనులు (అల్పులు).",
+    ],
+    meanings: [
+      'Durena: By far',
+      'Hi: Indeed',
+      'Avaram: Inferior / Lowly',
+      'Buddhi-yogat: Than the yoga of wisdom',
+      'Dhananjaya: O winner of wealth (Arjuna)',
+      'Buddhau: In wisdom / intelligence',
+      'Sharanam: Refuge',
+      'Anviccha: Seek',
+      'Kripanah: Pitiable / Miserly',
+      'Phala-hetavah: Those motivated by results'
+    ],
+    notes   : [
+      'Lord Krishna explains that action performed with an eye on the result (Sakama Karma) is much lower than action performed with equanimity and wisdom (Buddhi Yoga). He encourages Arjuna to seek shelter in wisdom rather than being driven by the anxiety of rewards.',
+      'This verse introduces the concept of Buddhi Yoga as a superior path to mere ritualistic or result-oriented action.',
+      'The word "Kripanah" is used here to describe those who limit their consciousness only to the rewards of their labor, missing the greater spiritual liberation.',
+      'बुद्धौ = बुद्धिः - सप्तमी एकव - In wisdom/intelligence',
+      'अन्विच्छ = अनु + इष् (to wish/desire/want) = (ढूंढ़ना, प्रति = to search/seek) - कर्तरि लोट् - म.पु. - एक.व.',
+
+    ],
+  },
 ];
 
 export default verses;
