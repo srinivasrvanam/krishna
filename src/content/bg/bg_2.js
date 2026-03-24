@@ -1135,6 +1135,57 @@ const verses = [
 
     ],
   },
+  {
+    chapter : 2,
+    number  : 50,
+    sloka   : [
+      'बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते |',
+      'तस्माद्योगाय युज्यस्व योग: कर्मसु कौशलम् ||',
+    ],
+    sloka_tel : [
+      'బుద్ధియుక్తో జహాతీహ ఉభే సుకృతదుష్కృతే |',
+      'తస్మాద్యోగాయ యుజ్యస్వ యోగ: కర్మసు కౌశలమ్ ||',
+    ],
+    vicheda : [
+      'बुद्धि-युक्त: जहाति इह उभे सुकृत-दुष्कृते |',
+      'तस्मात् योगाय युज्यस्व योग: कर्मसु कौशलम् ||',
+    ],
+    anvaya  : [
+      'बुद्धियुक्त: इह उभे सुकृतदुष्कृते जहाति |',
+      'तस्मात् योगाय युज्यस्व |', 
+      'योग: कर्मसु कौशलम् ||',
+    ],
+    transl  : [
+      'One who is united with equanimous wisdom casts away both good and evil deeds in this life.',
+      'Therefore, strive for Yoga;', 
+      'Yoga is the art of performing all actions with excellence and skill.',
+    ],
+    essence : [
+      'This verse defines "Yoga" as "Karmasu Kaushalam"—skill in action. A person who acts with a balanced mind (Buddhi-yukta) is not bound by the karmic reactions of "good" or "bad" deeds. By staying unattached to the result, the action becomes a tool for liberation rather than a cause of bondage.'
+    ],
+    essence_tel: [
+      "సమత్వ బుద్ధి కలిగినవాడు ఈ లోకములోనే పుణ్యపాపములు రెండింటినీ విడిచిపెడతాడు. కాబట్టి నీవు యోగమును అవలంబించుము. కర్మల యందు నైపుణ్యమే యోగము.",
+    ],
+    meanings: [
+      'Buddhi-yuktah: One endowed with equanimity',
+      'Jahati: Casts off / Relinquishes',
+      'Iha: In this life',
+      'Ubhe: Both',
+      'Sukrita-Dushkrite: Good and evil deeds',
+      'Tasmat: Therefore',
+      'Yogaya: For Yoga',
+      'Yujyasva: Strive / Devote yourself',
+      'Karmasu: In actions',
+      'Kaushalam: Skill / Excellence / Art'
+    ],
+    notes   : [
+      'The phrase "Yogaḥ karmasu kauśalam" is one of the most famous definitions of Yoga in the Gita.',
+      'It implies that when work is done without the anxiety of the result, the mind is clear, leading to natural efficiency and perfection in the task at hand.',
+      'उभे = द्वितीया.वि. - द्वि.व. - अकारान्तः, नपुंसकलिङ्गः, नित्यद्विवचनान्तः, सर्वनामशब्दः',
+      'सुकृत-दुष्कृते = सुकृत-दुष्कृतम् - द्वितीया.वि. - द्वि.व. = good and evil deeds', 
+      'जहाति = हा (to abandon/leave/desert) - कर्तरि लट्ल - प्र.पु. - एक.व. = casts off / relinquishes',
+    ],
+  },
 ];
 
 export default verses;
