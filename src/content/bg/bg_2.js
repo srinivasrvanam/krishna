@@ -1186,6 +1186,56 @@ const verses = [
       'जहाति = हा (to abandon/leave/desert) - कर्तरि लट्ल - प्र.पु. - एक.व. = casts off / relinquishes',
     ],
   },
+  {
+    chapter : 2,
+    number  : 51,
+    sloka   : [
+      'कर्मजं बुद्धियुक्ता हि फलं त्यक्त्वा मनीषिण: |',
+      'जन्मबन्धविनिर्मुक्ता: पदं गच्छन्त्यनामयम् ||',
+    ],
+    sloka_tel : [
+      'కర్మజం బుద్ధియుక్తా హి ఫలం త్యక్త్వా మనీషిణ: |',
+      'జన్మబంధవినిర్ముక్తా: పదం గచ్ఛన్త్యనామయమ్ ||',
+    ],
+    vicheda : [
+      'कर्म-जम् बुद्धि-युक्ता: हि फलम् त्यक्त्वा मनीषिण: |',
+      'जन्म-बन्ध-विनिर्मुक्ता: पदम् गच्छन्ति अनामयम् ||',
+    ],
+    anvaya  : [
+      'बुद्धि-युक्ता: मनीषिण: जन्म-बन्ध-विनिर्मुक्ता:', 
+      '- हि (कर्मजं) फलं त्यक्त्वा',
+      '(अनामयम्) पदं गच्छन्ति ||',
+    ],
+    transl  : [
+      'The wise, possessed of equanimous intelligence, who are freed from bondage of birth', 
+      '- having abandoned the fruits that are born of action,',
+      'attain that state which is beyond all suffering.',
+    ],
+    essence : [
+      'This verse describes the ultimate result of practicing Buddhi Yoga. By relinquishing attachment to the results of their work, the wise (Manishinah) break the cycle of karma. They are no longer bound by the necessity of rebirth and reach the "Anamayam Padam"—the supreme, stainless state of eternal peace.'
+    ],
+    essence_tel: [
+      "సమత్వ బుద్ధి గల జ్ఞానులు కర్మల వల్ల కలిగే ఫలితాలను త్యజించి, జన్మ అనే బంధం నుండి విముక్తులై, ఎటువంటి దుఃఖము లేని పరమపదాన్ని (మోక్షాన్ని) పొందుతారు.",
+    ],
+    meanings: [
+      'Karma-jam: Born of action',
+      'Buddhi-yuktah: Endowed with equanimity',
+      'Hi: Indeed',
+      'Phalam: Fruit / Result',
+      'Tyaktva: Having abandoned',
+      'Manishinah: The wise / Great thinkers',
+      'Janma-bandha-vinirmuktah: Freed from the bondage of birth',
+      'Padam: State / Abode',
+      'Gacchanti: They go / attain',
+      'Anamayam: Without ailment / Beyond suffering'
+    ],
+    notes : [
+      'The term "Manishinah" highlights that this isn\'t just intellectual knowledge, but realized wisdom that controls the mind.',
+      'Anamayam (A-maya) literally means "without disease" or "beyond the influence of Maya," referring to the state of Nirvana or Moksha.',
+      'मनीषिण: = मनीषी (मनीषिन्) - प्रथमा.वि. - बहु.व. - मनस् + ईषिन् = one who has control/master over the mind, a wise person',
+      'अनामयम् = अ (without) + आमय (ailment/disease) = without disease / beyond suffering',
+    ],
+  },
 ];
 
 export default verses;
