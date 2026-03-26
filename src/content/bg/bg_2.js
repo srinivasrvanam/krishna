@@ -1236,6 +1236,61 @@ const verses = [
       'अनामयम् = अ (without) + आमय (ailment/disease) = without disease / beyond suffering',
     ],
   },
+  {
+    chapter : 2,
+    number  : 52,
+    sloka   : [
+      'यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति |',
+      'तदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च ||',
+    ],
+    sloka_tel : [
+      'యదా తే మోహకలిలం బుద్ధిర్వ్యతితరిష్యతి |',
+      'తదా గంతాసి నిర్వేదం శ్రోతవ్యస్య శ్రుతస్య చ ||',
+    ],
+    vicheda : [
+      'यदा ते मोह-कलिलम् बुद्धि: वि-अति-तरिष्यति |',
+      'तदा गन्तासि निर्वेदम् श्रोतव्यस्य श्रुतस्य च ||',
+    ],
+    anvaya  : [
+      'यदा ते बुद्धि: मोह-कलिलं व्यतितरिष्यति |',
+      'तदा (त्वं) श्रोतव्यस्य श्रुतस्य च निर्वेदं गन्तासि ||',
+    ],
+    transl  : [
+      'When your intellect crosses beyond the mire of delusion,',
+      'then you shall attain indifference to what has been heard and what is yet to be heard.',
+    ],
+    essence : [
+      'Lord Krishna tells Arjuna that there comes a point in spiritual evolution where the intellect becomes so clear that it is no longer confused by worldly desires or conflicting scriptural opinions. This state of "Nirvedam" (dispassion) arises when one realizes the Truth directly, making further theoretical knowledge or ritualistic promises redundant.'
+    ],
+    essence_tel: [
+      "నీ బుద్ధి ఎప్పుడు మోహమనేడి కలుషితమైన అడవిని దాటుతుందో, అప్పుడు నీవు వినదగిన వాటి గురించి, వినిన వాటి గురించి వైరాగ్యాన్ని (నిర్వేదాన్ని) పొందుతావు.",
+    ],
+    meanings: [
+      'Yada: When',
+      'Te: Your',
+      'Moha-kalilam: The mire/forest of delusion',
+      'Buddhih: Intellect',
+      'Vyatitarishyati: Shall cross beyond',
+      'Tada: Then',
+      'Gantasi: You shall attain/go to',
+      'Nirvedam: Indifference / Dispassion',
+      'Shrotavyasya: Of what is to be heard',
+      'Shrutasya: Of what has been heard',
+      'Cha: And'
+    ],
+    notes : [
+      'The "Mire of Delusion" (Moha-kalilam) refers to the confusion caused by identifying the Self with the body and getting lost in worldly attachments.',
+      'This verse marks the transition from being a student of "theory" to a master of "experience." When the goal is reached, the map (scriptures) is no longer the focus.',
+      'मोह = मुह् (to loose senses/to err) + घञ्-प्रत्ययः (turns verb into noun) = delusion - considering the Self as the body and getting attached to worldly things',
+      'कलिलं = mire / impenetratable forest / muddy swamp - a metaphor for the confusion and entanglement of worldly life',
+      'व्यतितरिष्यति = वि (thoroughness) + अति (cross/surpass) + तरिष्यति = तॄ (to cross/float/swim) = It will thoroughly cross beyond.',
+      'श्रोतव्यस्य = श्रु (to listen) - तव्य-प्रत्ययः = of what is to be heard',
+      'श्रुतस्य = श्रु (to listen) - क्त-प्रत्ययः (past & passive voice) - श्रुतम् - षष्ठी.वि. =  of what has been heard',
+      'निर्वेदम् = निस् (without) + विद् (to know) + घञ्-प्रत्ययः (turns verb into noun) = the state of being where nothing needs to be known anymore, indifference to further knowledge',
+      'वेद = विद् (to know) + घञ्-प्रत्ययः (turns verb into noun) = that which is known by rishis / has to be known by seekers of truth',
+      'गन्तासि = गम् (to go) - कर्तरि लुट्.ल. (lut is distant future - immediate future is lrt - गमिष्यति) - म.पु. - एक.व. = you will attain/go to',
+    ],
+  },
 ];
 
 export default verses;
