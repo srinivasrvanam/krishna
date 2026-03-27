@@ -1291,6 +1291,66 @@ const verses = [
       'गन्तासि = गम् (to go) - कर्तरि लुट्.ल. (lut is distant future - immediate future is lrt - गमिष्यति) - म.पु. - एक.व. = you will attain/go to',
     ],
   },
+  {
+    chapter : 2,
+    number  : 53,
+    sloka   : [
+      'श्रुतिविप्रतिपन्ना ते यदा स्थास्यति निश्चला |',
+      'समाधावचला बुद्धिस्तదా योगमवाप्स्यसि ||',
+    ],
+    sloka_tel : [
+      'శ్రుతివిప్రతిపన్నా తే యదా స్థాస్యతి నిశ్చలా |',
+      'సమాధావచలా బుద్ధిస్తదా యోగమవాప్స్యసి ||',
+    ],
+    vicheda : [
+      'श्रुति-विप्रतिपन्ना ते यदा स्थास्यति निश्चला |',
+      'समाधौ अचला बुद्धि: तदा योगम् अवाप्स्यसि ||',
+    ],
+    anvaya  : [
+      'यदा ते श्रुतिविप्रतिपन्ना बुद्धि:', 
+      '- निश्चला (सती) समाधौ अचला स्थास्यति |',
+      'तदा योगम् अवाप्स्यसि ||',
+    ],
+    transl  : [
+      'When your intellect, which is currently confused by conflicting scriptural opinions,',
+      'stands immovable and steady in Samadhi (divine absorption), then you shall attain Yoga.',
+    ],
+    essence : [
+      'Krishna explains that the final stage of spiritual evolution is when the intellect stops wavering between different paths, rituals, or arguments. When the "Buddhi" becomes "Nishchala" (motionless) and "Achala" (unshakable) in its focus on the Divine, the state of true Yoga (Union) is realized.'
+    ],
+    essence_tel: [
+      "వివిధ శాస్త్ర వాక్యాలచేత అయోమయానికి గురైన నీ బుద్ధి ఎప్పుడు పరమాత్మ యందు నిశ్చలంగా, స్థిరంగా నిలుస్తుందో, అప్పుడే నీవు అసలైన యోగాన్ని పొందుతావు.",
+    ],
+    meanings: [
+      'Shruti-vipratipanna: Confused by various interpretations of the Vedas/Scriptures',
+      'Te: Your',
+      'Yada: When',
+      'Sthasyati: Shall stand / Remain',
+      'Nishchala: Immovable / Motionless',
+      'Samadhau: In Samadhi (total absorption/concentration)',
+      'Achala: Unwavering / Steady',
+      'Buddhih: Intellect',
+      'Tada: Then',
+      'Yogam: Yoga / Union with the Divine',
+      'Avapsyasi: You shall attain'
+    ],
+    notes : [
+      'Shruti-vipratipanna describes the "Information Overload" Arjuna was facing. Too many opinions on what is right and wrong.',
+      'Nishchala (No motion) and Achala (No shaking) are two levels of stability. The first is about stopping the wandering, the second is about staying firm against external pressure.',
+      'This verse concludes the section on "Buddhi Yoga."',
+      'श्रुति = that which is heard = the Vedas and scriptures',
+      'पन्ना = पद् (to go/attain) = क्त प्रत्ययः (past & passive voice) & स्त्री.लि. = that which is attained',
+      'प्रति + पद् = स्वीकार करना',
+      'वि-प्रति-पन्ना = Having stepped/gone toward various (conflicting) directions.',
+      'श्रुति-वि-प्रति-पन्ना = Confused or led in various directions by what has been heard (scriptures)',
+      'निश्चला = not flickering like a flame in a windless room',
+      'सती = अस् (to be/exist) - शतृ प्रत्ययः (present participle - parasmai) - स्त्रीलिङ्गः, एकवचनम्, नित्यतासूचकः = while being / existing',
+      'समाधौ = समाधिः - सप्तमी.वि.= सम् (completely) + आ (towards) + धि (to place) = to place together perfectly / to be absorbed in',
+      'अचला = not moving like a mountain',
+      'स्थास्यति = स्था (to stand) - कर्तरि लृट्.ल. (lṛṭ is immediate future) - म.पु. - एक.व. = will stand / remain',
+      'अवाप्स्यसि = अव (completely) + आप् (to obtain) + स्यसि (लृट्.ल. - immediate Future - म.पु.) = You will thoroughly obtain',
+    ],
+  },
 ];
 
 export default verses;
