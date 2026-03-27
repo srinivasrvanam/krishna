@@ -1351,6 +1351,59 @@ const verses = [
       'अवाप्स्यसि = अव (completely) + आप् (to obtain) + स्यसि (लृट्.ल. - immediate Future - म.पु.) = You will thoroughly obtain',
     ],
   },
+  {
+    chapter : 2,
+    number  : 54,
+    sloka   : [
+      'अर्जुन उवाच |',
+      'स्थितप्रज्ञस्य का भाषा समाधिस्थस्य केशव |',
+      'स्थितधीः किं प्रभाषेत किमासीत व्रजेत किम् ||'
+    ],
+    sloka_tel : [
+      'అర్జున ఉవాచ |',
+      'స్థితప్రజ్ఞస్య కా భాషా సమాధిస్థస్య కేశవ |',
+      'స్థితధీః కిం ప్రభాషేత కిమాసీత వ్రజేత కిమ్ ||'
+    ],
+    vicheda : [
+      'स्थित-प्रज्ञ-स्य का भाषा समाधि-स्थ-स्य केशव |',
+      'स्थित-धीः किम् प्रभाषेत किम् आसीत व्रजेत किम् ||'
+    ],
+    anvaya  : [
+      'केशव! समाधि-स्थ-स्य स्थित-प्रज्ञ-स्य का भाषा? |',
+      'स्थित-धीः किम् प्रभाषेत? किम् आसीत? किम् व्रजेत? ||'
+    ],
+    transl  : [
+      'Arjuna said: O Keshav (Krishna), what are the characteristics of a person whose intellect is steady and who is established in Samadhi?',
+      'How does that person of steady wisdom speak? How does he sit? How does he walk?'
+    ],
+    essence : [
+      'Arjun said : O Keshava, what is the disposition of one who is situated in divine consciousness? How does an enlightened person talk? How does he sit? How does he walk?',
+    ],
+    essence_tel: [
+      "కేశవా! సమాధి స్థితిలో ఉండి, స్థిరమైన బుద్ధి కలిగిన వాని లక్షణాలు ఏమిటి? అట్టి స్థితప్రజ్ఞుడు ఎలా మాట్లాడుతాడు? ఎలా కూర్చుంటాడు? ఎలా నడుస్తాడు?",
+    ],
+    meanings: [
+      'Sthita-prajñasya: Of the one with steady wisdom/intellect',
+      'Kā: What',
+      'Bhāṣā: Language / Description / Characteristics',
+      'Samādhisthasya: Of the one established in Samadhi',
+      'Kesava: O Krishna',
+      'Sthitadhīḥ: The person of steady mind',
+      'Kim: How / What',
+      'Prabhāṣeta: Speaks',
+      'Āsīta: Sits',
+      'Vrajeta: Walks / Moves'
+    ],
+    notes : [
+      'This verse introduces the famous concept of the "Sthitaprajna" (The person of steady wisdom).',
+      'Arjuna is asking about the "Symptoms" of realization. He wants to know if spiritual enlightenment changes a person\'s basic interactions with the world.',
+      'The verbs "Speak," "Sit," and "Walk" represent the three modes of human interaction: Communication, Rest, and Action.',
+      'Arjuna asks a very practical question: If a person has reached the state of Samadhi (total absorption) and their intellect is no longer flickering, how do they actually behave in the real world? He wants to know the external "signs" of internal enlightenment.',
+      'भाषेत = भाष् (to articulate) - कर्तरि विधिलिङ्.ल. (potential mood) - आत्मनेपदम् - प्र.पु. एक.व. = might speak',
+      'आसीत = आस् (to sit) - कर्तरि विधिलिङ्.ल. (potential mood) - आत्मनेपदम् - प्र.पु. एक.व. = might sit',
+      'व्रजेत = व्रज् (to go) - कर्तरि विधिलिङ्.ल. (potential mood) - परस्मैपदी - प्र.पु. एक.व. = might walk - supposed to be व्रजेत् (prathama purusha eka vachanam) but why व्रजेत (madyanam purusha bahu vachanam)?? '
+    ],
+  },
 ];
 
 export default verses;
