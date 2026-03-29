@@ -64,9 +64,12 @@ Numbers:
 लकार: 
 ====
 लट् - Present Tense (Indicative)
+
 लङ् - Past Tense (Perfective)
-लृट् - Future Tense
+
 लोट् - Imperative Mood (Command/Request)
+
+लृट् - Immediate Future Tense
 लुट् - Future Tense (अनद्यतने - that will occur in the future, but not on the current day)
 
 
