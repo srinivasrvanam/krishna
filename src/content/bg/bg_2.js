@@ -1404,6 +1404,72 @@ const verses = [
       'व्रजेत = व्रज् (to go) - कर्तरि विधिलिङ्.ल. (potential mood) - परस्मैपदी - प्र.पु. एक.व. = might walk - supposed to be व्रजेत् (prathama purusha eka vachanam) but why व्रजेत (madyanam purusha bahu vachanam)?? '
     ],
   },
+  {
+    chapter      : 2,
+    number       : 55,
+    sloka        : [
+      'श्रीभगवानुवाच |',
+      'प्रजहाति यदा कामान्सर्वान्पार्थ मनोगतान् |',
+      'आत्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते ||',
+    ],
+    sloka_tel    : [
+      'శ్రీభగవానువాచ |',
+      'ప్రజహాతి యదా కామాన్సర్వాన్పార్థ మనోగతాన్ |',
+      'ఆత్మన్యేవాత్మనా తుష్టః స్థితప్రజ్ఞస్తదోచ్యతే ||',
+    ],
+    vicheda      : [
+      'प्रजहाति यदा कामान् सर्वान् पार्थ मन:-गतान् |',
+      'आत्मनि एव आत्मना तुष्ट: स्थित-प्रज्ञ: तदा उच्यते ||',
+    ],
+    anvaya       : [
+      'श्रीभगवानुवाच |',
+      'हे पार्थ! यदा',
+      '- मनोगतान् सर्वान् कामान् प्रजहाति |',
+      '- आत्मनि आत्मना एव तुष्ट: (भवति) (च) |',
+      'तदा',
+      '- (स:) स्थितप्रज्ञ: उच्यते |',
+    ],
+    transl       : [
+      'The Supreme Lord said:',
+      'O Parth, when a person',
+      '- gives up all the desires of the mind,',
+      '- (and) is satisfied in the Self by the Self alone,',
+      'then, that person',
+      '- is said to be of steady wisdom (Sthitaprajna).',
+    ],
+    essence      : [
+      'The Supreme Lord said: O Parth, when one discards all selfish desires and cravings of the senses that torment the mind, and becomes satisfied in the realization of the self, such a person is said to be transcendentally situated.',
+    ],
+    essence_tel  : [
+      'ఓ పార్థా! మానవుడు తన మనస్సులోని కోరికలన్నింటినీ ఎప్పుడు పరిత్యజిస్తాడో, తనలో తానుగా ఆత్మారాముడై ఎప్పుడు సంతుష్టి చెందుతాడో, అప్పుడు అతను స్థితప్రజ్ఞుడు అని పిలువబడతాడు.',
+    ],
+    meanings     : [
+      'Prajahati: Thoroughly casts off / Renounces',
+      'Yada: When',
+      'Kaman: Desires / Cravings',
+      'Sarvan: All',
+      'Partha: O Arjuna (Son of Pritha)',
+      'Manogatan: Existing in the mind',
+      'Atmani: In the Self',
+      'Eva: Only / Alone',
+      'Atmana: By the Self',
+      'Tushtah: Satisfied / Content',
+      'Sthitaprajnah: A person of steady wisdom',
+      'Tada: Then',
+      'Uchyate: Is said / Is called',
+    ],
+    notes        : [
+      'The word Manogatan (residing in the mind) is crucial. It suggests that desires are not in the objects themselves, but in the mental imprints we have of them.',
+      'The phrase Atmanyeva Atmana Tushtah describes a Closed Loop of Joy where the source and the enjoyer of happiness are the same.',
+      'This verse provides the Internal definition of a sage, while the following verses describe their External reactions to the world.',
+      'Krishna begins his definition of a sage by identifying two core traits: the complete renunciation of mental cravings and the discovery of joy within one\'s own soul rather than in external objects. The Sthitaprajna does not need the world to be happy because they are Atma-tushta (self-satisfied).',
+      'मनोगतान् = Those (desires) that have entered and taken up residence within the mind.',
+      'प्र-जहाति = हा (to abandon/leave/desert) - कर्तरि लट्ल - प्र.पु. - एक.व. = thoroughly casts off / relinquishes',
+      'प्र-ज्ञः = one with superior knowledge/wisdom',
+      'स्थित-प्र-ज्ञः = steady-thoroughly-wise(to know) = a person whose wisdom is superior and steady and unwavering',
+      'उच्यते = ब्रू (to tell) - भावकर्मणोः लट्.ल. - आत्मनेपदम् - प्र.पु. एक.व. = is said / is called | (आह, ब्रवीति) - कर्तरि लट्लकारः (परस्मैपदम्)',
+    ],
+  }
 ];
 
 export default verses;
