@@ -1469,7 +1469,64 @@ const verses = [
       'स्थित-प्र-ज्ञः = steady-thoroughly-wise(to know) = a person whose wisdom is superior and steady and unwavering',
       'उच्यते = ब्रू (to tell) - भावकर्मणोः लट्.ल. - आत्मनेपदम् - प्र.पु. एक.व. = is said / is called | (आह, ब्रवीति) - कर्तरि लट्लकारः (परस्मैपदम्)',
     ],
-  }
+  },
+  {
+    chapter      : 2,
+    number       : 56,
+    sloka        : [
+      'दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः |',
+      'वीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते ||',
+    ],
+    sloka_tel    : [
+      'దుఃఖేష్వనుద్విగ్నమనాః సుఖేషు విగతస్పృహః |',
+      'వీతరాగభయక్రోధః స్థితధీర్మునిరుచ్యతే ||',
+    ],
+    vicheda      : [
+      'दुःखेषु अनुद्विग्न-मनाः सुखेषु विगत-स्पृहः |',
+      'वीत-राग-भय-क्रोधः स्थित-धीः मुनिः उच्यते ||',
+    ],
+    anvaya       : [
+      'दुःखेषु अनुद्विग्नमनाः (यः) सुखेषु विगतस्पृहः |',
+      'वीतरागभयक्रोधः (च) (सः) स्थितधीः मुनिः उच्यते ||',
+    ],
+    transl       : [
+      'One whose mind remains undisturbed amidst sorrows,',
+      'who is free from longing amidst pleasures,',
+      'and who is devoid of attachment, fear, and anger,',
+      'is called a sage of steady intellect.',
+    ],
+    essence      : [
+      'He whose mind is not shaken by adversity, who does not hanker after pleasures, and is free from attachment, fear and anger, is called a sage of steady wisdom.',
+    ],
+    essence_tel  : [
+      'దుఃఖాలు కలిగినప్పుడు కలత చెందని మనస్సు, సుఖాలు కలిగినప్పుడు వాటిపై కోరిక లేనివాడు, రాగము, భయము, కోపము పోయినవాడు ఎవరో.. అతడే స్థితప్రజ్ఞుడైన ముని అని చెప్పబడుతాడు.',
+    ],
+    meanings     : [
+      'Duhkheshu: Amidst sorrows / miseries',
+      'Anudvignamanah: One whose mind is not agitated',
+      'Sukheshu: Amidst pleasures',
+      'Vigataspihah: One whose longing has disappeared',
+      'Vita: Freed from / Devoid of',
+      'Raga: Attachment / Passion',
+      'Bhaya: Fear',
+      'Krodha: Anger',
+      'Sthitadhih: One of steady mind/intellect',
+      'Munih: A sage / contemplative one',
+      'Uchyate: Is called',
+    ],
+    notes        : [
+      'Anudvigna-manah literally means "not trembling." Even when sorrow hits, the mind does not shake.',
+      'Vigata-sprihah means the thirst (spriha) for repeating pleasurable experiences has gone. He enjoys what comes but does not crave its return.',
+      'The "Triple Chain" (Raga-Bhaya-Krodha) is broken: Attachment leads to fear (of loss), and fear leads to anger (when the loss happens). Without the first, the others vanish.',
+      'The word Muni comes from the root Man (to think/contemplate). A true Muni is not just silent in speech, but silent in the mental turbulence of reactions.',
+      'Krishna defines the emotional stability of a Sthitaprajna. It is not just about avoiding external situations, but about the internal reaction. A sage is neither crushed by pain nor intoxicated by pleasure. By transcending the "Triple Poison" of attachment, fear, and anger, the intellect stays firmly anchored.',
+      'अनुद्विग्न-मनाः = अन् (not/without) + उद्-विज् (to shake/fear/tremble) + मनाः (mind) = one whose mind is not agitated',
+      'विगतस्पृहः = विगत (gone) + स्पृहः (longing/thirst) = one whose longing has disappeared',
+      'वीतरागभयक्रोधः = वीत (devoid of) + राग (attachment) + भय (fear) + क्रोध (anger) = one who is free from attachment, fear, and anger',
+      'स्थितधीः = स्थिर (steady) + धीः (intellect) = one of steady intellect',
+      'मुनिः = मन् (to think/contemplate) + इः (one who does) = a sage / contemplative one',
+    ],
+  },
 ];
 
 export default verses;
