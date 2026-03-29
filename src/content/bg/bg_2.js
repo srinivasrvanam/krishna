@@ -1432,7 +1432,7 @@ const verses = [
     transl       : [
       'The Supreme Lord said:',
       'O Parth, when a person',
-      '- gives up all the desires of the mind,',
+      '- gives up all the desires that entered into the mind,',
       '- (and) is satisfied in the Self by the Self alone,',
       'then, that person',
       '- is said to be of steady wisdom (Sthitaprajna).',
