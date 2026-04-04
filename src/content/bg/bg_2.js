@@ -1607,13 +1607,13 @@ const verses = [
       'इन्द्रियाणि इन्द्रिय-अर्थेभ्यः तस्य प्रज्ञा प्रतिष्ठिता ||',
     ],
     anvaya       : [
-      'च अयम् यदा', 
-      '- (कूर्मः अङ्गानि इव) इन्द्रियाणि इन्द्रियार्थेभ्यः सर्वशः संहरते', 
+      'च यदा', 
+      '- अयम् इन्द्रियाणि इन्द्रियार्थेभ्यः (कूर्मः अङ्गानि इव) सर्वशः संहरते', 
       'तस्य प्रज्ञा प्रतिष्ठिता ||',
     ],
     transl       : [
       'And when ',
-      'one can completely withdraw the senses from their objects, (as a tortoise draws its limbs into its shell),',
+      '- one can completely withdraw the senses from their objects, (as a tortoise draws its limbs into its shell),',
       'then his wisdom is firmly established.',
     ],
     essence      : [
@@ -1644,6 +1644,7 @@ const verses = [
       'Sarvashah: This means from all sides. Partial control (e.g., controlling taste but not sight) is not enough for steady wisdom.',
       'Krishna provides a vivid master-analogy for self-control. Just as a tortoise pulls its legs and head inside its hard shell when it senses danger, a sage can pull their senses away from tempting worldly objects at will. This is not a forced suppression, but a strategic withdrawal into the safety of the Self.',
       'संहरते = सम् + हृ (to take away/carry/steal) = कर्तरि लट्.ल. - प्र.पु. - एक.व. - आत्मनेपदम् = withdraws / pulls back',
+      'सर्वशः = completely/from all sides',
     ],
   },
 ];
