@@ -1534,6 +1534,63 @@ const verses = [
       'मुनिः = मन् (to think/contemplate) + इः (one who does) = a sage / contemplative one',
     ],
   },
+  {
+    chapter      : 2,
+    number       : 57,
+    sloka        : [
+      'यः सर्वत्रानभिस्नेहस्तत्तत्प्राप्य शुभाशुभम् |',
+      'नाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता ||',
+    ],
+    sloka_tel    : [
+      'యః సర్వత్రానభిస్నేహస్తత్తత్ప్రాప్య శుభాశుభమ్ |',
+      'నాభినన్దతి న ద్వేష్టి తస్య ప్రజ్ఞా ప్రతిష్ఠితా ||',
+    ],
+    vicheda      : [
+      'यः सर्वत्र अनभिस्नेहः तत् तत् प्राप्य शुभ-अशुभम् |',
+      'न अभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता ||',
+    ],
+    anvaya       : [
+      'यः', 
+      '- सर्वत्र अनभिस्नेहः (सन्)', 
+      '- तत् तत् शुभाशुभम् प्राप्य न अभिनन्दति न द्वेष्टि |',
+      'तस्य प्रज्ञा प्रतिष्ठिता (अस्ति) |',
+    ],
+    transl       : [
+      'He who', 
+      '- is unattached everywhere (in all situations) and,',
+      '- neither rejoices nor hates having obtained that which is pleasant and unpleasant,',
+      'his wisdom is firmly established.',
+    ],
+    essence      : [
+      'One who remains unattached under all conditions, and is neither delighted by good fortune nor dejected by tribulation, he is a sage with perfect knowledge.',
+    ],
+    essence_tel  : [
+      'ఎవడైతే దేనియందును ఆసక్తి లేనివాడై, ఆయా శుభాశుభములు కలిగినప్పుడు సంతోషించడో, ద్వేషించడో, అట్టివాని ప్రజ్ఞ స్థిరమైనదని చెప్పబడుతుంది.',
+    ],
+    meanings     : [
+      'Yah: He who / Who',
+      'Sarvatra: Everywhere / In all situations',
+      'Anabhisnehah: Without excessive attachment / affection',
+      'Tat Tat: That and that / Whatever',
+      'Prapya: Having obtained / Meeting with',
+      'Shubha-ashubham: Good and evil / Pleasant and unpleasant',
+      'Na: Not',
+      'Abhinandati: Rejoices / Praises',
+      'Dveshti: Hates / Recoils in aversion',
+      'Tasya: His',
+      'Prajna: Wisdom / Intelligence',
+      'Pratishthita: Firmly established / Fixed',
+    ],
+    notes        : [
+      'Anabhisnehah literally means "without oily stickiness." Sneha refers to oil or affection; the sage is like a lotus leaf where water (events) can touch it but never stick.',
+      'Shubha and Ashubham refer to the dualities of life—favorable and unfavorable circumstances.',
+      'Abhinandati vs Dveshti: These are the two swings of the emotional pendulum. The sage stays at the center point.',
+      'This verse emphasizes that wisdom is not just a theory, but a practical reaction to the unpredictable nature of the world.',
+      'In this verse, Krishna describes the "neutrality" of a sage towards the results of life. Whether something "good" (shubham) or "bad" (ashubham) happens, the Sthitaprajna remains steady. They do not get overly excited by success nor do they harbor hatred toward failure. Their wisdom is locked in a state of constant equilibrium.',
+      'अभिनन्दति = अभि + नन्द् = (इच्छा करना, स्वीकार करना, प्रशंसा करना) - कर्तरि लट्.ल. - प्र.पु. - एक.व. = rejoices /  praises',
+      'द्वेष्टि = द्विष् (to hate/dislike) - कर्तरि लट्.ल. - प्र.पु. - एक.व. - परस्मैपदम् = hates / recoils in aversion',
+    ],
+  },
 ];
 
 export default verses;
