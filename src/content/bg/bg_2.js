@@ -1647,6 +1647,58 @@ const verses = [
       'सर्वशः = completely/from all sides',
     ],
   },
+  {
+    chapter      : 2,
+    number       : 59,
+    sloka        : [
+      'विषया विनिवर्तन्ते निराहारस्य देहिनः |',
+      'रसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते ||',
+    ],
+    sloka_tel    : [
+      'విషయా వినివర్తన్తే నిరాహారస్య దేహినః |',
+      'రసవర్జం రసోఽప్యస్య పరం దృష్ట్వా నివర్తతే ||',
+    ],
+    vicheda      : [
+      'विषयाः वि-निवर्तन्ते निराहारस्य देहिनः |',
+      'रस-वर्जम् रसः अपि अस्य परम् दृष्ट्वा निवर्तते ||',
+    ],
+    anvaya       : [
+      'निराहारस्य देहिनः विषयाः रसवर्जम् विनिवर्तन्ते |',
+      'अस्य (यतेः) परम् दृष्ट्वा रसः अपि निवर्तते ||',
+    ],
+    transl       : [
+      'The objects of the senses fade away for the person',
+      'who practices sensory abstinence, but the "taste" (craving) for them remains.',
+      'Even this taste vanishes when one experiences the Supreme Reality.',
+    ],
+    essence      : [
+      'Aspirants may restrain the senses from their objects of enjoyment, but the taste for the sense objects remains. However, even this taste ceases for those who realize the Supreme.',
+    ],
+    essence_tel  : [
+      'ఇంద్రియాలకు ఆహారాన్ని (విషయాలను) అందించని దేహికి ఆయా విషయాలు దూరమవుతాయి కానీ, వాటిపై ఉన్న రుచి (ఆసక్తి) మాత్రం పోదు. కానీ పరమాత్మను దర్శించినప్పుడు ఆ మిగిలి ఉన్న రుచి కూడా నశిస్తుంది.',
+    ],
+    meanings     : [
+      'Vishayah: Objects of the senses',
+      'Vinivartante: Fall away / Recede',
+      'Niraharasya: For one who abstains from "food" (sensory input)',
+      'Dehinah: For the embodied soul',
+      'Rasa-varjam: Excluding the "taste" or inner craving',
+      'Rasah: The taste / relish',
+      'Api: Even / Also',
+      'Asya: Of this person',
+      'Param: The Supreme / Higher Reality',
+      'Drishtva: Having seen / experienced',
+      'Nivartate: Ceases / Vanishes',
+    ],
+    notes        : [
+      'Nirahara: While it literally means fasting, in the Gita context it refers to "starving the senses" of their objects.',
+      'The "Rasa" Problem: Suppression is not the same as transcendence. A person on a diet still thinks about cake; that "thought" is Rasa.',
+      'Param Drishtva: This is the "Higher Taste" principle. You don\'t have to fight the lower desires if you find something infinitely more joyful. The small light is naturally ignored when the sun rises.',
+      'This verse explains why many seekers fail—they focus on external behavior (Nirahara) but forget the internal shift (Param).',
+      'Krishna addresses a deep psychological truth: starvation is not realization. If you simply force yourself to stop eating or seeing things, the physical contact stops, but the mental "juice" (Rasa) or craving stays alive. Only by finding a "Higher Taste" (Param Drishtva)—the bliss of the Self—does the lower craving finally dissolve naturally.',
+      'रसवर्जम् = Excluding the internal taste/leaving the relish behind',
+    ],
+  },
 ];
 
 export default verses;
