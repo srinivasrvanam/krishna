@@ -1699,6 +1699,68 @@ const verses = [
       'रसवर्जम् = Excluding the internal taste/leaving the relish behind',
     ],
   },
+  {
+    chapter      : 2,
+    number       : 60,
+    sloka        : [
+      'यततो ह्यपि कौन्तेय पुरुषस्य विपश्चितः |',
+      'इन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मनः ||',
+    ],
+    sloka_tel    : [
+      'యతతో హ్యపి కౌన్తేయ పురుషస్య విపశ్చితః |',
+      'ఇంద్రియాణి ప్రమాథీని హరన్తి ప్రసభం మనః ||',
+    ],
+    vicheda      : [
+      'यततः हि अपि कौन्तेय पुरुषस्य विपश्चितः |',
+      'इन्द्रियाणि प्रमाथीनि हरन्ति प्रसभम् मनः ||',
+    ],
+    anvaya       : [
+      'कौन्तेय!', 
+      'हि (प्रमाथीनि) इन्द्रियाणि',      
+      'मनः प्रसभम् हरन्ति |',
+      '- (यततः) (विपश्चितः) पुरुषस्य अपि',
+    ],
+    transl       : [
+      'O son of Kunti!',
+      'Indeed the turbulent senses',      
+      'forcibly carry away the mind',
+      '- of even a wise person who is striving to control them',
+    ],
+    essence      : [
+      'The senses are so strong and turbulent, O son of Kunti, that they can forcibly carry away the mind even of a person endowed with discrimination who practices self-control.',
+    ],
+    essence_tel  : [
+      'ఓ కుంతీ పుత్రా! మోక్షం కోసం ప్రయత్నించే వివేకవంతుడైన పురుషుని మనస్సును కూడా, ఈ బలమైన ఇంద్రియాలు బలాత్కారంగా విషయాల వైపుకు లాక్కొనిపోతాయి.',
+    ],
+    meanings     : [
+      'Yatatah: Of the one who is striving / endeavoring',
+      'Hi: Indeed / Certainly',
+      'Api: Even / Also',
+      'Kaunteya: O son of Kunti (Arjuna)',
+      'Purushasya: Of a person',
+      'Vipashchitah: Of the wise / discriminating / learned',
+      'Indriyani: The senses',
+      'Pramathini: Turbulent / Agitated / Tormenting',
+      'Haranti: Carry away / Steal / Hijack',
+      'Prasabham: Forcibly / By violence',
+      'Manah: The mind',
+    ],
+    notes        : [
+      'Pramathini: This comes from the root Math (to churn). The senses churn the mind like someone churning butter, leaving it completely agitated.',
+      'Prasabham: This implies "rape" or "violent abduction." It shows that the senses do not ask for permission; they simply overwhelm the intellect through brute force.',
+      'The "Wise Person" Warning: Krishna emphasizes that even "Vipashchitah" (people with theoretical knowledge) are not safe. Reading books about self-control is different from facing a sensory storm.',
+      'This verse sets the stage for 2.61, which explains the only way to stop this hijacking: by focusing the mind on the Divine.',
+      'Krishna gives a stern warning about the power of the senses. Even if someone is a "Vipashchit" (a learned, wise person) and is actively "Yatatah" (striving/practicing), the senses are so "Pramathini" (turbulent/agitated) that they can hijack the mind by force. Knowledge alone is not a shield; constant vigilance and a higher anchor are required.',
+      'यततः = यतत् ( (यत् - to strive/diligent ) ) - षष्ठी.वि. - एक.व. = of one who is striving',
+      'विपश्चितः = विपश्चित् (विद्वान्/learned/wise) - षष्ठी.वि. - एक.व. = of a wise person',
+      'पुरुषस्य = पुरुष (person) - षष्ठी.वि. - एक.व. = of a person',
+      'प्रमाथीनि = मथ् (to churn) - प्रमाथिन्  (one who churns/agitates) = turbulent / agitated / tormenting',
+      'इन्द्रियाणि = senses (plural)',
+      'मनः = मनः (मनस्) - द्वितीया.वि. - एक.व. = the mind',
+      'प्रसभम् = adverb - forcibly / by violence = प्र (excessive) + सभम् (force) = adverbs are avyayas (indeclinables)',
+      'हरन्ति = हृ (to take away/carry/steal) - कर्तरि लट्.ल. - प्र.पु. - बहु.व. = carry away / steal / hijack',
+    ],
+  },
 ];
 
 export default verses;
