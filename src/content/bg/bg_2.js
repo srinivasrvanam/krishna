@@ -1761,6 +1761,64 @@ const verses = [
       'हरन्ति = हृ (to take away/carry/steal) - कर्तरि लट्.ल. - प्र.पु. - बहु.व. = carry away / steal / hijack',
     ],
   },
+  {
+    chapter      : 2,
+    number       : 61,
+    sloka        : [
+      'तानि सर्वाणि संयम्य युक्त आसीत मत्परः |',
+      'वशे हि यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता ||',
+    ],
+    sloka_tel    : [
+      'తాని సర్వాణి సంయమ్య యుక్త ఆసీత మత్పరః |',
+      'వశే హి యస్యేంద్రియాణి తస్య ప్రజ్ఞా ప్రతిష్ఠితా ||',
+    ],
+    vicheda      : [
+      'तानि सर्वाणि सं-यम्य युक्तः आसीत मत्-परः |',
+      'वशे हि यस्य इन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता ||',
+    ],
+    anvaya       : [
+      'तानि सर्वाणि संयम्य मत्परः युक्तः आसीत |',
+      'हि यस्य इन्द्रियाणि वशे (सन्ति) तस्य प्रज्ञा प्रतिष्ठिता |',
+    ],
+    transl       : [
+      'Having restrained all the senses, one should sit in meditation, focusing the mind on Me (the Supreme).',
+      '(Indeed) One whose senses are under control, his wisdom is firmly established.',
+    ],
+    essence      : [
+      'They are established in perfect knowledge, who subdue their senses and keep their minds ever absorbed in Me.',
+    ],
+    essence_tel  : [
+      'వాటన్నింటినీ (ఇంద్రియాలను) అదుపులోకి తెచ్చుకొని, నా యందే మనస్సు నిలిపి యుక్తుడై ఉండాలి. ఎవరి ఇంద్రియాలు తన ఆధీనంలో ఉంటాయో, వాని బుద్ధి స్థిరమైనది.',
+    ],
+    meanings     : [
+      'Tani: Them (the senses)',
+      'Sarvani: All / Entirely',
+      'Samyamya: Having restrained / controlled',
+      'Yuktah: Disciplined / United / Steadfast',
+      'Asita: Should sit / Should remain',
+      'Mat-parah: Intent on Me / Devoted to Me / Having Me as the Supreme Goal',
+      'Vashe: Under control / In subjection',
+      'Hi: Indeed / Surely',
+      'Yasya: Whose',
+      'Indriyani: Senses',
+      'Tasya: His',
+      'Prajna: Wisdom',
+      'Pratishthita: Firmly established',
+    ],
+    notes        : [
+      'Mat-parah: This is the turning point of the Gita\’s psychology. Krishna suggests that the mind cannot be empty; if you pull it away from the world, you must give it a higher "anchor" (the Divine).',
+      'Samyamya vs. Prasabham: While the senses act with "Brute Force" (Prasabham), the seeker acts with "Restraint" (Samyamya).',
+      'The "Chain of Success": Control Senses -> Focus on Divine -> Senses become submissive (Vashe) -> Wisdom becomes stable.',
+      'This verse introduces the element of Bhakti (Devotion) as a functional tool for Raja Yoga (Mental Control).',
+      'Krishna provides the definitive solution to the "turbulent senses" mentioned in the previous verse. Simply fighting the senses with willpower (Yatataḥ) is not enough. One must "re-anchor" the mind on a higher reality (Mat-paraḥ). By centering the consciousness on the Divine, the senses naturally come under control, and wisdom becomes unshakable.',
+      'मत्परः = मत् (I) + परः (beyond/supreme) = One for whom I am the supreme goal',
+      'युक्तः = युज् (to join/unite) - same root as Yoga - क्त-प्रत्ययः (passive past tense) = disciplined / united / steadfast',
+      'आसीत = आस् (to sit) - कर्तरि विधिलिङ्.ल. (Imperative/Potential Mood) - आत्मनेपदम् - प्र.पु. - एक.व. = should sit / should remain',
+      'विधिलिङ् Example: सत्यं वदेत् = one should speak the truth',
+      'लोट् & विधिलिङ् are similar in terms of request/command. But लोट् is used as a direct command, while विधिलिङ् is more of a suggestion or recommendation. It\'s like the difference between "You must do this" (lot) and "You should do this" (विधिलिङ्). In the context of spiritual practice, Krishna often uses विधिलिङ् to encourage aspirants without being overly forceful.',
+      'वशे = (Saptamī Vibhakti) of the noun वश (will/power/control) = in the control',
+    ],
+  },
 ];
 
 export default verses;
