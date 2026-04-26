@@ -17,6 +17,9 @@ import LASVerse from "./components/pages/LASVerse";
 import GPSHome from "./components/pages/GPSHome";
 import GPSChapter from "./components/pages/GPSChapter";
 import GPSVerse from "./components/pages/GPSVerse";
+import HCHome from "./components/pages/HCHome";
+import HCChapter from "./components/pages/HCChapter";
+import HCVerse from "./components/pages/HCVerse";
 import DAHome from "./components/pages/DAHome";
 import DAChapter from "./components/pages/DAChapter";
 import DAVerse from "./components/pages/DAVerse";
@@ -63,6 +66,9 @@ function App() {
           <Route path="/da" element={<DAHome />} />
           <Route path="/da/:chapter_num" element={<DAChapter />} />
           <Route path="/da/:chapter_num/:verse_num" element={<DAVerse />} />
+          <Route path="/hc" element={<HCHome />} />
+          <Route path="/hc/:chapter_num" element={<HCChapter />} />
+          <Route path="/hc/:chapter_num/:verse_num" element={<HCVerse />} />
           <Route path="/:topic_name/:chapter_num/:verse_num" element={<Breadcrumbs />} />
         </Routes>
       </Layout>

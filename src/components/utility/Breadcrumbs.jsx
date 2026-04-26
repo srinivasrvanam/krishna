@@ -42,6 +42,9 @@ const Breadcrumbs = () => {
             case 'da':
               title = "Damodara Ashtakam";
               break;
+            case 'hc':
+              title = "Hanuman Chalisa";
+              break;
             case '1':
               if(pathSegments[0] === 'svs') title = "Suprabhatham";
               if(pathSegments[0] === 'bg') title = "1. Arjuna Vishada Yoga";
@@ -49,6 +52,7 @@ const Breadcrumbs = () => {
               if(pathSegments[0] === 'las') title = "पूर्व पीठिका";
               if(pathSegments[0] === 'gps') title = "गणेश पञ्चरत्नम्";
               if(pathSegments[0] === 'da') title = "दामोदराष्टकम्";
+              if(pathSegments[0] === 'hc') title = "Chalisa";
               break;
             case '2':
               if(pathSegments[0] === 'svs') title = "Stotram";
