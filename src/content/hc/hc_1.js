@@ -1369,39 +1369,6 @@ const verses = [
   },
   {
     chapter      : 1,
-    number       : 41,
-    sloka        : [
-      'जो यह पढ़ै हनुमान चालीसा |',
-      'होय सिद्धि साखी गौरीसा ||',
-    ],
-    sloka_tel    : [
-      'జో యహ పఢై హనుమాన చాలీసా |',
-      'హోయ సిద్ధి సాఖీ గౌరీసా ||',
-    ],
-    vicheda      : [],
-    anvaya       : [],
-    transl       : [],
-    essence      : [
-      'Whoever reads these forty verses to Hanuman will attain success and perfection in their endeavors; Lord Shiva (the consort of Gauri) is the witness to this truth.',
-    ],
-    essence_tel  : [
-      'ఎవరైతే ఈ హనుమాన్ చాలీసాను పఠిస్తారో, వారికి కార్యసిద్ధి కలుగుతుంది. దీనికి గౌరీనాథుడైన ఆ పరమశివుడే సాక్షి.',
-    ],
-    meanings     : [
-      'Jo = Whoever',
-      'Yah Padhai = Reads this',
-      'Hanuman Chalisa = The forty verses to Hanuman',
-      'Hoy Siddhi = Attains success / perfection',
-      'Sakhi = Witness',
-      'Gaurisa = Lord of Gauri (Shiva)',
-    ],
-    notes        : [
-      'This verse concludes the main body of the forty chaupais by invoking Lord Shiva as a guarantor of the prayer\'s efficacy.',
-      'Since Hanuman is considered an "Ansha" (incarnation or part) of Shiva, this endorsement by "Gaurisa" carries profound spiritual weight.',
-    ],
-  },
-  {
-    chapter      : 1,
     number       : 42,
     sloka        : [
       'तुलसीदास सदा हरि चेरा |',
