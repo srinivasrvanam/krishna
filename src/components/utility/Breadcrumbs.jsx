@@ -23,6 +23,9 @@ const Breadcrumbs = () => {
           // console.log('SV: path: '+path);
           // console.log('SV: segment: '+segment);
           let title = '';
+
+          if(pathSegments[0] === 'rama') title = 'Sarga ' + segment;
+
           switch(segment){
             case 'svs':
               title = "Venkateswara";
@@ -44,6 +47,9 @@ const Breadcrumbs = () => {
               break;
             case 'hc':
               title = "Hanuman Chalisa";
+              break;
+            case 'rama':
+              title = "Ramayanam - Bala Kanda";
               break;
             case '1':
               if(pathSegments[0] === 'svs') title = "Suprabhatham";

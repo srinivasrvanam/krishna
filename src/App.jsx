@@ -20,6 +20,9 @@ import GPSVerse from "./components/pages/GPSVerse";
 import HCHome from "./components/pages/HCHome";
 import HCChapter from "./components/pages/HCChapter";
 import HCVerse from "./components/pages/HCVerse";
+import RamaHome from "./components/pages/RamaHome";
+import RamaChapter from "./components/pages/RamaChapter";
+import RamaVerse from "./components/pages/RamaVerse";
 import DAHome from "./components/pages/DAHome";
 import DAChapter from "./components/pages/DAChapter";
 import DAVerse from "./components/pages/DAVerse";
@@ -69,6 +72,9 @@ function App() {
           <Route path="/hc" element={<HCHome />} />
           <Route path="/hc/:chapter_num" element={<HCChapter />} />
           <Route path="/hc/:chapter_num/:verse_num" element={<HCVerse />} />
+          <Route path="/rama" element={<RamaHome />} />
+          <Route path="/rama/:chapter_num" element={<RamaChapter />} />
+          <Route path="/rama/:chapter_num/:verse_num" element={<RamaVerse />} />
           <Route path="/:topic_name/:chapter_num/:verse_num" element={<Breadcrumbs />} />
         </Routes>
       </Layout>
