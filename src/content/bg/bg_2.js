@@ -19,14 +19,16 @@ const verses = [
       'त्वं (अशोच्यान् अन्वशोचः) च (प्रज्ञावादान् भाषसे) |',
       'पण्डिता: गतासून् अगतासूंन् च न अनुशोचन्ति ||'
     ],
-    transl  : [
+    prose  : [
       'The Supreme Lord said: You grieve for those who should not be grieved for, and yet you speak words of wisdom. The wise, who know the truth, do not lament for the living or the dead.', 
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence      : [],
     meanings: [],
+    grammar      : [],
     notes   : [
       'अशोच्यानन्वशोचस्त्वं = अशोच्यान् + अन्वशोचः + त्वं --- ?? सन्धिः',
       'प्रज्ञावादांश्च = प्रज्ञावादान् + च --- ?? सन्धिः',
@@ -63,14 +65,16 @@ const verses = [
       'अतः परम्',
       '- वयं सर्वे (न भविष्याम:) न => वयं सर्वे भविष्याम:',
     ],
-    transl  : [
+    prose  : [
       'Never was there a time when I did not exist, nor you, nor all these kings nor in the future shall any of us cease to be.', 
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence      : [],
     meanings: [],
+    grammar      : [],
     notes   : [
       'जातु (avyaya) = कदाचित्'
     ],
@@ -93,14 +97,16 @@ const verses = [
       '(तथा) देह-अन्तर प्राप्तिः',
       'धीरः तत्र न मुह्यति',
     ],
-    transl  : [
+    prose  : [
       'Just as the embodied soul continuously passes from childhood to youth to old age, similarly, at the time of death, the soul passes into another body. The wise are not deluded by this.', 
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence      : [],
     meanings: [],
+    grammar      : [],
     notes   : [
       'देहिनः = देहिन् (embodied) - षष्ठी एक.व.'
     ],
@@ -124,14 +130,16 @@ const verses = [
       '(शीत-उष्ण-सुख-दु:ख-दा:) (आगम-अपायिन:) (अनित्या:) (सन्ति) |',
       'हे भारत! तान् तितिक्षस्व |'
     ],
-    transl  : [
+    prose  : [
       'O son of Kunti, the contact between the senses and the sense objects gives rise to fleeting perceptions of happiness and distress. These are non-permanent, and come and go like the winter and summer seasons. O descendent of Bharat, one must learn to tolerate them without being disturbed.', 
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence      : [],
     meanings: [],
+    grammar      : [],
     notes   : [
       'तिज् - endure/tolerate --- कर्तरि लोट्लकारः = तितिक्षस्व',
       'Matrah means those by which are marked off (measured up) sounds etc., i.e. the organs of hearing etc. The sparsah, contacts, of the organs with sound etc. are matra-sparsah. Or, sparsah means those which are contacted, i.e. objects, viz sound etc.'
@@ -155,14 +163,16 @@ const verses = [
       'एते हि यं (सम-दु:ख-सुखं) (धीरं) पुरुषं न व्यथयन्ति |',
       'सः अमृतत्वाय कल्पते |',
     ],
-    transl  : [
+    prose  : [
       'O Arjun, noblest amongst men, that person who is not affected by happiness and distress, and remains steady in both, becomes eligible for liberation.', 
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence      : [],
     meanings: [],
+    grammar      : [],
     notes   : [
       'व्यथ् - to be vexed/feared/irritated णिजन्ते - व्यथयन्ति',
       'कल्पते (कृप्) - to be able/capable',
@@ -187,14 +197,16 @@ const verses = [
       '(अपि तु)',
       'उभयोः अनयोः अन्तः तत्त्व-दर्शिभिः दृष्टः'
     ],
-    transl  : [
+    prose  : [
       'Of the transient there is no endurance, and of the eternal there is no cessation. This has verily been observed and concluded by the seers of the Truth, after studying the nature of both.', 
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence      : [],
     meanings: [],
+    grammar      : [],
     notes   : [
       'असतः = असत् (पुं) - षष्ठी - एक.व.',
       'सत: = सत् (पुं) - षष्ठी - एक.व.',
@@ -224,14 +236,16 @@ const verses = [
       '(येन इदं सर्वम् ततम्) तत् (तु) अविनाशि विद्धि |',
       'कश्चित् (अस्य) अव्ययस्य विनाशम् कर्तुम् न अर्हति |'
     ],
-    transl  : [
+    prose  : [
       'That which pervades the entire body, know it to be indestructible. No one can cause the destruction of the imperishable soul.',
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence      : [],
     meanings: [],
+    grammar      : [],
     notes   : [
       'इदम् = इदम् (सर्वनाम न.पु.) - प्रथमा - एक.व.',
       'सर्वम् = सर्व (सर्वनाम न.पु.) - प्रथमा - एक.व.',
@@ -259,14 +273,16 @@ const verses = [
       '(नित्यस्य अनाशिनः अप्रमेयस्य) शरीरिण: (इमे) देहाः अन्तवन्तः उक्ताः |',
       'हे भारत! तस्मात् युध्यस्व |',
     ],
-    transl  : [
+    prose  : [
       'Only the material body is perishable; the embodied soul within is indestructible, immeasurable, and eternal. Therefore, fight, O descendent of Bharat.',
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence      : [],
     meanings: [],
+    grammar      : [],
     notes   : [
       'नित्यस्य = नित्य (eternal - पु.लि. - नित्यः) - षष्ठी.वि. - एक.व.',
       'अनाशिनः = अ-नाशिनः - नाशिन् (perishable - पु.लि. - नाशी) - षष्ठी.वि. -एक.व.',
@@ -299,14 +315,16 @@ const verses = [
       '- तौ उभौ न विजानीतः',
       'अयं न हन्ति, न हन्यते'
     ],
-    transl  : [
+    prose  : [
       'Neither of them is in knowledge—the one who thinks the soul can slay and the one who thinks the soul can be slain. For truly, the soul neither kills nor can it be killed.'
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence      : [],
     meanings: [],
+    grammar      : [],
     notes   : [
       'य: = who',
       'एनम् = this (Self / Atman)',
@@ -351,17 +369,19 @@ const verses = [
       'अयं (आत्मा) अजः नित्यः शाश्वतः पुराणः',
       '(अयं आत्मा) (हन्यमाने शरीरे) न हन्यते',
     ],
-    transl  : [
+    prose  : [
       'The Self is never born, nor does it ever die;',
       'it does not come into being again, having once existed.',
       'It is unborn, eternal, everlasting, and ancient.',
       'It is not slain when the body is slain.',
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence      : [],
     meanings: [],
+    grammar      : [],
     notes   : [
       'न = not',
       'जायते = is born - (जन् - 4A - दिवादिः - to be born - कर्तरि लट् - प्र.पु. - एक.व.)',
@@ -405,14 +425,16 @@ const verses = [
       'यः एनम् अविनाशिनं नित्यं अजम् अव्ययम् वेद',
       'सः पुरुष: (कथं) कं घातयति कं हन्ति ?',
     ],
-    transl  : [
+    prose  : [
       'O Arjuna, he who knows the Self as indestructible, eternal, unborn, and unchanging — how can that person slay anyone, or cause anyone to be slain?',
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence      : [],
     meanings: [],
+    grammar      : [],
     notes   : [
       'वेद/वेत्ति = knows - (विद् - 2P - अदादिः - to know - कर्तरि लट् - प्र.पु. - एक.व.)',
       'अविनाशिनम् = indestructible',
@@ -454,14 +476,16 @@ const verses = [
       'तथा',
       '- देही जीर्णानि शरीराणि विहाय, नवानि अन्यानि संयाति |',
     ],
-    transl  : [
+    prose  : [
       'Just as a person discards old clothes and puts on new ones, so too the embodied Self discards old, worn-out bodies and enters new ones.',
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence      : [],
     meanings: [],
+    grammar      : [],
     notes   : [
       'वासांसि = clothes',
       'जीर्णानि = old / worn-out',
@@ -500,14 +524,16 @@ const verses = [
       'आपः च एनं न क्लेदयन्ति |',
       'मारुतः एनं न शोषयति |',
     ],
-    transl  : [
+    prose  : [
       'Weapons do not cut this Self, fire does not burn it, water does not wet it, and wind does not dry it.',
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence      : [],
     meanings: [],
+    grammar      : [],
     notes   : [
       'न = not',
       'एनम् = this (Self)',
@@ -540,14 +566,16 @@ const verses = [
       '- अच्छेद्य: अदाह्य: अक्लेद्य: अशोष्य: एव च |',
       '- नित्य: सर्वगत: स्थाणु: अचल: सनातन: |',
     ],
-    transl  : [
+    prose  : [
       'This Self is uncuttable, unburnable, unwettable, and undryable. It is eternal, all-pervading, stable, immovable, and everlasting.',
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence      : [],
     meanings: [],
+    grammar      : [],
     notes   : [
       'अच्छेद्य: = uncuttable',
       'अयम् = this (Self)',
@@ -582,14 +610,16 @@ const verses = [
       'तस्मात्',
       '- (त्वम्) एवम् विदित्वा एनम् न अनुशोचितुम् अर्हसि |',
     ],
-    transl  : [
+    prose  : [
       'This Self is said to be unmanifest, inconceivable, and unchanging. Therefore, having understood it thus, you should not grieve for it.',
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence      : [],
     meanings: [],
+    grammar      : [],
     notes   : [
       'अव्यक्त: = unmanifest / invisible',
       'अयम् = this (Self)',
@@ -625,14 +655,16 @@ const verses = [
       'तथापि',
       '- त्वम् एवम् न शोचितुम् अर्हसि |',
     ],
-    transl  : [
+    prose  : [
       'But even if you think of this Self as always being born and always dying, even then, O mighty-armed Arjuna, you should not grieve like this.',
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence      : [],
     meanings: [],
+    grammar      : [],
     notes   : [
       'अथ = but / or',
       'च = and',
@@ -670,14 +702,16 @@ const verses = [
       'तस्मात्',
       '- (अपरिहार्ये अर्थे), त्वम् न शोचितुम् अर्हसि |',
     ],
-    transl  : [
+    prose  : [
       'For one who is born, death is certain; and for one who has died, birth is certain. Therefore, in a situation that is unavoidable, you should not grieve.',
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence      : [],
     meanings: [],
+    grammar      : [],
     notes   : [
       'जातस्य = for one who is born',
       'हि = indeed / surely',
@@ -715,14 +749,16 @@ const verses = [
       'त्वम् स्वधर्मम् अवेक्ष्य, न विकम्पितुम् अर्हसि |',
       'धर्म्यात् युद्धात् हि, क्षत्रियस्य अन्यत् श्रेय: न विद्यते |',
     ],
-    transl  : [
+    prose  : [
       'Even considering your own duty (as a warrior), you should not waver. For a Kshatriya, there is no greater good than a righteous war.',
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence      : [],
     meanings: [],
+    grammar      : [],
     notes   : [
       'स्वधर्मम् = one\'s own duty',
       'अपि = even',
@@ -761,14 +797,16 @@ const verses = [
       '- (उपपन्नम् अपावृतम् स्वर्गद्वारम्) ईदृशम् युद्धम्',
       ' लभन्ते |',
     ],
-    transl  : [
+    prose  : [
       'O Partha, happy are the Kshatriyas who get such a battle as this, which comes of its own accord and opens the gates of heaven.',
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence      : [],
     meanings: [],
+    grammar      : [],
     notes   : [
       'यदृच्छया = by chance / spontaneously',
       'च = and',
@@ -803,14 +841,16 @@ const verses = [
       'तस्मात्',
       'युद्धाय कृतनिश्चय: उत्तिष्ठ |',
     ],
-    transl  : [
+    prose  : [
       'If slain, you will attain heaven; if victorious, you will enjoy the kingdom on earth. Therefore, O Kaunteya, arise with determination for battle.',
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence      : [],
     meanings: [],
+    grammar      : [],
     notes   : [
       'हतः = slain',
       'वा = or',
@@ -846,14 +886,16 @@ const verses = [
       'ततः युद्धाय युज्यस्व |',
       '(त्वं) एवम् पापम् न अवाप्स्यसि |',
     ],
-    transl  : [
+    prose  : [
       'Treating pleasure and pain, gain and loss, victory and defeat alike, then prepare for battle — thus, you will not incur sin.',
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence      : [],
     meanings: [],
+    grammar      : [],
     notes   : [
       'सुख = pleasure',
       'दुःखे = pain',
@@ -890,14 +932,16 @@ const verses = [
       '(त्वं) इमां (बुद्धिं) योगे शृणु |',
       'तु यया बुद्ध्या युक्तः (त्वं) कर्मबन्धं प्रहास्यसि |',
     ],
-    transl  : [
+    prose  : [
       'So far, I have explained to you this Buddhi (wisdom) in the context of Sankhya (analytical knowledge). Now listen to this in the context of Yoga (action). Indeed, when you are endowed with this wisdom, O Partha, you will be freed from the bondage of action.',
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence      : [],
     meanings: [],
+    grammar      : [],
     notes   : [
       'एषा = this',
       'ते = to you',
@@ -935,14 +979,16 @@ const verses = [
       'प्रत्यवायः न विद्यते |',
       'अस्य धर्मस्य स्वल्पम् अपि महतः भयात् त्रायते |',
     ],
-    transl  : [
+    prose  : [
       'In this path, there is no loss of effort, nor is there any adverse result. Even a little practice of this dharma protects one from great fear.',
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence      : [],
     meanings: [],
+    grammar      : [],
     notes   : [
       'न = not',
       'इह = in this (path or practice)',
@@ -978,14 +1024,16 @@ const verses = [
       'वेदाः त्रैगुण्य-विषयाः (सन्ति) |',
       '(त्वं) निस्त्रैगुण्यः निर्द्वन्द्वः नित्य-सत्त्व-स्थः निर्योग-क्षेमः आत्मवान् भव |',
     ],
-    transl  : [
+    prose  : [
       'The Vedas are concerned with the three guṇas, O Arjuna. You become one who is beyond these guṇas, free from the dualities, ever established in purity (sattva), without anxiety for gain and preservation, and self-realized (situated in the self).',
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence      : [],
     meanings: [],
+    grammar      : [],
     notes   : [
       'त्रैगुण्यविषयाः = concerned with the three gunas (modes of nature)',
       'वेदाः = the Vedas',
@@ -1017,15 +1065,17 @@ const verses = [
       'कर्मफलहेतुः मा भूः |',
       'अकर्मणि ते सङ्गः मा अस्तु |',
     ],
-    transl  : [
+    prose  : [
       'You have the right only to perform your duties, not to the fruits of actions. Never consider yourself the cause of the results of your actions, nor be attached to inaction.',
       'At any time, Your right is only in action, not in the fruits of action. Do not become the cause of the fruits of action, nor be attached to inaction.',
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence      : [],
     meanings: [],
+    grammar      : [],
     notes   : [
       'कर्मणि = in action / in your duties',
       'एव = only / indeed',
@@ -1060,14 +1110,16 @@ const verses = [
       'कर्माणि कुरु |',
       'समत्वं योगः उच्यते |',
     ],
-    transl  : [
+    prose  : [
       'O Dhananjaya, perform your duties being established in yoga, abandoning attachment, and remaining equal in success and failure. Such equanimity is called Yoga.',
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence      : [],
     meanings: [],
+    grammar      : [],
     notes   : [
       'योगस्थः = established in yoga',
       'कुरु = perform',
@@ -1103,17 +1155,18 @@ const verses = [
       '(त्वं) बुद्धौ शरणम् अन्विच्छ |',
       'फलहेतव: कृपणा: |',
     ],
-    transl  : [
+    prose  : [
       'O Dhananjaya (Arjuna), motivated action is far inferior to the yoga of wisdom.',
       'Take refuge in pure divine intelligence', 
       'those who seek the fruits of their actions are indeed pitiable (miserly).',
     ],
-    essence : [
+    transl : [
       'Seek refuge in divine knowledge and insight, O Arjuna, and discard reward-seeking actions that are certainly inferior to works performed with the intellect established in divine knowledge. Miserly are those who seek to enjoy the fruits of their works.',
     ],
-    essence_tel: [
+    transl_tel: [
       "ఓ ధనంజయ! నిష్కామ బుద్ధియోగము కంటే ఫలాపేక్షతో చేసే కర్మ అత్యంత అధమమైనది. కావున నీవు సమత్వ బుద్ధిని ఆశ్రయించుము. ఫలాపేక్షతో కర్మలు చేసేవారు దీనులు (అల్పులు).",
     ],
+    essence      : [],
     meanings: [
       'Durena: By far',
       'Hi: Indeed',
@@ -1126,6 +1179,7 @@ const verses = [
       'Kripanah: Pitiable / Miserly',
       'Phala-hetavah: Those motivated by results'
     ],
+    grammar      : [],
     notes   : [
       'Lord Krishna explains that action performed with an eye on the result (Sakama Karma) is much lower than action performed with equanimity and wisdom (Buddhi Yoga). He encourages Arjuna to seek shelter in wisdom rather than being driven by the anxiety of rewards.',
       'This verse introduces the concept of Buddhi Yoga as a superior path to mere ritualistic or result-oriented action.',
@@ -1155,17 +1209,18 @@ const verses = [
       'तस्मात् योगाय युज्यस्व |', 
       'योग: कर्मसु कौशलम् ||',
     ],
-    transl  : [
+    prose  : [
       'One who is united with equanimous wisdom casts away both good and evil deeds in this life.',
       'Therefore, strive for Yoga;', 
       'Yoga is the art of performing all actions with excellence and skill.',
     ],
-    essence : [
+    transl : [
       'This verse defines "Yoga" as "Karmasu Kaushalam"—skill in action. A person who acts with a balanced mind (Buddhi-yukta) is not bound by the karmic reactions of "good" or "bad" deeds. By staying unattached to the result, the action becomes a tool for liberation rather than a cause of bondage.'
     ],
-    essence_tel: [
+    transl_tel: [
       "సమత్వ బుద్ధి కలిగినవాడు ఈ లోకములోనే పుణ్యపాపములు రెండింటినీ విడిచిపెడతాడు. కాబట్టి నీవు యోగమును అవలంబించుము. కర్మల యందు నైపుణ్యమే యోగము.",
     ],
+    essence      : [],
     meanings: [
       'Buddhi-yuktah: One endowed with equanimity',
       'Jahati: Casts off / Relinquishes',
@@ -1178,6 +1233,7 @@ const verses = [
       'Karmasu: In actions',
       'Kaushalam: Skill / Excellence / Art'
     ],
+    grammar      : [],
     notes   : [
       'The phrase "Yogaḥ karmasu kauśalam" is one of the most famous definitions of Yoga in the Gita.',
       'It implies that when work is done without the anxiety of the result, the mind is clear, leading to natural efficiency and perfection in the task at hand.',
@@ -1206,17 +1262,18 @@ const verses = [
       '- हि (कर्मजं) फलं त्यक्त्वा',
       '(अनामयम्) पदं गच्छन्ति ||',
     ],
-    transl  : [
+    prose  : [
       'The wise, possessed of equanimous intelligence, who are freed from bondage of birth', 
       '- having abandoned the fruits that are born of action,',
       'attain that state which is beyond all suffering.',
     ],
-    essence : [
+    transl : [
       'This verse describes the ultimate result of practicing Buddhi Yoga. By relinquishing attachment to the results of their work, the wise (Manishinah) break the cycle of karma. They are no longer bound by the necessity of rebirth and reach the "Anamayam Padam"—the supreme, stainless state of eternal peace.'
     ],
-    essence_tel: [
+    transl_tel: [
       "సమత్వ బుద్ధి గల జ్ఞానులు కర్మల వల్ల కలిగే ఫలితాలను త్యజించి, జన్మ అనే బంధం నుండి విముక్తులై, ఎటువంటి దుఃఖము లేని పరమపదాన్ని (మోక్షాన్ని) పొందుతారు.",
     ],
+    essence      : [],
     meanings: [
       'Karma-jam: Born of action',
       'Buddhi-yuktah: Endowed with equanimity',
@@ -1229,6 +1286,7 @@ const verses = [
       'Gacchanti: They go / attain',
       'Anamayam: Without ailment / Beyond suffering'
     ],
+    grammar      : [],
     notes : [
       'The term "Manishinah" highlights that this isn\'t just intellectual knowledge, but realized wisdom that controls the mind.',
       'Anamayam (A-maya) literally means "without disease" or "beyond the influence of Maya," referring to the state of Nirvana or Moksha.',
@@ -1255,16 +1313,17 @@ const verses = [
       'यदा ते बुद्धि: मोह-कलिलं व्यतितरिष्यति |',
       'तदा (त्वं) श्रोतव्यस्य श्रुतस्य च निर्वेदं गन्तासि ||',
     ],
-    transl  : [
+    prose  : [
       'When your intellect crosses beyond the mire of delusion,',
       'then you shall attain indifference to what has been heard and what is yet to be heard.',
     ],
-    essence : [
+    transl : [
       'Lord Krishna tells Arjuna that there comes a point in spiritual evolution where the intellect becomes so clear that it is no longer confused by worldly desires or conflicting scriptural opinions. This state of "Nirvedam" (dispassion) arises when one realizes the Truth directly, making further theoretical knowledge or ritualistic promises redundant.'
     ],
-    essence_tel: [
+    transl_tel: [
       "నీ బుద్ధి ఎప్పుడు మోహమనేడి కలుషితమైన అడవిని దాటుతుందో, అప్పుడు నీవు వినదగిన వాటి గురించి, వినిన వాటి గురించి వైరాగ్యాన్ని (నిర్వేదాన్ని) పొందుతావు.",
     ],
+    essence      : [],
     meanings: [
       'Yada: When',
       'Te: Your',
@@ -1278,6 +1337,7 @@ const verses = [
       'Shrutasya: Of what has been heard',
       'Cha: And'
     ],
+    grammar      : [],
     notes : [
       'The "Mire of Delusion" (Moha-kalilam) refers to the confusion caused by identifying the Self with the body and getting lost in worldly attachments.',
       'This verse marks the transition from being a student of "theory" to a master of "experience." When the goal is reached, the map (scriptures) is no longer the focus.',
@@ -1311,16 +1371,17 @@ const verses = [
       '- निश्चला (सती) समाधौ अचला स्थास्यति |',
       'तदा योगम् अवाप्स्यसि ||',
     ],
-    transl  : [
+    prose  : [
       'When your intellect, which is currently confused by conflicting scriptural opinions,',
       'stands immovable and steady in Samadhi (divine absorption), then you shall attain Yoga.',
     ],
-    essence : [
+    transl : [
       'Krishna explains that the final stage of spiritual evolution is when the intellect stops wavering between different paths, rituals, or arguments. When the "Buddhi" becomes "Nishchala" (motionless) and "Achala" (unshakable) in its focus on the Divine, the state of true Yoga (Union) is realized.'
     ],
-    essence_tel: [
+    transl_tel: [
       "వివిధ శాస్త్ర వాక్యాలచేత అయోమయానికి గురైన నీ బుద్ధి ఎప్పుడు పరమాత్మ యందు నిశ్చలంగా, స్థిరంగా నిలుస్తుందో, అప్పుడే నీవు అసలైన యోగాన్ని పొందుతావు.",
     ],
+    essence      : [],
     meanings: [
       'Shruti-vipratipanna: Confused by various interpretations of the Vedas/Scriptures',
       'Te: Your',
@@ -1334,6 +1395,7 @@ const verses = [
       'Yogam: Yoga / Union with the Divine',
       'Avapsyasi: You shall attain'
     ],
+    grammar      : [],
     notes : [
       'Shruti-vipratipanna describes the "Information Overload" Arjuna was facing. Too many opinions on what is right and wrong.',
       'Nishchala (No motion) and Achala (No shaking) are two levels of stability. The first is about stopping the wandering, the second is about staying firm against external pressure.',
@@ -1372,16 +1434,17 @@ const verses = [
       'केशव! समाधि-स्थ-स्य स्थित-प्रज्ञ-स्य का भाषा? |',
       'स्थित-धीः किम् प्रभाषेत? किम् आसीत? किम् व्रजेत? ||'
     ],
-    transl  : [
+    prose  : [
       'Arjuna said: O Keshav (Krishna), what are the characteristics of a person whose intellect is steady and who is established in Samadhi?',
       'How does that person of steady wisdom speak? How does he sit? How does he walk?'
     ],
-    essence : [
+    transl : [
       'Arjun said : O Keshava, what is the disposition of one who is situated in divine consciousness? How does an enlightened person talk? How does he sit? How does he walk?',
     ],
-    essence_tel: [
+    transl_tel: [
       "కేశవా! సమాధి స్థితిలో ఉండి, స్థిరమైన బుద్ధి కలిగిన వాని లక్షణాలు ఏమిటి? అట్టి స్థితప్రజ్ఞుడు ఎలా మాట్లాడుతాడు? ఎలా కూర్చుంటాడు? ఎలా నడుస్తాడు?",
     ],
+    essence      : [],
     meanings: [
       'Sthita-prajñasya: Of the one with steady wisdom/intellect',
       'Kā: What',
@@ -1394,6 +1457,7 @@ const verses = [
       'Āsīta: Sits',
       'Vrajeta: Walks / Moves'
     ],
+    grammar      : [],
     notes : [
       'This verse introduces the famous concept of the "Sthitaprajna" (The person of steady wisdom).',
       'Arjuna is asking about the "Symptoms" of realization. He wants to know if spiritual enlightenment changes a person\'s basic interactions with the world.',
@@ -1429,7 +1493,7 @@ const verses = [
       'तदा',
       '- (स:) स्थितप्रज्ञ: उच्यते |',
     ],
-    transl       : [
+    prose       : [
       'The Supreme Lord said:',
       'O Parth, when a person',
       '- gives up all the desires that entered into the mind,',
@@ -1437,12 +1501,13 @@ const verses = [
       'then, that person',
       '- is said to be of steady wisdom (Sthitaprajna).',
     ],
-    essence      : [
+    transl      : [
       'The Supreme Lord said: O Parth, when one discards all selfish desires and cravings of the senses that torment the mind, and becomes satisfied in the realization of the self, such a person is said to be transcendentally situated.',
     ],
-    essence_tel  : [
+    transl_tel  : [
       'ఓ పార్థా! మానవుడు తన మనస్సులోని కోరికలన్నింటినీ ఎప్పుడు పరిత్యజిస్తాడో, తనలో తానుగా ఆత్మారాముడై ఎప్పుడు సంతుష్టి చెందుతాడో, అప్పుడు అతను స్థితప్రజ్ఞుడు అని పిలువబడతాడు.',
     ],
+    essence      : [],
     meanings     : [
       'Prajahati: Thoroughly casts off / Renounces',
       'Yada: When',
@@ -1458,6 +1523,7 @@ const verses = [
       'Tada: Then',
       'Uchyate: Is said / Is called',
     ],
+    grammar      : [],
     notes        : [
       'The word Manogatan (residing in the mind) is crucial. It suggests that desires are not in the objects themselves, but in the mental imprints we have of them.',
       'The phrase Atmanyeva Atmana Tushtah describes a Closed Loop of Joy where the source and the enjoyer of happiness are the same.',
@@ -1493,19 +1559,20 @@ const verses = [
       '(सः)', 
       '- स्थितधीः मुनिः उच्यते ||',
     ],
-    transl       : [
+    prose       : [
       'One', 
       '- whose mind remains undisturbed amidst sorrows,',
       '- who is free from longing amidst pleasures,',
       '- (and) who is devoid of attachment, fear, and anger,',
       'He is called a sage of steady intellect.',
     ],
-    essence      : [
+    transl      : [
       'He whose mind is not shaken by adversity, who does not hanker after pleasures, and is free from attachment, fear and anger, is called a sage of steady wisdom.',
     ],
-    essence_tel  : [
+    transl_tel  : [
       'దుఃఖాలు కలిగినప్పుడు కలత చెందని మనస్సు, సుఖాలు కలిగినప్పుడు వాటిపై కోరిక లేనివాడు, రాగము, భయము, కోపము పోయినవాడు ఎవరో.. అతడే స్థితప్రజ్ఞుడైన ముని అని చెప్పబడుతాడు.',
     ],
+    essence      : [],
     meanings     : [
       'Duhkheshu: Amidst sorrows / miseries',
       'Anudvignamanah: One whose mind is not agitated',
@@ -1519,6 +1586,7 @@ const verses = [
       'Munih: A sage / contemplative one',
       'Uchyate: Is called',
     ],
+    grammar      : [],
     notes        : [
       'Anudvigna-manah literally means "not trembling." Even when sorrow hits, the mind does not shake.',
       'Vigata-sprihah means the thirst (spriha) for repeating pleasurable experiences has gone. He enjoys what comes but does not crave its return.',
@@ -1555,18 +1623,19 @@ const verses = [
       '- तत् तत् शुभाशुभम् प्राप्य न अभिनन्दति न द्वेष्टि |',
       'तस्य प्रज्ञा प्रतिष्ठिता (अस्ति) |',
     ],
-    transl       : [
+    prose       : [
       'He who', 
       '- is unattached everywhere (in all situations) and,',
       '- neither rejoices nor hates having obtained that which is pleasant and unpleasant,',
       'his wisdom is firmly established.',
     ],
-    essence      : [
+    transl      : [
       'One who remains unattached under all conditions, and is neither delighted by good fortune nor dejected by tribulation, he is a sage with perfect knowledge.',
     ],
-    essence_tel  : [
+    transl_tel  : [
       'ఎవడైతే దేనియందును ఆసక్తి లేనివాడై, ఆయా శుభాశుభములు కలిగినప్పుడు సంతోషించడో, ద్వేషించడో, అట్టివాని ప్రజ్ఞ స్థిరమైనదని చెప్పబడుతుంది.',
     ],
+    essence      : [],
     meanings     : [
       'Yah: He who / Who',
       'Sarvatra: Everywhere / In all situations',
@@ -1581,6 +1650,7 @@ const verses = [
       'Prajna: Wisdom / Intelligence',
       'Pratishthita: Firmly established / Fixed',
     ],
+    grammar      : [],
     notes        : [
       'Anabhisnehah literally means "without oily stickiness." Sneha refers to oil or affection; the sage is like a lotus leaf where water (events) can touch it but never stick.',
       'Shubha and Ashubham refer to the dualities of life—favorable and unfavorable circumstances.',
@@ -1611,17 +1681,18 @@ const verses = [
       '- अयम् इन्द्रियाणि इन्द्रियार्थेभ्यः (कूर्मः अङ्गानि इव) सर्वशः संहरते', 
       'तस्य प्रज्ञा प्रतिष्ठिता ||',
     ],
-    transl       : [
+    prose       : [
       'And when ',
       '- one can completely withdraw the senses from their objects, (as a tortoise draws its limbs into its shell),',
       'then his wisdom is firmly established.',
     ],
-    essence      : [
+    transl      : [
       'One who is able to withdraw the senses from their objects, just as a tortoise withdraws its limbs into its shell, is established in divine wisdom.',
     ],
-    essence_tel  : [
+    transl_tel  : [
       'తాబేలు తన అవయవాలను చిప్పలోనికి ఎలాగైతే ఉపసంహరించుకుంటుందో, అలానే ఎవరైతే తన ఇంద్రియాలను ఇంద్రియ విషయాల నుండి (శబ్ద, స్పర్శ, రూప, రస, గంధాల నుండి) పూర్తిగా మరల్చుకుంటాడో, అతని ప్రజ్ఞ స్థిరమైనదని గ్రహించాలి.',
     ],
+    essence      : [],
     meanings     : [
       'Yada: When',
       'Samharate: Withdraws / Pulls back',
@@ -1637,6 +1708,7 @@ const verses = [
       'Prajna: Wisdom',
       'Pratishthita: Firmly established',
     ],
+    grammar      : [],
     notes        : [
       'The Tortoise Analogy: The shell represents the internal space of the Self (Atman). The limbs are the senses. The world is the outside environment.',
       'Voluntary Control: The tortoise does not lose its limbs; it simply chooses when to use them. Similarly, a sage is not blind or deaf; they simply choose not to be "dragged" by what they see or hear.',
@@ -1666,17 +1738,18 @@ const verses = [
       'निराहारस्य देहिनः विषयाः रसवर्जम् विनिवर्तन्ते |',
       'अस्य (यतेः) परम् दृष्ट्वा रसः अपि निवर्तते ||',
     ],
-    transl       : [
+    prose       : [
       'The objects of the senses fade away for the person',
       'who practices sensory abstinence, but the "taste" (craving) for them remains.',
       'Even this taste vanishes when one experiences the Supreme Reality.',
     ],
-    essence      : [
+    transl      : [
       'Aspirants may restrain the senses from their objects of enjoyment, but the taste for the sense objects remains. However, even this taste ceases for those who realize the Supreme.',
     ],
-    essence_tel  : [
+    transl_tel  : [
       'ఇంద్రియాలకు ఆహారాన్ని (విషయాలను) అందించని దేహికి ఆయా విషయాలు దూరమవుతాయి కానీ, వాటిపై ఉన్న రుచి (ఆసక్తి) మాత్రం పోదు. కానీ పరమాత్మను దర్శించినప్పుడు ఆ మిగిలి ఉన్న రుచి కూడా నశిస్తుంది.',
     ],
+    essence      : [],
     meanings     : [
       'Vishayah: Objects of the senses',
       'Vinivartante: Fall away / Recede',
@@ -1690,6 +1763,7 @@ const verses = [
       'Drishtva: Having seen / experienced',
       'Nivartate: Ceases / Vanishes',
     ],
+    grammar      : [],
     notes        : [
       'Nirahara: While it literally means fasting, in the Gita context it refers to "starving the senses" of their objects.',
       'The "Rasa" Problem: Suppression is not the same as transcendence. A person on a diet still thinks about cake; that "thought" is Rasa.',
@@ -1720,18 +1794,19 @@ const verses = [
       'मनः प्रसभम् हरन्ति |',
       '- (यततः) (विपश्चितः) पुरुषस्य अपि',
     ],
-    transl       : [
+    prose       : [
       'O son of Kunti!',
       'Indeed the turbulent senses',      
       'forcibly carry away the mind',
       '- of even a wise person who is striving to control them',
     ],
-    essence      : [
+    transl      : [
       'The senses are so strong and turbulent, O son of Kunti, that they can forcibly carry away the mind even of a person endowed with discrimination who practices self-control.',
     ],
-    essence_tel  : [
+    transl_tel  : [
       'ఓ కుంతీ పుత్రా! మోక్షం కోసం ప్రయత్నించే వివేకవంతుడైన పురుషుని మనస్సును కూడా, ఈ బలమైన ఇంద్రియాలు బలాత్కారంగా విషయాల వైపుకు లాక్కొనిపోతాయి.',
     ],
+    essence      : [],
     meanings     : [
       'Yatatah: Of the one who is striving / endeavoring',
       'Hi: Indeed / Certainly',
@@ -1745,6 +1820,7 @@ const verses = [
       'Prasabham: Forcibly / By violence',
       'Manah: The mind',
     ],
+    grammar      : [],
     notes        : [
       'Pramathini: This comes from the root Math (to churn). The senses churn the mind like someone churning butter, leaving it completely agitated.',
       'Prasabham: This implies "rape" or "violent abduction." It shows that the senses do not ask for permission; they simply overwhelm the intellect through brute force.',
@@ -1780,16 +1856,17 @@ const verses = [
       'तानि सर्वाणि संयम्य मत्परः युक्तः आसीत |',
       'हि यस्य इन्द्रियाणि वशे (सन्ति) तस्य प्रज्ञा प्रतिष्ठिता |',
     ],
-    transl       : [
+    prose       : [
       'Having restrained all the senses, one should sit in meditation, focusing the mind on Me (the Supreme).',
       '(Indeed) One whose senses are under control, his wisdom is firmly established.',
     ],
-    essence      : [
+    transl      : [
       'They are established in perfect knowledge, who subdue their senses and keep their minds ever absorbed in Me.',
     ],
-    essence_tel  : [
+    transl_tel  : [
       'వాటన్నింటినీ (ఇంద్రియాలను) అదుపులోకి తెచ్చుకొని, నా యందే మనస్సు నిలిపి యుక్తుడై ఉండాలి. ఎవరి ఇంద్రియాలు తన ఆధీనంలో ఉంటాయో, వాని బుద్ధి స్థిరమైనది.',
     ],
+    essence      : [],
     meanings     : [
       'Tani: Them (the senses)',
       'Sarvani: All / Entirely',
@@ -1805,6 +1882,7 @@ const verses = [
       'Prajna: Wisdom',
       'Pratishthita: Firmly established',
     ],
+    grammar      : [],
     notes        : [
       'Mat-parah: This is the turning point of the Gita\’s psychology. Krishna suggests that the mind cannot be empty; if you pull it away from the world, you must give it a higher "anchor" (the Divine).',
       'Samyamya vs. Prasabham: While the senses act with "Brute Force" (Prasabham), the seeker acts with "Restraint" (Samyamya).',
