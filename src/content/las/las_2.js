@@ -10,7 +10,7 @@ const verses = [
       "ప్రకృతిం వికృతిం విద్యాం సర్వభూతహితప్రదామ్ |",
       "శ్రద్ధాం విభూతిం సురభిం నమామి పరమాత్మికామ్ ॥ ౧॥"
     ],
-    "vicheda": [], "anvaya": [], "transl": [], "essence": [], "essence_tel": [], "meanings": [], "notes": []
+    "vicheda": [], "anvaya": [], "prose": [], "transl": [], "transl_tel": [], "essence": [], "meanings": [], "grammar": [], "notes": []
   },
   {
     "chapter": 2,
@@ -23,7 +23,7 @@ const verses = [
       "వాచం పద్మాలయాం పద్మాం శుచిం స్వాహాం స్వధాం సుధామ్ |",
       "ధన్యాం హిరణ్మయీం లక్ష్మీం నిత్యపుష్టాం విభావరీమ్ ॥ ౨॥"
     ],
-    "vicheda": [], "anvaya": [], "transl": [], "essence": [], "essence_tel": [], "meanings": [], "notes": []
+    "vicheda": [], "anvaya": [], "prose": [], "transl": [], "transl_tel": [], "essence": [], "meanings": [], "grammar": [], "notes": []
   },
   {
     "chapter": 2,
@@ -36,7 +36,7 @@ const verses = [
       "అదితిం చ దితిం దీప్తాం వసుధాం వసుధారిణీమ్ |",
       "నమామి కమలాం కాన్తాం కామాక్షీం క్రోధసమ్భవామ్ ॥ ౩॥"
     ],
-    "vicheda": [], "anvaya": [], "transl": [], "essence": [], "essence_tel": [], "meanings": [], "notes": []
+    "vicheda": [], "anvaya": [], "prose": [], "transl": [], "transl_tel": [], "essence": [], "meanings": [], "grammar": [], "notes": []
   },
   {
     "chapter": 2,
@@ -49,7 +49,7 @@ const verses = [
       "అనుగ్రహపదాం బుద్ధిం అనఘాం హరివల్లభామ్ |",
       "అశోకా మమృతాం దీప్తాం లోకశోకవినాశినీమ్ ॥ ౪॥"
     ],
-    "vicheda": [], "anvaya": [], "transl": [], "essence": [], "essence_tel": [], "meanings": [], "notes": []
+    "vicheda": [], "anvaya": [], "prose": [], "transl": [], "transl_tel": [], "essence": [], "meanings": [], "grammar": [], "notes": []
   },
   {
     "chapter": 2,
@@ -62,7 +62,7 @@ const verses = [
       "నమామి ధర్మనిలయాం కరుణాం లోకమాతరమ్ |",
       "పద్మప్రియాం పద్మహస్తాం పద్మాక్షీం పద్మసున్దరీమ్ ॥ ౫॥"
     ],
-    "vicheda": [], "anvaya": [], "transl": [], "essence": [], "essence_tel": [], "meanings": [], "notes": []
+    "vicheda": [], "anvaya": [], "prose": [], "transl": [], "transl_tel": [], "essence": [], "meanings": [], "grammar": [], "notes": []
   },
   {
     "chapter": 2,
@@ -75,7 +75,7 @@ const verses = [
       "పద్మోద్భవాం పద్మముఖీం పద్మనాభప్రియాం శుభామ్ |",
       "పద్మమాలాధరాం దేవీం పద్మినీం పద్మగన్ధినీమ్ ॥ ౬॥"
     ],
-    "vicheda": [], "anvaya": [], "transl": [], "essence": [], "essence_tel": [], "meanings": [], "notes": []
+    "vicheda": [], "anvaya": [], "prose": [], "transl": [], "transl_tel": [], "essence": [], "meanings": [], "grammar": [], "notes": []
   },
   {
     "chapter": 2,
@@ -88,7 +88,7 @@ const verses = [
       "పుణ్యగన్ధాం సుప్రసన్నాం ప్రసాదాభిముఖీం ప్రభామ్ |",
       "నమామి చన్ద్రవదనాం చన్ద్రాం చన్ద్రసహోదరీమ్ ॥ ౭॥"
     ],
-    "vicheda": [], "anvaya": [], "transl": [], "essence": [], "essence_tel": [], "meanings": [], "notes": []
+    "vicheda": [], "anvaya": [], "prose": [], "transl": [], "transl_tel": [], "essence": [], "meanings": [], "grammar": [], "notes": []
   },
   {
     "chapter": 2,
@@ -101,7 +101,7 @@ const verses = [
       "చతుర్భుజాం చన్ద్రరూపాం ఇన్దిరామిన్దుశీతలామ్ |",
       "ఆహ్లాదజననీం పుష్టిం శివాం శివకరీం సతీమ్ ॥ ౮॥"
     ],
-    "vicheda": [], "anvaya": [], "transl": [], "essence": [], "essence_tel": [], "meanings": [], "notes": []
+    "vicheda": [], "anvaya": [], "prose": [], "transl": [], "transl_tel": [], "essence": [], "meanings": [], "grammar": [], "notes": []
   },
   {
     "chapter": 2,
@@ -114,7 +114,7 @@ const verses = [
       "విమలాం విశ్వజననీం తుష్టిం దారిద్ర్యనాశినీమ్ |",
       "ప్రీతిపుష్కరిణీం శాన్తాం శుక్లాల్యామ్బరా శుభామ్ ॥ ౯॥"
     ],
-    "vicheda": [], "anvaya": [], "transl": [], "essence": [], "essence_tel": [], "meanings": [], "notes": []
+    "vicheda": [], "anvaya": [], "prose": [], "transl": [], "transl_tel": [], "essence": [], "meanings": [], "grammar": [], "notes": []
   },
   {
     "chapter": 2,
@@ -127,7 +127,7 @@ const verses = [
       "భాస్కరీం బిల్వనిలయాం వరారోహాం యశస్వినీమ్ |",
       "వసున్ధరాముదారాఙ్గాం హరిణీం హేమమాలినీమ్ ॥ ౧౦॥"
     ],
-    "vicheda": [], "anvaya": [], "transl": [], "essence": [], "essence_tel": [], "meanings": [], "notes": []
+    "vicheda": [], "anvaya": [], "prose": [], "transl": [], "transl_tel": [], "essence": [], "meanings": [], "grammar": [], "notes": []
   },
   {
     "chapter": 2,
@@ -140,7 +140,7 @@ const verses = [
       "ధనధాన్యకరీం సిద్ధిం స్త్రైణసౌమ్యాం శుభప్రదామ్ |",
       "నృపవేశ్మగతాన్దాన్దాం వరాలక్ష్మీం వసుప్రదామ్ ॥ ౧౧॥"
     ],
-    "vicheda": [], "anvaya": [], "transl": [], "essence": [], "essence_tel": [], "meanings": [], "notes": []
+    "vicheda": [], "anvaya": [], "prose": [], "transl": [], "transl_tel": [], "essence": [], "meanings": [], "grammar": [], "notes": []
   },
   {
     "chapter": 2,
@@ -153,7 +153,7 @@ const verses = [
       "శుభాం హిరణ్యప్రాకారాం సముద్రతనయాం జయామ్ |",
       "నమామి మఙ్గలాం దేవీం విష్ణువక్షఃస్థలస్థితామ్ ॥ ౧౨॥"
     ],
-    "vicheda": [], "anvaya": [], "transl": [], "essence": [], "essence_tel": [], "meanings": [], "notes": []
+    "vicheda": [], "anvaya": [], "prose": [], "transl": [], "transl_tel": [], "essence": [], "meanings": [], "grammar": [], "notes": []
   },
   {
     "chapter": 2,
@@ -166,7 +166,7 @@ const verses = [
       "విష్ణుపత్నీం ప్రసన్నాక్షీం నారాయణసమాశ్రితామ్ |",
       "దారిద్ర్యధ్వంసినీం దేవీం సర్వోపద్రవవారిణీమ్ ॥ ౧౩॥"
     ],
-    "vicheda": [], "anvaya": [], "transl": [], "essence": [], "essence_tel": [], "meanings": [], "notes": []
+    "vicheda": [], "anvaya": [], "prose": [], "transl": [], "transl_tel": [], "essence": [], "meanings": [], "grammar": [], "notes": []
   },
   {
     "chapter": 2,
@@ -179,7 +179,7 @@ const verses = [
       "నవదుర్గాం మహాకాలీం బ్రహ్మవిష్ణుశివాత్మికామ్ |",
       "త్రికాలజ్ఞానసమ్పన్నాం నమామి భువనేశ్వరీమ్ ॥ ౧౪॥"
     ],
-    "vicheda": [], "anvaya": [], "transl": [], "essence": [], "essence_tel": [], "meanings": [], "notes": []
+    "vicheda": [], "anvaya": [], "prose": [], "transl": [], "transl_tel": [], "essence": [], "meanings": [], "grammar": [], "notes": []
   },
   {
     "chapter": 2,
@@ -192,7 +192,7 @@ const verses = [
       "లక్ష్మీం క్షీరసముద్రరాజతనయాం శ్రీరఙ్గధామేశ్వరీమ్ |",
       "దాసీభూతసమస్తదేవవనితాం లోకైకదీపాఙ్కురామ్ ॥ ౧౫॥"
     ],
-    "vicheda": [], "anvaya": [], "transl": [], "essence": [], "essence_tel": [], "meanings": [], "notes": []
+    "vicheda": [], "anvaya": [], "prose": [], "transl": [], "transl_tel": [], "essence": [], "meanings": [], "grammar": [], "notes": []
   },
   {
     "chapter": 2,
@@ -205,7 +205,7 @@ const verses = [
       "శ్రీమన్మన్దకటాక్షలబ్ధవిభవబ్రహ్మేన్ద్రగఙ్గాధరామ్ |",
       "త్వాం త్రైలోక్యకుటుమ్బినీం సరసిజాం వన్దే ముకున్దప్రియామ్ ॥ ౧౬॥"
     ],
-    "vicheda": [], "anvaya": [], "transl": [], "essence": [], "essence_tel": [], "meanings": [], "notes": []
+    "vicheda": [], "anvaya": [], "prose": [], "transl": [], "transl_tel": [], "essence": [], "meanings": [], "grammar": [], "notes": []
   },
   {
     "chapter": 2,
@@ -222,7 +222,7 @@ const verses = [
       "క్షీరోదజే కమలకోమలగర్భగౌరి",
       "లక్ష్మీ ప్రసీద సతతం నమతాం శరణ్యే ॥ ౧౯॥"
     ],
-    "vicheda": [], "anvaya": [], "transl": [], "essence": [], "essence_tel": [], "meanings": [], "notes": []
+    "vicheda": [], "anvaya": [], "prose": [], "transl": [], "transl_tel": [], "essence": [], "meanings": [], "grammar": [], "notes": []
   }
 ];
 
