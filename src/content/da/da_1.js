@@ -256,7 +256,7 @@ const verses = [
       "ते इदम् गोपाल-बालम् वपुः सदा मे मनसि आविरास्ताम्",
       "अन्यैः किम्?",
     ],
-    transl  : [
+    prose  : [
       "O Lord! In this world,",
       "I",
       "- any boon,",
@@ -268,12 +268,13 @@ const verses = [
       "This form of Yours as a cowherd child (Bala Gopala) may always remain manifest in my heart,",
       "What is the use of any other boon to me?",
     ],
-    essence : [
+    transl : [
       "O Lord, although You are able to give all kinds of benedictions, I do not pray to You for the boon of impersonal liberation, nor the highest liberation of eternal life in Vaikuntha, nor any other boon (which may be obtained by executing the nine processes of bhakti). O Lord, I simply wish that this form of Yours as Bala Gopala in Vrndavana may ever be manifest in my heart, for what is the use to me of any other boon besides this?",
     ],
-    essence_tel: [
+    transl_tel: [
       "ఓ దేవా! నీవు సమస్త వరములను ప్రసాదించగలవాడవు అయినప్పటికీ, నాకు మోక్షం వద్దు, మోక్షమునకు పరాకాష్ట అయిన వైకుంఠ ప్రాప్తి వద్దు, మరితర వరములు కూడా వద్దు. ఓ నాథా! నీ ఈ బాల గోపాల రూపం నా మనస్సులో ఎల్లప్పుడూ నిలిచి ఉంటే చాలు. అది లేని నాడు ఇతర వరములతో నాకేమి పని?",
     ],
+    essence : [],
     meanings: [
       "varam: boon",
       "deva: O Lord",
@@ -293,6 +294,7 @@ const verses = [
       "āvirāstām: may it be manifest",
       "kim anyaiḥ: what is the use of others?",
     ],
+    grammar : [],
     notes   : [
       "The phrase 'mokṣa-avadhim' typically refers to the state of Sayujya-mukti (merging into the Brahman) or the opulences of Vaikuntha, both of which a pure devotee sets aside in favor of seeing the Lord.",
       "The use of 'Gopala-balam' emphasizes the specific beauty of Krishna's childhood form over His more majestic (Aisvarya) forms.",
@@ -327,7 +329,7 @@ const verses = [
       "मे मनसि आविरास्ताम्,",
       "लक्ष-लाभैः अलम् ।",
     ],
-    transl  : [
+    prose  : [
       "This lotus face of yours",
       "- is encircled by locks of soft black hair tinged with red,",
       "- is kissed again and again by mother Yasoda,",
@@ -335,12 +337,13 @@ const verses = [
       "May this form of yours always manifest in my heart",
       "What is the use of thousands of other gains to me?",
     ],
-    essence : [
+    transl : [
       "O Lord, Your lotus face, which is encircled by locks of soft black hair tinged with red, is kissed again and again by mother Yasoda, and Your lips are reddish like the bimba fruit. May this beautiful vision of Your lotus face be ever manifest in my heart. Thousands and thousands of other benedictions are of no use to me.",
     ],
-    essence_tel: [
+    transl_tel: [
       "ఓ దేవా! చిక్కని నలుపు మరియు ఎరుపు రంగులు కలిసిన మృదువైన ముంగురులతో నిండిన నీ ముఖపద్మమును యశోదమ్మ పదే పదే ముద్దాడుతోంది. దొండపండు వలె ఎర్రని నీ అధరములతో కూడిన ఆ అందమైన ముఖము నా మనస్సులో ఎల్లప్పుడూ నిలిచి ఉండుగాక. వేలకొద్దీ ఇతర లాభములతో నాకు పనిలేదు.",
     ],
+    essence : [],
     meanings: [
       "idam: this",
       "te: Your",
@@ -359,6 +362,7 @@ const verses = [
       "alam: enough/useless",
       "lakṣa-lābhaiḥ: with hundreds of thousands of gains",
     ],
+    grammar : [],
     notes   : [
       "The 'bimba' fruit is a traditional poetic comparison in Sanskrit for deep red, luscious lips.",
       "The term 'snigdha-raktaiḥ' describes hair that is naturally glossy (soft) with a reddish-gold hue, often seen in the hair of young children or divine personalities.",
@@ -391,18 +395,19 @@ const verses = [
       "बत! (दुःख-जाल-अब्धि-मग्नम्) (अति-दीनम्) (अज्ञम्) माम् कृपा-दृष्टि-वृष्ट्या अनुगृहाण।", 
       "हे ईश! मम अक्षि-दृश्यः एधि ।",
     ],
-    transl  : [
+    prose  : [
       "O Divine Lord! O Damodara! O Ananta! O Vishnu! My obeisances unto You.", 
       "O Master! Please become pleased with me!", 
       "Alas! Please uplift me who is sunken in an ocean of worldly sorrows, greatly distressed, an ignorant with Your glance of mercy,", 
       "O Lord! Please become visible to my eyes.",
     ],
-    essence : [
+    transl : [
       "O Supreme Godhead, I offer my obeisances unto You. O Damodara! O Ananta! O Vishnu! O master! O my Lord, be pleased upon me. By showering Your glance of mercy upon me, deliver this poor ignorant fool who is immersed in an ocean of worldly sorrows, and become visible to my eyes.",
     ],
-    essence_tel: [
+    transl_tel: [
       "ఓ దేవా! దామోదరా! అనంతా! విష్ణుమూర్తి! నీకు నమస్కారము. ఓ ప్రభూ! నాపై ప్రసన్నుడవు కావాలి. సంసార దుఃఖాలనే సముద్రంలో మునిగిపోయి, దిక్కులేనివాడినై అజ్ఞానంలో ఉన్న నన్ను నీ కరుణా కటాక్ష వీక్షణములతో ఉద్ధరించు. ఓ ఈశ్వరా! నా కనులకు ప్రత్యక్షము కావాలి.",
     ],
+    essence : [],
     meanings: [
       "namaḥ: obeisances",
       "deva: O Divine Lord",
@@ -422,6 +427,7 @@ const verses = [
       "edhi: please come/be",
       "akṣi-dṛśyaḥ: visible to the eyes",
     ],
+    grammar : [],
     notes   : [
       "This verse shifts from praising the Lord's form to a direct, humble prayer for deliverance from 'Samsara' (the material cycle of birth and death).",
       "The term 'Ananta' highlights that while He is bound as Damodara, He remains the Infinite and Limitless Lord.",
@@ -456,17 +462,18 @@ const verses = [
       "तथा मे स्वकाम् प्रेम-भक्तिम् प्रयच्छ।", 
       "हे दामोदर! इह मोक्षे मे ग्रहः न अस्ति ।",
     ],
-    transl  : [
+    prose  : [
       "Just as the two sons of Kuvera (Nalakuvara and Manigriva) were delivered and turned into great devotees by You in Your form bound to the mortar,", 
       "Similarly, please grant me Your own pure loving devotion (prema-bhakti).", 
       "O Lord Damodara, I have no desire for liberation in this world.",
     ],
-    essence : [
+    transl : [
       "O Lord Damodara, just as the two sons of Kuvera--Manigriva and Nalakuvara--were delivered from the curse of Narada and made into great devotees by You in Your form as a baby tied with rope to a wooden grinding mortar, in the same way, please give to me Your own prema-bhakti. I only long for this and have no desire for any kind of liberation.",
     ],
-    essence_tel: [
+    transl_tel: [
       "ఓ దామోదరా! రోలుకు కట్టబడిన రూపంలో ఉన్న నీవు కుబేరుని పుత్రులైన నలకూబర మణిగ్రీవులను శాపం నుండి విముక్తులను చేసి, వారిని గొప్ప భక్తులుగా ఎలా మార్చావో, అలాగే నాకు నీపై అనన్యమైన ప్రేమ భక్తిని ప్రసాదించు. నాకు మోక్షంపై ఎటువంటి ఆసక్తి లేదు.",
     ],
+    essence : [],
     meanings: [
       "kuvera-ātmajau: the two sons of Kuvera",
       "baddha-mūrtyā: by the form bound (to the mortar)",
@@ -489,6 +496,7 @@ const verses = [
       "dāmodara: O Lord Damodara",
       "iha: here/in this matter",
     ],
+    grammar : [],
     notes   : [
       "The sons of Kuvera were cursed by Narada Muni to stand as Yamala-Arjuna trees until Krishna uprooted them with the grinding mortar.",
       "The phrase 'na mokṣe graho' emphasizes that the devotee considers 'Prema-bhakti' to be the 'fifth goal of life' (pañcama-puruṣārtha), superior even to salvation.",
@@ -521,18 +529,19 @@ const verses = [
       "त्वदीय-प्रियायै राधिकायै नमः ।", 
       "अनन्त-लीलाय देवाय तुभ्यम् नमः ।",
     ],
-    transl  : [
+    prose  : [
       "O Lord, I offer my obeisances to the rope that binds You, which is a reservoir of brilliant effulgence.", 
       "I then offer my obeisances to Your belly, which is the support of the entire universe.", 
       "I offer my obeisances to Your beloved Srimati Radharani,", 
       "and I offer my obeisances to You, the Supreme Lord of unlimited pastimes.",
     ],
-    essence : [
+    transl : [
       "O Lord Damodara, I first of all offer my obeisances to the brilliantly effulgent rope which binds Your belly. I then offer my obeisances to Your belly, which is the abode of the entire universe. I humbly bow down to Your most beloved Srimati Radharani, and I offer all obeisances to You, the Supreme Lord, who displays unlimited pastimes.",
     ],
-    essence_tel: [
+    transl_tel: [
       "ఓ దామోదరా! నీ ఉదరమును చుట్టి ఉన్న ప్రకాశవంతమైన ఆ తాడుకు నా నమస్కారము. సమస్త బ్రహ్మాండములకు నిలయమైన నీ ఉదరమునకు నా నమస్కారము. నీకు అత్యంత ప్రియమైన శ్రీమతి రాధారాణికి నా నమస్కారము. అనంతమైన లీలలను ప్రదర్శించే ఓ దైవమా! నీకు నా వందనములు.",
     ],
+    essence : [],
     meanings: [
       "namaḥ: obeisances",
       "te: to You",
@@ -548,6 +557,7 @@ const verses = [
       "devāya: to the Lord",
       "tubhyam: to You",
     ],
+    grammar : [],
     notes   : [
       "The 'dāma' (rope) is not material; it represents the 'Dāma-śakti' or the binding power of the devotee's love.",
       "The mention of Radharani at the end of the prayer is significant as she is the personification of the highest devotion (Mahabhava) that binds Krishna.",
