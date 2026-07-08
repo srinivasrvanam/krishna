@@ -30,7 +30,7 @@ const verses = [
       "- गोप्या अत्यन्ततः द्रुत्य परामृष्टम्",
       "नमामि",
     ],
-    transl  : [
+    prose  : [
       "(I)", 
       "- to the Supreme Lord",
       "- whose form is the embodiment of eternal existence, knowledge, and bliss",
@@ -40,12 +40,13 @@ const verses = [
       "- (but) who has been caught from behind by Mother Yashoda (Gopi) after running with great effort after him.",
       "bow down (offer my obeisances).",
     ],
-    essence : [
+    transl : [
       "To the Supreme Lord, whose form is the embodiment of eternal existence, knowledge, and bliss, whose earrings are swinging, who is beautifully shining in the divine realm of Gokula, who (due to the offense of breaking the pot of yogurt that His mother was churning into butter and then stealing the butter that was kept hanging from a swing) is quickly running from the wooden grinding mortar in fear of mother Yasoda, but who has been caught from behind by her who ran after Him with greater speed--to that Supreme Lord, Sri Damodara, I offer my humble obeisances."
     ],
-    essence_tel: [
+    transl_tel: [
       "సచ్చిదానంద స్వరూపుడు, ప్రకాశించే కుండలములు కలవాడు, గోకులంలో విరాజిల్లేవాడు, యశోదమ్మకు భయపడి రోలు నుండి దూకి పరుగెడుతూ, ఆమె చేత పట్టుబడినవాడైన ఆ పరమేశ్వరునికి (శ్రీ దామోదరునికి) నా నమస్కారములు."
     ],
+    essence : [],
     meanings: [
       "namāmi: I offer my obeisances",
       "īśvaram: to the Supreme Lord",
@@ -61,6 +62,7 @@ const verses = [
       "drutyā: running quickly",
       "gopyā: by the Gopi (Mother Yashoda)"
     ],
+    grammar : [],
     notes   : [
       "Krishna had broken a pot of yogurt and was feeding butter to the monkeys while sitting on a wooden grinding mortar (ulūkhala). When he saw Mother Yashoda approaching with a whipping stick, he jumped off the mortar in a state of 'staged' panic.",
       "The phrase is philosophically profound because it describes the Fear of Fear personified. The Upanishads state that fear itself is afraid of the Supreme Lord, yet here, out of love for His devotee, the Lord is yaśodā-bhiyā (fearing Yashoda).",
@@ -108,7 +110,7 @@ const verses = [
       "- दाम-उदरम्",
       "(नमामि)",
     ],
-    transl  : [
+    prose  : [
       "(I)", 
       "- who is crying again and again,",
       "- who, with His two lotus-like hands rubbing His pair of eyes,",
@@ -118,12 +120,13 @@ const verses = [
       "- to Lord Damodara (one whose belly is bound with a rope)",
       "bow down (offer my obeisances).",
     ],
-    essence : [
-      "(Seeing the whipping stick in His mother's hand) He is crying and rubbing His eyes again and again with His two lotus hands. His eyes are filled with fear, and the necklace of pearls around His neck, which is marked with three lines like a conch shell, is shaking because of His quick breathing due to crying. To this Supreme Lord, Sri Damodara, whose belly is bound not with ropes but with His mother's pure love, I offer my humble obeisances.",
+    transl : [
+      "(Seeing the whipping stick in His mother's hand) He is crying and rubbing His eyes again and again with His two lotus hands. His eyes are filled with fear, and the necklace of pearls around His neck, which is marked with three lines like a conch shell, is shaking because of His quick breathing due to crying. To this Supreme Lord, Sri Damodara, whose belly is bound not with ropes but with His mother's pure love, I offer my humble obeisances."
     ],
-    essence_tel: [
-      "తల్లి చేతిలోని కర్రను చూసి భయంతో ఏడుస్తూ, తన పద్మముల వంటి రెండు చేతులతో కళ్లను పదే పదే తుడుచుకుంటున్నవాడు, భయంతో నిండిన కన్నులు కలవాడు, ఏడుపు వల్ల కలిగే నిట్టూర్పుల చేత కంఠంలోని ముత్యాల హారము కదులుతున్నవాడు, త్రికంఠరేఖలు కలవాడు మరియు కేవలం భక్తి చేతనే కట్టబడినవాడైన ఆ శ్రీ దామోదరునికి నా నమస్కారములు.",
+    transl_tel: [
+      "తల్లి చేతిలోని కర్రను చూసి భయంతో ఏడుస్తూ, తన పద్మముల వంటి రెండు చేతులతో కళ్లను పదే పదే తుడుచుకుంటున్నవాడు, భయంతో నిండిన కన్నులు కలవాడు, ఏడుపు వల్ల కలిగే నిట్టూర్పుల చేత కంఠంలోని ముత్యాల హారము కదులుతున్నవాడు, త్రికంఠరేఖలు కలవాడు మరియు కేవలం భక్తి చేతనే కట్టబడినవాడైన ఆ శ్రీ దామోదరునికి నా నమస్కారములు."
     ],
+    essence : [],
     meanings: [
       "rudantam: crying",
       "muhuḥ: again and again",
@@ -137,6 +140,7 @@ const verses = [
       "dāma-udaram: whose belly (udara) is bound by a rope (dāma)",
       "bhakti-baddham: who is bound by devotion",
     ],
+    grammar : [],
     notes   : [
       "The term 'tri-rekhā' refers to the three lines on the neck, considered a sign of supreme beauty and divinity, often compared to the spirals of a conch shell.",
       "The phrase 'bhakti-baddham' is the theological heart of this verse, showing that the Infinite can only be captured by pure love.",
@@ -174,19 +178,20 @@ const verses = [
       "- (दाम-उदरम्) तम्",
       "पुनः प्रेमतः शत-आवृत्ति वन्दे",
     ],
-    transl  : [
+    prose  : [
       "(I)", 
       "- who drowns the inhabitants of Gokula in pools of ecstasy, with such childhood pastimes",
       "- who declares that He is conquered only by His intimate devotees to those who are absorbed in His majestic aspect (aisvarya),",
       "- to that Lord Damodara,", 
       "again offer my obeisances hundreds of times with great love.",
     ],
-    essence : [
-      "By such childhood pastimes as this He is drowning the inhabitants of Gokula in pools of ecstasy, and is revealing to those devotees who are absorbed in knowledge of His supreme majesty and opulence that He is only conquered by devotees whose pure love is imbues with intimacy and is free from all conceptions of awe and reverence. With great love I again offer my obeisances to Lord Damodara hundreds and hundreds of times.",
+    transl : [
+      "By such childhood pastimes as this He is drowning the inhabitants of Gokula in pools of ecstasy, and is revealing to those devotees who are absorbed in knowledge of His supreme majesty and opulence that He is only conquered by devotees whose pure love is imbues with intimacy and is free from all conceptions of awe and reverence. With great love I again offer my obeisances to Lord Damodara hundreds and hundreds of times."
     ],
-    essence_tel: [
-      "ఇటువంటి తన బాల్య లీలల ద్వారా గోకులవాసులందరినీ ఆనందమనే కొలనులో ముంచెత్తుతున్నవాడు, తన ఐశ్వర్య జ్ఞానము కలిగిన వారికి తాను కేవలం భక్తుల ప్రేమకు మాత్రమే లొంగుతానని చాటి చెప్పేవాడు అయిన ఆ దామోదరునికి ప్రేమతో వందల పర్యాయాలు నమస్కరిస్తున్నాను.",
+    transl_tel: [
+      "ఇటువంటి తన బాల్య లీలల ద్వారా గోకులవాసులందరినీ ఆనందమనే కొలనులో ముంచెత్తుతున్నవాడు, తన ఐశ్వర్య జ్ఞానము కలిగిన వారికి తాను కేవలం భక్తుల ప్రేమకు మాత్రమే లొంగుతానని చాటి చెప్పేవాడు అయిన ఆ దామోదరునికి ప్రేమతో వందల పర్యాయాలు నమస్కరిస్తున్నాను."
     ],
+    essence : [],
     meanings: [
       "iti: in this way",
       "īdṛk: such (pastimes)",
@@ -204,6 +209,7 @@ const verses = [
       "śata-āvṛtti: hundreds of times",
       "vande: I praise/bow",
     ],
+    grammar : [],
     notes   : [
       "The contrast between 'Aisvarya-jnana' (knowledge of majesty) and 'Madhurya' (sweetness) is highlighted here; the Lord prefers the latter.",
       "The phrase 'Sva-ghosam' refers to the cowherd settlement of Vraja, which vibrates with the sound of Krishna's glories.",

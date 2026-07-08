@@ -12,14 +12,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'Having cleansed the mirror of my mind with the dust of the lotus feet of the Divine Guru, I describe the pure glory of Lord Rama (the best of the Raghu dynasty), which bestows the four-fold fruits of life.',
-    ],
-    essence_tel  : [
-      'శ్రీగురువుల పాదపద్మముల ధూళితో నా మనోదర్పణమును శుభ్రపరచుకొని, ధర్మార్థ కామమోక్షములను ఇచ్చే శ్రీరామచంద్రుని నిర్మలమైన కీర్తిని గానము చేస్తున్నాను.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'Having cleansed the mirror of my mind with the dust of the lotus feet of the Divine Guru, I describe the pure glory of Lord Rama (the best of the Raghu dynasty), which bestows the four-fold fruits of life.',
+
+        ],
+
+        transl_tel  : [
+
+          'శ్రీగురువుల పాదపద్మముల ధూళితో నా మనోదర్పణమును శుభ్రపరచుకొని, ధర్మార్థ కామమోక్షములను ఇచ్చే శ్రీరామచంద్రుని నిర్మలమైన కీర్తిని గానము చేస్తున్నాను.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Shri Guru = Divine Guru',
       'Charan Saroj Raj = Dust of the lotus feet',
       'Nij Manu Mukuru = Mirror of my own mind',
@@ -29,6 +39,7 @@ const verses = [
       'Jo Dayaku = That which gives',
       'Phal Chari = The four fruits (Dharma, Artha, Kama, Moksha)',
     ],
+    grammar      : [],
     notes        : [
       'The opening serves as a humble invocation, emphasizing that spiritual knowledge begins by surrendering to the Guru to clear the "dust" of ego and ignorance from the mind.',
       'It sets the objective of the prayer: to attain the four pillars of human life (Purusharthas) through the contemplation of Rama\'s virtues.',
@@ -47,14 +58,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'Knowing myself to be ignorant, I meditate upon you, O Son of the Wind! Grant me strength, wisdom, and knowledge, and remove my afflictions and impurities.',
-    ],
-    essence_tel  : [
-      'నన్ను నేను బుద్ధిహీనునిగా భావించి, ఓ పవనపుత్రుడా! నిన్ను స్మరిస్తున్నాను. నాకు బలమును, బుద్ధిని, విద్యను ప్రసాదించి నా కష్టాలను మరియు మనో వికారాలను హరించుము.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'Knowing myself to be ignorant, I meditate upon you, O Son of the Wind! Grant me strength, wisdom, and knowledge, and remove my afflictions and impurities.',
+
+        ],
+
+        transl_tel  : [
+
+          'నన్ను నేను బుద్ధిహీనునిగా భావించి, ఓ పవనపుత్రుడా! నిన్ను స్మరిస్తున్నాను. నాకు బలమును, బుద్ధిని, విద్యను ప్రసాదించి నా కష్టాలను మరియు మనో వికారాలను హరించుము.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Buddhiheen Tanu = Ignorant body/self',
       'Janike = Knowing/Considering',
       'Sumirau = I meditate/remember',
@@ -66,6 +87,7 @@ const verses = [
       'Harahu = Remove/Take away',
       'Kales Bikar = Sufferings and impurities/vices',
     ],
+    grammar      : [],
     notes        : [
       'This verse is a direct prayer for the three essential human qualities: physical strength, intellectual clarity, and spiritual knowledge.',
       'It highlights Hanuman as the "remover of obstacles," asking him to clear away both external troubles (Kalesa) and internal flaws (Bikara).',
@@ -84,14 +106,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'Victory to Hanuman, who is an ocean of wisdom and virtue! Victory to the Lord of the Monkeys, who illuminates the three worlds with his glory.',
-    ],
-    essence_tel  : [
-      'జ్ఞానమునకు, గుణములకు సముద్రుడవైన ఓ హనుమా! నీకు జయము కలుగుగాక. మూడు లోకాలను తన కీర్తితో ప్రకాశింపజేసే వానర శ్రేష్ఠుడా! నీకు జయము.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'Victory to Hanuman, who is an ocean of wisdom and virtue! Victory to the Lord of the Monkeys, who illuminates the three worlds with his glory.',
+
+        ],
+
+        transl_tel  : [
+
+          'జ్ఞానమునకు, గుణములకు సముద్రుడవైన ఓ హనుమా! నీకు జయము కలుగుగాక. మూడు లోకాలను తన కీర్తితో ప్రకాశింపజేసే వానర శ్రేష్ఠుడా! నీకు జయము.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Jai = Victory / Hail',
       'Gyan = Knowledge / Wisdom',
       'Guna Sagar = Ocean of virtues',
@@ -117,14 +149,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'Messenger of Rama, the abode of incomparable strength, you are known as the son of Anjani and the son of the Wind-god.',
-    ],
-    essence_tel  : [
-      'సాటిలేని బలమునకు నిలయమైన ఓ రామదూతా! నీవు అంజనీ పుత్రుడవని, పవనసుతుడవని ప్రసిద్ధి చెందారు.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'Messenger of Rama, the abode of incomparable strength, you are known as the son of Anjani and the son of the Wind-god.',
+
+        ],
+
+        transl_tel  : [
+
+          'సాటిలేని బలమునకు నిలయమైన ఓ రామదూతా! నీవు అంజనీ పుత్రుడవని, పవనసుతుడవని ప్రసిద్ధి చెందారు.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Rama Doot = Messenger of Lord Rama',
       'Atulit = Incomparable / Immeasurable',
       'Bal Dhama = Abode of strength',
@@ -150,14 +192,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'O Great Hero, you are possessed of valor and a body as strong as a thunderbolt. You are the dispeller of evil thoughts and the companion of those with pure minds.',
-    ],
-    essence_tel  : [
-      'మహావీరుడవైన ఓ హనుమా! నీవు సాటిలేని పరాక్రమవంతుడవు, వజ్రము వంటి శరీరము కలవాడవు. నీవు చెడు బుద్ధిని తొలగించి, మంచి బుద్ధి కలవారికి తోడుగా ఉంటావు.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'O Great Hero, you are possessed of valor and a body as strong as a thunderbolt. You are the dispeller of evil thoughts and the companion of those with pure minds.',
+
+        ],
+
+        transl_tel  : [
+
+          'మహావీరుడవైన ఓ హనుమా! నీవు సాటిలేని పరాక్రమవంతుడవు, వజ్రము వంటి శరీరము కలవాడవు. నీవు చెడు బుద్ధిని తొలగించి, మంచి బుద్ధి కలవారికి తోడుగా ఉంటావు.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Mahabira = Great Hero',
       'Bikrama = Brave / Valiant',
       'Bajrangi = One with limbs as hard as a thunderbolt (Vajra-Angi)',
@@ -184,14 +236,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'Your complexion is golden, and you are adorned with beautiful attire, wearing ear-rings in your ears and having curly hair.',
-    ],
-    essence_tel  : [
-      'బంగారు వర్ణముతో మెరిసిపోతున్న ఓ హనుమా! నీవు చక్కని వస్త్రధారణతో, చెవులకు కుండలములతో మరియు ఉంగరాల జుట్టుతో ఎంతో శోభిస్తున్నావు.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'Your complexion is golden, and you are adorned with beautiful attire, wearing ear-rings in your ears and having curly hair.',
+
+        ],
+
+        transl_tel  : [
+
+          'బంగారు వర్ణముతో మెరిసిపోతున్న ఓ హనుమా! నీవు చక్కని వస్త్రధారణతో, చెవులకు కుండలములతో మరియు ఉంగరాల జుట్టుతో ఎంతో శోభిస్తున్నావు.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Kanchan baran = Golden complexion',
       'Biraja = Resplendent / Shining',
       'Subesa = Beautiful attire / Good appearance',
@@ -216,14 +278,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'In your hands shine the thunderbolt and the victory flag; across your shoulder, the sacred thread made of Munja grass is beautifully adorned.',
-    ],
-    essence_tel  : [
-      'నీ చేతులలో వజ్రాయుధము మరియు విజయ పతాకము శోభిస్తున్నాయి. నీ భుజముపై ముంజి గడ్డితో చేసిన యజ్ఞోపవీతము (జంధ్యము) ఎంతో అందంగా ఉన్నది.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'In your hands shine the thunderbolt and the victory flag; across your shoulder, the sacred thread made of Munja grass is beautifully adorned.',
+
+        ],
+
+        transl_tel  : [
+
+          'నీ చేతులలో వజ్రాయుధము మరియు విజయ పతాకము శోభిస్తున్నాయి. నీ భుజముపై ముంజి గడ్డితో చేసిన యజ్ఞోపవీతము (జంధ్యము) ఎంతో అందంగా ఉన్నది.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Hath = Hand',
       'Bajra = Thunderbolt / Mace (Gada)',
       'Dhvaja = Flag / Banner',
@@ -250,14 +322,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'You are the incarnation of Lord Shiva and the son of Kesari. Your radiant energy and great valor are worshipped by the entire world.',
-    ],
-    essence_tel  : [
-      'నీవు శివుని అంశవు, కేసరి పుత్రుడవు. నీ తేజస్సును, ప్రతాపాన్ని లోకమంతా కొనియాడుతున్నది.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'You are the incarnation of Lord Shiva and the son of Kesari. Your radiant energy and great valor are worshipped by the entire world.',
+
+        ],
+
+        transl_tel  : [
+
+          'నీవు శివుని అంశవు, కేసరి పుత్రుడవు. నీ తేజస్సును, ప్రతాపాన్ని లోకమంతా కొనియాడుతున్నది.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Sankar Suvan = Incarnation/Son of Shiva',
       'Kesari Nandan = Son of Kesari',
       'Tej = Radiance / Glory',
@@ -283,14 +365,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'You are highly learned, virtuous, and exceptionally clever. You are always eager and restless to perform the service of Lord Rama.',
-    ],
-    essence_tel  : [
-      'నీవు గొప్ప విద్యావంతుడవు, గుణవంతుడవు మరియు అత్యంత చతురుడవు. శ్రీరామచంద్రుని కార్యములను నెరవేర్చుటకు నీవు నిరంతరము అత్యుత్సాహముతో ఉంటావు.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'You are highly learned, virtuous, and exceptionally clever. You are always eager and restless to perform the service of Lord Rama.',
+
+        ],
+
+        transl_tel  : [
+
+          'నీవు గొప్ప విద్యావంతుడవు, గుణవంతుడవు మరియు అత్యంత చతురుడవు. శ్రీరామచంద్రుని కార్యములను నెరవేర్చుటకు నీవు నిరంతరము అత్యుత్సాహముతో ఉంటావు.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Bidyavan = Highly learned / Full of knowledge',
       'Guni = Virtuous / Full of good qualities',
       'Ati Chatur = Extremely clever / skillful',
@@ -316,14 +408,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'You take great delight in listening to the stories of the Lord (Rama). You dwell in the hearts of Rama, Lakshmana, and Sita.',
-    ],
-    essence_tel  : [
-      'శ్రీరామచంద్రుని కథలను వినటంలో నీవు పరమానందాన్ని పొందుతావు. శ్రీరాముడు, లక్ష్మణుడు మరియు సీతాదేవి నీ హృదయంలో నిరంతరం నివసిస్తారు.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'You take great delight in listening to the stories of the Lord (Rama). You dwell in the hearts of Rama, Lakshmana, and Sita.',
+
+        ],
+
+        transl_tel  : [
+
+          'శ్రీరామచంద్రుని కథలను వినటంలో నీవు పరమానందాన్ని పొందుతావు. శ్రీరాముడు, లక్ష్మణుడు మరియు సీతాదేవి నీ హృదయంలో నిరంతరం నివసిస్తారు.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Prabhu Charitra = Stories/Acts of the Lord',
       'Sunibe Ko = To listen to',
       'Rasiya = One who takes delight / A connoisseur',
@@ -349,14 +451,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'You appeared before Mother Sita in a tiny, humble form, but you assumed a terrifying, massive form to burn down the city of Lanka.',
-    ],
-    essence_tel  : [
-      'సీతాదేవి ముందు నీవు అత్యంత సూక్ష్మ రూపంలో కనిపించావు, కానీ లంకను దహించేటప్పుడు మాత్రం భయంకరమైన పెద్ద రూపాన్ని ధరించావు.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'You appeared before Mother Sita in a tiny, humble form, but you assumed a terrifying, massive form to burn down the city of Lanka.',
+
+        ],
+
+        transl_tel  : [
+
+          'సీతాదేవి ముందు నీవు అత్యంత సూక్ష్మ రూపంలో కనిపించావు, కానీ లంకను దహించేటప్పుడు మాత్రం భయంకరమైన పెద్ద రూపాన్ని ధరించావు.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Sukshma Roopa = Minute / Tiny form',
       'Dhari = Having assumed',
       'Siyahin = To Sita',
@@ -382,14 +494,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'Assuming a gigantic and formidable form, you destroyed the demons and successfully accomplished all the tasks of Lord Ramachandra.',
-    ],
-    essence_tel  : [
-      'అత్యంత భీకరమైన రూపాన్ని ధరించి రాక్షసులను సంహరించావు. ఆ విధంగా శ్రీరామచంద్రుని పనులన్నింటినీ చక్కదిద్దావు.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'Assuming a gigantic and formidable form, you destroyed the demons and successfully accomplished all the tasks of Lord Ramachandra.',
+
+        ],
+
+        transl_tel  : [
+
+          'అత్యంత భీకరమైన రూపాన్ని ధరించి రాక్షసులను సంహరించావు. ఆ విధంగా శ్రీరామచంద్రుని పనులన్నింటినీ చక్కదిద్దావు.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Bhima Rupa = Formidable / Gigantic form',
       'Dhari = Having assumed',
       'Asura = Demons',
@@ -416,14 +538,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'You brought the Sanjivani herb and revived Lakshmana; overwhelmed with joy, Lord Rama embraced you tightly to His heart.',
-    ],
-    essence_tel  : [
-      'సంజీవని మూలికను తెచ్చి లక్ష్మణుడిని పునర్జీవితుడిని చేశావు. ఆ సంతోషంతో శ్రీరామచంద్రుడు నిన్ను ఆలింగనం చేసుకున్నాడు.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'You brought the Sanjivani herb and revived Lakshmana; overwhelmed with joy, Lord Rama embraced you tightly to His heart.',
+
+        ],
+
+        transl_tel  : [
+
+          'సంజీవని మూలికను తెచ్చి లక్ష్మణుడిని పునర్జీవితుడిని చేశావు. ఆ సంతోషంతో శ్రీరామచంద్రుడు నిన్ను ఆలింగనం చేసుకున్నాడు.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Laya = Brought',
       'Sajivan = The life-giving herb (Sanjivani)',
       'Lakhan = Lakshmana',
@@ -450,14 +582,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'Lord Rama praised you greatly, saying, "You are as dear to Me as My own brother Bharata."',
-    ],
-    essence_tel  : [
-      'శ్రీరామచంద్రుడు నిన్ను ఎంతో ప్రశంసించారు. "నీవు నాకు నా తమ్ముడైన భరతునితో సమానమైన ప్రియమైన సోదరుడవు" అని కొనియాడారు.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'Lord Rama praised you greatly, saying, "You are as dear to Me as My own brother Bharata."',
+
+        ],
+
+        transl_tel  : [
+
+          'శ్రీరామచంద్రుడు నిన్ను ఎంతో ప్రశంసించారు. "నీవు నాకు నా తమ్ముడైన భరతునితో సమానమైన ప్రియమైన సోదరుడవు" అని కొనియాడారు.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Raghupati = Lord Rama',
       'Keenhi = Did / Made',
       'Bahut Badai = Great praise',
@@ -484,14 +626,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      '“The thousand-headed Serpent (Shesha) sings your glory,” saying this, the Lord of Lakshmi (Rama) embraced you once again.',
-    ],
-    essence_tel  : [
-      '"వేయి ముఖములు కలిగిన ఆదిశేషుడు నీ కీర్తిని గానం చేస్తాడు" అని చెబుతూ, శ్రీమన్నారాయణ స్వరూపుడైన శ్రీరామచంద్రుడు నిన్ను కౌగిలించుకున్నాడు.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          '“The thousand-headed Serpent (Shesha) sings your glory,” saying this, the Lord of Lakshmi (Rama) embraced you once again.',
+
+        ],
+
+        transl_tel  : [
+
+          '"వేయి ముఖములు కలిగిన ఆదిశేషుడు నీ కీర్తిని గానం చేస్తాడు" అని చెబుతూ, శ్రీమన్నారాయణ స్వరూపుడైన శ్రీరామచంద్రుడు నిన్ను కౌగిలించుకున్నాడు.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Sahas Badan = Thousand mouths/heads (referring to Sheshnag)',
       'Tumharo Jas = Your glory / fame',
       'Gavain = Sing',
@@ -517,14 +669,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'Sages like Sanaka, Lord Brahma and other great saints, Narada, Goddess Saraswati, and the King of Serpents (Shesha) all sing your praises.',
-    ],
-    essence_tel  : [
-      'సనకాది మునులు, బ్రహ్మదేవుడు మొదలైన మహర్షులు, నారదుడు, సరస్వతీ దేవి మరియు శేషనాగు అందరూ నీ కీర్తిని గానం చేస్తున్నారు.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'Sages like Sanaka, Lord Brahma and other great saints, Narada, Goddess Saraswati, and the King of Serpents (Shesha) all sing your praises.',
+
+        ],
+
+        transl_tel  : [
+
+          'సనకాది మునులు, బ్రహ్మదేవుడు మొదలైన మహర్షులు, నారదుడు, సరస్వతీ దేవి మరియు శేషనాగు అందరూ నీ కీర్తిని గానం చేస్తున్నారు.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Sanakadik = Sages like Sanaka and others',
       'Brahmadi = Brahma and other gods',
       'Munisa = The king of sages / great saints',
@@ -551,14 +713,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'When gods like Yama, Kubera, and the guardians of the eight directions cannot fully describe your glory, how then can poets and scholars find words to do so?',
-    ],
-    essence_tel  : [
-      'యముడు, కుబేరుడు మరియు దిక్పాలకులు కూడా నీ మహిమను పూర్తిగా వర్ణించలేనప్పుడు, ఇక సామాన్య కవులు, పండితులు నీ కీర్తిని ఎలా వర్ణించగలరు?',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'When gods like Yama, Kubera, and the guardians of the eight directions cannot fully describe your glory, how then can poets and scholars find words to do so?',
+
+        ],
+
+        transl_tel  : [
+
+          'యముడు, కుబేరుడు మరియు దిక్పాలకులు కూడా నీ మహిమను పూర్తిగా వర్ణించలేనప్పుడు, ఇక సామాన్య కవులు, పండితులు నీ కీర్తిని ఎలా వర్ణించగలరు?',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Yam = God of Death',
       'Kuber = God of Wealth',
       'Digpal = Guardians of the directions',
@@ -586,14 +758,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'You rendered a great service to Sugriva by introducing him to Lord Rama and helping him regain his royal kingdom.',
-    ],
-    essence_tel  : [
-      'నీవు సుగ్రీవునికి శ్రీరామునితో పరిచయం చేసి గొప్ప ఉపకారం చేశావు. తద్వారా అతనికి తిరిగి రాజ్య పదవి లభించేలా చేశావు.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'You rendered a great service to Sugriva by introducing him to Lord Rama and helping him regain his royal kingdom.',
+
+        ],
+
+        transl_tel  : [
+
+          'నీవు సుగ్రీవునికి శ్రీరామునితో పరిచయం చేసి గొప్ప ఉపకారం చేశావు. తద్వారా అతనికి తిరిగి రాజ్య పదవి లభించేలా చేశావు.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Tum = You',
       'Upkar = Favor / Service',
       'Sugrivahin = To Sugriva',
@@ -620,14 +802,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'Vibhishana followed your counsel, and as a result, he became the King of Lanka; this fact is known throughout the entire world.',
-    ],
-    essence_tel  : [
-      'నీవు ఇచ్చిన సలహాను విభీషణుడు పాటించాడు, దానివల్ల అతను లంకకు రాజు అయ్యాడు. ఈ విషయం లోకమంతటికీ తెలుసు.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'Vibhishana followed your counsel, and as a result, he became the King of Lanka; this fact is known throughout the entire world.',
+
+        ],
+
+        transl_tel  : [
+
+          'నీవు ఇచ్చిన సలహాను విభీషణుడు పాటించాడు, దానివల్ల అతను లంకకు రాజు అయ్యాడు. ఈ విషయం లోకమంతటికీ తెలుసు.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Tumharo = Your',
       'Mantra = Counsel / Advice / Secret word',
       'Bibhishan = Vibhishana (Ravana\'s brother)',
@@ -654,14 +846,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'The Sun is millions of miles away, yet you leaped and swallowed it, thinking it to be a sweet, delicious fruit.',
-    ],
-    essence_tel  : [
-      'వేల యోజనాల దూరంలో ఉన్న సూర్యుడిని, ఒక తియ్యని పండు అని భావించి నీవు అమాంతం మింగివేసావు.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'The Sun is millions of miles away, yet you leaped and swallowed it, thinking it to be a sweet, delicious fruit.',
+
+        ],
+
+        transl_tel  : [
+
+          'వేల యోజనాల దూరంలో ఉన్న సూర్యుడిని, ఒక తియ్యని పండు అని భావించి నీవు అమాంతం మింగివేసావు.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Juga Sahasra Jojana = A distance calculated as (12000 x 1000 x 8) miles',
       'Par = Away / At a distance',
       'Bhanu = The Sun',
@@ -688,14 +890,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'Keeping the Lord’s ring in your mouth, you leaped across the vast ocean; it is no wonder that you could do so.',
-    ],
-    essence_tel  : [
-      'శ్రీరామచంద్రుని ఉంగరాన్ని నోటిలో ఉంచుకుని, నీవు మహాసముద్రాన్ని దాటావు. నీ వంటి మహావీరుడికి అది ఆశ్చర్యకరమైన విషయం ఏమీ కాదు.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'Keeping the Lord’s ring in your mouth, you leaped across the vast ocean; it is no wonder that you could do so.',
+
+        ],
+
+        transl_tel  : [
+
+          'శ్రీరామచంద్రుని ఉంగరాన్ని నోటిలో ఉంచుకుని, నీవు మహాసముద్రాన్ని దాటావు. నీ వంటి మహావీరుడికి అది ఆశ్చర్యకరమైన విషయం ఏమీ కాదు.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Prabhu Mudrika = The Lord’s (Rama’s) signet ring',
       'Meli = Kept / Put',
       'Mukh Mahin = In the mouth',
@@ -721,14 +933,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'All the difficult tasks in the world become easy by your grace.',
-    ],
-    essence_tel  : [
-      'లోకంలో సాధ్యం కాని కష్టమైన పనులన్నీ నీ అనుగ్రహం ఉంటే ఎంతో సులభంగా నెరవేరుతాయి.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'All the difficult tasks in the world become easy by your grace.',
+
+        ],
+
+        transl_tel  : [
+
+          'లోకంలో సాధ్యం కాని కష్టమైన పనులన్నీ నీ అనుగ్రహం ఉంటే ఎంతో సులభంగా నెరవేరుతాయి.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Durgam Kaj = Difficult/Impossible tasks',
       'Jagat Ke = Of the world',
       'Jete = Whatever / As many as',
@@ -755,14 +977,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'You are the guardian at the gateway of Lord Rama’s court. No one can enter His divine presence without your permission and command.',
-    ],
-    essence_tel  : [
-      'శ్రీరామచంద్రుని ద్వారం వద్ద నీవు కాపలాదారునిగా ఉన్నావు. నీ అనుమతి లేనిదే ఎవ్వరూ ఆయన సన్నిధికి చేరుకోలేరు.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'You are the guardian at the gateway of Lord Rama’s court. No one can enter His divine presence without your permission and command.',
+
+        ],
+
+        transl_tel  : [
+
+          'శ్రీరామచంద్రుని ద్వారం వద్ద నీవు కాపలాదారునిగా ఉన్నావు. నీ అనుమతి లేనిదే ఎవ్వరూ ఆయన సన్నిధికి చేరుకోలేరు.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Ram Duare = At Rama’s doorstep/gate',
       'Tum = You',
       'Rakhvare = Guardian / Protector',
@@ -788,14 +1020,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'All happiness and comforts are attained by those who take refuge in you. When you are the protector, there is no reason to fear anything.',
-    ],
-    essence_tel  : [
-      'నిన్ను శరణు వేడిన వారికి అన్ని సుఖాలు లభిస్తాయి. నీవు రక్షకుడిగా ఉన్నప్పుడు ఇక ఎవరికీ భయపడాల్సిన పని లేదు.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'All happiness and comforts are attained by those who take refuge in you. When you are the protector, there is no reason to fear anything.',
+
+        ],
+
+        transl_tel  : [
+
+          'నిన్ను శరణు వేడిన వారికి అన్ని సుఖాలు లభిస్తాయి. నీవు రక్షకుడిగా ఉన్నప్పుడు ఇక ఎవరికీ భయపడాల్సిన పని లేదు.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Sab Sukh = All happiness / comforts',
       'Lahai = Attain / Obtain',
       'Tumhari Sarna = Your refuge / shelter',
@@ -821,14 +1063,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'Only you can control your own immense radiance and energy. When you let out a roar, all three worlds tremble in fear.',
-    ],
-    essence_tel  : [
-      'నీ తేజస్సును నీవు మాత్రమే అదుపు చేయగలవు. నీవు ఒక్కసారి సింహనాదం చేస్తే చాలు, ముల్లోకాలు భయంతో వణికిపోతాయి.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'Only you can control your own immense radiance and energy. When you let out a roar, all three worlds tremble in fear.',
+
+        ],
+
+        transl_tel  : [
+
+          'నీ తేజస్సును నీవు మాత్రమే అదుపు చేయగలవు. నీవు ఒక్కసారి సింహనాదం చేస్తే చాలు, ముల్లోకాలు భయంతో వణికిపోతాయి.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Aapan = Your own',
       'Tej = Radiance / Power / Energy',
       'Samharo = Control / Handle / Restrain',
@@ -855,14 +1107,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'Ghosts, evil spirits, and negative energies do not come near those who chant the name of Mahavir (the Great Hero, Hanuman).',
-    ],
-    essence_tel  : [
-      'మహావీరుడవైన నీ నామాన్ని స్మరించేవారి దగ్గరకు భూత ప్రేత పిశాచాదులు ఏవీ రావు.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'Ghosts, evil spirits, and negative energies do not come near those who chant the name of Mahavir (the Great Hero, Hanuman).',
+
+        ],
+
+        transl_tel  : [
+
+          'మహావీరుడవైన నీ నామాన్ని స్మరించేవారి దగ్గరకు భూత ప్రేత పిశాచాదులు ఏవీ రావు.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Bhoot Pishach = Ghosts and evil spirits',
       'Nikat = Near / Close',
       'Nahin Aavai = Do not come',
@@ -888,14 +1150,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'All diseases are destroyed and all pains are removed for those who constantly chant the name of the brave Hanuman.',
-    ],
-    essence_tel  : [
-      'వీరుడైన హనుమంతుని నామాన్ని నిరంతరం జపించేవారికి అన్ని రోగాలు నశిస్తాయి మరియు సమస్త బాధలు తొలగిపోతాయి.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'All diseases are destroyed and all pains are removed for those who constantly chant the name of the brave Hanuman.',
+
+        ],
+
+        transl_tel  : [
+
+          'వీరుడైన హనుమంతుని నామాన్ని నిరంతరం జపించేవారికి అన్ని రోగాలు నశిస్తాయి మరియు సమస్త బాధలు తొలగిపోతాయి.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Nasai = Destroys / Eradicates',
       'Rog = Disease / Illness',
       'Harai = Removes / Takes away',
@@ -921,14 +1193,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'Hanuman delivers from all difficulties those who keep him in their thoughts, actions, and speech through sincere meditation.',
-    ],
-    essence_tel  : [
-      'మనసుతో, కర్మతో, మాటతో నిన్ను ధ్యానించే వారిని అన్ని కష్టాల నుండి హనుమంతుడు విముక్తి చేస్తాడు.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'Hanuman delivers from all difficulties those who keep him in their thoughts, actions, and speech through sincere meditation.',
+
+        ],
+
+        transl_tel  : [
+
+          'మనసుతో, కర్మతో, మాటతో నిన్ను ధ్యానించే వారిని అన్ని కష్టాల నుండి హనుమంతుడు విముక్తి చేస్తాడు.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Sankat Ten = From difficulties/distress',
       'Hanuman Chhudavai = Hanuman releases/delivers',
       'Man = Mind (thought)',
@@ -954,14 +1236,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'Lord Rama is the Supreme Ascetic King who rules over all; yet, it was you who successfully accomplished all of His tasks.',
-    ],
-    essence_tel  : [
-      'తపశ్శాలియైన శ్రీరామచంద్రుడు అందరికీ ప్రభువు. అటువంటి పరమాత్ముని కార్యాలన్నింటినీ నీవే స్వయంగా పూర్తి చేసావు.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'Lord Rama is the Supreme Ascetic King who rules over all; yet, it was you who successfully accomplished all of His tasks.',
+
+        ],
+
+        transl_tel  : [
+
+          'తపశ్శాలియైన శ్రీరామచంద్రుడు అందరికీ ప్రభువు. అటువంటి పరమాత్ముని కార్యాలన్నింటినీ నీవే స్వయంగా పూర్తి చేసావు.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Sab Par = Over everyone / all',
       'Ram = Lord Rama',
       'Tapasvi Raja = The Ascetic King',
@@ -988,14 +1280,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'Whoever approaches you with any other sincere desire or longing, they attain the fruit of life which is immeasurable and eternal.',
-    ],
-    essence_tel  : [
-      'ఎవరైతే ఇతర కోరికలతో నీ దగ్గరకు వస్తారో, వారు కూడా అమితమైన మరియు శాశ్వతమైన జీవిత ఫలాన్ని పొందుతారు.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'Whoever approaches you with any other sincere desire or longing, they attain the fruit of life which is immeasurable and eternal.',
+
+        ],
+
+        transl_tel  : [
+
+          'ఎవరైతే ఇతర కోరికలతో నీ దగ్గరకు వస్తారో, వారు కూడా అమితమైన మరియు శాశ్వతమైన జీవిత ఫలాన్ని పొందుతారు.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Aur = Other',
       'Manorath = Desires / Wishes / Longings',
       'Jo Koi = Whoever',
@@ -1023,14 +1325,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'Your glory shines throughout the four ages (Satya, Treta, Dwapara, and Kali); your fame is world-renowned and illuminates the entire universe.',
-    ],
-    essence_tel  : [
-      'నాలుగు యుగాలలోనూ నీ ప్రతాపం వెలుగొందుతోంది. నీ కీర్తి జగద్విఖ్యాతమైనది మరియు ఈ లోకమంతటికీ వెలుగును ప్రసాదిస్తుంది.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'Your glory shines throughout the four ages (Satya, Treta, Dwapara, and Kali); your fame is world-renowned and illuminates the entire universe.',
+
+        ],
+
+        transl_tel  : [
+
+          'నాలుగు యుగాలలోనూ నీ ప్రతాపం వెలుగొందుతోంది. నీ కీర్తి జగద్విఖ్యాతమైనది మరియు ఈ లోకమంతటికీ వెలుగును ప్రసాదిస్తుంది.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Charon Jug = The four ages/yugas',
       'Partap = Glory / Majesty / Power',
       'Tumhara = Your',
@@ -1055,14 +1367,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'You are the protector of sages and saints; you are the destroyer of demons and the beloved of Lord Rama.',
-    ],
-    essence_tel  : [
-      'నీవు సాధువులను, సజ్జనులను కాపాడే రక్షకుడవు. రాక్షసులను సంహరించేవాడవు మరియు శ్రీరామచంద్రుని ప్రాణప్రియుడవు.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'You are the protector of sages and saints; you are the destroyer of demons and the beloved of Lord Rama.',
+
+        ],
+
+        transl_tel  : [
+
+          'నీవు సాధువులను, సజ్జనులను కాపాడే రక్షకుడవు. రాక్షసులను సంహరించేవాడవు మరియు శ్రీరామచంద్రుని ప్రాణప్రియుడవు.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Sadhu Sant = Sages and Saints',
       'Ke = Of',
       'Tum = You',
@@ -1089,14 +1411,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'Mother Janaki (Sita) granted you a boon that you may bestow the eight psychic powers (Siddhis) and the nine types of wealth (Nidhis) upon others.',
-    ],
-    essence_tel  : [
-      'సీతామాత నీకు అష్టసిద్ధులను, నవనిధులను ఇతరులకు ప్రసాదించగలిగే వరమును ఇచ్చింది.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'Mother Janaki (Sita) granted you a boon that you may bestow the eight psychic powers (Siddhis) and the nine types of wealth (Nidhis) upon others.',
+
+        ],
+
+        transl_tel  : [
+
+          'సీతామాత నీకు అష్టసిద్ధులను, నవనిధులను ఇతరులకు ప్రసాదించగలిగే వరమును ఇచ్చింది.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Ashta Siddhi = Eight supernatural powers',
       'Nau Nidhi = Nine types of treasures/wealth',
       'Ke Data = Giver of',
@@ -1122,14 +1454,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'You possess the alchemy of Rama\'s name (Rama-Rasayana). You forever remain the humble and dedicated servant of the Lord of the Raghu clan.',
-    ],
-    essence_tel  : [
-      'నీ వద్ద రామనామమనే దివ్యౌషధం (రసాయనం) ఉంది. నీవు ఎల్లప్పుడూ శ్రీరామచంద్రుని సేవకుడిగానే ఉంటావు.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'You possess the alchemy of Rama\'s name (Rama-Rasayana). You forever remain the humble and dedicated servant of the Lord of the Raghu clan.',
+
+        ],
+
+        transl_tel  : [
+
+          'నీ వద్ద రామనామమనే దివ్యౌషధం (రసాయనం) ఉంది. నీవు ఎల్లప్పుడూ శ్రీరామచంద్రుని సేవకుడిగానే ఉంటావు.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Ram Rasayan = The elixir/alchemy of Rama\'s devotion',
       'Tumhare Pasa = Is with you / In your possession',
       'Sada Raho = Always remain',
@@ -1153,14 +1495,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'By singing your praise, one finds Lord Rama and finds relief from the sufferings of many lifetimes.',
-    ],
-    essence_tel  : [
-      'నిన్ను భజించడం ద్వారా శ్రీరామచంద్రుని అనుగ్రహం లభిస్తుంది. దీనివల్ల జన్మజన్మల నుండి వెంటాడుతున్న దుఃఖాలన్నీ తొలగిపోతాయి.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'By singing your praise, one finds Lord Rama and finds relief from the sufferings of many lifetimes.',
+
+        ],
+
+        transl_tel  : [
+
+          'నిన్ను భజించడం ద్వారా శ్రీరామచంద్రుని అనుగ్రహం లభిస్తుంది. దీనివల్ల జన్మజన్మల నుండి వెంటాడుతున్న దుఃఖాలన్నీ తొలగిపోతాయి.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Tumhare Bhajan = By your worship/devotion',
       'Ram Ko Pavai = Reaches/Attains Rama',
       'Janam Janam Ke = Of many births',
@@ -1185,14 +1537,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'At the time of death, such a devotee enters the divine abode of Lord Rama, and if reborn on earth, they are known as a true devotee of God.',
-    ],
-    essence_tel  : [
-      'అంత్యకాలంలో అటువంటి భక్తుడు శ్రీరామచంద్రుని దివ్యధామానికి చేరుకుంటాడు. ఒకవేళ తిరిగి జన్మించినా, వారు భగవద్భక్తులుగానే పిలువబడతారు.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'At the time of death, such a devotee enters the divine abode of Lord Rama, and if reborn on earth, they are known as a true devotee of God.',
+
+        ],
+
+        transl_tel  : [
+
+          'అంత్యకాలంలో అటువంటి భక్తుడు శ్రీరామచంద్రుని దివ్యధామానికి చేరుకుంటాడు. ఒకవేళ తిరిగి జన్మించినా, వారు భగవద్భక్తులుగానే పిలువబడతారు.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Ant Kal = At the time of death / end of life',
       'Raghubar Pur = The city/abode of Rama (Vaikuntha/Saket)',
       'Jai = Goes',
@@ -1218,14 +1580,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'One need not seek any other deity in their mind; by serving Hanuman alone, one attains all possible happiness and comforts.',
-    ],
-    essence_tel  : [
-      'వేరే దేవతలను మనసులో ఉంచుకోవాల్సిన అవసరం లేదు; కేవలం హనుమంతుని సేవించడం ద్వారానే అన్ని సుఖాలు లభిస్తాయి.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'One need not seek any other deity in their mind; by serving Hanuman alone, one attains all possible happiness and comforts.',
+
+        ],
+
+        transl_tel  : [
+
+          'వేరే దేవతలను మనసులో ఉంచుకోవాల్సిన అవసరం లేదు; కేవలం హనుమంతుని సేవించడం ద్వారానే అన్ని సుఖాలు లభిస్తాయి.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Aur Devata = Other deities',
       'Chitt Na Dharai = Does not keep in mind',
       'Hanumat Sei = By serving Hanuman',
@@ -1250,14 +1622,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'All troubles end and all pains vanish for those who remember the powerful and brave Hanuman.',
-    ],
-    essence_tel  : [
-      'బలవంతుడు, వీరుడైన హనుమంతుని స్మరించే వారికి కష్టాలన్నీ తొలగిపోతాయి మరియు సమస్త బాధలు నశిస్తాయి.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'All troubles end and all pains vanish for those who remember the powerful and brave Hanuman.',
+
+        ],
+
+        transl_tel  : [
+
+          'బలవంతుడు, వీరుడైన హనుమంతుని స్మరించే వారికి కష్టాలన్నీ తొలగిపోతాయి మరియు సమస్త బాధలు నశిస్తాయి.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Sankat Katai = Troubles are cut/ended',
       'Mitai = Vanish / Erased',
       'Sab Pira = All pains / suffering',
@@ -1282,14 +1664,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'Victory, victory, victory to you, O Lord Hanuman! Please bestow your grace upon me, just as a divine Guru does.',
-    ],
-    essence_tel  : [
-      'ఓ హనుమంతా! నీకు జయము, జయము, జయము కలుగుగాక. ఒక సద్గురువు వలె నాపై నీ కృపను కురిపించు.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'Victory, victory, victory to you, O Lord Hanuman! Please bestow your grace upon me, just as a divine Guru does.',
+
+        ],
+
+        transl_tel  : [
+
+          'ఓ హనుమంతా! నీకు జయము, జయము, జయము కలుగుగాక. ఒక సద్గురువు వలె నాపై నీ కృపను కురిపించు.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Jai Jai Jai = Victory, Victory, Victory',
       'Hanuman Gosain = Lord/Master Hanuman',
       'Kripa Karahu = Grant your grace/mercy',
@@ -1313,14 +1705,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'Whoever recites this prayer a hundred times is released from all bondages and attains great supreme bliss.',
-    ],
-    essence_tel  : [
-      'ఎవరైతే ఈ స్తోత్రాన్ని నూరు సార్లు పఠిస్తారో, వారు అన్ని బంధనాల నుండి విముక్తులై పరమానందాన్ని పొందుతారు.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'Whoever recites this prayer a hundred times is released from all bondages and attains great supreme bliss.',
+
+        ],
+
+        transl_tel  : [
+
+          'ఎవరైతే ఈ స్తోత్రాన్ని నూరు సార్లు పఠిస్తారో, వారు అన్ని బంధనాల నుండి విముక్తులై పరమానందాన్ని పొందుతారు.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Jo = Whoever',
       'Sat Bar = A hundred times',
       'Path Kar = Recites / Reads',
@@ -1347,14 +1749,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'Whoever reads these forty verses to Hanuman will attain success and perfection in their endeavors; Lord Shiva (the consort of Gauri) is the witness to this truth.',
-    ],
-    essence_tel  : [
-      'ఎవరైతే ఈ హనుమాన్ చాలీసాను పఠిస్తారో, వారికి కార్యసిద్ధి కలుగుతుంది. దీనికి గౌరీనాథుడైన ఆ పరమశివుడే సాక్షి.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'Whoever reads these forty verses to Hanuman will attain success and perfection in their endeavors; Lord Shiva (the consort of Gauri) is the witness to this truth.',
+
+        ],
+
+        transl_tel  : [
+
+          'ఎవరైతే ఈ హనుమాన్ చాలీసాను పఠిస్తారో, వారికి కార్యసిద్ధి కలుగుతుంది. దీనికి గౌరీనాథుడైన ఆ పరమశివుడే సాక్షి.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Jo = Whoever',
       'Yah Padhai = Reads this',
       'Hanuman Chalisa = The forty verses to Hanuman',
@@ -1380,14 +1792,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'Tulsidas is forever a servant of the Lord. O Master, please make my heart your permanent abode.',
-    ],
-    essence_tel  : [
-      'తులసీదాసు ఎల్లప్పుడూ భగవంతుని సేవకుడే. ఓ నాథా! నా హృదయంలో స్థిరనివాసం ఏర్పరుచుకో.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'Tulsidas is forever a servant of the Lord. O Master, please make my heart your permanent abode.',
+
+        ],
+
+        transl_tel  : [
+
+          'తులసీదాసు ఎల్లప్పుడూ భగవంతుని సేవకుడే. ఓ నాథా! నా హృదయంలో స్థిరనివాసం ఏర్పరుచుకో.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Tulsidas = The poet/author',
       'Sada = Always / Forever',
       'Hari Chera = Servant of God (Hari)',
@@ -1414,14 +1836,24 @@ const verses = [
     ],
     vicheda      : [],
     anvaya       : [],
-    transl       : [],
-    essence      : [
-      'O Son of the Wind, Dispeller of misfortunes, and the very Embodiment of auspiciousness! O King of the Gods, please reside in my heart along with Lord Rama, Lakshmana, and Mother Sita.',
-    ],
-    essence_tel  : [
-      'పవనపుత్రుడా, కష్టాలను హరించేవాడా, మంగళకరమైన రూపము కలవాడా! దేవతలకు ప్రభువైన ఓ హనుమంతా, శ్రీరామ లక్ష్మణ సీతలతో కలిసి నా హృదయంలో కొలువై ఉండుము.',
-    ],
-    meanings     : [
+
+        prose       : [],
+
+        transl      : [
+
+          'O Son of the Wind, Dispeller of misfortunes, and the very Embodiment of auspiciousness! O King of the Gods, please reside in my heart along with Lord Rama, Lakshmana, and Mother Sita.',
+
+        ],
+
+        transl_tel  : [
+
+          'పవనపుత్రుడా, కష్టాలను హరించేవాడా, మంగళకరమైన రూపము కలవాడా! దేవతలకు ప్రభువైన ఓ హనుమంతా, శ్రీరామ లక్ష్మణ సీతలతో కలిసి నా హృదయంలో కొలువై ఉండుము.',
+
+        ],
+
+        essence     : [],
+
+        meanings     : [
       'Pavantanaya = Son of the Wind',
       'Sankat Haran = Remover of difficulties',
       'Mangal Murti Rup = Embodiment of auspiciousness',
