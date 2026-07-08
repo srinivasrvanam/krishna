@@ -19,13 +19,14 @@ const verses = [
     anvaya  : [
       "इति कीर्तनीयस्य महात्मनः केशवस्य दिव्यानां नाम्नां इदं सहस्रम् अशेषेण प्रकीर्तितम् ।"
     ],
-    transl  : [],
-    essence : [
+    prose  : [],
+    transl : [
       "Bhishma said: Thus, this thousand divine names of the great-souled Keshava, who is most worthy of being praised, has been sung in its entirety."
     ],
-    essence_tel : [
+    transl_tel : [
       "భీష్ముడు పలికెను: ఈ విధముగా, కీర్తించదగినవాడు మరియు మహాత్ముడైన కేశవుని యొక్క వెయ్యి దివ్య నామములు సంపూర్ణముగా గానం చేయబడినవి."
     ],
+    essence: [],
     meanings: [
       "Bhīṣma uvāca = Bhishma said",
       "Iti = Thus / In this manner",
@@ -38,6 +39,7 @@ const verses = [
       "Aśeṣeṇa = Without leaving anything / completely / in its entirety",
       "Prakīrtitam = Has been proclaimed / well-sung"
     ],
+    grammar: [],
     notes   : [
       "This verse acts as a formal conclusion to the 'Sahasranāma Stotra' portion before Bhishma begins explaining the merits of hearing or reciting these names.",
       "The word 'Aśeṣeṇa' is significant; it implies that Bhishma has not left out a single name and has transmitted the knowledge exactly as it was meant to be.",
@@ -63,13 +65,14 @@ const verses = [
     anvaya  : [
       "यः नित्यं इदं श‍ृणुयात् यः च अपि परिकीर्तयेत्, सः मानवः इह अमुत्र च किञ्चित् अशुभं न प्राप्नुयात् ।"
     ],
-    transl  : [],
-    essence : [
+    prose  : [],
+    transl : [
       "That person who hears this daily and who also recites it shall not meet with anything inauspicious or evil, both in this world and in the world hereafter."
     ],
-    essence_tel : [
+    transl_tel : [
       "ఎవడైతే దీనిని ప్రతిరోజూ వింటాడో మరియు ఎవడైతే దీనిని పఠిస్తాడో, ఆ మనిషి ఈ లోకంలోనూ మరియు పరలోకంలోనూ ఎటువంటి అశుభాన్ని పొందడు."
     ],
+    essence: [],
     meanings: [
       "Yaḥ = Who / He who",
       "Idaṃ = This (the Sahasranama)",
@@ -87,6 +90,7 @@ const verses = [
       "Ca = And",
       "Mānavaḥ = Human being"
     ],
+    grammar: [],
     notes   : [
       "The verse emphasizes two paths of devotion: 'Śravaṇa' (hearing) and 'Kīrtana' (reciting). Both are considered equally effective in providing protection.",
       "The scope of protection is total ('Kiñcit' - not even a little) and covers both the current life ('Iha') and the life after death ('Amutra').",
@@ -113,13 +117,14 @@ const verses = [
     anvaya  : [
       "ब्राह्मणः वेदान्तगः स्यात्, क्षत्रियः विजयी भवेत्, वैश्यः धनसमृद्धः स्यात्, शूद्रः सुखम् अवाप्नुयात् ।"
     ],
-    transl  : [],
-    essence : [
+    prose  : [],
+    transl : [
       "A Brahmin shall attain mastery over the Vedanta (end of Knowledge), a Kshatriya shall become victorious in his endeavors, a Vaishya shall acquire immense wealth, and a Shudra shall attain happiness."
     ],
-    essence_tel : [
+    transl_tel : [
       "ఈ స్తోత్రమును పఠించడం వలన బ్రాహ్మణుడు వేదాంత జ్ఞానాన్ని పొందుతాడు, క్షత్రియుడు విజయాన్ని సాధిస్తాడు, వైశ్యుడు ధనసమృద్ధిని పొందుతాడు మరియు శూద్రుడు సుఖాన్ని పొందుతాడు."
     ],
+    essence: [],
     meanings: [
       "Vedānta-gaḥ = One who has mastered/reached the end of the Vedas (Vedanta)",
       "Brāhmaṇaḥ = A Brahmin (seeker of knowledge)",
@@ -133,6 +138,7 @@ const verses = [
       "Sukham = Happiness / well-being",
       "Avāpnuyāt = Shall attain / reach"
     ],
+    grammar: [],
     notes   : [
       "This verse illustrates that the Vishnu Sahasranama is 'Sarva-Phala-Prada'—it grants results tailored to the specific needs and nature (Svadharmas) of the seeker.",
       "The 'Victory' promised to the Kshatriya is not just in physical battle, but victory over the senses and external obstacles.",
@@ -159,13 +165,14 @@ const verses = [
     anvaya  : [
       "धर्मार्थी धर्मं प्राप्नुयात्, अर्थार्थी च अर्थं आप्नुयात्, कामी कामान् अवाप्नुयात्, प्रजार्थी प्रजाः प्राप्नुयात् ।"
     ],
-    transl  : [],
-    essence : [
+    prose  : [],
+    transl : [
       "He who desires righteousness shall attain Dharma; he who desires wealth shall attain riches; he who seeks the fulfillment of desires shall have them satisfied; and he who desires progeny shall be blessed with descendants."
     ],
-    essence_tel : [
+    transl_tel : [
       "ధర్మాన్ని కోరుకునేవాడు ధర్మాన్ని పొందుతాడు, ధనాన్ని కోరుకునేవాడు ధనాన్ని పొందుతాడు, కోరికలు గలవాడు తన కోరికలను నెరవేర్చుకుంటాడు మరియు సంతానాన్ని కోరుకునేవాడు సంతానాన్ని పొందుతాడు."
     ],
+    essence: [],
     meanings: [
       "Dharma-arthī = seeker of righteousness/merit",
       "Prāpnuyāt = shall attain",
@@ -180,6 +187,7 @@ const verses = [
       "Prajā-arthī = seeker of progeny / children",
       "Prajāḥ = offspring / descendants"
     ],
+    grammar: [],
     notes   : [
       "This verse explicitly links the recitation of the Sahasranāma to the attainment of the 'Purusharthas'—the four legitimate aims of human life.",
       "The repetition of 'Arthī' (seeker) and the corresponding result emphasizes the law of 'Yat Bhāvam Tat Bhavati' (as is your intent, so is the result).",
@@ -206,13 +214,14 @@ const verses = [
     anvaya  : [
       "यः भक्तिमान् सदा उत्थाय शुचिः तद्गतमानसः (सन्) वासुदेवस्य एतत् नाम्नां सहस्रं प्रकीर्तयेत् (सः शुभं विन्दति) ।"
     ],
-    transl  : [],
-    essence : [
+    prose  : [],
+    transl : [
       "That devotee who, rising early in the morning and purifying himself, recites this thousand names of Vasudeva with a mind solely concentrated on Him, attains great auspiciousness."
     ],
-    essence_tel : [
+    transl_tel : [
       "భక్తి గలవాడై, ప్రతిరోజూ ఉదయాన్నే నిద్రలేచి, శుచిగా (బాహ్య అంతర శుద్ధితో), మనస్సును ఆయనపైనే నిలిపి, వాసుదేవుని ఈ వెయ్యి నామములను పఠించేవాడు శుభములను పొందుతాడు."
     ],
+    essence: [],
     meanings: [
       "Bhaktimān = One endowed with devotion",
       "Yaḥ = Who / He who",
@@ -226,6 +235,7 @@ const verses = [
       "Etat = This",
       "Prakīrtayet = Should recite / proclaim"
     ],
+    grammar: [],
     notes   : [
       "This verse defines the 'Adhikari' (qualified practitioner). The results are not just for anyone, but for one who possesses Bhakti and discipline.",
       "The phrase 'Sadotthāya' (Sada + Utthāya) implies the importance of the Brahma Muhurta—the early morning hours—for spiritual practice.",
@@ -252,13 +262,14 @@ const verses = [
     anvaya  : [
       "विपुलं यशः प्राप्नोति, ज्ञातिप्राधान्यम् एव च (प्राप्नोति), अचलां श्रियं आप्नोति, अनुत्तमं श्रेयः प्राप्नोति ।"
     ],
-    transl  : [],
-    essence : [
+    prose  : [],
+    transl : [
       "He acquires great fame and becomes the most prominent among his kinsmen. He attains steady and enduring prosperity, and reaches the highest, unsurpassed good (liberation)."
     ],
-    essence_tel : [
+    transl_tel : [
       "అతడు గొప్ప కీర్తిని పొందుతాడు, తన బంధువులలో ప్రముఖుడవుతాడు, స్థిరమైన ఐశ్వర్యాన్ని పొందుతాడు మరియు అన్నింటికంటే గొప్పదైన శ్రేయస్సును (మోక్షాన్ని) పొందుతాడు."
     ],
+    essence: [],
     meanings: [
       "Yaśaḥ = Fame / reputation",
       "Prāpnoti = Attains / acquires",
@@ -271,6 +282,7 @@ const verses = [
       "Śreyaḥ = Goodness / spiritual well-being",
       "Anuttamam = Unsurpassed / supreme"
     ],
+    grammar: [],
     notes   : [
       "This verse addresses both the social (Preyas) and spiritual (Shreyas) needs of a human being.",
       "The term 'Acalāṃ Śriyam' is significant; while wealth usually fluctuates, the prosperity gained through this stotra is said to be 'steady' because it is rooted in divine grace.",
@@ -297,13 +309,14 @@ const verses = [
     anvaya  : [
       " (सः) क्वचित् भयं न आप्नोति, वीर्यं तेजः च विन्दति, अरोगः द्युतिमान् बल-रूप-गुण-अन्वितः च भवति ।"
     ],
-    transl  : [],
-    essence : [
+    prose  : [],
+    transl : [
       "The devotee never meets with fear from any quarter; he gains valor and energy. He becomes free from diseases, glows with a divine luster, and is endowed with strength, beauty, and noble qualities."
     ],
-    essence_tel : [
+    transl_tel : [
       "అతడు ఎక్కడా ఎప్పుడూ భయాన్ని పొందడు, పరాక్రమాన్ని మరియు తేజస్సును పొందుతాడు. రోగాలు లేనివాడుగా, కాంతివంతుడుగా, బలము, చక్కని రూపము మరియు ఉత్తమ గుణములతో కూడినవాడు అవుతాడు."
     ],
+    essence: [],
     meanings: [
       "Na bhayaṃ = No fear",
       "Kvacit = At any place / at any time",
@@ -317,6 +330,7 @@ const verses = [
       "Dyutimān = Luminous / glowing / brilliant",
       "Bala-rūpa-guṇa-anvitaḥ = Endowed with strength, beauty, and good qualities"
     ],
+    grammar: [],
     notes   : [
       "This verse highlights the 'holistic health' benefits of the stotra. It covers psychological health (fearlessness), physical health (Aroga/Bala), and character (Guna).",
       "Fearlessness (Abhaya): One of the primary fruits of Vishnu worship is the removal of 'Bhava-Bhaya' (fear of existence) and worldly anxieties.",
@@ -343,13 +357,14 @@ const verses = [
     anvaya  : [
       "रोगार्तः रोगात् मुच्यते, बद्धः बन्धनात् मुच्येत, भीतः भयात् मुच्येत, आपन्नः आपदः (च) मुच्येत ।"
     ],
-    transl  : [],
-    essence : [
+    prose  : [],
+    transl : [
       "He who is suffering from disease is freed from his ailment; he who is in bondage is released from his shackles; he who is gripped by fear is freed from that fear; and he who is beset by calamities is delivered from his misfortunes."
     ],
-    essence_tel : [
+    transl_tel : [
       "రోగి వ్యాధి నుండి విముక్తి పొందుతాడు, బంధనాలలో చిక్కుకున్నవాడు ఆ బంధనాల నుండి విడుదలవుతాడు, భయపడేవాడు భయం నుండి విముక్తుడవుతాడు మరియు ఆపదలలో ఉన్నవాడు ఆ కష్టాల నుండి గట్టెక్కుతాడు."
     ],
+    essence: [],
     meanings: [
       "Roga-ārtaḥ = One afflicted by disease",
       "Mucyate = Is freed / is released",
@@ -363,6 +378,7 @@ const verses = [
       "Āpannaḥ = One who has fallen into trouble",
       "Āpadaḥ = From calamities / misfortunes"
     ],
+    grammar: [],
     notes   : [
       "This verse specifically addresses the 'Aarta' (the distressed) category of devotees mentioned in the Bhagavad Gita. It promises immediate relief from acute crises.",
       "The term 'Bandhanāt' (bondage) is interpreted in two ways: literally, as release from prison or legal entanglements, and philosophically, as release from the 'bondage of Karma'.",
@@ -389,13 +405,14 @@ const verses = [
     anvaya  : [
       "यः पुरुषः भक्ति-समन्वितః (सन्) नित्यं नाम-सहस्रेण पुरुषोत्तमम् स्तुवन्, (सः) दुर्गाणि आशु अतितरति ।"
     ],
-    transl  : [],
-    essence : [
+    prose  : [],
+    transl : [
       "That person who, with constant devotion, praises the Supreme Being (Purushottama) with this thousand names, quickly overcomes all difficult and insurmountable obstacles."
     ],
-    essence_tel : [
+    transl_tel : [
       "ఎవడైతే భక్తితో నిండినవాడై, ప్రతిరోజూ ఈ నామ సహస్రంతో పురుషోత్తముడిని స్తుతిస్తాడో, అట్టి మనిషి దాటలేనటువంటి కష్టాలను కూడా అతి త్వరగా దాటివేస్తాడు."
     ],
+    essence: [],
     meanings: [
       "Durgāṇi = కష్టతరమైన అడ్డంకులు / దాటశక్యం కాని కష్టాలు",
       "Atitarati = దాటుతాడు / అధిగమిస్తాడు",
@@ -407,6 +424,7 @@ const verses = [
       "Nityaṃ = నిరంతరం / ప్రతిరోజూ",
       "Bhakti-samanvitaḥ = భక్తితో కూడినవాడై"
     ],
+    grammar: [],
     notes   : [
       "ఈ శ్లోకంలో 'దుర్గాణి' అనే పదం చాలా కీలకమైనది. దీని అర్థం కోట గోడల వంటి దాటలేని అడ్డంకులు. కేవలం భౌతిక సమస్యలే కాకుండా, మానసిక మరియు ఆధ్యాత్మిక అవరోధాలను కూడా విష్ణు నామ సంకీర్తన తొలగిస్తుందని భీష్ముడు చెబుతున్నాడు.",
       "పురుషోత్తమ తత్త్వం: క్షర (నశించేది), అక్షర (నశించనిది) అనే రెండు పురుషుల కంటే అతీతుడు కాబట్టి ఆ పరమాత్మను 'పురుషోత్తముడు' అని అంటారు. అట్టి సర్వోన్నతుడిని స్తుతించడం వల్ల అసాధ్యమైనది ఏదీ ఉండదు.",
@@ -433,13 +451,14 @@ const verses = [
     anvaya  : [
       "वासुदेवाश्रयः वासुदेवपरायणः मर्त्यः सर्वपापविशुद्धात्मा (भूत्वा) सनातनम् ब्रह्म याति ।"
     ],
-    transl  : [],
-    essence : [
+    prose  : [],
+    transl : [
       "That mortal who has taken sole refuge in Vasudeva and who regards Vasudeva as the highest goal, becomes purified of all sins and attains the eternal Brahman (Supreme Reality)."
     ],
-    essence_tel : [
+    transl_tel : [
       "వాసుదేవుడిని ఆశ్రయించినవాడు, వాసుదేవుడే పరమ గతి అని నమ్మిన మనుష్యుడు, సమస్త పాపాల నుండి విముక్తుడై పరిశుద్ధమైన మనస్సుతో శాశ్వతమైన బ్రహ్మమును (మోక్షమును) పొందుతాడు."
     ],
+    essence: [],
     meanings: [
       "Vāsudeva-āśrayaḥ = One who has taken refuge in Vasudeva",
       "Martyaḥ = A mortal / human being",
@@ -449,6 +468,7 @@ const verses = [
       "Brahma = The Supreme Reality / Brahman",
       "Sanātanam = Eternal / ancient / timeless"
     ],
+    grammar: [],
     notes   : [
       "This verse defines the path of 'Prapatti' (surrender). A 'Martya' (mortal subject to death) becomes 'Amrta' (immortal) by aligning with the 'Sanatana' (eternal).",
       "The term 'Vāsudeva-parāyaṇaḥ' suggests that the devotee doesn't just worship for favors, but sees the Lord as the end-goal itself.",
@@ -475,13 +495,14 @@ const verses = [
     anvaya  : [
       "वासुदेवभक्तानां क्वचित् अशुभं न विद्यते, (तेषां) जन्म-मृत्यु-जरा-व्याधि-भयं न एव उपजायते ।"
     ],
-    transl  : [],
-    essence : [
+    prose  : [],
+    transl : [
       "For the devotees of Vasudeva, there is never any inauspiciousness. The fear of birth, death, old age, and disease never arises for them again."
     ],
-    essence_tel : [
+    transl_tel : [
       "వాసుదేవ భక్తులకు ఎన్నడూ, ఎక్కడా అశుభం కలగదు. వారికి పుట్టుక, మరణం, ముసలితనం మరియు వ్యాధుల వల్ల కలిగే భయం అసలే ఉండదు."
     ],
+    essence: [],
     meanings: [
       "Na = No / Not",
       "Vāsudeva-bhaktānām = For the devotees of Vasudeva",
@@ -492,6 +513,7 @@ const verses = [
       "Na eva = Not at all",
       "Upajāyate = Arises / is produced"
     ],
+    grammar: [],
     notes   : [
       "This verse is the pinnacle of the Phalaśruti's assurance. It echoes the famous declaration in the Bhagavad Gita: 'Na me bhaktaḥ praṇaśyati' (My devotee never perishes).",
       "The phrase 'Janma-mṛtyu-jarā-vyādhi' identifies the four fundamental sufferings of the material world. By chanting the 1,000 names, one rises above the identification with the body, thereby conquering the fear associated with these four stages.",
@@ -518,13 +540,14 @@ const verses = [
     anvaya  : [
       "श्रद्धाभक्तिसमन्वितः इमं स्तवम् अधीयानः (पुण्यवान्) आत्मसुख-क्षान्ति-श्री-धृति-स्मृति-कीर्तिभिः युज्येत ।"
     ],
-    transl  : [],
-    essence : [
+    prose  : [],
+    transl : [
       "One who studies this hymn with deep faith and devotion becomes endowed with the bliss of the self, forgiveness, prosperity, fortitude, memory, and fame."
     ],
-    essence_tel : [
+    transl_tel : [
       "శ్రద్ధాభక్తులతో ఈ స్తోత్రాన్ని పఠించేవాడు ఆత్మసుఖము, క్షమ, ఐశ్వర్యము, ధైర్యము, జ్ఞాపకశక్తి మరియు కీర్తిని పొందుతాడు."
     ],
+    essence: [],
     meanings: [
       "Imaṃ stavaṃ = This hymn (the Sahasranama)",
       "Adhīyānaḥ = One who studies / recites",
@@ -537,6 +560,7 @@ const verses = [
       "Smṛti = Memory / mindfulness",
       "Kīrtibhiḥ = With fame / reputation"
     ],
+    grammar: [],
     notes   : [
       "This verse highlights the 'Guna-Vibhuti' (attributes of excellence) that develop in a devotee. It describes a total personality transformation.",
       "The term 'Ātma-sukha' is profound; it refers to a happiness that is independent of external objects, arising from within the self.",
@@ -563,13 +587,14 @@ const verses = [
     anvaya  : [
       "पुरुषोत्तमे (रतानां) कृतपुण्यानां भक्तानां न क्रोधः, न च मात्सर्यं, न लोभः, न अशुभा मतिः भवन्ति ।"
     ],
-    transl  : [],
-    essence : [
+    prose  : [],
+    transl : [
       "In those devotees of the Supreme Being (Purushottama) who have acquired great merit, there exists no anger, no jealousy, no greed, and no evil thoughts."
     ],
-    essence_tel : [
+    transl_tel : [
       "పురుషోత్తముడైన ఆ విష్ణుమూర్తి యందు భక్తి కలిగి, పుణ్యం చేసుకున్న భక్తులలో కోపం, అసూయ, లోభం మరియు చెడు ఆలోచనలు ఉండవు."
     ],
+    essence: [],
     meanings: [
       "Na krodhaḥ = No anger",
       "Na ca mātsaryam = Nor any jealousy/envy",
@@ -580,6 +605,7 @@ const verses = [
       "Bhaktānām = Of the devotees",
       "Puruṣottame = In (the devotion to) the Supreme Being"
     ],
+    grammar: [],
     notes   : [
       "This verse describes the 'Sattvic' state of a devotee. True success of the Sahasranama is measured by the reduction of these negative emotions.",
       "The phrase 'Kṛta-puṇyānām' suggests that only through the accumulation of spiritual merit does one gain the steadiness of mind required for such high-level devotion.",
@@ -606,13 +632,14 @@ const verses = [
     anvaya  : [
       "स-चन्द्र-अर्क-नक्षत्रा द्यौः, खं, दिशः, भूः, महोदधिः (च) महात्मनः वासुदेवस्य वीर्येण विधृतानि ।"
     ],
-    transl  : [
+    prose  : [
       "The sky, along with the moon, sun, and stars; the ether, the directions, the earth, and the great ocean—all are supported and held together by the power of the high-souled Vasudeva."
     ],
-    essence : [],
-    essence_tel : [
+    transl : [],
+    transl_tel : [
       "చంద్రుడు, సూర్యుడు, నక్షత్రాలతో కూడిన ఆకాశం, అంతరిక్షం, దిక్కులు, భూమి మరియు మహాసముద్రం—ఇవన్నీ మహాత్ముడైన వాసుదేవుని శక్తిచేతనే ధరింపబడి ఉన్నాయి."
     ],
+    essence: [],
     meanings: [
       "Dyauḥ = The sky / heavens",
       "Sa-candra-arka-nakṣatrā = Together with the moon, sun, and stars",
@@ -625,6 +652,7 @@ const verses = [
       "Vidhṛtāni = Are supported / held / maintained",
       "Mahātmanaḥ = Of the great-souled One"
     ],
+    grammar: [],
     notes   : [
       "Per your instruction, the essence has been moved here: The sky, along with the moon, sun, and stars; the ether, the directions, the earth, and the great ocean—all are supported and held together by the power of the high-souled Vasudeva.",
       "This verse highlights the 'Vibhuti' or the cosmic majesty of the Lord. It establishes that the same Vasudeva whose names we chant is the fundamental force holding the cosmos in place.",
@@ -651,13 +679,14 @@ const verses = [
     anvaya  : [
       "स-सुर-असुर-गन्धर्वं स-यक्ष-उरग-राक्षसम् स-चर-अचरम् इदं जगत् कृष्णस्य वशे वर्तते ।"
     ],
-    transl  : [
+    prose  : [
       "This entire world, comprising gods, demons, and celestial singers; along with yakshas, serpents, and giants; including everything that moves and is stationary, remains under the control of Lord Krishna."
     ],
-    essence : [],
-    essence_tel : [
+    transl : [],
+    transl_tel : [
       "దేవతలు, అసురులు, గంధర్వులు, యక్షులు, నాగులు, రాక్షసులతో కూడినది మరియు చరాచర రూపమైన ఈ సమస్త జగత్తు శ్రీకృష్ణుని ఆధీనంలోనే ఉన్నది."
     ],
+    essence: [],
     meanings: [
       "Sa-sura-asura-gandharvaṃ = Including gods, demons, and celestial musicians",
       "Sa-yakṣa-uraga-rākṣasam = Along with Yakshas, serpents (Nagas), and giants",
@@ -668,6 +697,7 @@ const verses = [
       "Kṛṣṇasya = Of Krishna",
       "Sa-cara-acaram = With everything moving and unmoving"
     ],
+    grammar: [],
     notes   : [
       "Per your instruction, the essence has been moved here: This entire world, comprising gods, demons, and celestial singers; along with yakshas, serpents, and giants; including everything that moves and is stationary, remains under the control of Lord Krishna.",
       "The term 'Vaśe' (under control) suggests that Krishna is the 'Ishwara'—the supreme regulator of the laws of nature and karma.",
@@ -695,13 +725,14 @@ const verses = [
     anvaya  : [
       "इन्द्रियाणि, मनः, बुद्धिः, सत्त्वं, तेजः, बलं, धृतिः, क्षेत्रं, क्षेत्रज्ञः च एव वासुदेवात्मकानि आहुः ।"
     ],
-    transl  : [
+    prose  : [
       "The senses, the mind, the intellect, the ego (sattva), energy, strength, and fortitude—all these, it is said, have Vasudeva as their inner soul. So too are the body (kshetra) and the knower of the body (kshetrajna)."
     ],
-    essence : [],
-    essence_tel : [
+    transl : [],
+    transl_tel : [
       "ఇంద్రియములు, మనస్సు, బుద్ధి, సత్త్వగుణము, తేజస్సు, బలము, ధైర్యము—ఇవన్నీ వాసుదేవ స్వరూపములేనని పెద్దలు చెబుతారు. అలాగే క్షేత్రము (శరీరము) మరియు క్షేత్రజ్ఞుడు (జీవాత్మ) కూడా ఆయన రూపాలే."
     ],
+    essence: [],
     meanings: [
       "Indriyāṇi = The senses (perceptive and active)",
       "Manaḥ = The mind",
@@ -716,6 +747,7 @@ const verses = [
       "Kṣetrajñaḥ = The knower of the field (the soul/consciousness)",
       "Eva ca = And also / certainly"
     ],
+    grammar: [],
     notes   : [
       "Per your instruction, the essence has been moved here: The senses, the mind, the intellect, the ego (sattva), energy, strength, and fortitude—all these, it is said, have Vasudeva as their inner soul. So too are the body (kshetra) and the knower of the body (kshetrajna).",
       "This verse is deeply philosophical, drawing from Sankhya and Yoga. It states that both matter (Prakriti/Kshetra) and spirit (Purusha/Kshetrajna) are non-different from Vasudeva.",
@@ -742,13 +774,14 @@ const verses = [
     anvaya  : [
       "सर्व-आगमानाम् आचारः प्रथमं परिकल्पते, आचारप्रभवः धर्मः, धर्मस्य (च) प्रभुः अच्युतः (अस्ति) ।"
     ],
-    transl  : [
+    prose  : [
       "In all the scriptures (Agamas), right conduct (Achara) is established as the first and foremost thing. From right conduct is born Dharma, and of Dharma, Achyuta is the Lord."
     ],
-    essence : [],
-    essence_tel : [
+    transl : [],
+    transl_tel : [
       "సకల శాస్త్రాలలోను ఆచారమే (సరైన ప్రవర్తన) మొదటిదిగా చెప్పబడింది. అట్టి ఆచారము నుండి ధర్మము పుడుతుంది. ఆ ధర్మానికి అధిపతి అచ్యుతుడైన శ్రీమన్నారాయణుడు."
     ],
+    essence: [],
     meanings: [
       "Sarva-āgamānām = Of all the scriptures / traditional wisdom",
       "Ācāraḥ = Right conduct / behavior / practice",
@@ -760,6 +793,7 @@ const verses = [
       "Prabhuḥ = Lord / Master / Sovereign",
       "Acyutaḥ = Achyuta (The Infallible One)"
     ],
+    grammar: [],
     notes   : [
       "Per your instruction, the essence has been moved here: In all the scriptures (Agamas), right conduct (Achara) is established as the first and foremost thing. From right conduct is born Dharma, and of Dharma, Achyuta is the Lord.",
       "The Hierarchy of Truth: Bhishma creates a beautiful chain of command: Achara (Practice) → Dharma (Principles) → Achyuta (The Personification).",
@@ -787,13 +821,14 @@ const verses = [
     anvaya  : [
       "ऋषयः, पितरः, देवाः, महाभूतानि, धातवः, इदं जङ्गमाजङ्गमं जगत् च नारायणोद्भवम् (अस्ति) ।"
     ],
-    transl  : [
+    prose  : [
       "The Sages, the Ancestors, the Gods, the Great Elements, and the bodily constituents; this entire world of moving and unmoving beings, has its origin in Narayana."
     ],
-    essence : [],
-    essence_tel : [
+    transl : [],
+    transl_tel : [
       "ఋషులు, పితృదేవతలు, దేవతలు, పంచభూతములు, శరీర ధాతువులు—ఇవన్నీ మరియు ఈ చరాచర జగత్తు అంతా నారాయణుడి నుండి పుట్టినవే."
     ],
+    essence: [],
     meanings: [
       "Ṛṣayaḥ = The Seers / Sages (the repositories of knowledge)",
       "Pitaraḥ = The Ancestors (the lineage of life)",
@@ -805,6 +840,7 @@ const verses = [
       "Jagat = World / Universe",
       "Nārāyaṇa-udbhavam = Born of / originated from Narayana"
     ],
+    grammar: [],
     notes   : [
       "Per your instruction, the essence has been moved here: The Sages, the Ancestors, the Gods, the Great Elements, and the bodily constituents; this entire world of moving and unmoving beings, has its origin in Narayana.",
       "Comprehensive Origin: This verse covers all dimensions of existence—the past (Ancestors), the spiritual (Sages/Gods), the physical (Elements), and the biological (Constituents).",
@@ -832,13 +868,14 @@ const verses = [
     anvaya  : [
       "योगः, ज्ञानं, तथा साङ्ख्यं, विद्याः, शिल्पादि कर्म च, वेदाः, शास्त्राणि, विज्ञानं (च) - एतत् सर्वं जनार्दनात् (प्रवृत्तम्) ।"
     ],
-    transl  : [
+    prose  : [
       "Yoga, spiritual knowledge, the Sankhya philosophy, the various sciences, arts, and crafts; the Vedas, the scriptures, and specific secular knowledge—all these have originated from Janardana."
     ],
-    essence : [],
-    essence_tel : [
+    transl : [],
+    transl_tel : [
       "యోగము, జ్ఞానము, సాంఖ్యము, వివిధ విద్యలు, శిల్పాది కళలు, వేదాలు, శాస్త్రాలు మరియు విజ్ఞానము—ఇవన్నీ జనార్దనుడి నుండి పుట్టినవే."
     ],
+    essence: [],
     meanings: [
       "Yogaḥ = The path of union / meditation",
       "Jñānaṃ = Spiritual wisdom / direct realization",
@@ -850,6 +887,7 @@ const verses = [
       "Vijñānam = Specialized or scientific knowledge",
       "Janārdanāt = From Janardana (He who is prayed to for liberation)"
     ],
+    grammar: [],
     notes   : [
       "Per your instruction, the essence has been moved here: Yoga, spiritual knowledge, the Sankhya philosophy, the various sciences, arts, and crafts; the Vedas, the scriptures, and specific secular knowledge—all these have originated from Janardana.",
       "Inclusivity of Knowledge: Bhishma emphasizes that there is no divide between 'sacred' and 'secular' knowledge. Even crafts (Shilpa) and specialized sciences (Vijnanam) are divine in origin.",
@@ -877,13 +915,14 @@ const verses = [
     anvaya  : [
       "विभुः एकः विष्णुः अनेकानि भूतानि अन्तः चरन्, सर्वान् त्रयान् लोकान् व्याप्य, विश्वभुక్ अव्ययः (सन्) भुङ्क्ते ।"
     ],
-    transl  : [
+    prose  : [
       "The one all-pervading Vishnu, dwelling within the hearts of diverse beings and pervading all the three worlds, experiences and enjoys everything as the inexhaustible protector of the universe."
     ],
-    essence : [],
-    essence_tel : [
+    transl : [],
+    transl_tel : [
       "సర్వవ్యాపకుడైన విష్ణువు ఒక్కడే అయినప్పటికీ, అనేకమైన భూతాల (జీవుల) అంతరాత్మగా సంచరిస్తూ, మూడు లోకాలను వ్యాపించి ఉన్నాడు. ఆ నిత్యుడైన పరమాత్మ విశ్వమంతటినీ అనుభవిస్తూ అందరినీ రక్షిస్తున్నాడు."
     ],
+    essence: [],
     meanings: [
       "Ekaḥ = The One",
       "Viṣṇuḥ = Vishnu (The All-pervasive)",
@@ -898,6 +937,7 @@ const verses = [
       "Viśva-bhuk = The consumer/protector of the universe",
       "Avyayaḥ = The Inexhaustible / Imperishable One"
     ],
+    grammar: [],
     notes   : [
       "Per your instruction, the essence has been moved here: The one all-pervading Vishnu, dwelling within the hearts of diverse beings and pervading all the three worlds, experiences and enjoys everything as the inexhaustible protector of the universe.",
       "Immanence and Transcendence: This verse beautifully captures both qualities of God. He is 'Antah-caran' (inside every atom) and 'Vyāpya' (outside, encompassing all worlds).",
@@ -925,13 +965,14 @@ const verses = [
     anvaya  : [
       "यः पुरुषः श्रेयः सुखानि च प्राप्तुम् इच्छेत्, (सः) व्यासेन कीर्तितम् भगवतः विष्णोः इमं स्तवं पठेत् ।"
     ],
-    transl  : [
+    prose  : [
       "A person who desires to attain supreme spiritual good and worldly happiness should recite this hymn of Lord Vishnu, which was composed and proclaimed by the great sage Vyasa."
     ],
-    essence : [],
-    essence_tel : [
+    transl : [],
+    transl_tel : [
       "ఎవరైతే మోక్షాన్ని (శ్రేయస్సును), ఇహలోక సుఖాలను పొందాలని కోరుకుంటారో, అట్టి వారు వేదవ్యాస మహర్షి చేత చెప్పబడిన భగవంతుడైన విష్ణుమూర్తి యొక్క ఈ స్తోత్రాన్ని పఠించాలి."
     ],
+    essence: [],
     meanings: [
       "Imaṃ stavaṃ = This hymn",
       "Bhagavataḥ Viṣṇoḥ = Of Lord Vishnu",
@@ -946,6 +987,7 @@ const verses = [
       "Sukhāni = Happiness / comforts",
       "Ca = And"
     ],
+    grammar: [],
     notes   : [
       "Per your instruction, the essence has been moved here: A person who desires to attain supreme spiritual good and worldly happiness should recite this hymn of Lord Vishnu, which was composed and proclaimed by the great sage Vyasa.",
       "The Authority of Sage Vyasa: By mentioning Vyasa, Bhishma emphasizes the 'Arsha' (divine/sage-like) origin of the stotra, ensuring its authenticity and power.",
@@ -973,13 +1015,14 @@ const verses = [
     anvaya  : [
       "ये अजम्, देवं, जगतః प्रभुమ్, अव्ययम्, पुष्कराक्षं विश्वेश्वरम् भजन्ति, ते पराभवम् न यान्ति ।"
     ],
-    transl  : [
+    prose  : [
       "Those who worship the Lord of the Universe, the unborn, the divine, the inexhaustible master of the world, the lotus-eyed one—they never meet with any defeat or humiliation."
     ],
-    essence : [],
-    essence_tel : [
+    transl : [],
+    transl_tel : [
       "విశ్వేశ్వరుడు, పుట్టుక లేనివాడు, దివ్యప్రకాశవంతుడు, జగత్ప్రభువు, నాశరహితుడు మరియు పద్మముల వంటి కన్నులు గలవాడైన ఆ పరమాత్మను ఎవరు భజిస్తారో, వారు ఎన్నటికీ పరాజయాన్ని పొందరు."
     ],
+    essence: [],
     meanings: [
       "Viśveśvaram = The Lord of the Universe",
       "Ajam = The Unborn",
@@ -994,6 +1037,7 @@ const verses = [
       "Yānti = Go to / attain",
       "Parābhavam = Defeat / humiliation / downfall"
     ],
+    grammar: [],
     notes   : [
       "Per your instruction, the essence has been moved here: Those who worship the Lord of the Universe, the unborn, the divine, the inexhaustible master of the world, the lotus-eyed one—they never meet with any defeat or humiliation.",
       "The Promise of Victory: This is a 'Sarvabhauma' (universal) assurance. The term 'Parābhava' implies not just physical defeat, but spiritual or moral downfall as well.",
@@ -1023,13 +1067,14 @@ const verses = [
     anvaya  : [
       "हे पद्मपत्रविशालाक्ष! हे पद्मनाभ! हे सुरोत्तम! हे जनार्दन! अनुरक्तानां भक्तानां त्राता भव ।"
     ],
-    transl  : [
+    prose  : [
       "O Lord with eyes as broad as the petals of a lotus, O You with a lotus in Your navel, O best among the gods! O Janardana, please be the protector of Your devotees who are deeply attached to You."
     ],
-    essence : [],
-    essence_tel : [
+    transl : [],
+    transl_tel : [
       "తామర రేకుల వంటి విశాలమైన కన్నులు కలవాడా! పద్మనాభుడా! దేవతలలో శ్రేష్ఠుడా! జనార్దనా! నీపై అమితమైన అనురాగం (భక్తి) కలిగిన భక్తులకు నువ్వు రక్షకుడవు కావాలి."
     ],
+    essence: [],
     meanings: [
       "Padma-patra-viśāla-akṣa = One whose eyes are as broad/large as lotus petals",
       "Padmanābha = One with a lotus emerging from the navel",
@@ -1040,6 +1085,7 @@ const verses = [
       "Bhava = Become / Be",
       "Janārdana = O Janardana (He who is prayed to for liberation / He who destroys the wicked)"
     ],
+    grammar: [],
     notes   : [
       "Per your instruction, the essence has been moved here: O Lord with eyes as broad as the petals of a lotus, O You with a lotus in Your navel, O best among the gods! O Janardana, please be the protector of Your devotees who are deeply attached to You.",
       "Anuraktānām: This word is special. It doesn't just mean 'devotee' (Bhakta), but someone whose heart is 'colored' (Rakta) with love for the Divine. It implies an emotional and personal bond.",
@@ -1069,13 +1115,14 @@ const verses = [
     anvaya  : [
       "हे पाण्डव! यः मां नामसहस्रेण स्तोतुम् इच्छति, सः अहम् एकेन श्लोकेन स्तुतः एव, (అత్ర) संशयः न (अस्ति) ।"
     ],
-    transl  : [
+    prose  : [
       "The Supreme Lord said: O Pandava (Arjuna)! He who desires to praise Me by chanting the thousand names—by him I am considered praised even by a single verse; there is no doubt about this."
     ],
-    essence : [],
-    essence_tel : [
+    transl : [],
+    transl_tel : [
       "శ్రీభగవానుడు పలికెను: ఓ పాండవా! ఎవరైతే నన్ను వెయ్యి నామాలతో స్తుతించాలని కోరుకుంటారో, అట్టి వాడు ఒక్క శ్లోకంతో నన్ను స్తుతించినా నేను సంపూర్ణంగా స్తుతించబడినట్టే భావిస్తాను. ఇందులో ఎటువంటి సందేహం లేదు."
     ],
+    essence: [],
     meanings: [
       "Yaḥ = ఎవడైతే",
       "Māṃ = నన్ను",
@@ -1088,6 +1135,7 @@ const verses = [
       "Stutaḥ eva = స్తుతించబడినవాడినే",
       "Na saṃśayaḥ = సందేహం లేదు"
     ],
+    grammar: [],
     notes   : [
       "Per your instruction, the essence has been moved here: The Supreme Lord said: O Pandava (Arjuna)! He who desires to praise Me by chanting the thousand names—by him I am considered praised even by a single verse; there is no doubt about this.",
       "భగవంతుని సౌలభ్యం: వెయ్యి నామాలను పఠించే సమయం లేదా శక్తి లేని వారికి భగవంతుడే స్వయంగా ఇస్తున్న వెసులుబాటు ఇది. భక్తి ప్రధానమే కానీ సంఖ్య కాదు అని దీని అర్థం.",
@@ -1117,13 +1165,14 @@ const verses = [
     anvaya  : [
       "वासुदेवस्य वासनात् भुवनत्रयम् वासितम्, (हे) वाసుదేవ! (त्वम्) सर्वभूतनिवासः असि, ते नमः अस्तु ।"
     ],
-    transl  : [
+    prose  : [
       "By the indwelling of Vasudeva, all the three worlds are permeated. O Vasudeva, You are the dwelling place of all beings; salutations be unto You."
     ],
-    essence : [],
-    essence_tel : [
+    transl : [],
+    transl_tel : [
       "వాసుదేవుని ఉనికి (వాసన) వల్లనే మూడు లోకాలు నిండి ఉన్నాయి. ఓ వాసుదేవా! నీవు సమస్త భూతాలకు నివాసస్థానమై ఉన్నావు. నీకు ఇవే మా నమస్కారాలు."
     ],
+    essence: [],
     meanings: [
       "Vāsanāt = నివసించడం వల్ల / ఉనికి వల్ల (సువాసన వలె వ్యాపించడం)",
       "Vāsudevasya = వాసుదేవుని యొక్క",
@@ -1134,6 +1183,7 @@ const verses = [
       "Vāsudeva = ఓ వాసుదేవా",
       "Namaḥ astu te = నీకు నమస్కారము కలుగుగాక"
     ],
+    grammar: [],
     notes   : [
       "Per your instruction, the essence has been moved here: By the indwelling of Vasudeva, all the three worlds are permeated. O Vasudeva, You are the dwelling place of all beings; salutations be unto You.",
       "వాసుదేవ శబ్ద నిర్వచనం: 'వస్' ధాతువుకు నివసించడం అని అర్థం. లోకమంతా ఆయనలో ఉంది, ఆయన లోకమంతటా ఉన్నాడు. అందుకే ఆయన వాసుదేవుడు. పూలల్లో సువాసన ఎలాగైతే కంటికి కనిపించకుండా నిండి ఉంటుందో, అలాగే పరమాత్మ ఈ జగమంతా నిండి ఉన్నాడని 'వాసనాత్' అనే పదం సూచిస్తోంది.",
@@ -1163,13 +1213,14 @@ const verses = [
     anvaya  : [
       "हे प्रभो! पण्डितैः विष्णोः नामसहस्रकम् नित्यं केन लघुना उपायेन पठ्यते, अहम् (तत्) श्रोतुम् इच्छामि ।"
     ],
-    transl  : [],
-    essence : [
+    prose  : [],
+    transl : [
       "Parvati said: O Lord! By what short or easy method is the thousand names of Vishnu recited daily by the learned? I wish to hear that, O Master."
     ],
-    essence_tel : [
+    transl_tel : [
       "పార్వతీ దేవి పలికెను: ఓ నాథా! విద్వాంసులు ప్రతిరోజూ పఠించే ఈ విష్ణు సహస్రనామములను ఏ సులభమైన ఉపాయము ద్వారా పఠించవచ్చునో తెలుసుకోవాలని నేను కోరుకుంటున్నాను."
     ],
+    essence: [],
     meanings: [
       "Kena upāyena = ఏ ఉపాయము ద్వారా",
       "Laghunā = సులభమైన / లఘువైన",
@@ -1181,6 +1232,7 @@ const verses = [
       "Ahaṃ = నేను",
       "Prabho = ఓ ప్రభూ / ఓ నాథా"
     ],
+    grammar: [],
     notes   : [
       "మీ సూచన ప్రకారం, essence లో ఉండవలసిన వివరాలను ఇక్కడ నోట్స్ కి మార్చడమైనది: పార్వతీ దేవి పలికెను: ఓ నాథా! విద్వాంసులు ప్రతిరోజూ పఠించే ఈ విష్ణు సహస్రనామములను ఏ సులభమైన ఉపాయము ద్వారా పఠించవచ్చునో తెలుసుకోవాలని నేను కోరుకుంటున్నాను.",
       "జగన్మాత జిజ్ఞాస: పార్వతీ దేవికి తెలియనిది ఏదీ లేదు, కానీ లోక కల్యాణం కోసం, సామాన్య ప్రజల సౌకర్యం కోసం ఆమె శివుడిని ఈ ప్రశ్న అడిగింది. దీనివల్లనే మనకు 'శ్రీ రామ రామ రామేతి' అనే మంత్రం లభించింది.",
@@ -1209,13 +1261,14 @@ const verses = [
     anvaya  : [
       "हे वरानने! मनोरमे रामे 'శ్రీరామ రామ రామ' ఇతి (అహం) రమే, రామనామ (హి) తత్ సహస్రనామ తుల్యమ్ (భవతి) ।"
     ],
-    transl  : [],
-    essence : [
+    prose  : [],
+    transl : [
       "Lord Shiva said: O Varānana (beautiful-faced one)! I enjoy chanting the name of Rama as 'Sri Rama, Rama, Rama,' which delights the mind. Indeed, the name of Rama is equivalent to the entire thousand names of Vishnu."
     ],
-    essence_tel : [
+    transl_tel : [
       "పరమశివుడు పలికెను: ఓ సుందర వదనము కలదానా (పార్వతీ)! 'శ్రీరామ రామ రామ' అని పఠిస్తూ, మనస్సును రంజింపజేసే ఆ రామనామమునందే నేను రమిస్తుంటాను. ఆ రామనామము విష్ణు సహస్రనామములతో సమానమైనది."
     ],
+    essence: [],
     meanings: [
       "Śrīrāma Rāma Rāma iti = 'శ్రీరామ రామ రామ' అని",
       "Rame = రమిస్తాను / సంతోషిస్తాను",
@@ -1225,6 +1278,7 @@ const verses = [
       "Rāmanāma = రామ అనే నామము",
       "Varānane = ఓ శ్రేష్ఠమైన ముఖము కలదానా (పార్వతీ)"
     ],
+    grammar: [],
     notes   : [
       "మీ సూచన ప్రకారం, సారాంశంలోని వివరాలను ఇక్కడ నోట్స్ కి మార్చడమైనది: పరమశివుడు పలికెను: ఓ సుందర వదనము కలదానా (పార్వతీ)! 'శ్రీరామ రామ రామ' అని పఠిస్తూ, మనస్సును రంజింపజేసే ఆ రామనామమునందే నేను రమిస్తుంటాను. ఆ రామనామము విష్ణు సహస్రనామములతో సమానమైనది.",
       "రామ నామ గణితం: 'రామ' నామం వెయ్యి నామాలతో ఎలా సమానం అనేదానికి పెద్దలు ఒక వివరణ ఇస్తారు. కటపయాది సంఖ్యా శాస్త్రం ప్రకారం: 'ర' అంటే 2, 'మ' అంటే 5. రామ (2x5) = 10. మూడు సార్లు రామ రామ రామ అని పఠిస్తే 10x10x10 = 1000 అవుతుంది.",
@@ -1254,13 +1308,14 @@ const verses = [
     anvaya  : [
       "अनन्ताय, सहस्रमूर्तये, सहस्रपादाक्षिशिरोरुबाहवे, सहस्रनाम्ने, शाश्वते पुरुषाय, सहस्रकोटीयुगधारिणे (తుభ్యం) नमः अस्तु, नमः ।"
     ],
-    transl  : [],
-    essence : [
+    prose  : [],
+    transl : [
       "Salutations to the Infinite One, who has a thousand forms, who has a thousand feet, eyes, heads, thighs, and arms. Salutations to that eternal Being who has a thousand names and who sustains thousands of crores of ages (Yugas)."
     ],
-    essence_tel : [
+    transl_tel : [
       "అనంతుడు, సహస్ర రూపములు కలవాడు, వేల సంఖ్యలో పాదములు, కన్నులు, శిరస్సులు, ఊరువులు (తొడలు), బాహువులు కలవాడు, వెయ్యి నామములు కలవాడు, శాశ్వతుడు మరియు కోట్లాది యుగములను ధరించువాడైన ఆ పురుషోత్తమునికి నమస్కారము."
     ],
+    essence: [],
     meanings: [
       "Namaḥ astu = నమస్కారము కలుగుగాక",
       "Anantāya = అంతము లేనివానికి",
@@ -1271,6 +1326,7 @@ const verses = [
       "Śāśvate = శాశ్వతుడైనవానికి",
       "Sahasra-koṭī-yuga-dhāriṇe = వేల కోట్ల యుగాలను ధరించే వానికి"
     ],
+    grammar: [],
     notes   : [
       "మీ సూచన ప్రకారం, సారాంశంలోని వివరాలను ఇక్కడ నోట్స్ కి మార్చడమైనది: అనంతుడు, సహస్ర రూపములు కలవాడు, వేల సంఖ్యలో పాదములు, కన్నులు, శిరస్సులు, ఊరువులు (తొడలు), బాహువులు కలవాడు, వెయ్యి నామములు కలవాడు, శాశ్వతుడు మరియు కోట్లాది యుగములను ధరించువాడైన ఆ పురుషోత్తమునికి నమస్కారము.",
       "పురుష సూక్త సారము: ఈ శ్లోకం ఋగ్వేదంలోని పురుష సూక్తాన్ని ('సహస్రశీర్షా పురుషః...') స్మరింపజేస్తుంది. భగవంతుడు ఈ విశ్వమంతా తానే అయి ఉన్నాడని బ్రహ్మ దేవుడు ఇక్కడ ధృవీకరిస్తున్నాడు.",
@@ -1300,13 +1356,14 @@ const verses = [
     anvaya  : [
       "यत्र योगेश्वरः कृष्णः (अस्ति), यत्र (చ) धनुर्धरः पार्थः (अस्ति), तत्र श्रीः, विजयः, भूतिः, ध्रुवा नीतिः (च भविष्यति), (इति) मम मतिः (अस्ति) ।"
     ],
-    transl  : [],
-    essence : [
+    prose  : [],
+    transl : [
       "Sanjaya said: Wherever there is Krishna, the Lord of Yoga, and wherever there is Arjuna, the wielder of the bow, there will certainly be prosperity, victory, extraordinary power, and firm morality; this is my firm opinion."
     ],
-    essence_tel : [
+    transl_tel : [
       "సంజయుడు పలికెను: యోగేశ్వరుడైన శ్రీకృష్ణుడు ఎక్కడ ఉంటాడో, గాండీవ ధారియైన అర్జునుడు ఎక్కడ ఉంటాడో, అక్కడ సంపద, విజయం, ఐశ్వర్యం మరియు స్థిరమైన నీతి ఉంటాయని నా నిశ్చితాభిప్రాయం."
     ],
+    essence: [],
     meanings: [
       "Yatra = ఎక్కడైతే",
       "Yogeśvaraḥ = యోగములకు ప్రభువైన",
@@ -1320,6 +1377,7 @@ const verses = [
       "Dhruvā nītiḥ = స్థిరమైన నీతి / ధర్మం",
       "Matiḥ mama = నా అభిప్రాయం"
     ],
+    grammar: [],
     notes   : [
       "మీ సూచన ప్రకారం, సారాంశంలోని వివరాలను ఇక్కడ నోట్స్ కి మార్చడమైనది: సంజయుడు పలికెను: యోగేశ్వరుడైన శ్రీకృష్ణుడు ఎక్కడ ఉంటాడో, గాండీవ ధారియైన అర్జునుడు ఎక్కడ ఉంటాడో, అక్కడ సంపద, విజయం, ఐశ్వర్యం మరియు స్థిరమైన నీతి ఉంటాయని నా నిశ్చితాభిప్రాయం.",
       "విజయ రహస్యం: భగవంతుని సంకల్పం (యోగేశ్వర కృష్ణుడు) మరియు మనిషి యొక్క కర్మ/ప్రయత్నం (ధనుర్ధర పార్థుడు) ఎక్కడైతే ఏకమవుతాయో, అక్కడ విజయం అనేది అనివార్యం.",
@@ -1349,13 +1407,14 @@ const verses = [
     anvaya  : [
       "ये अनन्याः जनाः माम् चिन्तयन्तः पर्युपासते, नित्य-अभियुक्तानाम् तेषाम् योग-क्षेमम् अहम् वहामि ।"
     ],
-    transl  : [],
-    essence : [
+    prose  : [],
+    transl : [
       "The Supreme Lord said: To those people who worship Me with single-minded devotion, constantly thinking of Me and ever-united with Me, I personally carry their needs and provide them security (Yoga-kshema)."
     ],
-    essence_tel : [
+    transl_tel : [
       "శ్రీభగవానుడు పలికెను: ఏ మనుష్యులైతే అన్యచింతన లేకుండా నన్నే స్మరిస్తూ ఉపాసిస్తారో, నాయందే నిరంతరం నిమగ్నమై ఉండే అట్టి భక్తుల యోగక్షేమాలను నేనే స్వయంగా వహిస్తాను."
     ],
+    essence: [],
     meanings: [
       "Ananyāḥ = వేరొకటి లేకుండా / అనన్యమైన",
       "Cintayantaḥ = చింతిస్తూ / స్మరిస్తూ",
@@ -1368,6 +1427,7 @@ const verses = [
       "Vahāmi = మోస్తాను / వహిస్తాను",
       "Aham = నేను"
     ],
+    grammar: [],
     notes   : [
       "మీ సూచన ప్రకారం, సారాంశంలోని వివరాలను ఇక్కడ నోట్స్ కి మార్చడమైనది: శ్రీభగవానుడు పలికెను: ఏ మనుష్యులైతే అన్యచింతన లేకుండా నన్నే స్మరిస్తూ ఉపాసిస్తారో, నాయందే నిరంతరం నిమగ్నమై ఉండే అట్టి భక్తుల యోగక్షేమాలను నేనే స్వయంగా వహిస్తాను.",
       "యోగము మరియు క్షేమము: 'యోగం' అంటే మనకు లేని దానిని సమకూర్చడం, 'క్షేమం' అంటే ఉన్నదానిని రక్షించడం. భక్తుడి భౌతిక, ఆధ్యాత్మిక అవసరాలు రెండింటినీ భగవంతుడే చూసుకుంటాడని దీని అర్థం.",
@@ -1395,13 +1455,14 @@ const verses = [
     anvaya  : [
       "साधूनाम् परित्राणाय, दुष्कृताम् विनाशाय च, धर्मसंस्थापनार्थाय (अहम्) युगे युगे सम्भवामि ।"
     ],
-    transl  : [],
-    essence : [
+    prose  : [],
+    transl : [
       "For the protection of the righteous, for the destruction of the wicked, and for the sake of firmly establishing Dharma, I manifest Myself age after age."
     ],
-    essence_tel : [
+    transl_tel : [
       "సజ్జనులను రక్షించుటకు, దుష్టులను శిక్షించుటకు మరియు ధర్మమును చక్కగా స్థాపించుటకు నేను ప్రతి యుగమునందు అవతరిస్తుంటాను."
     ],
+    essence: [],
     meanings: [
       "Paritrāṇāya = సంపూర్ణంగా రక్షించుటకు",
       "Sādhūnāṃ = సజ్జనులను / ధర్మాత్ములను",
@@ -1412,6 +1473,7 @@ const verses = [
       "Sambhavāmi = పుడతాను / అవతరిస్తాను",
       "Yuge yuge = ప్రతి యుగమునందు"
     ],
+    grammar: [],
     notes   : [
       "మీ సూచన ప్రకారం, సారాంశంలోని వివరాలను ఇక్కడ నోట్స్ కి మార్చడమైనది: సజ్జనులను రక్షించుటకు, దుష్టులను శిక్షించుటకు మరియు ధర్మమును చక్కగా స్థాపించుటకు నేను ప్రతి యుగమునందు అవతరిస్తుంటాను.",
       "అవతార త్రయం: ఈ శ్లోకంలో భగవంతుడు తన అవతారాల వెనుక ఉన్న మూడు ప్రధాన కారణాలను స్పష్టం చేశాడు: సాధు రక్షణ, దుష్ట శిక్షణ, ధర్మ స్థాపన.",
@@ -1439,13 +1501,14 @@ const verses = [
     anvaya  : [
       "आर्ताः, विषण्णाः, शिथिलाः, भीताः, घोरेषु व्याधिषु वर्तमानाः च (ये), नारायणशब्दमात्रं सङ्कीर्त्य विमुक्तदुःखाः (सन्तः) सुखिनः भवन्ति ।"
     ],
-    transl  : [],
-    essence : [
+    prose  : [],
+    transl : [
       "Those who are afflicted, depressed, weak, frightened, or suffering from terrible diseases, by merely chanting the word 'Narayana,' become free from sorrow and attain happiness."
     ],
-    essence_tel : [
+    transl_tel : [
       "ఆర్తులు (దుఃఖితులు), విషాదంలో ఉన్నవారు, శారీరక శక్తి క్షీణించినవారు, భయపడినవారు మరియు ఘోరమైన వ్యాధులతో బాధపడేవారు - వీరందరూ 'నారాయణ' అనే శబ్దమును కీర్తించినంత మాత్రముననే దుఃఖాల నుండి విముక్తులై సుఖాన్ని పొందుతారు."
     ],
+    essence: [],
     meanings: [
       "Ārtāḥ = ఆర్తులు (బాధల్లో ఉన్నవారు)",
       "Viṣaṇṇāḥ = విషాదంలో ఉన్నవారు / నిరాశ చెందినవారు",
@@ -1458,6 +1521,7 @@ const verses = [
       "Vimukta-duḥkhāḥ = దుఃఖము నుండి విడుదల పొందినవారై",
       "Sukhinaḥ bhavanti = సుఖమును పొందుతారు"
     ],
+    grammar: [],
     notes   : [
       "మీ సూచన ప్రకారం, సారాంశంలోని వివరాలను ఇక్కడ నోట్స్ కి మార్చడమైనది: ఆర్తులు (దుఃఖితులు), విషాదంలో ఉన్నవారు, శారీరక శక్తి క్షీణించినవారు, భయపడినవారు మరియు ఘోరమైన వ్యాధులతో బాధపడేవారు - వీరందరూ 'నారాయణ' అనే శబ్దమును కీర్తించినంత మాత్రముననే దుఃఖాల నుండి విముక్తులై సుఖాన్ని పొందుతారు.",
       "శబ్ద మాత్రమ్: భగవంతుని కృప పొందడానికి పెద్ద పెద్ద యజ్ఞాలు చేయనక్కర్లేదు, 'నారాయణ' అనే నామాన్ని ఉచ్చరిస్తే చాలు అని ఈ శ్లోకం భరోసా ఇస్తోంది. ఇది నామ సంకీర్తన యొక్క శక్తిని తెలియజేస్తుంది.",
@@ -1485,13 +1549,14 @@ const verses = [
     anvaya  : [
       "कायेन, वाचा, मनसा, इन्द्रियैः, बुद्ध्या, आत्मना वा प्रकृतेः स्वभावात् यत् यत् करोमि, (तत्) सकलं परस्मै नारायणाय इति समर्पयामि ।"
     ],
-    transl  : [],
-    essence : [
+    prose  : [],
+    transl : [
       "Whatever I perform with my body, speech, mind, senses, intellect, or my innate nature, I offer it all to the Supreme Lord Narayana."
     ],
-    essence_tel : [
+    transl_tel : [
       "నా శరీరముతో, వాక్కుతో, మనస్సుతో, ఇంద్రియములతో, బుద్ధితో, ఆత్మతో లేదా నా ప్రకృతి స్వభావముతో నేను ఏమేమి చేస్తానో, అవన్నీ కూడా పరమాత్మయైన నారాయణుడికే సమర్పిస్తున్నాను."
     ],
+    essence: [],
     meanings: [
       "Kāyena = శరీరముతో",
       "Vācā = వాక్కుతో",
@@ -1505,6 +1570,7 @@ const verses = [
       "Parasmai Nārāyaṇāya = పరమాత్ముడైన నారాయణుడికి",
       "Samarpayāmi = సమర్పిస్తున్నాను"
     ],
+    grammar: [],
     notes   : [
       "మీ సూచన ప్రకారం, సారాంశంలోని వివరాలను ఇక్కడ నోట్స్ కి మార్చడమైనది: నా శరీరముతో, వాక్కుతో, మనస్సుతో, ఇంద్రియములతో, బుద్ధితో, ఆత్మతో లేదా నా ప్రకృతి స్వభావముతో నేను ఏమేమి చేస్తానో, అవన్నీ కూడా పరమాత్మయైన నారాయణుడికే సమర్పిస్తున్నాను.",
       "నిష్కామ కర్మ: ఈ శ్లోకం భగవద్గీతలోని కర్మయోగ సారానికి ప్రతిరూపం. మనం చేసే పనుల వల్ల వచ్చే పుణ్య పాపాలను మనం తీసుకోకుండా భగవంతుడికి అర్పించడం వల్ల మనసు నిర్మలమవుతుంది.",
