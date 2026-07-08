@@ -26,21 +26,25 @@ const Verse = ({ verse, type, compact }) => {
         <div className="text-2xl text-center font-bold pb-3">{verse.chapter} - {verse.number}</div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4">
           <Section type="sloka" lines={verse.sloka} />          
-          <Section type="essence" lines={verse.essence} />
+          <Section type="transl" lines={verse.transl} />
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4 mt-4">       
           <Section type="sloka_tel" lines={verse.sloka_tel} />
-          <Section type="essence_tel" lines={verse.essence_tel} />
+          <Section type="transl_tel" lines={verse.transl_tel} />
         </div>
         <div className="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-1 gap-4 mt-4">
           <Section type="vicheda" lines={verse.vicheda} />
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4 mt-4">       
           <Section type="anvaya" lines={verse.anvaya} />
-          <Section type="transl" lines={verse.transl} />
+          <Section type="prose" lines={verse.prose} />
         </div> 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4 mt-4">       
           <Section type="meanings" lines={verse.meanings} />
+          <Section type="grammar" lines={verse.grammar} />
+        </div>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4 mt-4">       
+          <Section type="essence" lines={verse.essence} />
           <Section type="notes" lines={verse.notes} />
         </div>
       </div>

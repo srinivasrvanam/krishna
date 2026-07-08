@@ -8,6 +8,7 @@ const verses = [
       'मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||',
     ],
     sloka_tel : [
+      "test telugu sloka"
     ],
     vicheda : [
       'तस्मात् असक्तः सततं कार्यं कर्म समाचर |',
@@ -17,15 +18,19 @@ const verses = [
       'तस्मात्, सततं असक्तः कार्यं कर्म समाचर |',
       'पूरुष: असक्तः कर्म आचरन् हि परम् आप्नोति |'
     ],
-    transl  : [
+    prose  : [
       "Therefore, always perform your prescribed duty without attachment. For by performing work without attachment, a person attains the supreme goal (liberation)." 
     ],
-    essence : [],
-    essence_tel: [
-      "",
+    transl : [
+      "test translation"
     ],
-    meanings: [],
-    notes   : [
+    transl_tel: [
+      "test telugu translation"
+    ],
+    essence : [
+      "test essence"
+    ],
+    meanings : [
       "तस्मात् = Therefore",
       "सक्तः = (सञ्ज् - 1P - to cling/to stick to/to attach) - क्त प्रत्यय (past) = one who is attached)",
       "असक्तः = one who is not attached (masculine)",
@@ -42,6 +47,12 @@ const verses = [
       "परम् = The supreme",
       "आप्नोति = Attains",
       "पूरुषः = A person"
+    ],
+    grammar : [
+      "test grammar"
+    ],
+    notes   : [
+      "test notes"
     ],
   },
 ];
