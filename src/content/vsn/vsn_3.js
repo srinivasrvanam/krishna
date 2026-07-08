@@ -25,15 +25,16 @@ const verses = [
       "क्षीरोदन्वत्प्रदेशे शुचिमणिविलसत्सैकते मौक्तिकानां माला-कॢप्तासनस्थः स्फटिकमणिनिभैः मौक्तिकैः मण्डिताङ्गः उपरि विरचितैः पियूषवर्षैः शुभ्रैः अदभ्रैः अभ्रैः (युक्तः) अरिनलिनगदाशङ्खपाणिः आनन्दी मुकुन्दः नः पुनीयात् ।",
       "TODO",
     ],
-    transl  : [
+    prose  : [
       "TODO",
     ],
-    essence : [
+    transl : [
       "May Mukunda, with the discus, lotus, mace, and conch in His hands, purify us. He is seated on a throne of pearls on the pure, gem-strewn sands of the Milk Ocean. His body is adorned with pearls clear as crystals, and He is delighted by the thick, white clouds above that shower nectar like rain."
     ],
-    essence_tel : [
+    transl_tel : [
       "పాలసముద్ర తీరమున, స్వచ్ఛమైన మణులతో ప్రకాశించు ఇసుక తిన్నెలపై, ముత్యాల మాలలతో నిర్మించబడిన ఆసనముపై కూర్చుని, స్ఫటికము వంటి తెల్లని ముత్యాల ఆభరణములతో అలంకరించబడినవాడై, అమృతమును కురిపించే తెల్లని మేఘముల క్రింద ఉన్నవాడై, శంఖ చక్ర గదా పద్మములను ధరించిన ముకుందుడు మనలను పవిత్రము చేయుగాక."
     ],
+    essence: [],
     meanings: [
       "Kṣīra-udanvat-pradeśe = In the region of the Milk Ocean",
       "Śuci-maṇi-vilasat-saikate = On the sands shining with pure gems",
@@ -48,6 +49,7 @@ const verses = [
       "Ari-nalina-gadā-śaṅkha-pāṇiḥ = Holding the Discus, Lotus, Mace, and Conch in His hands",
       "Mukundaḥ = Lord Mukunda (Giver of Liberation)"
     ],
+    grammar: [],
     notes   : [
       "This verse provides a complete visualization for meditation. It sets the scene in the Milky Ocean (Ksheera Sagara), describes the Lord's posture on a pearl-encrusted throne, His ornaments, and His weapons. The goal is to invoke 'Mukunda' (the giver of liberation) to purify the devotee's mind.",
       "Grammar: 'Punīyāt' is in the Āśīr-liṅ (Benedictive mood), expressing a prayer or wish: 'May He purify'.",
@@ -80,13 +82,14 @@ const verses = [
     anvaya  : [
       "यस्य भूः पादौ, नाभिः वियत्, असुरनिलः (प्राणः), चन्द्रसूर्यौ च नेत्रे, आशाः कर्णौ, द्यौः शिरः, मुखम् अपि दहनः, यस्य अब्धिः वास्तेयम्, यस्य अन्तःस्थं सुर-नर-खग-गो-भोगि-गन्धर्व-दैत्यैः चित्रं विश्वं रंरम्यते, तं त्रिभुवनवपुषं ईशं विष्णुं नमामि ।"
     ],
-    transl  : [],
-    essence : [
+    prose  : [],
+    transl : [
       "I bow to Lord Vishnu, the Master of the three worlds, whose feet are the earth, whose navel is the sky, whose breath is the wind, and whose eyes are the sun and the moon. His ears are the directions, His head is the heavens, and His mouth is the fire. The ocean is His stomach, and within Him, the entire diverse world—consisting of gods, humans, birds, animals, serpents, celestial singers, and demons—rejoices. I salute that Supreme Lord."
     ],
-    essence_tel : [
+    transl_tel : [
       "ఎవరికి భూమి పాదాలో, ఆకాశం నాభియో, గాలి ప్రాణమో, సూర్య చంద్రులు నేత్రములో, దిక్కులు చెవులో, స్వర్గం శిరస్సో, అగ్ని ముఖమో, సముద్రం పొట్టయో, ఎవరి గర్భంలో దేవతలు, మనుషులు, పక్షులు, పశువులు, పాములు, గంధర్వులు, రాక్షసులు ఉండి క్రీడిస్తున్నారో, అట్టి త్రిభువన రూపధారియైన విష్ణుమూర్తికి నమస్కరిస్తున్నాను."
     ],
+    essence: [],
     meanings: [
       "Bhūḥ = The Earth",
       "Pādau = The two feet",
@@ -110,6 +113,7 @@ const verses = [
       "Tribhuvana-vapuṣam = He whose body is the three worlds",
       "Namāmi = I bow / salute"
     ],
+    grammar: [],
     notes   : [
       "This shloka presents the concept of 'Viraṭ Puruṣa'. It encourages the devotee to see the physical elements of nature as parts of God's body. The earth, sky, sun, and oceans are not just matter, but divine anatomy. This meditation helps dissolve the ego by showing that all living beings reside within Him.",
       "Grammar: 'Raṃramyate' is a frequentative verb (Yaṅ-luganta), indicating an action that happens repeatedly and intensely—the joyful 'play' of creation.",
@@ -147,13 +151,14 @@ const verses = [
     anvaya  : [
       "भगवते वासुदेवाय नमः । शान्ताकारं भुजगशयनं पद्मनाभं सुरेशं विश्वाधारं गगनसदृशं मेघवर्णं शुभाङ्गम् लक्ष्मीकान्तं कमलनयनं योगिभिः ध्यानगम्यं भवभयहरं सर्वलोकैकनाथं विष्णुं वन्दे ।"
     ],
-    transl  : [],
-    essence : [
+    prose  : [],
+    transl : [
       "Salutations to the Blessed Lord Vasudeva. I salute Lord Vishnu, the sole master of all the worlds, the destroyer of the fear of worldly existence, who is of peaceful appearance, who rests on a serpent, who has a lotus in His navel, who is the Lord of the gods, who is the support of the universe, who is infinite like the sky, whose color is like that of clouds, who has auspicious limbs, who is the beloved of Lakshmi, who has lotus-like eyes, and who is reached by yogis through meditation."
     ],
-    essence_tel : [
+    transl_tel : [
       "ప్రశాంతమైన ఆకారం గలవాడు, శేషతల్పంపై శయనించువాడు, నాభిలో పద్మము కలవాడు, దేవతలకు ప్రభువు, విశ్వానికి ఆధారం, ఆకాశం వలె నిర్మలుడు, మేఘం వంటి వర్ణం కలవాడు, శుభప్రదమైన అవయవాలు కలవాడు, లక్ష్మీదేవికి ప్రియుడు, పద్మము వంటి కన్నులు కలవాడు, యోగుల ధ్యానము ద్వారా లభ్యమగువాడు, సంసార భయాన్ని పోగొట్టేవాడు మరియు సర్వలోకములకు నాథుడైన ఆ విష్ణుమూర్తికి నమస్కరిస్తున్నాను."
     ],
+    essence: [],
     meanings: [
       "Oṃ namo bhagavate vāsudevāya = Om, salutations to the Lord, the son of Vasudeva",
       "Śānta-ākāraṃ = Of peaceful form",
@@ -171,6 +176,7 @@ const verses = [
       "Bhava-bhaya-haraṃ = The destroyer of the fear of the cycle of birth and death",
       "Sarva-loka-eka-nātham = The supreme Lord of all the worlds"
     ],
+    grammar: [],
     notes   : [
       "This is one of the most famous meditative verses for Lord Vishnu, summarizing His transcendental and peaceful nature. It contrasts His role as the 'Support of the Universe' with His 'Peaceful Appearance,' suggesting that while He manages all of creation, He remains internally undisturbed.",
       "The verse serves as a bridge between the cosmic visualization of the previous sloka and the personal, graceful form of the Lord.",
@@ -203,13 +209,14 @@ const verses = [
     anvaya  : [
       "मेघश्यामं पीतकौशेयवासं श्रीवत्साङ्कं कौस्तुभोद्भासिताङ्गम् पुण्योपेतं पुण्डरीकायताक्षं सर्वलोकैकनाथं विष्णुं वन्दे ।"
     ],
-    transl  : [],
-    essence : [
+    prose  : [],
+    transl : [
       "I salute Lord Vishnu, the sole master of all the worlds, who is dark like a rain-bearing cloud, who wears yellow silk robes, who bears the mark of Srivatsa on His chest, whose body shines with the Kaustubha gem, who is endowed with holiness, and who has broad eyes like the petals of a lotus."
     ],
-    essence_tel : [
+    transl_tel : [
       "మేఘం వలె నల్లని వర్ణం కలవాడు, పట్టు పీతాంబరమును ధరించినవాడు, వక్షస్థలమున శ్రీవత్సమనే మచ్చ గలవాడు, కౌస్తుభ మణితో ప్రకాశించే శరీరము కలవాడు, పుణ్యమూర్తి, తామర రేకుల వంటి విశాలమైన కన్నులు కలవాడు మరియు సర్వలోకములకు నాథుడైన ఆ విష్ణుమూర్తికి నమస్కరిస్తున్నాను."
     ],
+    essence: [],
     meanings: [
       "Megha-śyāmaṃ = Dark/beautiful like a rain cloud",
       "Pīta-kauśeya-vāsaṃ = Wearing yellow silk garments",
@@ -221,6 +228,7 @@ const verses = [
       "Vande = I salute / bow",
       "Sarva-loka-eka-nātham = The one Lord of all the worlds"
     ],
+    grammar: [],
     notes   : [
       "This verse provides a vivid description for 'Sthūla Dhyāna' (meditation on the physical form), helping the practitioner fix the mind on specific divine attributes.",
       "The contrast between the dark skin (Megha-śyāma) and the yellow cloth (Pīta-vāsa) is a recurring motif in Sanskrit poetry, symbolizing the union of the infinite void with the creative energy of light.",
@@ -246,13 +254,14 @@ const verses = [
     anvaya  : [
       "समस्तभूतानाम् आदिभूताय भूभृते अनेकरूपरूपाय प्रभविष्णवे विष्णवे नमः ।"
     ],
-    transl  : [],
-    essence : [
+    prose  : [],
+    transl : [
       "Salutations to Lord Vishnu, the source of all beings, the supporter of the earth, who manifests in countless forms, and who is the all-pervading, supreme Lord of all power."
     ],
-    essence_tel : [
+    transl_tel : [
       "సమస్త ప్రాణులకు ఆది కారణమైనవాడు, భూమిని మోయువాడు, అనేక రూపములలో ప్రకాశించువాడు, సర్వవ్యాపి మరియు అత్యంత శక్తిమంతుడైన ఆ విష్ణుమూర్తికి నమస్కారము."
     ],
+    essence: [],
     meanings: [
       "Namaḥ = Salutations / Bow",
       "Samasta-bhūtānām = Of all living beings",
@@ -262,6 +271,7 @@ const verses = [
       "Viṣṇave = To Vishnu (the all-pervasive)",
       "Prabhaviṣṇave = To the one who is exceedingly powerful / the source of all origin"
     ],
+    grammar: [],
     notes   : [
       "This sloka serves as a universal salutation, recognizing the Lord not just as a deity, but as the underlying 'Bhuta' (element/reality) of every creature.",
       "The term 'Bhū-bhṛte' (Supporter of the Earth) refers both to the Lord as the Varaha avatar and to His constant maintenance of the physical world.",
@@ -294,13 +304,14 @@ const verses = [
     anvaya  : [
       "सशङ्खचक्रं सकिरीटकुण्डलं सपीतवस्त्रं सरसीरुहेक्षणम् सहारवक्षःस्थलकौस्तुभश्रियं चतुर्भुजं विष्णुं शिरसा नमामि ।"
     ],
-    transl  : [],
-    essence : [
+    prose  : [],
+    transl : [
       "I bow my head to the four-armed Lord Vishnu, who holds the conch and the discus, who wears a crown and earrings, who is clad in yellow silk robes, whose eyes are like the lotus, and whose chest is adorned with pearl necklaces and the radiant Kaustubha gem."
     ],
-    essence_tel : [
+    transl_tel : [
       "శంఖ చక్రములను ధరించినవాడు, కిరీటము మరియు కుండలములతో ప్రకాశించువాడు, పీతాంబరమును ధరించినవాడు, పద్మము వంటి కన్నులు కలవాడు, వక్షస్థలమున హారములతోను కౌస్తుభ మణితోను శోభిల్లువాడు మరియు నాలుగు భుజములు కలవాడైన ఆ విష్ణుమూర్తికి తల వంచి నమస్కరిస్తున్నాను."
     ],
+    essence: [],
     meanings: [
       "Sa-śaṅkha-cakraṃ = Along with the Conch and Discus",
       "Sa-kirīṭa-kuṇḍalaṃ = Along with the Crown and Earrings",
@@ -312,6 +323,7 @@ const verses = [
       "Śirasā = With the head (lowered in humility)",
       "Catuḥ-bhujam = The four-armed one"
     ],
+    grammar: [],
     notes   : [
       "This verse is an 'Aṅga-Dhyāna', where the seeker moves their mental focus from the Lord's weapons to His face, then His robes, and finally His chest, concluding with a full prostration (Śirasā Namāmi).",
       "The prefix 'Sa-' (Saha) is used repeatedly to emphasize that the Lord is always inseparable from His divine ornaments and weapons.",
@@ -344,13 +356,14 @@ const verses = [
     anvaya  : [
       "पारिजातस्य छायायां हेमसिंहासनोपरि आसीनम्, अम्बुदश्यामम्, आयताक्षम्, अलंकृतम्, चन्द्राननम्, चतुर्बाहुम्, श्रीवत्साङ्कितवक्षसम्, रुक्मिणीसत्यभामाभ्यां सहितं कृष्णम् आश्रये ।"
     ],
-    transl  : [],
-    essence : [
+    prose  : [],
+    transl : [
       "I take refuge in Lord Krishna, who is seated upon a golden throne under the shade of the celestial Parijata tree. He is dark as a water-laden cloud, with large eyes and beautiful ornaments. He has a face as pleasing as the moon, four arms, and the mark of Srivatsa on His chest. He is accompanied by His consorts, Rukmini and Satyabhama."
     ],
-    essence_tel : [
+    transl_tel : [
       "పారిజాత వృక్షము యొక్క నీడలో, బంగారు సింహాసనంపై కూర్చుని ఉన్నవాడు, మేఘం వంటి నల్లని వర్ణం కలవాడు, విశాలమైన కన్నులు కలవాడు, ఆభరణములతో అలంకరించబడినవాడు, చంద్రుని వంటి ముఖము కలవాడు, నాలుగు భుజములు కలిగి వక్షస్థలమున శ్రీవత్స చిహ్నము కలవాడు మరియు రుక్మిణీ సత్యభామలతో కూడి ఉన్నవాడైన శ్రీకృష్ణుడిని నేను ఆశ్రయిస్తున్నాను."
     ],
+    essence: [],
     meanings: [
       "Chāyāyāṃ = In the shade",
       "Pārijātasya = Of the (celestial) Parijata tree",
@@ -365,6 +378,7 @@ const verses = [
       "Rukmiṇī-satyabhāmābhyāṃ sahitaṃ = Together with Rukmini and Satyabhama",
       "Kṛṣṇam āśraye = I take refuge in Krishna"
     ],
+    grammar: [],
     notes   : [
       "This verse shifts the meditative focus to the 'Dvaraka-Lila' aspect of the Lord, where He is depicted as a king (*Raja-Gopala*).",
       "The Parijata tree represents the fulfillment of all desires, signifying that seeking refuge in Him grants both material and spiritual peace.",
