@@ -23,7 +23,7 @@ const verses = [
       "- (सर्व-विघ्न-उपशान्तये)",
       "ध्यायेत्",
     ],
-    transl  : [
+    prose  : [
       "- the one who wears white garments",
       "- the one who is all pervading (Vishnu)",
       "- the one who has a moon-like complexion",
@@ -32,16 +32,18 @@ const verses = [
       "- (for the removal of all obstacles)",
       "One should meditate upon",      
     ],
-    essence : [
+    transl : [
       "One should meditate upon Lord Ganesha (who wears white garments, has a moon-like complexion, and four arms, with a smiling face) for the removal of all obstacles.",
     ],
-    essence_tel: [
+    transl_tel: [
       "తెల్లని వస్త్రములు ధరించి, చంద్రకాంతితో ప్రకాశిస్తూ, నాలుగు భుజములు కలిగి, ప్రసన్నవదనముతో ఉన్న ఆ విఘ్నేశ్వరుని అన్ని ఆటంకములు తొలగిపోవుటకై ధ్యానించవలెను.",
     ],
+    essence: [],
     meanings: [
       "ध्यायेत् = one should meditate",
       "सर्व-विघ्न-उपशान्तये = for the pacification (उपशमनम्) of all obstacles",
     ],
+    grammar: [],
     notes   : [
       "ध्यायेत् = ध्यै — to meditate - विधिलिङ् (Potential Mood) - कर्तरि - प्र.पु. - एक.व. - परस्मै",
       "विधिलिङ् is used with 'should' in slokas to indicate a recommendation or advice.",
@@ -70,18 +72,19 @@ const verses = [
       "- (विष्वक्सेनं) तम्",
       "आश्रये",
     ],
-    transl  : [
+    prose  : [
       "I",
       "- whose attendants (elephant-faced and more than 100 in number) always destroys obstacles",
       "- him (Lord Vishwaksena)",
       "take refuge in",
     ],
-    essence : [
+    transl : [
       "I take refuge in Lord Vishvaksena, whose attendants (led by those with elephant faces) numbering more than a hundred, constantly destroy all obstacles.",
     ],
-    essence_tel: [
+    transl_tel: [
       "ఎవరి యొక్క గజముఖము వంటి ముఖము గల సేవకులు వందల సంఖ్యలో ఉండి నిరంతరము విఘ్నములను నశింపజేస్తారో, అట్టి విష్వక్సేనుడిని నేను శరణు వేడుతున్నాను."
     ],
+    essence: [],
     meanings: [
       "Yasya = Whose / Of whom",
       "Dvirada-vaktra-ādyāḥ = Led by those with the face of an elephant (Gajavaktra)",
@@ -94,6 +97,7 @@ const verses = [
       "Tam = Him (In that person)",
       "Āśraye = I take refuge / I seek shelter"
     ],
+    grammar: [],
     notes   : [
       "In the Vaishnava tradition, Vishvaksena is the commander-in-chief. This verse seeks his protection by acknowledging that even his subordinates are powerful enough to remove hundreds of obstacles.",
       "Grammar: 'Āśraye' is Lat-lakara (Present Tense), Uttama Purusha (1st Person Singular), Atmanepada. It corresponds to 'ఆశ్రయిస్తున్నాను' in Telugu.",
@@ -127,7 +131,7 @@ const verses = [
       "- व्यासं",
       "वन्दे",
     ],
-    transl  : [
+    prose  : [
       "I",
       "- the great-grandson of Vashistha",
       "- the grandson of Shakti",
@@ -138,12 +142,13 @@ const verses = [
       "- Sage Vyasa",
       "salute",
     ],
-    essence : [
+    transl : [
       "I salute Sage Vyasa, who is the great-grandson of Vashistha, the grandson of Shakti, the son of Parashara, the father of Shuka, the one free from all impurities, and a treasure of penance."
     ],
-    essence_tel: [
+    transl_tel: [
       "వశిష్ఠుని మునిమనుమడు, శక్తి యొక్క మనుమడు, పరాశరుని కుమారుడు, శుకమహర్షి తండ్రి, పాపము లేనివాడు మరియు తపస్సుకి నిధి వంటివాడైన వ్యాసమహర్షికి నేను నమస్కరిస్తున్నాను."
     ],
+    essence: [],
     meanings: [
       "Vyāsam = Sage Vyasa",
       "Vasiṣṭha-naptāram = The great-grandson of Vashistha",
@@ -154,6 +159,7 @@ const verses = [
       "Śuka-tātam = The father of Shuka",
       "Tapo-nidhim = A treasure-house of penance"
     ],
+    grammar: [],
     notes   : [
       "This verse pays homage to Sage Vyasa, the compiler of the Vedas and author of the Mahabharata, by tracing his holy lineage. It establishes his authority as a 'Taponidhi' (treasure-house of penance).",
       "Lineage Logic: Vashistha (Great-grandfather) -> Shakti (Grandfather) -> Parashara (Father) -> Vyasa.",
@@ -180,16 +186,17 @@ const verses = [
       "(विष्णुरूपाय) व्यासाय (व्यासरूपाय) विष्णवे नमः", 
       "(वै) ब्रह्मनिधये वासिष्ठाय नमः नमः"
     ],
-    transl  : [
+    prose  : [
       "Salutations to Vyasa who is the form of Vishnu, and to Vishnu who is the form of Vyasa.", 
       "Salutations again and again to the descendant of Vashistha who is a treasure of Vedic knowledge.",
     ],
-    essence : [
+    transl : [
       "Salutations to Vyasa who is the form of Vishnu, and to Vishnu who is the form of Vyasa. Salutations again and again to the descendant of Vashistha who is a treasure of Vedic knowledge.",
     ],
-    essence_tel : [
+    transl_tel : [
       "విష్ణు స్వరూపుడైన వ్యాసుడికి, వ్యాస స్వరూపుడైన విష్ణువుకి నమస్కారం. బ్రహ్మజ్ఞాన నిధి, వశిష్ఠ వంశీయుడైన వ్యాసమహర్షికి మరల మరల నమస్కారములు."
     ],
+    essence: [],
     meanings: [
       "Vyāsāya = To Vyasa",
       "Viṣṇu-rūpāya = To the one in the form of Vishnu",
@@ -201,6 +208,7 @@ const verses = [
       "Vāsiṣṭhāya = To the descendant of Vashistha",
       "Namo Namaḥ = Repeated salutations"
     ],
+    grammar: [],
     notes   : [
       "This shloka highlights the identity between Sage Vyasa and Lord Vishnu, suggesting that the Guru and the God are one. It identifies Vyasa as a divine incarnation who brought the treasure of Brahman (knowledge) to humanity.",
       "Grammar: Uses the Chaturthi Vibhakti (4th case) throughout because of the word 'Namaḥ'.",
@@ -227,16 +235,17 @@ const verses = [
       "- अविकाराय शुद्धाय नित्याय परमात्मने सदा-एक-रूप-रूपाय सर्व-जिष्णवे विष्णवे", 
       "नमः"
     ],
-    transl  : [
+    prose  : [
       "- to Lord Vishnu, who is changeless, pure, eternal, and the Supreme Self; who always possesses the same form, and who is the conqueror of everything.",
       "Salutations",
     ],
-    essence : [
+    transl : [
       "Salutations to Lord Vishnu, who is changeless, pure, eternal, and the Supreme Self; who always possesses the same form, and who is the conqueror of everything."
     ],
-    essence_tel : [
+    transl_tel : [
       "మార్పు లేనివాడు, పరిశుద్ధుడు, నిత్యుడు, పరమాత్మ స్వరూపుడు, ఎల్లప్పుడూ ఒకే రూపము కలిగినవాడు మరియు సమస్తమును జయించువాడైన విష్ణుమూర్తికి నమస్కారం."
     ],
+    essence: [],
     meanings: [
       "Avikārāya = To the one who is changeless / without modification",
       "Śuddhāya = To the one who is pure / untainted",
@@ -246,6 +255,7 @@ const verses = [
       "Viṣṇave = To Lord Vishnu",
       "Sarva-jiṣṇave = To the one who is victorious over everything"
     ],
+    grammar: [],
     notes   : [
       "This verse describes the absolute nature of the Divine. It portrays Vishnu not just as a deity with a form, but as the unchanging, eternal Brahman who remains constant throughout time and transcends all impurities.",
       "Grammar: Like the previous shloka, all adjectives are in the Chaturthi Vibhakti (4th case), indicating they qualify 'Viṣṇave' (to Vishnu).",
@@ -277,18 +287,19 @@ const verses = [
       "विष्णवे", 
       "नमः",
     ],
-    transl  : [
+    prose  : [
       "to the One whose mere remembrance liberates one from the bondage of birth and worldly existence",
       "to the Lord who is the source of all power",
       "to the Lord Vishnu",
       "Salutations",
     ],
-    essence : [
+    transl : [
       "Salutations to that all-powerful Lord Vishnu, by mere remembrance of whom one is liberated from the bondage of the cycle of birth and worldly existence.",      
     ],
-    essence_tel : [
+    transl_tel : [
       "ఎవరిని స్మరించినంత మాత్రము చేతనే మనిషి పుట్టుక అనే సంసార బంధము నుండి విముక్తి పొందుతాడో, అట్టి సర్వశక్తిమంతుడైన విష్ణుమూర్తికి నమస్కారం."
     ],
+    essence: [],
     meanings: [
       "Yasya = Whose / Of whom",
       "Smaraṇa-mātreṇa = By mere remembrance",
@@ -299,6 +310,7 @@ const verses = [
       "Viṣṇave = To Vishnu",
       "Prabhaviṣṇave = To the all-powerful / Lord of all"
     ],
+    grammar: [],
     notes   : [
       "This verse emphasizes the efficacy of 'Namasmarana' (chanting/remembering the name). It promises that the simple act of remembering Vishnu is sufficient to break the chains of Samsara (the cycle of birth and death).",
       "Grammar: 'Bandhanāt' is in the Pañcamī Vibhakti (5th case), indicating 'separation from' or 'liberation from'.",
@@ -328,16 +340,17 @@ const verses = [
       "धर्मान् अशेषेण पावनानि च सर्वशः श्रुत्वा", 
       "युधिष्ठिरः शान्तनवं पुनः एव अभि-अभाषत ।"
     ],
-    transl  : [
+    prose  : [
       "Having heard all the Dharmas in their entirety and various purifying acts",
       "Yudhishthira once again addressed Bhishma, the son of Shantanu.",
     ],
-    essence : [
+    transl : [
       "Sri Vaishampayana said: Having heard all the Dharmas in their entirety and various purifying acts, Yudhishthira once again addressed Bhishma, the son of Shantanu."
     ],
-    essence_tel : [
+    transl_tel : [
       "వైశంపాయన మహర్షి ఇలా పలికెను: సమస్త ధర్మములను, పుణ్య కార్యములను పూర్తిగా వినిన తరువాత, ధర్మరాజు శంతనుని కుమారుడైన భీష్ముడిని మరల ఇట్లు ప్రశ్నించెను."
     ],
+    essence: [],
     meanings: [
       "Śrī-Vaiśampāyana uvāca = Sage Vaishampayana said",
       "Śrutvā = Having heard",
@@ -351,6 +364,7 @@ const verses = [
       "Punaḥ-eva = Once again",
       "Abhyabhāṣata = Addressed / Spoke to"
     ],
+    grammar: [],
     notes   : [
       "After hearing a vast discourse on various duties and rituals from Bhishma on his bed of arrows, Yudhishthira remains inquisitive. He asks a set of six famous questions that lead to the revelation of the Vishnu Sahasranama.",
       "Grammar: 'Śrutvā' uses the Ktva-pratyaya (Gerund), indicating an action completed before the main verb.",
@@ -381,17 +395,18 @@ const verses = [
       "(वा अपि) एकं परायणम् किम्?", 
       "कम् स्तुवन्तः कम् अर्चन्तः मानवाः शुभम् प्राप्नुयुः?"
     ],
-    transl  : [
+    prose  : [
       "Who is the one Supreme Deity in the world?",
       "What is the one ultimate goal?",
       "By praising whom and by worshipping whom do human beings attain auspiciousness?"
     ],
-    essence : [
+    transl : [
       "Yudhishthira asked: Who is the one Supreme Deity in the world? What is the one ultimate goal (refuge)? By praising whom and by worshipping whom do human beings attain auspiciousness (salvation)?"
     ],
-    essence_tel : [
+    transl_tel : [
       "ధర్మరాజు అడుగుతున్నాడు: ఈ లోకంలో అందరికంటే గొప్ప దైవం ఎవరు? అందరూ చేరుకోవాల్సిన పరమపదం (గమ్యం) ఏది? ఎవరిని స్తుతించడం వల్ల, ఎవరిని పూజించడం వల్ల మానవులకు శుభము (మోక్షము) కలుగుతుంది?"
     ],
+    essence: [],
     meanings: [
       "Kim = Who / What",
       "Ekam = One / Sole",
@@ -406,6 +421,7 @@ const verses = [
       "Mānavāḥ = Human beings",
       "Śubham = Auspiciousness / Good fortune / Liberation"
     ],
+    grammar: [],
     notes   : [
       "Yudhishthira seeks to simplify the vast complexities of Dharma into direct answers. He asks: 1. Who is the sole God? 2. What is the highest goal? 3. Whose praise brings benefits? 4. Whose worship grants peace?",
       "Grammar: 'Stuvantaḥ' and 'Arcantaḥ' are present participles (Śatṛ-pratyaya) indicating ongoing action.",
@@ -433,16 +449,17 @@ const verses = [
       "सर्वधर्माणां कः धर्मः भवतः परमः मतः?", 
       "जन्तुः किम् जपन् जन्म-संसार-बन्धनात् मुच्यते?",
     ],
-    transl  : [
+    prose  : [
       "Which among all duties (Dharmas) is, in your opinion, the greatest?",
       "By chanting what does a living being find release from the bondage of the cycle of birth and worldly existence?",
     ],
-    essence : [
+    transl : [
       "Which among all duties (Dharmas) is, in your opinion, the greatest? By chanting what does a living being find release from the bondage of the cycle of birth and worldly existence?"
     ],
-    essence_tel : [
+    transl_tel : [
       "అన్ని ధర్మములలోను ఏ ధర్మము గొప్పదని మీ అభిప్రాయం? దేనిని జపించడం వల్ల మానవుడు ఈ పుట్టుక, మరణం అనే సంసార బంధం నుండి విముక్తి పొందుతాడు?"
     ],
+    essence: [],
     meanings: [
       "Kaḥ = Which / Who",
       "Dharmaḥ = Duty / Righteous path",
@@ -456,6 +473,7 @@ const verses = [
       "Jantuḥ = A living being / creature",
       "Janma-saṃsāra-bandhanāt = From the bondage of the cycle of birth and death"
     ],
+    grammar: [],
     notes   : [
       "Yudhishthira asks the final two of his six questions: 5. What is the ultimate Dharma above all others? 6. What specific Mantra or Name, when chanted, liberates a soul from the suffering of repeated births?",
       "Grammar: 'Japan' is a Present Participle (Śatṛ-pratyaya), meaning 'while chanting'.",
@@ -487,18 +505,19 @@ const verses = [
       "- जगत्प्रभुं देवदेवम् अनन्तं पुरुषोत्तमम्", 
       "स्तुवन्"
     ],
-    transl  : [
+    prose  : [
       "A person who is ever-alert / constantly diligent",
       "- with the thousand names",
       "- the Lord of the Universe, the God of gods, the Infinite One, and the Supreme Person (Highest among men/beings)",
       "while praising"
     ],
-    essence : [
+    transl : [
       "Bhishma said: A person who is ever-diligent and constantly alert, by praising the Lord of the Universe, the God of gods, the Infinite One, and the Supreme Person with His thousand names (attains the highest good)."
     ],
-    essence_tel : [
+    transl_tel : [
       "భీష్ముడు ఇట్లు పలికెను: ఎల్లప్పుడూ జాగరూకతతో ఉన్నవాడై, లోకనాథుడు, దైవములకు దైవము, అంతము లేనివాడు మరియు పురుషోత్తముడైన ఆ పరమాత్మను వేయి నామములతో స్తుతించుట ద్వారా మానవుడు (శుభములను పొందును)."
     ],
+    essence: [],
     meanings: [
       "Jagat-prabhum = The Lord of the Universe",
       "Deva-devam = The God of gods",
@@ -509,6 +528,7 @@ const verses = [
       "Puruṣaḥ = A person",
       "Satato-tthitaḥ = Ever-alert / Constantly diligent"
     ],
+    grammar: [],
     notes   : [
       "Bhishma begins his answer by identifying the object of worship: the Supreme Being who is both the master of the world and the highest of all persons. He suggests that the chanting of the Thousand Names (Sahasranama) should be done with constant alertness and devotion.",
       "Grammar: 'Stuvan' is a Present Participle (Śatṛ-pratyaya) in the Nominative case, masculine singular.",
@@ -538,18 +558,19 @@ const verses = [
       "- ध्यायन् स्तुवन् नमस्यन् च",
       "(शुभं प्राप्नोति) ।",
     ],
-    transl  : [
+    prose  : [
       "The worshiper (Yajamāna)",
       "- by always worshipping that imperishable Being (the Supreme Person) with devotion",
       "- by meditating on Him, by praising Him, and by bowing down to Him",
       "(attains the highest good)."
     ],
-    essence : [
+    transl : [
       "And also by always worshipping that imperishable Being with devotion, by meditating on Him, by praising Him, and by bowing down to Him, the worshiper (attains the highest good)."
     ],
-    essence_tel: [
+    transl_tel: [
       "ఆ అవ్యయుడైన పురుషుడిని ఎల్లప్పుడూ భక్తితో పూజిస్తూ, ధ్యానిస్తూ, స్తుతిస్తూ మరియు నమస్కరిస్తూ ఉండేవారు ఆ పరమాత్మను పొందుతారు (శుభములను పొందుతారు)."
     ],
+    essence: [],
     meanings: [
       "Tam = Him",
       "Eva = Only / Alone",
@@ -564,6 +585,7 @@ const verses = [
       "Namasyan = Saluting / Bowing",
       "Yajamānaḥ = The worshiper / The one performing the ritual"
     ],
+    grammar: [],
     notes   : [
       "Bhishma describes a complete form of worship that involves the mind, speech, and body (Trikaraṇa Śuddhi). He emphasizes that the 'Yajamāna' (seeker) should perform these acts—meditation, praise, and salutation—continuously and with deep devotion.",
       "Grammar: The words 'Arcayan', 'Dhyāyan', 'Stuvan', and 'Namasyan' are all Present Participles (Śatṛ-pratyaya). This indicates that the worshiper should perform these actions simultaneously or as a continuous flow.",
@@ -592,17 +614,18 @@ const verses = [
       "(अनादि-निधनं सर्व-लोक-महेश्वरम् लोक-अध्यक्षं) विष्णुं", 
       "नित्यं स्तुवन् ",      
     ],
-    transl  : [
+    prose  : [
       "One becomes transcended of all sorrows",
       "- Vishnu, who is without beginning or end, the supreme Lord of all worlds, and the witness of the universe.",
       "by constantly praising", 
     ],
-    essence : [
+    transl : [
       "By constantly praising Vishnu, who is without beginning or end, the supreme Lord of all worlds, and the witness of the universe, one becomes transcended of all sorrows."
     ],
-    essence_tel : [
+    transl_tel : [
       "ఆది అంతము లేనివాడు, సమస్త లోకములకు అధిపతి, లోకములను పర్యవేక్షించువాడైన విష్ణుమూర్తిని నిరంతరము స్తుతించువాడు సమస్త దుఃఖముల నుండి విముక్తుడవుతాడు."
     ],
+    essence: [],
     meanings: [
       "Anādi-nidhanam = One who has no beginning (Adi) and no end (Nidhana)",
       "Viṣṇuṃ = Lord Vishnu (The All-pervasive One)",
@@ -613,6 +636,7 @@ const verses = [
       "Sarva-duḥkha-atigaḥ = One who has gone beyond (transcended) all sorrows",
       "Bhavet = Should become / May become"
     ],
+    grammar: [],
     notes   : [
       "This verse provides the fruit of the action (Phala). Bhishma defines Vishnu as being beyond the constraints of time (birth and death) and as the presiding deity of all existence. He promises that regular chanting leads to the complete cessation of all types of suffering.",
       "Grammar: 'Bhavet' is in the Vidhi-liṅ Lakāra (Potential/Optative Mood), indicating a result that surely follows the cause.",
@@ -640,15 +664,16 @@ const verses = [
       "ब्रह्मण्यं सर्व-धर्म-ज्ञं लोकानां कीर्ति-वर्धनं", 
       "लोक-नाथं महद्-भूतं सर्व-भूत-भव-उद्भवम् ।"
     ],
-    transl  : [
+    prose  : [
       
     ],
-    essence : [
+    transl : [
       "I worship Him who is the protector of Brahman (the Vedas and the seekers), the knower of all Dharmas, the one who increases the glory of the worlds, the Lord of the universe, the Great Being, and the source from which all beings originate."
     ],
-    essence_tel : [
+    transl_tel : [
       "బ్రాహ్మణ్యులకు మరియు వేదములకు హితుడైనవాడు, సర్వ ధర్మములు తెలిసినవాడు, లోకములకు కీర్తిని పెంచువాడు, లోకములకు నాథుడు, గొప్పవాడు మరియు సర్వ ప్రాణుల ఉత్పత్తికి కారణమైన ఆ విష్ణుమూర్తిని (స్తుతించాలి)."
     ],
+    essence: [],
     meanings: [
       "Brahmaṇyaṃ = The protector/benefactor of Brahman (Vedas, Penance, Truth)",
       "Sarva-dharma-jñaṃ = The knower of all Dharmas",
@@ -657,6 +682,7 @@ const verses = [
       "Mahad-bhūtaṃ = The Great Being (The Supreme Reality)",
       "Sarva-bhūta-bhava-udbhavam = The source of the existence/origin of all beings"
     ],
+    grammar: [],
     notes   : [
       "Bhishma describes the Lord as the ultimate authority on Righteousness (Dharma) and the very source of existence. By calling Him 'Mahadbhutam', he refers to the Supreme Reality that is the cause of all causes, from whom every living entity is born.",
       "Grammar: All terms are in the Accusative case (2nd case), continuing the list of objects of 'Stuvan' (praising) from the previous verses.",
@@ -684,16 +710,17 @@ const verses = [
       "'नरः सदा यत् भक्त्या स्तवैः पुण्डरीकाक्षं अर्चेत्',", 
       "सर्वधर्माणां अधिकतमः धर्मः एषः मे मतः ।"
     ],
-    transl  : [
+    prose  : [
       "A person should always worship the lotus-eyed Lord (Vishnu) with devotion through hymns of praise.",
       "This, in my opinion, is the greatest of all Dharmas.",
     ],
-    essence : [
+    transl : [
       "This, in my opinion, is the greatest of all Dharmas: that a person should always worship the lotus-eyed Lord (Vishnu) with devotion through hymns of praise."
     ],
-    essence_tel: [
+    transl_tel: [
       "మనిషి ఎల్లప్పుడూ భక్తితో, స్తోత్రములతో ఆ పుండరీకాక్షుడిని (తామర కన్నులు గల విష్ణువును) పూజించడమే అన్ని ధర్మములలోకల్లా మిక్కిలి గొప్ప ధర్మమని నా అభిప్రాయం."
     ],
+    essence: [],
     meanings: [
       "Eṣaḥ = This (path)",
       "Me = My / To me",
@@ -708,6 +735,7 @@ const verses = [
       "Naraḥ = A person / man",
       "Sadā = Always"
     ],
+    grammar: [],
     notes   : [
       "Bhishma categorically answers the 5th question. He states that while there are many religious duties, the constant worship and chanting of the glories of the Lord is the highest path. He emphasizes 'Bhakti' (devotion) as the essential ingredient that makes this Dharma superior.",
       "Grammar: 'Adhikatamaḥ' uses the superlative suffix '-tama', meaning 'the most' or 'highest'.",
@@ -738,19 +766,20 @@ const verses = [
       "यः परमं परायणम्",
       "(सः विष्णुः) ।",
     ],
-    transl  : [
+    prose  : [
       "Who is the supreme and great light",
       "who is the supreme and great penance",
       "who is the supreme and great Brahman (truth)",
       "and who is the supreme ultimate goal",
       "(that is Vishnu)."
     ],
-    essence : [
+    transl : [
       "Who is the supreme and great light, who is the supreme and great penance, who is the supreme and great Brahman (truth), and who is the supreme ultimate goal."
     ],
-    essence_tel: [
+    transl_tel: [
       "ఎవరు గొప్పదైన తేజస్సో, ఎవరు గొప్పదైన తపస్సో, ఎవరు పరబ్రహ్మమో మరియు ఎవరు అందరికీ పరమ గమ్యస్థానమో ఆయనే విష్ణువు."
     ],
+    essence: [],
     meanings: [
       "Paramam = Supreme / Highest",
       "Yaḥ = Who / That which",
@@ -759,6 +788,7 @@ const verses = [
       "Mahad-brahma = The great Brahman (Infinite Reality)",
       "Parāyaṇam = The ultimate refuge / final destination"
     ],
+    grammar: [],
     notes   : [
       "This verse defines the Lord not as a physical person, but as the underlying essence of all spiritual concepts. He is the Light that illuminates the mind, the Power behind all austerities, the Absolute Truth (Brahman), and the final refuge for all souls.",
       "Grammar: The word 'Yaḥ' (Who) is used repeatedly to emphasize that all these supreme qualities belong to the singular entity of Vishnu.",
@@ -789,19 +819,20 @@ const verses = [
       "यः भूतानां अव्ययः पिता", 
       "(सः विष्णुः) ।"
     ],
-    transl  : [
+    prose  : [
       "Who is the sanctifier of all sanctifiers,", 
       "the most auspicious among the auspicious,", 
       "the God of all gods,", 
       "and the imperishable Father of all living beings.",
       "(That is Vishnu)."
     ],
-    essence : [
+    transl : [
       "Who is the sanctifier of all sanctifiers, the most auspicious among the auspicious, the God of all gods, and the imperishable Father of all living beings."
     ],
-    essence_tel: [
+    transl_tel: [
       "పవిత్రమైన వాటిని పవిత్రం చేసేవాడు, శుభప్రదమైన వాటిలో అత్యంత శుభప్రదమైనవాడు, దైవములకు దైవము మరియు సమస్త జీవరాశులకు శాశ్వతమైన తండ్రి ఆ విష్ణుమూర్తి."
     ],
+    essence: [],
     meanings: [
       "Pavitrāṇāṃ pavitram = The most pure among all pure things",
       "Maṅgalānāṃ = Among auspicious things",
@@ -811,6 +842,7 @@ const verses = [
       "Yaḥ = Who",
       "Avyayaḥ pitā = The imperishable/eternal Father"
     ],
+    grammar: [],
     notes   : [
       "Bhishma explains that even things we consider holy (like the Ganges or Fire) derive their purity from Him. He is the ultimate 'Mangalam' (auspiciousness). Furthermore, He is the 'Avyaya Pita'—the eternal father who, unlike earthly parents, never changes and is the source of all life.",
       "Grammar: The use of Genitive Case (6th case) plural—'Pavitrāṇāṃ', 'Maṅgalānāṃ', 'Daivatānāṃ'—followed by a singular noun creates a superlative effect (e.g., King of kings).",
@@ -839,17 +871,18 @@ const verses = [
       "युगक्षये च यस्मिन् पुनः एव प्रलयं यान्ति", 
       "(सः विष्णुः) ।"
     ],
-    transl  : [
+    prose  : [
       "At the beginning of the Yuga, where all the beings emerge from",
       "At the end of the Yuga, where all the beings merge back again",
       "(that is Vishnu)."
     ],
-    essence : [
+    transl : [
       "From whom all beings emerge at the beginning of the first age (Yuga), and into whom they all merge back again at the end of the age."
     ],
-    essence_tel: [
+    transl_tel: [
       "సృష్టి ఆరంభంలో సమస్త ప్రాణులు ఎవరి నుండి పుడుతున్నాయో, మరల ప్రళయ కాలంలో సమస్త ప్రాణులు ఎవరిలో కలిసిపోతాయో ఆయనే విష్ణువు."
     ],
+    essence: [],
     meanings: [
       "Yataḥ = From whom",
       "Sarvāṇi bhūtāni = All living beings",
@@ -861,6 +894,7 @@ const verses = [
       "Punaḥ-eva = Again indeed",
       "Yuga-kṣaye = At the end of the Yuga / cycle"
     ],
+    grammar: [],
     notes   : [
       "Bhishma describes the cyclic nature of time and the Lord's role as the material and efficient cause of the universe. Just as waves arise from the ocean and return to it, all living beings emerge from Vishnu during creation and dissolve back into Him during the great dissolution.",
       "Grammar: 'Yataḥ' (from whom) is in the 5th case (Ablative), indicating the source. 'Yasmin' (in whom) is in the 7th case (Locative), indicating the final resting place.",
@@ -890,18 +924,19 @@ const verses = [
       "- पापभयापहम् नामसहस्रं", 
       "मे शृणु ।"
     ],
-    transl  : [
+    prose  : [
       "O King!",
       "of the Lord of the Universe, the chief of the worlds, Vishnu,",
       "- the thousand names which destroy all sins and fears,",
       "listen from me."
     ],
-    essence : [
+    transl : [
       "O King! Listen from me to the thousand names of Lord Vishnu, who is the foremost in all the worlds and the Master of the universe—names which destroy all sins and fears."
     ],
-    essence_tel : [
+    transl_tel : [
       "ఓ రాజా! లోకములలో ప్రధానమైనవాడు, జగత్తుకు నాథుడైన ఆ విష్ణుమూర్తి యొక్క వెయ్యి నామములను నా నుండి వినుము. ఇవి పాపములను, భయములను పోగొట్టేవి."
     ],
+    essence: [],
     meanings: [
       "Tasya = Of Him",
       "Loka-pradhānasya = Of the foremost/chief of the worlds",
@@ -913,6 +948,7 @@ const verses = [
       "Śṛṇu = Listen (Imperative command)",
       "Pāpa-bhaya-apaham = That which destroys/removes sins and fears"
     ],
+    grammar: [],
     notes   : [
       "Bhishma addresses Yudhishthira as 'Bhupate' (Lord of the Earth) and introduces the Sahasranama as a spiritual tool. He highlights two primary benefits: 'Papa-apaham' (destruction of sins) and 'Bhaya-apaham' (removal of fear), specifically the fear of death and rebirth.",
       "Grammar: 'Śṛṇu' is in the Lot-lakāra (Imperative mood), which is a direct command or request to listen attentively.",
@@ -940,16 +976,17 @@ const verses = [
       "महात्मनः यानि गौणानि नामानि विख्यातानि (ऋषिभिः परिगीतानि) च,", 
       "तानि भूतये (ते) वक्ष्यामि ।"
     ],
-    transl  : [
+    prose  : [
       "those world-renowned names of the Great Soul (Vishnu), which are based on His divine attributes and have been sung by the great sages.",
       "I shall recite for your well-being",
     ],
-    essence : [
+    transl : [
       "I shall recite for your well-being those world-renowned names of the Great Soul (Vishnu), which are based on His divine attributes and have been sung by the great sages."
     ],
-    essence_tel: [
+    transl_tel: [
       "మహాత్ముడైన ఆ విష్ణుమూర్తి యొక్క ఏ నామములైతే ఆయన గుణములను తెలియజేస్తాయో, ఏవైతే మహర్షులచే గానం చేయబడ్డాయో, అట్టి ప్రసిద్ధ నామములను నీ శ్రేయస్సు కొరకు తెలియజేస్తున్నాను."
     ],
+    essence: [],
     meanings: [
       "Yāni = Which",
       "Nāmāni = Names",
@@ -962,6 +999,7 @@ const verses = [
       "Vakṣyāmi = I shall tell / recite",
       "Bhūtaye = For well-being / prosperity"
     ],
+    grammar: [],
     notes   : [
       "Bhishma clarifies that these names are 'Gaunani'—meaning they describe the qualities and actions of the Lord. He notes that these are not new inventions but are 'Parigeetani' (well-sung) by Rishis who have realized the Truth. The purpose of this recitation is 'Bhutaye'—for the prosperity and spiritual well-being of the listener.",
       "Grammar: 'Vakṣyāmi' is in the Lṛṭ-lakāra (Future Tense), first person singular ('I will speak').",
@@ -990,17 +1028,18 @@ const verses = [
       "छन्दः अनुष्टुप्,", 
       "तथा देवः भगवान् देवकीसुतः (अस्ति) ।"
     ],
-    transl  : [
+    prose  : [
       "The Rishi (Seer) of these thousand names is the great sage Vedavyasa;",
       "the Chhandas (Meter) is Anushtup;",
       "and the Deity is the Supreme Lord, the son of Devaki (Krishna/Vishnu)."
     ],
-    essence : [
+    transl : [
       "The Rishi (Seer) of these thousand names is the great sage Vedavyasa; the Chhandas (Meter) is Anushtup; and the Deity is the Supreme Lord, the son of Devaki (Krishna)."
     ],
-    essence_tel: [
+    transl_tel: [
       "ఈ విష్ణు సహస్రనామములకు కర్త (ఋషి) మహామునియైన వేదవ్యాసుడు. దీని ఛందస్సు అనుష్టుప్. దీనికి అధిష్టాన దైవము దేవకీ పుత్రుడైన శ్రీకృష్ణ పరమాత్మ."
     ],
+    essence: [],
     meanings: [
       "Ṛṣiḥ = The Seer/Sage (to whom the mantra was revealed)",
       "Nāmnāṃ sahasrasya = Of the thousand names",
@@ -1013,6 +1052,7 @@ const verses = [
       "Bhagavān = The Supreme Lord (possessing 6 divine opulences)",
       "Devakī-sutaḥ = The son of Devaki (Krishna)"
     ],
+    grammar: [],
     notes   : [
       "Every mantra has a Rishi, a Chhandas, and a Devata. Here, Vyasa is the visionary, the rhythm is the 32-syllable Anushtup meter, and the focus of worship is Krishna (Vishnu). Reciting this ensures the student acknowledges the source and structure of the knowledge.",
       "Grammar: 'Ṛṣiḥ' and 'Chandaḥ' are in the Nominative case (1st case), identifying the 'Who' and 'What'.",
@@ -1042,15 +1082,16 @@ const verses = [
       "तस्य हृदयं त्रिसामा (भवति)",
       "शान्त्यर्थे विनियुज्यते ।"
     ],
-    transl  : [
+    prose  : [
       
     ],
-    essence : [
+    transl : [
       "The 'Seed' is the one born from the moon; the 'Power' is the son of Devaki; the 'Heart' is the singer of the three Samas; and it is used for the attainment of peace."
     ],
-    essence_tel : [
+    transl_tel : [
       "ఈ స్తోత్రమునకు 'అమృతాంశూద్భవః' అనునది బీజము. 'దేవకీనందనః' అనునది శక్తి. 'త్రిసామా' అనునది హృదయము. ఇది శాంతి కొరకు వినియోగించబడుచున్నది."
     ],
+    essence: [],
     meanings: [
       "Amṛtāṃśu-udbhavaḥ = The one born from the nectar-rayed moon",
       "Bījaṃ = The Seed",
@@ -1062,6 +1103,7 @@ const verses = [
       "Śānti-arthe = For the sake of peace",
       "Viniyujyate = Is used / is applied"
     ],
+    grammar: [],
     notes   : [
       "This verse defines the mystical structure of the Sahasranama. The 'Seed' (Bijam) is the origin, the 'Power' (Shakti) is the driving force, and the 'Heart' (Hridayam) is the core essence. The purpose (Viniyoga) is declared as 'Shanti'—the attainment of peace.",
       "Grammar: 'Viniyujyate' is the simple passive form (Karmani Prayoga) of the root 'Yuj' with prefixes 'Vi' and 'Ni'.",
@@ -1089,16 +1131,17 @@ const verses = [
       "विष्णुं जिष्णुं महाविष्णुं प्रभविष्णुं महेश्वरम् अनेकरूपदैत्यान्तं पुरुषोत्तमम्", 
       "नमामि ।"
     ],
-    transl  : [
+    prose  : [
       "the Supreme Person, Vishnu, who is the victorious, the Great Vishnu, the all-powerful source of all, the Supreme Lord, and the destroyer of the many-formed demons",
       "I bow down to",
     ],
-    essence : [
+    transl : [
       "I bow to the Supreme Person, Vishnu, who is the victorious, the Great Vishnu, the all-powerful source of all, the Supreme Lord, and the destroyer of the many-formed demons."
     ],
-    essence_tel: [
+    transl_tel: [
       "సర్వవ్యాపియైనవాడు, జయశీలుడు, గొప్పవాడైన విష్ణువు, సర్వశక్తిమంతుడు, మహేశ్వరుడు, రకరకాల రూపాల్లో ఉండే రాక్షసులను సంహరించేవాడు మరియు పురుషోత్తముడైన ఆ స్వామికి నేను నమస్కరిస్తున్నాను."
     ],
+    essence: [],
     meanings: [
       "Viṣṇuṃ = The All-pervasive One",
       "Jiṣṇuṃ = The Victorious / Triumphant One",
@@ -1109,6 +1152,7 @@ const verses = [
       "Namāmi = I bow / I salute",
       "Puruṣottamam = The Supreme Person"
     ],
+    grammar: [],
     notes   : [
       "In this verse, the seeker offers total surrender to the Lord. The Lord is described as the one who pervades everything (Vishnu), conquers everything (Jishnu), is the origin of everything (Prabhavishnu), and who destroys the varied forms of evil (Daityantam) to protect the righteous.",
       "Grammar: 'Namāmi' is the first-person singular (Laṭ-lakāra), meaning 'I bow'. All other words are in the Accusative case (2nd case) as they are the objects of the action of bowing.",
