@@ -16,14 +16,16 @@ const verses = [
       'तस्मात्, सततं असक्तः कार्यं कर्म समाचर |',
       'पूरुष: असक्तः कर्म आचरन् हि परम् आप्नोति |'
     ],
-    transl  : [
+    prose  : [
       "Therefore, always perform your prescribed duty without attachment. For by performing work without attachment, a person attains the supreme goal (liberation)." 
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence : [],
     meanings: [],
+    grammar : [],
     notes   : [
       "तस्मात् = Therefore",
       "सक्तः = (सञ्ज् - 1P - to cling/to stick to/to attach) - क्त प्रत्यय (past) = one who is attached)",
@@ -60,14 +62,16 @@ const verses = [
       'श्रेष्ठः यत्-यत् आचरति, इतरः जन: तत्-तत् एव (आचरति) |',
       'सः यत् प्रमाणं कुरुते, लोकः तत् अनुवर्तते ||'
     ],
-    transl  : [
+    prose  : [
       "Whatever actions great persons perform, common people follow. Whatever standards they set, all the world pursues." 
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence : [],
     meanings: [],
+    grammar : [],
     notes   : [
       "यत् = whatever",
       "यत् = whatever",
@@ -105,14 +109,16 @@ const verses = [
       'मम अनवाप्तम् अवाप्तव्यं न (अस्ति)।',
       'अहं कर्मणि एव वर्ते च।'
     ],
-    transl  : [
+    prose  : [
       "O Pārtha (Arjuna), there is no duty whatsoever for me in all the three worlds. There is nothing unattained or yet to be attained by me. Yet, I remain engaged in action.", 
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence : [],
     meanings: [],
+    grammar : [],
     notes   : [
       "न (na) = Not",
       "मे (me) = For me",
@@ -147,14 +153,16 @@ const verses = [
       'सर्वशः कर्माणि क्रियमाणानि प्रकृते: गुणैः (सन्ति) |',
       'अहङ्कार-विमूढ-आत्मा (तु) अहम् कर्ता इति मन्यते |'
     ],
-    transl  : [
+    prose  : [
       "All actions are performed in every way by the modes (gunas) of material nature (Prakriti). But one whose self is deluded by ego thinks, 'I am the doer.'", 
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence : [],
     meanings: [],
+    grammar : [],
     notes   : [
       "प्रकृतेः = of Prakriti (material nature)",
       "क्रियमाणानि = being performed - भावकर्म-शानच् (present participle - आत्मनेपदी - नपुं)",
@@ -189,15 +197,17 @@ const verses = [
       ' - (गुणाः गुणेषु वर्तन्ते) इति मत्वा',
       'न सज्जते |'
     ],
-    transl  : [
+    prose  : [
       "But one who knows the truth, O mighty-armed (Arjuna), about the distinction between the gunas (modes of nature) and actions, understands that the gunas act upon the gunas. Thus, he does not become attached.",
       "O mighty-armed Arjuna, illumined persons distinguish the soul as distinct from guṇas and karmas. They perceive that it is only the guṇas (in the shape of the senses, mind, and others) that move among the guṇas (in the shape of the objects of perception), and thus they do not get entangled in them.",
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence : [],
     meanings: [],
+    grammar : [],
     notes   : [
       "तत्त्ववित् = one who knows the truth",
       "तु = but",
@@ -231,14 +241,16 @@ const verses = [
       '- निराशीः निर्ममः विगतज्वर: भूत्वा',
       'युध्यस्व!'
     ],
-    transl  : [
+    prose  : [
       "Surrendering all actions to Me (Performing all works as an offering unto Me), with your mind focused on the Self, free from desires and the sense of ownership, and with your mental grief departed, fight!",
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence : [],
     meanings: [],
+    grammar : [],
     notes   : [
       "मयि = in Me (Krishna, the Supreme Lord)",
       "सर्वाणि = all",
@@ -273,14 +285,16 @@ const verses = [
       '- (श्रद्धावन्तः) (अनसूयन्तः)',
       'ते अपि कर्मभिः मुच्यन्ते'
     ],
-    transl  : [
+    prose  : [
       "Those human beings who consistently follow this teaching of Mine with faith and without envy, they too are freed from the bondage of actions.",
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence : [],
     meanings: [],
+    grammar : [],
     notes   : [
       "ये = those who",
       "मे = My",
@@ -315,14 +329,16 @@ const verses = [
       '- (अभ्यसूयन्तः)',
       'तान् (सर्वज्ञानविमूढान्) (अचेतसः) (नष्टान्) विद्धि',
     ],
-    transl  : [
+    prose  : [
       "But those who, out of envy, do not follow this teaching of Mine—know them to be deluded of all knowledge, devoid of discernment, and doomed to ruin.",
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence : [],
     meanings: [],
+    grammar : [],
     notes   : [
       "ये = those who",
       "तु = but",
@@ -359,14 +375,16 @@ const verses = [
       'स्वधर्मे निधनम् श्रेयः',
       'परधर्मः भयावहः',
     ],
-    transl  : [
+    prose  : [
       "Better is one's own duty, though imperfect, than the well-performed duty of another. Death in the course of one's own duty is better; the duty of another is fraught with fear.",
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence : [],
     meanings: [],
+    grammar : [],
     notes   : [
       "श्रेयान् = better - (श्रेयस् - पुं - प्रथमा - एक.व. - द्वाभ्याम् अधिकं कल्याणकारी)",
       "स्वधर्मः = one's own duty",
@@ -404,14 +422,16 @@ const verses = [
       '- बलात् इव नियोजितः',
       'अनिच्छन् अपि पापम् चरति?',
     ],
-    transl  : [
+    prose  : [
       "O Krishna (O descendant of Vrishni), by what is a person impelled to commit sin, even against his will, as if driven by force?",
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence : [],
     meanings: [],
+    grammar : [],
     notes   : [
       "अथ = but / then",
       "केन = by what / by whom",
@@ -450,14 +470,16 @@ const verses = [
       '- महाशनः महापाप्मा (च)',
       'एनम् इह वैरिणम् विद्धि',
     ],
-    transl  : [
+    prose  : [
       "It is desire — it is anger — born of the mode of passion (rajas); Know this as the great devourer, the great sinner; know this as the enemy here (in this world)."
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence : [],
     meanings: [],
+    grammar : [],
     notes   : [
       "कामः = desire / lust",
       "एषः = this",
@@ -492,14 +514,16 @@ const verses = [
       'तथा',
       '- इदम् (ज्ञानम्) तेन (कामेन) आवृतम् (अस्ति)',
     ],
-    transl  : [
+    prose  : [
       "Just as fire is covered by smoke, a mirror by dust, and a fetus by the womb, so is this (wisdom) covered by that (desire).",
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence : [],
     meanings: [],
+    grammar : [],
     notes   : [
       "धूमेन = by smoke",
       "आव्रियते = is covered - (भावकर्मणोः लट् आत्मने)",
@@ -535,14 +559,16 @@ const verses = [
       'एतेन (दुष्पूरेण) (अनलेन च) (कामरूपेण) नित्यवैरिणा',
       'ज्ञानिनः ज्ञानम् आवृतम् (अस्ति)',
     ],
-    transl  : [
+    prose  : [
       "O Arjuna, the knowledge of the wise is covered by this eternal enemy in the form of desire, which is insatiable and like a consuming fire.",
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence : [],
     meanings: [],
+    grammar : [],
     notes   : [
       "आवृतम् = covered",
       "ज्ञानम् = knowledge / wisdom",
@@ -573,14 +599,16 @@ const verses = [
       '(इन्द्रियाणि, मनः, बुद्धिः) अस्य (कामस्य) अधिष्ठानम् उच्यते', 
       'एषः (कामः) एतैः ज्ञानम् आवृत्य देहिनम् विमोहयति',
     ],
-    transl  : [
+    prose  : [
       "The senses, the mind, and the intellect are said to be its (desire's) seat. Through these, it deludes the embodied being by covering knowledge.",
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence : [],
     meanings: [],
+    grammar : [],
     notes   : [
       "इन्द्रियाणि = the senses",
       "मनो = the mind",
@@ -616,14 +644,16 @@ const verses = [
       'एनम् (ज्ञान-विज्ञान-नाशनम्) पाप्मानम्',
       'हि प्रजहि',
     ],
-    transl  : [
+    prose  : [
       "Therefore, O Arjuna, first control the senses and slay this sinful one (desire), which is the destroyer of both knowledge and realization.",
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence : [],
     meanings: [],
+    grammar : [],
     notes   : [
       "तस्मात् = therefore",
       "त्वम् = you",
@@ -659,14 +689,16 @@ const verses = [
       'मनस: तु परा बुद्धि:',
       'य: बुद्धे: परत: तु स:',
     ],
-    transl  : [
+    prose  : [
       "The senses are said to be superior (to the body), but higher than the senses is the mind. Higher than the mind is the intellect, and beyond the intellect is That (the Self).",
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence : [],
     meanings: [],
+    grammar : [],
     notes   : [
       "इन्द्रियाणि = the senses",
       "पराणि = superior / powerful",
@@ -703,14 +735,16 @@ const verses = [
       'आत्मना आत्मानम् संस्तभ्य',
       '(कामरूपं) (दुरासदं) शत्रुम् जहि',
     ],
-    transl  : [
+    prose  : [
       "Thus, knowing the Self to be higher than the intellect, and restraining the lower self by the higher self, slay the enemy in the form of desire, O mighty-armed Arjuna — this enemy is very difficult to conquer.",
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence : [],
     meanings: [],
+    grammar : [],
     notes   : [
       "एवम् = thus",
       "बुद्धेः = than the intellect",
