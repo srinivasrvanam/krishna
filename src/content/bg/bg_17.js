@@ -17,14 +17,16 @@ const verses = [
       'तस्मात्, सततं असक्तः कार्यं कर्म समाचर |',
       'पूरुष: असक्तः कर्म आचरन् हि परम् आप्नोति |'
     ],
-    transl  : [
+    prose  : [
       "Therefore, always perform your prescribed duty without attachment. For by performing work without attachment, a person attains the supreme goal (liberation)." 
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence : [],
     meanings: [],
+    grammar : [],
     notes   : [
       "तस्मात् = Therefore",
       "सक्तः = (सञ्ज् - 1P - to cling/to stick to/to attach) - क्त प्रत्यय (past) = one who is attached)",

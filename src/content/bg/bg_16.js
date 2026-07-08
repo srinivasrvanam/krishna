@@ -32,14 +32,16 @@ const verses = [
       '- तेज: क्षमा धृति: शौचम् अद्रोहः अनातिमानिता',
       'अभिजातस्य दैवीम् सम्पदं भवन्ति',
     ],
-    transl  : [
+    prose  : [
       "The Supreme Divine Personality said: O scion of Bharata, these are the saintly virtues of those endowed with a divine nature — fearlessness, purity of mind, steadfastness in spiritual knowledge, charity, control of the senses, sacrifice, study of the sacred books, austerity, and straightforwardness; non-violence, truthfulness, absence of anger, renunciation, peacefulness, restraint from fault-finding, compassion toward all living beings, absence of covetousness, gentleness, modesty, and lack of fickleness; vigor, forgiveness, fortitude, cleanliness, bearing enmity toward none, and absence of vanity(pride)." 
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence : [],
     meanings: [],
+    grammar : [],
     notes   : [
       'श्रीभगवान् = the Blessed Lord',
       'उवाच = said',
@@ -95,14 +97,16 @@ const verses = [
       '- दम्भः, दर्पः, अभिमानः, क्रोधः, पारुष्यम्, अज्ञानं च',
       'अभिजातस्य आसुरीम् सम्पदं (भवन्ति)',
     ],
-    transl  : [
+    prose  : [
       "Hypocrisy, arrogance, pride, anger, harshness, and ignorance — these, O Arjuna, are the qualities of one born with a demoniac nature." 
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence : [],
     meanings: [],
+    grammar : [],
     notes   : [
       'दम्भः = hypocrisy',
       'दर्पः = arrogance',
@@ -139,14 +143,16 @@ const verses = [
       '(त्वं) दैवीम् सम्पदं अभिजातः असि',
       'मा शुच: (अस्तु)',
     ],
-    transl  : [
+    prose  : [
       "The divine qualities are considered to lead to liberation, while the demoniac qualities lead to bondage. Do not grieve, O Arjuna, for you are born with divine qualities." 
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence : [],
     meanings: [],
+    grammar : [],
     notes   : [
       'दैवी = divine',
       'सम्पत् = qualities / disposition',
@@ -181,14 +187,16 @@ const verses = [
       'कामः, क्रोधः, तथा लोभः ।',
       'तस्मात् एतत् त्रयम् त्यजेत् ।',
     ],
-    transl  : [
+    prose  : [
       "This is the threefold gate of hell, destructive of the self—lust, anger, and greed. Therefore, one should abandon these three." 
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence : [],
     meanings: [],
+    grammar : [],
     notes   : [
       'त्रिविधम् = threefold',
       'नरकस्य = of hell',
@@ -224,14 +232,16 @@ const verses = [
       'एतै: त्रिभिः तमः-द्वारैः विमुक्त: नरः, आत्मनः श्रेयः आचरति ।',
       'ततः परां गतिम् याति ।',
     ],
-    transl  : [
+    prose  : [
       "O son of Kunti, a man who is freed from these three gates of darkness — lust, anger, and greed — acts for the good of the soul and thereby attains the supreme goal." 
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence : [],
     meanings: [],
+    grammar : [],
     notes   : [
       'एतैः = from these',
       'विमुक्तः = freed',
@@ -265,14 +275,16 @@ const verses = [
       'य: शास्त्रविधिम् उत्सृज्य कामकारत: वर्तते |',
       'सः न (सिद्धिम् / सुखं / परां गतिम्) अवाप्नोति |',
     ],
-    transl  : [
+    prose  : [
       "He who acts according to his desires, abandoning the injunctions of the scriptures, does not attain perfection, nor happiness, nor the supreme goal." 
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence : [],
     meanings: [],
+    grammar : [],
     notes   : [
       'यः = who',
       'शास्त्रविधिम् = scriptural injunctions',
@@ -305,14 +317,16 @@ const verses = [
       'तस्मात् ते कार्याकार्यव्यवस्थितौ शास्त्रम् प्रमाणम् |',
       'शास्त्रविधानोक्तम् कर्म ज्ञात्वा, इह कर्तुम् अर्हसि |',
     ],
-    transl  : [
+    prose  : [
       "Therefore, let scripture be your authority in determining what is to be done and what is not to be done. Knowing the ordinances of the scripture, you ought to perform action here." 
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence : [],
     meanings: [],
+    grammar : [],
     notes   : [
       'तस्मात् = therefore',
       'शास्त्रम् = scripture',

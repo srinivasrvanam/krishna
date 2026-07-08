@@ -17,14 +17,16 @@ const verses = [
       'तस्मात्, सततं असक्तः कार्यं कर्म समाचर |',
       'पूरुष: असक्तः कर्म आचरन् हि परम् आप्नोति |'
     ],
-    transl  : [
+    prose  : [
       "Therefore, always perform your prescribed duty without attachment. For by performing work without attachment, a person attains the supreme goal (liberation)." 
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence : [],
     meanings: [],
+    grammar : [],
     notes   : [
       "तस्मात् = Therefore",
       "सक्तः = (सञ्ज् - 1P - to cling/to stick to/to attach) - क्त प्रत्यय (past) = one who is attached)",
@@ -86,14 +88,16 @@ const verses = [
       'एतत् ज्ञानम् इति प्रोक्तम्',
       'अतः यत् अन्यथा अज्ञानम् (प्रोक्तम्)',
     ],
-    transl  : [
+    prose  : [
       "Humility, absence of hypocrisy, non-violence, forgiveness, uprightness, service to the teacher, purity, steadfastness, self-control; dispassion toward sense objects, absence of ego; constant reflection on the evils of birth, death, old age, and disease; detachment, absence of clinging to son, wife, and home; equanimity of mind in favorable and unfavorable circumstances; unwavering devotion to Me with undivided focus; love for solitude, disinterest in crowds; constancy in self-knowledge and perception of the goal of true knowledge—this is declared as knowledge, and what is contrary to this is ignorance." 
     ],
-    essence : [],
-    essence_tel: [
+    transl : [],
+    transl_tel: [
       "",
     ],
+    essence : [],
     meanings: [],
+    grammar : [],
     notes   : [
       'अमानित्वम् = humility',
       'अदम्भित्वम् = absence of hypocrisy',
