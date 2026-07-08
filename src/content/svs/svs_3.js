@@ -33,7 +33,7 @@ const verses = [
       "- जगन्मातरम् ।",
       "भगवतीं श्रियं वन्दे ।",
     ],
-    transl: [
+    prose: [
       "I",
       "- to the master of this universe",
       "- to the supreme beloved of Vishnu (Venkatapathi),",
@@ -49,13 +49,15 @@ const verses = [
       // "I pay my obeisance to Lakshmi the ruler of the universe, who is the most beloved of Lord Vishnu the Lord of Mount Venkata, who rests with supreme delight upon His chest, and increases His forbearance, whose hands tender as sprouts, are decorated with lotus blossoms, whose seat is the lotus (of the mind) who is radiant with perfection of qualities such as tender solicitude etc. and who is the Mother of the Universe.",
       // "I bow down to the divine Goddess Lakshmi, the supreme beloved of Lord Vishnu, the Lord of Venkata hills and ruler of the universe. She eternally resides on His chest and nurtures His patience and forbearance. Her tender hands are adorned with lotuses, and she is seated on a lotus throne. She shines with qualities such as motherly affection and is the universal mother. O Bhagavati, I offer my reverence to you!",
     ],
-    essence: [
+    transl: [
       "I offer my obiesances to Bhagavati Sri Lakshmi, who is the Lord of this universe, who is the supreme beloved of Lord Venkateswara, who takes delight in residing in his heart, who increases his patience, whose hands are decorated with lotuses, who is seated on lotus throne, who shines with qualities like motherly affection, and the mother of the universe.",
     ],
-    essence_tel: [
+    transl_tel: [
       "ఈ నిఖిల విశ్వమునకు అధిదేవత, శ్రీ వేంకటేశ్వరునికి అత్యంత ప్రియమైన ప్రాణసఖి, ఆయన వక్షస్థలమున నివసించుటలో పరమానందము పొందునది, ఆయన ఓర్పును (క్షమను) పెంపొందించునది, తన హస్తములలో పద్మములను ధరించి, పద్మాసనముపై కొలువై ఉన్నది, మాతృత్వము వంటి మధుర గుణములతో ప్రకాశించునది మరియు ఈ జగత్తుకే తల్లియైన ఆ శ్రీమహాలక్ష్మికి నా నమస్కారములు.",
     ],
+    essence: [],
     meanings: [],
+    grammar: [],
     notes: [
       "अस्य जगतः = of this world",
       "ईशानां = To the Lord/master/ruler(feminine) - द्वितीया.वि. - एक.व.",
@@ -108,7 +110,7 @@ const verses = [
       "- आश्रित-पारिजात",
       "(अहं) श्री-वेङ्कटेश-चरणौ शरणं प्रपद्ये ।",
     ],
-    transl: [
+    prose: [
       "O Lord! one who is -",
       "- opulent (Lord of prosperity),",
       "- ocean of compassion,",
@@ -126,13 +128,15 @@ const verses = [
       // "I take refuge in the lotus feet of Lord Venkateswara, who is opulent, and ocean of compassion, the Creator of the entire universe, omniscient, omnipotent, affectionate to the humble, the essence of the universe, the Master, amiable and receptive, fulfilling the desires of those who take refuge in him.",
       // "O Lord of prosperity! O ocean of mercy! O creator of all worlds! You are omniscient, omnipotent, and the protector of those who bow before You. You are the ultimate refuge of all. O Master! You are virtuous, easily accessible, and like a wish-fulfilling tree for those who seek shelter in You. O Lord Venkatesha! I completely surrender at Your divine feet.",
     ],
-    essence: [
+    transl: [
       "O Lord Venkateswara! the one who is opulent, ocean of compassion, creator of all worlds, omniscient, omnipotent, compassionate towards the humble, the essence of the universe, the master, good natured, easily attainable, wish fulfilling tree of the one who take refuge. I take refuge (completely surrender) at your lotus feet.",
     ],
-    essence_tel: [
+    transl_tel: [
       "ఓ శ్రీ వేంకటేశ్వరా! సకల ఐశ్వర్య సంపన్నుడా, దయా సముద్రుడా, సర్వలోక సృష్టికర్తా, సర్వజ్ఞుడా, సర్వశక్తిమంతుడా! దీనుల పట్ల అత్యంత దయ చూపేవాడా, విశ్వమంతటా వ్యాపించి ఉన్న సారరూపుడా, జగన్నాథుడా, సుగుణశీలుడా, భక్తులకు సులభముగా లభించేవాడా మరియు నిన్ను శరణువేడిన వారికి కల్పవృక్షము వంటివాడా! నీ దివ్య పాదపద్మములకు నేను సంపూర్ణముగా శరణాగతి చేస్తున్నాను.",
     ],
+    essence: [],
     meanings: [],
+    grammar: [],
     notes: [
       "श्रीमन् = O Lord of great fortune (possessor of Lakshmi)",
       "कृपा-जल-निधे = O the Lord, who is Ocean of compassion",
@@ -180,7 +184,7 @@ const verses = [
       "- श्री-वेङ्कटेश-चरणौ",
       "शरणं प्रपद्ये ।",
     ],
-    transl: [
+    prose: [
       "(I)",
       "- at (those feet) that give fragrance to the fragrant flowers offered near the anklets,",
       "- at (those feet) that appear symmetrical,",
@@ -192,13 +196,15 @@ const verses = [
       // "I take refuge in the lotus feet of Lord Venkatesvara, which impart their fragrance to the lovely garlands of scented flowers which hang below his anklets, resting gently, although experienced constantly, the enjoyment is ever fresh.",
       // "I surrender to the divine feet of Lord Venkatesha, which are adorned with beautifully fragrant flowers placed near His anklets. These feet emanate a divine fragrance, are symmetrically positioned, and possess a gentle charm. Even when experienced continuously, they always appear fresh and ever new.",
     ],
-    essence: [
+    transl: [
       "I take refuge at the lotus feet of Lord Venkateswara, which give fragrance to the fragrant flowers offered near the anklets, that appear symmetrical, that are gentle, that give fresh experience even though are experienced constantly.",
     ],
-    essence_tel: [
+    transl_tel: [
       "శ్రీ వేంకటేశ్వరుని దివ్య పాదపద్మములకు నేను శరణాగతి చేస్తున్నాను. ఆ పాదములు తన అందెల చెంత అర్పించిన సుగంధ పుష్పాలకు సైతం మరింత పరిమళాన్ని అద్దుతాయి; అవి ఎంతో సుకుమారమైనవి, చూడముచ్చటైన రూపంతో సమానంగా అమరి ఉంటాయి; వాటిని నిరంతరం దర్శిస్తున్నప్పటికీ, ప్రతి క్షణం సరికొత్త అనుభూతిని ఇచ్చే ఆ పాదపద్మములను నేను శరణు వేడుతున్నాను.",
     ],
+    essence: [],
     meanings: [],
+    grammar: [],
     notes: [
       "आनूपुर = Near the anklets",
       "अर्पित = Offered, placed",
@@ -242,7 +248,7 @@ const verses = [
       "- श्री-वेङ्कटेश-चरणौ",
       "शरणं प्रपद्ये ।",
     ],
-    transl: [
+    prose: [
       "(I)",
       "- (of freshly bloomed fragrant deep red lotuses),",
       "- (in the perfect and courageous steps),",
@@ -252,12 +258,13 @@ const verses = [
       // "I take refuge in the lotus feet of Lord Venkatesvara, which resemble by their beauty newly blossomed exceedingly fragrant red lotuses. The testimony is self evident.",
       // "I surrender to the divine feet of Lord Venkatesha, which bloom instantly like a freshly opened lotus, enriched with deep red color and overflowing with fragrance. Their beauty reminds one of a lotus. As He moves with bold and confident steps, His divine feet leave marks on the ground, radiating their celestial presence.",
     ],
-    essence: [
+    transl: [
       "I take refuge at the lotus feet of Lord Venkateswara, which are supremely beautiful beyond comparison to the freshly bloomed fragrant deep red lotuses, in the perfect and courageous steps.",
     ],
-    essence_tel: [
+    transl_tel: [
       "తాజాగానే వికసించిన, మధుర పరిమళం వెదజల్లే ముదురు ఎరుపు రంగు పద్మములతో కూడా పోల్చలేనంతటి అత్యున్నత సౌందర్యము కలవి, గంభీరము మరియు ధైర్యము ఉట్టిపడే నడకలతో ప్రకాశించే ఆ శ్రీవేంకటేశ్వరుని దివ్య పాదపద్మములకు నేను శరణాగతి చేస్తున్నాను.",
     ],
+    essence: [],
     meanings: [
       "सद्यः-विकासि = Instantly blooming",
       "समुदित = Fully manifesting",
@@ -269,6 +276,7 @@ const verses = [
       "साहस-पदेषु = In bold or courageous steps",
       "विलेखयन्तौ = Marking or engraving (the ground as they move)",
     ],
+    grammar: [],
     notes: [      
     ],
   },
@@ -301,7 +309,7 @@ const verses = [
       "- श्री-वेङ्कटेश-चरणौ",
       "शरणं प्रपद्ये ।",
     ],
-    transl: [
+    prose: [
       "(I)",
       "- - (with the auspicious and divine symbols),",
       "- - (like lines, flag, nectar pot, umbrella, thunderbolt, goad, lotus, celestial wish-fulfilling tree, conch and discus),",
@@ -312,12 +320,13 @@ const verses = [
       // "I surrender to the divine feet of Lord Venkatesha, whose soles are adorned with auspicious marks representing the Supreme Truth, such as lines, flag, nectar pot, umbrella, thunderbolt, goad, lotus, celestial wish-fulfilling tree, conch, and discus.",
       // "This verse glorifies the sacred feet of Lord Venkatesha, highlighting the divine symbols that adorn them, which signify protection, prosperity, and supreme divinity.",
     ],
-    essence: [
+    transl: [
       "I take refuge at the lotus feet of Lord Venkateswara, which are decorated with divine and auspicious symbols like: lines, flag, amritha kalasham, umbrella, thunderbolt (vajra), goad (ankusham), lotus, kalpa vriksha, shankam and chakram.",
     ],
-    essence_tel: [
+    transl_tel: [
       "రేఖలు, ధ్వజము (జెండా), అమృత కలశము, ఛత్రము (గొడుగు), వజ్రాయుధము, అంకుశము, పద్మము, కల్పవృక్షము, శంఖము మరియు చక్రము వంటి దివ్యమైన, శుభప్రదమైన చిహ్నములతో అలంకరించబడిన శ్రీ వేంకటేశ్వరుని పాదపద్మములకు నేను శరణాగతి చేస్తున్నాను.",
     ],
+    essence: [],
     meanings: [
       "भव्यैः = auspicious",
       "परतत्त्व-चिन्हैः = with symbols representing the supreme truth",      
@@ -327,6 +336,7 @@ const verses = [
       "अङ्कुश = The Sanskrit word अङ्कुश (aṅkuśa) means elephant goad or hook. It is a traditional tool used to control and guide elephants, typically made of metal with a pointed curved end. In a spiritual or symbolic context, अङ्कुश represents control, discipline, and guidance, often signifying the ability to steer one's mind and senses in the right direction. It is commonly associated with Lord Ganesha and other deities, symbolizing mastery over desires and obstacles.",
       "तलौ = The word तलौ (talau) is the dual form of तल (tala), which means sole (bottom part of feet.)"
     ],
+    grammar: [],
     notes: [
       
     ],
@@ -360,7 +370,7 @@ const verses = [
       "- श्री-वेङ्कटेश-चरणौ",
       "शरणं प्रपद्ये ।",
     ],
-    transl: [
+    prose: [
       "(I)",
       "- at (those feet) that have the luster of a red lotus gem (Padmarāga), surpassing the radiance of copper interiors,",
       "- at (those feet) that by their external brilliance, surpassing the radiance of the great Indra Nīla (blue sapphire),",
@@ -372,12 +382,13 @@ const verses = [
       // "I surrender to the divine feet of Lord Venkatesha, which shine with the brilliance of red lotus gems, surpassing even the radiance of glowing copper; whose outer luster eclipses the grandeur of the great blue sapphire (Indranīla); and whose toenails emit a rising brilliance, resembling the radiant glow of the full moon.",
       // "This verse poetically describes the dazzling radiance of Lord Venkatesha's feet, comparing their colors and brilliance to precious gems, celestial lights, and natural elements, emphasizing their divine beauty and auspiciousness.",
     ],
-    essence: [
+    transl: [
       "I take refuge at the lotus feet of Lord Venkateswara, that have the luster of a red lotus gem (Padmarāga), surpassing the radiance of copper interiors; that by their external brilliance, surpassing the radiance of the great Indra Nīla (blue sapphire); that with rising brilliance from the toenails, shining like the raised radiance of the full moon.",
     ],
-    essence_tel: [
+    transl_tel: [
       "రాగి లోపలి భాగము కంటే మిన్నగా ప్రకాశించే పద్మరాగమణి వంటి ఎర్రని కాంతి కలిగినవి, పైన ఇంద్రనీలమణి (నీలమణి) కాంతిని మించి ప్రకాశించే నీలపు ఛాయ కలవి, మరియు పౌర్ణమి నాటి చంద్రుని వెన్నెల వలె తెల్లని కాంతిని వెదజల్లే గోళ్ళతో విరాజిల్లే ఆ శ్రీవేంకటేశ్వరుని దివ్య పాదపద్మములకు నేను శరణాగతి చేస్తున్నాను.",
     ],
+    essence: [],
     meanings: [
       "ताम्र (tāmra) = Copper",
       "उदर (udara) = Belly, interior, or core",
@@ -389,6 +400,7 @@ const verses = [
       "उद्यत्-नख-अंशुभिः = with rising brilliance from the toenails",
       "उदस्त-शशाङ्क-भासौ = shining like the raised radiance of the full moon",
     ],
+    grammar: [],
     notes: [
       
     ],
@@ -421,7 +433,7 @@ const verses = [
       "- श्री-वेङ्कटेश-चरणौ",
       "शरणं प्रपद्ये ।",
     ],
-    transl: [
+    prose: [
       "(I)",
       "- at (those feet) that experience fatigue even with the gentle massage by hands of Mother Lakshmi done with love and fear,",
       "- at (those feet) who delicacy is beyond comprehension for even Mother Lakshmi's mind and speech,",
@@ -432,12 +444,13 @@ const verses = [
       // "I take refuge in the divine feet of Lord Venkatesha, Which, even when gently massaged with lotus-bud-like hands with love and reverence, instantly feel fatigue. These feet possess such extreme delicateness that they are beyond the grasp of speech and mind, even for Goddess Lakshmi herself.",
       // "This verse beautifully describes the supreme delicacy and divine nature of Lord Venkatesha's feet, which are so tender that even the lightest touch from Goddess Lakshmi causes them to feel fatigue. This emphasizes their transcendental nature, which is beyond human perception.",
     ],
-    essence: [
+    transl: [
       "I take refuge at the lotus feet of Lord Venkateswara, that experience fatigue even with the gentle massage by hands of Mother Lakshmi done with love and fear; whose delicacy is beyond comprehension for even Mother Lakshmi's mind and speech.",
     ],
-    essence_tel: [
+    transl_tel: [
       "లక్ష్మీదేవి ఎంతో భక్తితో, ప్రేమతో, మరియు ఎక్కడ తన స్పర్శ ఆయనకు కష్టాన్ని కలిగిస్తుందో అన్న భయముతో మెల్లగా ఒత్తుతున్నప్పటికీ—ఆ సుకుమారమైన చేతుల స్పర్శకే అలసటను పొందేటంతటి మృదువైనవి, మరియు లక్ష్మీదేవి యొక్క మనస్సుకూ, వాక్కుకూ కూడా అందని అతిశయమైన కోమలత్వం కలిగిన ఆ శ్రీవేంకటేశ్వరుని దివ్య పాదపద్మములకు నేను శరణాగతి చేస్తున్నాను.",
     ],
+    essence: [],
     meanings: [
       "स-प्रेम-भीति = With both love and reverence (mixed with slight fear)",
       "कमलाकर = A pond of lotuses",
@@ -455,6 +468,7 @@ const verses = [
       "शरणं प्रपद्ये = I take refuge in",
       "In sloka वाङ्ग्मनस, half ga ग् is there, is it correct?",
     ],
+    grammar: [],
     notes: [
     ],
   },
@@ -485,7 +499,7 @@ const verses = [
       "- श्री-वेङ्कटेश-चरणौ",
       "शरणं प्रपद्ये ।",
     ],
-    transl: [
+    prose: [
       "(I)",
       "- at (those feet) that turned red due to the transfer of redness of the finger tips of his divine consorts like Mother Lakshmi, Mother Bhudevi, Mother Nila Devi and others,",
       "- at the lotus feet of Lord Venkateswara,",
@@ -495,12 +509,13 @@ const verses = [
       // "I take refuge in the divine feet of Lord Venkatesha, which have turned deeply red due to the transfer of the reddish hue from the tender fingertips of His divine consorts—Lakshmi, Bhūdevi, Nīlādevi, and others— whose hands are befitting His divine majesty.",
       // "This verse poetically describes how Lord Venkatesha's feet appear reddish due to the gentle touch of His divine consorts, who lovingly serve Him.",
     ],
-    essence: [
+    transl: [
       "I take refuge at the lotus feet of Lord Venkateswara, that turned red due to the transfer of redness of the finger tips of his divine consorts like Mother Lakshmi, Mother Bhudevi, Mother Nila Devi and others.",
     ],
-    essence_tel: [
+    transl_tel: [
       "లక్ష్మీదేవి, భూదేవి, నీళాదేవి మొదలైన దివ్య మహిషులు తమ కోమలమైన వేలికొనలతో ఆయన పాదములను ఒత్తుతున్నప్పుడు—వారి వేళ్ళకున్న ఎర్రని వర్ణము అంటుకోవడం వల్ల మరింత ఎర్రగా మారినట్లు భ్రమింపజేసే ఆ శ్రీవేంకటేశ్వరుని దివ్య పాదపద్మములకు నేను సంపూర్ణముగా శరణాగతి చేస్తున్నాను.",
     ],
+    essence: [],
     meanings: [
       "लक्ष्मी = Goddess Lakshmi",
       "महीतद = (of) Bhūdevi (Earth goddess)",
@@ -524,6 +539,7 @@ const verses = [
       "चरणौ = The two feet",
       "शरणं प्रपद्ये = I take refuge in"
     ],
+    grammar: [],
     notes: [      
     ],
   },
@@ -555,7 +571,7 @@ const verses = [
       "- श्री-वेङ्कटेश-चरणौ",
       "शरणं प्रपद्ये ।",
     ],
-    transl: [
+    prose: [
       "(I)",
       "- at (those feet) that appear magnificient in the process of Arati, by the light emanating from countless embedded shining navaratna crowns of Brahma, Lord Shiva, and other gods, as they eternally bow before him,",
       "- at the lotus feet of Lord Venkateswara,",
@@ -565,12 +581,13 @@ const verses = [
       // "I take refuge in the divine feet of Lord Venkatesha, which assume the magnificent form of an Aarti (waving of lights) by the radiance emanating from the countless embedded shining Navaratna (nine-gem) crowns of Brahma, Shiva, and other gods, as they bow eternally before Him.",
       // "This verse describes how Brahma, Shiva, and other celestial beings continuously bow before Lord Venkatesha. Their crowns, studded with radiant Navaratna (nine gems), shine brilliantly as they touch the Lord's feet. The collective glow of these crowns appears like a grand Nīrājana (Aarti ceremony), naturally illuminating His divine feet. This showcases Lord Venkatesha's supreme divinity, as even the greatest deities pay homage to Him.",
     ],
-    essence: [
+    transl: [
       "I take refuge at the lotus feet of Lord Venkateswara, that appear magnificient in the process of Arati, by the light emanating from countless embedded shining navaratna crowns of Brahma, Lord Shiva, and other gods, as they eternally bow before him.",
     ],
-    essence_tel: [
+    transl_tel: [
       "బ్రహ్మ, పరమశివుడు మరియు ఇతర దేవతలందరూ నిరంతరం ఆయనకు సాష్టాంగ నమస్కారము చేస్తున్నప్పుడు—వారి కిరీటములలో పొదిగిన నవరత్నాల నుండి వెలువడే వెలుగులు ఆయన పాదములపై పడి, ఒక దివ్యమైన హారతి వలె వెలిగిపోతుంటాయి. అటువంటి వైభవముతో ప్రకాశించే శ్రీవేంకటేశ్వరుని దివ్య పాదపద్మములకు నేను శరణాగతి చేస్తున్నాను.",
     ],
+    essence: [],
     meanings: [
       "नित्य = Always, eternally",
       "आनमत् = Bowing down, reverentially bent",
@@ -592,6 +609,7 @@ const verses = [
       "चरणौ = The two feet",
       "शरणं प्रपद्ये = I take refuge in"
     ],
+    grammar: [],
     notes: [
       
     ],
@@ -625,7 +643,7 @@ const verses = [
       "- श्री-वेङ्कटेश-चरणौ",
       "शरणं प्रपद्ये ।",
     ],
-    transl: [
+    prose: [
       "(I)",
       "- at (those feet) (Lord Vishnu's feet) that are glorified as Supreme,",
       "- at (those feet) that are considered spring of nectar, as they are an object of enjoyment to devotees,",
@@ -637,12 +655,13 @@ const verses = [
       // "I take refuge in the divine feet of Lord Venkatesha, which are praised as 'the supreme abode of Vishnu', which are also accepted as 'the source of nectar' due to their blissful nature, and which You Yourself have further indicated by showing them with Your own hands.",
       // "The feet of Vishnu are glorified in the scriptures as the supreme abode (param padam), signifying mokṣa (liberation). They are also called 'madhv-utsa' (a spring of nectar) because they provide divine bliss to devotees. Finally, the verse states that Lord Venkatesha Himself points to His feet with His hands, emphasizing them as the ultimate refuge for all beings. This verse reinforces the path of surrender (śaraṇāgati), which is central to Vaishnavism.",
     ],
-    essence: [
+    transl: [
       "I take refuge at the lotus feet of Lord Venkateswara, that (Lord Vishnu's feet) are glorified as Supreme, that are considered a spring of nectar as they are an enjoyment to devotees, and also, that are indicated by your own palm.",
     ],
-    essence_tel: [
+    transl_tel: [
       "సకల వేదములలో సర్వోన్నతమైనవిగా కీర్తించబడినవి, నిరంతరం భక్తులకు అమృతం వంటి పరమానందాన్ని పంచే ఊటబావి వంటివి, మరియు 'నన్ను శరణు వేడండి' అని నీ హస్తముతో స్వయంగా నీవే సూచిస్తున్న ఆ శ్రీవేంకటేశ్వరుని దివ్య పాదపద్మములకు నేను శరణాగతి చేస్తున్నాను.",
     ],
+    essence: [],
     meanings: [
       "विष्णोः = Of Lord Vishnu",
       "पदे = Feet, position",
@@ -668,6 +687,7 @@ const verses = [
       "चरणौ = The two feet",
       "शरणं प्रपद्ये = I take refuge in"
     ],
+    grammar: [],
     notes: [      
     ],
   },
@@ -699,7 +719,7 @@ const verses = [
       "- श्री-वेङ्कटेश-चरणौ",
       "शरणं प्रपद्ये ।",
     ],
-    transl: [
+    prose: [
       "(I)",
       "- at (those feet) that (just like) you have shown to Arjuna (Partha) saying 'Surrender unto me',",
       "- at (those feet) that you are now showing to me by indicating with your hand,",
@@ -713,12 +733,13 @@ const verses = [
       // "The verse emphasizes the path of surrender (śaraṇāgati), as the devotee seeks refuge at the feet of the Lord, who personally guides and protects them.",
       // "It highlights the direct and personal relationship between the devotee and the Lord, with the Lord personally showing His feet to grant protection and bliss.",
     ],
-    essence: [
+    transl: [
       "I take refuge at the lotus feet of Lord Venkateswara, that you have revealed to Arjuna instructing him to take refugee, similarly, now you are showing them to me.",
     ],
-    essence_tel: [
+    transl_tel: [
       "నాడు కురుక్షేత్ర సంగ్రామంలో అర్జునుడికి 'నన్నే శరణువేడు' అని ఉపదేశిస్తూ ఏ పాదపద్మములనైతే నీవు చూపావో, సరిగ్గా అవే పాదములను ఇప్పుడు నాకు కూడా చూపుతున్నావు. అటువంటి అభయాన్నిచ్చే శ్రీవేంకటేశ్వరుని దివ్య పాదపద్మములకు నేను సంపూర్ణముగా శరణాగతి చేస్తున్నాను.",
     ],
+    essence: [],
     meanings: [
       "पार्थाय = To Arjuna",
       "तत्सदृश = तत्-सदृश = Similar to that (to what was shown in the previous example)",
@@ -738,6 +759,7 @@ const verses = [
       "करदर्शितौ = Shown by the hand",
       "ते = Your",
     ],
+    grammar: [],
     notes: [      
     ],
   },
@@ -769,7 +791,7 @@ const verses = [
       "- श्री-वेङ्कटेश-चरणौ",
       "शरणं प्रपद्ये ।",
     ],
-    transl: [
+    prose: [
       "(I)",
       "- (on my head, on serpent kaliya, in the dense forests, on crest of Venkatachala, on head of Vedas, and also, in the minds of unwavering devotees),",
       "- at (those feet) that are uniformly established,",
@@ -783,12 +805,13 @@ const verses = [
       // "'शिरसि श्रुतीनाम्' highlights that the feet of Lord Venkatesha are revered by the Vedas themselves. The feet are considered so divine that they are placed above even the sacred texts.",
       // "The verse concludes by emphasizing that those who have single-minded devotion and unwavering focus on Lord Venkatesha's feet, find them as the ultimate refuge."
     ],
-    essence: [
+    transl: [
       "I take refuge at the lotus feet of Lord Venkateswara, that are uniformly established on my head, on serpent Kaliya, in the dense forests, on the crest of Venkatachala, on the head of Vedas, and also in the minds of unwavering devotees.",
     ],
-    essence_tel: [
+    transl_tel: [
       "నా శిరస్సు పైన, కాళీయుడనే సర్పము తలపైన, దట్టమైన అడవులలో, వేంకటాచల శిఖరము పైన, వేదముల అగ్రభాగమున (ఉపనిషత్తులలో), మరియు స్థిరమైన భక్తి కలిగిన భక్తుల మనస్సులలో—అన్ని చోట్లా సమానముగా నిలిచి ఉండే శ్రీ వేంకటేశ్వరుని దివ్య పాదపద్మములకు నేను శరణాగతి చేస్తున్నాను.",
     ],
+    essence: [],
     meanings: [
       "मन्मूर्ध्नि = On my head",
       "कालियफणे = Of Kaliya's hood (the serpent Kaliya)",
@@ -808,6 +831,7 @@ const verses = [
       "चरणौ = The feet",
       "शरणं प्रपद्ये = I take refuge in"
     ],
+    grammar: [],
     notes: [     
       "समम् = indeclinable adjective here meaning 'equally' or 'uniformly'", 
     ],
@@ -842,7 +866,7 @@ const verses = [
       "- श्री-वेङ्कटेश-चरणौ",
       "शरणं प्रपद्ये ।",
     ],
-    transl: [
+    prose: [
       "(I)",
       "- at (those feet) that appear like unfading flowers spread on the surface of the earth giving joy,",
       "- at (those feet) that are considered an ornament to the peak of Venkatadri mountain,",
@@ -855,12 +879,13 @@ const verses = [
       // "I take refuge in the divine feet of Lord Venkatesha, which are like ever-fresh flowers, thrilling the earth as they are worshipped with scattered blossoms, which serve as an ornament to the peak of the Venkata mountain, and which delight the minds and eyes of all beings.",
       // "'अम्लान-हृष्यद-अवनी-तल-कीर्ण-पुष्पौ' compares the Lord's feet to flowers that remain ever fresh, as they are constantly worshipped by devotees, covering the earth with joy and divine beauty. 'श्रीवेङ्कटाद्रि-शिखर-आभरणाय-मानौ' highlights that Lord Venkatesha's feet are the greatest ornament of the Venkata mountain, making it a sacred pilgrimage site. 'आनन्दित-अखिल-मनो-नयनौ' means that His feet bring immense joy to the minds and eyes of all devotees, who experience bliss upon seeing them.",
     ],
-    essence: [
+    transl: [
        "I take refuge at your lotus feet, O Lord Venkateswara!, that appear like unfading flowers spread on the surface of the earth giving joy, that are considered an ornament to the peak of Venkatadri mountain, that delight minds and eyes of all devotees.",
     ],
-    essence_tel: [
+    transl_tel: [
       "భూతలంపై పరుచుకున్న ఎన్నడూ వాడిపోని పుష్పముల వలె ఉండి అందరికీ ఆనందాన్ని పంచేవి, వేంకటాద్రి శిఖరానికి ఒక అలంకారము వంటివి, మరియు సకల భక్తుల కళ్ళకు, మనస్సులకు అమితమైన ఆహ్లాదాన్ని కలిగించే ఆ శ్రీవేంకటేశ్వరుని దివ్య పాదపద్మములకు నేను శరణాగతి చేస్తున్నాను.",
     ],
+    essence: [],
     meanings: [
       "अम्लान = Unfading, ever-fresh",
       "हृष्यत् = Thrilling with joy, delighted",
@@ -882,6 +907,7 @@ const verses = [
       "चरणौ = The two feet",
       "शरणं प्रपद्ये = I take refuge in"
     ],
+    grammar: [],
     notes: [    
       "हृष्यत् becomes हृष्यद् due to sandhi",  
     ],
@@ -915,7 +941,7 @@ const verses = [
       "- श्री-वेङ्कटेश-चरणौ",
       "शरणं प्रपद्ये ।",
     ],
-    transl: [
+    prose: [
       "(I)",
       "- at (those feet) that are primary refuge for those surrendered devotees,",
       "- at (those feet) that appear like nectar to devotees for spiritual nourishment, as if mother's breast to an infant for nourishment,",
@@ -927,12 +953,13 @@ const verses = [
       // "I take refuge in the divine feet of Lord Venkatesha, which are the foremost refuge for those who surrender, which are like a mother's breasts to an infant, nourishing them with nectar-like immortality, which, though appearing equal to each other, are incomparable in their greatness.",
       // "'प्रपन्नजनता प्रथमावगाह्यौ' → The Lord's feet are the first and foremost refuge for surrendered devotees, meaning they are the ultimate source of protection and solace. 'मातुः स्तनाविव शिशोः अमृताय मानौ' → The Lord's feet are compared to a mother's nourishing breasts, which provide nectar-like sustenance to an infant. Just as a baby instinctively seeks its mother for nourishment and comfort, devotees instinctively seek the Lord's feet for spiritual nourishment and liberation. 'प्राप्तौ परस्पर तुलाम अतुलान्तरौ' → The two feet appear equal in stature, yet they are incomparable in their spiritual significance, meaning that each of them holds infinite divine greatness beyond human understanding."
     ],
-    essence: [
+    transl: [
       "I take refuge at your lotus feet, O Lord Venkateswara!, that are primary refuge for those surrendered devotees; that appear like nectar to devotees for spiritual nourishment, as if mother's breast to an infant for nourishment; that appear equal to eyes, yet incomparable in their spiritual significance.",
     ],
-    essence_tel: [
+    transl_tel: [
       "శరణు కోరిన భక్తులకు ఏకైక ఆధారమైనవి, తల్లి పాలు బిడ్డకు ఏవిధంగా పోషణను ఇస్తాయో—అదేవిధంగా భక్తులకు ఆధ్యాత్మిక పుష్టిని ఇచ్చే అమృతము వంటివి, చూడటానికి మన కళ్ళకు సమానముగా (సాధారణముగా) కనిపించినప్పటికీ—వాటి ఆధ్యాత్మిక ప్రాముఖ్యతలో సాటిలేనివైన ఆ శ్రీవేంకటేశ్వరుని దివ్య పాదపద్మములకు నేను శరణాగతి చేస్తున్నాను.",
     ],
+    essence: [],
     meanings: [
       "प्रायः = Generally, usually",
       "प्रपन्न = Surrendered",
@@ -955,6 +982,7 @@ const verses = [
       "चरणौ = The two feet",
       "शरणं प्रपद्ये = I take refuge in"
     ],
+    grammar: [],
     notes: [      
     ],
   },
@@ -989,7 +1017,7 @@ const verses = [
       "- श्री-वेङ्कटेश-चरणौ",
       "शरणं प्रपद्ये ।",
     ],
-    transl: [
+    prose: [
       "(I)",
       "- (by the virtuous beings),",
       "- (by those whose serve you constantly),",
@@ -1003,12 +1031,13 @@ const verses = [
       // "I take refuge in the divine feet of Lord Venkatesha, which are constantly worshipped by highly virtuous beings, which, with their compassionate glance, uplift devotees from the bondage of the material world, and which were revealed to me by the gentle and guiding sage.",
       // "'सत्त्वोत्तरैः सततसेव्यपदाम्बुजेन' → The Lord's lotus feet are constantly worshipped by the most virtuous and pure-hearted beings. This highlights the supreme sanctity of His feet. 'संसारतारकदयार्द्र दृगञ्चलेन' → The Lord's compassionate glance helps devotees cross the ocean of worldly existence (samsāra), meaning that He alone can liberate them from suffering. 'सौम्योपयन्तृमुनिना मम दर्शितौ' → The gentle sage (possibly referring to an acharya or spiritual teacher) revealed these divine feet to the devotee, indicating that spiritual guidance is necessary to perceive the Lord's grace.",
     ],
-    essence: [
+    transl: [
       "I take refuge at your lotus feet, O Lord Venkateswara!, that are revealed to me by the kind sage, who is virtuous, always worshipping you, and whose glance helps cross the worldly existence.",
     ],
-    essence_tel: [
+    transl_tel: [
       "పుణ్యాత్ముడు, ఎల్లప్పుడూ నిన్నే ఆరాధించేవాడు మరియు తన కరుణా వీక్షణముతో భక్తులు ఈ సంసార సాగరాన్ని దాటడానికి సహాయపడేవాడైన—శ్రేష్ఠుడైన గురువు (ముని) నాకు చూపిన నీ దివ్య పాదపద్మములకు నేను శరణాగతి చేస్తున్నాను.",
     ],
+    essence: [],
     meanings: [
       "सत्त्वोत्तरैः = By those of superior purity (highly virtuous beings)",
       "सतत = Constantly",
@@ -1029,6 +1058,7 @@ const verses = [
       "चरणौ = The two feet",
       "शरणं प्रपद्ये = I take refuge in"
     ],
+    grammar: [],
     notes: [      
     ],
   },
@@ -1060,7 +1090,7 @@ const verses = [
       "(नित्याश्रिताय) (निरवद्य-गुणाय) (तुभ्यं) किङ्करः स्याम्",
       "न जातु मह्यम्",
     ],
-    transl: [
+    prose: [
       "O Lord of Vṛṣagiri (Tirumala)!",
       "O Lord of Śrī (Vishnu, Venkatesha)!",
       "- TODO",
@@ -1074,12 +1104,13 @@ const verses = [
       // "'श्रिया घटिकया त्वदुपायभावे' → Śrī Lakṣmī acts as the means (upāya) to attain the Lord, meaning She intercedes for devotees and ensures their salvation. 'प्राप्ये त्वयि स्वयमुपेयतया स्फुरन्त्या' → The Lord is the ultimate goal (upeya), but Lakṣmī Herself is also the final attainment, meaning She represents divine bliss and eternal service to the Lord. 'नित्याश्रिताय निरवद्यगुणाय' → The Lord is eternally sought as refuge and possesses flawless divine qualities (compassion, justice, love). 'स्यां किङ्करो' → The devotee prays: 'May I always remain Your humble servant.' This is a declaration of complete surrender and servitude to the Lord. 'न जातु मह्यम्' → 'Never let there be any sense of independence for me.' The devotee rejects all notions of self-dependence and desires only servitude to God.",
       // "This verse beautifully encapsulates the essence of Śaraṇāgati (total surrender), acknowledging the grace of Lakṣmī as both a guide and the ultimate blissful attainment.",
     ],
-    essence: [
+    transl: [
       "O Lord of Tirupati, the consort of Śrī! May I become a servant for You—who are possessed of flawless qualities and eternally depended upon—and not for my own sake. This is because You are the ultimate goal (Upeya) who manifests spontaneously, while the Goddess Śrī serves as the intermediary (Ghaṭikā) and means (Upāya) by which one reaches You.",
     ],
-    essence_tel: [
+    transl_tel: [
       "శ్రీదేవి నాథా! తిరుమలవాసా! కళ్యాణ గుణ నిధివైన నిన్నే నేను నిరంతరం ఆశ్రయిస్తున్నాను. నేను నాకు కావలసిన దాని కోసం కాకుండా, కేవలం నీ సేవ కోసం మాత్రమే నీకు దాసుడను కావాలని కోరుకుంటున్నాను. ఎందుకంటే నీవు స్వయంప్రకాశమానమైన పరమ లక్ష్యానివి (ఉపేయము), మరియు శ్రీమహాలక్ష్మి నిన్ను చేరుకోవడానికి మాకు మధ్యవర్తిగా (ఘటిక), మార్గముగా (ఉపాయము) ఉండి మమ్ములను కాపాడుతుంది.",
     ],
+    essence: [],
     meanings: [
       "श्रीश = O Lord of Śrī (Vishnu, Venkatesha)",
       "श्रिया = By Śrī (Lakṣmī)",
@@ -1099,6 +1130,7 @@ const verses = [
       "जातु = At any time",
       "मह्यम् = To me"
     ],
+    grammar: [],
     notes: [      
       // It seems this is avyaya, not a verb, "प्राप्ये = प्रा - to be content - णिजन्ते - भावकर्मणोः लट्लकारः (आत्मनेपदम्) - उ.पु. एक.व.",
       "स्याम् = optative form of 'अस्मि' (to be), meaning 'may I become' - कर्तरि विधिलिङ्लकारः - अस् root - उ.पु. एक.व.",
