@@ -10,7 +10,7 @@ const verses = [
       "త్రికాలం యో జపేద్విద్వాన్ షణ్మాసం విజితేన్ద్రియః |",
       "దారిద్ర్యధ్వంసనం కృత్వా సర్వమాప్నోత్యయత్నతః ॥ ౧॥"
     ],
-    "vicheda": [], "anvaya": [], "transl": [], "essence": [], "essence_tel": [], "meanings": [], "notes": []
+    "vicheda": [], "anvaya": [], "prose": [], "transl": [], "transl_tel": [], "essence": [], "meanings": [], "grammar": [], "notes": []
   },
   {
     "chapter": 3,
@@ -23,7 +23,7 @@ const verses = [
       "దేవీనామసహస్రేషు పుణ్యమష్టోత్తరం శతమ్ |",
       "యేన శ్రియమవాప్నోతి కోటిజన్మదరిద్రతా ॥ ౨॥"
     ],
-    "vicheda": [], "anvaya": [], "transl": [], "essence": [], "essence_tel": [], "meanings": [], "notes": []
+    "vicheda": [], "anvaya": [], "prose": [], "transl": [], "transl_tel": [], "essence": [], "meanings": [], "grammar": [], "notes": []
   },
   {
     "chapter": 3,
@@ -36,7 +36,7 @@ const verses = [
       "భృగువారే శతం ధీమాన్ పఠేద్వత్సరమాత్రకమ్ |",
       "అష్టైశ్వర్యమవాప్నోతి కుబేర ఇవ భూతలే ॥ ౩॥"
     ],
-    "vicheda": [], "anvaya": [], "transl": [], "essence": [], "essence_tel": [], "meanings": [], "notes": []
+    "vicheda": [], "anvaya": [], "prose": [], "transl": [], "transl_tel": [], "essence": [], "meanings": [], "grammar": [], "notes": []
   },
   {
     "chapter": 3,
@@ -49,7 +49,7 @@ const verses = [
       "దారిద్ర్యమోచనం నామ స్తోత్రమమ్బాపరం శతమ్ |",
       "యేన శ్రియమవాప్నోతి కోటిజన్మదరిద్రతః ॥ ౪॥"
     ],
-    "vicheda": [], "anvaya": [], "transl": [], "essence": [], "essence_tel": [], "meanings": [], "notes": []
+    "vicheda": [], "anvaya": [], "prose": [], "transl": [], "transl_tel": [], "essence": [], "meanings": [], "grammar": [], "notes": []
   },
   {
     "chapter": 3,
@@ -64,7 +64,7 @@ const verses = [
       "ప్రాతఃకాలే పఠేన్నిత్యం సర్వదుఃఖోపశాన్తయే |",
       "పథంస్తు చిన్తయేద్దేవీం సర్వాభరణభూషితామ్ ॥ ౫॥"
     ],
-    "vicheda": [], "anvaya": [], "transl": [], "essence": [], "essence_tel": [], "meanings": [], "notes": []
+    "vicheda": [], "anvaya": [], "prose": [], "transl": [], "transl_tel": [], "essence": [], "meanings": [], "grammar": [], "notes": []
   },
   {
     "chapter": 3,
@@ -75,7 +75,7 @@ const verses = [
     "sloka_tel": [
       "ఇతి శ్రీలక్ష్మ్యష్టోత్తరశతనామ స్తోత్రమ్ |"
     ],
-    "vicheda": [], "anvaya": [], "transl": [], "essence": [], "essence_tel": [], "meanings": [], "notes": []
+    "vicheda": [], "anvaya": [], "prose": [], "transl": [], "transl_tel": [], "essence": [], "meanings": [], "grammar": [], "notes": []
   }
 ];
 
