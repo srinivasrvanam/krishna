@@ -1,60 +1,90 @@
 
-import { useParams } from "react-router-dom";
+import { useEffect } from "react";
+import { useParams, useNavigate, Link } from "react-router-dom";
 import Verse from "../display/Verse";
-import { Link } from "react-router-dom";
 import verses1 from '../../content/rama/rama_1_bala/rama_1_1';
 import Breadcrumbs from "../utility/Breadcrumbs";
 
 function RamaVerse() {
     const { chapter_num, verse_num } = useParams();
+    const navigate = useNavigate();
 
-    console.log('SV: chapter_num: '+chapter_num);
-    console.log('SV: verse_num: '+verse_num);
-    
-    if(chapter_num !== undefined && chapter_num >= 1 && chapter_num <=1 && verse_num !== undefined){
-      let verses = [];  
-      let title = '';
-      switch(Number(chapter_num)){
-            case 1:
-              verses = verses1;
-              title = "Ramayanam - Bala Kanda";
-              break;
-            default:
-              verses = [];
-        }
-        const verse = verses.find(verse => verse.number === Number(verse_num));
-        console.log('SV: verse: '+verse);
+    let verses = [];
+    let title = '';
+    let verse;
+    let prevVerse;
+    let nextVerse;
 
-        // To get Prev and Next Sloka numbers dynamically
-        const sortedArray = verses.sort((a,b) => a.number - b.number);
-        const targetIndex = sortedArray.findIndex(verse => verse.number === Number(verse_num));
-        const prevVerse = targetIndex > 0 ? sortedArray[targetIndex-1] : undefined;
-        const nextVerse = targetIndex < sortedArray.length - 1 ? sortedArray[targetIndex+1] : undefined;
-        if(prevVerse !== undefined){
-            console.log('SV: prev Verse Num: '+prevVerse.number);
-        } 
-        if(nextVerse !== undefined){
-            console.log('SV: next Verse Num: '+nextVerse.number);
+    const isValidVerseRoute = chapter_num !== undefined && chapter_num >= 1 && chapter_num <= 1 && verse_num !== undefined;
+
+    if (isValidVerseRoute) {
+      switch (Number(chapter_num)) {
+        case 1:
+          verses = verses1;
+          title = "Ramayanam - Bala Kanda";
+          break;
+        default:
+          verses = [];
+      }
+
+      verse = verses.find((item) => item.number === Number(verse_num));
+
+      const sortedArray = [...verses].sort((a, b) => a.number - b.number);
+      const targetIndex = sortedArray.findIndex((item) => item.number === Number(verse_num));
+      prevVerse = targetIndex > 0 ? sortedArray[targetIndex - 1] : undefined;
+      nextVerse = targetIndex < sortedArray.length - 1 ? sortedArray[targetIndex + 1] : undefined;
+    }
+
+    useEffect(() => {
+      if (!isValidVerseRoute || !verse) {
+        return undefined;
+      }
+
+      const handleKeyDown = (event) => {
+        const target = event.target;
+        const tagName = target?.tagName?.toLowerCase();
+        const isEditable =
+          tagName === "input" ||
+          tagName === "textarea" ||
+          tagName === "select" ||
+          target?.isContentEditable;
+
+        if (isEditable) {
+          return;
         }
 
-        if(verse !== undefined){
-            return (
-                <div className="w-full h-full">
-                  {/* <h1 className="text-3xl text-center pt-5">{title} - {verse_num}</h1> */}
-                  <div>
-                    <br />
-                    <Breadcrumbs />
-                  </div>
-                  <div className="flex flex-wrap justify-center gap-2 mt-2 py-4">
-                    {prevVerse && prevVerse.number && <Link to={`/rama/${chapter_num}/${prevVerse.number}`} className="sv-btn fixed bottom-4 left-5">Prev - {prevVerse.number}</Link>}
-                    {nextVerse && nextVerse.number && <Link to={`/rama/${chapter_num}/${nextVerse.number}`} className="sv-btn fixed bottom-4 right-5">Next - {nextVerse.number}</Link>}
-                  </div>
-                  <Verse verse={verses.find(verse => verse.number === Number(verse_num))} />
-                    <br />
-                    <br />
-                </div>
-            );
+        if (event.key === "ArrowLeft" && prevVerse) {
+          event.preventDefault();
+          navigate(`/rama/${chapter_num}/${prevVerse.number}`);
         }
+
+        if (event.key === "ArrowRight" && nextVerse) {
+          event.preventDefault();
+          navigate(`/rama/${chapter_num}/${nextVerse.number}`);
+        }
+      };
+
+      window.addEventListener("keydown", handleKeyDown);
+      return () => window.removeEventListener("keydown", handleKeyDown);
+    }, [chapter_num, isValidVerseRoute, navigate, prevVerse, nextVerse, verse]);
+
+    if (verse !== undefined) {
+      return (
+        <div className="w-full h-full">
+          {/* <h1 className="text-3xl text-center pt-5">{title} - {verse_num}</h1> */}
+          <div>
+            <br />
+            <Breadcrumbs />
+          </div>
+          <div className="flex flex-wrap justify-center gap-2 mt-2 py-4">
+            {prevVerse && prevVerse.number && <Link to={`/rama/${chapter_num}/${prevVerse.number}`} className="sv-btn fixed bottom-4 left-5">Prev - {prevVerse.number}</Link>}
+            {nextVerse && nextVerse.number && <Link to={`/rama/${chapter_num}/${nextVerse.number}`} className="sv-btn fixed bottom-4 right-5">Next - {nextVerse.number}</Link>}
+          </div>
+          <Verse verse={verse} />
+          <br />
+          <br />
+        </div>
+      );
     }
 
     return (
