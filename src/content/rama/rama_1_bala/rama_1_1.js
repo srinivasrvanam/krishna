@@ -64,10 +64,23 @@ const verses = [
       "धर्म-ज्ञः च कृत-ज्ञः च सत्य-वाक्यः दृढ-व्रतः ||"
     ],
     anvaya: [
-      "अस्मिन् लोके साम्प्रतं गुणवान् कः नु, कः च वीर्यवान्, धर्मज्ञः च कृतज्ञः च सत्यवाक्यः दृढव्रतः (अस्ति) ||"
+      "(नु) अस्मिन् लोके साम्प्रतं कः",
+      "- गुणवान्", 
+      "- वीर्यवान्", 
+      "- धर्मज्ञः", 
+      "- कृतज्ञः", 
+      "- सत्यवाक्यः", 
+      "- दृढव्रतः", 
+      "(अस्ति) |"
     ],
     prose: [
-      "Who in the world today is truly virtuous, and who is possessed of great prowess? Who is a knower of righteousness, who is grateful, who is truthful in speech, and who is firm in his vows?"
+      "(Indeed) Who in the world today is", 
+      "- possessor of excellent qualities", 
+      "- Possessor of valor, prowess, or spiritual/physical might.", 
+      "- knower of dharma,", 
+      "- grateful,", 
+      "- speaks only truth,", 
+      "- firm in his resolve/vows"
     ],
     transl: [
       "Valmiki begins his famous inquiry by presenting the first six ideal qualities he seeks in a human being. He asks Narada if there is anyone living in the present world who simultaneously embodies perfect character, immense strength, a deep understanding of duty, gratitude, absolute truthfulness, and unshakeable determination."
