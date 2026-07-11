@@ -80,7 +80,7 @@ const verses = [
       "- knower of dharma,", 
       "- grateful,", 
       "- speaks only truth,", 
-      "- firm in his resolve/vows"
+      "- firm/unshakable in his resolve/vows"
     ],
     transl: [
       "Valmiki begins his famous inquiry by presenting the first six ideal qualities he seeks in a human being. He asks Narada if there is anyone living in the present world who simultaneously embodies perfect character, immense strength, a deep understanding of duty, gratitude, absolute truthfulness, and unshakeable determination."
@@ -128,18 +128,31 @@ const verses = [
       "विद्वान् कः कः समर्थः च कः च एक-प्रिय-दर्शनः ||"
     ],
     anvaya: [
-      "चारित्रेण च कः युक्तः, सर्वभूतेषु कः हितः, कः विद्वान्, कः च समर्थः, कः च एकप्रियदर्शनः (अस्ति) ||"
+      "कः",
+      "- चारित्रेण युक्तः", 
+      "- सर्वभूतेषु हितः", 
+      "- विद्वान्", 
+      "- समर्थः", 
+      "- एकप्रियदर्शनः", 
+      "(अस्ति) ||"
     ],
     prose: [
-      "Who is endowed with exemplary conduct? Who is always intent upon the welfare of all living beings? Who is a man of profound wisdom? Who is uniquely competent, and who is singularly pleasing to look at?"
+      "Who is",
+      "- endowed with great character (not just once, but with his past)",
+      "- well wisher of all beings",
+      "- wise/learned",
+      "- able to complete difficult tasks",
+      "- pleasing to behold(see)",
     ],
     transl: [
-      "Valmiki continues his checklist of qualities for the ideal man. He asks Narada to identify an individual who possesses flawless moral conduct, actively seeks the well-being of every creature, holds deep scriptural and practical knowledge, has the capability to accomplish difficult tasks, and whose very appearance brings joy to anyone who beholds him."
+      "Who is endowed with exemplary conduct? Who is always intent upon the welfare of all living beings? Who is a man of profound wisdom? Who is uniquely competent, and who is singularly pleasing to look at?"
     ],
     transl_tel: [
       "మంచి నడవడిక (ఉత్తమ చారిత్రము) కలవాడు ఎవరు? సమస్త ప్రాణుల మేలు కోరేవాడు ఎవరు? పరమ విద్వాంసుడు ఎవరు? సమస్త కార్యములను చక్కబెట్టగల సమర్థుడు ఎవరు? మరియు చూసే కొద్దీ చూడాలనిపించే అందరికీ ప్రియమైన రూపం కలవాడు ఎవరు?"
     ],
-    essence: [],
+    essence: [
+      "Valmiki continues his checklist of qualities for the ideal man. He asks Narada to identify an individual who possesses flawless moral conduct, actively seeks the well-being of every creature, holds deep scriptural and practical knowledge, has the capability to accomplish difficult tasks, and whose very appearance brings joy to anyone who beholds him.",
+    ],
     meanings: [
       "चारित्रेण = With good conduct / Blameless character",
       "च = And",
