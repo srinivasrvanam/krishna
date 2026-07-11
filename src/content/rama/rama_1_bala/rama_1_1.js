@@ -253,18 +253,26 @@ const verses = [
     "महर्षे त्वम् समर्थः असि ज्ञातुम् एवम्-विधम् नरम् ||"
   ],
   anvaya: [
-    "महर्षे! अहम् एतत् श्रोतुम् इच्छामि, मे परं कौतूहलं हि अस्ति, त्वम् एवंविधं नरं ज्ञातुम् समर्थः असि ||"
+    "(हे) महर्षे!", 
+    "अहम् एतत् श्रोतुम् इच्छामि", 
+    "मे परं कौतूहलं हि अस्ति", 
+    "त्वम् एवंविधं नरं ज्ञातुम् समर्थः असि ||"
   ],
   prose: [
-    "O Great Sage! I desire to hear about such a person, for my curiosity is immense. You alone are capable of knowing a man endowed with such extraordinary qualities."
+    "O Great Sage!", 
+    "I desire to hear about such a person", 
+    "for my curiosity is immense.", 
+    "You are capable of knowing a man endowed with such extraordinary qualities."
   ],
   transl: [
-    "Having listed all sixteen ideal virtues, Valmiki expresses his intense eagerness to learn if such a perfect individual actually exists on Earth. He appeals to Narada's omniscience, stating that a master sage of his spiritual stature is uniquely qualified to know of a human being who embodies all these diverse characteristics simultaneously."
+    "O Great Sage! I desire to hear about such a person, for my curiosity is immense. You are capable of knowing a man endowed with such extraordinary qualities."
   ],
   transl_tel: [
-    "ఓ మహర్షీ! ఇలాంటి గుణములు కలవాని గూర్చి వినాలని నాకు అత్యంత కుతూహలంగా ఉన్నది. ఈ విధమైన నరుడిని గురించి తెలుసుకొనుటకు నీవు ఒక్కడివే సమర్థుడవు."
+    "ఓ మహర్షీ! ఇలాంటి గుణములు కలవాని గూర్చి వినాలని నాకు అత్యంత కుతూహలంగా ఉన్నది. ఈ విధమైన నరుడిని గురించి తెలుసుకొనుటకు నీవు సమర్థుడవు."
   ],
-  essence: [],
+  essence: [
+    "Having listed all sixteen ideal virtues, Valmiki expresses his intense eagerness to learn if such a perfect individual actually exists on Earth. He appeals to Narada's omniscience, stating that a master sage of his spiritual stature is uniquely qualified to know of a human being who embodies all these diverse characteristics simultaneously."
+  ],
   meanings: [
     "एतत् = This (about such a person)",
     "इच्छामि = I desire / Wish",
