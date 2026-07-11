@@ -493,18 +493,36 @@ const verses = [
     "विपुल-अंसः महा-बाहुः कम्बु-ग्रीवः महा-हनुः ||"
   ],
   anvaya: [
-    "बुद्धिमान् नीतिमान् वाग्मी श्रीमान् शत्रुनिबर्हणः विपुलांसो महाबाहुः कम्बुग्रीवो महाहनुः (च अस्ति) ||"
+    "बुद्धि-मान्", 
+    "नीति-मान्", 
+    "वाग्मी", 
+    "श्री-मान्", 
+    "शत्रु-निबर्हणः", 
+    "विपुल-अंसः", 
+    "महा-बाहुः", 
+    "कम्बु-ग्रीवः" ,
+    "महा-हनुः"
   ],
   prose: [
-    "He is highly intelligent, a master of ethics and justice, eloquent, exceptionally graceful, and the destroyer of his foes. He has broad shoulders, mighty arms, a neck resembling a conch shell, and a prominent, strong jaw."
+    "highly intelligent",
+    "master of ethics",
+    "eloquent speaker",
+    "possessor of grace/auspicious aura",
+    "destroyer of enemies",
+    "has broad shoulders",
+    "has mighty arms",
+    "has a neck resembling a conch shell",
+    "strong jaw",
   ],
   transl: [
-    "Narada details both the intellectual capacities and physical majesty of Rama. Rama is deeply wise, legally and morally astute, an excellent speaker, prosperous, and fierce against injustice. Physically, he bears the classic bodily proportions of a great leader and warrior: powerful shoulders, long arms, an elegant neck, and a commanding jawline."
+    "He is highly intelligent, a master of ethics and justice, eloquent, exceptionally graceful, and the destroyer of his foes. He has broad shoulders, mighty arms, a neck resembling a conch shell, and a prominent, strong jaw."
   ],
   transl_tel: [
     "ఆయన బుద్ధిమంతుడు, నీతి తెలిసినవాడు, చక్కగా మాట్లాడే నేర్పరి, శుభప్రదమైన తేజస్సు కలవాడు, శత్రువులను అణచివేసేవాడు. విశాలమైన భుజములు, పొడవైన చేతులు, శంఖము వంటి మెడ, బలమైన దవడలు కలిగిన రూపశాలి."
   ],
-  essence: [],
+  essence: [
+    "Narada details both the intellectual capacities and physical majesty of Rama. Rama is deeply wise, legally and morally astute, an excellent speaker, prosperous, and fierce against injustice. Physically, he bears the classic bodily proportions of a great leader and warrior: powerful shoulders, long arms, an elegant neck, and a commanding jawline."
+  ],
   meanings: [
     "बुद्धि-मान् = Sharp-witted / Highly intelligent",
     "नीति-मान् = Scholar of ethics / Righteous conduct",
