@@ -312,18 +312,26 @@ const verses = [
     "श्रूयताम् इति च आमन्त्र्य प्रहृष्टः वाक्यम् अब्रवीत् ||"
   ],
   anvaya: [
-    "त्रिलोकज्ञः नारदः वाल्मीकेः एतत् वचः श्रुत्वा च, 'श्रूयताम्' इति आमन्त्र्य, प्रहृष्टः (सन्) वाक्यम् अब्रवीत् ||"
+    "त्रिलोकज्ञः नारदः", 
+    "वाल्मीकेः एतत् वचः श्रुत्वा च", 
+    "'श्रूयताम्' इति आमन्त्र्य,", 
+    "प्रहृष्टः (सन्) वाक्यम् अब्रवीत् ||"
   ],
   prose: [
-    "Hearing these words of Valmiki, the knower of the three worlds, Sage Narada, became thoroughly delighted, invited his attention saying 'Please listen!', and spoke the following words."
+    "Devarshi Narada (Knower of 3 worlds)",
+    "Having listened to these words of Maharshi Valmiki",
+    "addressing 'may it be heard'",
+    "being delighted, spoke the following words",
   ],
   transl: [
-    "Narada, who travels freely across the three realms and knows everything occurring within them, is filled with joy upon hearing Valmiki's noble and profound inquiry. Instead of dismissing the request as an impossible ideal, he happily prepares to describe the one person who fulfills all sixteen virtues."
+    "Hearing these words of Valmiki, the knower of the three worlds, Sage Narada, became thoroughly delighted, invited his attention saying 'Please listen!', and spoke the following words."
   ],
   transl_tel: [
     "ముల్లోకాల వృత్తాంతం తెలిసిన నారద మహర్షి, వాల్మీకి మహర్షి చెప్పిన ఆ మాటలను విని, మిక్కిలి సంతోషించి, 'సావధానంగా విను' అని పలికి ఈ విధంగా చెప్పడం ప్రారంభించాడు."
   ],
-  essence: [],
+  essence: [
+    "Narada, who travels freely across the three realms and knows everything occurring within them, is filled with joy upon hearing Valmiki's noble and profound inquiry. Instead of dismissing the request as an impossible ideal, he happily prepares to describe the one person who fulfills all sixteen virtues."
+  ],
   meanings: [
     "श्रुत्वा = Having heard",
     "च = And",
@@ -340,7 +348,10 @@ const verses = [
     "वाक्यम् = Words / Statement",
     "अब्रवीत् = Spoke / Replied"
   ],
-  grammar: [],
+  grammar: [
+    "श्रूयताम् = श्रु (to listen) - भावकर्मणोः लोट्.ल. - आत्मनेपदम् - प्र.पु. - एक.व.",
+    "",
+  ],
   notes: [
     "This verse transitions the narrative from Valmiki's questions to Narada's answers. The title 'Trilokajnah' establishes Narada's absolute credibility to answer such an exhaustive query, as his cosmic vision extends far beyond normal human boundaries.",
     "Narada's delight ('Prahrishtah') highlights that a true master is always overjoyed when meeting an earnest, pure-hearted seeker who asks questions aimed at the welfare and elevation of humanity."
