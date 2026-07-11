@@ -192,18 +192,30 @@ const verses = [
       "कस्य बिभ्यति देवाः च जात-रोषस्य संयुगे ||"
     ],
     anvaya: [
-      "कः आत्मवान्, कः जितक्रोधः, द्युतिमान् (कः), कः अनसूयकः, संयुगे जातरोषस्य कस्य देवाः च बिभ्यति ||"
+      "कः", 
+      "- आत्मवान्", 
+      "- जितक्रोधः", 
+      "- द्युतिमान्", 
+      "- अनसूयकः", 
+      "संयुगे जातरोषस्य कस्य देवाः च बिभ्यति"
     ],
     prose: [
-      "Who is courageous and master of his self? Who has conquered anger? Who is endowed with splendor, and who is free from envy? Whose wrath, when aroused in battle, strikes terror even into the hearts of the celestials?"
+      "Who",
+      "- is self-controlled (has knowledge of the self)",
+      "- has conquered anger",
+      "- has brilliance (tejas)",
+      "- is free from envy (jealousy)",
+      "In battle, whose wrath, when aroused, even devatas also fear",
     ],
     transl: [
-      "Valmiki concludes his detailed series of questions by exploring the deeper emotional control and warrior attributes of this ideal person. He seeks someone with immense self-control, absolute mastery over anger, a radiant presence, freedom from jealousy, and a battlefield prowess so formidable that even the gods would fear him when he is rightfully angered."
+      "Who is courageous and master of his self? Who has conquered anger? Who is endowed with splendor, and who is free from envy? Whose wrath, when aroused in battle, strikes terror even into the hearts of the celestials?"
     ],
     transl_tel: [
       "ధైర్యము మరియు ఆత్మనిగ్రహము కలవాడు ఎవరు? క్రోధాన్ని జయించినవాడు ఎవరు? తేజోవంతుడు ఎవరు? అసూయ లేనివాడు ఎవరు? మరియు యుద్ధరంగంలో కోపం వస్తే దేవతలు సైతం ఎవరికి భయపడతారు?"
     ],
-    essence: [],
+    essence: [
+      "Valmiki concludes his detailed series of questions by exploring the deeper emotional control and warrior attributes of this ideal person. He seeks someone with immense self-control, absolute mastery over anger, a radiant presence, freedom from jealousy, and a battlefield prowess so formidable that even the gods would fear him when he is rightfully angered."
+    ],
     meanings: [
       "कः = Who",
       "आत्मवान् = Possessed of self-control / Courageous soul",
