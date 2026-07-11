@@ -958,16 +958,16 @@ const verses = [
   anvaya: [
     "सर्वगुणोपेतः कौसल्यानन्दवर्धनः सः च गाम्भीर्ये समुद्रः इव धैर्येण हिमवान् इव (अस्ति) ||"
   ],
-  prose: [
-    "Endowed with all these virtues, He enhances the joy of His mother, Kausalya. In depth of personality and serenity He is like the unfathomable ocean, and in fortitude He is like the unshakeable Himalaya mountains."
-  ],
+  prose: [],
   transl: [
-    "Narada introduces Rama's familial identity as the beloved son who brings immense pride and joy to Queen Kausalya. He then sets up two classic similes to define Rama's internal framework: his mind and emotional depth are as vast and calm as a deep ocean, while his courage and resilience under pressure are as immovable as the Himalayas."
+    "Endowed with all these virtues, He enhances the joy of His mother, Kausalya. In depth of personality and serenity He is like the unfathomable ocean, and in fortitude He is like the unshakeable Himalaya mountains."
   ],
   transl_tel: [
     "సమస్త ఉత్తమ గుణములు కలవాడై, తన తల్లియైన కౌసల్యకు ఆనందాన్ని పెంచేవాడు ఆయన. గాంభీర్యంలో (మనోనిశ్చలతలో) సముద్రుని వంటివాడు, ధైర్యంలో హిమవత్పర్వతం వంటివాడు."
   ],
-  essence: [],
+  essence: [
+    "Narada introduces Rama's familial identity as the beloved son who brings immense pride and joy to Queen Kausalya. He then sets up two classic similes to define Rama's internal framework: his mind and emotional depth are as vast and calm as a deep ocean, while his courage and resilience under pressure are as immovable as the Himalayas."
+  ],
   meanings: [
     "सः = He (Rama)",
     "च = And",
@@ -1004,16 +1004,16 @@ const verses = [
   anvaya: [
     "(सः) वीर्ये विष्णुना सदृशः, सोमवत् प्रियदर्शनः, क्रोधे कालाग्निसदृशः, क्षमया पृथ्वीसमः (अस्ति) ||"
   ],
-  prose: [
-    "In valor He is equal to Lord Vishnu; in pleasing appearance He is like the gentle moon. In righteous anger He is comparable to the all-consuming destructive fire at the end of time, yet in patience and forgiveness He is equal to the tolerant Earth."
-  ],
+  prose: [],
   transl: [
-    "Narada uses profound cosmic comparisons to capture Rama’s paradoxical excellence. He possesses the absolute martial power of Lord Vishnu, yet maintains the soothing, cooling charm of a full moon. While his wrath against systematic evil burns as intensely as the terminal cosmic fire, his capacity to forgive and tolerate personal slights is as infinite as Mother Earth."
+    "In valor He is equal to Lord Vishnu; in pleasing appearance He is like the gentle moon. In righteous anger He is comparable to the all-consuming destructive fire at the end of time, yet in patience and forgiveness He is equal to the tolerant Earth."
   ],
   transl_tel: [
     "ఆయన పరాక్రమములో విష్ణుమూర్తితో సమానుడు, చూచుటకు చంద్రుని వలె ఆహ్లాదాన్ని కలిగించేవాడు. దుష్టులపై కోపంలో ప్రళయకాలాగ్ని వంటివాడు, కానీ ఓర్పులో (క్షమాగుణంలో) భూదేవితో సమానుడు."
   ],
-  essence: [],
+  essence: [
+    "Narada uses profound cosmic comparisons to capture Rama’s paradoxical excellence. He possesses the absolute martial power of Lord Vishnu, yet maintains the soothing, cooling charm of a full moon. While his wrath against systematic evil burns as intensely as the terminal cosmic fire, his capacity to forgive and tolerate personal slights is as infinite as Mother Earth."
+  ],
   meanings: [
     "विष्णुना = To Lord Vishnu",
     "सदृशः = Equal / Comparable",
@@ -1049,16 +1049,16 @@ const verses = [
   anvaya: [
     "(यः) त्यागे धनदेन समः, सत्ये अपरः धर्मः इव (अस्ति), एवम् गुणसम्पन्नं सत्यपराक्रमं तम् रामम्... ||"
   ],
-  prose: [
-    "In charity and generosity He is equal to Kubera (the god of wealth); in truthfulness He is like another personification of Dharma itself. To such a Rama, who is endowed with these sublime qualities and whose prowess is rooted in truth..."
-  ],
+  prose: [],
   transl: [
-    "Narada completes his immediate profiling of Rama by comparing his philanthropy to Kubera, meaning his generosity knows no bounds. In his alignment with absolute truth, Rama appears as if Dharma (the cosmic principle of justice) has walked down to earth in human skin. This verse sets up the grand narrative transition by summarizing Rama's virtues."
+    "In charity and generosity He is equal to Kubera (the god of wealth); in truthfulness He is like another personification of Dharma itself. To such a Rama, who is endowed with these sublime qualities and whose prowess is rooted in truth..."
   ],
   transl_tel: [
     "దానగుణంలో ఆయన కుబేరునితో సమానుడు, సత్యపాలనలో సాక్షాత్తు ధర్మదేవతయే మరొక రూపంలో అవతరించినట్లు ఉంటాడు. ఇటువంటి సద్గుణములు కలిగి, సత్యమైన పరాక్రమము గల ఆ రాముడిని..."
   ],
-  essence: [],
+  essence: [
+    "Narada completes his immediate profiling of Rama by comparing his philanthropy to Kubera, meaning his generosity knows no bounds. In his alignment with absolute truth, Rama appears as if Dharma (the cosmic principle of justice) has walked down to earth in human skin. This verse sets up the grand narrative transition by summarizing Rama's virtues."
+  ],
   meanings: [
     "धन-देन = With Kubera (the bestower of wealth)",
     "समः = Equal",
@@ -1097,16 +1097,16 @@ const verses = [
   anvaya: [
     "दशरथः श्रेष्ठगुणैः युक्तं प्रकृतीनां हितैः युक्तं प्रियं ज्येष्ठम् सुतम् रामम् प्रकृतिप्रियकाम्यయా... ||"
   ],
-  prose: [
-    "...King Dasharatha, out of an earnest desire to ensure the affection and welfare of his citizens, wished to crown his beloved eldest son Rama, who possessed preeminent virtues and was deeply devoted to the welfare of the people."
-  ],
+  prose: [],
   transl: [
-    "Picking up from the previous verse, Narada moves into the actual history of Ayodhya. King Dasharatha, recognizing that his eldest and dearest son Rama possesses unmatched attributes and works tirelessly for the collective good, decides to initiate his coronation as the crown prince (*Yuvaraja*) purely to delight and bless his subjects."
+    "...King Dasharatha, out of an earnest desire to ensure the affection and welfare of his citizens, wished to crown his beloved eldest son Rama, who possessed preeminent virtues and was deeply devoted to the welfare of the people."
   ],
   transl_tel: [
     "ఉత్తమ గుణములు కలవాడు, ప్రజల శ్రేయస్సు కోరేవాడు, తన ప్రియమైన పెద్ద కుమారుడు అయిన రామునిపై గల ప్రేమతో, ప్రజలకు మేలు చేయాలనే కోరికతో దశరథ మహారాజు..."
   ],
-  essence: [],
+  essence: [
+    "Picking up from the previous verse, Narada moves into the actual history of Ayodhya. King Dasharatha, recognizing that his eldest and dearest son Rama possesses unmatched attributes and works tirelessly for the collective good, decides to initiate his coronation as the crown prince (*Yuvaraja*) purely to delight and bless his subjects."
+  ],
   meanings: [
     "ज्येष्ठम् = The eldest",
     "श्रेष्ठ-गुणैः = With superlative / Preeminent virtues",
@@ -1143,16 +1143,16 @@ const verses = [
   anvaya: [
     "महीपतिः प्रीत्या यौवराज्येन संयोक्तुम् ऐच्छत्, अथ तस्य अभिषेकसम्भारान् दृष्ट्वा भार्या कैकयी... ||"
   ],
-  prose: [
-    "The lord of the earth (King Dasharatha), out of deep affection, desired to invest Him with the position of crown prince. Thereafter, seeing the preparations arranged for that coronation, his wife Kaikeyi..."
-  ],
+  prose: [],
   transl: [
-    "This verse seamlessly carries forward the thought from the previous slokas. King Dasharatha officially moves forward with his heart's desire to install Rama as the crown prince. However, upon witnessing the grand ceremonial items and materials accumulating for the festive event, his queen Kaikeyi steps into the narrative arc."
+    "The lord of the earth (King Dasharatha), out of deep affection, desired to invest Him with the position of crown prince. Thereafter, seeing the preparations arranged for that coronation, his wife Kaikeyi..."
   ],
   transl_tel: [
     "మహారాజైన దశరథుడు ఎంతో ప్రేమతో రామునికి యువరాజ పట్టాభిషేకం చేయాలని నిశ్చయించాడు. ఆ పట్టాభిషేకానికి జరుగుతున్న వైభవవంతమైన ఏర్పాట్లను చూసి, ఆయన భార్యయైన కైకేయి..."
   ],
-  essence: [],
+  essence: [
+    "This verse seamlessly carries forward the thought from the previous slokas. King Dasharatha officially moves forward with his heart's desire to install Rama as the crown prince. However, upon witnessing the grand ceremonial items and materials accumulating for the festive event, his queen Kaikeyi steps into the narrative arc."
+  ],
   meanings: [
     "यौवराज्येन = With the status of crown prince (Yuvaraja)",
     "संयोक्तुम् = To join / Invest with",
@@ -1190,16 +1190,16 @@ const verses = [
   anvaya: [
     "पूर्वम् दत्तवरा देवी कैकयी रामस्य विवासनं भरतस्य अभिषेचनम् च (इति) एनम् वरम् अयाचत ||"
   ],
-  prose: [
-    "Queen Kaikeyi, to whom boons had been promised in the past, demanded those boons from the king: namely, the exile of Rama to the forest and the coronation of her own son, Bharata."
-  ],
+  prose: [],
   transl: [
-    "Narada details Kaikeyi's direct intervention. Activating two ancient promises (boons) given to her by Dasharatha for saving his life on an old battlefield, she asks for two specific things: Rama must be exiled to the dangerous forests for fourteen years, and her own son Bharata must be crowned king instead."
+    "Queen Kaikeyi, to whom boons had been promised in the past, demanded those boons from the king: namely, the exile of Rama to the forest and the coronation of her own son, Bharata."
   ],
   transl_tel: [
     "గతంలో దశరథుడి చేత వరాలు పొంది ఉన్న కైకేయీ దేవి, రాముడిని అడవులకు పంపడం (వివాసనం), తన కుమారుడైన భరతుడికి పట్టాభిషేకం చేయడం అనే ఈ రెండు వరాలను కోరింది."
   ],
-  essence: [],
+  essence: [
+    "Narada details Kaikeyi's direct intervention. Activating two ancient promises (boons) given to her by Dasharatha for saving his life on an old battlefield, she asks for two specific things: Rama must be exiled to the dangerous forests for fourteen years, and her own son Bharata must be crowned king instead."
+  ],
   meanings: [
     "पूर्वम् = In the past",
     "दत्त-वरा = One to whom boons had been granted",
@@ -1237,16 +1237,16 @@ const verses = [
   anvaya: [
     "सः राजा दशरथः सत्यवचनात् धर्मपाशेन संयतः (सन्), प्रियं सुतं रामं विवासयामास ||"
   ],
-  prose: [
-    "Bound by the unyielding bond of righteousness to keep his spoken word, that King Dasharatha banished his deeply beloved eldest son Rama."
-  ],
+  prose: [],
   transl: [
-    "Narada explains Dasharatha's painful predicament. Bound firmly by the strict chords of duty and his absolute commitment to stay truthful to his promises (*Dharma-pasha*), the heartbroken king has no choice but to order the exile of his dearest son, prioritizing cosmic righteousness over his own paternal love."
+    "Bound by the unyielding bond of righteousness to keep his spoken word, that King Dasharatha banished his deeply beloved eldest son Rama."
   ],
   transl_tel: [
     "ఆ దశరథ మహారాజు తాను ఇచ్చిన మాటకు కట్టుబడి, ధర్మపాశము చేత బంధించబడినవాడై, తనకెంతో ప్రియమైన కుమారుడైన రాముడిని అడవులకు పంపించాడు."
   ],
-  essence: [],
+  essence: [
+    "Narada explains Dasharatha's painful predicament. Bound firmly by the strict chords of duty and his absolute commitment to stay truthful to his promises (*Dharma-pasha*), the heartbroken king has no choice but to order the exile of his dearest son, prioritizing cosmic righteousness over his own paternal love."
+  ],
   meanings: [
     "सः = That",
     "सत्य-वचनात् = On account of his truthful word / Promise",
@@ -1282,16 +1282,16 @@ const verses = [
   anvaya: [
     "सः वीरः पितुः वचननिर्देशात् कैकेय्याः प्रियकारणात् च प्रतिज्ञाम् अनुपालयन् वनं जगाम ||"
   ],
-  prose: [
-    "That heroic Rama departed for the forest, faithfully executing the vow to honor his father's command and to ensure that the desire of Kaikeyi was fully gratified."
-  ],
+  prose: [],
   transl: [
-    "Rama accepts the decree with absolute calmness and grace. Demonstrating true heroism, he leaves for the wild forest to protect his father's honor, keep the king's promise valid, and satisfy his stepmother Kaikeyi's wishes, without harboring any anger or resentment."
+    "That heroic Rama departed for the forest, faithfully executing the vow to honor his father's command and to ensure that the desire of Kaikeyi was fully gratified."
   ],
   transl_tel: [
     "ఆ పరాక్రమవంతుడైన రాముడు తన తండ్రి ఆజ్ఞను పాలిస్తూ, కైకేయికి ఇష్టమైనది చేయడం కోసం, తండ్రి మాట నిలబెట్టే ప్రతిజ్ఞతో అరణ్యమునకు వెళ్ళాడు."
   ],
-  essence: [],
+  essence: [
+    "Rama accepts the decree with absolute calmness and grace. Demonstrating true heroism, he leaves for the wild forest to protect his father's honor, keep the king's promise valid, and satisfy his stepmother Kaikeyi's wishes, without harboring any anger or resentment."
+  ],
   meanings: [
     "सः = He (Rama)",
     "जगाम = Went / Departed",
@@ -1327,16 +1327,16 @@ const verses = [
   anvaya: [
     "व्रजन्तं तम् विनयसम्पन्नः सुमित्रानन्दवर्धनः प्रियः भ्राता लक्ष्मणः स्नेहात् अनुजगाम ह ||"
   ],
-  prose: [
-    "As He was departing, His beloved brother Lakshmana—endowed with absolute humility and who enhances the happiness of his mother Sumitra—followed Him out of pure, deep affection."
-  ],
+  prose: [],
   transl: [
-    "Rama is not left to face the wilderness entirely alone. His younger brother Lakshmana, an embodiment of modesty and affection, refuses to stay behind in luxury. Out of profound love and devotion, he walks out of the palace to serve and protect Rama throughout his exile."
+    "As He was departing, His beloved brother Lakshmana—endowed with absolute humility and who enhances the happiness of his mother Sumitra—followed Him out of pure, deep affection."
   ],
   transl_tel: [
     "అడవికి వెళ్తున్న ఆ రాముడిని అనుసరిస్తూ, వినయ సంపన్నుడు, సుమిత్రకు ఆనందాన్ని పెంచేవాడు అయిన ఆయన ప్రియసహోదరుడు లక్ష్మణుడు కేవలం స్నేహపూర్వక అనురాగంతో కూడా వెళ్ళాడు."
   ],
-  essence: [],
+  essence: [
+    "Rama is not left to face the wilderness entirely alone. His younger brother Lakshmana, an embodiment of modesty and affection, refuses to stay behind in luxury. Out of profound love and devotion, he walks out of the palace to serve and protect Rama throughout his exile."
+  ],
   meanings: [
     "तम् = Him (Rama)",
     "व्रजन्तम् = While departing / Walking away",
@@ -1372,16 +1372,16 @@ const verses = [
   anvaya: [
     "भ्रातुः दयितः (लक्ष्मणः) सौभ्रात्रम् अनुदर्शयन् भ्रातरं (रामम् अनुजगाम). रामस्य नित्यम् प्रिया प्राणसमा हिता भार्या... ||"
   ],
-  prose: [
-    "...Demonstrating the highest standard of brotherly love toward his adored sibling. Rama's beloved wife, who was ever matching His life-breath itself and always devoted to His welfare..."
-  ],
+  prose: [],
   transl: [
-    "Narada completes the picture of Lakshmana's fraternal dedication and shifts directly to introduce Sita. Sita is described as Rama's cherished soulmate, whose life matches his own in perfect harmony, and who constantly acts for his absolute welfare."
+    "...Demonstrating the highest standard of brotherly love toward his adored sibling. Rama's beloved wife, who was ever matching His life-breath itself and always devoted to His welfare..."
   ],
   transl_tel: [
     "తన అన్నపై గల నిరుపమానమైన సోదరప్రేమను చాటుకుంటూ లక్ష్మణుడు వెళ్ళాడు. అలాగే రాముడికి నిరంతరం ప్రియమైనది, ఆయన ప్రాణంతో సమానమైనది, ఆయన హితాన్ని కోరే భార్య..."
   ],
-  essence: [],
+  essence: [
+    "Narada completes the picture of Lakshmana's fraternal dedication and shifts directly to introduce Sita. Sita is described as Rama's cherished soulmate, whose life matches his own in perfect harmony, and who constantly acts for his absolute welfare."
+  ],
   meanings: [
     "भ्रातरम् = Brother (Rama)",
     "दयितः = Beloved / Dearly loving",
@@ -1418,16 +1418,16 @@ const verses = [
   anvaya: [
     "जनकस्य कुले जाता, देवमाया इव निर्मिता, सर्वलक्षणसम्पन्ना नारीणाम् उत्तमा वधूः (सीता च)... ||"
   ],
-  prose: [
-    "...Born in the noble family of King Janaka, appearing as if she were an embodiment of divine enchantment, endowed with every auspicious feature, and the foremost among all virtuous women, that bride Sita..."
-  ],
+  prose: [],
   transl: [
-    "Narada introduces Sita with deep reverence. Born in the spiritually advanced lineage of King Janaka, her beauty and grace are so extraordinary that she looks like a masterwork of divine creation. She bears every perfect physical and moral sign and stands out as the finest example among women."
+    "...Born in the noble family of King Janaka, appearing as if she were an embodiment of divine enchantment, endowed with every auspicious feature, and the foremost among all virtuous women, that bride Sita..."
   ],
   transl_tel: [
     "జనక మహారాజు వంశంలో జన్మించినది, దైవికమైన మాయాశక్తి వలె అద్భుతంగా సృష్టించబడినది, సర్వశుభలక్షణములు కలిగినది, నారీమణులలో అత్యంత ఉత్తమురాలైన ఆ వధువు సీతాదేవి..."
   ],
-  essence: [],
+  essence: [
+    "Narada introduces Sita with deep reverence. Born in the spiritually advanced lineage of King Janaka, her beauty and grace are so extraordinary that she looks like a masterwork of divine creation. She bears every perfect physical and moral sign and stands out as the finest example among women."
+  ],
   meanings: [
     "जनकस्य = Of King Janaka",
     "कुले = In the family / Lineage",
@@ -1463,16 +1463,16 @@ const verses = [
   anvaya: [
     "रोहिणी शशिनं यथा, सीता अपि रामम् अनुगता. (सः रामः) पौरैः पित्रा दशरथेन च दूरम् अनुगतः ||"
   ],
-  prose: [
-    "...Sita too accompanied Rama, just as the constellation Rohini ever accompanies the Moon. Rama was followed for a great distance by the weeping citizens and by his heartbroken father, King Dasharatha."
-  ],
+  prose: [],
   transl: [
-    "Sita joins Rama's exile automatically, a union as natural and unalterable as the star Rohini staying with the Moon in the night sky. As the trio walks away from Ayodhya, the grief-stricken citizens and King Dasharatha follow them for miles, unable to easily detach themselves from Rama."
+    "...Sita too accompanied Rama, just as the constellation Rohini ever accompanies the Moon. Rama was followed for a great distance by the weeping citizens and by his heartbroken father, King Dasharatha."
   ],
   transl_tel: [
     "చంద్రుడిని రోహిణీ దేవి అనుసరించినట్లుగా, సీతాదేవి కూడా రాముడి వెంట వెళ్ళింది. ఆ సమయంలో పురప్రజలు, తండ్రి అయిన దశరథుడు కూడా వారి వెనుక చాలా దూరం వరకు అనుసరిస్తూ వెళ్ళారు."
   ],
-  essence: [],
+  essence: [
+    "Sita joins Rama's exile automatically, a union as natural and unalterable as the star Rohini staying with the Moon in the night sky. As the trio walks away from Ayodhya, the grief-stricken citizens and King Dasharatha follow them for miles, unable to easily detach themselves from Rama."
+  ],
   meanings: [
     "सीता = Sita",
     "अपि = Also",
@@ -1511,16 +1511,16 @@ const verses = [
   anvaya: [
     "धर्मात्मा (सः रामः) गङ्गाकूले शृङ्गीवेरपुरे प्रियम् निषादाधिपतिं गुहम् आसाद्य सूतं व्यसर्जयत् ||"
   ],
-  prose: [
-    "Reaching the town of Shringiverapura on the banks of the holy river Ganga, the righteous Rama met his dear friend Guha, the king of the Nishadas, and sent back his charioteer Sumantra."
-  ],
+  prose: [],
   transl: [
-    "The exile journey hits its first major geographic milestone. Arriving at Shringiverapura along the banks of the Ganges, the righteous Rama meets his loyal friend Guha, a tribal king. At this boundary, Rama decides to officially dismiss the royal chariot and sends the charioteer Sumantra back to the capital."
+    "Reaching the town of Shringiverapura on the banks of the holy river Ganga, the righteous Rama met his dear friend Guha, the king of the Nishadas, and sent back his charioteer Sumantra."
   ],
   transl_tel: [
     "ధర్మాత్ముడైన రాముడు గంగానది తీరంలో ఉన్న శృంగివేరపురానికి చేరుకుని, అక్కడ తన ప్రియమిత్రుడు, బోయలకు రాజు (నిషాదాధిపతి) అయిన గుహుడిని కలుసుకుని, తన రథసారథియైన సుమంత్రుడిని వెనక్కు పంపివేశాడు."
   ], 
-  essence: [],
+  essence: [
+    "The exile journey hits its first major geographic milestone. Arriving at Shringiverapura along the banks of the Ganges, the righteous Rama meets his loyal friend Guha, a tribal king. At this boundary, Rama decides to officially dismiss the royal chariot and sends the charioteer Sumantra back to the capital."
+  ],
   meanings: [
     "शृङ्गीवेर-पुरे = In the town of Shringiverapura",
     "सूतम् = The charioteer (Sumantra)",
@@ -1555,16 +1555,16 @@ const verses = [
   anvaya: [
     "लक्ष्मणेन सीतया च सहितः रामः गुहेन (नावानीतेन) बहूदकाः नदीः तीर्त्वा, तेन वनेन वनं गत्वा... ||"
   ],
-  prose: [
-    "Accompanied by Lakshmana and Sita, and aided by Guha, Rama crossed deep, wide rivers flowing with copious waters, moving steadily from one dense forest to another..."
-  ],
+  prose: [],
   transl: [
-    "With the assistance of Guha (who provides boats and guidance), Rama, Sita, and Lakshmana cross the deep, wide waters of the sacred Ganges. They push deeper into the wilderness, moving systematically from one forest zone into another as their journey advances."
+    "Accompanied by Lakshmana and Sita, and aided by Guha, Rama crossed deep, wide rivers flowing with copious waters, moving steadily from one dense forest to another..."
   ],
   transl_tel: [
     "సీతాలక్ష్మణులతో కూడిన రాముడు, గుహుడి సహాయంతో ఎక్కువ నీరున్న నదులను దాటి, ఆయా అడవుల గుండా ఒక వనము నుండి మరొక వనమునకు ప్రయాణమయ్యాడు."
   ],
-  essence: [],
+  essence: [
+    "With the assistance of Guha (who provides boats and guidance), Rama, Sita, and Lakshmana cross the deep, wide waters of the sacred Ganges. They push deeper into the wilderness, moving systematically from one forest zone into another as their journey advances."
+  ],
   meanings: [
     "गुहेन = By / With the help of Guha",
     "सहितः = Accompanied by / Together with",
@@ -1604,16 +1604,16 @@ const verses = [
     anvaya: [
       "भरद्वाजप्रसादात् च चित्रकूटम् उपागमन्, चित्रकूटं गताः ते त्रयः तु चित्रविहारिणः (अभवन्) ||"
     ],
-    prose: [
-      "By the grace and guidance of Sage Bharadvaja, they arrived at Mount Chitrakoota. Having reached Chitrakoota, those three spent their time joyfully, wandering through its wonderful woodlands."
-    ],
+    prose: [],
     transl: [
-      "The trio visits the hermitage of Sage Bharadvaja, who blesses them and directs them to a serene mountain called Chitrakoota. Settling there, Rama, Sita, and Lakshmana find comfort in the beautiful, vibrant nature around them, momentarily forgetting the harshness of their exile."
+      "By the grace and guidance of Sage Bharadvaja, they arrived at Mount Chitrakoota. Having reached Chitrakoota, those three spent their time joyfully, wandering through its wonderful woodlands."
     ],
     transl_tel: [
       "భరద్వాజ మహర్షి అనుగ్రహంతో వారు చిత్రకూట పర్వతానికి చేరుకున్నారు. చిత్రకూటానికి వెళ్ళిన ఆ ముగ్గురు అక్కడి విచిత్రమైన, అందమైన వనాలలో విహరిస్తూ సంతోషంగా గడిపారు."
     ],
-    essence: [],
+    essence: [
+      "The trio visits the hermitage of Sage Bharadvaja, who blesses them and directs them to a serene mountain called Chitrakoota. Settling there, Rama, Sita, and Lakshmana find comfort in the beautiful, vibrant nature around them, momentarily forgetting the harshness of their exile."
+    ],
     meanings: [
       "भरद्वाज-प्रसादात् = By the grace / Favor of Sage Bharadvaja",
       "च = And",
@@ -1649,16 +1649,16 @@ const verses = [
     anvaya: [
       "तथा धर्मे स्थिताः ते त्रयः वनचराः तत्र देवतायतनप्रख्याम् पर्णशालाम् कृत्वा उषुः ह ||"
     ],
-    prose: [
-      "Firmly established in righteousness, the three exiles constructed a leaf-hut that resembled a sacred divine temple, and they lived there as dwellers of the forest."
-    ],
+    prose: [],
     transl: [
-      "To make a home in the wilderness, Lakshmana builds a beautiful hermitage out of leaves and thatch. Because of their pure character and adherence to duty (*Dharma*), this simple hut feels as sacred and peaceful as a divine temple. Here, they adapt fully to the lifestyle of forest dwellers."
+      "Firmly established in righteousness, the three exiles constructed a leaf-hut that resembled a sacred divine temple, and they lived there as dwellers of the forest."
     ],
     transl_tel: [
       "ధర్మానికి కట్టుబడిన ఆ ముగ్గురు వనవాసులు, అక్కడ దేవాలయం వంటి పవిత్రమైన ఒక పర్ణశాలను (ఆకులతో కూడిన ఇల్లు) నిర్మించుకుని నివసించారు."
     ],
-    essence: [],
+    essence: [
+      "To make a home in the wilderness, Lakshmana builds a beautiful hermitage out of leaves and thatch. Because of their pure character and adherence to duty (*Dharma*), this simple hut feels as sacred and peaceful as a divine temple. Here, they adapt fully to the lifestyle of forest dwellers."
+    ],
     meanings: [
       "देवता-आयतन-प्रख्याम् = Resembling a temple of the gods / Sacred shrine",
       "पर्ण-शालाम् = A hut made of leaves / Hermitage",
@@ -1696,16 +1696,16 @@ const verses = [
     anvaya: [
       "रामे चित्रकूटम् गते (सति), तथा पुत्रशोकातुरः राजा दशरथः सुतम् विलपन् स्वर्गम् जगाम ||"
     ],
-    prose: [
-      "When Rama had gone to Chitrakoota, King Dasharatha, utterly overwhelmed and tormented by the agonizing grief of separation from his son, passed away to heaven, crying out for his child."
-    ],
+    prose: [],
     transl: [
-      "Narada shifts the focus back to the tragic state of Ayodhya. Unable to bear the crushing weight of separation from his beloved eldest son, King Dasharatha becomes physically and emotionally broken. Calling out Rama's name in deep sorrow, the elderly king breathes his last, succumbing to a broken heart."
+      "When Rama had gone to Chitrakoota, King Dasharatha, utterly overwhelmed and tormented by the agonizing grief of separation from his son, passed away to heaven, crying out for his child."
     ],
     transl_tel: [
       "రాముడు చిత్రకూట పర్వతానికి వెళ్ళిన తర్వాత, పుత్ర వియోగ శోకంతో వ్యాకులుడైన దశరథ మహారాజు, కొడుకు కొరకై విలపిస్తూ స్వర్గస్థుడయ్యాడు."
     ],
-    essence: [],
+    essence: [
+      "Narada shifts the focus back to the tragic state of Ayodhya. Unable to bear the crushing weight of separation from his beloved eldest son, King Dasharatha becomes physically and emotionally broken. Calling out Rama's name in deep sorrow, the elderly king breathes his last, succumbing to a broken heart."
+    ],
     meanings: [
       "चित्रकूटम् = To Chitrakoota",
       "गते = Having gone",
@@ -1742,16 +1742,16 @@ const verses = [
     anvaya: [
       "तस्मिन् मृते तु, वसिष्ठप्रमुखैः द्विजैः राज्याय नियुज्यमानः (अपि) महाबलः भरतः राज्यम् न ऐच्छत् ||"
     ],
-    prose: [
-      "Following the king's demise, when the powerful Bharata was urged and commanded by the eminent sages led by Vasistha to ascend the throne, he absolutely refused to accept the kingdom."
-    ],
+    prose: [],
     transl: [
-      "With Dasharatha dead and Rama exiled, Ayodhya faces an urgent leadership crisis. Sages and royal elders, led by Sage Vasistha, call Bharata back from his maternal home and order him to be crowned king. However, Bharata displays immense moral strength and refuses, knowing the kingdom rightfully belongs to Rama."
+      "Following the king's demise, when the powerful Bharata was urged and commanded by the eminent sages led by Vasistha to ascend the throne, he absolutely refused to accept the kingdom."
     ],
     transl_tel: [
       "దశరథుడు మరణించిన తర్వాత, వసిష్ఠుడు మొదలైన ప్రముఖ బ్రాహ్మణోత్తములు భరతునికి రాజ్యాన్ని అప్పగించాలని ప్రయత్నించినప్పటికీ, మహాబలశాలియైన భరతుడు ఆ రాజ్యాన్ని స్వీకరించడానికి అంగీకరించలేదు."
     ],
-    essence: [],
+    essence: [
+      "With Dasharatha dead and Rama exiled, Ayodhya faces an urgent leadership crisis. Sages and royal elders, led by Sage Vasistha, call Bharata back from his maternal home and order him to be crowned king. However, Bharata displays immense moral strength and refuses, knowing the kingdom rightfully belongs to Rama."
+    ],
     meanings: [
       "मृते = Having died",
       "तु = But / Indeed",
@@ -1789,16 +1789,16 @@ const verses = [
     anvaya: [
       "रामपादप्रसादकः सः वीरः वनं जगाम, गत्वा तु सः महात्मानं सत्यपराक्रमम् रामम्... ||"
     ],
-    prose: [
-      "That heroic Bharata, seeking only to propitiate and win the grace of Rama’s feet, departed for the forest. Having reached the location of that great-souled Rama, whose valor rests entirely on truth..."
-    ],
+    prose: [],
     transl: [
-      "Instead of staying in the palace, the heroic Bharata decides to track down his brother in the wild. His sole goal is to bow at Rama's feet, apologize for his mother's actions, and convince him to return. He enters the forest to find the noble, truth-abiding Rama."
+      "That heroic Bharata, seeking only to propitiate and win the grace of Rama’s feet, departed for the forest. Having reached the location of that great-souled Rama, whose valor rests entirely on truth..."
     ],
     transl_tel: [
       "రాముని పాదాలను ప్రసన్నం చేసుకోవడం కోసం ఆ వీరుడైన భరతుడు అరణ్యానికి వెళ్ళాడు. అక్కడ మహాత్ముడు, సత్యమైన పరాక్రమము కలవాడు అయిన రాముడిని చేరుకుని..."
     ],
-    essence: [],
+    essence: [
+      "Instead of staying in the palace, the heroic Bharata decides to track down his brother in the wild. His sole goal is to bow at Rama's feet, apologize for his mother's actions, and convince him to return. He enters the forest to find the noble, truth-abiding Rama."
+    ],
     meanings: [
       "सः = He (Bharata)",
       "जगाम = Went / Departed",
@@ -1835,16 +1835,16 @@ const verses = [
     anvaya: [
       "आर्यभावपुरस्कृतः (सः) भ्रातरं रामं अयाचत्. 'धर्मज्ञ! त्वम् एव राजा' इति रामं वचः अब्रवीत् ||"
     ],
-    prose: [
-      "...Guided by a deeply noble and respectful disposition, he implored his elder brother Rama. He spoke these words to Him: 'O Knower of Righteousness! You alone are our true king!'"
-    ],
+    prose: [],
     transl: [
-      "Upon locating Rama in the woods, Bharata handles the meeting with unmatched respect and humility. He firmly rejects any claim to the crown and pleads with his elder brother, saying, 'You are the expert in justice and tradition. By every law of earth and heaven, you alone are our true king. Please come back and rule.'"
+      "...Guided by a deeply noble and respectful disposition, he implored his elder brother Rama. He spoke these words to Him: 'O Knower of Righteousness! You alone are our true king!'"
     ],
     transl_tel: [
       "శ్రేష్ఠమైన సద్భావనతో కూడినవాడై, తన అన్నయైన రాముడిని ప్రార్థించాడు. 'ఓ ధర్మమెరిగినవాడా! నువ్వే మా రాజువు' అని రాముడితో ఆ మాటలు పలికాడు."
     ],
-    essence: [],
+    essence: [
+      "Upon locating Rama in the woods, Bharata handles the meeting with unmatched respect and humility. He firmly rejects any claim to the crown and pleads with his elder brother, saying, 'You are the expert in justice and tradition. By every law of earth and heaven, you alone are our true king. Please come back and rule.'"
+    ],
     meanings: [
       "अयाचत् = Beseeched / Entreated / Begged",
       "भ्रातरम् = Brother",
@@ -1882,16 +1882,16 @@ const verses = [
     anvaya: [
       "परमोदारः सुमुखः सुमहायशाः महाबलः रामः अपि पितुः आदेशात् राज्यम् न च ऐच्छत् ||"
     ],
-    prose: [
-      "Rama, who was exceptionally generous, always pleasant-faced, highly illustrious, and endowed with immense spiritual strength, did not desire to take back the kingdom, out of absolute obedience to his father’s command."
-    ],
+    prose: [],
     transl: [
-      "Even though Bharata offers him the throne with tears and deep love, Rama remains unyielding. Exhibiting true nobility and a calm, pleasant composure (*Sumukhah*), he gently declines. For Rama, keeping his deceased father's promise to Kaikeyi intact matters far more than reclaiming his royal title."
+      "Rama, who was exceptionally generous, always pleasant-faced, highly illustrious, and endowed with immense spiritual strength, did not desire to take back the kingdom, out of absolute obedience to his father’s command."
     ],
     transl_tel: [
       "అత్యంత ఉదార స్వభావుడు, ప్రసన్నమైన ముఖము కలవాడు, గొప్ప కీర్తిశాలి, మహాబలవంతుడైన రాముడు కూడా తండ్రి ఆజ్ఞను గౌరవించి ఆ రాజ్యాన్ని స్వీకరించడానికి ఇష్టపడలేదు."
     ],
-    essence: [],
+    essence: [
+      "Even though Bharata offers him the throne with tears and deep love, Rama remains unyielding. Exhibiting true nobility and a calm, pleasant composure (*Sumukhah*), he gently declines. For Rama, keeping his deceased father's promise to Kaikeyi intact matters far more than reclaiming his royal title."
+    ],
     meanings: [
       "रामः = Rama",
       "अपि = Also / Yet",
@@ -1930,16 +1930,16 @@ const verses = [
     anvaya: [
       "भरताग्रजः (रामः) राज्याय अस्य पादुके न्यासं दत्त्वा पुनः पुनः (याचितं) भरतं ततः निवर्तयामास ||"
     ],
-    prose: [
-      "To serve as his royal representatives for governance, the elder brother of Bharata (Rama) handed over his two sandals as a sacred trust, and thus successfully persuaded Bharata to turn back."
-    ],
+    prose: [],
     transl: [
-      "To break the emotional deadlock, Rama offers a unique compromise. He steps out of his wooden sandals (*Padukas*) and hands them to Bharata to serve as a sacred trust (*Nyasam*) for the throne. Comforted by this symbolic presence of Rama's authority, Bharata finally agrees to return to the capital."
+      "To serve as his royal representatives for governance, the elder brother of Bharata (Rama) handed over his two sandals as a sacred trust, and thus successfully persuaded Bharata to turn back."
     ],
     transl_tel: [
       "భరతుని అన్నయైన రాముడు, ఆ రాజ్యపాలన కోసం తన పాదుకలను పూజనీయమైన అప్పగింతగా (ధరహాసముగా) ఇచ్చి, మరలా మరలా బ్రతిమాలిన భరతుడిని అక్కడి నుండి వెనక్కు పంపించివేశాడు."
     ],
-    essence: [],
+    essence: [
+      "To break the emotional deadlock, Rama offers a unique compromise. He steps out of his wooden sandals (*Padukas*) and hands them to Bharata to serve as a sacred trust (*Nyasam*) for the throne. Comforted by this symbolic presence of Rama's authority, Bharata finally agrees to return to the capital."
+    ],
     meanings: [
       "पादुके = Two wooden sandals",
       "च = And",
@@ -1977,16 +1977,16 @@ const verses = [
     anvaya: [
       "सः कामम् अनवाप्य एव रामपादौ उपस्पृशन्, रामागमनकाङ्क्षया नन्दिग्रामे राज्यम् अकरोत् ||"
     ],
-    prose: [
-      "Though his primary desire to bring Rama back was completely unfulfilled, Bharata reverently touched Rama’s feet and managed the affairs of the kingdom from the nearby town of Nandigrama, living in constant, intense expectation of Rama’s return."
-    ],
+    prose: [],
     transl: [
-      "Bharata returns to Ayodhya with a heavy heart, his main wish unfulfilled. Refusing to occupy the grand palace or sit on the throne out of respect for Rama, he sets up his headquarters outside the capital in a village called Nandigrama. Placing Rama's sandals on the throne, he runs the empire as a simple hermit, counting the days until his brother's return."
+      "Though his primary desire to bring Rama back was completely unfulfilled, Bharata reverently touched Rama’s feet and managed the affairs of the kingdom from the nearby town of Nandigrama, living in constant, intense expectation of Rama’s return."
     ],
     transl_tel: [
       "తన కోరిక నెరవేరకపోయినప్పటికీ, భరతుడు రాముని పాదాలకు నమస్కరించి, రాముడి తిరుగురాకకై ఎదురుచూస్తూ నందిగ్రామము అనే ప్రదేశం నుండి రాజ్యపాలన సాగించాడు."
     ],
-    essence: [],
+    essence: [
+      "Bharata returns to Ayodhya with a heavy heart, his main wish unfulfilled. Refusing to occupy the grand palace or sit on the throne out of respect for Rama, he sets up his headquarters outside the capital in a village called Nandigrama. Placing Rama's sandals on the throne, he runs the empire as a simple hermit, counting the days until his brother's return."
+    ],
     meanings: [
       "सः = He (Bharata)",
       "कामम् = Core desire (to bring Rama back)",
@@ -2022,16 +2022,16 @@ const verses = [
     anvaya: [
       "भरते गते तु, अथ श्रीमान् सत्यसन्धो जितेन्द्रियः रामः पौरजानपदस्य च (पुनः पुनः आगमनं) लक्षयामास ||"
     ],
-    prose: [
-      "After Bharata had departed, the glorious Rama, who was ever devoted to truth and possessed absolute control over his senses, noticed that the citizens and rural folks kept visiting their forest retreat."
-    ],
+    prose: [],
     transl: [
-      "Once Bharata leaves, Rama realizes that Chitrakoota is no longer a quiet, isolated sanctuary. Because it is too close to Ayodhya, crowds of townspeople and curious citizens continue to trek out to see them, disrupting the peaceful, contemplative atmosphere required for their ascetic life."
+      "After Bharata had departed, the glorious Rama, who was ever devoted to truth and possessed absolute control over his senses, noticed that the citizens and rural folks kept visiting their forest retreat."
     ],
     transl_tel: [
       "భరతుడు వెళ్ళిపోయిన తర్వాత, శ్రీమంతుడు, సత్యసంధుడు, జితేంద్రియుడు అయిన రాముడు, తమను చూడటానికి పురప్రజలు, జానపదులు (గ్రామీణులు) పదే పదే అక్కడికి వస్తుండటాన్ని గమనించాడు."
     ],
-    essence: [],
+    essence: [
+      "Once Bharata leaves, Rama realizes that Chitrakoota is no longer a quiet, isolated sanctuary. Because it is too close to Ayodhya, crowds of townspeople and curious citizens continue to trek out to see them, disrupting the peaceful, contemplative atmosphere required for their ascetic life."
+    ],
     meanings: [
       "गते = Having left / Departed",
       "तु = But / After",
@@ -2068,16 +2068,16 @@ const verses = [
     anvaya: [
       "तत्र (पौराणाम्) आगमनम् (दृष्ट्वा), एकाग्रः राजीवलोचनः रामः दण्डकारण्यम् आविशत्, तत् महारण्यम् प्रविश्य तु... ||"
     ],
-    prose: [
-      "Noticing the constant influx of people there, the single-minded, lotus-eyed Rama decided to leave Chitrakoota and entered the deep Dandaka forest. Having thus entered that immense, formidable wilderness..."
-    ],
+    prose: [],
     transl: [
-      "To avoid the frequent crowds from Ayodhya and maintain his ascetic vows, Rama remains completely focused (*Ekagrah*). He leads Sita and Lakshmana away from Chitrakoota and moves deep into the vast, dense, and legendary Dandaka forest, transitioning into a much harsher phase of their exile."
+      "Noticing the constant influx of people there, the single-minded, lotus-eyed Rama decided to leave Chitrakoota and entered the deep Dandaka forest. Having thus entered that immense, formidable wilderness..."
     ],
     transl_tel: [
       "అక్కడికి ప్రజలు పదే పదే రావడం చూసి, ఏకాగ్రత కలిగినవాడు, పద్మముల వంటి కన్నులు కలవాడు అయిన రాముడు దండకారణ్యంలోకి ప్రవేశించాడు. ఆ దట్టమైన అరణ్యంలోకి అడుగుపెట్టి..."
     ],
-    essence: [],
+    essence: [
+      "To avoid the frequent crowds from Ayodhya and maintain his ascetic vows, Rama remains completely focused (*Ekagrah*). He leads Sita and Lakshmana away from Chitrakoota and moves deep into the vast, dense, and legendary Dandaka forest, transitioning into a much harsher phase of their exile."
+    ],
     meanings: [
       "तत्र = There (at Chitrakoota)",
       "आगमनम् = The coming / Gathering of crowds",
@@ -2113,16 +2113,16 @@ const verses = [
     anvaya: [
       "(रामो) विराधं राक्षसं हत्वा शरभङ्गं ददर्श ह, तथा सुतीक्ष्णम् च अपि अगस्त्यम् च अगस्त्यभ्रातरं च (ददर्श) ||"
     ],
-    prose: [
-      "After slaying the fierce demon Viradha, Rama visited the great Sage Sharabhanga. He then met Sage Sutikshna, Sage Agastya, and likewise Agastya's illustrious brother."
-    ],
+    prose: [],
     transl: [
-      "Dandaka welcomes them with immediate peril. Rama encounters and eliminates a terrifying demon named Viradha who attacks them. Following this victory, the trio journeys through various holy hermitages, paying respects to and receiving blessings from powerful enlightened sages: Sharabhanga, Sutikshna, the legendary Agastya, and his brother Idhmavahana."
+      "After slaying the fierce demon Viradha, Rama visited the great Sage Sharabhanga. He then met Sage Sutikshna, Sage Agastya, and likewise Agastya's illustrious brother."
     ],
     transl_tel: [
       "విరాధుడనే రాక్షసుడిని వధించిన తర్వాత, రాముడు శరభంగ మహర్షిని దర్శించుకున్నాడు. ఆ తర్వాత సుతీక్ష్ణ మహర్షిని, అగస్త్య మహర్షిని, అలాగే అగస్త్యుని సోదరుడిని కూడా దర్శించాడు."
     ],
-    essence: [],
+    essence: [
+      "Dandaka welcomes them with immediate peril. Rama encounters and eliminates a terrifying demon named Viradha who attacks them. Following this victory, the trio journeys through various holy hermitages, paying respects to and receiving blessings from powerful enlightened sages: Sharabhanga, Sutikshna, the legendary Agastya, and his brother Idhmavahana."
+    ],
     meanings: [
       "विराधम् = Viradha",
       "राक्षसम् = The demon / Rakshasa",
@@ -2161,16 +2161,16 @@ const verses = [
     anvaya: [
       "अगस्त्यवचनात् च एव परमप्रीतम् (सः) ऐन्द्रं शरासनम् खड्गं च अक्षय्यशायकौ तूणी च जग्राह ||"
     ],
-    prose: [
-      "Acting on the direct advice of Sage Agastya, Rama, filled with supreme joy, accepted a divine bow originally belonging to Indra, a powerful sword, and two quivers containing arrows that could never be exhausted."
-    ],
+    prose: [],
     transl: [
-      "Sage Agastya recognizes Rama's divine identity and the trials that lie ahead. He presents Rama with a formidable arsenal of heavenly weapons left in his care: the massive bow of Indra, a gleaming sword, and two inexhaustible quivers (*Akshaya-Tuna*). Rama accepts them gratefully, fully armed for the coming conflicts."
+      "Acting on the direct advice of Sage Agastya, Rama, filled with supreme joy, accepted a divine bow originally belonging to Indra, a powerful sword, and two quivers containing arrows that could never be exhausted."
     ],
     transl_tel: [
       "అగస్త్య మహర్షి మాటల ప్రకారం, రాముడు ఎంతో సంతోషంతో ఇంద్రునికి సంబంధించిన విల్లును (ఐంద్ర శరాసనం), ఒక ఖడ్గాన్ని, బాణాలు ఎప్పటికీ అయిపోని రెండు అమ్ములపొదులను స్వీకరించాడు."
     ],
-    essence: [],
+    essence: [
+      "Sage Agastya recognizes Rama's divine identity and the trials that lie ahead. He presents Rama with a formidable arsenal of heavenly weapons left in his care: the massive bow of Indra, a gleaming sword, and two inexhaustible quivers (*Akshaya-Tuna*). Rama accepts them gratefully, fully armed for the coming conflicts."
+    ],
     meanings: [
       "अगस्त्य-वचनात् = By the words / Counsel of Sage Agastya",
       "च = And",
@@ -2208,16 +2208,16 @@ const verses = [
     anvaya: [
       "वने वनचरैः सह वसतः तस्य रामस्य (समीपम्) सर्वे ऋषयः असुररक्षसाम् वधाय अभ्यागमन् ||"
     ],
-    prose: [
-      "While Rama was residing in the forest alongside fellow forest dwellers, all the resident sages approached Him collectively, pleading for the complete destruction of the terrifying demons."
-    ],
+    prose: [],
     transl: [
-      "As Rama makes the forest his home, the local ascetics and sages gather around him. They describe the relentless torment, disruptions, and violent massacres they face from cannibalistic demons (*Asuras* and *Rakshasas*) during their quiet prayers. They formally beg Rama to act as their royal shield and destroy these monsters."
+      "While Rama was residing in the forest alongside fellow forest dwellers, all the resident sages approached Him collectively, pleading for the complete destruction of the terrifying demons."
     ],
     transl_tel: [
       "ఆ అడవిలో వనవాసులతో కలిసి నివసిస్తున్న రాముని వద్దకు అరణ్యములోని ఋషులందరూ వచ్చి, తమను వేధిస్తున్న అసురులను, రాక్షసులను వధించవలసిందిగా వేడుకున్నారు."
     ],
-    essence: [],
+    essence: [
+      "As Rama makes the forest his home, the local ascetics and sages gather around him. They describe the relentless torment, disruptions, and violent massacres they face from cannibalistic demons (*Asuras* and *Rakshasas*) during their quiet prayers. They formally beg Rama to act as their royal shield and destroy these monsters."
+    ],
     meanings: [
       "वसतः = While residing / Living",
       "तस्य = His",
@@ -2254,16 +2254,16 @@ const verses = [
     anvaya: [
       "शरण्यः कारुणिकः सः वनवासिनिवासिनाम् तेषाम् (ऋषीणाम्) सङ्ख्ये राक्षसानाम् वधम् प्रतिशुश्राव ह ||"
     ],
-    prose: [
-      "He, who is the ultimate refuge of the helpless and deeply compassionate, gave his solemn promise to those forest-dwelling sages that He would totally annihilate the Rakshasas in battle."
-    ],
+    prose: [],
     transl: [
-      "Moved by the intense suffering of the hermits, the deeply compassionate Rama—who naturally provides shelter to anyone seeking safety—gives his unbending word. He promises the forest residents that he will confront and eliminate the predatory Rakshasas in open combat (*Sankhye*)."
+      "He, who is the ultimate refuge of the helpless and deeply compassionate, gave his solemn promise to those forest-dwelling sages that He would totally annihilate the Rakshasas in battle."
     ],
     transl_tel: [
       "శరణు కోరినవారిని రక్షించేవాడు, దయామయుడు అయిన ఆ రాముడు, అరణ్యాలలో నివసిస్తున్న ఆ ఋషులకు యుద్ధంలో రాక్షసులను వధిస్తానని ప్రతిజ్ఞ (మాటా) ఇచ్చాడు."
     ],
-    essence: [],
+    essence: [
+      "Moved by the intense suffering of the hermits, the deeply compassionate Rama—who naturally provides shelter to anyone seeking safety—gives his unbending word. He promises the forest residents that he will confront and eliminate the predatory Rakshasas in open combat (*Sankhye*)."
+    ],
     meanings: [
       "शरण्यः = One who is fit to afford shelter / Ultimate refuge",
       "कारुणिकः = Deeply compassionate / Kind-hearted",
@@ -2299,16 +2299,16 @@ const verses = [
     anvaya: [
       "दण्डकारण्यवासिभिः ऋषिभिः (सह) एषः अर्थः प्रतिज्ञातः च ह, शूरः (रामः) युद्धे सम्मुखे रक्षसाम् वधः संश्रुतः ||"
     ],
-    prose: [
-      "This crucial pledge was thus sealed before the sages residing in the Dandaka forest; the heroic Rama solemnly bound himself to destroy the demons face-to-face in battle."
-    ],
+    prose: [],
     transl: [
-      "This verse reinforces the historical weight of Rama's agreement. In front of the entire assembly of Dandaka's spiritual practitioners, the heroic prince explicitly seals his covenant: he will face the dark forces head-on and eradicate them from the region."
+      "This crucial pledge was thus sealed before the sages residing in the Dandaka forest; the heroic Rama solemnly bound himself to destroy the demons face-to-face in battle."
     ],
     transl_tel: [
       "దండకారణ్యంలో నివసించే ఋషుల సమక్షంలో ఈ విషయం ప్రతిజ్ఞ చేయబడింది. పరాక్రమవంతుడైన రాముడు యుద్ధంలో రాక్షసులను సమ్ముఖంగా ఎదుర్కొని వధిస్తానని స్థిరంగా అంగీకరించాడు."
     ],
-    essence: [],
+    essence: [
+      "This verse reinforces the historical weight of Rama's agreement. In front of the entire assembly of Dandaka's spiritual practitioners, the heroic prince explicitly seals his covenant: he will face the dark forces head-on and eradicate them from the region."
+    ],
     meanings: [
       "प्रतिज्ञातः = Solemnly pledged / Vowed",
       "च = And",
@@ -2347,16 +2347,16 @@ const verses = [
     anvaya: [
       "तत्र एव वसता तेन, जनस्थाननिवासिनी कामरूपिणी शूर्पणखा राक्षसी विप्रकृता ||"
     ],
-    prose: [
-      "While He was residing right there, a shape-shifting demoness named Shurpanakha, an inhabitant of the Janasthana region, was disfigured and punished."
-    ],
+    prose: [],
     transl: [
-      "While living peacefully in their forest camp, the spark for the great war is struck. A dangerous demoness named Shurpanakha, who lives in the nearby outpost of Janasthana and can change her form at will, tries to harm Sita and entice Rama. As a punishment, she is overpowered and disfigured by Lakshmana on Rama's orders."
+      "While He was residing right there, a shape-shifting demoness named Shurpanakha, an inhabitant of the Janasthana region, was disfigured and punished."
     ],
     transl_tel: [
       "అక్కడే నివసిస్తున్న రాముని చేత (లక్ష్మణుని ద్వారా), జనస్థానంలో ఉంటున్నది, కోరిన రూపం మార్చగలది (కామరూపిణి) అయిన శూర్పణఖ అనే రాక్షసి ముక్కు చెవులు కోయబడి అవమానించబడింది."
     ],
-    essence: [],
+    essence: [
+      "While living peacefully in their forest camp, the spark for the great war is struck. A dangerous demoness named Shurpanakha, who lives in the nearby outpost of Janasthana and can change her form at will, tries to harm Sita and entice Rama. As a punishment, she is overpowered and disfigured by Lakshmana on Rama's orders."
+    ],
     meanings: [
       "तेन = By him (Rama/Lakshmana team context)",
       "तत्र = There",
@@ -2391,16 +2391,16 @@ const verses = [
     anvaya: [
       "ततः शूर्पणखावाक्यात् उद्युक्तान् सर्वराक्षसान् खरं त्रिशिरसं च एव दूषणं राक्षसम् च एव... ||"
     ],
-    prose: [
-      "Thereupon, incited by the furious and humiliating complaints of Shurpanakha, all the garrisoned Rakshasas mobilized for war, led by the savage commanders Khara, Trishiras, and Dushana..."
-    ],
+    prose: [],
     transl: [
-      "Bleeding and humiliated, Shurpanakha flies back to her brothers, the local Rakshasa warlords ruling Janasthana. Enraged by her story, the regional commanders—Khara, Dushana, and Trishiras—instantly mobilize their entire terrifying army to destroy Rama."
+      "Thereupon, incited by the furious and humiliating complaints of Shurpanakha, all the garrisoned Rakshasas mobilized for war, led by the savage commanders Khara, Trishiras, and Dushana..."
     ],
     transl_tel: [
       "ఆ తర్వాత శూర్పణఖ మాటల వల్ల కోపించి యుద్ధానికి సిద్ధపడిన రాక్షసులందరినీ, మరియు వారి నాయకులైన ఖరుడు, త్రిశిరస్కుడు, దూషణుడు అనే రాక్షసులను..."
     ],
-    essence: [],
+    essence: [
+      "Bleeding and humiliated, Shurpanakha flies back to her brothers, the local Rakshasa warlords ruling Janasthana. Enraged by her story, the regional commanders—Khara, Dushana, and Trishiras—instantly mobilize their entire terrifying army to destroy Rama."
+    ],
     meanings: [
       "ततः = Then / Thereupon",
       "शूर्पणखा-वाक्यात् = Due to the words / Instigation of Shurpanakha",
@@ -2438,16 +2438,16 @@ const verses = [
     anvaya: [
       "रामः वने तेषाम् पदानुगान् च एव निजघान, तस्मिन् वने चतुर्दशसहस्राणि (राक्षसाः) निहताः च ||"
     ],
-    prose: [
-      "...Rama single-handedly slaughtered them along with their massive legions of infantry followers. In that intense forest combat, fourteen thousand terrifying demons were completely wiped out."
-    ],
+    prose: [],
     transl: [
-      "In a spectacular display of military prowess, Rama stands his ground alone against the incoming wave of enemies. He neutralizes the commanders Khara, Dushana, and Trishiras, and completely annihilates their entire army of fourteen thousand demonic foot soldiers, liberating that sector of the forest."
+      "...Rama single-handedly slaughtered them along with their massive legions of infantry followers. In that intense forest combat, fourteen thousand terrifying demons were completely wiped out."
     ],
     transl_tel: [
       "రాముడు ఆ అరణ్యంలో వారిని మరియు వారి అనుచరులైన సైన్యాన్ని హతమార్చాడు. ఆ అడవిలో మొత్తం పదునాలుగు వేల మంది (14,000) రాక్షసులు సంహరించబడ్డారు."
     ],
-    essence: [],
+    essence: [
+      "In a spectacular display of military prowess, Rama stands his ground alone against the incoming wave of enemies. He neutralizes the commanders Khara, Dushana, and Trishiras, and completely annihilates their entire army of fourteen thousand demonic foot soldiers, liberating that sector of the forest."
+    ],
     meanings: [
       "निजघान = Killed / Destroyed utterly",
       "वने = In the forest",
@@ -2485,16 +2485,16 @@ const verses = [
     anvaya: [
       "खरदूषणयोः तथा ज्ञातिवधम् च एव ज्ञात्वा, अमर्षितः रावणः जनकात्मजाम् अहरत् ||"
     ],
-    prose: [
-      "Upon learning of the total annihilation of his relatives and the fall of Khara and Dushana, Ravana, consumed by a furious, burning rage, plotted and abducted Sita, the daughter of Janaka."
-    ],
+    prose: [],
     transl: [
-      "The news of the total defeat at Janasthana travels fast to the capital of Lanka. Learning that his brothers Khara and Dushana are dead and his frontier army is gone, the emperor Ravana becomes blind with fury and humiliation. Seeking a devastating revenge, he orchestrates a cunning plan and kidnaps Rama's beloved wife, Sita."
+      "Upon learning of the total annihilation of his relatives and the fall of Khara and Dushana, Ravana, consumed by a furious, burning rage, plotted and abducted Sita, the daughter of Janaka."
     ],
     transl_tel: [
       "ఖరదూషణుల మరణాన్ని, తన స్వజనులైన రాక్షస సైన్య వినాశనాన్ని తెలుసుకుని, తీవ్రమైన క్రోధముతో (కోపంతో) రగిలిపోయిన రావణుడు, జనకపుత్రికయైన సీతాదేవిని అపహరించాడు."
     ],
-    essence: [],
+    essence: [
+      "The news of the total defeat at Janasthana travels fast to the capital of Lanka. Learning that his brothers Khara and Dushana are dead and his frontier army is gone, the emperor Ravana becomes blind with fury and humiliation. Seeking a devastating revenge, he orchestrates a cunning plan and kidnaps Rama's beloved wife, Sita."
+    ],
     meanings: [
       "ज्ञात्वा = Having known / Learnt",
       "ज्ञाति-वधम् = The slaughter of his kinsmen / Relatives",
@@ -2530,16 +2530,16 @@ const verses = [
     anvaya: [
       "महात्मना राक्षसेन मारीचेन सहायेन, इन्द्रस्य शचीं देवीम् इव (स्थिताम्) जनकात्मजाम् जहार ||"
     ],
-    prose: [
-      "With the strategic assistance of the extraordinarily powerful magician-demon Maricha, Ravana forcibly abducted Janaka’s daughter Sita, who was as matchless and sacred as Indra’s divine consort, Queen Shachi."
-    ],
+    prose: [],
     transl: [
-      "To execute the kidnapping, Ravana enlists the help of Maricha, a demon skilled in illusions. Maricha transforms into a captivating golden deer to lure Rama and Lakshmana away from the hermitage. Once Sita is left unprotected, Ravana sweeps in and abducts her, violating a woman as pure and venerable as the queen of the gods."
+      "With the strategic assistance of the extraordinarily powerful magician-demon Maricha, Ravana forcibly abducted Janaka’s daughter Sita, who was as matchless and sacred as Indra’s divine consort, Queen Shachi."
     ],
     transl_tel: [
       "మాయావియైన మారీచుడనే రాక్షసుని సహాయంతో, ఇంద్రుని భార్యయైన శచీదేవితో సమానమైన పవిత్రత కలిగిన జనకనందిని సీతాదేవిని రావణుడు అపహరించాడు."
     ],
-    essence: [],
+    essence: [
+      "To execute the kidnapping, Ravana enlists the help of Maricha, a demon skilled in illusions. Maricha transforms into a captivating golden deer to lure Rama and Lakshmana away from the hermitage. Once Sita is left unprotected, Ravana sweeps in and abducts her, violating a woman as pure and venerable as the queen of the gods."
+    ],
     meanings: [
       "सहायेन = With the assistance / Help",
       "मारीचेन = By Maricha",
@@ -2575,16 +2575,16 @@ const verses = [
     anvaya: [
       "उत्तमम् गृध्रं राजानम् जटायुषम् च हत्वा, क्रन्दन्तीं वैदेहीं हत्वा (रावणे गते सति, रामः) शोकातुरः अभवत् ||"
     ],
-    prose: [
-      "Ravana mortally wounded the noble vulture king Jatayu who flew to her defense. Carrying away the weeping princess of Videha (Sita), Ravana fled, leaving Rama utterly overwhelmed by a tempest of grief upon his return."
-    ],
+    prose: [],
     transl: [
-      "As Ravana flies through the air with Sita, the elderly vulture king Jatayu hears her cries and fights bravely to rescue her. Ravana cuts down Jatayu and escapes. When Rama returns to an empty hut and finds signs of a violent struggle, he is plunged into a state of agonizing, helpless sorrow."
+      "Ravana mortally wounded the noble vulture king Jatayu who flew to her defense. Carrying away the weeping princess of Videha (Sita), Ravana fled, leaving Rama utterly overwhelmed by a tempest of grief upon his return."
     ],
     transl_tel: [
       "తనను రక్షించబోయిన పక్షిరాజైన జటాయువును చంపి, విలపిస్తున్న వైదేహిని (సీతను) రావణుడు ఎత్తుకెళ్ళిపోగా, ఆ తర్వాత కుటీరానికి వచ్చిన రాముడు పుట్టెడు దుఃఖంలో మునిగిపోయాడు."
     ],
-    essence: [],
+    essence: [
+      "As Ravana flies through the air with Sita, the elderly vulture king Jatayu hears her cries and fights bravely to rescue her. Ravana cuts down Jatayu and escapes. When Rama returns to an empty hut and finds signs of a violent struggle, he is plunged into a state of agonizing, helpless sorrow."
+    ],
     meanings: [
       "जटायुषम् = Jatayu",
       "च = And",
@@ -2622,16 +2622,16 @@ const verses = [
     anvaya: [
       "ततः महाबलः तस्मिन् एव वने गृध्रम् दग्ध्वा, वने सीतां मार्गमाणः (सः) राक्षसम् सन्ददर्श ह ||"
     ],
-    prose: [
-      "Thereafter, the powerful Rama performed the final funeral rites, cremating the loyal vulture in that very forest. As he continued his desperate search for Sita through the woods, he encountered a bizarre, misshapen demon."
-    ],
+    prose: [],
     transl: [
-      "Rama finds the dying Jatayu, who survives just long enough to reveal that Ravana stole Sita toward the south. Deeply moved, Rama honors the bird like a son would a father, performing his cremation. Resuming their trek through the dense forest, the brothers stumble upon a terrifying, trunk-like creature."
+      "Thereafter, the powerful Rama performed the final funeral rites, cremating the loyal vulture in that very forest. As he continued his desperate search for Sita through the woods, he encountered a bizarre, misshapen demon."
     ],
     transl_tel: [
       "ఆ తర్వాత మహాబలశాలియైన రాముడు ఆ అడవిలోనే ఆ జటాయువుకు అంత్యక్రియలు నిర్వహించి దహనం చేశాడు. తిరిగి అడవిలో సీత కోసం వెతుకుతుండగా, ఒక వింత రాక్షసుడు వారికి ఎదురయ్యాడు."
     ],
-    essence: [],
+    essence: [
+      "Rama finds the dying Jatayu, who survives just long enough to reveal that Ravana stole Sita toward the south. Deeply moved, Rama honors the bird like a son would a father, performing his cremation. Resuming their trek through the dense forest, the brothers stumble upon a terrifying, trunk-like creature."
+    ],
     meanings: [
       "ततः = Thereafter",
       "तस्मिन् = In that",
@@ -2670,16 +2670,16 @@ const verses = [
     anvaya: [
       "महाबाहुः सः रूपेण विकृतम् घोरदर्शनम् कबन्धं नाम (राक्षसम्) निहत्य ददाह, सः च स्वर्गतिः (अभवत्) ||"
     ],
-    prose: [
-      "This demon was named Kabandha, a creature horrifying to look at and completely deformed in shape. The mighty-armed Rama slew him and cremated his body, whereupon Kabandha ascended to heaven in his original radiant form."
-    ],
+    prose: [],
     transl: [
-      "The brothers encounter Kabandha, a headless monster whose face is embedded in his belly. He traps them in his massive arms, but Rama and Lakshmana cut off his limbs. Realizing who they are, the dying Kabandha requests cremation. Once his body burns, his curse shatters, and he ascends to the heavens as a brilliant celestial being."
+      "This demon was named Kabandha, a creature horrifying to look at and completely deformed in shape. The mighty-armed Rama slew him and cremated his body, whereupon Kabandha ascended to heaven in his original radiant form."
     ],
     transl_tel: [
       "రూపంలో వికృతంగా, భయంకరంగా ఉన్న కబంధుడనే రాక్షసుడిని మహాబాహుడైన రాముడు వధించి దహనం చేశాడు. దీనితో ఆ కబంధుడు శాపవిముక్తి పొంది ఉత్తమ గతులను (స్వర్గాన్ని) పొందాడు."
     ],
-    essence: [],
+    essence: [
+      "The brothers encounter Kabandha, a headless monster whose face is embedded in his belly. He traps them in his massive arms, but Rama and Lakshmana cut off his limbs. Realizing who they are, the dying Kabandha requests cremation. Once his body burns, his curse shatters, and he ascends to the heavens as a brilliant celestial being."
+    ],
     meanings: [
       "कबन्धम् = Kabandha",
       "नाम = Named",
@@ -2717,16 +2717,16 @@ const verses = [
     anvaya: [
       "राघव! सः च अस्मात् (रामाय) 'धर्मचारिणीम् श्रमणीम् धर्मनिपुणां शबरीम् अभिगच्छ' इति कथयामास ||"
     ],
-    prose: [
-      "Before his departure, he advised Rama, saying: 'O Scion of the Raghu dynasty! Travel forward and meet Sabari, a deeply pious female ascetic who is fully anchored in righteousness and spiritual discipline.'"
-    ],
+    prose: [],
     transl: [
-      "As a parting piece of guidance, the liberated celestial tells Rama to seek out Sabari. She is a dedicated, elderly female hermit living nearby on the banks of Lake Pampa. He assures Rama that her spiritual wisdom and devotion will help guide him along the next path of his journey."
+      "Before his departure, he advised Rama, saying: 'O Scion of the Raghu dynasty! Travel forward and meet Sabari, a deeply pious female ascetic who is fully anchored in righteousness and spiritual discipline.'"
     ],
     transl_tel: [
       "ఆ కబంధుడు వెళ్తూ రామునితో ఇలా అన్నాడు: 'ఓ రాఘవా! నువ్వు ఇక్కడికి దగ్గరలోనే ఉన్న, ధర్మాన్ని ఆచరించేది, తపస్విని, సర్వధర్మ నిపుణురాలు అయిన శబరిని దర్శించుకో'."
     ],
-    essence: [],
+    essence: [
+      "As a parting piece of guidance, the liberated celestial tells Rama to seek out Sabari. She is a dedicated, elderly female hermit living nearby on the banks of Lake Pampa. He assures Rama that her spiritual wisdom and devotion will help guide him along the next path of his journey."
+    ],
     meanings: [
       "सः = He (Kabandha)",
       "च = And",
@@ -2763,16 +2763,16 @@ const verses = [
     anvaya: [
       "शबरीम् अभिगतः विद्वान् रामः शबर्या सम्यक् पूजितः (सन्), जनकात्मजायाः अन्वेषणे युक्तः (अभवत्) ||"
     ],
-    prose: [
-      "Approaching Sabari's hermitage, the wise Rama was received with profound honor and worshiped with deep love by her. Heartened by this encounter, Rama remained entirely focused on his mission to find Janaka's daughter."
-    ],
+    prose: [],
     transl: [
-      "Rama reaches Sabari’s home, where the elderly saint welcomes him with immense love, offering him the finest wild berries she spent days gathering. Deeply touched by her pure devotion, Rama blesses her. Re-energized by her spiritual presence, he prepares for the next phase of his search for Sita."
+      "Approaching Sabari's hermitage, the wise Rama was received with profound honor and worshiped with deep love by her. Heartened by this encounter, Rama remained entirely focused on his mission to find Janaka's daughter."
     ],
     transl_tel: [
       "జ్ఞానియైన రాముడు శబరి ఆశ్రమానికి వెళ్ళగా, ఆమె ఆయనను భక్తితో, చక్కగా పూజించింది. ఆమె సత్కారాలు అందుకున్న రాముడు సీతాదేవి అన్వేషణ యత్నంలో ముందుకు సాగాడు."
     ],
-    essence: [],
+    essence: [
+      "Rama reaches Sabari’s home, where the elderly saint welcomes him with immense love, offering him the finest wild berries she spent days gathering. Deeply touched by her pure devotion, Rama blesses her. Re-energized by her spiritual presence, he prepares for the next phase of his search for Sita."
+    ],
     meanings: [
       "शबरीम् = Sabari",
       "अभिगतः = Having reached / Visited",
@@ -2808,16 +2808,16 @@ const verses = [
     anvaya: [
       "पम्पातीरे वानरेण हनुमता सङ्गतो ह, हनुमद्वचनात् च एव सुग्रीवेण समागतः ||"
     ],
-    prose: [
-      "On the scenic banks of Lake Pampa, Rama met the extraordinary Vanara warrior, Hanuman. Guided by Hanuman’s reassuring words, Rama went on to form a critical alliance with the exiled prince Sugriva."
-    ],
+    prose: [],
     transl: [
-      "While walking near Lake Pampa, the brothers meet Hanuman, who approaches them disguised as a scholar to discern their intentions on behalf of Sugriva. Impressed by Hanuman's eloquence and nobility, Rama reveals his identity. Hanuman safely guides them up Rishyamukha mountain, bringing Rama and Sugriva together."
+      "On the scenic banks of Lake Pampa, Rama met the extraordinary Vanara warrior, Hanuman. Guided by Hanuman’s reassuring words, Rama went on to form a critical alliance with the exiled prince Sugriva."
     ],
     transl_tel: [
       "పంపా సరోవర తీరంలో రామునికి వానరోత్తముడైన హనుమంతునితో పరిచయం ఏర్పడింది. ఆ హనుమంతుని మాటల ద్వారానే రాముడు సుగ్రీవునితో స్నేహం (పొత్తు) కుదుర్చుకున్నాడు."
     ],
-    essence: [],
+    essence: [
+      "While walking near Lake Pampa, the brothers meet Hanuman, who approaches them disguised as a scholar to discern their intentions on behalf of Sugriva. Impressed by Hanuman's eloquence and nobility, Rama reveals his identity. Hanuman safely guides them up Rishyamukha mountain, bringing Rama and Sugriva together."
+    ],
     meanings: [
       "पम्पा-तीरे = On the banks of Lake Pampa",
       "हनुमता = With Hanuman",
@@ -2853,16 +2853,16 @@ const verses = [
     anvaya: [
       "महाबलः रामः आदितः यथावृत्तं तत् सर्वम् सीतायाः विशेषतः च सुग्रीवाय शंसत् ||"
     ],
-    prose: [
-      "The powerful Rama shared his entire story with Sugriva, recounting events from the very beginning, with special and poignant detail regarding the painful abduction of his wife, Sita."
-    ],
+    prose: [],
     transl: [
-      "Sitting down with Sugriva, Rama recounts his entire journey: his departure from Ayodhya, his life in the forest, and the tragic details of Sita's kidnapping. Listening to his story, Sugriva feels a deep sense of shared sorrow, recognizing that they are both princes suffering from the sting of betrayal and exile."
+      "The powerful Rama shared his entire story with Sugriva, recounting events from the very beginning, with special and poignant detail regarding the painful abduction of his wife, Sita."
     ],
     transl_tel: [
       "మహాబలవంతుడైన రాముడు మొదటి నుండి జరిగిన వృత్తాంతాన్ని అంతటినీ, ముఖ్యముగా సీతాదేవి అపహరణ గురించి సుగ్రీవునికి వివరంగా తెలియజేశాడు."
     ],
-    essence: [],
+    essence: [
+      "Sitting down with Sugriva, Rama recounts his entire journey: his departure from Ayodhya, his life in the forest, and the tragic details of Sita's kidnapping. Listening to his story, Sugriva feels a deep sense of shared sorrow, recognizing that they are both princes suffering from the sting of betrayal and exile."
+    ],
     meanings: [
       "सुग्रीवाय = To Sugriva",
       "च = And",
@@ -2901,16 +2901,16 @@ const verses = [
     anvaya: [
       "वानरः सुग्रीवः च अपि रामस्य तत् सर्वम् श्रुत्वा, प्रीतः च एव रामेण सह अग्निसाक्षिकम् सख्यम् चकार ||"
     ],
-    prose: [
-      "After listening to Rama's deeply moving story, the Vanara leader Sugriva, filled with empathy and joy, sealed an unbending bond of friendship with Rama before a sacred fire."
-    ],
+    prose: [],
     transl: [
-      "Hearing Rama's story, Sugriva pledges his complete support. To solidify their alliance, Hanuman lights a sacred fire. Walking around the flames together, Rama and Sugriva form a solemn pact (*Agni-Sakshikam*), swearing to stand by each other as brothers and treat each other's joys and sorrows as their own."
+      "After listening to Rama's deeply moving story, the Vanara leader Sugriva, filled with empathy and joy, sealed an unbending bond of friendship with Rama before a sacred fire."
     ],
     transl_tel: [
       "రాముని కథనంతా విన్న వానరుడైన సుగ్రీవుడు, ఎంతో సంతోషంతో రామునితో అగ్ని సాక్షిగా స్నేహాన్ని ప్రమాణం చేసుకున్నాడు."
     ],
-    essence: [],
+    essence: [
+      "Hearing Rama's story, Sugriva pledges his complete support. To solidify their alliance, Hanuman lights a sacred fire. Walking around the flames together, Rama and Sugriva form a solemn pact (*Agni-Sakshikam*), swearing to stand by each other as brothers and treat each other's joys and sorrows as their own."
+    ],
     meanings: [
       "सुग्रीवः = Sugriva",
       "च = And",
@@ -2951,16 +2951,16 @@ const verses = [
     anvaya: [
       "ततः वानरराजेन (सुग्रीवेण) वैरानुकथनम् प्रति सर्वशः प्रणिवेदात् च सर्वम् रामाय आवेदितम् ||"
     ],
-    prose: [
-      "Thereafter, the Vanara prince Sugriva related his own grievances, telling Rama everything about his bitter feud with his elder brother Vali, baring his heart completely."
-    ],
+    prose: [],
     transl: [
-      "With their alliance sealed, Sugriva shares his own painful past. He explains how a misunderstanding turned his older brother, King Vali, into a bitter enemy. He tells Rama how Vali exiled him, took his wife, and hunted him across the lands, leaving him isolated on Rishyamukha mountain."
+      "Thereafter, the Vanara prince Sugriva related his own grievances, telling Rama everything about his bitter feud with his elder brother Vali, baring his heart completely."
     ],
     transl_tel: [
       "ఆ తర్వాత వానరరాజైన సుగ్రీవుడు, తన అన్నయైన వాలితో తనకు గల శత్రుత్వాన్ని (వైరాన్ని) గురించి, త్రాగుబోతుతనం లేకుండా చాలా స్పష్టంగా, సమస్త వృత్తాంతాన్ని రామునికి వివరించాడు."
     ],
-    essence: [],
+    essence: [
+      "With their alliance sealed, Sugriva shares his own painful past. He explains how a misunderstanding turned his older brother, King Vali, into a bitter enemy. He tells Rama how Vali exiled him, took his wife, and hunted him across the lands, leaving him isolated on Rishyamukha mountain."
+    ],
     meanings: [
       "ततः = Thereafter",
       "वानर-राजेन = By the Vanara prince (Sugriva)",
@@ -2996,16 +2996,16 @@ const verses = [
     anvaya: [
       "रामेण च आहवे वालिनः वधः प्रतिज्ञातम्, तत्र वानरः वालिनः बलम् च कथयामास ||"
     ],
-    prose: [
-      "Rama solemnly promised to slay Vali in open combat. Hearing this pledge, Sugriva, still harbor-ing deep apprehension, began to describe Vali’s terrifying, unmatched physical power."
-    ],
+    prose: [],
     transl: [
-      "Moved by Sugriva’s plight, Rama promises to eliminate the tyrannical Vali in battle. However, Sugriva is plagued by doubt; he knows his brother's near-invincible strength. To show Rama what they are up against, Sugriva details Vali's past exploits and massive power, hoping to ensure Rama doesn't underestimate the king of Kishkindha."
+      "Rama solemnly promised to slay Vali in open combat. Hearing this pledge, Sugriva, still harbor-ing deep apprehension, began to describe Vali’s terrifying, unmatched physical power."
     ],
     transl_tel: [
       "వాలితో యుద్ధం చేసి అతడిని వధిస్తానని రాముడు ప్రతిజ్ఞ చేశాడు. ఆ సమయంలో సుగ్రీవుడు వాలికి ఉన్న అసమానమైన శారీరక బలాన్ని, పరాక్రమాన్ని రామునికి వివరించాడు."
     ],
-    essence: [],
+    essence: [
+      "Moved by Sugriva’s plight, Rama promises to eliminate the tyrannical Vali in battle. However, Sugriva is plagued by doubt; he knows his brother's near-invincible strength. To show Rama what they are up against, Sugriva details Vali's past exploits and massive power, hoping to ensure Rama doesn't underestimate the king of Kishkindha."
+    ],
     meanings: [
       "प्रतिज्ञातम् = Solemnly promised / Pledged",
       "च = And",
@@ -3046,16 +3046,16 @@ const verses = [
     anvaya: [
       "सुग्रीवः राघवे वीर्येण नित्यम् शङ्कितः च आसीत्, राघवस्य आप्रत्यार्थं सुग्रीवः महापर्वतसन्निभम् दुन्दुभेः उत्तमम् कायम् दर्शयामास ||"
     ],
-    prose: [
-      "Deeply anxious and constantly questioning Rama’s ultimate combat capability, Sugriva pointed toward the massive, mountain-like skeletal remains of the demon Dundubhi to test him."
-    ],
+    prose: [],
     transl: [
-      "Sugriva cannot fully shake his skepticism. Rama looks like a peaceful, slender ascetic, while Vali is a hulking warrior. To verify if Rama truly has the power to back up his promise, Sugriva shows him the gigantic, dry carcass of the buffalo-demon Dundubhi, whom Vali had easily slain and hurled away years before."
+      "Deeply anxious and constantly questioning Rama’s ultimate combat capability, Sugriva pointed toward the massive, mountain-like skeletal remains of the demon Dundubhi to test him."
     ],
     transl_tel: [
       "రాముని పరాక్రమంపై సుగ్రీవునికి ఎప్పుడూ ఒక చిన్న అనుమానం ఉంటూనే ఉండేది. అందువల్ల రామునికి నమ్మకం కలిగించడం కోసం, పూర్వం వాలి చేతిలో చనిపోయి, కొండలా పడి ఉన్న దుందుభి అనే రాక్షసుని భారీ కళేబరాన్ని చూపించాడు."
     ],
-    essence: [],
+    essence: [
+      "Sugriva cannot fully shake his skepticism. Rama looks like a peaceful, slender ascetic, while Vali is a hulking warrior. To verify if Rama truly has the power to back up his promise, Sugriva shows him the gigantic, dry carcass of the buffalo-demon Dundubhi, whom Vali had easily slain and hurled away years before."
+    ],
     meanings: [
       "सुग्रीवः = Sugriva",
       "शङ्कितः = Doubtful / Apprehensive",
@@ -3096,16 +3096,16 @@ const verses = [
     anvaya: [
       "महाबाहुः महाबलः (रामः) अस्थि प्रेक्ष्य उद्विक्ष्या च, पादाङ्गुष्ठेन पादशैलं दशायोजनम् चिक्षेप ||"
     ],
-    prose: [
-      "Glancing casually at the colossal heap of bones, the mighty-armed, immensely powerful Rama smiled, flicked his big toe, and effortlessly kicked the heavy, mountain-sized skeleton a staggering distance of eighty miles."
-    ],
+    prose: [],
     transl: [
-      "Without breaking a sweat or even drawing his bow, Rama looks at the massive carcass that Sugriva feared so much. He nudges the mountain of bones with his big toe and launches it clean across the horizon, landing it ten yojanas (about 80 miles) away. This nonchalant display of raw strength leaves the monkeys awestruck."
+      "Glancing casually at the colossal heap of bones, the mighty-armed, immensely powerful Rama smiled, flicked his big toe, and effortlessly kicked the heavy, mountain-sized skeleton a staggering distance of eighty miles."
     ],
     transl_tel: [
       "మహాబాహువు, మహాబలశాలియైన రాముడు ఆ ఎముకల కుప్పను చూసి, నవ్వుతూ తన కాలి బొటనవేలితో దాన్ని అలా మీటాడు. అంతే, ఆ కొండంత కళేబరం పది యోజనాల (సుమారు 80 మైళ్ళ) దూరంలో పడేలా ఎగిరిపోయింది."
     ],
-    essence: [],
+    essence: [
+      "Without breaking a sweat or even drawing his bow, Rama looks at the massive carcass that Sugriva feared so much. He nudges the mountain of bones with his big toe and launches it clean across the horizon, landing it ten yojanas (about 80 miles) away. This nonchalant display of raw strength leaves the monkeys awestruck."
+    ],
     meanings: [
       "उद्विक्ष्या = Looking at / Glancing up",
       "महा-बाहुः = Mighty-armed one",
@@ -3141,16 +3141,16 @@ const verses = [
     anvaya: [
       "तदा (रामः) प्रत्ययम् जनयन् एकेन महेषुणा सप्त सालान् गिरिम् रसातलं च एव पुनः बिभेद ||"
     ],
-    prose: [
-      "To completely eliminate any remaining doubt, Rama unleashed a single, blazing arrow that pierced straight through seven massive Sala trees, bored through a mountain, tore into the subterranean earth, and returned to his quiver."
-    ],
+    prose: [],
     transl: [
-      "To remove every speck of fear from Sugriva's mind, Rama performs a miracle. He shoots one magnificent arrow. The projectile tears through seven colossal Sala trees standing in a row, penetrates the solid rock of a nearby mountain, breaches the depths of the earth, and then flies right back into Rama's quiver."
+      "To completely eliminate any remaining doubt, Rama unleashed a single, blazing arrow that pierced straight through seven massive Sala trees, bored through a mountain, tore into the subterranean earth, and returned to his quiver."
     ],
     transl_tel: [
       "అప్పుడు సుగ్రీవునికి సంపూర్ణ నమ్మకం కలిగించడం కోసం రాముడు ఒకే ఒక్క బాణాన్ని ప్రయోగించాడు. ఆ బాణం ఏడు తాటి చెట్లను (సాల వృక్షాలను), ఒక పర్వతాన్ని, భూమి అంతర్భాగాన్ని (రसातలం) సైతం చీల్చుకుంటూ దూసుకుపోయింది."
     ],
-    essence: [],
+    essence: [
+      "To remove every speck of fear from Sugriva's mind, Rama performs a miracle. He shoots one magnificent arrow. The projectile tears through seven colossal Sala trees standing in a row, penetrates the solid rock of a nearby mountain, breaches the depths of the earth, and then flies right back into Rama's quiver."
+    ],
     meanings: [
       "बिभेद = Pierced / Tore through",
       "च = And",
@@ -3190,16 +3190,16 @@ const verses = [
     anvaya: [
       "ततः तेन प्रीतमनाः विश्वस्तः सः महाकपिः तदा रामसहितः गुहां किष्किन्धाम् जगाम च ||"
     ],
-    prose: [
-      "Convinced and filled with immense joy by this exhibition of power, the great Vanara leader Sugriva placed his absolute trust in Rama. Accompanied by Rama and Lakshmana, he marched confidently toward the cave-kingdom of Kishkindha."
-    ],
+    prose: [],
     transl: [
-      "With all suspicion washed away, Sugriva feels an immense surge of confidence and joy. He knows he has the ultimate ally. Standing tall alongside Rama and Lakshmana, Sugriva leads the way straight to the heavily fortified, valley-enclosed capital city of Kishkindha to challenge Vali."
+      "Convinced and filled with immense joy by this exhibition of power, the great Vanara leader Sugriva placed his absolute trust in Rama. Accompanied by Rama and Lakshmana, he marched confidently toward the cave-kingdom of Kishkindha."
     ],
     transl_tel: [
       "రాముని పరాక్రమాన్ని చూసి ఆ వానర శ్రేష్ఠుడైన సుగ్రీవుడు సంపూర్ణ విశ్వాసాన్ని, ఆనందాన్ని పొందాడు. ఆ వెంటనే రాముడిని వెంటబెట్టుకుని కిష్కింధ నగరానికి బయలుదేరాడు."
     ],
-    essence: [],
+    essence: [
+      "With all suspicion washed away, Sugriva feels an immense surge of confidence and joy. He knows he has the ultimate ally. Standing tall alongside Rama and Lakshmana, Sugriva leads the way straight to the heavily fortified, valley-enclosed capital city of Kishkindha to challenge Vali."
+    ],
     meanings: [
       "ततः = Thereafter",
       "प्रीत-मनाः = Delighted in mind / Happy-hearted",
@@ -3237,16 +3237,16 @@ const verses = [
     anvaya: [
       "ततः हेमपिङ्गलः हरिवरः सुग्रीवः अगर्जत्, तेन महता नादेन हरीश्वरः (वाली) निर्जगाम ||"
     ],
-    prose: [
-      "Arriving at the gates, the golden-hued Vanara hero Sugriva let out a thunderous, earth-shaking roar. Hearing that defiant, massive sound, the king of the monkeys, Vali, stormed out of his palace."
-    ],
+    prose: [],
     transl: [
-      "Standing at the border of his old home, Sugriva—whose coat shines like molten gold—roars out a fierce challenge. It fills the sky. Vali, surprised that his previously terrified younger brother dares to stand at his doorstep, becomes furious and charges outside to crush the rebellion."
+      "Arriving at the gates, the golden-hued Vanara hero Sugriva let out a thunderous, earth-shaking roar. Hearing that defiant, massive sound, the king of the monkeys, Vali, stormed out of his palace."
     ],
     transl_tel: [
       "బంగారు ఛాయ కలిగిన సుగ్రీవుడు కిష్కింధకు చేరుకుని సింహనాదం చేశాడు. ఆ భయంకరమైన ధ్వని వినపడగానే, వానర రాజైన వాలి కోపంతో గుహ నుండి వెలుపలికి వచ్చాడు."
     ],
-    essence: [],
+    essence: [
+      "Standing at the border of his old home, Sugriva—whose coat shines like molten gold—roars out a fierce challenge. It fills the sky. Vali, surprised that his previously terrified younger brother dares to stand at his doorstep, becomes furious and charges outside to crush the rebellion."
+    ],
     meanings: [
       "ततः = Then",
       "अगर्जत् = Roared out / Thundered",
@@ -3285,16 +3285,16 @@ const verses = [
     anvaya: [
       "तदा ताराम् अनुमान्य (उपेक्ष्य), सुग्रीवेण समागतं वानरेश्वरम् वालिनम् तस्मिन् महाआहवे राघवः एकेन शरेण जघान, तदा (सुग्रीवः) युवराजम् च (अभवत्) ||"
     ],
-    prose: [
-      "Dismissing the wise warnings of his queen Tara, Vali engaged in ferocious combat with Sugriva. In that monumental duel, Rama unleashed a single arrow, striking down the monkey king, paving the way for Sugriva's restoration."
-    ],
+    prose: [],
     transl: [
-      "Before leaving, Vali’s wife Tara begs him not to go, warning him that Sugriva has secured the backing of Rama. Furious and proud, Vali dismisses her advice and locks horns with Sugriva in a brutal fight. As they grapple, Rama shoots a single arrow from his concealment, mortally wounding Vali in the thick of battle."
+      "Dismissing the wise warnings of his queen Tara, Vali engaged in ferocious combat with Sugriva. In that monumental duel, Rama unleashed a single arrow, striking down the monkey king, paving the way for Sugriva's restoration."
     ],
     transl_tel: [
       "తన భార్యయైన తార మాటలను పక్కనపెట్టి వాలి సుగ్రీవునితో ఘోర యుద్ధానికి తలపడ్డాడు. ఆ మహాయుద్ధంలో రాముడు ఒకే ఒక్క బాణంతో వాలిని వధించాడు."
     ],
-    essence: [],
+    essence: [
+      "Before leaving, Vali’s wife Tara begs him not to go, warning him that Sugriva has secured the backing of Rama. Furious and proud, Vali dismisses her advice and locks horns with Sugriva in a brutal fight. As they grapple, Rama shoots a single arrow from his concealment, mortally wounding Vali in the thick of battle."
+    ],
     meanings: [
       "अनुमान्य = Dismissing / Ignoring (after she reasoned with him)",
       "तदा = Then",
@@ -3336,16 +3336,16 @@ const verses = [
     anvaya: [
       "ततः शक्रसमः बली वीरः हरीश्वरः (रामः) सुग्रीवम् एव राज्ये प्रतिपादयित्वा, सर्वान् (वानरान्) सस्वान ||"
     ],
-    prose: [
-      "Thereafter, the heroic and mighty Rama, who possesses power matching Lord Indra, formally installed Sugriva upon the throne, uniting all the Vanara forces under his leadership."
-    ],
+    prose: [],
     transl: [
-      "Following Vali's passing, Rama honors his promise. He crowns Sugriva as the undisputed king of Kishkindha and appoints Angada (Vali’s son) as the crown prince. With the civil war over, Rama commands and mobilizes the entire monkey population, bringing order and preparing them for the grand quest ahead."
+      "Thereafter, the heroic and mighty Rama, who possesses power matching Lord Indra, formally installed Sugriva upon the throne, uniting all the Vanara forces under his leadership."
     ],
     transl_tel: [
       "ఆ తర్వాత ఇంద్రుడితో సమానమైన పరాక్రమవంతుడైన రాముడు, సుగ్రీవుడిని కిష్కింధ రాజ్యానికి రాజుగా అభిషేకించి, వానరులందరినీ అతడి ఆధీనంలోకి తెచ్చాడు."
     ],
-    essence: [],
+    essence: [
+      "Following Vali's passing, Rama honors his promise. He crowns Sugriva as the undisputed king of Kishkindha and appoints Angada (Vali’s son) as the crown prince. With the civil war over, Rama commands and mobilizes the entire monkey population, bringing order and preparing them for the grand quest ahead."
+    ],
     meanings: [
       "ततः = Thereafter",
       "सुग्रीवम् = Sugriva",
@@ -3382,16 +3382,16 @@ const verses = [
     anvaya: [
       "वानरर्षभः सः च सर्वान् वानरान् समानीय, जनकात्मजाम् दिदृक्षुः (सन्) दिशः प्रस्थापयामास ||"
     ],
-    prose: [
-      "The newly crowned leader of the monkeys, Sugriva, gathered his vast legions from all corners and dispatched search parties in every direction to locate Janaka’s daughter."
-    ],
+    prose: [],
     transl: [
-      "Fulfilling his side of the pact after the monsoon season ends, King Sugriva calls upon millions of Vanara warriors from across mountains and forests. Driven by a deep desire to help Rama locate Sita, he splits his forces into specialized teams and sends them north, south, east, and west with strict deadlines."
+      "The newly crowned leader of the monkeys, Sugriva, gathered his vast legions from all corners and dispatched search parties in every direction to locate Janaka’s daughter."
     ],
     transl_tel: [
       "వానర శ్రేష్ఠుడైన ఆ సుగ్రీవుడు సమస్త వానర సైన్యాన్ని ఒకచోటకు చేర్చి, సీతాదేవి జాడను కనుగొనాలనే తీవ్ర ఆకాంక్షతో వారిని అన్ని దిక్కులకూ పంపించాడు."
     ],
-    essence: [],
+    essence: [
+      "Fulfilling his side of the pact after the monsoon season ends, King Sugriva calls upon millions of Vanara warriors from across mountains and forests. Driven by a deep desire to help Rama locate Sita, he splits his forces into specialized teams and sends them north, south, east, and west with strict deadlines."
+    ],
     meanings: [
       "सः = He (Sugriva)",
       "च = And",
@@ -3427,16 +3427,16 @@ const verses = [
     anvaya: [
       "ततः बली हनुमान् गृध्रस्य सम्पातेः वचनात् शतयोजनविस्तीर्णं लवणार्णवम् पुप्लुवे ||"
     ],
-    prose: [
-      "Acting upon the precise intelligence provided by the elder vulture Sampati, the mighty Hanuman leaped across the vast salt ocean, stretching a distance of eight hundred miles."
-    ],
+    prose: [],
     transl: [
-      "The southern search party reaches the edge of the southern ocean and falls into despair, running out of time. There, they encounter Jatayu’s elder brother, Sampati. With his vast vision, Sampati confirms that Sita is confined across the sea in Lanka. Armed with this knowledge, the powerful Hanuman expands his size and makes a spectacular leap across the massive ocean."
+      "Acting upon the precise intelligence provided by the elder vulture Sampati, the mighty Hanuman leaped across the vast salt ocean, stretching a distance of eight hundred miles."
     ],
     transl_tel: [
       "ఆ తర్వాత జటాయువు అన్నయైన సంపాతి అనే పక్షి ఇచ్చిన సమాచారం ఆధారంగా, మహాబలశాలియైన హనుమంతుడు నూరు యోజనాల (800 మైళ్ళ) వెడల్పు గల లవణ సముద్రాన్ని లంఘించాడు."
     ],
-    essence: [],
+    essence: [
+      "The southern search party reaches the edge of the southern ocean and falls into despair, running out of time. There, they encounter Jatayu’s elder brother, Sampati. With his vast vision, Sampati confirms that Sita is confined across the sea in Lanka. Armed with this knowledge, the powerful Hanuman expands his size and makes a spectacular leap across the massive ocean."
+    ],
     meanings: [
       "ततः = Thereafter / Then",
       "गृध्रस्य = Of the vulture",
@@ -3471,16 +3471,16 @@ const verses = [
     anvaya: [
       "तत्र रावणपालिताम् लङ्कां पुरीम् समासाद्य, अशोकवनिकां गताम् ध्यायन्तीं सीताम् ददर्श ||"
     ],
-    prose: [
-      "Reaching the island fortress of Lanka, which was heavily guarded by Ravana, Hanuman successfully located Sita inside the Ashoka grove, where she sat deeply immersed in thoughts of Rama."
-    ],
+    prose: [],
     transl: [
-      "After landing on Lanka, Hanuman slips past the city defenses under the cover of night. After a meticulous search through palaces and gardens, he discovers Sita inside the Ashoka grove. She is pale, weeping, surrounded by demoness guards, and entirely absorbed in meditating on her husband."
+      "Reaching the island fortress of Lanka, which was heavily guarded by Ravana, Hanuman successfully located Sita inside the Ashoka grove, where she sat deeply immersed in thoughts of Rama."
     ],
     transl_tel: [
       "రావణునిచే పాలింపబడుతున్న లంకా నగరానికి చేరుకుని, అక్కడ అశోకవనంలో కూర్చుని, నిరంతరం రాముడినే ధ్యానిస్తున్న సీతాదేవిని హనుమంతుడు దర్శించాడు."
     ],
-    essence: [],
+    essence: [
+      "After landing on Lanka, Hanuman slips past the city defenses under the cover of night. After a meticulous search through palaces and gardens, he discovers Sita inside the Ashoka grove. She is pale, weeping, surrounded by demoness guards, and entirely absorbed in meditating on her husband."
+    ],
     meanings: [
       "तत्र = There",
       "लङ्काम् = Lanka",
@@ -3516,16 +3516,16 @@ const verses = [
     anvaya: [
       "अभिज्ञानम् निवेदयित्वा प्रवृत्तिं च निवेद्य च, वैदेहीं समाश्वास्य च (हनुमान्) तोरणम् मर्दयामास ||"
     ],
-    prose: [
-      "Presenting Rama’s signet ring as proof of identity and conveying his welfare, Hanuman comforted the grieving princess of Videha. He then went on to aggressively shatter the main ceremonial gateway of the grove."
-    ],
+    prose: [],
     transl: [
-      "Hanuman approaches Sita delicately, singing Rama's praises to win her trust. He gives her Rama’s signet ring (*Abhigyanam*) and describes Rama's sorrow and plans to save her. Having reassured her, Hanuman decides to test Lanka’s military strength before leaving, systematically destroying the pristine Ashoka grove and its massive arches."
+      "Presenting Rama’s signet ring as proof of identity and conveying his welfare, Hanuman comforted the grieving princess of Videha. He then went on to aggressively shatter the main ceremonial gateway of the grove."
     ],
     transl_tel: [
       "రాముని ముద్రికను (ఉంగరాన్ని) ఇచ్చి, రాముని క్షేమ సమాచారాన్ని తెలియజేసి, సీతాదేవికి ధైర్యం చెప్పాడు. ఆ తర్వాత హనుమంతుడు ఆ వనంలోని ప్రధాన తోరణాన్ని (ద్వారాన్ని) ధ్వంసం చేశాడు."
     ],
-    essence: [],
+    essence: [
+      "Hanuman approaches Sita delicately, singing Rama's praises to win her trust. He gives her Rama’s signet ring (*Abhigyanam*) and describes Rama's sorrow and plans to save her. Having reassured her, Hanuman decides to test Lanka’s military strength before leaving, systematically destroying the pristine Ashoka grove and its massive arches."
+    ],
     meanings: [
       "निवेदयित्वा = Having presented / Given",
       "अभिज्ञानम् = Token of recognition / Signet ring",
@@ -3562,16 +3562,16 @@ const verses = [
     anvaya: [
       "पञ्च सेनाग्रगान् सप्त मन्त्रिमुतान् अपि हत्वा, शूरम् अक्षम् च निष्पिष्य (हनुमान्) ग्रहणम् समुपागमत् ||"
     ],
-    prose: [
-      "After slaying five formidable army generals and seven sons of ministers, and completely crushing Ravana's brave warrior son Aksha, Hanuman intentionally allowed himself to be captured."
-    ],
+    prose: [],
     transl: [
-      "Furious at the destruction of his garden, Ravana sends waves of troops. Hanuman effortlessly eliminates five elite military commanders and seven high-ranking ministers' sons. When Ravana's young prince Aksha enters the fray, Hanuman crushes him. Finally, to face Ravana directly in court, Hanuman willingly allows Indrajit’s Brahmastra arrow to bind him."
+      "After slaying five formidable army generals and seven sons of ministers, and completely crushing Ravana's brave warrior son Aksha, Hanuman intentionally allowed himself to be captured."
     ],
     transl_tel: [
       "ఐదుగురు సేనాధిపతులను, ఏడుగురు మంత్రి కుమారులను వధించి, శూరుడైన అక్షకుమారుడిని నలిపి చంపిన తర్వాత, హనుమంతుడు కావాలనే బంధనానికి (చిక్కడానికి) లొంగిపోయాడు."
     ],
-    essence: [],
+    essence: [
+      "Furious at the destruction of his garden, Ravana sends waves of troops. Hanuman effortlessly eliminates five elite military commanders and seven high-ranking ministers' sons. When Ravana's young prince Aksha enters the fray, Hanuman crushes him. Finally, to face Ravana directly in court, Hanuman willingly allows Indrajit’s Brahmastra arrow to bind him."
+    ],
     meanings: [
       "पञ्च = Five",
       "सेना-अग्रगान् = Frontline army commanders / Generals",
@@ -3609,16 +3609,16 @@ const verses = [
     anvaya: [
       "पैतामहात् वरात् आत्मानम् अस्त्रेण उन्मुक्तम् ज्ञात्वा अपि, वीरः (हनुमान्) अग्निसाधनात् विषण्णः (राक्षसैः कृताः पीडाः) मर्षयन् (राक्षससभाम् जगाम) ||"
     ],
-    prose: [
-      "Knowing that he was instantly freed from the weapon's binding due to a prior boon from Lord Brahma, the heroic Hanuman patiently endured the rough handling of the demons to accomplish his mission."
-    ],
+    prose: [],
     transl: [
-      "Indrajit binds Hanuman with the legendary Brahma-Astra. Because Brahma had previously granted Hanuman a boon making him immune to long-term harm from such weapons, the bond breaks the moment the crude rakshasa guards tie him with ordinary ropes. Hanuman pretends to still be trapped, enduring their insults so they will carry him directly to Ravana."
+      "Knowing that he was instantly freed from the weapon's binding due to a prior boon from Lord Brahma, the heroic Hanuman patiently endured the rough handling of the demons to accomplish his mission."
     ],
     transl_tel: [
       "బ్రహ్మదేవుడు ఇచ్చిన వరం వల్ల ఆ బ్రహ్మాస్త్ర బంధనం నుండి తాను ఎప్పుడో విముక్తుడైనట్లు గ్రహించినప్పటికీ, ఆ వీరుడైన హనుమంతుడు తన కార్యం కోసం రాక్షసులు పెట్టే బాధలను ఓర్పుతో భరించాడు."
     ],
-    essence: [],
+    essence: [
+      "Indrajit binds Hanuman with the legendary Brahma-Astra. Because Brahma had previously granted Hanuman a boon making him immune to long-term harm from such weapons, the bond breaks the moment the crude rakshasa guards tie him with ordinary ropes. Hanuman pretends to still be trapped, enduring their insults so they will carry him directly to Ravana."
+    ],
     meanings: [
       "अस्त्रेण = By the mystic weapon (Brahmastra)",
       "उन्मुक्तम् = Freed / Released",
@@ -3656,16 +3656,16 @@ const verses = [
     anvaya: [
       "ततः मैथिलीम् सीताम् ऋते, लङ्कां पुरीम् दग्ध्वा, महाकपिः रामाय प्रियम् आख्यातुम् पुनः आयात् ||"
     ],
-    prose: [
-      "After delivering his message, Hanuman set fire to the entire golden city of Lanka—carefully ensuring that Sita remained untouched. The great Vanara then flew back across the sea to deliver the joyous news to Rama."
-    ],
+    prose: [],
     transl: [
-      "Ravana orders Hanuman's tail to be wrapped in cloth and set on fire as punishment. Hanuman turns this against them by escaping his bonds, leaping from rooftop to rooftop, and burning down Lanka's infrastructure. Ensuring Sita is safe, he leaps back across the ocean, eager to tell Rama the words: 'Seen has been Sita.'"
+      "After delivering his message, Hanuman set fire to the entire golden city of Lanka—carefully ensuring that Sita remained untouched. The great Vanara then flew back across the sea to deliver the joyous news to Rama."
     ],
     transl_tel: [
       "ఆ తర్వాత మైథిలియైన సీతాదేవి ఉన్న ప్రాంతాన్ని తప్ప, మిగిలిన లంకా నగరాన్నంతటినీ దహనం చేసి, రామునికి ఈ శుభవార్తను తెలియజేయడం కోసం ఆ వానర శ్రేష్ఠుడు వెనక్కి తిరిగి వచ్చాడు."
     ],
-    essence: [],
+    essence: [
+      "Ravana orders Hanuman's tail to be wrapped in cloth and set on fire as punishment. Hanuman turns this against them by escaping his bonds, leaping from rooftop to rooftop, and burning down Lanka's infrastructure. Ensuring Sita is safe, he leaps back across the ocean, eager to tell Rama the words: 'Seen has been Sita.'"
+    ],
     meanings: [
       "ततः = Thereafter",
       "दग्ध्वा = Having incinerated / Set ablaze",
@@ -3705,16 +3705,16 @@ const verses = [
     anvaya: [
       "सः महात्मानं राघवम् अभिगम्य प्रदक्षिणं कृत्वा, 'दृष्टा सीता' इति हर्षेण तत्त्वतः अवेदितवान् ||"
     ],
-    prose: [
-      "Approaching the high-souled Rama, Hanuman reverently circled him clockwise and delivered the definitive, ecstatic report: 'Sita has been found exactly as she is!'"
-    ],
+    prose: [],
     transl: [
-      "Hanuman reunites with Rama on the mainland. He shows his respect by circumambulating (*Pradakshinam*) him. Brimming with joy, he delivers his concise, masterful report, choosing his words carefully so Rama instantly knows she is alive, safe, and faithful, relieving months of crushing anxiety."
+      "Approaching the high-souled Rama, Hanuman reverently circled him clockwise and delivered the definitive, ecstatic report: 'Sita has been found exactly as she is!'"
     ],
     transl_tel: [
       "ఆ హనుమంతుడు మహాత్ముడైన రాముని వద్దకు వచ్చి, ఆయనకు ప్రదక్షిణ చేసి, మిక్కిలి సంతోషంతో 'సీతమ్మను చూశాను' అని నిజాన్ని నివేదించాడు."
     ],
-    essence: [],
+    essence: [
+      "Hanuman reunites with Rama on the mainland. He shows his respect by circumambulating (*Pradakshinam*) him. Brimming with joy, he delivers his concise, masterful report, choosing his words carefully so Rama instantly knows she is alive, safe, and faithful, relieving months of crushing anxiety."
+    ],
     meanings: [
       "सः = He (Hanuman)",
       "अभिगम्य = Approaching / Reaching",
@@ -3752,16 +3752,16 @@ const verses = [
     anvaya: [
       "ततः (रामः) सुग्रीवसहितः महोदधेः तीरं गत्वा, आदित्यसन्निभैः शरैः समुद्रम् क्षोभयामास ||"
     ],
-    prose: [
-      "Accompanied by King Sugriva and the vast monkey army, Rama marched down to the edge of the great ocean. When the sea god refused to grant passage, Rama churned the waters with arrows as blazing as the sun."
-    ],
+    prose: [],
     transl: [
-      "Rama mobilizes the army and marches south to the edge of the Indian Ocean. Confronted by an impassable barrier, Rama fasts and prays to the ocean deity for three days to grant a path. When the ocean ignores his requests, Rama loses his patience, draws his bow, and fires solar-grade arrows that boil the waters and terrorize its creatures."
+      "Accompanied by King Sugriva and the vast monkey army, Rama marched down to the edge of the great ocean. When the sea god refused to grant passage, Rama churned the waters with arrows as blazing as the sun."
     ],
     transl_tel: [
       "ఆ తర్వాత రాముడు సుగ్రీవునితో కలిసి మహాసముద్ర తీరానికి చేరుకున్నాడు. సముద్రుడు దారి ఇవ్వకపోవడంతో, సూర్యుడితో సమానమైన తేజస్సు గల బాణాలతో ఆ సముద్రాన్ని కలవరపెట్టాడు (క్షోభింపజేశాడు)."
     ],
-    essence: [],
+    essence: [
+      "Rama mobilizes the army and marches south to the edge of the Indian Ocean. Confronted by an impassable barrier, Rama fasts and prays to the ocean deity for three days to grant a path. When the ocean ignores his requests, Rama loses his patience, draws his bow, and fires solar-grade arrows that boil the waters and terrorize its creatures."
+    ],
     meanings: [
       "ततः = Thereafter",
       "सुग्रीव-सहितः = Accompanied by Sugriva",
@@ -3796,16 +3796,16 @@ const verses = [
     anvaya: [
       "सरितां पतिः समुद्रः आत्मानम् दर्शयामास च, समुद्रवचनात् च एव (रामः) नलम् सेतुम् अकारयत् ||"
     ],
-    prose: [
-      "The lord of rivers, the ocean deity, emerged from the waves to offer his surrender. Following his guidance, Rama had the architect monkey Nala construct a monumental floating bridge across the waters."
-    ],
+    prose: [],
     transl: [
-      "Terrified by Rama’s rage, the ocean deity Samudra rises from the depths, bowing in deep reverence. He explains that he cannot alter his fluid nature to split the sea, but offers a solution: Nala, the son of the divine architect Viswakarma, is in their ranks. Under Nala’s direction, the monkeys can throw rocks and trees into the water, and the sea will support them to create a stable bridge."
+      "The lord of rivers, the ocean deity, emerged from the waves to offer his surrender. Following his guidance, Rama had the architect monkey Nala construct a monumental floating bridge across the waters."
     ],
     transl_tel: [
       "అప్పుడు నదులకు అధిపతియైన సముద్రుడు ప్రత్యక్షమై రామునికి నమస్కరించాడు. ఆ సముద్రుని సూచన ప్రకారమే రాముడు వానర శిల్పియైన నలుడి ద్వారా సముద్రంపై వంతెన (సేతువు) నిర్మింపజేశాడు."
     ],
-    essence: [],
+    essence: [
+      "Terrified by Rama’s rage, the ocean deity Samudra rises from the depths, bowing in deep reverence. He explains that he cannot alter his fluid nature to split the sea, but offers a solution: Nala, the son of the divine architect Viswakarma, is in their ranks. Under Nala’s direction, the monkeys can throw rocks and trees into the water, and the sea will support them to create a stable bridge."
+    ],
     meanings: [
       "दर्शयामास = Revealed / Showed",
       "च = And",
@@ -3843,16 +3843,16 @@ const verses = [
     anvaya: [
       "तेन लङ्कां पुरीम् गत्वा, आहवे रावणम् हत्वा सीताम् अनुप्राप्य, रामः परां व्रीडाम् उपागमत् ||"
     ],
-    prose: [
-      "Crossing over that bridge, Rama stormed Lanka and slew Ravana in a cataclysmic war. Yet, upon recovering Sita, Rama unexpectedly experienced deep reservation and public constraints."
-    ],
+    prose: [],
     transl: [
-      "The army crosses the bridge into Lanka, sparking a ferocious, high-stakes war. Rama destroys Ravana’s legions and kills the tyrant in a historic duel. However, when Sita is finally brought before him in public, Rama experiences intense conflict. Bound by his duties as a king to protect public integrity, he faces deep emotional and social constraints."
+      "Crossing over that bridge, Rama stormed Lanka and slew Ravana in a cataclysmic war. Yet, upon recovering Sita, Rama unexpectedly experienced deep reservation and public constraints."
     ],
     transl_tel: [
       "ఆ వంతెన ద్వారా లంకా నగరానికి వెళ్ళి, ఘోర యుద్ధంలో రావణుడిని వధించి రాముడు సీతను తిరిగి పొందాడు. కానీ, ప్రజాధర్మ రక్షణ కోసం ఆమెను స్వీకరించే సమయంలో రాముడు తీవ్ర సంకోచాన్ని (లజ్జను/బాధను) పొందాడు."
     ],
-    essence: [],
+    essence: [
+      "The army crosses the bridge into Lanka, sparking a ferocious, high-stakes war. Rama destroys Ravana’s legions and kills the tyrant in a historic duel. However, when Sita is finally brought before him in public, Rama experiences intense conflict. Bound by his duties as a king to protect public integrity, he faces deep emotional and social constraints."
+    ],
     meanings: [
       "तेन = By that (bridge)",
       "गत्वा = Having crossed over / Reached",
@@ -3891,16 +3891,16 @@ const verses = [
     anvaya: [
       "ततः रामः जनसंसदि ताम् परुषम् उवाच, सा सती सीता (तत् वचः) अमृष्यमाणा ज्वलनं विवेश ||"
     ],
-    prose: [
-      "Before the assembled masses, Rama addressed her with harsh words of detachment to satisfy public scrutiny. Unable to brook this stain on her honor, the pure and chaste Sita courageously entered the blazing fire."
-    ],
+    prose: [],
     transl: [
-      "To establish her purity beyond any public doubt, Rama addresses Sita with detached, sharp words in court. Devastated but proud, Sita refuses to live under a cloud of suspicion. She asks Lakshmana to light a funeral pyre and steps directly into the roaring flames (*Agni Pariksha*) to let the fire god judge her character."
+      "Before the assembled masses, Rama addressed her with harsh words of detachment to satisfy public scrutiny. Unable to brook this stain on her honor, the pure and chaste Sita courageously entered the blazing fire."
     ],
     transl_tel: [
       "ఆ తర్వాత రాముడు లోకాపవాదానికి భయపడి జనులందరి సమక్షంలో సీతతో కఠినమైన మాటలు అన్నాడు. పతివ్రతయైన ఆ సీతాదేవి ఆ మాటలను తట్టుకోలేక, తన పవిత్రతను నిరూపించుకోవడానికి మండుతున్న అగ్ని గుండంలోకి ప్రవేశించింది."
     ],
-    essence: [],
+    essence: [
+      "To establish her purity beyond any public doubt, Rama addresses Sita with detached, sharp words in court. Devastated but proud, Sita refuses to live under a cloud of suspicion. She asks Lakshmana to light a funeral pyre and steps directly into the roaring flames (*Agni Pariksha*) to let the fire god judge her character."
+    ],
     meanings: [
       "ताम् = To her (Sita)",
       "उवाच = Spoke / Declared",
@@ -3938,16 +3938,16 @@ const verses = [
     anvaya: [
       "ततः अग्निवचनात् सीताम् विगतकल्मषाम् ज्ञात्वा, सर्वदैवतैः पूजितः रामः सम्प्रहृष्टः (सन्) बभौ ||"
     ],
-    prose: [
-      "Upon the absolute testimony of the fire god, who declared Sita to be completely stainless and pure, Rama was filled with boundless joy. Honored and praised by all the gathered gods, he shone with his original splendor."
-    ],
+    prose: [],
     transl: [
-      "As Sita steps into the flames, Agni, the god of fire, emerges holding her completely unharmed. He proclaims her absolute purity to the world. Deeply relieved that her honor is publicly vindicated, Rama happily accepts his wife back. The celestial deities descend to praise Rama for restoring cosmic balance."
+      "Upon the absolute testimony of the fire god, who declared Sita to be completely stainless and pure, Rama was filled with boundless joy. Honored and praised by all the gathered gods, he shone with his original splendor."
     ],
     transl_tel: [
       "ఆ తర్వాత అగ్నిదేవుని సాక్ష్యం ద్వారా సీతాదేవి నిష్కళంకమైనదని తెలుసుకుని రాముడు అమితానందం పొందాడు. సమస్త దేవతలచే పూజింపబడినవాడై రాముడు తన సహజ తేజస్సుతో ప్రకాశించాడు."
     ],
-    essence: [],
+    essence: [
+      "As Sita steps into the flames, Agni, the god of fire, emerges holding her completely unharmed. He proclaims her absolute purity to the world. Deeply relieved that her honor is publicly vindicated, Rama happily accepts his wife back. The celestial deities descend to praise Rama for restoring cosmic balance."
+    ],
     meanings: [
       "ततः = Thereafter",
       "अग्नि-वचनात् = By the words / Testimony of the fire god",
@@ -3983,16 +3983,16 @@ const verses = [
     anvaya: [
       "महात्मना राघवेण तेन महता कर्मणा सदेవర్షిगణం सచరాచరమ్ त्रैलोक्यम् तुष्टम् ||"
     ],
-    prose: [
-      "By that monumental feat of defeating Ravana, the high-souled Rama brought immense peace and gratification to the three worlds—including all living and non-living beings, the gods, and the holy sages."
-    ],
+    prose: [],
     transl: [
-      "Ravana's tyranny had oppressed the entire universe. By eliminating him, Rama frees the cosmos from fear. Sages can perform their rituals in peace, the gods regain their celestial domains, and nature itself breathes a sigh of relief, rejoicing in the victory of righteousness."
+      "By that monumental feat of defeating Ravana, the high-souled Rama brought immense peace and gratification to the three worlds—including all living and non-living beings, the gods, and the holy sages."
     ],
     transl_tel: [
       "మహాత్ముడైన రాముడు చేసిన ఆ గొప్ప కార్యం (రావణ వధ) వల్ల దేవతలు, ఋషులు, చరాచర ప్రాణులతో కూడిన మూడు లోకాలు ఎంతో సంతోషాన్ని, ప్రశాంతతను పొందాయి."
     ],
-    essence: [],
+    essence: [
+      "Ravana's tyranny had oppressed the entire universe. By eliminating him, Rama frees the cosmos from fear. Sages can perform their rituals in peace, the gods regain their celestial domains, and nature itself breathes a sigh of relief, rejoicing in the victory of righteousness."
+    ],
     meanings: [
       "कर्मणा = By the action / Achievement",
       "तेन = By that",
@@ -4027,16 +4027,16 @@ const verses = [
     anvaya: [
       "तदा रामः लङ्कायाम् विभीषणम् राक्षसेन्द्रं अभिषिच्य च, कृतकृत्यः विज्वरः (सन्) प्रमुमोद ह ||"
     ],
-    prose: [
-      "Having formally crowned Ravana's righteous brother Vibhishana as the new king of Lanka, Rama felt his profound mission was accomplished. Free from all anxiety, he rejoiced exceedingly."
-    ],
+    prose: [],
     transl: [
-      "Rama honors his promise to Vibhishana, who had sought his refuge. Instead of occupying Lanka as a conqueror, Rama crowns Vibhishana as its rightful king. With his wife rescued, his allies rewarded, and the world secure, Rama’s heavy mental burdens dissolve into pure joy."
+      "Having formally crowned Ravana's righteous brother Vibhishana as the new king of Lanka, Rama felt his profound mission was accomplished. Free from all anxiety, he rejoiced exceedingly."
     ],
     transl_tel: [
       "అనంతరం లంకా నగరానికి విభీషణుడిని రాక్షస రాజుగా రాముడు అభిషేకించాడు. ఆ విధంగా తన కర్తవ్యాన్ని నెరవేర్చి, మానసిక చింతలన్నీ తొలగిపోయినవాడై రాముడు ఎంతో ఆనందించాడు."
     ],
-    essence: [],
+    essence: [
+      "Rama honors his promise to Vibhishana, who had sought his refuge. Instead of occupying Lanka as a conqueror, Rama crowns Vibhishana as its rightful king. With his wife rescued, his allies rewarded, and the world secure, Rama’s heavy mental burdens dissolve into pure joy."
+    ],
     meanings: [
       "अभिषिच्य = Having consecrated / Crowned",
       "च = And",
@@ -4073,16 +4073,16 @@ const verses = [
     anvaya: [
       "रामः देवताभ्यः वरम् प्राप्य वानरान् समुत्थाप्य च, सुहृद्वृतः (सन्) पुष्पकेण अयोध्याम् प्रस्थितः ||"
     ],
-    prose: [
-      "Securing a magnificent boon from the grateful gods, Rama brought all the fallen Vanara warriors back to life. Surrounded by his devoted friends, he boarded the aerial chariot Pushpaka and set course for Ayodhya."
-    ],
+    prose: [],
     transl: [
-      "When the gods offer Rama boons, he doesn't ask for personal wealth. Instead, he requests that every single monkey warrior who died fighting for his cause be restored to life and health. The gods grant this, resurrecting the fallen army. Surrounded by Sita, Lakshmana, Sugriva, Vibhishana, and Hanuman, Rama boards the magnificent flying chariot to return home."
+      "Securing a magnificent boon from the grateful gods, Rama brought all the fallen Vanara warriors back to life. Surrounded by his devoted friends, he boarded the aerial chariot Pushpaka and set course for Ayodhya."
     ],
     transl_tel: [
       "దేవతల నుండి వరాన్ని పొంది, యుద్ధంలో మరణించిన వానరులనందరినీ రాముడు తిరిగి బతికించాడు. ఆపై తన మిత్రులందరితో కలిసి పుష్పక విమానంలో అయోధ్యకు ప్రయాణమయ్యాడు."
     ],
-    essence: [],
+    essence: [
+      "When the gods offer Rama boons, he doesn't ask for personal wealth. Instead, he requests that every single monkey warrior who died fighting for his cause be restored to life and health. The gods grant this, resurrecting the fallen army. Surrounded by Sita, Lakshmana, Sugriva, Vibhishana, and Hanuman, Rama boards the magnificent flying chariot to return home."
+    ],
     meanings: [
       "देवताभ्यः = From the deities / Gods",
       "वरम् = Boon",
@@ -4119,16 +4119,16 @@ const verses = [
     anvaya: [
       "सत्यपराक्रमः रामः भरद्वाजाश्रमं गत्वा, भरतस्य अन्तिकम् हनूमन्तम् व्यसर्जयत् ||"
     ],
-    prose: [
-      "Arriving at the hermitage of Sage Bharadwaja on the outskirts, the truly val-iant Rama paused his journey. He immediately dispatched Hanuman ahead as an envoy to meet Bharata."
-    ],
+    prose: [],
     transl: [
-      "The Pushpaka chariot lands near Prayagraj at Sage Bharadwaja’s ashram. Knowing that the 14-year exile period is ending exactly that day, Rama is deeply concerned about Bharata's mental state—Bharata had vowed to step into a fire if Rama delayed even by a day. Rama sends Hanuman ahead to announce his survival and gauge Bharata's real reaction."
+      "Arriving at the hermitage of Sage Bharadwaja on the outskirts, the truly val-iant Rama paused his journey. He immediately dispatched Hanuman ahead as an envoy to meet Bharata."
     ],
     transl_tel: [
       "సత్యపరాక్రముడైన రాముడు మార్గమధ్యంలో భరద్వాజ మహర్షి ఆశ్రమానికి చేరుకున్నాడు. అక్కడి నుండి భరతుడి వద్దకు ముందస్తు సమాచారం చేరవేయడం కోసం హనుమంతుడిని పంపించాడు."
     ],
-    essence: [],
+    essence: [
+      "The Pushpaka chariot lands near Prayagraj at Sage Bharadwaja’s ashram. Knowing that the 14-year exile period is ending exactly that day, Rama is deeply concerned about Bharata's mental state—Bharata had vowed to step into a fire if Rama delayed even by a day. Rama sends Hanuman ahead to announce his survival and gauge Bharata's real reaction."
+    ],
     meanings: [
       "भरद्वाज-आश्रमम् = The hermitage of Sage Bharadwaja",
       "गत्वा = Having reached / Visited",
@@ -4163,16 +4163,16 @@ const verses = [
     anvaya: [
       "तदा सः सुग्रीवसहितः पुनः आख्यायिकाम् जल्पन्, तत् पुष्पकम् समारुह्य नन्दिग्रामम् ययौ ||"
     ],
-    prose: [
-      "Re-boarding the Pushpaka chariot alongside Sugriva, Rama pointed out the landmarks below, happily recounting past stories of their journey as they flew directly toward Nandigram."
-    ],
+    prose: [],
     transl: [
-      "Once Hanuman returns with news of Bharata's immense joy and faithful anticipation, Rama resumes his flight. As the chariot glides through the air, Rama points out forests, rivers, and battlefields to Sugriva and the allies, sharing stories of his exile before finally touchdown at Nandigram, the temporary capital."
+      "Re-boarding the Pushpaka chariot alongside Sugriva, Rama pointed out the landmarks below, happily recounting past stories of their journey as they flew directly toward Nandigram."
     ],
     transl_tel: [
       "ఆ తర్వాత రాముడు సుగ్రీవునితో కలిసి, దారిపొడుగునా గత వృత్తాంతాలను (కథలను) ముచ్చటించుకుంటూ, ఆ పుష్పక విమానాన్ని అధిరోహించి భరతుడు నివసిస్తున్న నందిగ్రామానికి చేరుకున్నాడు."
     ],
-    essence: [],
+    essence: [
+      "Once Hanuman returns with news of Bharata's immense joy and faithful anticipation, Rama resumes his flight. As the chariot glides through the air, Rama points out forests, rivers, and battlefields to Sugriva and the allies, sharing stories of his exile before finally touchdown at Nandigram, the temporary capital."
+    ],
     meanings: [
       "पुनः = Again",
       "आख्यायिकाम् = Narratives / Past episodes / Stories",
@@ -4210,16 +4210,16 @@ const verses = [
     anvaya: [
       "अनघः रामः नन्दिग्रामे जटां हित्वा भ्रातृभिः सहितः, सीताम् अनुप्राप्य राज्यम् पुनः अवाप्तवान् ||"
     ],
-    prose: [
-      "At Nandigram, the sinless Rama shaved off his matted ascetic locks. Reunited deeply with all his brothers and having successfully recovered Sita, he triumphantly reclaimed his rightful kingdom."
-    ],
+    prose: [],
     transl: [
-      "Landing at Nandigram, Rama sheds his identity as a forest hermit. He and Lakshmana untie and shave off their matted hair (*Jata*). Surrounded by his three brothers—Bharata, Lakshmana, and Shatrughna—and with Sita by his side, Rama formally accepts the governance of Ayodhya back from Bharata."
+      "At Nandigram, the sinless Rama shaved off his matted ascetic locks. Reunited deeply with all his brothers and having successfully recovered Sita, he triumphantly reclaimed his rightful kingdom."
     ],
     transl_tel: [
       "పాపరహితుడైన ఆ రాముడు నందిగ్రామంలో తన జటలను తొలగించుకున్నాడు. తన సోదరులందరితో కలిసి, సీతాదేవి సమేతుడై తన స్వంత రాజ్యాన్ని తిరిగి హస్తగతం చేసుకున్నాడు."
     ],
-    essence: [],
+    essence: [
+      "Landing at Nandigram, Rama sheds his identity as a forest hermit. He and Lakshmana untie and shave off their matted hair (*Jata*). Surrounded by his three brothers—Bharata, Lakshmana, and Shatrughna—and with Sita by his side, Rama formally accepts the governance of Ayodhya back from Bharata."
+    ],
     meanings: [
       "नन्दिग्रामे = In Nandigram",
       "जटाम् = Matted hair locks of an ascetic",
@@ -4257,16 +4257,16 @@ const verses = [
     anvaya: [
       "(రామరాజ్యే) लोकः प्रहृष्टमुदितः तुष्टः पुष्टः सुधार्मिकः निरामयः निरंतकः दुर्भिक्षभयवर्जितः (చ అభవత్) ||"
     ],
-    prose: [
-      "Under his reign, the populace became exceedingly joyful, deeply contented, well-nourished, and naturally anchored in high virtue. The realm was free from diseases, premature deaths, and the terrifying fear of famine."
-    ],
+    prose: [],
     transl: [
-      "With Rama’s ascension, a golden era begins. The citizens experience physical abundance and emotional fulfillment. Social morality thrives naturally. Epidemics disappear, natural disasters cease, and the constant human anxiety over food scarcity or untimely deaths is completely eradicated."
+      "Under his reign, the populace became exceedingly joyful, deeply contented, well-nourished, and naturally anchored in high virtue. The realm was free from diseases, premature deaths, and the terrifying fear of famine."
     ],
     transl_tel: [
       "రాముని పాలనలో ప్రజలందరూ నిత్యసంతోషంతో, తృప్తితో, పుష్టిగా, ధర్మబద్ధంగా జీవించారు. ఆ రాజ్యంలో రోగాలు, అకాల మరణాల భయం కానీ, క్షామం (కరువు) భయం కానీ లేకుండా పోయాయి."
     ],
-    essence: [],
+    essence: [
+      "With Rama’s ascension, a golden era begins. The citizens experience physical abundance and emotional fulfillment. Social morality thrives naturally. Epidemics disappear, natural disasters cease, and the constant human anxiety over food scarcity or untimely deaths is completely eradicated."
+    ],
     meanings: [
       "प्रहृष्ट-मुदितः = Greatly thrilled and happy",
       "लोकः = The world / The citizens",
@@ -4300,16 +4300,16 @@ const verses = [
     anvaya: [
       "पुरुषाः क्वचित् केचित् पुत्रमरणं न द्रक्ष्यन्ति, नार्यः च नित्यम् अविधवाः पतिव्रताः भविष्यन्ति ||"
     ],
-    prose: [
-      "Parents never had to experience the crushing agony of outliving their children anywhere in the kingdom. Women lived long, fulfilling lives with their spouses, remaining safe from early widowhood and anchored in mutual marital devotion."
-    ],
+    prose: [],
     transl: [
-      "In this harmonious society, the natural order of life is fully respected: the old pass away before the young, meaning no father has to mourn his son's funeral. Families stay intact, and women enjoy stable, loving households, free from the social and emotional hardships of sudden widowhood."
+      "Parents never had to experience the crushing agony of outliving their children anywhere in the kingdom. Women lived long, fulfilling lives with their spouses, remaining safe from early widowhood and anchored in mutual marital devotion."
     ],
     transl_tel: [
       "ఆ రాజ్యంలో ఏ తండ్రి కూడా తన కొడుకు అకాల మరణాన్ని చూసే పరిస్థితి రాలేదు. స్త్రీలు దీర్ఘసుమంగళిలుగా, పతివ్రతలుగా ఎంతో వైభవంగా జీవించారు."
     ],
-    essence: [],
+    essence: [
+      "In this harmonious society, the natural order of life is fully respected: the old pass away before the young, meaning no father has to mourn his son's funeral. Families stay intact, and women enjoy stable, loving households, free from the social and emotional hardships of sudden widowhood."
+    ],
     meanings: [
       "न = Never",
       "पुत्र-मरणम् = Death of a son / Offspring before parents",
@@ -4347,16 +4347,16 @@ const verses = [
     anvaya: [
       "तथा रामभ्युदाहृतम् (राज्ये), किञ्चित् अग्निजं भयम् न, जन्तवः अप्सु न मज्जन्ति, किञ्चित् वातजं भयम् च न ||"
     ],
-    prose: [
-      "In the celebrated realm of Rama, there was absolutely no danger from destructive fires, no living beings ever perished by drowning in water, and the terror of devastating storms and tornadoes was entirely unknown."
-    ],
+    prose: [],
     transl: [
-      "Rama’s governance brings safety from natural disasters. Towns are safe from fires, rivers and seas support life without tragic drownings, and violent winds or hurricanes leave the infrastructure untouched. The natural elements operate in perfect harmony with human civilization."
+      "In the celebrated realm of Rama, there was absolutely no danger from destructive fires, no living beings ever perished by drowning in water, and the terror of devastating storms and tornadoes was entirely unknown."
     ],
     transl_tel: [
       "రాముడి పరిపాలనలో అగ్ని ప్రమాదాల భయం కానీ, నీటిలో మునిగి ప్రాణులు చనిపోయే ప్రమాదాలు కానీ, వినాశకరమైన తుఫానుల (గాలి) భయం కానీ అస్సలు ఉండేవి కావు."
     ],
-    essence: [],
+    essence: [
+      "Rama’s governance brings safety from natural disasters. Towns are safe from fires, rivers and seas support life without tragic drownings, and violent winds or hurricanes leave the infrastructure untouched. The natural elements operate in perfect harmony with human civilization."
+    ],
     meanings: [
       "न = No / Never",
       "च = And",
@@ -4397,16 +4397,16 @@ const verses = [
     anvaya: [
       "तत्र क्षुद्भयं च अपि न, तथा तस्करभयं न; नगरानि च राष्ट्राणि धनधान्ययुतानि च (अभवन्) ||"
     ],
-    prose: [
-      "In that golden realm, there was neither the tormenting dread of hunger nor any fear of thieves and bandits. Every city and province flourished, overflowing with boundless wealth and agricultural abundance."
-    ],
+    prose: [],
     transl: [
-      "Economic security reaches its peak under Rama's watch. Poverty is completely wiped out, removing the desperation that drives hunger. Because the administration is highly vigilant and the citizens are naturally moral, crime and theft disappear entirely. Both metropolitan hubs and rural territories thrive with full storehouses."
+      "In that golden realm, there was neither the tormenting dread of hunger nor any fear of thieves and bandits. Every city and province flourished, overflowing with boundless wealth and agricultural abundance."
     ],
     transl_tel: [
       "ఆ రాజ్యంలో ఆకలి బాధలు కానీ, దొంగల భయం కానీ అస్సలు ఉండేవి కావు. నగరాలు, గ్రామాలు అన్నీ ధనధాన్యాలతో సమృద్ధిగా విలసిల్లాయి."
     ],
-    essence: [],
+    essence: [
+      "Economic security reaches its peak under Rama's watch. Poverty is completely wiped out, removing the desperation that drives hunger. Because the administration is highly vigilant and the citizens are naturally moral, crime and theft disappear entirely. Both metropolitan hubs and rural territories thrive with full storehouses."
+    ],
     meanings: [
       "न = No",
       "च = And",
@@ -4445,16 +4445,16 @@ const verses = [
     anvaya: [
       "सर्वे यथा कृतयुगे तथा नित्यप्रमुदिताः (अभवन्); (रामः) बहुसुवर्णकैः तथा अश्वमेधशतैः ईष्ट्वा ||"
     ],
-    prose: [
-      "All people lived in a state of perennial joy, exactly as they did during the pristine Golden Age (Krita Yuga). Meanwhile, King Rama worshipped the divine by performing hundreds of Ashvamedha sacrifices and distributing astronomical amounts of gold."
-    ],
+    prose: [],
     transl: [
-      "Rama's reign effectively pulls the current era back into the purity of the Satya/Krita Yuga, where misery didn't exist. To sustain cosmic order and express gratitude, Rama performs hundreds of grand sacred rituals (*Yagnas*), ensuring that vast wealth is recycled back into society through charity and spiritual endowments."
+      "All people lived in a state of perennial joy, exactly as they did during the pristine Golden Age (Krita Yuga). Meanwhile, King Rama worshipped the divine by performing hundreds of Ashvamedha sacrifices and distributing astronomical amounts of gold."
     ],
     transl_tel: [
       "సత్యయుగంలో (కృతయుగంలో) ప్రజలు ఎంత సంతోషంగా ఉండేవారో, రాముని పాలనలో కూడా అందరూ అలాగే నిత్యం ఆనందంగా జీవించారు. రాముడు వందలాది అశ్వమేధ యాగాలు, బహుసువర్ణ యాగాలు చేసి అపరిమితమైన దానాలు చేశాడు."
     ],
-    essence: [],
+    essence: [
+      "Rama's reign effectively pulls the current era back into the purity of the Satya/Krita Yuga, where misery didn't exist. To sustain cosmic order and express gratitude, Rama performs hundreds of grand sacred rituals (*Yagnas*), ensuring that vast wealth is recycled back into society through charity and spiritual endowments."
+    ],
     meanings: [
       "नित्य-प्रमुदिताः = Eternally delighted / Ever-joyful",
       "सर्वे = All the citizens",
@@ -4489,16 +4489,16 @@ const verses = [
     anvaya: [
       "महायशाः (रामः) विद्वाद्भ्यः विधिपूर्वकम् गवां कोट्ययुतं दत्त्वा, ब्राह्मणेभ्यः असंख्यं धनं च दत्त्वा ||"
     ],
-    prose: [
-      "The exceptionally illustrious Rama, strictly following scriptural injunctions, gifted hundreds of millions of cows to learned scholars and distributed immeasurable wealth among the priestly community."
-    ],
+    prose: [],
     transl: [
-      "Rama channels the kingdom's prosperity straight to the intellectual, spiritual, and moral guardians of society. By giving away vast quantities of cattle (the primary measure of economic stability and nutrition at the time) and boundless wealth, he ensures that those dedicated to knowledge and truth are never compromised by poverty."
+      "The exceptionally illustrious Rama, strictly following scriptural injunctions, gifted hundreds of millions of cows to learned scholars and distributed immeasurable wealth among the priestly community."
     ],
     transl_tel: [
       "మహాకీర్తిశాలియైన రాముడు విద్వాంసులకు, బ్రాహ్మణులకు శాస్త్రోక్తంగా కోట్లాది ఆవులను, లెక్కింపలేనంత ధనాన్ని దానంగా ఇచ్చాడు."
     ],
-    essence: [],
+    essence: [
+      "Rama channels the kingdom's prosperity straight to the intellectual, spiritual, and moral guardians of society. By giving away vast quantities of cattle (the primary measure of economic stability and nutrition at the time) and boundless wealth, he ensures that those dedicated to knowledge and truth are never compromised by poverty."
+    ],
     meanings: [
       "गवाम् = Of cows / Cattle",
       "कोटि-अयुतम् = Ten thousand crores (hundreds of millions)",
@@ -4534,16 +4534,16 @@ const verses = [
     anvaya: [
       "राघवः अस्मिन् लोके राजवंशान् शतगुणान् स्थापयिष्यति, चातुर्वर्ण्यं च स्वे स्वे धर्मे नियोक्ष्यति ||"
     ],
-    prose: [
-      "Rama will elevate and firmly establish hundreds of noble dynasties across the earth, while gently steering the four structural orders of society to remain harmoniously anchored in their respective moral duties."
-    ],
+    prose: [],
     transl: [
-      "Instead of running a centralized empire by crushing local leadership, Rama acts as a benevolent overlord. He restores and multiplies hundreds of local royal families, empowering them to rule justly. He also ensures that all segments of society focus cleanly on their duties (*Dharma*), maintaining social balance and stopping exploitation."
+      "Rama will elevate and firmly establish hundreds of noble dynasties across the earth, while gently steering the four structural orders of society to remain harmoniously anchored in their respective moral duties."
     ],
     transl_tel: [
       "రాముడు ఈ లోకంలోని నూతన రాజవంశాలను వందల రెట్లు ప్రతిష్ఠింపజేస్తాడు. సమాజంలోని నాలుగు వర్ణాల ప్రజలను వారి వారి స్వధర్మాలలో నిలిచేలా చేస్తాడు."
     ],
-    essence: [],
+    essence: [
+      "Instead of running a centralized empire by crushing local leadership, Rama acts as a benevolent overlord. He restores and multiplies hundreds of local royal families, empowering them to rule justly. He also ensures that all segments of society focus cleanly on their duties (*Dharma*), maintaining social balance and stopping exploitation."
+    ],
     meanings: [
       "राज-वंशान् = Royal lineages / Dynasties",
       "शत-गुणान् = Hundred-fold",
@@ -4581,16 +4581,16 @@ const verses = [
     anvaya: [
       "रामः दशवर्षसहस्राणि दशवर्षशतानि च राज्यम् उपासित्वा ब्रह्मलोकं प्रयास्यति ||"
     ],
-    prose: [
-      "Having served and protected the empire as a spiritual duty for eleven thousand years, Rama will eventually return to his supreme, eternal celestial abode."
-    ],
+    prose: [],
     transl: [
-      "Rama’s presence on Earth spans an incredible eleven thousand years ($10,000 + 1,000$). The text intentionally uses the word *upasitva* (worshipped) instead of just 'ruled,' showing that he treats governing his people as a sacred act of devotion. Once his earthly mission is complete, he returns to his cosmic source."
+      "Having served and protected the empire as a spiritual duty for eleven thousand years, Rama will eventually return to his supreme, eternal celestial abode."
     ],
     transl_tel: [
       "రాముడు పదివేల సంవత్సరాల పైగా మరో వెయ్యి సంవత్సరాలు (మొత్తం 11 వేల సంవత్సరాలు) రాజ్యాన్ని పరిపాలించి, ఆపై బ్రహ్మలోకానికి (తన పరమపదానికి) చేరుకుంటాడు."
     ],
-    essence: [],
+    essence: [
+      "Rama’s presence on Earth spans an incredible eleven thousand years (0,000 + 1,000$). The text intentionally uses the word *upasitva* (worshipped) instead of just 'ruled,' showing that he treats governing his people as a sacred act of devotion. Once his earthly mission is complete, he returns to his cosmic source."
+    ],
     meanings: [
       "दश = Ten",
       "वर्ष-सहस्राणि = Thousands of years",
@@ -4626,16 +4626,16 @@ const verses = [
     anvaya: [
       "पवित्रम् पापहरम् पुण्यम् वेदिसम्मितम् इदम् रामचरितं यः पठेत्, सः सर्वपापैः प्रमुच्यते ||"
     ],
-    prose: [
-      "This epic account of Rama's life is deeply purifying, cleanses all sins, confers vast spiritual merit, and holds equal status with the sacred Vedas. Anyone who reads this chronicle is completely liberated from all spiritual taints."
-    ],
+    prose: [],
     transl: [
-      "This verse begins the *Phalasruti*. Narada guarantees that the Ramayana isn't just an entertaining historical story; it carries intense spiritual weight. Immersing your mind in Rama’s struggles, choices, and virtues acts as a deep inner reset, washing away accumulated negative mental conditioning (*papam*)."
+      "This epic account of Rama's life is deeply purifying, cleanses all sins, confers vast spiritual merit, and holds equal status with the sacred Vedas. Anyone who reads this chronicle is completely liberated from all spiritual taints."
     ],
     transl_tel: [
       "అత్యంత పవిత్రమైనది, పాపాలను హరించేది, పుణ్యప్రదమైనది, వేదాలతో సమానమైనది అయిన ఈ రామచరిత్రాన్ని (రామాయణాన్ని) ఎవరు చదువుతారో, వారు సమస్త పాపాల నుండి విముక్తులవుతారు."
     ],
-    essence: [],
+    essence: [
+      "This verse begins the *Phalasruti*. Narada guarantees that the Ramayana isn't just an entertaining historical story; it carries intense spiritual weight. Immersing your mind in Rama’s struggles, choices, and virtues acts as a deep inner reset, washing away accumulated negative mental conditioning (*papam*)."
+    ],
     meanings: [
       "इदम् = This",
       "पवित्रम् = Highly sacred / Purifying",
@@ -4671,16 +4671,16 @@ const verses = [
     anvaya: [
       "एतत् आयुष्यम् रामायणं आख्यानम् पठन् नरः, सपुत्रपौत्रः सगणः (सन्) प्रेत्य स्वर्गे महीयते ||"
     ],
-    prose: [
-      "A person who regularly reads this life-enforcing epic known as the Ramayana will enjoy a long life. Blessed with children, grandchildren, and loyal companions in this world, they will be deeply honored in the heavenly realms hereafter."
-    ],
+    prose: [],
     transl: [
-      "The blessings of the Ramayana are both practical and transcendent. In the present life, it promotes vitality, health, and deep, lasting family bonds across generations. When this life ends, the positive mental impressions left by the text elevate the soul to a state of higher cosmic consciousness."
+      "A person who regularly reads this life-enforcing epic known as the Ramayana will enjoy a long life. Blessed with children, grandchildren, and loyal companions in this world, they will be deeply honored in the heavenly realms hereafter."
     ],
     transl_tel: [
       "ఆయుష్షును పెంచే ఈ రామాయణ కథను చదివే మానవుడు ఇహలోకంలో పుత్రపౌత్రాదులతో, ఇష్టజనులతో సుఖంగా జీవించి, మరణానంతరం స్వర్గలోకంలో గౌరవింపబడతాడు."
     ],
-    essence: [],
+    essence: [
+      "The blessings of the Ramayana are both practical and transcendent. In the present life, it promotes vitality, health, and deep, lasting family bonds across generations. When this life ends, the positive mental impressions left by the text elevate the soul to a state of higher cosmic consciousness."
+    ],
     meanings: [
       "एतत् = This",
       "आख्यानम् = Narrative / Epic historical account",
@@ -4717,16 +4717,16 @@ const verses = [
     anvaya: [
       "(इदम्) पठन् द्विजः वागृषभत्वम् ईयात्, क्षत्रियः स्यात् (चेत्) भूमिपतित्वम् ईयात्, वणिक्जनः पण्यफलत्वम् ईयात्, शूद्रः जनः च अपि महत्त्वम् ईयात् ||"
     ],
-    prose: [
-      "By studying this text, a scholar attains mastery over speech and wisdom; a warrior achieves true leadership and sovereignty over land; a merchant secures abundant prosperity in trade; and any common citizen gains profound personal dignity and greatness."
-    ],
+    prose: [],
     transl: [
-      "The Ramayana unlocks whatever excellence is relevant to your specific path in life. It doesn't use a one-size-fits-all approach. It gives teachers eloquence, gives leaders administrative strength, gives entrepreneurs success, and gives every working citizen a deep sense of purpose, self-worth, and honor."
+      "By studying this text, a scholar attains mastery over speech and wisdom; a warrior achieves true leadership and sovereignty over land; a merchant secures abundant prosperity in trade; and any common citizen gains profound personal dignity and greatness."
     ],
     transl_tel: [
       "ఈ గ్రంథాన్ని చదవడం వల్ల బ్రాహ్మణుడు వాగ్ధాటిని (జ్ఞానాన్ని), క్షత్రియుడు భూమిపై అధికారాన్ని (నాయకత్వాన్ని), వైశ్యుడు వ్యాపార లాభాలను, శూద్రుడు సమాజంలో గొప్ప గౌరవాన్ని, ఉన్నత స్థానాన్ని పొందుతారు."
     ],
-    essence: [],
+    essence: [
+      "The Ramayana unlocks whatever excellence is relevant to your specific path in life. It doesn't use a one-size-fits-all approach. It gives teachers eloquence, gives leaders administrative strength, gives entrepreneurs success, and gives every working citizen a deep sense of purpose, self-worth, and honor."
+    ],
     meanings: [
       "पठन् = Reading / Studying",
       "द्विजः = A Brahmin / Intellectual / Scholar",
@@ -4775,16 +4775,16 @@ const verses = [
     anvaya: [
       "नित्यम् उदारबुद्धिना पुराविदा मुनिना महर्षिणा (नारदेन) कीर्तयता मया श्रुतम्, प्रहर्षदम् उत्तमम् शमहेतुम् एतत् (रामचरितम्) इति एवम् सर्वे शृण్వन्तु ||"
     ],
-    prose: [
-      "Thus, this extraordinarily joyful, sublime chronicle—the ultimate source of absolute inner peace—was shared by the great, noble-minded Sage Narada, who knows all ancient truths. May everyone listen to this narrative with a focused and reverent mind."
-    ],
+    prose: [],
     transl: [
-      "Valmiki wraps up his introduction by looking back at his source. He notes that this story was directly narrated to him by Narada, a massive cosmic intellect. Because it comes from a place of pure realization, listening to it provides *shama-hetum*—the ultimate catalyst for calming a chaotic, stressed mind and finding real peace."
+      "Thus, this extraordinarily joyful, sublime chronicle—the ultimate source of absolute inner peace—was shared by the great, noble-minded Sage Narada, who knows all ancient truths. May everyone listen to this narrative with a focused and reverent mind."
     ],
     transl_tel: [
       "సమస్త పురాతన సత్యాలు తెలిసినవాడు, నిత్య ఉదారబుద్ధి కలిగినవాడు అయిన నారద మహర్షి ద్వారా చెప్పబడినది, నాచే వినబడినది, పరమానందాన్ని ఇచ్చేది, మనఃశాంతికి పరమ సాధనమైన ఈ ఉత్తమ రామాయణ గాథను మీరందరూ భక్తితో వినండి."
     ],
-    essence: [],
+    essence: [
+      "Valmiki wraps up his introduction by looking back at his source. He notes that this story was directly narrated to him by Narada, a massive cosmic intellect. Because it comes from a place of pure realization, listening to it provides *shama-hetum*—the ultimate catalyst for calming a chaotic, stressed mind and finding real peace."
+    ],
     meanings: [
       "इति = Thus",
       "एवम् = In this manner",
@@ -4826,16 +4826,16 @@ const verses = [
     anvaya: [
       "एतत् रामायणस्य मूलम् गाथा सङ्क्षेपतः कृता; वाल्मीकिना सर्वम् अनुत्तमम् सर्गबन्धम् कृतम् ||"
     ],
-    prose: [
-      "This concludes the foundational root of the Ramayana, presented cleanly as a concise summary. Inspired by this, Valmiki went on to compose the entire magnificent, incomparable masterpiece, perfectly structured into sequential cantos."
-    ],
+    prose: [],
     transl: [
-      "This hundredth verse completes Chapter 1—often called the *Samkshepa Ramayana* (the Ramayana in brief) or the *Bala Kanda* baseline. It serves as the seeds from which Valmiki grows his massive, 24,000-verse epic masterpiece, neatly organized into cantos (*sargas*) to preserve this timeless legacy for humanity."
+      "This concludes the foundational root of the Ramayana, presented cleanly as a concise summary. Inspired by this, Valmiki went on to compose the entire magnificent, incomparable masterpiece, perfectly structured into sequential cantos."
     ],
     transl_tel: [
       "సంక్షిప్తంగా చెప్పబడిన ఈ కథే సమగ్ర రామాయణానికి మూలస్తంభం. దీనిని ఆధారం చేసుకుని వాల్మీకి మహర్షి సర్గలతో కూడిన అత్యుత్తమమైన, సాటిలేని సంపూర్ణ రామాయణ మహాకావ్యాన్ని రచించాడు."
     ],
-    essence: [],
+    essence: [
+      "This hundredth verse completes Chapter 1—often called the *Samkshepa Ramayana* (the Ramayana in brief) or the *Bala Kanda* baseline. It serves as the seeds from which Valmiki grows his massive, 24,000-verse epic masterpiece, neatly organized into cantos (*sargas*) to preserve this timeless legacy for humanity."
+    ],
     meanings: [
       "मूलम् = The foundation / Core root",
       "रामायणस्य = Of the Ramayana",
