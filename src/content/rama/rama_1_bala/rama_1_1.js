@@ -676,18 +676,34 @@ const verses = [
     "यशस्वी ज्ञान-सम्पन्नः शुचिः वश्यः समाधि-मान् ||"
   ],
   anvaya: [
-    "(सः) धर्मज्ञः सत्यसन्धः च प्रजानां हिते रतः च यशस्वी ज्ञानसम्पन्नः शुचिः वश्यः समाधिमान् (अस्ति) ||"
+    "धर्म-ज्ञः", 
+    "सत्य-सन्धः", 
+    "प्रजानाम् हिते रतः",
+    "यशस्वी", 
+    "ज्ञान-सम्पन्नः", 
+    "शुचिः", 
+    "वश्यः", 
+    "समाधि-मान् |"
   ],
   prose: [
-    "He is a knower of dharma, always true to his promises, and firmly dedicated to the welfare of his subjects. He is renowned, full of wisdom, pure in body and mind, self-controlled, and meditative."
+    "Knower of dharma",
+    "always true to his promises",
+    "devoted to the welfare of his subjects",
+    "highly renowned/famous",
+    "endowed with supreme wisdom",
+    "pure/spotless in character",
+    "self controlled",
+    "meditative/deeply concentrated in mind",
   ],
   transl: [
-    "Narada shifts back to Rama's profound character traits. Rama is an absolute master of law and righteousness, never deviates from his word, and views the happiness of his citizens as his topmost duty. He is celebrated for his pure conduct, immense spiritual knowledge, and deeply focused intellect."
+    "He is a knower of dharma, always true to his promises, and firmly dedicated to the welfare of his subjects. He is renowned, full of wisdom, pure in body and mind, self-controlled, and meditative."
   ],
   transl_tel: [
     "ఆయన ధర్మము తెలిసినవాడు, సత్యమైన ప్రతిజ్ఞ కలవాడు, నిరంతరం ప్రజల శ్రేయస్సు కోరేవాడు. కీర్తిమంతుడు, సర్వజ్ఞాని, పవిత్రుడు, ఇంద్రియ నిగ్రహం కలవాడు మరియు ఎల్లప్పుడూ పరమాత్మ యందు మనస్సు లగ్నం చేసినవాడు."
   ],
-  essence: [],
+  essence: [
+    "Narada shifts back to Rama's profound character traits. Rama is an absolute master of law and righteousness, never deviates from his word, and views the happiness of his citizens as his topmost duty. He is celebrated for his pure conduct, immense spiritual knowledge, and deeply focused intellect."
+  ],
   meanings: [
     "धर्म-ज्ञः = Knower of righteousness / Cosmic law",
     "सत्य-सन्धः = Bound to absolute truth / Loyal to vows",
