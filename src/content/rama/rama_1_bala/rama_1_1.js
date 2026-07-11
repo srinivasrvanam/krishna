@@ -435,18 +435,30 @@ const verses = [
     "नियत-आत्मा महा-वीर्यः द्युति-मान् धृति-मान् वशी ||"
   ],
   anvaya: [
-    "इक्ष्वाकुवंशप्रभवः जनैः रामो नाम श्रुतः, (यः) नियतात्मा महावीर्यो द्युतिमान् धृतिमान् वशी (अस्ति) ||"
+    "इक्ष्वाकुवंशप्रभवः रामः नाम जनैः श्रुतः", 
+    "नियत-आत्मा", 
+    "महा-वीर्यः", 
+    "द्युति-मान्", 
+    "धृति-मान्", 
+    "वशी |"
   ],
   prose: [
-    "Born in the line of King Ikshvaku, He is known to the people by the name of Rama. He is self-controlled, possessed of immense prowess, resplendent, full of fortitude, and a master of his senses."
+    "Born in the line of King Ikshvaku, He is known to the people by the name of Rama.",
+    "self-controlled",
+    "possessed of immense prowess (valor/courage)",
+    "resplendent (brilliance)",
+    "full of fortitude",
+    "master of his senses",
   ],
   transl: [
-    "Narada explicitly names the subject of the epic: Sri Rama, descended from the illustrious solar dynasty of King Ikshvaku. He begins checking off Valmiki's list by highlighting Rama's disciplined mind, extraordinary physical power, radiant personality, unshakeable patience, and flawless mastery over his urges."
+    "Born in the line of King Ikshvaku, He is known to the people by the name of Rama. He is self-controlled, possessed of immense prowess, resplendent, full of fortitude, and a master of his senses."
   ],
   transl_tel: [
     "ఇక్ష్వాకు వంశంలో జన్మించి, ప్రజలచేత 'రాముడు' అని పిలవబడే మహానుభావుడు ఒకరు ఉన్నారు. ఆయన నిశ్చలమైన మనస్సు కలవాడు, మహా పరాక్రమవంతుడు, కాంతిమంతుడు, ధైర్యశాలి మరియు జితేంద్రియుడు."
   ],
-  essence: [],
+  essence: [
+    "Narada explicitly names the subject of the epic: Sri Rama, descended from the illustrious solar dynasty of King Ikshvaku. He begins checking off Valmiki's list by highlighting Rama's disciplined mind, extraordinary physical power, radiant personality, unshakeable patience, and flawless mastery over his urges."
+  ],
   meanings: [
     "इक्ष्वाकु-वंश-प्रभवः = Born in the dynasty of King Ikshvaku",
     "रामः = Rama",
