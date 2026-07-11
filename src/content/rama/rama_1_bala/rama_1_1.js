@@ -556,18 +556,34 @@ const verses = [
     "आजानु-बाहुः सु-शिराः सु-ललाटः सु-विक्रमः ||"
   ],
   anvaya: [
-    "महोरस्को महेष्वासो गूढजत्रुररिन्दमः आजानुबाहुः सुशिराः सुललाटः सुविक्रमः (च अस्ति) ||"
+    "महा-उरस्कः", 
+    "महा-इष्वासः", 
+    "गूढ-जत्रुः", 
+    "अरिम्-दमः",
+    "आजानु-बाहुः", 
+    "सु-शिराः", 
+    "सु-ललाटः", 
+    "सु-विक्रमः|"
   ],
   prose: [
-    "He has a broad, expansive chest, a massive bow, hidden collarbones, and is the tamer of his adversaries. His arms reach down to his knees; he possesses a beautifully shaped head, an auspicious forehead, and a majestic stride."
+    "has a broad chest",
+    "has a massive bow",
+    "has hidden collarbones",
+    "subduer of enemies",
+    "has arms that reach down to his knees",
+    "has a beautifully shaped head",
+    "has an auspicious forehead",
+    "possessor of an ausipicious gait/valor",
   ],
   transl: [
-    "Narada continues tracing Rama’s heroic physical traits, describing his wide chest, mastery over archery, well-knit muscular frame, and long arms characteristic of great protectors. He concludes by highlighting Rama’s regal head, prominent forehead, and courageous, balanced manner of movement."
+    "He has a broad, expansive chest, a massive bow, hidden collarbones, and is the tamer of his adversaries. His arms reach down to his knees; he possesses a beautifully shaped head, an auspicious forehead, and a majestic stride."
   ],
   transl_tel: [
     "విశాలమైన రొమ్ము, పెద్ద ధనస్సు కలిగి, మాంసముతో కప్పబడిన జత్రువులు (collarbones) కలవాడై శత్రుమర్దనుడై ఉన్నాడు. మోకాళ్ళ వరకు వ్రేలాడే బాహువులు, అందమైన శిరస్సు, విశాలమైన లలాటము (నొసలు), మరియు పరాక్రమముతో కూడిన నడక కలవాడు."
   ],
-  essence: [],
+  essence: [
+    "Narada continues tracing Rama’s heroic physical traits, describing his wide chest, mastery over archery, well-knit muscular frame, and long arms characteristic of great protectors. He concludes by highlighting Rama’s regal head, prominent forehead, and courageous, balanced manner of movement."
+  ],
   meanings: [
     "महा-उरस्कः = Possessed of a broad chest",
     "महा-इष्वासः = Wielder of a mighty bow",
