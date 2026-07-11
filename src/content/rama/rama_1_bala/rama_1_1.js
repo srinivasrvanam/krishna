@@ -850,18 +850,32 @@ const verses = [
     "सर्व-लोक-प्रियः साधुः अदीन-आत्मा विचक्षणः ||"
   ],
   anvaya: [
-    "(सः) सर्वशास्त्रार्थतत्त्वज्ञः स्मृतिमान् प्रतिभानवान् सर्वलोकप्रियः साधुः अदीनात्मा विचक्षणः (च अस्ति) ||"
+    "सर्व-शास्त्र-अर्थ-तत्त्व-ज्ञः", 
+    "स्मृति-मान्", 
+    "प्रतिभान-वान्",
+    "सर्व-लोक-प्रियः", 
+    "साधुः", 
+    "अदीन-आत्मा", 
+    "विचक्षणः |"
   ],
   prose: [
-    "He understands the true import and core essence of all scriptures, possesses an exceptional memory, and is highly inventive. He is beloved by the entire world, gentle and polite, free from depression, and highly discerning."
+    "knower of essence of all scriptures",
+    "possesses an exceptional memory",
+    "possessor of spontaneous brilliance/imagination/wit",
+    "dear to all",
+    "gentle",
+    "has a courageous spirit",
+    "highly discerning",
   ],
   transl: [
-    "Narada describes Rama's outstanding mental traits. Rama grasps the deeper meaning of all sciences, possesses an unshakeable memory, and shows magnificent creative brilliance. His polite nature makes him universally loved. Furthermore, he maintains an optimistic, strong spirit even under intense hardship and executes his choices with deep analytical skill."
+    "He understands the true import and core essence of all scriptures, possesses an exceptional memory, and is highly inventive. He is beloved by the entire world, gentle and polite, free from depression, and highly discerning."
   ],
   transl_tel: [
     "ఆయన సమస్త శాస్త్రాల యొక్క అంతరార్థాన్ని గ్రహించినవాడు, అద్భుతమైన జ్ఞాపకశక్తి కలవాడు, ప్రతిభాశాలి. లోకమంతటికీ ప్రియమైనవాడు, మంచి స్వభావము కలవాడు, ధైర్యవంతుడు (కుంగిపోని మనస్తత్వము కలవాడు) మరియు వివేకవంతుడు."
   ],
-  essence: [],
+  essence: [
+    "Narada describes Rama's outstanding mental traits. Rama grasps the deeper meaning of all sciences, possesses an unshakeable memory, and shows magnificent creative brilliance. His polite nature makes him universally loved. Furthermore, he maintains an optimistic, strong spirit even under intense hardship and executes his choices with deep analytical skill."
+  ],
   meanings: [
     "सर्व-शास्त्र-अर्थ-तत्त्व-ज्ञः = Knower of the true inner meaning of all branches of scriptures",
     "स्मृति-मान् = Possessed of an exceptional memory",
