@@ -740,18 +740,30 @@ const verses = [
     "रक्षिता जीव-लोकस्य धर्मस्य परिरक्षिता ||"
   ],
   anvaya: [
-    "(सः) प्रजापतिसमः श्रीमान् धाता रिपुनिषूदनः जीवलोकस्य रक्षिता धर्मस्य परिरक्षिता (च अस्ति) ||"
+    "प्रजापति-समः", 
+    "श्रीमान्", 
+    "धाता", 
+    "रिपु-निषूदनः",
+    "जीव-लोकस्य रक्षिता", 
+    "धर्मस्य परिरक्षिता |"
   ],
   prose: [
-    "He is equal to Prajapati (the Lord of Creation) in sustaining life, glorious, the supporter of all, and the destroyer of adversaries. He is the protector of all living beings and the steadfast guardian of righteousness."
+    "who is equal to Prajapati (Creator) in ruling",
+    "glorious",
+    "supporter of all",
+    "destroyer of enemies",
+    "protector of entire world of living beings",
+    "expert protector of dharma",
   ],
   transl: [
-    "Rama's role as a protector is magnified here. Narada compares his nurturing and protective abilities to Prajapati, the progenitor of life. Rama actively supports the stability of the entire living world, systematically removes malicious entities, and acts as a fortress protecting universal order and justice."
+    "He is equal to Prajapati (the Lord of Creation) in sustaining life, glorious, the supporter of all, and the destroyer of adversaries. He is the protector of all living beings and the steadfast guardian of righteousness."
   ],
   transl_tel: [
     "ఆయన సమస్త ప్రజలను పాలించటంలో బ్రహ్మదేవునితో సమానుడు, సర్వసమర్థుడు, సకల జీవులను పోషించేవాడు మరియు శత్రువులను హరించేవాడు. ఈ జీవలోకానికి రక్షకుడు, ధర్మాన్ని కాపాడేవాడు."
   ],
-  essence: [],
+  essence: [
+    "Rama's role as a protector is magnified here. Narada compares his nurturing and protective abilities to Prajapati, the progenitor of life. Rama actively supports the stability of the entire living world, systematically removes malicious entities, and acts as a fortress protecting universal order and justice."
+  ],
   meanings: [
     "प्रजापति-समः = Equal to Prajapati (the Lord of creation/subjects)",
     "श्रीमान् = Glorious / Resplendent ruler",
