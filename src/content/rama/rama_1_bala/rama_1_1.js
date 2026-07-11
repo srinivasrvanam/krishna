@@ -796,18 +796,26 @@ const verses = [
     "वेद-वेदाङ्ग-तत्त्व-ज्ञः धनुः-वेदे च निष्ठितः ||"
   ],
   anvaya: [
-    "(सः) स्वस्य धर्मस्य रक्षिता, स्वजनस्य च रक्षिता, वेदवेदाङ्गतत्त्वज्ञः धनुर्वेदे च निष्ठितः (अस्ति) ||"
+    "स्वस्य धर्मस्य रक्षिता", 
+    "स्व-जनस्य रक्षिता",
+    "वेद-वेदाङ्ग-तत्त्व-ज्ञः", 
+    "धनुः-वेदे निष्ठितः|"
   ],
   prose: [
-    "He is the protector of his own duties and righteousness, the guardian of his own people, deeply versed in the essence of the Vedas and their auxiliary branches, and highly proficient in the science of archery."
+    "protector of his own dharma (duties/righteousness)",
+    "guardian of his own people",
+    "deeply versed in the essence of Vedas and Vedangas",
+    "highly proficient in the science of archery",
   ],
   transl: [
-    "Rama balances his global duties with immediate personal and intellectual excellence. He flawlessly adheres to his own moral obligations as a prince, defends his relatives and dependents, possesses profound insight into the spiritual philosophy of the Vedas, and is thoroughly grounded in the supreme military art of weaponry."
+    "He is the protector of his own duties and righteousness, the guardian of his own people, deeply versed in the essence of the Vedas and their auxiliary branches, and highly proficient in the science of archery."
   ],
   transl_tel: [
     "ఆయన తన స్వధర్మాన్ని కాపాడుకునేవాడు, తనను ఆశ్రయించిన ప్రజలను రక్షించేవాడు. వేదాల యొక్క, వేదాంగాల యొక్క రహస్యాలను తెలిసినవాడు మరియు ధనుర్విద్యలో తిరుగులేని నిపుణుడు."
   ],
-  essence: [],
+  essence: [
+    "Rama balances his global duties with immediate personal and intellectual excellence. He flawlessly adheres to his own moral obligations as a prince, defends his relatives and dependents, possesses profound insight into the spiritual philosophy of the Vedas, and is thoroughly grounded in the supreme military art of weaponry."
+  ],
   meanings: [
     "रक्षिता = Protector",
     "स्वस्य = His own",
