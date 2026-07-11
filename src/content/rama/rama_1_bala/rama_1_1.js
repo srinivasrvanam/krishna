@@ -616,18 +616,34 @@ const verses = [
     "पीन-वक्षाः विशाल-अक्षः लक्ष्मी-वान् शुभ-लक्षणः ||"
   ],
   anvaya: [
-    "समः समविभक्ताङ्गः स्निग्धवर्णः प्रतापवान् पीनवक्षा विशालाक्षो लक्ष्मीवान् शुभलक्षणः (च अस्ति) ||"
+    "समः", 
+    "सम-विभक्त-अङ्गः", 
+    "स्निग्ध-वर्णः", 
+    "प्रताप-वान्",
+    "पीन-वक्षाः", 
+    "विशाल-अक्षः", 
+    "लक्ष्मी-वान्", 
+    "शुभ-लक्षणः |"
   ],
   prose: [
-    "He is equanimous, possesses symmetrically divided limbs, a beautiful glossy complexion, and great majesty. He has a full chest, large expressive eyes, is endowed with splendor, and bears all auspicious bodily marks."
+    "equanimous",
+    "has symmetrically divided limbs",
+    "has beautiful complexion",
+    "has a great valor/splendor",
+    "muscular chest",
+    "has large/wide eyes",
+    "possessor of divine beauty and prosperity",
+    "bearing highly auspiciuos marks/characteristics",
   ],
   transl: [
-    "Narada highlights Rama's perfect physical proportion and inner poise. His body parts are perfectly symmetrical, his skin radiates a healthy glow, his eyes are large and comforting, and he possesses a naturally majestic presence. He exhibits all the marks of a divinely blessed personality who treats everyone with an even mind."
+    "He is equanimous, possesses symmetrically divided limbs, a beautiful glossy complexion, and great majesty. He has a full chest, large expressive eyes, is endowed with splendor, and bears all auspicious bodily marks."
   ],
   transl_tel: [
     "ఆయన పక్షపాతం లేనివాడు, సమానంగా చక్కగా కుదిరిన అవయవములు కలవాడు, కాంతివంతమైన శరీర ఛాయ కలవాడు, ప్రతాపవంతుడు. పుష్టిన రొమ్ము, విశాలమైన నేత్రములు, శోభాయమానమైన రూపము మరియు శుభ లక్షణములు కలవాడు."
   ],
-  essence: [],
+  essence: [
+    "Narada highlights Rama's perfect physical proportion and inner poise. His body parts are perfectly symmetrical, his skin radiates a healthy glow, his eyes are large and comforting, and he possesses a naturally majestic presence. He exhibits all the marks of a divinely blessed personality who treats everyone with an even mind."
+  ],
   meanings: [
     "समः = Impartial / Free from prejudice / Balanced",
     "सम-विभक्त-अङ्गः = Having beautifully proportioned, symmetrical limbs",
