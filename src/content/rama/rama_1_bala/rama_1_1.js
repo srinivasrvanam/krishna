@@ -909,16 +909,16 @@ const verses = [
   anvaya: [
     "(सः) सिन्धुभिः समुद्रः इव सर्वदा सद्भिः अभिगतः, आर्यः सर्वसमः च एव सदा एव प्रियदर्शनः (अस्ति) ||"
   ],
-  prose: [
-    "He is always approached by virtuous people, just as the ocean is sought by rivers. He is noble, looks upon everyone with equal eye, and is forever pleasant to behold."
-  ],
+  prose: [],
   transl: [
-    "Narada illustrates Rama's magnetic righteousness. Just as all rivers naturally flow toward the mighty ocean, good and righteous people are universally drawn to Rama for shelter and counsel. He is a nobleman in the truest sense, remains completely impartial to all, and possesses a serene countenance that brings immediate comfort to anyone who looks at him."
+    "He is always approached by virtuous people, just as the ocean is sought by rivers. He is noble, looks upon everyone with equal eye, and is forever pleasant to behold."
   ],
   transl_tel: [
     "నదులన్నీ సముద్రాన్ని చేరుకున్నట్లుగా, సత్పురుషులందరూ ఎల్లప్పుడూ ఆశ్రయించే మహానుభావుడు ఆయన. ఉత్తమ స్వభావం కలవాడు, అందరినీ సమానంగా చూసేవాడు మరియు ఎల్లప్పుడూ చూసేవారికి ఆనందాన్ని కలిగించే రూపం కలవాడు."
   ],
-  essence: [],
+  essence: [
+    "Narada illustrates Rama's magnetic righteousness. Just as all rivers naturally flow toward the mighty ocean, good and righteous people are universally drawn to Rama for shelter and counsel. He is a nobleman in the truest sense, remains completely impartial to all, and possesses a serene countenance that brings immediate comfort to anyone who looks at him."
+  ],
   meanings: [
     "सर्वदा = Always / At all times",
     "अभिगतः = Approached / Sought after for shelter",
