@@ -373,18 +373,28 @@ const verses = [
     "मुने वक्ष्यामि अहम् बुद्ध्वा तैः युक्तः श्रूयताम् नरः ||"
   ],
   anvaya: [
-    "मुने! त्वया ये गुणाः कीर्तिताः, ते बहवः दुर्लभाः च एव (सन्ति), अहम् बुद्ध्वा तैः युक्तं नरं वक्ष्यामि, श्रूयताम् ||"
+    "मुने!", 
+    "- त्वया ये गुणाः कीर्तिताः", 
+    "- ते बहवः दुर्लभाः च एव (सन्ति)", 
+    "अहम् बुद्ध्वा तैः युक्तं नरं वक्ष्यामि", 
+    "श्रूयताम् |"
   ],
   prose: [
-    "O Sage! The many virtues that have been enumerated by you are rare indeed to find in a single individual. However, having fully deliberated, I shall tell you of a man who is endowed with all of them; please listen."
+    "O Sage!",
+    "- Those virtues enumerated by you",
+    "- are indeed rare to find",
+    "I will tell you, having known a man endowed with those qualities",
+    "May it be heard",
   ],
   transl: [
-    "Narada acknowledges that the sixteen extraordinary virtues Valmiki listed are exceptionally rare and almost never found together in a single human being. Yet, after internal reflection, Narada assures Valmiki that such an incomparable individual does exist, and he prepares to reveal his identity."
+    "O Sage! The many virtues that have been enumerated by you are rare indeed to find in a single individual. However, having fully deliberated, I shall tell you of a man who is endowed with all of them; please listen."
   ],
   transl_tel: [
     "ఓ మునివర్యా! నీవు అడిగిన ఈ గుణాలన్నీ ఒకే వ్యక్తిలో ఉండటం చాలా అరుదు. అయినప్పటికీ, నేను చక్కగా ఆలోచించి ఆ గుణాలన్నీ ఉన్న ఒక మహానుభావుడిని గూర్చి చెప్తాను, విను."
   ],
-  essence: [],
+  essence: [
+    "Narada acknowledges that the sixteen extraordinary virtues Valmiki listed are exceptionally rare and almost never found together in a single human being. Yet, after internal reflection, Narada assures Valmiki that such an incomparable individual does exist, and he prepares to reveal his identity."
+  ],
   meanings: [
     "बहवः = Many",
     "दुर्लभाः = Rare to find / Difficult to attain",
