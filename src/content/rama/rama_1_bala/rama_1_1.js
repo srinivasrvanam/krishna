@@ -1204,9 +1204,11 @@ const verses = [
       "तस्य अभिषेक-सम्भारान् दृष्ट्वा भार्या अथ कैकयी ||"
     ],
     anvaya: [
-      "महीपतिः प्रीत्या यौवराज्येन संयोक्तुम् ऐच्छत्, अथ तस्य अभिषेकसम्भारान् दृष्ट्वा भार्या कैकयी... ||"
+      "... done in prev & next sloka",
     ],
-    prose: [],
+    prose: [
+      "... done in prev & next sloka",
+    ],
     transl: [
       "The lord of the earth (King Dasharatha), out of deep affection, desired to invest Him with the position of crown prince. Thereafter, seeing the preparations arranged for that coronation, his wife Kaikeyi..."
     ],
@@ -1217,12 +1219,7 @@ const verses = [
       "This verse seamlessly carries forward the thought from the previous slokas. King Dasharatha officially moves forward with his heart's desire to install Rama as the crown prince. However, upon witnessing the grand ceremonial items and materials accumulating for the festive event, his queen Kaikeyi steps into the narrative arc."
     ],
     meanings: [
-      "तस्य = His (Rama's)",
-      "अभिषेक-सम्भारान् = Preparations / Paraphernalia for the coronation ritual",
-      "दृष्ट्वा = Having seen",
-      "भार्या = Wife",
-      "अथ = Thereafter / Then",
-      "कैकयी = Queen Kaikeyi"
+      "... done in prev & next sloka",
     ],
     grammar: [],
     notes: [
@@ -1234,8 +1231,9 @@ const verses = [
     chapter: 1,
     number: 22,
     sloka: [
+      "तस्याभिषेकसम्भारान् दृष्ट्वा भार्याथ कैकयी || 21b",
       "पूर्वं दत्तवरा देवी वरमेनं अयाचत |",
-      "विवासनं च रामस्य भरतस्याभिषेचनम् ||"
+      "विवासनं च रामस्य भरतस्याभिषेचनम् || 22"
     ],
     sloka_tel: [
       "పూర్వం దత్తవరా దేవీ వరమేనం అయాచత |",
@@ -1246,9 +1244,21 @@ const verses = [
       "विवासनम् च रामस्य भरतस्य अभिषेचनम् ||"
     ],
     anvaya: [
-      "पूर्वम् दत्तवरा देवी कैकयी रामस्य विवासनं भरतस्य अभिषेचनम् च (इति) एनम् वरम् अयाचत ||"
+      "21b - 22",
+      "अथ",
+      "(भार्या) (पूर्वम् दत्तवरा देवी) कैकयी",
+      "- तस्य (रामस्य) अभिषेकसम्भारान् दृष्ट्वा ... ||",
+      "- 'रामस्य विवासनं च भरतस्य अभिषेचनम्' (इति)",
+      "एनम् वरम् अयाचत |",
     ],
-    prose: [],
+    prose: [
+      "21b - 22",
+      "Then",
+      "Queen Kaikeyi (wife to whom boons had been promised in the past)",
+      "- having seen the preparations for coronation of him (Rama's)",
+      "- 'of Rama's exile to forest and coronation of Bharata'",
+      "asked this boon",
+    ],
     transl: [
       "Queen Kaikeyi, to whom boons had been promised in the past, demanded those boons from the king: namely, the exile of Rama to the forest and the coronation of her own son, Bharata."
     ],
@@ -1259,6 +1269,12 @@ const verses = [
       "Narada details Kaikeyi's direct intervention. Activating two ancient promises (boons) given to her by Dasharatha for saving his life on an old battlefield, she asks for two specific things: Rama must be exiled to the dangerous forests for fourteen years, and her own son Bharata must be crowned king instead."
     ],
     meanings: [
+      "तस्य = His (Rama's)",
+      "अभिषेक-सम्भारान् = Preparations / Paraphernalia for the coronation ritual",
+      "दृष्ट्वा = Having seen",
+      "भार्या = Wife",
+      "अथ = Thereafter / Then",
+      "कैकयी = Queen Kaikeyi",
       "पूर्वम् = In the past",
       "दत्त-वरा = One to whom boons had been granted",
       "देवी = The queen (Kaikeyi)",
