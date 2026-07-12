@@ -1309,9 +1309,17 @@ const verses = [
       "विवासयामास सुतम् रामम् दशरथः प्रियम् ||"
     ],
     anvaya: [
-      "सः राजा दशरथः सत्यवचनात् धर्मपाशेन संयतः (सन्), प्रियं सुतं रामं विवासयामास ||"
+      "सः राजा दशरथः",
+      "- सत्य-वचनात् धर्म-पाशेन संयतः (सन्)",
+      "- प्रियम् सुतम् रामम् ||",
+      "विवासयामास",
     ],
-    prose: [],
+    prose: [
+      "That King Dasaratha",
+      "- bound by the unyielding bond of righteousness to keep his spoken word",
+      "- his dear son Rama",
+      "sent to forest",
+    ],
     transl: [
       "Bound by the unyielding bond of righteousness to keep his spoken word, that King Dasharatha banished his deeply beloved eldest son Rama."
     ],
