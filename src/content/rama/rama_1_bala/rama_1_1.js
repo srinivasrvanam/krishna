@@ -1602,9 +1602,12 @@ const verses = [
       "पौरैः अनुगतः दूरम् पित्रा दशरथेन च ||"
     ],
     anvaya: [
+      "28b",
       " (सः रामः) पौरैः पित्रा दशरथेन च दूरम् अनुगतः ||"
     ],
-    prose: [],
+    prose: [
+      "28b",
+    ],
     transl: [
       "...Sita too accompanied Rama, just as the constellation Rohini ever accompanies the Moon. Rama was followed for a great distance by the weeping citizens and by his heartbroken father, King Dasharatha."
     ],
