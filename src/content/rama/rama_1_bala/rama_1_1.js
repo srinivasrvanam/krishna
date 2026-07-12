@@ -964,9 +964,17 @@ const verses = [
       "समुद्रः इव गाम्भीर्ये धैर्येण हिमवान् इव ||"
     ],
     anvaya: [
-      "सर्वगुणोपेतः कौसल्यानन्दवर्धनः सः च गाम्भीर्ये समुद्रः इव धैर्येण हिमवान् इव (अस्ति) ||"
+      "सः सर्व-गुण-उपेतः",
+      "कौसल्या-आनन्द-वर्धनः",
+      "गाम्भीर्ये समुद्रः इव",
+      "धैर्येण हिमवान् इव (अस्ति) ||"
     ],
-    prose: [],
+    prose: [
+      "he is endowed with all great virtues",
+      "he enhances the joy of his mother Kausalya",
+      "he is like ocean in the depth of serenity (doesn't get disturbed by external factors)",
+      "his courage is like that of himavAn (himalaya mountain)",
+    ],
     transl: [
       "Endowed with all these virtues, He enhances the joy of His mother, Kausalya. In depth of personality and serenity He is like the unfathomable ocean, and in fortitude He is like the unshakeable Himalaya mountains."
     ],
