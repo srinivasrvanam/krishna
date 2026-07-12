@@ -15,7 +15,7 @@ const verses = [
       "नारदम् परिपप्रच्छ वाल्मीकिः मुनि-पुङ्गवम् ||"
     ],
     anvaya: [
-      "(तपस्वी) वाल्मीकिः", 
+      "(तपस्वी) वाल्मीकिः",
       "(तपःस्वाध्याय-निरतं) (वाग्विदां वरं) (मुनिपुङ्गवं) नारदं",
       "परिपप्रच्छ",
     ],
@@ -65,21 +65,21 @@ const verses = [
     ],
     anvaya: [
       "(नु) अस्मिन् लोके साम्प्रतं कः",
-      "- गुणवान्", 
-      "- वीर्यवान्", 
-      "- धर्मज्ञः", 
-      "- कृतज्ञः", 
-      "- सत्यवाक्यः", 
-      "- दृढव्रतः", 
+      "- गुणवान्",
+      "- वीर्यवान्",
+      "- धर्मज्ञः",
+      "- कृतज्ञः",
+      "- सत्यवाक्यः",
+      "- दृढव्रतः",
       "(अस्ति) |"
     ],
     prose: [
-      "(Indeed) Who in the world today is", 
-      "- possessor of excellent qualities", 
-      "- Possessor of valor, prowess, or spiritual/physical might.", 
-      "- knower of dharma,", 
-      "- grateful,", 
-      "- speaks only truth,", 
+      "(Indeed) Who in the world today is",
+      "- possessor of excellent qualities",
+      "- Possessor of valor, prowess, or spiritual/physical might.",
+      "- knower of dharma,",
+      "- grateful,",
+      "- speaks only truth,",
       "- firm/unshakable in his resolve/vows"
     ],
     transl: [
@@ -129,11 +129,11 @@ const verses = [
     ],
     anvaya: [
       "कः",
-      "- चारित्रेण युक्तः", 
-      "- सर्वभूतेषु हितः", 
-      "- विद्वान्", 
-      "- समर्थः", 
-      "- एकप्रियदर्शनः", 
+      "- चारित्रेण युक्तः",
+      "- सर्वभूतेषु हितः",
+      "- विद्वान्",
+      "- समर्थः",
+      "- एकप्रियदर्शनः",
       "(अस्ति) ||"
     ],
     prose: [
@@ -192,11 +192,11 @@ const verses = [
       "कस्य बिभ्यति देवाः च जात-रोषस्य संयुगे ||"
     ],
     anvaya: [
-      "कः", 
-      "- आत्मवान्", 
-      "- जितक्रोधः", 
-      "- द्युतिमान्", 
-      "- अनसूयकः", 
+      "कः",
+      "- आत्मवान्",
+      "- जितक्रोधः",
+      "- द्युतिमान्",
+      "- अनसूयकः",
       "संयुगे जातरोषस्य कस्य देवाः च बिभ्यति"
     ],
     prose: [
@@ -237,1356 +237,1364 @@ const verses = [
       "The juxtaposition of 'Jita-krodhah' (conquered anger in daily life) and 'Jata-roshasya samyuge' (righteous wrath in battle) shows that the ideal man is not a passive pacifist, but someone who regulates his emotions perfectly, channeling anger only when defending justice."
     ]
   },
-{
-  chapter: 1,
-  number: 5,
-  sloka: [
-    "एतदिच्छाम्यहं श्रोतुं परं कौतूहलं हि मे |",
-    "महर्षे त्वं समर्थोऽसि ज्ञातुमेवंविधं नरम् ||"
-  ],
-  sloka_tel: [
-    "ఏతదిచ్ఛామ్యహం శ్రోతుం పరం కౌతూహలం హి మే |",
-    "మహర్షే త్వం సమర్థోఽసి జ్ఞాతుమేవంవిధం నరమ్ ||"
-  ],
-  vicheda: [
-    "एतत् इच्छामि अहम् श्रोतुम् परम् कौतूहलम् हि मे |",
-    "महर्षे त्वम् समर्थः असि ज्ञातुम् एवम्-विधम् नरम् ||"
-  ],
-  anvaya: [
-    "(हे) महर्षे!", 
-    "अहम् एतत् श्रोतुम् इच्छामि", 
-    "मे परं कौतूहलं हि अस्ति", 
-    "त्वम् एवंविधं नरं ज्ञातुम् समर्थः असि ||"
-  ],
-  prose: [
-    "O Great Sage!", 
-    "I desire to hear about such a person", 
-    "for my curiosity is immense.", 
-    "You are capable of knowing a man endowed with such extraordinary qualities."
-  ],
-  transl: [
-    "O Great Sage! I desire to hear about such a person, for my curiosity is immense. You are capable of knowing a man endowed with such extraordinary qualities."
-  ],
-  transl_tel: [
-    "ఓ మహర్షీ! ఇలాంటి గుణములు కలవాని గూర్చి వినాలని నాకు అత్యంత కుతూహలంగా ఉన్నది. ఈ విధమైన నరుడిని గురించి తెలుసుకొనుటకు నీవు సమర్థుడవు."
-  ],
-  essence: [
-    "Having listed all sixteen ideal virtues, Valmiki expresses his intense eagerness to learn if such a perfect individual actually exists on Earth. He appeals to Narada's omniscience, stating that a master sage of his spiritual stature is uniquely qualified to know of a human being who embodies all these diverse characteristics simultaneously."
-  ],
-  meanings: [
-    "एतत् = This (about such a person)",
-    "इच्छामि = I desire / Wish",
-    "अहम् = I",
-    "श्रोतुम् = To hear",
-    "परम् = Great / Intense",
-    "कौतूहलम् = Curiosity / Eagerness",
-    "हि = Indeed / Surely",
-    "मे = To me / My",
-    "महर्षे = O Great Sage (Narada)",
-    "त्वम् = You",
-    "समर्थः = Capable / Competent",
-    "असि = You are",
-    "ज्ञातुम् = To know",
-    "एवम्-विधम् = Of this kind / Such a",
-    "नरम् = Man / Human being"
-  ],
-  grammar: [],
-  notes: [
-    "This verse shifts the dialogue from a list of abstract virtues into an explicit request for a living example. It marks the conclusion of Valmiki's inquiry.",
-    "By using the word 'Naram' (man), Valmiki emphasizes that he is seeking an exemplary human archetype who walks the earth, demonstrating that supreme righteousness is attainable within human limitations."
-  ]
-},
-{
-  chapter: 1,
-  number: 6,
-  sloka: [
-    "श्रुत्वा चैतत्त्रिलोकज्ञो वाल्मीकेर्नारदो वचः |",
-    "श्रूयतामिति चामन्त्र्य प्रहृष्टो वाक्यमब्रवीत् ||"
-  ],
-  sloka_tel: [
-    "శ్రుత్వా చైతత్త్రిలోకజ్ఞో వాల్మీకేర్నారదో వచః |",
-    "శ్రూయతామితి చామంత్ర్య ప్రహృష్టో వాక్యమబ్రవీత్ ||"
-  ],
-  vicheda: [
-    "श्रुत्वा च एतत् त्रि-लोक-ज्ञः वाल्मीकेः नारदः वचः |",
-    "श्रूयताम् इति च आमन्त्र्य प्रहृष्टः वाक्यम् अब्रवीत् ||"
-  ],
-  anvaya: [
-    "त्रिलोकज्ञः नारदः", 
-    "वाल्मीकेः एतत् वचः श्रुत्वा च", 
-    "'श्रूयताम्' इति आमन्त्र्य,", 
-    "प्रहृष्टः (सन्) वाक्यम् अब्रवीत् ||"
-  ],
-  prose: [
-    "Devarshi Narada (Knower of 3 worlds)",
-    "Having listened to these words of Maharshi Valmiki",
-    "addressing 'may it be heard'",
-    "being delighted, spoke the following words",
-  ],
-  transl: [
-    "Hearing these words of Valmiki, the knower of the three worlds, Sage Narada, became thoroughly delighted, invited his attention saying 'Please listen!', and spoke the following words."
-  ],
-  transl_tel: [
-    "ముల్లోకాల వృత్తాంతం తెలిసిన నారద మహర్షి, వాల్మీకి మహర్షి చెప్పిన ఆ మాటలను విని, మిక్కిలి సంతోషించి, 'సావధానంగా విను' అని పలికి ఈ విధంగా చెప్పడం ప్రారంభించాడు."
-  ],
-  essence: [
-    "Narada, who travels freely across the three realms and knows everything occurring within them, is filled with joy upon hearing Valmiki's noble and profound inquiry. Instead of dismissing the request as an impossible ideal, he happily prepares to describe the one person who fulfills all sixteen virtues."
-  ],
-  meanings: [
-    "श्रुत्वा = Having heard",
-    "च = And",
-    "एतत् = This",
-    "त्रि-लोक-ज्ञः = Knower of the three worlds",
-    "वाल्मीकेः = Of Valmiki",
-    "नारदः = Sage Narada",
-    "वचः = Words / Speech",
-    "श्रूयताम् = May it be heard / Listen attentively",
-    "इति = Thus",
-    "च = And",
-    "आमन्त्र्य = Addressing / Inviting attention",
-    "प्रहृष्टः = Extremely delighted / Pleased",
-    "वाक्यम् = Words / Statement",
-    "अब्रवीत् = Spoke / Replied"
-  ],
-  grammar: [
-    "श्रूयताम् = श्रु (to listen) - भावकर्मणोः लोट्.ल. - आत्मनेपदम् - प्र.पु. - एक.व.",
-    "",
-  ],
-  notes: [
-    "This verse transitions the narrative from Valmiki's questions to Narada's answers. The title 'Trilokajnah' establishes Narada's absolute credibility to answer such an exhaustive query, as his cosmic vision extends far beyond normal human boundaries.",
-    "Narada's delight ('Prahrishtah') highlights that a true master is always overjoyed when meeting an earnest, pure-hearted seeker who asks questions aimed at the welfare and elevation of humanity."
-  ]
-},
-{
-  chapter: 1,
-  number: 7,
-  sloka: [
-    "बहवो दुर्लभाश्चैव ये त्वया कीर्तिता गुणाः |",
-    "मुने वक्ष्याम्यहं बुद्ध्वा तैर्युक्तः श्रूयतां नरः ||"
-  ],
-  sloka_tel: [
-    "బహవో దుర్లభాశ్చైవ యే త్వయా కీర్తితా గుణాః |",
-    "మునే వక్ష్యామ్యహం బుద్ధ్వా తైర్యుక్తః శ్రూయతాం నరః ||"
-  ],
-  vicheda: [
-    "बहवः दुर्लभाः च एव ये त्वया कीर्तिताः गुणाः |",
-    "मुने वक्ष्यामि अहम् बुद्ध्वा तैः युक्तः श्रूयताम् नरः ||"
-  ],
-  anvaya: [
-    "मुने!", 
-    "- त्वया ये गुणाः कीर्तिताः", 
-    "- ते बहवः दुर्लभाः च एव (सन्ति)", 
-    "अहम् बुद्ध्वा तैः युक्तं नरं वक्ष्यामि", 
-    "श्रूयताम् |"
-  ],
-  prose: [
-    "O Sage!",
-    "- Those virtues enumerated by you",
-    "- are indeed rare to find",
-    "I will tell you, having known a man endowed with those qualities",
-    "May it be heard",
-  ],
-  transl: [
-    "O Sage! The many virtues that have been enumerated by you are rare indeed to find in a single individual. However, having fully deliberated, I shall tell you of a man who is endowed with all of them; please listen."
-  ],
-  transl_tel: [
-    "ఓ మునివర్యా! నీవు అడిగిన ఈ గుణాలన్నీ ఒకే వ్యక్తిలో ఉండటం చాలా అరుదు. అయినప్పటికీ, నేను చక్కగా ఆలోచించి ఆ గుణాలన్నీ ఉన్న ఒక మహానుభావుడిని గూర్చి చెప్తాను, విను."
-  ],
-  essence: [
-    "Narada acknowledges that the sixteen extraordinary virtues Valmiki listed are exceptionally rare and almost never found together in a single human being. Yet, after internal reflection, Narada assures Valmiki that such an incomparable individual does exist, and he prepares to reveal his identity."
-  ],
-  meanings: [
-    "बहवः = Many",
-    "दुर्लभाः = Rare to find / Difficult to attain",
-    "च = And",
-    "एव = Indeed",
-    "ये = Which",
-    "त्वया = By you",
-    "कीर्तिताः = Extolled / Enumerated",
-    "गुणाः = Qualities / Virtues",
-    "मुने = O Sage (Valmiki)",
-    "वक्ष्यामि = I will tell / Speak of",
-    "अहम् = I",
-    "बुद्ध्वा = Knowing / Having deliberated thoroughly",
-    "तैः = With those (virtues)",
-    "युक्तम् = Endowed with",
-    "श्रूयताम् = Please listen",
-    "नरः = A man"
-  ],
-  grammar: [],
-  notes: [
-    "Narada’s response validates how high Valmiki’s ethical and moral standards are. Finding someone who possesses perfect strength along with perfect forgiveness, or absolute power alongside complete freedom from envy, is a philosophical paradox in ordinary mortals.",
-    "The word 'Buddha' implies that Narada scans his vast, divine memory across the timelines and worlds to pinpoint the perfect match for Valmiki's idealized checklist."
-  ]
-},
-{
-  chapter: 1,
-  number: 8,
-  sloka: [
-    "इक्ष्वाकुवंशप्रभवो रामो नाम जनैः श्रुतः |",
-    "नियतात्मा महावीर्यो द्युतिमान् धृतिमान् वशी ||"
-  ],
-  sloka_tel: [
-    "ఇక్ష్వాకువంశప్రభవో రామో నామ జనైః శ్రుతః |",
-    "నియతాత్మా మహావీర్యో ద్యుతిమాన్ ధృతిమాన్ వశీ ||"
-  ],
-  vicheda: [
-    "इक्ष्वाकु-वंश-प्रभवः रामः नाम जनैः श्रुतः |",
-    "नियत-आत्मा महा-वीर्यः द्युति-मान् धृति-मान् वशी ||"
-  ],
-  anvaya: [
-    "इक्ष्वाकुवंशप्रभवः रामः नाम जनैः श्रुतः", 
-    "नियत-आत्मा", 
-    "महा-वीर्यः", 
-    "द्युति-मान्", 
-    "धृति-मान्", 
-    "वशी |"
-  ],
-  prose: [
-    "Born in the line of King Ikshvaku, He is known to the people by the name of Rama.",
-    "self-controlled",
-    "possessed of immense prowess (valor/courage)",
-    "resplendent (brilliance)",
-    "full of fortitude",
-    "master of his senses",
-  ],
-  transl: [
-    "Born in the line of King Ikshvaku, He is known to the people by the name of Rama. He is self-controlled, possessed of immense prowess, resplendent, full of fortitude, and a master of his senses."
-  ],
-  transl_tel: [
-    "ఇక్ష్వాకు వంశంలో జన్మించి, ప్రజలచేత 'రాముడు' అని పిలవబడే మహానుభావుడు ఒకరు ఉన్నారు. ఆయన నిశ్చలమైన మనస్సు కలవాడు, మహా పరాక్రమవంతుడు, కాంతిమంతుడు, ధైర్యశాలి మరియు జితేంద్రియుడు."
-  ],
-  essence: [
-    "Narada explicitly names the subject of the epic: Sri Rama, descended from the illustrious solar dynasty of King Ikshvaku. He begins checking off Valmiki's list by highlighting Rama's disciplined mind, extraordinary physical power, radiant personality, unshakeable patience, and flawless mastery over his urges."
-  ],
-  meanings: [
-    "इक्ष्वाकु-वंश-प्रभवः = Born in the dynasty of King Ikshvaku",
-    "रामः = Rama",
-    "नाम = By name",
-    "जनैः = By the people",
-    "श्रुतः = Heard of / Renowned",
-    "नियत-आत्मा = Of disciplined mind / Self-controlled",
-    "महा-वीर्यः = Of great prowess / Mighty power",
-    "द्युति-मान् = Resplendent / Majestic look",
-    "धृति-मान् = Full of courage / Fortitude",
-    "वशी = Master of passions / Senses"
-  ],
-  grammar: [],
-  notes: [
-    "This is one of the most celebrated verses in the Ramayana as it introduces the protagonist for the first time. It directly answers the questions posed in verses 2, 3, and 4.",
-    "The attributes 'Niyatatma' and 'Vashi' underscore that Rama’s true greatness doesn't come just from his cosmic weapons or external ancestry, but from his supreme internal baseline of self-regulation."
-  ]
-},
-{
-  chapter: 1,
-  number: 9,
-  sloka: [
-    "बुद्धिमान् नीतिमान् वाग्मी श्रीमान् शत्रुनिबर्हणः |",
-    "विपुलांसो महाबाहुः कम्बुग्रीवो महाहनुः ||"
-  ],
-  sloka_tel: [
-    "బుద్ధిమాన్ నీతిమాన్ వాగ్మీ శ్రీమాన్ శత్రునిబర్హణః |",
-    "విపులాంసో మహాబాహుః కంబుగ్రీవో మహాహనుః ||"
-  ],
-  vicheda: [
-    "बुद्धि-मान् नीति-मान् वाग्मी श्री-मान् शत्रु-निबर्हणः |",
-    "विपुल-अंसः महा-बाहुः कम्बु-ग्रीवः महा-हनुः ||"
-  ],
-  anvaya: [
-    "बुद्धि-मान्", 
-    "नीति-मान्", 
-    "वाग्मी", 
-    "श्री-मान्", 
-    "शत्रु-निबर्हणः", 
-    "विपुल-अंसः", 
-    "महा-बाहुः", 
-    "कम्बु-ग्रीवः" ,
-    "महा-हनुः"
-  ],
-  prose: [
-    "highly intelligent",
-    "master of ethics",
-    "eloquent speaker",
-    "possessor of grace/auspicious aura",
-    "destroyer of enemies",
-    "has broad shoulders",
-    "has mighty arms",
-    "has a neck resembling a conch shell",
-    "strong jaw",
-  ],
-  transl: [
-    "He is highly intelligent, a master of ethics and justice, eloquent, exceptionally graceful, and the destroyer of his foes. He has broad shoulders, mighty arms, a neck resembling a conch shell, and a prominent, strong jaw."
-  ],
-  transl_tel: [
-    "ఆయన బుద్ధిమంతుడు, నీతి తెలిసినవాడు, చక్కగా మాట్లాడే నేర్పరి, శుభప్రదమైన తేజస్సు కలవాడు, శత్రువులను అణచివేసేవాడు. విశాలమైన భుజములు, పొడవైన చేతులు, శంఖము వంటి మెడ, బలమైన దవడలు కలిగిన రూపశాలి."
-  ],
-  essence: [
-    "Narada details both the intellectual capacities and physical majesty of Rama. Rama is deeply wise, legally and morally astute, an excellent speaker, prosperous, and fierce against injustice. Physically, he bears the classic bodily proportions of a great leader and warrior: powerful shoulders, long arms, an elegant neck, and a commanding jawline."
-  ],
-  meanings: [
-    "बुद्धि-मान् = Sharp-witted / Highly intelligent",
-    "नीति-मान् = Scholar of ethics / Righteous conduct",
-    "वाग्मी = Eloquent speaker",
-    "श्री-मान् = Possessed of glorious grace / Auspicious aura",
-    "शत्रु-निबर्हणः = Annihilator of enemies / Evildoers",
-    "विपुल-अंसः = Possessed of broad, strong shoulders",
-    "महा-बाहुः = Mighty-armed (reaching down to the knees)",
-    "कम्बु-ग्रीवः = Having a beautiful neck marked with three lines like a conch shell",
-    "महा-हनुः = Having a strong, handsome jaw"
-  ],
-  grammar: [],
-  notes: [
-    "This verse blends internal excellence ('Buddhiman', 'Nitiman') with the ancient Indian science of body features (*Samudrika Shastra*). A king's physical majesty was considered an outer reflection of his inner spiritual alignment.",
-    "The trait 'Shatru-nibarhanah' implies that Rama eliminates enemies, but in the context of the Ramayana, it means he destroys the malicious forces that disrupt societal harmony, rather than acting out of petty personal vengeance."
-  ]
-},
-{
-  chapter: 1,
-  number: 10,
-  sloka: [
-    "महोरस्को महेष्वासो गूढजत्रुररिन्दमः |",
-    "आजानुबाहुः सुशिराः सुललाटः सुविक्रमः ||"
-  ],
-  sloka_tel: [
-    "మహోరస్కో మహేష్వాసో గూఢజత్రురరిందమః |",
-    "ఆజానుబాహుః సుశిరాః సులలాతః సువిక్రమః ||"
-  ],
-  vicheda: [
-    "महा-उरस्कः महा-इष्वासः गूढ-जत्रुः अरिम्-दमः |",
-    "आजानु-बाहुः सु-शिराः सु-ललाटः सु-विक्रमः ||"
-  ],
-  anvaya: [
-    "महा-उरस्कः", 
-    "महा-इष्वासः", 
-    "गूढ-जत्रुः", 
-    "अरिम्-दमः",
-    "आजानु-बाहुः", 
-    "सु-शिराः", 
-    "सु-ललाटः", 
-    "सु-विक्रमः|"
-  ],
-  prose: [
-    "has a broad chest",
-    "has a massive bow",
-    "has hidden collarbones",
-    "subduer of enemies",
-    "has arms that reach down to his knees",
-    "has a beautifully shaped head",
-    "has an auspicious forehead",
-    "possessor of an ausipicious gait/valor",
-  ],
-  transl: [
-    "He has a broad, expansive chest, a massive bow, hidden collarbones, and is the tamer of his adversaries. His arms reach down to his knees; he possesses a beautifully shaped head, an auspicious forehead, and a majestic stride."
-  ],
-  transl_tel: [
-    "విశాలమైన రొమ్ము, పెద్ద ధనస్సు కలిగి, మాంసముతో కప్పబడిన జత్రువులు (collarbones) కలవాడై శత్రుమర్దనుడై ఉన్నాడు. మోకాళ్ళ వరకు వ్రేలాడే బాహువులు, అందమైన శిరస్సు, విశాలమైన లలాటము (నొసలు), మరియు పరాక్రమముతో కూడిన నడక కలవాడు."
-  ],
-  essence: [
-    "Narada continues tracing Rama’s heroic physical traits, describing his wide chest, mastery over archery, well-knit muscular frame, and long arms characteristic of great protectors. He concludes by highlighting Rama’s regal head, prominent forehead, and courageous, balanced manner of movement."
-  ],
-  meanings: [
-    "महा-उरस्कः = Possessed of a broad chest",
-    "महा-इष्वासः = Wielder of a mighty bow",
-    "गूढ-जत्रुः = Having well-fleshed, muscular collarbones",
-    "अरिम्-दमः = Subduer of enemies / Tamer of vices",
-    "आजानु-बाहुः = Having arms extending all the way to the knees",
-    "सु-शिराः = Possessed of an exquisitely shaped head",
-    "सु-ललाटः = Having a handsome, broad forehead",
-    "सु-विक्रमः = Possessed of noble valor / Auspicious gait"
-  ],
-  grammar: [],
-  notes: [
-    "The description 'Ajanubahu' (arms reaching to the knees) is widely famous across classical Indian literature to denote an extraordinary warrior capable of handling heavy weaponry with unmatched leverage and grace.",
-    "Like verse 9, these specific parameters illustrate that Rama looks every bit the ideal ruler, satisfying the deepest traditional standards of outer symmetry and inner nobility."
-  ]
-},
-{
-  chapter: 1,
-  number: 11,
-  sloka: [
-    "समः समविभक्ताङ्गः स्निग्धवर्णः प्रतापवान् |",
-    "पीनवक्षा विशालाक्षो लक्ष्मीवान् शुभलक्षणः ||"
-  ],
-  sloka_tel: [
-    "సమః సమవిభక్తాంగః స్నిగ్ధవర్ణః ప్రతాపవాన్ |",
-    "పీనవక్షా విశాలాక్షో లక్ష్మీవాన్ శుభలక్షణః ||"
-  ],
-  vicheda: [
-    "समः सम-विभक्त-अङ्गः स्निग्ध-वर्णः प्रताप-वान् |",
-    "पीन-वक्षाः विशाल-अक्षः लक्ष्मी-वान् शुभ-लक्षणः ||"
-  ],
-  anvaya: [
-    "समः", 
-    "सम-विभक्त-अङ्गः", 
-    "स्निग्ध-वर्णः", 
-    "प्रताप-वान्",
-    "पीन-वक्षाः", 
-    "विशाल-अक्षः", 
-    "लक्ष्मी-वान्", 
-    "शुभ-लक्षणः |"
-  ],
-  prose: [
-    "equanimous",
-    "has symmetrically divided limbs",
-    "has beautiful complexion",
-    "has a great valor/splendor",
-    "muscular chest",
-    "has large/wide eyes",
-    "possessor of divine beauty and prosperity",
-    "bearing highly auspiciuos marks/characteristics",
-  ],
-  transl: [
-    "He is equanimous, possesses symmetrically divided limbs, a beautiful glossy complexion, and great majesty. He has a full chest, large expressive eyes, is endowed with splendor, and bears all auspicious bodily marks."
-  ],
-  transl_tel: [
-    "ఆయన పక్షపాతం లేనివాడు, సమానంగా చక్కగా కుదిరిన అవయవములు కలవాడు, కాంతివంతమైన శరీర ఛాయ కలవాడు, ప్రతాపవంతుడు. పుష్టిన రొమ్ము, విశాలమైన నేత్రములు, శోభాయమానమైన రూపము మరియు శుభ లక్షణములు కలవాడు."
-  ],
-  essence: [
-    "Narada highlights Rama's perfect physical proportion and inner poise. His body parts are perfectly symmetrical, his skin radiates a healthy glow, his eyes are large and comforting, and he possesses a naturally majestic presence. He exhibits all the marks of a divinely blessed personality who treats everyone with an even mind."
-  ],
-  meanings: [
-    "समः = Impartial / Free from prejudice / Balanced",
-    "सम-विभक्त-अङ्गः = Having beautifully proportioned, symmetrical limbs",
-    "स्निग्ध-वर्णः = Having a pleasant, glowing complexion",
-    "प्रताप-वान् = Possessed of great valor / Splendor",
-    "पीन-वक्षाः = Having a muscular, full chest",
-    "विशाल-अक्षः = Having large, wide eyes",
-    "लक्ष्मी-वान् = Possessed of divine beauty and prosperity",
-    "शुभ-लक्षणः = Bearing highly auspicious marks / Characteristics"
-  ],
-  grammar: [],
-  notes: [
-    "The word 'Samah' is deeply significant. While contextually it points to structural bodily balance, it also refers to his mental equilibrium and fairness as a ruler.",
-    "The phrase 'Shubha-lakshanah' refers to the 32 physical signs of a supreme human being (*Mahapurusha*) recognized in ancient Indian sciences, signaling his capacity to guide society towards wellness."
-  ]
-},
-{
-  chapter: 1,
-  number: 12,
-  sloka: [
-    "धर्मज्ञः सत्यसन्धश्च प्रजानां च हिते रतः |",
-    "यशस्वी ज्ञानसम्पन्नः शुचिर्वश्यः समाधिमान् ||"
-  ],
-  sloka_tel: [
-    "ధర్మజ్ఞః సత్యసంధశ్చ ప్రజానాం చ హితే రతః |",
-    "యశస్వీ జ్ఞానసంపన్నః శుచిర్వశ్యః సమాధిమాన్ ||"
-  ],
-  vicheda: [
-    "धर्म-ज्ञः सत्य-सन्धः च प्रजानाम् च हिते रतः |",
-    "यशस्वी ज्ञान-सम्पन्नः शुचिः वश्यः समाधि-मान् ||"
-  ],
-  anvaya: [
-    "धर्म-ज्ञः", 
-    "सत्य-सन्धः", 
-    "प्रजानाम् हिते रतः",
-    "यशस्वी", 
-    "ज्ञान-सम्पन्नः", 
-    "शुचिः", 
-    "वश्यः", 
-    "समाधि-मान् |"
-  ],
-  prose: [
-    "Knower of dharma",
-    "always true to his promises",
-    "devoted to the welfare of his subjects",
-    "highly renowned/famous",
-    "endowed with supreme wisdom",
-    "pure/spotless in character",
-    "self controlled",
-    "meditative/deeply concentrated in mind",
-  ],
-  transl: [
-    "He is a knower of dharma, always true to his promises, and firmly dedicated to the welfare of his subjects. He is renowned, full of wisdom, pure in body and mind, self-controlled, and meditative."
-  ],
-  transl_tel: [
-    "ఆయన ధర్మము తెలిసినవాడు, సత్యమైన ప్రతిజ్ఞ కలవాడు, నిరంతరం ప్రజల శ్రేయస్సు కోరేవాడు. కీర్తిమంతుడు, సర్వజ్ఞాని, పవిత్రుడు, ఇంద్రియ నిగ్రహం కలవాడు మరియు ఎల్లప్పుడూ పరమాత్మ యందు మనస్సు లగ్నం చేసినవాడు."
-  ],
-  essence: [
-    "Narada shifts back to Rama's profound character traits. Rama is an absolute master of law and righteousness, never deviates from his word, and views the happiness of his citizens as his topmost duty. He is celebrated for his pure conduct, immense spiritual knowledge, and deeply focused intellect."
-  ],
-  meanings: [
-    "धर्म-ज्ञः = Knower of righteousness / Cosmic law",
-    "सत्य-सन्धः = Bound to absolute truth / Loyal to vows",
-    "च = And",
-    "प्रजानाम् = Of the subjects / People",
-    "च = And",
-    "हिते = In the welfare",
-    "रतः = Fully engaged / Devoted",
-    "यशस्वी = Highly renowned / Famous",
-    "ज्ञान-सम्पन्नः = Endowed with supreme wisdom",
-    "शुचिः = Pure / Spotless in character",
-    "वश्यः = Having full control over his own nature / Obedient to elders",
-    "समाधि-मान् = Meditative / Deeply concentrated in mind"
-  ],
-  grammar: [],
-  notes: [
-    "The phrase 'Prajanám cha hité ratah' forms the foundational core of Rama's administrative philosophy, laying the ground rules for what is culturally revered as *Ramarajya*—a governance where the king exists entirely for the welfare of the people.",
-    "By pairing 'Satyasandhah' (truthful) with 'Dharmajnah' (wise in righteousness), the verse asserts that true law is entirely hollow unless backed by personal moral integrity."
-  ]
-},
-{
-  chapter: 1,
-  number: 13,
-  sloka: [
-    "प्रजापतिसमः श्रीमान् धाता रिपुनिषूदनः |",
-    "रक्षिता जीवलोकस्य धर्मस्य परिरक्षिता ||"
-  ],
-  sloka_tel: [
-    "ప్రజాపతిసమః శ్రీమాన్ ధాతా రిపునిషూదనః |",
-    "రక్షితా జీవలోకస్య ధర్మస్య పరిరక్షితా ||"
-  ],
-  vicheda: [
-    "प्रजापति-समः श्रीमान् धाता रिपु-निषूदनः |",
-    "रक्षिता जीव-लोकस्य धर्मस्य परिरक्षिता ||"
-  ],
-  anvaya: [
-    "प्रजापति-समः", 
-    "श्रीमान्", 
-    "धाता", 
-    "रिपु-निषूदनः",
-    "जीव-लोकस्य रक्षिता", 
-    "धर्मस्य परिरक्षिता |"
-  ],
-  prose: [
-    "who is equal to Prajapati (Creator) in ruling",
-    "glorious",
-    "supporter of all",
-    "destroyer of enemies",
-    "protector of entire world of living beings",
-    "expert protector of dharma",
-  ],
-  transl: [
-    "He is equal to Prajapati (the Lord of Creation) in sustaining life, glorious, the supporter of all, and the destroyer of adversaries. He is the protector of all living beings and the steadfast guardian of righteousness."
-  ],
-  transl_tel: [
-    "ఆయన సమస్త ప్రజలను పాలించటంలో బ్రహ్మదేవునితో సమానుడు, సర్వసమర్థుడు, సకల జీవులను పోషించేవాడు మరియు శత్రువులను హరించేవాడు. ఈ జీవలోకానికి రక్షకుడు, ధర్మాన్ని కాపాడేవాడు."
-  ],
-  essence: [
-    "Rama's role as a protector is magnified here. Narada compares his nurturing and protective abilities to Prajapati, the progenitor of life. Rama actively supports the stability of the entire living world, systematically removes malicious entities, and acts as a fortress protecting universal order and justice."
-  ],
-  meanings: [
-    "प्रजापति-समः = Equal to Prajapati (the Lord of creation/subjects)",
-    "श्रीमान् = Glorious / Resplendent ruler",
-    "धाता = Sustainer / Creator / Supporter of all",
-    "रिपु-निषूदनः = Destroyer of enemies / Corrupt elements",
-    "रक्षिता = Protector / Guardian",
-    "जीव-लोकस्य = Of the entire world of living beings",
-    "धर्मस्य = Of righteousness / Eternal truth",
-    "परिरक्षिता = Explicit guardian / Safeguarder"
-  ],
-  grammar: [],
-  notes: [
-    "The dynamic relationship between 'Jivalokasya rakshita' (protecting living things) and 'Dharmasya parirakshita' (protecting values) shows a beautiful loop: protecting humanity is impossible without upholding ethical structures, and upholding ethical structures is meant specifically to preserve humanity.",
-    "The term 'Dhata' labels Rama as a stable anchor who keeps the social and cosmic fabric from unraveling."
-  ]
-},
-{
-  chapter: 1,
-  number: 14,
-  sloka: [
-    "रक्षिता स्वस्य धर्मस्य स्वजनस्य च रक्षिता |",
-    "वेदवेदाङ्गतत्त्वज्ञो धनुर्वेदे च निष्ठितः ||"
-  ],
-  sloka_tel: [
-    "రక్షితా స్వస్య ధర్మస్య స్వజనస్య చ రక్షితా |",
-    "వేదవేదాంగతత్త్వజ్ఞో ధనుర్వేదే చ నిష్ఠితః ||"
-  ],
-  vicheda: [
-    "रक्षिता स्वस्य धर्मस्य स्व-जनस्य च रक्षिता |",
-    "वेद-वेदाङ्ग-तत्त्व-ज्ञः धनुः-वेदे च निष्ठितः ||"
-  ],
-  anvaya: [
-    "स्वस्य धर्मस्य रक्षिता", 
-    "स्व-जनस्य रक्षिता",
-    "वेद-वेदाङ्ग-तत्त्व-ज्ञः", 
-    "धनुः-वेदे निष्ठितः|"
-  ],
-  prose: [
-    "protector of his own dharma (duties/righteousness)",
-    "guardian of his own people",
-    "deeply versed in the essence of Vedas and Vedangas",
-    "highly proficient in the science of archery",
-  ],
-  transl: [
-    "He is the protector of his own duties and righteousness, the guardian of his own people, deeply versed in the essence of the Vedas and their auxiliary branches, and highly proficient in the science of archery."
-  ],
-  transl_tel: [
-    "ఆయన తన స్వధర్మాన్ని కాపాడుకునేవాడు, తనను ఆశ్రయించిన ప్రజలను రక్షించేవాడు. వేదాల యొక్క, వేదాంగాల యొక్క రహస్యాలను తెలిసినవాడు మరియు ధనుర్విద్యలో తిరుగులేని నిపుణుడు."
-  ],
-  essence: [
-    "Rama balances his global duties with immediate personal and intellectual excellence. He flawlessly adheres to his own moral obligations as a prince, defends his relatives and dependents, possesses profound insight into the spiritual philosophy of the Vedas, and is thoroughly grounded in the supreme military art of weaponry."
-  ],
-  meanings: [
-    "रक्षिता = Protector",
-    "स्वस्य = His own",
-    "धर्मस्य = Of duty / Righteousness",
-    "स्व-जनस्य = Of his own people / Dependents / Kinsmen",
-    "च = And",
-    "रक्षिता = Guardian",
-    "वेद-वेदाङ्ग-तत्त्व-ज्ञः = Knower of the true essence of Vedas and Vedangas (auxiliary sciences)",
-    "धनुः-वेदे = In Dhanurveda (the science of archery/warfare)",
-    "च = And",
-    "निष्ठितः = Unflinchingly established / Proficient"
-  ],
-  grammar: [],
-  notes: [
-    "The phrase 'Svasya dharmasya rakshita' shows that Rama does not enforce morality on others while ignoring it himself; his authority comes from his absolute compliance with his own code of duties.",
-    "The juxtaposition of Vedic knowledge with mastery in archery emphasizes the ancient Indian ideal of a leader: a seamless union of spiritual wisdom (*Brahma Tejas*) and martial valor (*Kshatra Tejas*)."
-  ]
-},
-{
-  chapter: 1,
-  number: 15,
-  sloka: [
-    "सर्वशास्त्रार्थतत्त्वज्ञो स्मृतिमान् प्रतिभानवान् |",
-    "सर्वलोकप्रियः साधुरदीनात्मा विचक्षणः ||"
-  ],
-  sloka_tel: [
-    "సర్వశాస్త్రార్థతత్త్వజ్ఞో స్మృతిమాన్ ప్రతిభానవాన్ |",
-    "సర్వలోకప్రియః సాధురదీనాత్మా విచక్షణః ||"
-  ],
-  vicheda: [
-    "सर्व-शास्त्र-अर्थ-तत्त्व-ज्ञः स्मृति-मान् प्रतिभान-वान् |",
-    "सर्व-लोक-प्रियः साधुः अदीन-आत्मा विचक्षणः ||"
-  ],
-  anvaya: [
-    "सर्व-शास्त्र-अर्थ-तत्त्व-ज्ञः", 
-    "स्मृति-मान्", 
-    "प्रतिभान-वान्",
-    "सर्व-लोक-प्रियः", 
-    "साधुः", 
-    "अदीन-आत्मा", 
-    "विचक्षणः |"
-  ],
-  prose: [
-    "knower of essence of all scriptures",
-    "possesses an exceptional memory",
-    "possessor of spontaneous brilliance/imagination/wit",
-    "dear to all",
-    "gentle",
-    "has a courageous spirit",
-    "highly discerning",
-  ],
-  transl: [
-    "He understands the true import and core essence of all scriptures, possesses an exceptional memory, and is highly inventive. He is beloved by the entire world, gentle and polite, free from depression, and highly discerning."
-  ],
-  transl_tel: [
-    "ఆయన సమస్త శాస్త్రాల యొక్క అంతరార్థాన్ని గ్రహించినవాడు, అద్భుతమైన జ్ఞాపకశక్తి కలవాడు, ప్రతిభాశాలి. లోకమంతటికీ ప్రియమైనవాడు, మంచి స్వభావము కలవాడు, ధైర్యవంతుడు (కుంగిపోని మనస్తత్వము కలవాడు) మరియు వివేకవంతుడు."
-  ],
-  essence: [
-    "Narada describes Rama's outstanding mental traits. Rama grasps the deeper meaning of all sciences, possesses an unshakeable memory, and shows magnificent creative brilliance. His polite nature makes him universally loved. Furthermore, he maintains an optimistic, strong spirit even under intense hardship and executes his choices with deep analytical skill."
-  ],
-  meanings: [
-    "सर्व-शास्त्र-अर्थ-तत्त्व-ज्ञः = Knower of the true inner meaning of all branches of scriptures",
-    "स्मृति-मान् = Possessed of an exceptional memory",
-    "प्रतिभान-वान् = Possessed of spontaneous brilliance / Wit / Imagination",
-    "सर्व-लोक-प्रियः = Loved by the entire world / Dear to all",
-    "साधुः = Virtuous / Gentle / Approachable person",
-    "अदीन-आत्मा = Of an un-depressed, lofty, and courageous spirit",
-    "विचक्षणः = Highly discerning / Astute evaluator of situations"
-  ],
-  grammar: [],
-  notes: [
-    "'Adinatma' is a crucial keyword for understanding Rama's behavior throughout the epic. It denotes a mind that refuses to sink into absolute despair, self-pity, or mental weakness, even when losing his kingdom or his wife.",
-    "The quality 'Pratibhanavan' shows that Rama is not just following textbook laws mechanically; he possesses a living, dynamic intellect capable of finding creative solutions to new crises."
-  ]
-},
-{
-  chapter: 1,
-  number: 16,
-  sloka: [
-    "सर्वदाभिगतः सद्भिः समुद्र इव सिन्धुभिः |",
-    "आर्यः सर्वसमश्चैव सदैव प्रियदर्शनः ||"
-  ],
-  sloka_tel: [
-    "సర్వదాభిగతః సద్భిః సముద్ర ఇవ సింధుభిః |",
-    "ఆర్యః సర్వసమశ్చైవ సదైవ ప్రియదర్శనః ||"
-  ],
-  vicheda: [
-    "सर्वदा अभिगतः सद्भिः समुद्रः इव सिन्धुभिः |",
-    "आर्यः सर्व-समः च एव सदा एव प्रिय-दर्शनः ||"
-  ],
-  anvaya: [
-    "(सः) सिन्धुभिः समुद्रः इव सर्वदा सद्भिः अभिगतः, आर्यः सर्वसमः च एव सदा एव प्रियदर्शनः (अस्ति) ||"
-  ],
-  prose: [],
-  transl: [
-    "He is always approached by virtuous people, just as the ocean is sought by rivers. He is noble, looks upon everyone with equal eye, and is forever pleasant to behold."
-  ],
-  transl_tel: [
-    "నదులన్నీ సముద్రాన్ని చేరుకున్నట్లుగా, సత్పురుషులందరూ ఎల్లప్పుడూ ఆశ్రయించే మహానుభావుడు ఆయన. ఉత్తమ స్వభావం కలవాడు, అందరినీ సమానంగా చూసేవాడు మరియు ఎల్లప్పుడూ చూసేవారికి ఆనందాన్ని కలిగించే రూపం కలవాడు."
-  ],
-  essence: [
-    "Narada illustrates Rama's magnetic righteousness. Just as all rivers naturally flow toward the mighty ocean, good and righteous people are universally drawn to Rama for shelter and counsel. He is a nobleman in the truest sense, remains completely impartial to all, and possesses a serene countenance that brings immediate comfort to anyone who looks at him."
-  ],
-  meanings: [
-    "सर्वदा = Always / At all times",
-    "अभिगतः = Approached / Sought after for shelter",
-    "सद्भिः = By virtuous / Righteous people",
-    "समुद्रः = The ocean",
-    "इव = Just like",
-    "सिन्धुभिः = By the rivers",
-    "आर्यः = Noble / Honorable person",
-    "सर्व-समः = Equal-eyed toward all / Impartial",
-    "च = And",
-    "एव = Indeed",
-    "सदा = Always",
-    "एव = Only",
-    "प्रिय-दर्शनः = Pleasing to behold"
-  ],
-  grammar: [],
-  notes: [
-    "The comparison to the ocean (*Samudra*) is brilliant: the ocean accepts all rivers without overflowing or discriminating based on their size or purity. Similarly, Rama acts as an unshakeable baseline sanctuary for all strata of society.",
-    "The term 'Arya' does not refer to a race here, but rather to a definitive standard of conduct characterized by nobility, gentleness, and high moral integrity."
-  ]
-},
-{
-  chapter: 1,
-  number: 17,
-  sloka: [
-    "स च सर्वगुणोपेतः कौसल्यानन्दवर्धनः |",
-    "समुद्र इव गाम्भीर्ये धैर्येण हिमवानिव ||"
-  ],
-  sloka_tel: [
-    "స చ సర్వగుణోపేతః కౌసల్యానందవర్ధనః |",
-    "సముద్ర ఇవ గాంభీర్యే ధైర్యేణ హిమవానివ ||"
-  ],
-  vicheda: [
-    "सः च सर्व-गुण-उपेतः कौसल्या-आनन्द-वर्धनः |",
-    "समुद्रः इव गाम्भीर्ये धैर्येण हिमवान् इव ||"
-  ],
-  anvaya: [
-    "सर्वगुणोपेतः कौसल्यानन्दवर्धनः सः च गाम्भीर्ये समुद्रः इव धैर्येण हिमवान् इव (अस्ति) ||"
-  ],
-  prose: [],
-  transl: [
-    "Endowed with all these virtues, He enhances the joy of His mother, Kausalya. In depth of personality and serenity He is like the unfathomable ocean, and in fortitude He is like the unshakeable Himalaya mountains."
-  ],
-  transl_tel: [
-    "సమస్త ఉత్తమ గుణములు కలవాడై, తన తల్లియైన కౌసల్యకు ఆనందాన్ని పెంచేవాడు ఆయన. గాంభీర్యంలో (మనోనిశ్చలతలో) సముద్రుని వంటివాడు, ధైర్యంలో హిమవత్పర్వతం వంటివాడు."
-  ],
-  essence: [
-    "Narada introduces Rama's familial identity as the beloved son who brings immense pride and joy to Queen Kausalya. He then sets up two classic similes to define Rama's internal framework: his mind and emotional depth are as vast and calm as a deep ocean, while his courage and resilience under pressure are as immovable as the Himalayas."
-  ],
-  meanings: [
-    "सः = He (Rama)",
-    "च = And",
-    "सर्व-गुण-उपेतः = Endowed with all ideal virtues",
-    "कौसल्या-आनन्द-वर्धनः = One who increases the joy of Kausalya",
-    "समुद्रः = The ocean",
-    "इव = Like",
-    "गाम्भीर्ये = In depth of character / Gravity / Serenity",
-    "धैर्येण = In fortitude / Courage / Endurance",
-    "हिमवान् = The Himalayan mountains",
-    "इव = Like"
-  ],
-  grammar: [],
-  notes: [
-    "This verse introduces beautiful pairs of dualities managed with perfect balance. 'Gambhirya' refers to the quality of a person whose internal thoughts and emotional disturbances cannot be easily rattled from the outside, much like the hidden depths of the deep sea.",
-    "The phrase 'Kausalyananda-vardhanah' emphasizes that despite his massive cosmic and physical attributes, Rama remains first and foremost a dutiful, affectionate son whose simple presence satisfies a mother's heart."
-  ]
-},
-{
-  chapter: 1,
-  number: 18,
-  sloka: [
-    "विष्णुना सदृशो वीर्ये सोमवत्प्रियदर्शनः |",
-    "कालाग्निसदृशः क्रोधे क्षमया पृथ्वीसमः ||"
-  ],
-  sloka_tel: [
-    "విష్ణునా సదృశో వీర్యే సోమవత్ప్రియదర్శనః |",
-    "కాలాగ్నిసదృశః క్రోధే క్షమయా పృథ్వీసమః ||"
-  ],
-  vicheda: [
-    "विष्णुना सदृशः वीर्ये सोम-वत् प्रिय-दर्शनः |",
-    "काल-अग्नि-सदृशः क्रोधे क्षमया पृथ्वी-समः ||"
-  ],
-  anvaya: [
-    "(सः) वीर्ये विष्णुना सदृशः, सोमवत् प्रियदर्शनः, क्रोधे कालाग्निसदृशः, क्षमया पृथ्वीसमः (अस्ति) ||"
-  ],
-  prose: [],
-  transl: [
-    "In valor He is equal to Lord Vishnu; in pleasing appearance He is like the gentle moon. In righteous anger He is comparable to the all-consuming destructive fire at the end of time, yet in patience and forgiveness He is equal to the tolerant Earth."
-  ],
-  transl_tel: [
-    "ఆయన పరాక్రమములో విష్ణుమూర్తితో సమానుడు, చూచుటకు చంద్రుని వలె ఆహ్లాదాన్ని కలిగించేవాడు. దుష్టులపై కోపంలో ప్రళయకాలాగ్ని వంటివాడు, కానీ ఓర్పులో (క్షమాగుణంలో) భూదేవితో సమానుడు."
-  ],
-  essence: [
-    "Narada uses profound cosmic comparisons to capture Rama’s paradoxical excellence. He possesses the absolute martial power of Lord Vishnu, yet maintains the soothing, cooling charm of a full moon. While his wrath against systematic evil burns as intensely as the terminal cosmic fire, his capacity to forgive and tolerate personal slights is as infinite as Mother Earth."
-  ],
-  meanings: [
-    "विष्णुना = To Lord Vishnu",
-    "सदृशः = Equal / Comparable",
-    "वीर्ये = In prowess / Valor",
-    "सोम-वत् = Like the moon",
-    "प्रिय-दर्शनः = Soothing / Delightsome to look at",
-    "काल-अग्नि-सदृशः = Comparable to the catastrophic cosmic fire of destruction",
-    "क्रोधे = In anger / Wrath",
-    "क्षमया = In forgiveness / Tolerance / Patience",
-    "पृथ्वी-समः = Equal to the Earth"
-  ],
-  grammar: [],
-  notes: [
-    "This verse highlights the complete resolution of opposite qualities within Rama's personality. Usually, an intensely powerful warrior (*Vishnu-sadriśah*) is feared, but Rama is simultaneously loved like the moon (*Somavat*).",
-    "Similarly, balancing the extremes of 'Kalagni' (furious destructive heat) and 'Prithvi' (unconditional grounding and tolerance) demonstrates that Rama's emotional spectrum is entirely deliberate, serving justice rather than impulsive ego."
-  ]
-},
-{
-  chapter: 1,
-  number: 19,
-  sloka: [
-    "धनदेन समस्त्यागे सत्ये धर्म इवापरः |",
-    "तमेवं गुणसम्पन्नं रामं सत्यपराक्रमम् ||"
-  ],
-  sloka_tel: [
-    "ధనదేన సమస్త్యాగే సత్యే ధర్మ ఇవాపరః |",
-    "తమేవం గుణసంపన్నం రామం సత్యపరాక్రమమ్ ||"
-  ],
-  vicheda: [
-    "धन-देन समः त्यागे सत्ये धर्मः इव अपरः |",
-    "तम् एवम् गुण-सम्पन्नम् रामम् सत्य-पराक्रमम् ||"
-  ],
-  anvaya: [
-    "(यः) त्यागे धनदेन समः, सत्ये अपरः धर्मः इव (अस्ति), एवम् गुणसम्पन्नं सत्यपराक्रमं तम् रामम्... ||"
-  ],
-  prose: [],
-  transl: [
-    "In charity and generosity He is equal to Kubera (the god of wealth); in truthfulness He is like another personification of Dharma itself. To such a Rama, who is endowed with these sublime qualities and whose prowess is rooted in truth..."
-  ],
-  transl_tel: [
-    "దానగుణంలో ఆయన కుబేరునితో సమానుడు, సత్యపాలనలో సాక్షాత్తు ధర్మదేవతయే మరొక రూపంలో అవతరించినట్లు ఉంటాడు. ఇటువంటి సద్గుణములు కలిగి, సత్యమైన పరాక్రమము గల ఆ రాముడిని..."
-  ],
-  essence: [
-    "Narada completes his immediate profiling of Rama by comparing his philanthropy to Kubera, meaning his generosity knows no bounds. In his alignment with absolute truth, Rama appears as if Dharma (the cosmic principle of justice) has walked down to earth in human skin. This verse sets up the grand narrative transition by summarizing Rama's virtues."
-  ],
-  meanings: [
-    "धन-देन = With Kubera (the bestower of wealth)",
-    "समः = Equal",
-    "त्यागे = In charity / Renunciation / Generosity",
-    "सत्ये = In truthfulness",
-    "धर्मः = Dharma (righteousness personified)",
-    "इव = Like",
-    "अपरः = Another / A second",
-    "तम् = Him",
-    "एवम् = In this manner",
-    "गुण-सम्पन्नम् = Richly endowed with virtues",
-    "रामम् = Rama",
-    "सत्य-पराक्रमम् = One whose power and valor are always backed by truth"
-  ],
-  grammar: [],
-  notes: [
-    "The compound 'Satya-parakramam' is one of the foundational epithets used for Rama throughout the epic. It establishes that his power is never abusive or deceptive; his strength exists exclusively to fulfill and defend reality and promises.",
-    "This verse uses an unfinished grammar link (*Tam* - 'to Him...'), which runs seamlessly directly into the next verse to describe the actions taken by King Dasharatha regarding Rama's future."
-  ]
-},
-{
-  chapter: 1,
-  number: 20,
-  sloka: [
-    "ज्येष्ठं श्रेष्ठगुणैर्युक्तं प्रियं दशरथः सुतम् |",
-    "प्रकृतीనాం हितैर्युक्तं प्रकृतिप्रियकाम्यया ||"
-  ],
-  sloka_tel: [
-    "జ్యేష్ఠం శ్రేష్ఠగుణైర్యుక్తం ప్రియం దశరథః సుతమ్ |",
-    "ప్రకృతీనాం హితైర్యుక్తం ప్రకృతిప్రియకామ్యయా ||"
-  ],
-  vicheda: [
-    "ज्येष्ठम् श्रेष्ठ-गुणैः युक्तम् प्रियम् दशरथः सुतम् |",
-    "प्रकृतीनाम् हितैः युक्तम् प्रकृति-प्रिय-काम्यया ||"
-  ],
-  anvaya: [
-    "दशरथः श्रेष्ठगुणैः युक्तं प्रकृतीनां हितैः युक्तं प्रियं ज्येष्ठम् सुतम् रामम् प्रकृतिप्रियकाम्यయా... ||"
-  ],
-  prose: [],
-  transl: [
-    "...King Dasharatha, out of an earnest desire to ensure the affection and welfare of his citizens, wished to crown his beloved eldest son Rama, who possessed preeminent virtues and was deeply devoted to the welfare of the people."
-  ],
-  transl_tel: [
-    "ఉత్తమ గుణములు కలవాడు, ప్రజల శ్రేయస్సు కోరేవాడు, తన ప్రియమైన పెద్ద కుమారుడు అయిన రామునిపై గల ప్రేమతో, ప్రజలకు మేలు చేయాలనే కోరికతో దశరథ మహారాజు..."
-  ],
-  essence: [
-    "Picking up from the previous verse, Narada moves into the actual history of Ayodhya. King Dasharatha, recognizing that his eldest and dearest son Rama possesses unmatched attributes and works tirelessly for the collective good, decides to initiate his coronation as the crown prince (*Yuvaraja*) purely to delight and bless his subjects."
-  ],
-  meanings: [
-    "ज्येष्ठम् = The eldest",
-    "श्रेष्ठ-गुणैः = With superlative / Preeminent virtues",
-    "युक्तम् = Endowed",
-    "प्रियम् = Beloved / Dear",
-    "दशरथः = King Dasharatha",
-    "सुतम् = Son",
-    "प्रकृतीनाम् = Of the citizens / Subjects / State elements",
-    "हितैः = With the welfare / Well-being",
-    "युक्तम् = Associated / Intently engaged",
-    "प्रकृति-प्रिय-काम्यया = With a desire to secure the affection and pleasure of the citizens"
-  ],
-  grammar: [],
-  notes: [
-    "The term 'Prakriti' has multiple meanings in Sanskrit; here it explicitly stands for the citizens, the cabinet, and the organic elements of the state. Dasharatha's choice to crown Rama is presented as a democratic reaction to what the people naturally want, rather than a forced, dynastic imposition.",
-    "This verse opens up the initial plot point of the actual story—the planning of the coronation, which triggers the events leading up to the exile."
-  ]
-},
-{
-  chapter: 1,
-  number: 21,
-  sloka: [
-    "यौवराज्येन संयोक्तुमैच्छत्प्रीत्या महीपतिः |",
-    "तस्याभिषेकसम्भारान् दृष्ट्वा भार्याथ कैकयी ||"
-  ],
-  sloka_tel: [
-    "యౌవరాజ్యేన సంయోక్తుమైచ్ఛత్ప్రీత్యా మహీపతిః |",
-    "తస్యాభిషేకసంభారాన్ దృష్ట్వా భార్యాథ కైకయీ ||"
-  ],
-  vicheda: [
-    "यौवराज्येन संयोक्तुम् ऐच्छत् प्रीत्या मही-पतिः |",
-    "तस्य अभिषेक-सम्भारान् दृष्ट्वा भार्या अथ कैकयी ||"
-  ],
-  anvaya: [
-    "महीपतिः प्रीत्या यौवराज्येन संयोक्तुम् ऐच्छत्, अथ तस्य अभिषेकसम्भारान् दृष्ट्वा भार्या कैकयी... ||"
-  ],
-  prose: [],
-  transl: [
-    "The lord of the earth (King Dasharatha), out of deep affection, desired to invest Him with the position of crown prince. Thereafter, seeing the preparations arranged for that coronation, his wife Kaikeyi..."
-  ],
-  transl_tel: [
-    "మహారాజైన దశరథుడు ఎంతో ప్రేమతో రామునికి యువరాజ పట్టాభిషేకం చేయాలని నిశ్చయించాడు. ఆ పట్టాభిషేకానికి జరుగుతున్న వైభవవంతమైన ఏర్పాట్లను చూసి, ఆయన భార్యయైన కైకేయి..."
-  ],
-  essence: [
-    "This verse seamlessly carries forward the thought from the previous slokas. King Dasharatha officially moves forward with his heart's desire to install Rama as the crown prince. However, upon witnessing the grand ceremonial items and materials accumulating for the festive event, his queen Kaikeyi steps into the narrative arc."
-  ],
-  meanings: [
-    "यौवराज्येन = With the status of crown prince (Yuvaraja)",
-    "संयोक्तुम् = To join / Invest with",
-    "ऐच्छत् = Desired / Wished",
-    "प्रीत्या = Out of deep affection / Love",
-    "मही-पतिः = Lord of the earth / King Dasharatha",
-    "तस्य = His (Rama's)",
-    "अभिषेक-सम्भारान् = Preparations / Paraphernalia for the coronation ritual",
-    "दृष्ट्वा = Having seen",
-    "भार्या = Wife",
-    "अथ = Thereafter / Then",
-    "कैकयी = Queen Kaikeyi"
-  ],
-  grammar: [],
-  notes: [
-    "This verse represents the precise tipping point of the Ayodhya Kanda's backstory. It introduces the sudden visual contrast of the grand celebratory arrangements (*Abhisheka-sambharan*) turning into a catalyst for conflict.",
-    "The grammar here remains linked in suspension with the following verse to outline Kaikeyi's subsequent actions."
-  ]
-},
-{
-  chapter: 1,
-  number: 22,
-  sloka: [
-    "पूर्वं दत्तवरा देवी वरमेनं अयाचत |",
-    "विवासनं च रामस्य भरतस्याभिषेचनम् ||"
-  ],
-  sloka_tel: [
-    "పూర్వం దత్తవరా దేవీ వరమేనం అయాచత |",
-    "వివాసనం చ రామస్య భరతస్యాభిషేచనం ||"
-  ],
-  vicheda: [
-    "पूर्वम् दत्त-वरा देवी वरम् एनम् अयाचत |",
-    "विवासनम् च रामस्य भरतस्य अभिषेचनम् ||"
-  ],
-  anvaya: [
-    "पूर्वम् दत्तवरा देवी कैकयी रामस्य विवासनं भरतस्य अभिषेचनम् च (इति) एनम् वरम् अयाचत ||"
-  ],
-  prose: [],
-  transl: [
-    "Queen Kaikeyi, to whom boons had been promised in the past, demanded those boons from the king: namely, the exile of Rama to the forest and the coronation of her own son, Bharata."
-  ],
-  transl_tel: [
-    "గతంలో దశరథుడి చేత వరాలు పొంది ఉన్న కైకేయీ దేవి, రాముడిని అడవులకు పంపడం (వివాసనం), తన కుమారుడైన భరతుడికి పట్టాభిషేకం చేయడం అనే ఈ రెండు వరాలను కోరింది."
-  ],
-  essence: [
-    "Narada details Kaikeyi's direct intervention. Activating two ancient promises (boons) given to her by Dasharatha for saving his life on an old battlefield, she asks for two specific things: Rama must be exiled to the dangerous forests for fourteen years, and her own son Bharata must be crowned king instead."
-  ],
-  meanings: [
-    "पूर्वम् = In the past",
-    "दत्त-वरा = One to whom boons had been granted",
-    "देवी = The queen (Kaikeyi)",
-    "वरम् = Boon / Choice",
-    "एनम् = This",
-    "अयाचत = Begged / Demanded",
-    "विवासनम् = Exile / Banishment",
-    "च = And",
-    "रामस्य = Of Rama",
-    "भरतस्य = Of Bharata",
-    "अभिषेचनम् = Coronation / Anointment"
-  ],
-  grammar: [],
-  notes: [
-    "The compound 'Datta-vara' highlights that Dasharatha was already bound by his moral word before this crisis occurred, leaving him legally and ethically trapped by his devotion to truth (*Satya*).",
-    "This verse summarizes the core crisis that alters the destiny of all the characters, shifting the epic from a palace chronicle to an expansive forest journey."
-  ]
-},
-{
-  chapter: 1,
-  number: 23,
-  sloka: [
-    "स सत्यवचनात् राजा धर्मपाशेन संयतः |",
-    "विवासयामास सुतं रामं दशरथः प्रियम् ||"
-  ],
-  sloka_tel: [
-    "స సత్యవచనాత్ రాజా ధర్మపాశేన సంయతః |",
-    "వివాసయామాస సుతం రామం దశరథః ప్రియమ్ ||"
-  ],
-  vicheda: [
-    "सः सत्य-वचनात् राजा धर्म-पाशेन संयतः |",
-    "विवासयामास सुतम् रामम् दशरथः प्रियम् ||"
-  ],
-  anvaya: [
-    "सः राजा दशरथः सत्यवचनात् धर्मपाशेन संयतः (सन्), प्रियं सुतं रामं विवासयामास ||"
-  ],
-  prose: [],
-  transl: [
-    "Bound by the unyielding bond of righteousness to keep his spoken word, that King Dasharatha banished his deeply beloved eldest son Rama."
-  ],
-  transl_tel: [
-    "ఆ దశరథ మహారాజు తాను ఇచ్చిన మాటకు కట్టుబడి, ధర్మపాశము చేత బంధించబడినవాడై, తనకెంతో ప్రియమైన కుమారుడైన రాముడిని అడవులకు పంపించాడు."
-  ],
-  essence: [
-    "Narada explains Dasharatha's painful predicament. Bound firmly by the strict chords of duty and his absolute commitment to stay truthful to his promises (*Dharma-pasha*), the heartbroken king has no choice but to order the exile of his dearest son, prioritizing cosmic righteousness over his own paternal love."
-  ],
-  meanings: [
-    "सः = That",
-    "सत्य-वचनात् = On account of his truthful word / Promise",
-    "राजा = The king",
-    "धर्म-पाशेन = By the noose / Shackle of righteousness",
-    "संयतः = Bound / Restrained / Controlled",
-    "विवासयामास = Banished / Exiled",
-    "सुतम् = Son",
-    "रामम् = Rama",
-    "दशrathः = King Dasharatha",
-    "प्रियम् = Beloved"
-  ],
-  grammar: [],
-  notes: [
-    "The metaphor 'Dharma-pasha' (the cord of righteousness) shows that Dasharatha did not exile Rama out of weakness toward Kaikeyi, but out of an unbending compliance with truth. Breaking a promise would destroy the integrity of his entire kingdom's moral framework."
-  ]
-},
-{
-  chapter: 1,
-  number: 24,
-  sloka: [
-    "स जगाम वनं वीरः प्रतिज्ञामनुपालयन् |",
-    "पितुर्वचननिर्देशात् कैकेय्याः प्रियकारणात् ||"
-  ],
-  sloka_tel: [
-    "స జగామ వనం వీరః ప్రతిజ్ఞామనుపాలయన్ |",
-    "పితుర్వచననిర్దేశాత్ కైకేయ్యాః ప్రియకారణాత్ ||"
-  ],
-  vicheda: [
-    "सः जगाम वनम् वीरः प्रतिज्ञाम अनुपालयन् |",
-    "पितुः वचन-निर्देशात् कैकेय्याः प्रिय-कारणात् ||"
-  ],
-  anvaya: [
-    "सः वीरः पितुः वचननिर्देशात् कैकेय्याः प्रियकारणात् च प्रतिज्ञाम् अनुपालयन् वनं जगाम ||"
-  ],
-  prose: [],
-  transl: [
-    "That heroic Rama departed for the forest, faithfully executing the vow to honor his father's command and to ensure that the desire of Kaikeyi was fully gratified."
-  ],
-  transl_tel: [
-    "ఆ పరాక్రమవంతుడైన రాముడు తన తండ్రి ఆజ్ఞను పాలిస్తూ, కైకేయికి ఇష్టమైనది చేయడం కోసం, తండ్రి మాట నిలబెట్టే ప్రతిజ్ఞతో అరణ్యమునకు వెళ్ళాడు."
-  ],
-  essence: [
-    "Rama accepts the decree with absolute calmness and grace. Demonstrating true heroism, he leaves for the wild forest to protect his father's honor, keep the king's promise valid, and satisfy his stepmother Kaikeyi's wishes, without harboring any anger or resentment."
-  ],
-  meanings: [
-    "सः = He (Rama)",
-    "जगाम = Went / Departed",
-    "वनम् = To the forest",
-    "वीरः = The hero / Brave one",
-    "प्रतिज्ञाम् = Promise / Vow",
-    "अनुपालयन् = Protecting / Complying with",
-    "पितुः = Of the father",
-    "वचन-निर्देशात् = According to the explicit instruction of the word",
-    "कैकेय्याः = Of Kaikeyi",
-    "प्रिय-कारणात् = For the purpose of pleasing / Gratifying"
-  ],
-  grammar: [],
-  notes: [
-    "This verse defines Rama's core identity as 'Pitri-vakya-paripalaka' (the protector of the father's word). His heroism (*Virah*) here is not displayed through fighting, but through his immense emotional strength and radical compliance with ethical codes."
-  ]
-},
-{
-  chapter: 1,
-  number: 25,
-  sloka: [
-    "तं व्रजन्तं प्रियो भ्राता लक्ष्मणोऽनुजगाम ह |",
-    "स्नेहाद्विनयसम्पन्नः सुमित्रानन्दवर्धनः ||"
-  ],
-  sloka_tel: [
-    "తం వ్రజంతం ప్రియో భ్రాతా లక్ష్మణోఽనుజగామ హ |",
-    "స్నేహాద్వినయసంపన్నః సుమిత్రానందవర్ధనః ||"
-  ],
-  vicheda: [
-    "तम् व्रजन्तम् प्रियः भ्राता लक्ष्मणः अनुजगाम ह |",
-    "स्नेहात् विनय-सम्पन्नः सुमित्रा-आनन्द-वर्धनः ||"
-  ],
-  anvaya: [
-    "व्रजन्तं तम् विनयसम्पन्नः सुमित्रानन्दवर्धनः प्रियः भ्राता लक्ष्मणः स्नेहात् अनुजगाम ह ||"
-  ],
-  prose: [],
-  transl: [
-    "As He was departing, His beloved brother Lakshmana—endowed with absolute humility and who enhances the happiness of his mother Sumitra—followed Him out of pure, deep affection."
-  ],
-  transl_tel: [
-    "అడవికి వెళ్తున్న ఆ రాముడిని అనుసరిస్తూ, వినయ సంపన్నుడు, సుమిత్రకు ఆనందాన్ని పెంచేవాడు అయిన ఆయన ప్రియసహోదరుడు లక్ష్మణుడు కేవలం స్నేహపూర్వక అనురాగంతో కూడా వెళ్ళాడు."
-  ],
-  essence: [
-    "Rama is not left to face the wilderness entirely alone. His younger brother Lakshmana, an embodiment of modesty and affection, refuses to stay behind in luxury. Out of profound love and devotion, he walks out of the palace to serve and protect Rama throughout his exile."
-  ],
-  meanings: [
-    "तम् = Him (Rama)",
-    "व्रजन्तम् = While departing / Walking away",
-    "प्रियः = Beloved",
-    "भ्राता = Brother",
-    "लक्ष्मणः = Lakshmana",
-    "अनुजगाम = Followed",
-    "ह = Indeed (historical emphasis)",
-    "स्नेहात् = Out of deep love / Affection",
-    "विनय-सम्पन्नः = Richly endowed with humility / Modesty",
-    "सुमित्रा-आनन्द-वर्धनः = One who increases the joy of Sumitra"
-  ],
-  grammar: [],
-  notes: [
-    "The bond between Rama and Lakshmana established here highlights the highest ideal of fraternal loyalty. Lakshmana's exile is entirely voluntary, driven completely by personal choice and love (*Snehát*)."
-  ]
-},
-{
-  chapter: 1,
-  number: 26,
-  sloka: [
-    "भ्रातरं दयितो भ्रातुः सौभ्रात्रमनुदर्शयन् |",
-    "रामस्य दयिता भार्या नित्यं प्राणसमा हिता ||"
-  ],
-  sloka_tel: [
-    "భ్రాతరం దయితా భ్రాతుః సౌభ్రాత్రమనుదర్శయన్ |",
-    "రామస్య దయితా భార్యా నిత్యం ప్రాణసమా హితా ||"
-  ],
-  vicheda: [
-    "भ्रातरम् दयितः भ्रातुः सौభ्रात्रम् अनुदर्शयन् |",
-    "रामस्य दयिता भार्या नित्यम् प्राण-समा हिता ||"
-  ],
-  anvaya: [
-    "भ्रातुः दयितः (लक्ष्मणः) सौभ्रात्रम् अनुदर्शयन् भ्रातरं (रामम् अनुजगाम). रामस्य नित्यम् प्रिया प्राणसमा हिता भार्या... ||"
-  ],
-  prose: [],
-  transl: [
-    "...Demonstrating the highest standard of brotherly love toward his adored sibling. Rama's beloved wife, who was ever matching His life-breath itself and always devoted to His welfare..."
-  ],
-  transl_tel: [
-    "తన అన్నపై గల నిరుపమానమైన సోదరప్రేమను చాటుకుంటూ లక్ష్మణుడు వెళ్ళాడు. అలాగే రాముడికి నిరంతరం ప్రియమైనది, ఆయన ప్రాణంతో సమానమైనది, ఆయన హితాన్ని కోరే భార్య..."
-  ],
-  essence: [
-    "Narada completes the picture of Lakshmana's fraternal dedication and shifts directly to introduce Sita. Sita is described as Rama's cherished soulmate, whose life matches his own in perfect harmony, and who constantly acts for his absolute welfare."
-  ],
-  meanings: [
-    "भ्रातरम् = Brother (Rama)",
-    "दयितः = Beloved / Dearly loving",
-    "भ्रातुः = Toward his brother",
-    "सौभ्रात्रम् = Good brotherly qualities / Ideal fraternity",
-    "अनुदर्शयन् = Exhibiting / Manifesting clearly",
-    "रामस्य = Of Rama",
-    "दयिता = Beloved / Dear",
-    "भार्या = Wife (Sita)",
-    "नित्यम् = Always / Eternally",
-    "प्राण-समा = Equal to his very life-breath",
-    "हिता = Intently acting for his welfare"
-  ],
-  grammar: [],
-  notes: [
-    "This verse acts as a bridge. The first half concludes Lakshmana's motives, while the second half initiates a beautiful description of Sita, leading directly into verse 27."
-  ]
-},
-{
-  chapter: 1,
-  number: 27,
-  sloka: [
-    "जनकस्य कुले जाता देवमायेव निर्मिता |",
-    "सर्वलक्षणसम्पन्ना नारीणामुत्तमा वधूः ||"
-  ],
-  sloka_tel: [
-    "జనకస్య కులే జాతా దేవమాయేవ నిర్మితా |",
-    "సర్వలక్షణసంపన్నా నారీణాముత్తమా వధూః ||"
-  ],
-  vicheda: [
-    "जनकस्य कुले जाता देव-माया इव निर्मिता |",
-    "सर्व-लक्षण-सम्पन्ना नारीणाम् उत्तमा वधूः ||"
-  ],
-  anvaya: [
-    "जनकस्य कुले जाता, देवमाया इव निर्मिता, सर्वलक्षणसम्पन्ना नारीणाम् उत्तमा वधूः (सीता च)... ||"
-  ],
-  prose: [],
-  transl: [
-    "...Born in the noble family of King Janaka, appearing as if she were an embodiment of divine enchantment, endowed with every auspicious feature, and the foremost among all virtuous women, that bride Sita..."
-  ],
-  transl_tel: [
-    "జనక మహారాజు వంశంలో జన్మించినది, దైవికమైన మాయాశక్తి వలె అద్భుతంగా సృష్టించబడినది, సర్వశుభలక్షణములు కలిగినది, నారీమణులలో అత్యంత ఉత్తమురాలైన ఆ వధువు సీతాదేవి..."
-  ],
-  essence: [
-    "Narada introduces Sita with deep reverence. Born in the spiritually advanced lineage of King Janaka, her beauty and grace are so extraordinary that she looks like a masterwork of divine creation. She bears every perfect physical and moral sign and stands out as the finest example among women."
-  ],
-  meanings: [
-    "जनकस्य = Of King Janaka",
-    "कुले = In the family / Lineage",
-    "जाता = Born",
-    "देव-माया = Divine enchantment / Cosmic power",
-    "इव = Like",
-    "निर्मिता = Created / Fashioned",
-    "सर्व-लक्षण-सम्पन्ना = Perfect with all ideal attributes and features",
-    "नारीणाम् = Among women",
-    "उत्तमा = The highest / Foremost",
-    "वधूः = Daughter-in-law / Bride / Wife"
-  ],
-  grammar: [],
-  notes: [
-    "The comparison 'Deva-maya iva nirmita' hints at Sita's cosmic origin as Goddess Lakshmi, while 'Narinam uttama' anchors her status as the benchmark of moral strength and feminine dignity in the epic canvas."
-  ]
-},
-{
-  chapter: 1,
-  number: 28,
-  sloka: [
-    "सीताप्यनुगता रामं शशिनं रोहिणी यथा |",
-    "पौरैरनुगतो दूरं पित्रा दशरथेन च ||"
-  ],
-  sloka_tel: [
-    "సీతాప్యనుగతా రామం శశినం రోహిణీ యథా |",
-    "పౌరైరనులతో దూరం పిత్రా దశరథేన చ ||"
-  ],
-  vicheda: [
-    "सीता अपि अनुगता रामम् शशिनम् रोहिणी यथा |",
-    "पौरैः अनुगतः दूरम् पित्रा दशरथेन च ||"
-  ],
-  anvaya: [
-    "रोहिणी शशिनं यथा, सीता अपि रामम् अनुगता. (सः रामः) पौरैः पित्रा दशरथेन च दूरम् अनुगतः ||"
-  ],
-  prose: [],
-  transl: [
-    "...Sita too accompanied Rama, just as the constellation Rohini ever accompanies the Moon. Rama was followed for a great distance by the weeping citizens and by his heartbroken father, King Dasharatha."
-  ],
-  transl_tel: [
-    "చంద్రుడిని రోహిణీ దేవి అనుసరించినట్లుగా, సీతాదేవి కూడా రాముడి వెంట వెళ్ళింది. ఆ సమయంలో పురప్రజలు, తండ్రి అయిన దశరథుడు కూడా వారి వెనుక చాలా దూరం వరకు అనుసరిస్తూ వెళ్ళారు."
-  ],
-  essence: [
-    "Sita joins Rama's exile automatically, a union as natural and unalterable as the star Rohini staying with the Moon in the night sky. As the trio walks away from Ayodhya, the grief-stricken citizens and King Dasharatha follow them for miles, unable to easily detach themselves from Rama."
-  ],
-  meanings: [
-    "सीता = Sita",
-    "अपि = Also",
-    "अनुगता = Accompanied / Followed",
-    "रामम् = Rama",
-    "शशिनम् = The moon",
-    "रोहिणी = The star constellation Rohini",
-    "यथा = Just as",
-    "पौरैः = By the citizens / Townsfolk",
-    "अनुगतः = Followed",
-    "दूरम् = To a great distance",
-    "पित्रा = By the father",
-    "दशरथेन = By Dasharatha",
-    "च = And"
-  ],
-  grammar: [],
-  notes: [
-    "The moon-and-star simile emphasizes that Sita's place is fundamentally next to Rama, irrespective of whether he resides in a gilded palace or a rough forest clearing. The citizens' tracking behind them demonstrates the deep democratic love Rama commanded."
-  ]
-},
-{
-  chapter: 1,
-  number: 29,
-  sloka: [
-    "शृङ्गीवेरपुरे सूतं गङ्गाकूले व्यसर्जयत् |",
-    "गुहमासाद्य धर्मात्मा निषादाधिपतिं प्रियम् ||"
-  ],
-  sloka_tel: [
-    "శృంగివేరపురే సూతం గంగాకూలే వ్యసర్జయత్ |",
-    "గుహమాసాద్య ధర్మాత్మా నిషాదాధిపతిం ప్రియమ్ ||"
-  ],
-  vicheda: [
-    "शृङ्गीवेर-पुरे सूतम् गङ्गा-कूले व्यसर्जयत् |",
-    "गुहम् आसाद्य धर्म-आत्मा निषाद-अधिपतिम् प्रियम् ||"
-  ],
-  anvaya: [
-    "धर्मात्मा (सः रामः) गङ्गाकूले शृङ्गीवेरपुरे प्रियम् निषादाधिपतिं गुहम् आसाद्य सूतं व्यसर्जयत् ||"
-  ],
-  prose: [],
-  transl: [
-    "Reaching the town of Shringiverapura on the banks of the holy river Ganga, the righteous Rama met his dear friend Guha, the king of the Nishadas, and sent back his charioteer Sumantra."
-  ],
-  transl_tel: [
-    "ధర్మాత్ముడైన రాముడు గంగానది తీరంలో ఉన్న శృంగివేరపురానికి చేరుకుని, అక్కడ తన ప్రియమిత్రుడు, బోయలకు రాజు (నిషాదాధిపతి) అయిన గుహుడిని కలుసుకుని, తన రథసారథియైన సుమంత్రుడిని వెనక్కు పంపివేశాడు."
-  ], 
-  essence: [
-    "The exile journey hits its first major geographic milestone. Arriving at Shringiverapura along the banks of the Ganges, the righteous Rama meets his loyal friend Guha, a tribal king. At this boundary, Rama decides to officially dismiss the royal chariot and sends the charioteer Sumantra back to the capital."
-  ],
-  meanings: [
-    "शृङ्गीवेर-पुरे = In the town of Shringiverapura",
-    "सूतम् = The charioteer (Sumantra)",
-    "गङ्गा-कूले = On the bank of the river Ganga",
-    "व्यसर्जयत् = Sent back / Dismissed",
-    "गुहम् = Guha",
-    "आसाद्य = Having approached / Met",
-    "धर्म-आत्मा = The righteous-souled one (Rama)",
-    "निषाद-अधिपतिम् = The king of the hunter tribes (Nishadas)",
-    "प्रियम् = Dear / Beloved"
-  ],
-  grammar: [],
-  notes: [
-    "By dismissing the chariot and driver, Rama formally transitions from a prince on a journey to an ascetic practicing complete forest exile. His deep intimacy with Guha breaks all social stratification, highlighting his universal accessibility."
-  ]
-},
-{
-  chapter: 1,
-  number: 30,
-  sloka: [
-    "गुहेन सहितो रामो लक्ष्मणेन च सीतया |",
-    "तेन वनेन वनं गत्वा नदीस्तीर्त्वा बहूदकाः ||"
-  ],
-  sloka_tel: [
-    "గుహేన సహితో రామో లక్ష్మణేన చ సీతయా |",
-    "తేన వనేన వనం గత్వా నదీస్తీర్త్వా బహూదకాః ||"
-  ],
-  vicheda: [
-    "गुहेन सहितः रामः लक्ष्मणेन च सीतया |",
-    "तेन वनेन वनम् गत्वा नदीः तीर्त्वा बहु-उदकाः ||"
-  ],
-  anvaya: [
-    "लक्ष्मणेन सीतया च सहितः रामः गुहेन (नावानीतेन) बहूदकाः नदीः तीर्त्वा, तेन वनेन वनं गत्वा... ||"
-  ],
-  prose: [],
-  transl: [
-    "Accompanied by Lakshmana and Sita, and aided by Guha, Rama crossed deep, wide rivers flowing with copious waters, moving steadily from one dense forest to another..."
-  ],
-  transl_tel: [
-    "సీతాలక్ష్మణులతో కూడిన రాముడు, గుహుడి సహాయంతో ఎక్కువ నీరున్న నదులను దాటి, ఆయా అడవుల గుండా ఒక వనము నుండి మరొక వనమునకు ప్రయాణమయ్యాడు."
-  ],
-  essence: [
-    "With the assistance of Guha (who provides boats and guidance), Rama, Sita, and Lakshmana cross the deep, wide waters of the sacred Ganges. They push deeper into the wilderness, moving systematically from one forest zone into another as their journey advances."
-  ],
-  meanings: [
-    "गुहेन = By / With the help of Guha",
-    "सहितः = Accompanied by / Together with",
-    "रामः = Rama",
-    "लक्ष्मणेन = With Lakshmana",
-    "च = And",
-    "सीतया = With Sita",
-    "तेन = Through that",
-    "वनेन = Through the forest paths",
-    "वनम् = Deep forest interior",
-    "गत्वा = Having gone",
-    "नदीः = Rivers",
-    "तीर्त्वा = Having crossed over",
-    "बहु-उदकाः = Possessing vast quantities of water / Deep and wide"
-  ],
-  grammar: [],
-  notes: [
-    "This verse captures the physical reality of the exile. Crossing 'Bahu-dakah' (deep rivers) marks their definitive detachment from civil infrastructure, transitioning fully into the rugged terrain of nature.",
-    "The sentence structure continues directly into the next verse to pinpoint their next historical sanctuary."
-  ]
-},
-{
+  {
+    chapter: 1,
+    number: 5,
+    sloka: [
+      "एतदिच्छाम्यहं श्रोतुं परं कौतूहलं हि मे |",
+      "महर्षे त्वं समर्थोऽसि ज्ञातुमेवंविधं नरम् ||"
+    ],
+    sloka_tel: [
+      "ఏతదిచ్ఛామ్యహం శ్రోతుం పరం కౌతూహలం హి మే |",
+      "మహర్షే త్వం సమర్థోఽసి జ్ఞాతుమేవంవిధం నరమ్ ||"
+    ],
+    vicheda: [
+      "एतत् इच्छामि अहम् श्रोतुम् परम् कौतूहलम् हि मे |",
+      "महर्षे त्वम् समर्थः असि ज्ञातुम् एवम्-विधम् नरम् ||"
+    ],
+    anvaya: [
+      "(हे) महर्षे!",
+      "अहम् एतत् श्रोतुम् इच्छामि",
+      "मे परं कौतूहलं हि अस्ति",
+      "त्वम् एवंविधं नरं ज्ञातुम् समर्थः असि ||"
+    ],
+    prose: [
+      "O Great Sage!",
+      "I desire to hear about such a person",
+      "for my curiosity is immense.",
+      "You are capable of knowing a man endowed with such extraordinary qualities."
+    ],
+    transl: [
+      "O Great Sage! I desire to hear about such a person, for my curiosity is immense. You are capable of knowing a man endowed with such extraordinary qualities."
+    ],
+    transl_tel: [
+      "ఓ మహర్షీ! ఇలాంటి గుణములు కలవాని గూర్చి వినాలని నాకు అత్యంత కుతూహలంగా ఉన్నది. ఈ విధమైన నరుడిని గురించి తెలుసుకొనుటకు నీవు సమర్థుడవు."
+    ],
+    essence: [
+      "Having listed all sixteen ideal virtues, Valmiki expresses his intense eagerness to learn if such a perfect individual actually exists on Earth. He appeals to Narada's omniscience, stating that a master sage of his spiritual stature is uniquely qualified to know of a human being who embodies all these diverse characteristics simultaneously."
+    ],
+    meanings: [
+      "एतत् = This (about such a person)",
+      "इच्छामि = I desire / Wish",
+      "अहम् = I",
+      "श्रोतुम् = To hear",
+      "परम् = Great / Intense",
+      "कौतूहलम् = Curiosity / Eagerness",
+      "हि = Indeed / Surely",
+      "मे = To me / My",
+      "महर्षे = O Great Sage (Narada)",
+      "त्वम् = You",
+      "समर्थः = Capable / Competent",
+      "असि = You are",
+      "ज्ञातुम् = To know",
+      "एवम्-विधम् = Of this kind / Such a",
+      "नरम् = Man / Human being"
+    ],
+    grammar: [],
+    notes: [
+      "This verse shifts the dialogue from a list of abstract virtues into an explicit request for a living example. It marks the conclusion of Valmiki's inquiry.",
+      "By using the word 'Naram' (man), Valmiki emphasizes that he is seeking an exemplary human archetype who walks the earth, demonstrating that supreme righteousness is attainable within human limitations."
+    ]
+  },
+  {
+    chapter: 1,
+    number: 6,
+    sloka: [
+      "श्रुत्वा चैतत्त्रिलोकज्ञो वाल्मीकेर्नारदो वचः |",
+      "श्रूयतामिति चामन्त्र्य प्रहृष्टो वाक्यमब्रवीत् ||"
+    ],
+    sloka_tel: [
+      "శ్రుత్వా చైతత్త్రిలోకజ్ఞో వాల్మీకేర్నారదో వచః |",
+      "శ్రూయతామితి చామంత్ర్య ప్రహృష్టో వాక్యమబ్రవీత్ ||"
+    ],
+    vicheda: [
+      "श्रुत्वा च एतत् त्रि-लोक-ज्ञः वाल्मीकेः नारदः वचः |",
+      "श्रूयताम् इति च आमन्त्र्य प्रहृष्टः वाक्यम् अब्रवीत् ||"
+    ],
+    anvaya: [
+      "त्रिलोकज्ञः नारदः",
+      "वाल्मीकेः एतत् वचः श्रुत्वा च",
+      "'श्रूयताम्' इति आमन्त्र्य,",
+      "प्रहृष्टः (सन्) वाक्यम् अब्रवीत् ||"
+    ],
+    prose: [
+      "Devarshi Narada (Knower of 3 worlds)",
+      "Having listened to these words of Maharshi Valmiki",
+      "addressing 'may it be heard'",
+      "being delighted, spoke the following words",
+    ],
+    transl: [
+      "Hearing these words of Valmiki, the knower of the three worlds, Sage Narada, became thoroughly delighted, invited his attention saying 'Please listen!', and spoke the following words."
+    ],
+    transl_tel: [
+      "ముల్లోకాల వృత్తాంతం తెలిసిన నారద మహర్షి, వాల్మీకి మహర్షి చెప్పిన ఆ మాటలను విని, మిక్కిలి సంతోషించి, 'సావధానంగా విను' అని పలికి ఈ విధంగా చెప్పడం ప్రారంభించాడు."
+    ],
+    essence: [
+      "Narada, who travels freely across the three realms and knows everything occurring within them, is filled with joy upon hearing Valmiki's noble and profound inquiry. Instead of dismissing the request as an impossible ideal, he happily prepares to describe the one person who fulfills all sixteen virtues."
+    ],
+    meanings: [
+      "श्रुत्वा = Having heard",
+      "च = And",
+      "एतत् = This",
+      "त्रि-लोक-ज्ञः = Knower of the three worlds",
+      "वाल्मीकेः = Of Valmiki",
+      "नारदः = Sage Narada",
+      "वचः = Words / Speech",
+      "श्रूयताम् = May it be heard / Listen attentively",
+      "इति = Thus",
+      "च = And",
+      "आमन्त्र्य = Addressing / Inviting attention",
+      "प्रहृष्टः = Extremely delighted / Pleased",
+      "वाक्यम् = Words / Statement",
+      "अब्रवीत् = Spoke / Replied"
+    ],
+    grammar: [
+      "श्रूयताम् = श्रु (to listen) - भावकर्मणोः लोट्.ल. - आत्मनेपदम् - प्र.पु. - एक.व.",
+      "",
+    ],
+    notes: [
+      "This verse transitions the narrative from Valmiki's questions to Narada's answers. The title 'Trilokajnah' establishes Narada's absolute credibility to answer such an exhaustive query, as his cosmic vision extends far beyond normal human boundaries.",
+      "Narada's delight ('Prahrishtah') highlights that a true master is always overjoyed when meeting an earnest, pure-hearted seeker who asks questions aimed at the welfare and elevation of humanity."
+    ]
+  },
+  {
+    chapter: 1,
+    number: 7,
+    sloka: [
+      "बहवो दुर्लभाश्चैव ये त्वया कीर्तिता गुणाः |",
+      "मुने वक्ष्याम्यहं बुद्ध्वा तैर्युक्तः श्रूयतां नरः ||"
+    ],
+    sloka_tel: [
+      "బహవో దుర్లభాశ్చైవ యే త్వయా కీర్తితా గుణాః |",
+      "మునే వక్ష్యామ్యహం బుద్ధ్వా తైర్యుక్తః శ్రూయతాం నరః ||"
+    ],
+    vicheda: [
+      "बहवः दुर्लभाः च एव ये त्वया कीर्तिताः गुणाः |",
+      "मुने वक्ष्यामि अहम् बुद्ध्वा तैः युक्तः श्रूयताम् नरः ||"
+    ],
+    anvaya: [
+      "मुने!",
+      "- त्वया ये गुणाः कीर्तिताः",
+      "- ते बहवः दुर्लभाः च एव (सन्ति)",
+      "अहम् बुद्ध्वा तैः युक्तं नरं वक्ष्यामि",
+      "श्रूयताम् |"
+    ],
+    prose: [
+      "O Sage!",
+      "- Those virtues enumerated by you",
+      "- are indeed rare to find",
+      "I will tell you, having known a man endowed with those qualities",
+      "May it be heard",
+    ],
+    transl: [
+      "O Sage! The many virtues that have been enumerated by you are rare indeed to find in a single individual. However, having fully deliberated, I shall tell you of a man who is endowed with all of them; please listen."
+    ],
+    transl_tel: [
+      "ఓ మునివర్యా! నీవు అడిగిన ఈ గుణాలన్నీ ఒకే వ్యక్తిలో ఉండటం చాలా అరుదు. అయినప్పటికీ, నేను చక్కగా ఆలోచించి ఆ గుణాలన్నీ ఉన్న ఒక మహానుభావుడిని గూర్చి చెప్తాను, విను."
+    ],
+    essence: [
+      "Narada acknowledges that the sixteen extraordinary virtues Valmiki listed are exceptionally rare and almost never found together in a single human being. Yet, after internal reflection, Narada assures Valmiki that such an incomparable individual does exist, and he prepares to reveal his identity."
+    ],
+    meanings: [
+      "बहवः = Many",
+      "दुर्लभाः = Rare to find / Difficult to attain",
+      "च = And",
+      "एव = Indeed",
+      "ये = Which",
+      "त्वया = By you",
+      "कीर्तिताः = Extolled / Enumerated",
+      "गुणाः = Qualities / Virtues",
+      "मुने = O Sage (Valmiki)",
+      "वक्ष्यामि = I will tell / Speak of",
+      "अहम् = I",
+      "बुद्ध्वा = Knowing / Having deliberated thoroughly",
+      "तैः = With those (virtues)",
+      "युक्तम् = Endowed with",
+      "श्रूयताम् = Please listen",
+      "नरः = A man"
+    ],
+    grammar: [],
+    notes: [
+      "Narada’s response validates how high Valmiki’s ethical and moral standards are. Finding someone who possesses perfect strength along with perfect forgiveness, or absolute power alongside complete freedom from envy, is a philosophical paradox in ordinary mortals.",
+      "The word 'Buddha' implies that Narada scans his vast, divine memory across the timelines and worlds to pinpoint the perfect match for Valmiki's idealized checklist."
+    ]
+  },
+  {
+    chapter: 1,
+    number: 8,
+    sloka: [
+      "इक्ष्वाकुवंशप्रभवो रामो नाम जनैः श्रुतः |",
+      "नियतात्मा महावीर्यो द्युतिमान् धृतिमान् वशी ||"
+    ],
+    sloka_tel: [
+      "ఇక్ష్వాకువంశప్రభవో రామో నామ జనైః శ్రుతః |",
+      "నియతాత్మా మహావీర్యో ద్యుతిమాన్ ధృతిమాన్ వశీ ||"
+    ],
+    vicheda: [
+      "इक्ष्वाकु-वंश-प्रभवः रामः नाम जनैः श्रुतः |",
+      "नियत-आत्मा महा-वीर्यः द्युति-मान् धृति-मान् वशी ||"
+    ],
+    anvaya: [
+      "इक्ष्वाकुवंशप्रभवः रामः नाम जनैः श्रुतः",
+      "नियत-आत्मा",
+      "महा-वीर्यः",
+      "द्युति-मान्",
+      "धृति-मान्",
+      "वशी |"
+    ],
+    prose: [
+      "Born in the line of King Ikshvaku, He is known to the people by the name of Rama.",
+      "self-controlled",
+      "possessed of immense prowess (valor/courage)",
+      "resplendent (brilliance)",
+      "full of fortitude",
+      "master of his senses",
+    ],
+    transl: [
+      "Born in the line of King Ikshvaku, He is known to the people by the name of Rama. He is self-controlled, possessed of immense prowess, resplendent, full of fortitude, and a master of his senses."
+    ],
+    transl_tel: [
+      "ఇక్ష్వాకు వంశంలో జన్మించి, ప్రజలచేత 'రాముడు' అని పిలవబడే మహానుభావుడు ఒకరు ఉన్నారు. ఆయన నిశ్చలమైన మనస్సు కలవాడు, మహా పరాక్రమవంతుడు, కాంతిమంతుడు, ధైర్యశాలి మరియు జితేంద్రియుడు."
+    ],
+    essence: [
+      "Narada explicitly names the subject of the epic: Sri Rama, descended from the illustrious solar dynasty of King Ikshvaku. He begins checking off Valmiki's list by highlighting Rama's disciplined mind, extraordinary physical power, radiant personality, unshakeable patience, and flawless mastery over his urges."
+    ],
+    meanings: [
+      "इक्ष्वाकु-वंश-प्रभवः = Born in the dynasty of King Ikshvaku",
+      "रामः = Rama",
+      "नाम = By name",
+      "जनैः = By the people",
+      "श्रुतः = Heard of / Renowned",
+      "नियत-आत्मा = Of disciplined mind / Self-controlled",
+      "महा-वीर्यः = Of great prowess / Mighty power",
+      "द्युति-मान् = Resplendent / Majestic look",
+      "धृति-मान् = Full of courage / Fortitude",
+      "वशी = Master of passions / Senses"
+    ],
+    grammar: [],
+    notes: [
+      "This is one of the most celebrated verses in the Ramayana as it introduces the protagonist for the first time. It directly answers the questions posed in verses 2, 3, and 4.",
+      "The attributes 'Niyatatma' and 'Vashi' underscore that Rama’s true greatness doesn't come just from his cosmic weapons or external ancestry, but from his supreme internal baseline of self-regulation."
+    ]
+  },
+  {
+    chapter: 1,
+    number: 9,
+    sloka: [
+      "बुद्धिमान् नीतिमान् वाग्मी श्रीमान् शत्रुनिबर्हणः |",
+      "विपुलांसो महाबाहुः कम्बुग्रीवो महाहनुः ||"
+    ],
+    sloka_tel: [
+      "బుద్ధిమాన్ నీతిమాన్ వాగ్మీ శ్రీమాన్ శత్రునిబర్హణః |",
+      "విపులాంసో మహాబాహుః కంబుగ్రీవో మహాహనుః ||"
+    ],
+    vicheda: [
+      "बुद्धि-मान् नीति-मान् वाग्मी श्री-मान् शत्रु-निबर्हणः |",
+      "विपुल-अंसः महा-बाहुः कम्बु-ग्रीवः महा-हनुः ||"
+    ],
+    anvaya: [
+      "बुद्धि-मान्",
+      "नीति-मान्",
+      "वाग्मी",
+      "श्री-मान्",
+      "शत्रु-निबर्हणः",
+      "विपुल-अंसः",
+      "महा-बाहुः",
+      "कम्बु-ग्रीवः",
+      "महा-हनुः"
+    ],
+    prose: [
+      "highly intelligent",
+      "master of ethics",
+      "eloquent speaker",
+      "possessor of grace/auspicious aura",
+      "destroyer of enemies",
+      "has broad shoulders",
+      "has mighty arms",
+      "has a neck resembling a conch shell",
+      "strong jaw",
+    ],
+    transl: [
+      "He is highly intelligent, a master of ethics and justice, eloquent, exceptionally graceful, and the destroyer of his foes. He has broad shoulders, mighty arms, a neck resembling a conch shell, and a prominent, strong jaw."
+    ],
+    transl_tel: [
+      "ఆయన బుద్ధిమంతుడు, నీతి తెలిసినవాడు, చక్కగా మాట్లాడే నేర్పరి, శుభప్రదమైన తేజస్సు కలవాడు, శత్రువులను అణచివేసేవాడు. విశాలమైన భుజములు, పొడవైన చేతులు, శంఖము వంటి మెడ, బలమైన దవడలు కలిగిన రూపశాలి."
+    ],
+    essence: [
+      "Narada details both the intellectual capacities and physical majesty of Rama. Rama is deeply wise, legally and morally astute, an excellent speaker, prosperous, and fierce against injustice. Physically, he bears the classic bodily proportions of a great leader and warrior: powerful shoulders, long arms, an elegant neck, and a commanding jawline."
+    ],
+    meanings: [
+      "बुद्धि-मान् = Sharp-witted / Highly intelligent",
+      "नीति-मान् = Scholar of ethics / Righteous conduct",
+      "वाग्मी = Eloquent speaker",
+      "श्री-मान् = Possessed of glorious grace / Auspicious aura",
+      "शत्रु-निबर्हणः = Annihilator of enemies / Evildoers",
+      "विपुल-अंसः = Possessed of broad, strong shoulders",
+      "महा-बाहुः = Mighty-armed (reaching down to the knees)",
+      "कम्बु-ग्रीवः = Having a beautiful neck marked with three lines like a conch shell",
+      "महा-हनुः = Having a strong, handsome jaw"
+    ],
+    grammar: [],
+    notes: [
+      "This verse blends internal excellence ('Buddhiman', 'Nitiman') with the ancient Indian science of body features (*Samudrika Shastra*). A king's physical majesty was considered an outer reflection of his inner spiritual alignment.",
+      "The trait 'Shatru-nibarhanah' implies that Rama eliminates enemies, but in the context of the Ramayana, it means he destroys the malicious forces that disrupt societal harmony, rather than acting out of petty personal vengeance."
+    ]
+  },
+  {
+    chapter: 1,
+    number: 10,
+    sloka: [
+      "महोरस्को महेष्वासो गूढजत्रुररिन्दमः |",
+      "आजानुबाहुः सुशिराः सुललाटः सुविक्रमः ||"
+    ],
+    sloka_tel: [
+      "మహోరస్కో మహేష్వాసో గూఢజత్రురరిందమః |",
+      "ఆజానుబాహుః సుశిరాః సులలాతః సువిక్రమః ||"
+    ],
+    vicheda: [
+      "महा-उरस्कः महा-इष्वासः गूढ-जत्रुः अरिम्-दमः |",
+      "आजानु-बाहुः सु-शिराः सु-ललाटः सु-विक्रमः ||"
+    ],
+    anvaya: [
+      "महा-उरस्कः",
+      "महा-इष्वासः",
+      "गूढ-जत्रुः",
+      "अरिम्-दमः",
+      "आजानु-बाहुः",
+      "सु-शिराः",
+      "सु-ललाटः",
+      "सु-विक्रमः|"
+    ],
+    prose: [
+      "has a broad chest",
+      "has a massive bow",
+      "has hidden collarbones",
+      "subduer of enemies",
+      "has arms that reach down to his knees",
+      "has a beautifully shaped head",
+      "has an auspicious forehead",
+      "possessor of an ausipicious gait/valor",
+    ],
+    transl: [
+      "He has a broad, expansive chest, a massive bow, hidden collarbones, and is the tamer of his adversaries. His arms reach down to his knees; he possesses a beautifully shaped head, an auspicious forehead, and a majestic stride."
+    ],
+    transl_tel: [
+      "విశాలమైన రొమ్ము, పెద్ద ధనస్సు కలిగి, మాంసముతో కప్పబడిన జత్రువులు (collarbones) కలవాడై శత్రుమర్దనుడై ఉన్నాడు. మోకాళ్ళ వరకు వ్రేలాడే బాహువులు, అందమైన శిరస్సు, విశాలమైన లలాటము (నొసలు), మరియు పరాక్రమముతో కూడిన నడక కలవాడు."
+    ],
+    essence: [
+      "Narada continues tracing Rama’s heroic physical traits, describing his wide chest, mastery over archery, well-knit muscular frame, and long arms characteristic of great protectors. He concludes by highlighting Rama’s regal head, prominent forehead, and courageous, balanced manner of movement."
+    ],
+    meanings: [
+      "महा-उरस्कः = Possessed of a broad chest",
+      "महा-इष्वासः = Wielder of a mighty bow",
+      "गूढ-जत्रुः = Having well-fleshed, muscular collarbones",
+      "अरिम्-दमः = Subduer of enemies / Tamer of vices",
+      "आजानु-बाहुः = Having arms extending all the way to the knees",
+      "सु-शिराः = Possessed of an exquisitely shaped head",
+      "सु-ललाटः = Having a handsome, broad forehead",
+      "सु-विक्रमः = Possessed of noble valor / Auspicious gait"
+    ],
+    grammar: [],
+    notes: [
+      "The description 'Ajanubahu' (arms reaching to the knees) is widely famous across classical Indian literature to denote an extraordinary warrior capable of handling heavy weaponry with unmatched leverage and grace.",
+      "Like verse 9, these specific parameters illustrate that Rama looks every bit the ideal ruler, satisfying the deepest traditional standards of outer symmetry and inner nobility."
+    ]
+  },
+  {
+    chapter: 1,
+    number: 11,
+    sloka: [
+      "समः समविभक्ताङ्गः स्निग्धवर्णः प्रतापवान् |",
+      "पीनवक्षा विशालाक्षो लक्ष्मीवान् शुभलक्षणः ||"
+    ],
+    sloka_tel: [
+      "సమః సమవిభక్తాంగః స్నిగ్ధవర్ణః ప్రతాపవాన్ |",
+      "పీనవక్షా విశాలాక్షో లక్ష్మీవాన్ శుభలక్షణః ||"
+    ],
+    vicheda: [
+      "समः सम-विभक्त-अङ्गः स्निग्ध-वर्णः प्रताप-वान् |",
+      "पीन-वक्षाः विशाल-अक्षः लक्ष्मी-वान् शुभ-लक्षणः ||"
+    ],
+    anvaya: [
+      "समः",
+      "सम-विभक्त-अङ्गः",
+      "स्निग्ध-वर्णः",
+      "प्रताप-वान्",
+      "पीन-वक्षाः",
+      "विशाल-अक्षः",
+      "लक्ष्मी-वान्",
+      "शुभ-लक्षणः |"
+    ],
+    prose: [
+      "equanimous",
+      "has symmetrically divided limbs",
+      "has beautiful complexion",
+      "has a great valor/splendor",
+      "muscular chest",
+      "has large/wide eyes",
+      "possessor of divine beauty and prosperity",
+      "bearing highly auspiciuos marks/characteristics",
+    ],
+    transl: [
+      "He is equanimous, possesses symmetrically divided limbs, a beautiful glossy complexion, and great majesty. He has a full chest, large expressive eyes, is endowed with splendor, and bears all auspicious bodily marks."
+    ],
+    transl_tel: [
+      "ఆయన పక్షపాతం లేనివాడు, సమానంగా చక్కగా కుదిరిన అవయవములు కలవాడు, కాంతివంతమైన శరీర ఛాయ కలవాడు, ప్రతాపవంతుడు. పుష్టిన రొమ్ము, విశాలమైన నేత్రములు, శోభాయమానమైన రూపము మరియు శుభ లక్షణములు కలవాడు."
+    ],
+    essence: [
+      "Narada highlights Rama's perfect physical proportion and inner poise. His body parts are perfectly symmetrical, his skin radiates a healthy glow, his eyes are large and comforting, and he possesses a naturally majestic presence. He exhibits all the marks of a divinely blessed personality who treats everyone with an even mind."
+    ],
+    meanings: [
+      "समः = Impartial / Free from prejudice / Balanced",
+      "सम-विभक्त-अङ्गः = Having beautifully proportioned, symmetrical limbs",
+      "स्निग्ध-वर्णः = Having a pleasant, glowing complexion",
+      "प्रताप-वान् = Possessed of great valor / Splendor",
+      "पीन-वक्षाः = Having a muscular, full chest",
+      "विशाल-अक्षः = Having large, wide eyes",
+      "लक्ष्मी-वान् = Possessed of divine beauty and prosperity",
+      "शुभ-लक्षणः = Bearing highly auspicious marks / Characteristics"
+    ],
+    grammar: [],
+    notes: [
+      "The word 'Samah' is deeply significant. While contextually it points to structural bodily balance, it also refers to his mental equilibrium and fairness as a ruler.",
+      "The phrase 'Shubha-lakshanah' refers to the 32 physical signs of a supreme human being (*Mahapurusha*) recognized in ancient Indian sciences, signaling his capacity to guide society towards wellness."
+    ]
+  },
+  {
+    chapter: 1,
+    number: 12,
+    sloka: [
+      "धर्मज्ञः सत्यसन्धश्च प्रजानां च हिते रतः |",
+      "यशस्वी ज्ञानसम्पन्नः शुचिर्वश्यः समाधिमान् ||"
+    ],
+    sloka_tel: [
+      "ధర్మజ్ఞః సత్యసంధశ్చ ప్రజానాం చ హితే రతః |",
+      "యశస్వీ జ్ఞానసంపన్నః శుచిర్వశ్యః సమాధిమాన్ ||"
+    ],
+    vicheda: [
+      "धर्म-ज्ञः सत्य-सन्धः च प्रजानाम् च हिते रतः |",
+      "यशस्वी ज्ञान-सम्पन्नः शुचिः वश्यः समाधि-मान् ||"
+    ],
+    anvaya: [
+      "धर्म-ज्ञः",
+      "सत्य-सन्धः",
+      "प्रजानाम् हिते रतः",
+      "यशस्वी",
+      "ज्ञान-सम्पन्नः",
+      "शुचिः",
+      "वश्यः",
+      "समाधि-मान् |"
+    ],
+    prose: [
+      "Knower of dharma",
+      "always true to his promises",
+      "devoted to the welfare of his subjects",
+      "highly renowned/famous",
+      "endowed with supreme wisdom",
+      "pure/spotless in character",
+      "self controlled",
+      "meditative/deeply concentrated in mind",
+    ],
+    transl: [
+      "He is a knower of dharma, always true to his promises, and firmly dedicated to the welfare of his subjects. He is renowned, full of wisdom, pure in body and mind, self-controlled, and meditative."
+    ],
+    transl_tel: [
+      "ఆయన ధర్మము తెలిసినవాడు, సత్యమైన ప్రతిజ్ఞ కలవాడు, నిరంతరం ప్రజల శ్రేయస్సు కోరేవాడు. కీర్తిమంతుడు, సర్వజ్ఞాని, పవిత్రుడు, ఇంద్రియ నిగ్రహం కలవాడు మరియు ఎల్లప్పుడూ పరమాత్మ యందు మనస్సు లగ్నం చేసినవాడు."
+    ],
+    essence: [
+      "Narada shifts back to Rama's profound character traits. Rama is an absolute master of law and righteousness, never deviates from his word, and views the happiness of his citizens as his topmost duty. He is celebrated for his pure conduct, immense spiritual knowledge, and deeply focused intellect."
+    ],
+    meanings: [
+      "धर्म-ज्ञः = Knower of righteousness / Cosmic law",
+      "सत्य-सन्धः = Bound to absolute truth / Loyal to vows",
+      "च = And",
+      "प्रजानाम् = Of the subjects / People",
+      "च = And",
+      "हिते = In the welfare",
+      "रतः = Fully engaged / Devoted",
+      "यशस्वी = Highly renowned / Famous",
+      "ज्ञान-सम्पन्नः = Endowed with supreme wisdom",
+      "शुचिः = Pure / Spotless in character",
+      "वश्यः = Having full control over his own nature / Obedient to elders",
+      "समाधि-मान् = Meditative / Deeply concentrated in mind"
+    ],
+    grammar: [],
+    notes: [
+      "The phrase 'Prajanám cha hité ratah' forms the foundational core of Rama's administrative philosophy, laying the ground rules for what is culturally revered as *Ramarajya*—a governance where the king exists entirely for the welfare of the people.",
+      "By pairing 'Satyasandhah' (truthful) with 'Dharmajnah' (wise in righteousness), the verse asserts that true law is entirely hollow unless backed by personal moral integrity."
+    ]
+  },
+  {
+    chapter: 1,
+    number: 13,
+    sloka: [
+      "प्रजापतिसमः श्रीमान् धाता रिपुनिषूदनः |",
+      "रक्षिता जीवलोकस्य धर्मस्य परिरक्षिता ||"
+    ],
+    sloka_tel: [
+      "ప్రజాపతిసమః శ్రీమాన్ ధాతా రిపునిషూదనః |",
+      "రక్షితా జీవలోకస్య ధర్మస్య పరిరక్షితా ||"
+    ],
+    vicheda: [
+      "प्रजापति-समः श्रीमान् धाता रिपु-निषूदनः |",
+      "रक्षिता जीव-लोकस्य धर्मस्य परिरक्षिता ||"
+    ],
+    anvaya: [
+      "प्रजापति-समः",
+      "श्रीमान्",
+      "धाता",
+      "रिपु-निषूदनः",
+      "जीव-लोकस्य रक्षिता",
+      "धर्मस्य परिरक्षिता |"
+    ],
+    prose: [
+      "who is equal to Prajapati (Creator) in ruling",
+      "glorious",
+      "supporter of all",
+      "destroyer of enemies",
+      "protector of entire world of living beings",
+      "expert protector of dharma",
+    ],
+    transl: [
+      "He is equal to Prajapati (the Lord of Creation) in sustaining life, glorious, the supporter of all, and the destroyer of adversaries. He is the protector of all living beings and the steadfast guardian of righteousness."
+    ],
+    transl_tel: [
+      "ఆయన సమస్త ప్రజలను పాలించటంలో బ్రహ్మదేవునితో సమానుడు, సర్వసమర్థుడు, సకల జీవులను పోషించేవాడు మరియు శత్రువులను హరించేవాడు. ఈ జీవలోకానికి రక్షకుడు, ధర్మాన్ని కాపాడేవాడు."
+    ],
+    essence: [
+      "Rama's role as a protector is magnified here. Narada compares his nurturing and protective abilities to Prajapati, the progenitor of life. Rama actively supports the stability of the entire living world, systematically removes malicious entities, and acts as a fortress protecting universal order and justice."
+    ],
+    meanings: [
+      "प्रजापति-समः = Equal to Prajapati (the Lord of creation/subjects)",
+      "श्रीमान् = Glorious / Resplendent ruler",
+      "धाता = Sustainer / Creator / Supporter of all",
+      "रिपु-निषूदनः = Destroyer of enemies / Corrupt elements",
+      "रक्षिता = Protector / Guardian",
+      "जीव-लोकस्य = Of the entire world of living beings",
+      "धर्मस्य = Of righteousness / Eternal truth",
+      "परिरक्षिता = Explicit guardian / Safeguarder"
+    ],
+    grammar: [],
+    notes: [
+      "The dynamic relationship between 'Jivalokasya rakshita' (protecting living things) and 'Dharmasya parirakshita' (protecting values) shows a beautiful loop: protecting humanity is impossible without upholding ethical structures, and upholding ethical structures is meant specifically to preserve humanity.",
+      "The term 'Dhata' labels Rama as a stable anchor who keeps the social and cosmic fabric from unraveling."
+    ]
+  },
+  {
+    chapter: 1,
+    number: 14,
+    sloka: [
+      "रक्षिता स्वस्य धर्मस्य स्वजनस्य च रक्षिता |",
+      "वेदवेदाङ्गतत्त्वज्ञो धनुर्वेदे च निष्ठितः ||"
+    ],
+    sloka_tel: [
+      "రక్షితా స్వస్య ధర్మస్య స్వజనస్య చ రక్షితా |",
+      "వేదవేదాంగతత్త్వజ్ఞో ధనుర్వేదే చ నిష్ఠితః ||"
+    ],
+    vicheda: [
+      "रक्षिता स्वस्य धर्मस्य स्व-जनस्य च रक्षिता |",
+      "वेद-वेदाङ्ग-तत्त्व-ज्ञः धनुः-वेदे च निष्ठितः ||"
+    ],
+    anvaya: [
+      "स्वस्य धर्मस्य रक्षिता",
+      "स्व-जनस्य रक्षिता",
+      "वेद-वेदाङ्ग-तत्त्व-ज्ञः",
+      "धनुः-वेदे निष्ठितः|"
+    ],
+    prose: [
+      "protector of his own dharma (duties/righteousness)",
+      "guardian of his own people",
+      "deeply versed in the essence of Vedas and Vedangas",
+      "highly proficient in the science of archery",
+    ],
+    transl: [
+      "He is the protector of his own duties and righteousness, the guardian of his own people, deeply versed in the essence of the Vedas and their auxiliary branches, and highly proficient in the science of archery."
+    ],
+    transl_tel: [
+      "ఆయన తన స్వధర్మాన్ని కాపాడుకునేవాడు, తనను ఆశ్రయించిన ప్రజలను రక్షించేవాడు. వేదాల యొక్క, వేదాంగాల యొక్క రహస్యాలను తెలిసినవాడు మరియు ధనుర్విద్యలో తిరుగులేని నిపుణుడు."
+    ],
+    essence: [
+      "Rama balances his global duties with immediate personal and intellectual excellence. He flawlessly adheres to his own moral obligations as a prince, defends his relatives and dependents, possesses profound insight into the spiritual philosophy of the Vedas, and is thoroughly grounded in the supreme military art of weaponry."
+    ],
+    meanings: [
+      "रक्षिता = Protector",
+      "स्वस्य = His own",
+      "धर्मस्य = Of duty / Righteousness",
+      "स्व-जनस्य = Of his own people / Dependents / Kinsmen",
+      "च = And",
+      "रक्षिता = Guardian",
+      "वेद-वेदाङ्ग-तत्त्व-ज्ञः = Knower of the true essence of Vedas and Vedangas (auxiliary sciences)",
+      "धनुः-वेदे = In Dhanurveda (the science of archery/warfare)",
+      "च = And",
+      "निष्ठितः = Unflinchingly established / Proficient"
+    ],
+    grammar: [],
+    notes: [
+      "The phrase 'Svasya dharmasya rakshita' shows that Rama does not enforce morality on others while ignoring it himself; his authority comes from his absolute compliance with his own code of duties.",
+      "The juxtaposition of Vedic knowledge with mastery in archery emphasizes the ancient Indian ideal of a leader: a seamless union of spiritual wisdom (*Brahma Tejas*) and martial valor (*Kshatra Tejas*)."
+    ]
+  },
+  {
+    chapter: 1,
+    number: 15,
+    sloka: [
+      "सर्वशास्त्रार्थतत्त्वज्ञो स्मृतिमान् प्रतिभानवान् |",
+      "सर्वलोकप्रियः साधुरदीनात्मा विचक्षणः ||"
+    ],
+    sloka_tel: [
+      "సర్వశాస్త్రార్థతత్త్వజ్ఞో స్మృతిమాన్ ప్రతిభానవాన్ |",
+      "సర్వలోకప్రియః సాధురదీనాత్మా విచక్షణః ||"
+    ],
+    vicheda: [
+      "सर्व-शास्त्र-अर्थ-तत्त्व-ज्ञः स्मृति-मान् प्रतिभान-वान् |",
+      "सर्व-लोक-प्रियः साधुः अदीन-आत्मा विचक्षणः ||"
+    ],
+    anvaya: [
+      "सर्व-शास्त्र-अर्थ-तत्त्व-ज्ञः",
+      "स्मृति-मान्",
+      "प्रतिभान-वान्",
+      "सर्व-लोक-प्रियः",
+      "साधुः",
+      "अदीन-आत्मा",
+      "विचक्षणः |"
+    ],
+    prose: [
+      "knower of essence of all scriptures",
+      "possesses an exceptional memory",
+      "possessor of spontaneous brilliance/imagination/wit",
+      "dear to all",
+      "gentle",
+      "has a courageous spirit",
+      "highly discerning",
+    ],
+    transl: [
+      "He understands the true import and core essence of all scriptures, possesses an exceptional memory, and is highly inventive. He is beloved by the entire world, gentle and polite, free from depression, and highly discerning."
+    ],
+    transl_tel: [
+      "ఆయన సమస్త శాస్త్రాల యొక్క అంతరార్థాన్ని గ్రహించినవాడు, అద్భుతమైన జ్ఞాపకశక్తి కలవాడు, ప్రతిభాశాలి. లోకమంతటికీ ప్రియమైనవాడు, మంచి స్వభావము కలవాడు, ధైర్యవంతుడు (కుంగిపోని మనస్తత్వము కలవాడు) మరియు వివేకవంతుడు."
+    ],
+    essence: [
+      "Narada describes Rama's outstanding mental traits. Rama grasps the deeper meaning of all sciences, possesses an unshakeable memory, and shows magnificent creative brilliance. His polite nature makes him universally loved. Furthermore, he maintains an optimistic, strong spirit even under intense hardship and executes his choices with deep analytical skill."
+    ],
+    meanings: [
+      "सर्व-शास्त्र-अर्थ-तत्त्व-ज्ञः = Knower of the true inner meaning of all branches of scriptures",
+      "स्मृति-मान् = Possessed of an exceptional memory",
+      "प्रतिभान-वान् = Possessed of spontaneous brilliance / Wit / Imagination",
+      "सर्व-लोक-प्रियः = Loved by the entire world / Dear to all",
+      "साधुः = Virtuous / Gentle / Approachable person",
+      "अदीन-आत्मा = Of an un-depressed, lofty, and courageous spirit",
+      "विचक्षणः = Highly discerning / Astute evaluator of situations"
+    ],
+    grammar: [],
+    notes: [
+      "'Adinatma' is a crucial keyword for understanding Rama's behavior throughout the epic. It denotes a mind that refuses to sink into absolute despair, self-pity, or mental weakness, even when losing his kingdom or his wife.",
+      "The quality 'Pratibhanavan' shows that Rama is not just following textbook laws mechanically; he possesses a living, dynamic intellect capable of finding creative solutions to new crises."
+    ]
+  },
+  {
+    chapter: 1,
+    number: 16,
+    sloka: [
+      "सर्वदाभिगतः सद्भिः समुद्र इव सिन्धुभिः |",
+      "आर्यः सर्वसमश्चैव सदैव प्रियदर्शनः ||"
+    ],
+    sloka_tel: [
+      "సర్వదాభిగతః సద్భిః సముద్ర ఇవ సింధుభిః |",
+      "ఆర్యః సర్వసమశ్చైవ సదైవ ప్రియదర్శనః ||"
+    ],
+    vicheda: [
+      "सर्वदा अभिगतः सद्भिः समुद्रः इव सिन्धुभिः |",
+      "आर्यः सर्व-समः च एव सदा एव प्रिय-दर्शनः ||"
+    ],
+    anvaya: [
+      "(सिन्धुभिः समुद्रः) इव सर्वदा सद्भिः अभिगतः",
+      "आर्यः",
+      "सर्वसमः च एव",
+      "सदा एव प्रियदर्शनः |"
+    ],
+    prose: [
+      "he is always approached by virtuous people, just as the ocean is sought by rivers.",
+      "he is noble/honourable person",
+      "he is impartial/equanimous to all",
+      "he is always pleasing to behold",
+    ],
+    transl: [
+      "He is always approached by virtuous people, just as the ocean is sought by rivers. He is noble, looks upon everyone with equal eye, and is forever pleasant to behold."
+    ],
+    transl_tel: [
+      "నదులన్నీ సముద్రాన్ని చేరుకున్నట్లుగా, సత్పురుషులందరూ ఎల్లప్పుడూ ఆశ్రయించే మహానుభావుడు ఆయన. ఉత్తమ స్వభావం కలవాడు, అందరినీ సమానంగా చూసేవాడు మరియు ఎల్లప్పుడూ చూసేవారికి ఆనందాన్ని కలిగించే రూపం కలవాడు."
+    ],
+    essence: [
+      "Narada illustrates Rama's magnetic righteousness. Just as all rivers naturally flow toward the mighty ocean, good and righteous people are universally drawn to Rama for shelter and counsel. He is a nobleman in the truest sense, remains completely impartial to all, and possesses a serene countenance that brings immediate comfort to anyone who looks at him."
+    ],
+    meanings: [
+      "सर्वदा = Always / At all times",
+      "अभिगतः = Approached / Sought after for shelter",
+      "सद्भिः = By virtuous / Righteous people",
+      "समुद्रः = The ocean",
+      "इव = Just like",
+      "सिन्धुभिः = By the rivers",
+      "आर्यः = Noble / Honorable person",
+      "सर्व-समः = Equal-eyed toward all / Impartial",
+      "च = And",
+      "एव = Indeed",
+      "सदा = Always",
+      "एव = Only",
+      "प्रिय-दर्शनः = Pleasing to behold"
+    ],
+    grammar: [],
+    notes: [
+      "The comparison to the ocean (*Samudra*) is brilliant: the ocean accepts all rivers without overflowing or discriminating based on their size or purity. Similarly, Rama acts as an unshakeable baseline sanctuary for all strata of society.",
+      "The term 'Arya' does not refer to a race here, but rather to a definitive standard of conduct characterized by nobility, gentleness, and high moral integrity."
+    ]
+  },
+  {
+    chapter: 1,
+    number: 17,
+    sloka: [
+      "स च सर्वगुणोपेतः कौसल्यानन्दवर्धनः |",
+      "समुद्र इव गाम्भीर्ये धैर्येण हिमवानिव ||"
+    ],
+    sloka_tel: [
+      "స చ సర్వగుణోపేతః కౌసల్యానందవర్ధనః |",
+      "సముద్ర ఇవ గాంభీర్యే ధైర్యేణ హిమవానివ ||"
+    ],
+    vicheda: [
+      "सः च सर्व-गुण-उपेतः कौसल्या-आनन्द-वर्धनः |",
+      "समुद्रः इव गाम्भीर्ये धैर्येण हिमवान् इव ||"
+    ],
+    anvaya: [
+      "सर्वगुणोपेतः कौसल्यानन्दवर्धनः सः च गाम्भीर्ये समुद्रः इव धैर्येण हिमवान् इव (अस्ति) ||"
+    ],
+    prose: [],
+    transl: [
+      "Endowed with all these virtues, He enhances the joy of His mother, Kausalya. In depth of personality and serenity He is like the unfathomable ocean, and in fortitude He is like the unshakeable Himalaya mountains."
+    ],
+    transl_tel: [
+      "సమస్త ఉత్తమ గుణములు కలవాడై, తన తల్లియైన కౌసల్యకు ఆనందాన్ని పెంచేవాడు ఆయన. గాంభీర్యంలో (మనోనిశ్చలతలో) సముద్రుని వంటివాడు, ధైర్యంలో హిమవత్పర్వతం వంటివాడు."
+    ],
+    essence: [
+      "Narada introduces Rama's familial identity as the beloved son who brings immense pride and joy to Queen Kausalya. He then sets up two classic similes to define Rama's internal framework: his mind and emotional depth are as vast and calm as a deep ocean, while his courage and resilience under pressure are as immovable as the Himalayas."
+    ],
+    meanings: [
+      "सः = He (Rama)",
+      "च = And",
+      "सर्व-गुण-उपेतः = Endowed with all ideal virtues",
+      "कौसल्या-आनन्द-वर्धनः = One who increases the joy of Kausalya",
+      "समुद्रः = The ocean",
+      "इव = Like",
+      "गाम्भीर्ये = In depth of character / Gravity / Serenity",
+      "धैर्येण = In fortitude / Courage / Endurance",
+      "हिमवान् = The Himalayan mountains",
+      "इव = Like"
+    ],
+    grammar: [],
+    notes: [
+      "This verse introduces beautiful pairs of dualities managed with perfect balance. 'Gambhirya' refers to the quality of a person whose internal thoughts and emotional disturbances cannot be easily rattled from the outside, much like the hidden depths of the deep sea.",
+      "The phrase 'Kausalyananda-vardhanah' emphasizes that despite his massive cosmic and physical attributes, Rama remains first and foremost a dutiful, affectionate son whose simple presence satisfies a mother's heart."
+    ]
+  },
+  {
+    chapter: 1,
+    number: 18,
+    sloka: [
+      "विष्णुना सदृशो वीर्ये सोमवत्प्रियदर्शनः |",
+      "कालाग्निसदृशः क्रोधे क्षमया पृथ्वीसमः ||"
+    ],
+    sloka_tel: [
+      "విష్ణునా సదృశో వీర్యే సోమవత్ప్రియదర్శనః |",
+      "కాలాగ్నిసదృశః క్రోధే క్షమయా పృథ్వీసమః ||"
+    ],
+    vicheda: [
+      "विष्णुना सदृशः वीर्ये सोम-वत् प्रिय-दर्शनः |",
+      "काल-अग्नि-सदृशः क्रोधे क्षमया पृथ्वी-समः ||"
+    ],
+    anvaya: [
+      "(सः) वीर्ये विष्णुना सदृशः, सोमवत् प्रियदर्शनः, क्रोधे कालाग्निसदृशः, क्षमया पृथ्वीसमः (अस्ति) ||"
+    ],
+    prose: [],
+    transl: [
+      "In valor He is equal to Lord Vishnu; in pleasing appearance He is like the gentle moon. In righteous anger He is comparable to the all-consuming destructive fire at the end of time, yet in patience and forgiveness He is equal to the tolerant Earth."
+    ],
+    transl_tel: [
+      "ఆయన పరాక్రమములో విష్ణుమూర్తితో సమానుడు, చూచుటకు చంద్రుని వలె ఆహ్లాదాన్ని కలిగించేవాడు. దుష్టులపై కోపంలో ప్రళయకాలాగ్ని వంటివాడు, కానీ ఓర్పులో (క్షమాగుణంలో) భూదేవితో సమానుడు."
+    ],
+    essence: [
+      "Narada uses profound cosmic comparisons to capture Rama’s paradoxical excellence. He possesses the absolute martial power of Lord Vishnu, yet maintains the soothing, cooling charm of a full moon. While his wrath against systematic evil burns as intensely as the terminal cosmic fire, his capacity to forgive and tolerate personal slights is as infinite as Mother Earth."
+    ],
+    meanings: [
+      "विष्णुना = To Lord Vishnu",
+      "सदृशः = Equal / Comparable",
+      "वीर्ये = In prowess / Valor",
+      "सोम-वत् = Like the moon",
+      "प्रिय-दर्शनः = Soothing / Delightsome to look at",
+      "काल-अग्नि-सदृशः = Comparable to the catastrophic cosmic fire of destruction",
+      "क्रोधे = In anger / Wrath",
+      "क्षमया = In forgiveness / Tolerance / Patience",
+      "पृथ्वी-समः = Equal to the Earth"
+    ],
+    grammar: [],
+    notes: [
+      "This verse highlights the complete resolution of opposite qualities within Rama's personality. Usually, an intensely powerful warrior (*Vishnu-sadriśah*) is feared, but Rama is simultaneously loved like the moon (*Somavat*).",
+      "Similarly, balancing the extremes of 'Kalagni' (furious destructive heat) and 'Prithvi' (unconditional grounding and tolerance) demonstrates that Rama's emotional spectrum is entirely deliberate, serving justice rather than impulsive ego."
+    ]
+  },
+  {
+    chapter: 1,
+    number: 19,
+    sloka: [
+      "धनदेन समस्त्यागे सत्ये धर्म इवापरः |",
+      "तमेवं गुणसम्पन्नं रामं सत्यपराक्रमम् ||"
+    ],
+    sloka_tel: [
+      "ధనదేన సమస్త్యాగే సత్యే ధర్మ ఇవాపరః |",
+      "తమేవం గుణసంపన్నం రామం సత్యపరాక్రమమ్ ||"
+    ],
+    vicheda: [
+      "धन-देन समः त्यागे सत्ये धर्मः इव अपरः |",
+      "तम् एवम् गुण-सम्पन्नम् रामम् सत्य-पराक्रमम् ||"
+    ],
+    anvaya: [
+      "(यः) त्यागे धनदेन समः, सत्ये अपरः धर्मः इव (अस्ति), एवम् गुणसम्पन्नं सत्यपराक्रमं तम् रामम्... ||"
+    ],
+    prose: [],
+    transl: [
+      "In charity and generosity He is equal to Kubera (the god of wealth); in truthfulness He is like another personification of Dharma itself. To such a Rama, who is endowed with these sublime qualities and whose prowess is rooted in truth..."
+    ],
+    transl_tel: [
+      "దానగుణంలో ఆయన కుబేరునితో సమానుడు, సత్యపాలనలో సాక్షాత్తు ధర్మదేవతయే మరొక రూపంలో అవతరించినట్లు ఉంటాడు. ఇటువంటి సద్గుణములు కలిగి, సత్యమైన పరాక్రమము గల ఆ రాముడిని..."
+    ],
+    essence: [
+      "Narada completes his immediate profiling of Rama by comparing his philanthropy to Kubera, meaning his generosity knows no bounds. In his alignment with absolute truth, Rama appears as if Dharma (the cosmic principle of justice) has walked down to earth in human skin. This verse sets up the grand narrative transition by summarizing Rama's virtues."
+    ],
+    meanings: [
+      "धन-देन = With Kubera (the bestower of wealth)",
+      "समः = Equal",
+      "त्यागे = In charity / Renunciation / Generosity",
+      "सत्ये = In truthfulness",
+      "धर्मः = Dharma (righteousness personified)",
+      "इव = Like",
+      "अपरः = Another / A second",
+      "तम् = Him",
+      "एवम् = In this manner",
+      "गुण-सम्पन्नम् = Richly endowed with virtues",
+      "रामम् = Rama",
+      "सत्य-पराक्रमम् = One whose power and valor are always backed by truth"
+    ],
+    grammar: [],
+    notes: [
+      "The compound 'Satya-parakramam' is one of the foundational epithets used for Rama throughout the epic. It establishes that his power is never abusive or deceptive; his strength exists exclusively to fulfill and defend reality and promises.",
+      "This verse uses an unfinished grammar link (*Tam* - 'to Him...'), which runs seamlessly directly into the next verse to describe the actions taken by King Dasharatha regarding Rama's future."
+    ]
+  },
+  {
+    chapter: 1,
+    number: 20,
+    sloka: [
+      "ज्येष्ठं श्रेष्ठगुणैर्युक्तं प्रियं दशरथः सुतम् |",
+      "प्रकृतीనాం हितैर्युक्तं प्रकृतिप्रियकाम्यया ||"
+    ],
+    sloka_tel: [
+      "జ్యేష్ఠం శ్రేష్ఠగుణైర్యుక్తం ప్రియం దశరథః సుతమ్ |",
+      "ప్రకృతీనాం హితైర్యుక్తం ప్రకృతిప్రియకామ్యయా ||"
+    ],
+    vicheda: [
+      "ज्येष्ठम् श्रेष्ठ-गुणैः युक्तम् प्रियम् दशरथः सुतम् |",
+      "प्रकृतीनाम् हितैः युक्तम् प्रकृति-प्रिय-काम्यया ||"
+    ],
+    anvaya: [
+      "दशरथः श्रेष्ठगुणैः युक्तं प्रकृतीनां हितैः युक्तं प्रियं ज्येष्ठम् सुतम् रामम् प्रकृतिप्रियकाम्यయా... ||"
+    ],
+    prose: [],
+    transl: [
+      "...King Dasharatha, out of an earnest desire to ensure the affection and welfare of his citizens, wished to crown his beloved eldest son Rama, who possessed preeminent virtues and was deeply devoted to the welfare of the people."
+    ],
+    transl_tel: [
+      "ఉత్తమ గుణములు కలవాడు, ప్రజల శ్రేయస్సు కోరేవాడు, తన ప్రియమైన పెద్ద కుమారుడు అయిన రామునిపై గల ప్రేమతో, ప్రజలకు మేలు చేయాలనే కోరికతో దశరథ మహారాజు..."
+    ],
+    essence: [
+      "Picking up from the previous verse, Narada moves into the actual history of Ayodhya. King Dasharatha, recognizing that his eldest and dearest son Rama possesses unmatched attributes and works tirelessly for the collective good, decides to initiate his coronation as the crown prince (*Yuvaraja*) purely to delight and bless his subjects."
+    ],
+    meanings: [
+      "ज्येष्ठम् = The eldest",
+      "श्रेष्ठ-गुणैः = With superlative / Preeminent virtues",
+      "युक्तम् = Endowed",
+      "प्रियम् = Beloved / Dear",
+      "दशरथः = King Dasharatha",
+      "सुतम् = Son",
+      "प्रकृतीनाम् = Of the citizens / Subjects / State elements",
+      "हितैः = With the welfare / Well-being",
+      "युक्तम् = Associated / Intently engaged",
+      "प्रकृति-प्रिय-काम्यया = With a desire to secure the affection and pleasure of the citizens"
+    ],
+    grammar: [],
+    notes: [
+      "The term 'Prakriti' has multiple meanings in Sanskrit; here it explicitly stands for the citizens, the cabinet, and the organic elements of the state. Dasharatha's choice to crown Rama is presented as a democratic reaction to what the people naturally want, rather than a forced, dynastic imposition.",
+      "This verse opens up the initial plot point of the actual story—the planning of the coronation, which triggers the events leading up to the exile."
+    ]
+  },
+  {
+    chapter: 1,
+    number: 21,
+    sloka: [
+      "यौवराज्येन संयोक्तुमैच्छत्प्रीत्या महीपतिः |",
+      "तस्याभिषेकसम्भारान् दृष्ट्वा भार्याथ कैकयी ||"
+    ],
+    sloka_tel: [
+      "యౌవరాజ్యేన సంయోక్తుమైచ్ఛత్ప్రీత్యా మహీపతిః |",
+      "తస్యాభిషేకసంభారాన్ దృష్ట్వా భార్యాథ కైకయీ ||"
+    ],
+    vicheda: [
+      "यौवराज्येन संयोक्तुम् ऐच्छत् प्रीत्या मही-पतिः |",
+      "तस्य अभिषेक-सम्भारान् दृष्ट्वा भार्या अथ कैकयी ||"
+    ],
+    anvaya: [
+      "महीपतिः प्रीत्या यौवराज्येन संयोक्तुम् ऐच्छत्, अथ तस्य अभिषेकसम्भारान् दृष्ट्वा भार्या कैकयी... ||"
+    ],
+    prose: [],
+    transl: [
+      "The lord of the earth (King Dasharatha), out of deep affection, desired to invest Him with the position of crown prince. Thereafter, seeing the preparations arranged for that coronation, his wife Kaikeyi..."
+    ],
+    transl_tel: [
+      "మహారాజైన దశరథుడు ఎంతో ప్రేమతో రామునికి యువరాజ పట్టాభిషేకం చేయాలని నిశ్చయించాడు. ఆ పట్టాభిషేకానికి జరుగుతున్న వైభవవంతమైన ఏర్పాట్లను చూసి, ఆయన భార్యయైన కైకేయి..."
+    ],
+    essence: [
+      "This verse seamlessly carries forward the thought from the previous slokas. King Dasharatha officially moves forward with his heart's desire to install Rama as the crown prince. However, upon witnessing the grand ceremonial items and materials accumulating for the festive event, his queen Kaikeyi steps into the narrative arc."
+    ],
+    meanings: [
+      "यौवराज्येन = With the status of crown prince (Yuvaraja)",
+      "संयोक्तुम् = To join / Invest with",
+      "ऐच्छत् = Desired / Wished",
+      "प्रीत्या = Out of deep affection / Love",
+      "मही-पतिः = Lord of the earth / King Dasharatha",
+      "तस्य = His (Rama's)",
+      "अभिषेक-सम्भारान् = Preparations / Paraphernalia for the coronation ritual",
+      "दृष्ट्वा = Having seen",
+      "भार्या = Wife",
+      "अथ = Thereafter / Then",
+      "कैकयी = Queen Kaikeyi"
+    ],
+    grammar: [],
+    notes: [
+      "This verse represents the precise tipping point of the Ayodhya Kanda's backstory. It introduces the sudden visual contrast of the grand celebratory arrangements (*Abhisheka-sambharan*) turning into a catalyst for conflict.",
+      "The grammar here remains linked in suspension with the following verse to outline Kaikeyi's subsequent actions."
+    ]
+  },
+  {
+    chapter: 1,
+    number: 22,
+    sloka: [
+      "पूर्वं दत्तवरा देवी वरमेनं अयाचत |",
+      "विवासनं च रामस्य भरतस्याभिषेचनम् ||"
+    ],
+    sloka_tel: [
+      "పూర్వం దత్తవరా దేవీ వరమేనం అయాచత |",
+      "వివాసనం చ రామస్య భరతస్యాభిషేచనం ||"
+    ],
+    vicheda: [
+      "पूर्वम् दत्त-वरा देवी वरम् एनम् अयाचत |",
+      "विवासनम् च रामस्य भरतस्य अभिषेचनम् ||"
+    ],
+    anvaya: [
+      "पूर्वम् दत्तवरा देवी कैकयी रामस्य विवासनं भरतस्य अभिषेचनम् च (इति) एनम् वरम् अयाचत ||"
+    ],
+    prose: [],
+    transl: [
+      "Queen Kaikeyi, to whom boons had been promised in the past, demanded those boons from the king: namely, the exile of Rama to the forest and the coronation of her own son, Bharata."
+    ],
+    transl_tel: [
+      "గతంలో దశరథుడి చేత వరాలు పొంది ఉన్న కైకేయీ దేవి, రాముడిని అడవులకు పంపడం (వివాసనం), తన కుమారుడైన భరతుడికి పట్టాభిషేకం చేయడం అనే ఈ రెండు వరాలను కోరింది."
+    ],
+    essence: [
+      "Narada details Kaikeyi's direct intervention. Activating two ancient promises (boons) given to her by Dasharatha for saving his life on an old battlefield, she asks for two specific things: Rama must be exiled to the dangerous forests for fourteen years, and her own son Bharata must be crowned king instead."
+    ],
+    meanings: [
+      "पूर्वम् = In the past",
+      "दत्त-वरा = One to whom boons had been granted",
+      "देवी = The queen (Kaikeyi)",
+      "वरम् = Boon / Choice",
+      "एनम् = This",
+      "अयाचत = Begged / Demanded",
+      "विवासनम् = Exile / Banishment",
+      "च = And",
+      "रामस्य = Of Rama",
+      "भरतस्य = Of Bharata",
+      "अभिषेचनम् = Coronation / Anointment"
+    ],
+    grammar: [],
+    notes: [
+      "The compound 'Datta-vara' highlights that Dasharatha was already bound by his moral word before this crisis occurred, leaving him legally and ethically trapped by his devotion to truth (*Satya*).",
+      "This verse summarizes the core crisis that alters the destiny of all the characters, shifting the epic from a palace chronicle to an expansive forest journey."
+    ]
+  },
+  {
+    chapter: 1,
+    number: 23,
+    sloka: [
+      "स सत्यवचनात् राजा धर्मपाशेन संयतः |",
+      "विवासयामास सुतं रामं दशरथः प्रियम् ||"
+    ],
+    sloka_tel: [
+      "స సత్యవచనాత్ రాజా ధర్మపాశేన సంయతః |",
+      "వివాసయామాస సుతం రామం దశరథః ప్రియమ్ ||"
+    ],
+    vicheda: [
+      "सः सत्य-वचनात् राजा धर्म-पाशेन संयतः |",
+      "विवासयामास सुतम् रामम् दशरथः प्रियम् ||"
+    ],
+    anvaya: [
+      "सः राजा दशरथः सत्यवचनात् धर्मपाशेन संयतः (सन्), प्रियं सुतं रामं विवासयामास ||"
+    ],
+    prose: [],
+    transl: [
+      "Bound by the unyielding bond of righteousness to keep his spoken word, that King Dasharatha banished his deeply beloved eldest son Rama."
+    ],
+    transl_tel: [
+      "ఆ దశరథ మహారాజు తాను ఇచ్చిన మాటకు కట్టుబడి, ధర్మపాశము చేత బంధించబడినవాడై, తనకెంతో ప్రియమైన కుమారుడైన రాముడిని అడవులకు పంపించాడు."
+    ],
+    essence: [
+      "Narada explains Dasharatha's painful predicament. Bound firmly by the strict chords of duty and his absolute commitment to stay truthful to his promises (*Dharma-pasha*), the heartbroken king has no choice but to order the exile of his dearest son, prioritizing cosmic righteousness over his own paternal love."
+    ],
+    meanings: [
+      "सः = That",
+      "सत्य-वचनात् = On account of his truthful word / Promise",
+      "राजा = The king",
+      "धर्म-पाशेन = By the noose / Shackle of righteousness",
+      "संयतः = Bound / Restrained / Controlled",
+      "विवासयामास = Banished / Exiled",
+      "सुतम् = Son",
+      "रामम् = Rama",
+      "दशrathः = King Dasharatha",
+      "प्रियम् = Beloved"
+    ],
+    grammar: [],
+    notes: [
+      "The metaphor 'Dharma-pasha' (the cord of righteousness) shows that Dasharatha did not exile Rama out of weakness toward Kaikeyi, but out of an unbending compliance with truth. Breaking a promise would destroy the integrity of his entire kingdom's moral framework."
+    ]
+  },
+  {
+    chapter: 1,
+    number: 24,
+    sloka: [
+      "स जगाम वनं वीरः प्रतिज्ञामनुपालयन् |",
+      "पितुर्वचननिर्देशात् कैकेय्याः प्रियकारणात् ||"
+    ],
+    sloka_tel: [
+      "స జగామ వనం వీరః ప్రతిజ్ఞామనుపాలయన్ |",
+      "పితుర్వచననిర్దేశాత్ కైకేయ్యాః ప్రియకారణాత్ ||"
+    ],
+    vicheda: [
+      "सः जगाम वनम् वीरः प्रतिज्ञाम अनुपालयन् |",
+      "पितुः वचन-निर्देशात् कैकेय्याः प्रिय-कारणात् ||"
+    ],
+    anvaya: [
+      "सः वीरः पितुः वचननिर्देशात् कैकेय्याः प्रियकारणात् च प्रतिज्ञाम् अनुपालयन् वनं जगाम ||"
+    ],
+    prose: [],
+    transl: [
+      "That heroic Rama departed for the forest, faithfully executing the vow to honor his father's command and to ensure that the desire of Kaikeyi was fully gratified."
+    ],
+    transl_tel: [
+      "ఆ పరాక్రమవంతుడైన రాముడు తన తండ్రి ఆజ్ఞను పాలిస్తూ, కైకేయికి ఇష్టమైనది చేయడం కోసం, తండ్రి మాట నిలబెట్టే ప్రతిజ్ఞతో అరణ్యమునకు వెళ్ళాడు."
+    ],
+    essence: [
+      "Rama accepts the decree with absolute calmness and grace. Demonstrating true heroism, he leaves for the wild forest to protect his father's honor, keep the king's promise valid, and satisfy his stepmother Kaikeyi's wishes, without harboring any anger or resentment."
+    ],
+    meanings: [
+      "सः = He (Rama)",
+      "जगाम = Went / Departed",
+      "वनम् = To the forest",
+      "वीरः = The hero / Brave one",
+      "प्रतिज्ञाम् = Promise / Vow",
+      "अनुपालयन् = Protecting / Complying with",
+      "पितुः = Of the father",
+      "वचन-निर्देशात् = According to the explicit instruction of the word",
+      "कैकेय्याः = Of Kaikeyi",
+      "प्रिय-कारणात् = For the purpose of pleasing / Gratifying"
+    ],
+    grammar: [],
+    notes: [
+      "This verse defines Rama's core identity as 'Pitri-vakya-paripalaka' (the protector of the father's word). His heroism (*Virah*) here is not displayed through fighting, but through his immense emotional strength and radical compliance with ethical codes."
+    ]
+  },
+  {
+    chapter: 1,
+    number: 25,
+    sloka: [
+      "तं व्रजन्तं प्रियो भ्राता लक्ष्मणोऽनुजगाम ह |",
+      "स्नेहाद्विनयसम्पन्नः सुमित्रानन्दवर्धनः ||"
+    ],
+    sloka_tel: [
+      "తం వ్రజంతం ప్రియో భ్రాతా లక్ష్మణోఽనుజగామ హ |",
+      "స్నేహాద్వినయసంపన్నః సుమిత్రానందవర్ధనః ||"
+    ],
+    vicheda: [
+      "तम् व्रजन्तम् प्रियः भ्राता लक्ष्मणः अनुजगाम ह |",
+      "स्नेहात् विनय-सम्पन्नः सुमित्रा-आनन्द-वर्धनः ||"
+    ],
+    anvaya: [
+      "व्रजन्तं तम् विनयसम्पन्नः सुमित्रानन्दवर्धनः प्रियः भ्राता लक्ष्मणः स्नेहात् अनुजगाम ह ||"
+    ],
+    prose: [],
+    transl: [
+      "As He was departing, His beloved brother Lakshmana—endowed with absolute humility and who enhances the happiness of his mother Sumitra—followed Him out of pure, deep affection."
+    ],
+    transl_tel: [
+      "అడవికి వెళ్తున్న ఆ రాముడిని అనుసరిస్తూ, వినయ సంపన్నుడు, సుమిత్రకు ఆనందాన్ని పెంచేవాడు అయిన ఆయన ప్రియసహోదరుడు లక్ష్మణుడు కేవలం స్నేహపూర్వక అనురాగంతో కూడా వెళ్ళాడు."
+    ],
+    essence: [
+      "Rama is not left to face the wilderness entirely alone. His younger brother Lakshmana, an embodiment of modesty and affection, refuses to stay behind in luxury. Out of profound love and devotion, he walks out of the palace to serve and protect Rama throughout his exile."
+    ],
+    meanings: [
+      "तम् = Him (Rama)",
+      "व्रजन्तम् = While departing / Walking away",
+      "प्रियः = Beloved",
+      "भ्राता = Brother",
+      "लक्ष्मणः = Lakshmana",
+      "अनुजगाम = Followed",
+      "ह = Indeed (historical emphasis)",
+      "स्नेहात् = Out of deep love / Affection",
+      "विनय-सम्पन्नः = Richly endowed with humility / Modesty",
+      "सुमित्रा-आनन्द-वर्धनः = One who increases the joy of Sumitra"
+    ],
+    grammar: [],
+    notes: [
+      "The bond between Rama and Lakshmana established here highlights the highest ideal of fraternal loyalty. Lakshmana's exile is entirely voluntary, driven completely by personal choice and love (*Snehát*)."
+    ]
+  },
+  {
+    chapter: 1,
+    number: 26,
+    sloka: [
+      "भ्रातरं दयितो भ्रातुः सौभ्रात्रमनुदर्शयन् |",
+      "रामस्य दयिता भार्या नित्यं प्राणसमा हिता ||"
+    ],
+    sloka_tel: [
+      "భ్రాతరం దయితా భ్రాతుః సౌభ్రాత్రమనుదర్శయన్ |",
+      "రామస్య దయితా భార్యా నిత్యం ప్రాణసమా హితా ||"
+    ],
+    vicheda: [
+      "भ्रातरम् दयितः भ्रातुः सौభ्रात्रम् अनुदर्शयन् |",
+      "रामस्य दयिता भार्या नित्यम् प्राण-समा हिता ||"
+    ],
+    anvaya: [
+      "भ्रातुः दयितः (लक्ष्मणः) सौभ्रात्रम् अनुदर्शयन् भ्रातरं (रामम् अनुजगाम). रामस्य नित्यम् प्रिया प्राणसमा हिता भार्या... ||"
+    ],
+    prose: [],
+    transl: [
+      "...Demonstrating the highest standard of brotherly love toward his adored sibling. Rama's beloved wife, who was ever matching His life-breath itself and always devoted to His welfare..."
+    ],
+    transl_tel: [
+      "తన అన్నపై గల నిరుపమానమైన సోదరప్రేమను చాటుకుంటూ లక్ష్మణుడు వెళ్ళాడు. అలాగే రాముడికి నిరంతరం ప్రియమైనది, ఆయన ప్రాణంతో సమానమైనది, ఆయన హితాన్ని కోరే భార్య..."
+    ],
+    essence: [
+      "Narada completes the picture of Lakshmana's fraternal dedication and shifts directly to introduce Sita. Sita is described as Rama's cherished soulmate, whose life matches his own in perfect harmony, and who constantly acts for his absolute welfare."
+    ],
+    meanings: [
+      "भ्रातरम् = Brother (Rama)",
+      "दयितः = Beloved / Dearly loving",
+      "भ्रातुः = Toward his brother",
+      "सौभ्रात्रम् = Good brotherly qualities / Ideal fraternity",
+      "अनुदर्शयन् = Exhibiting / Manifesting clearly",
+      "रामस्य = Of Rama",
+      "दयिता = Beloved / Dear",
+      "भार्या = Wife (Sita)",
+      "नित्यम् = Always / Eternally",
+      "प्राण-समा = Equal to his very life-breath",
+      "हिता = Intently acting for his welfare"
+    ],
+    grammar: [],
+    notes: [
+      "This verse acts as a bridge. The first half concludes Lakshmana's motives, while the second half initiates a beautiful description of Sita, leading directly into verse 27."
+    ]
+  },
+  {
+    chapter: 1,
+    number: 27,
+    sloka: [
+      "जनकस्य कुले जाता देवमायेव निर्मिता |",
+      "सर्वलक्षणसम्पन्ना नारीणामुत्तमा वधूः ||"
+    ],
+    sloka_tel: [
+      "జనకస్య కులే జాతా దేవమాయేవ నిర్మితా |",
+      "సర్వలక్షణసంపన్నా నారీణాముత్తమా వధూః ||"
+    ],
+    vicheda: [
+      "जनकस्य कुले जाता देव-माया इव निर्मिता |",
+      "सर्व-लक्षण-सम्पन्ना नारीणाम् उत्तमा वधूः ||"
+    ],
+    anvaya: [
+      "जनकस्य कुले जाता, देवमाया इव निर्मिता, सर्वलक्षणसम्पन्ना नारीणाम् उत्तमा वधूः (सीता च)... ||"
+    ],
+    prose: [],
+    transl: [
+      "...Born in the noble family of King Janaka, appearing as if she were an embodiment of divine enchantment, endowed with every auspicious feature, and the foremost among all virtuous women, that bride Sita..."
+    ],
+    transl_tel: [
+      "జనక మహారాజు వంశంలో జన్మించినది, దైవికమైన మాయాశక్తి వలె అద్భుతంగా సృష్టించబడినది, సర్వశుభలక్షణములు కలిగినది, నారీమణులలో అత్యంత ఉత్తమురాలైన ఆ వధువు సీతాదేవి..."
+    ],
+    essence: [
+      "Narada introduces Sita with deep reverence. Born in the spiritually advanced lineage of King Janaka, her beauty and grace are so extraordinary that she looks like a masterwork of divine creation. She bears every perfect physical and moral sign and stands out as the finest example among women."
+    ],
+    meanings: [
+      "जनकस्य = Of King Janaka",
+      "कुले = In the family / Lineage",
+      "जाता = Born",
+      "देव-माया = Divine enchantment / Cosmic power",
+      "इव = Like",
+      "निर्मिता = Created / Fashioned",
+      "सर्व-लक्षण-सम्पन्ना = Perfect with all ideal attributes and features",
+      "नारीणाम् = Among women",
+      "उत्तमा = The highest / Foremost",
+      "वधूः = Daughter-in-law / Bride / Wife"
+    ],
+    grammar: [],
+    notes: [
+      "The comparison 'Deva-maya iva nirmita' hints at Sita's cosmic origin as Goddess Lakshmi, while 'Narinam uttama' anchors her status as the benchmark of moral strength and feminine dignity in the epic canvas."
+    ]
+  },
+  {
+    chapter: 1,
+    number: 28,
+    sloka: [
+      "सीताप्यनुगता रामं शशिनं रोहिणी यथा |",
+      "पौरैरनुगतो दूरं पित्रा दशरथेन च ||"
+    ],
+    sloka_tel: [
+      "సీతాప్యనుగతా రామం శశినం రోహిణీ యథా |",
+      "పౌరైరనులతో దూరం పిత్రా దశరథేన చ ||"
+    ],
+    vicheda: [
+      "सीता अपि अनुगता रामम् शशिनम् रोहिणी यथा |",
+      "पौरैः अनुगतः दूरम् पित्रा दशरथेन च ||"
+    ],
+    anvaya: [
+      "रोहिणी शशिनं यथा, सीता अपि रामम् अनुगता. (सः रामः) पौरैः पित्रा दशरथेन च दूरम् अनुगतः ||"
+    ],
+    prose: [],
+    transl: [
+      "...Sita too accompanied Rama, just as the constellation Rohini ever accompanies the Moon. Rama was followed for a great distance by the weeping citizens and by his heartbroken father, King Dasharatha."
+    ],
+    transl_tel: [
+      "చంద్రుడిని రోహిణీ దేవి అనుసరించినట్లుగా, సీతాదేవి కూడా రాముడి వెంట వెళ్ళింది. ఆ సమయంలో పురప్రజలు, తండ్రి అయిన దశరథుడు కూడా వారి వెనుక చాలా దూరం వరకు అనుసరిస్తూ వెళ్ళారు."
+    ],
+    essence: [
+      "Sita joins Rama's exile automatically, a union as natural and unalterable as the star Rohini staying with the Moon in the night sky. As the trio walks away from Ayodhya, the grief-stricken citizens and King Dasharatha follow them for miles, unable to easily detach themselves from Rama."
+    ],
+    meanings: [
+      "सीता = Sita",
+      "अपि = Also",
+      "अनुगता = Accompanied / Followed",
+      "रामम् = Rama",
+      "शशिनम् = The moon",
+      "रोहिणी = The star constellation Rohini",
+      "यथा = Just as",
+      "पौरैः = By the citizens / Townsfolk",
+      "अनुगतः = Followed",
+      "दूरम् = To a great distance",
+      "पित्रा = By the father",
+      "दशरथेन = By Dasharatha",
+      "च = And"
+    ],
+    grammar: [],
+    notes: [
+      "The moon-and-star simile emphasizes that Sita's place is fundamentally next to Rama, irrespective of whether he resides in a gilded palace or a rough forest clearing. The citizens' tracking behind them demonstrates the deep democratic love Rama commanded."
+    ]
+  },
+  {
+    chapter: 1,
+    number: 29,
+    sloka: [
+      "शृङ्गीवेरपुरे सूतं गङ्गाकूले व्यसर्जयत् |",
+      "गुहमासाद्य धर्मात्मा निषादाधिपतिं प्रियम् ||"
+    ],
+    sloka_tel: [
+      "శృంగివేరపురే సూతం గంగాకూలే వ్యసర్జయత్ |",
+      "గుహమాసాద్య ధర్మాత్మా నిషాదాధిపతిం ప్రియమ్ ||"
+    ],
+    vicheda: [
+      "शृङ्गीवेर-पुरे सूतम् गङ्गा-कूले व्यसर्जयत् |",
+      "गुहम् आसाद्य धर्म-आत्मा निषाद-अधिपतिम् प्रियम् ||"
+    ],
+    anvaya: [
+      "धर्मात्मा (सः रामः) गङ्गाकूले शृङ्गीवेरपुरे प्रियम् निषादाधिपतिं गुहम् आसाद्य सूतं व्यसर्जयत् ||"
+    ],
+    prose: [],
+    transl: [
+      "Reaching the town of Shringiverapura on the banks of the holy river Ganga, the righteous Rama met his dear friend Guha, the king of the Nishadas, and sent back his charioteer Sumantra."
+    ],
+    transl_tel: [
+      "ధర్మాత్ముడైన రాముడు గంగానది తీరంలో ఉన్న శృంగివేరపురానికి చేరుకుని, అక్కడ తన ప్రియమిత్రుడు, బోయలకు రాజు (నిషాదాధిపతి) అయిన గుహుడిని కలుసుకుని, తన రథసారథియైన సుమంత్రుడిని వెనక్కు పంపివేశాడు."
+    ],
+    essence: [
+      "The exile journey hits its first major geographic milestone. Arriving at Shringiverapura along the banks of the Ganges, the righteous Rama meets his loyal friend Guha, a tribal king. At this boundary, Rama decides to officially dismiss the royal chariot and sends the charioteer Sumantra back to the capital."
+    ],
+    meanings: [
+      "शृङ्गीवेर-पुरे = In the town of Shringiverapura",
+      "सूतम् = The charioteer (Sumantra)",
+      "गङ्गा-कूले = On the bank of the river Ganga",
+      "व्यसर्जयत् = Sent back / Dismissed",
+      "गुहम् = Guha",
+      "आसाद्य = Having approached / Met",
+      "धर्म-आत्मा = The righteous-souled one (Rama)",
+      "निषाद-अधिपतिम् = The king of the hunter tribes (Nishadas)",
+      "प्रियम् = Dear / Beloved"
+    ],
+    grammar: [],
+    notes: [
+      "By dismissing the chariot and driver, Rama formally transitions from a prince on a journey to an ascetic practicing complete forest exile. His deep intimacy with Guha breaks all social stratification, highlighting his universal accessibility."
+    ]
+  },
+  {
+    chapter: 1,
+    number: 30,
+    sloka: [
+      "गुहेन सहितो रामो लक्ष्मणेन च सीतया |",
+      "तेन वनेन वनं गत्वा नदीस्तीर्त्वा बहूदकाः ||"
+    ],
+    sloka_tel: [
+      "గుహేన సహితో రామో లక్ష్మణేన చ సీతయా |",
+      "తేన వనేన వనం గత్వా నదీస్తీర్త్వా బహూదకాః ||"
+    ],
+    vicheda: [
+      "गुहेन सहितः रामः लक्ष्मणेन च सीतया |",
+      "तेन वनेन वनम् गत्वा नदीः तीर्त्वा बहु-उदकाः ||"
+    ],
+    anvaya: [
+      "लक्ष्मणेन सीतया च सहितः रामः गुहेन (नावानीतेन) बहूदकाः नदीः तीर्त्वा, तेन वनेन वनं गत्वा... ||"
+    ],
+    prose: [],
+    transl: [
+      "Accompanied by Lakshmana and Sita, and aided by Guha, Rama crossed deep, wide rivers flowing with copious waters, moving steadily from one dense forest to another..."
+    ],
+    transl_tel: [
+      "సీతాలక్ష్మణులతో కూడిన రాముడు, గుహుడి సహాయంతో ఎక్కువ నీరున్న నదులను దాటి, ఆయా అడవుల గుండా ఒక వనము నుండి మరొక వనమునకు ప్రయాణమయ్యాడు."
+    ],
+    essence: [
+      "With the assistance of Guha (who provides boats and guidance), Rama, Sita, and Lakshmana cross the deep, wide waters of the sacred Ganges. They push deeper into the wilderness, moving systematically from one forest zone into another as their journey advances."
+    ],
+    meanings: [
+      "गुहेन = By / With the help of Guha",
+      "सहितः = Accompanied by / Together with",
+      "रामः = Rama",
+      "लक्ष्मणेन = With Lakshmana",
+      "च = And",
+      "सीतया = With Sita",
+      "तेन = Through that",
+      "वनेन = Through the forest paths",
+      "वनम् = Deep forest interior",
+      "गत्वा = Having gone",
+      "नदीः = Rivers",
+      "तीर्त्वा = Having crossed over",
+      "बहु-उदकाः = Possessing vast quantities of water / Deep and wide"
+    ],
+    grammar: [],
+    notes: [
+      "This verse captures the physical reality of the exile. Crossing 'Bahu-dakah' (deep rivers) marks their definitive detachment from civil infrastructure, transitioning fully into the rugged terrain of nature.",
+      "The sentence structure continues directly into the next verse to pinpoint their next historical sanctuary."
+    ]
+  },
+  {
     chapter: 1,
     number: 31,
     sloka: [
@@ -2050,7 +2058,7 @@ const verses = [
       "This verse sets up the reason for their next major geographic move. Rama’s high popularity makes true isolation impossible near the borders of Kosala, forcing him to seek privacy deeper inside central India's dense jungles."
     ]
   },
-{
+  {
     chapter: 1,
     number: 41,
     sloka: [
