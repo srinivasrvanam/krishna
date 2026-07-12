@@ -1018,9 +1018,17 @@ const verses = [
       "काल-अग्नि-सदृशः क्रोधे क्षमया पृथ्वी-समः ||"
     ],
     anvaya: [
-      "(सः) वीर्ये विष्णुना सदृशः, सोमवत् प्रियदर्शनः, क्रोधे कालाग्निसदृशः, क्षमया पृथ्वीसमः (अस्ति) ||"
+      "(सः) वीर्ये विष्णुना सदृशः",
+      "सोमवत् प्रियदर्शनः",
+      "क्रोधे कालाग्निसदृशः",
+      "क्षमया पृथ्वीसमः (अस्ति) ||"
     ],
-    prose: [],
+    prose: [
+      "In valor he is comparable to Lord Vishnu",
+      "In pleasing appearnce he is like gentle moon",
+      "In righteous anger, he is comparable to all consuming destructive fire at the end of time",
+      "In forgiveness he is equal to Earth",
+    ],
     transl: [
       "In valor He is equal to Lord Vishnu; in pleasing appearance He is like the gentle moon. In righteous anger He is comparable to the all-consuming destructive fire at the end of time, yet in patience and forgiveness He is equal to the tolerant Earth."
     ],
