@@ -1073,7 +1073,7 @@ const verses = [
     anvaya: [
       "(यः) त्यागे धन-देन समः",
       "सत्ये अपरः धर्मः इव (अस्ति)",
-      "एवम् गुणसम्पन्नं सत्यपराक्रमं तम् रामम्... ||"
+      "... (added in next sloka)"
     ],
     prose: [
       "In charity/sacrifice, he is equal to Kubera",
@@ -1097,11 +1097,6 @@ const verses = [
       "धर्मः = Dharma (righteousness personified)",
       "इव = Like",
       "अपरः = Another / A second",
-      "तम् = Him",
-      "एवम् = In this manner",
-      "गुण-सम्पन्नम् = Richly endowed with virtues",
-      "रामम् = Rama",
-      "सत्य-पराक्रमम् = One whose power and valor are always backed by truth"
     ],
     grammar: [],
     notes: [
@@ -1113,21 +1108,49 @@ const verses = [
     chapter: 1,
     number: 20,
     sloka: [
+      "तमेवं गुणसम्पन्नं रामं सत्यपराक्रमम् || 19b",
       "ज्येष्ठं श्रेष्ठगुणैर्युक्तं प्रियं दशरथः सुतम् |",
-      "प्रकृतीనాం हितैर्युक्तं प्रकृतिप्रियकाम्यया ||"
+      "प्रकृतीनाम् हितैर्युक्तं प्रकृतिप्रियकाम्यया || 20",
+      "यौवराज्येन संयोक्तुमैच्छत्प्रीत्या महीपतिः | 21a",
     ],
     sloka_tel: [
+      "తమేవం గుణసంపన్నం రామం సత్యపరాక్రమమ్ || 19b",
       "జ్యేష్ఠం శ్రేష్ఠగుణైర్యుక్తం ప్రియం దశరథః సుతమ్ |",
-      "ప్రకృతీనాం హితైర్యుక్తం ప్రకృతిప్రియకామ్యయా ||"
+      "ప్రకృతీనాం హితైర్యుక్తం ప్రకృతిప్రియకామ్యయా || 20",
+      "యౌవరాజ్యేన సంయోక్తుమైచ్ఛత్ప్రీత్యా మహీపతిః | 21a",
     ],
     vicheda: [
       "ज्येष्ठम् श्रेष्ठ-गुणैः युक्तम् प्रियम् दशरथः सुतम् |",
       "प्रकृतीनाम् हितैः युक्तम् प्रकृति-प्रिय-काम्यया ||"
     ],
     anvaya: [
-      "दशरथः श्रेष्ठगुणैः युक्तं प्रकृतीनां हितैः युक्तं प्रियं ज्येष्ठम् सुतम् रामम् प्रकृतिप्रियकाम्यయా... ||"
+      "19b - 20 - 21a",
+      "महीपतिः दशरथः",
+      "- - (एवम् गुणसम्पन्नं)",
+      "- - (सत्य-पराक्रमम्)",
+      "- - (श्रेष्ठगुणैः युक्तं)",
+      "- - (प्रकृतीनां हितैः युक्तं)",
+      "- - (प्रियं ज्येष्ठम् सुतम्)",
+      "- - (तम्) रामम्",
+      "- प्रकृतिप्रियकाम्यया",
+      "- प्रीत्या",
+      "- यौवराज्येन संयोक्तुम् ",
+      "ऐच्छत्",
     ],
-    prose: [],
+    prose: [
+      "19b - 20 - 21a",
+      "Lord of the earth (King) Dasharatha",
+      "- - thus richly endowed with virtues",
+      "- - one whose valor is backed by truth",
+      "- - endowed with best virtues",
+      "- - engaged with welfare of people",
+      "- - dear and first son",
+      "- - that rama",
+      "- for the welfare of his people",
+      "- affectionately",
+      "- to endow with regent-hood",
+      "desired",
+    ],
     transl: [
       "...King Dasharatha, out of an earnest desire to ensure the affection and welfare of his citizens, wished to crown his beloved eldest son Rama, who possessed preeminent virtues and was deeply devoted to the welfare of the people."
     ],
@@ -1138,6 +1161,11 @@ const verses = [
       "Picking up from the previous verse, Narada moves into the actual history of Ayodhya. King Dasharatha, recognizing that his eldest and dearest son Rama possesses unmatched attributes and works tirelessly for the collective good, decides to initiate his coronation as the crown prince (*Yuvaraja*) purely to delight and bless his subjects."
     ],
     meanings: [
+      "तम् = Him",
+      "एवम् = In this manner",
+      "गुण-सम्पन्नम् = Richly endowed with virtues",
+      "रामम् = Rama",
+      "सत्य-पराक्रमम् = One whose power and valor are always backed by truth",
       "ज्येष्ठम् = The eldest",
       "श्रेष्ठ-गुणैः = With superlative / Preeminent virtues",
       "युक्तम् = Endowed",
@@ -1147,7 +1175,12 @@ const verses = [
       "प्रकृतीनाम् = Of the citizens / Subjects / State elements",
       "हितैः = With the welfare / Well-being",
       "युक्तम् = Associated / Intently engaged",
-      "प्रकृति-प्रिय-काम्यया = With a desire to secure the affection and pleasure of the citizens"
+      "प्रकृति-प्रिय-काम्यया = With a desire to secure the affection and pleasure of the citizens",
+      "यौवराज्येन = With the status of crown prince (Yuvaraja)",
+      "संयोक्तुम् = To join / Invest with",
+      "ऐच्छत् = Desired / Wished",
+      "प्रीत्या = Out of deep affection / Love",
+      "मही-पतिः = Lord of the earth / King Dasharatha",
     ],
     grammar: [],
     notes: [
@@ -1184,11 +1217,6 @@ const verses = [
       "This verse seamlessly carries forward the thought from the previous slokas. King Dasharatha officially moves forward with his heart's desire to install Rama as the crown prince. However, upon witnessing the grand ceremonial items and materials accumulating for the festive event, his queen Kaikeyi steps into the narrative arc."
     ],
     meanings: [
-      "यौवराज्येन = With the status of crown prince (Yuvaraja)",
-      "संयोक्तुम् = To join / Invest with",
-      "ऐच्छत् = Desired / Wished",
-      "प्रीत्या = Out of deep affection / Love",
-      "मही-पतिः = Lord of the earth / King Dasharatha",
       "तस्य = His (Rama's)",
       "अभिषेक-सम्भारान् = Preparations / Paraphernalia for the coronation ritual",
       "दृष्ट्वा = Having seen",
