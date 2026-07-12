@@ -1483,9 +1483,11 @@ const verses = [
       "रामस्य दयिता भार्या नित्यम् प्राण-समा हिता ||"
     ],
     anvaya: [
-      "भ्रातुः दयितः (लक्ष्मणः) सौभ्रात्रम् अनुदर्शयन् भ्रातरं (रामम् अनुजगाम). रामस्य नित्यम् प्रिया प्राणसमा हिता भार्या... ||"
+      "done in prev & next sloka"
     ],
-    prose: [],
+    prose: [
+      "done in prev & next sloka"
+    ],
     transl: [
       "...Demonstrating the highest standard of brotherly love toward his adored sibling. Rama's beloved wife, who was ever matching His life-breath itself and always devoted to His welfare..."
     ],
@@ -1496,12 +1498,6 @@ const verses = [
       "Narada completes the picture of Lakshmana's fraternal dedication and shifts directly to introduce Sita. Sita is described as Rama's cherished soulmate, whose life matches his own in perfect harmony, and who constantly acts for his absolute welfare."
     ],
     meanings: [
-      "रामस्य = Of Rama",
-      "दयिता = Beloved / Dear",
-      "भार्या = Wife (Sita)",
-      "नित्यम् = Always / Eternally",
-      "प्राण-समा = Equal to his very life-breath",
-      "हिता = Intently acting for his welfare"
     ],
     grammar: [],
     notes: [
@@ -1512,21 +1508,45 @@ const verses = [
     chapter: 1,
     number: 27,
     sloka: [
+      "रामस्य दयिता भार्या नित्यं प्राणसमा हिता || 26b",
       "जनकस्य कुले जाता देवमायेव निर्मिता |",
-      "सर्वलक्षणसम्पन्ना नारीणामुत्तमा वधूः ||"
+      "सर्वलक्षणसम्पन्ना नारीणामुत्तमा वधूः || 27",
+      "सीताप्यनुगता रामं शशिनं रोहिणी यथा | 28a",
     ],
     sloka_tel: [
+      "రామస్య దయితా భార్యా నిత్యం ప్రాణసమా హితా || 26b",
       "జనకస్య కులే జాతా దేవమాయేవ నిర్మితా |",
-      "సర్వలక్షణసంపన్నా నారీణాముత్తమా వధూః ||"
+      "సర్వలక్షణసంపన్నా నారీణాముత్తమా వధూః || 27",
+      "సీతాప్యనుగతా రామం శశినం రోహిణీ యథా | 28a",
     ],
     vicheda: [
+      "रामस्य दयिता भार्या नित्यम् प्राण-समा हिता || 26b",
       "जनकस्य कुले जाता देव-माया इव निर्मिता |",
-      "सर्व-लक्षण-सम्पन्ना नारीणाम् उत्तमा वधूः ||"
+      "सर्व-लक्षण-सम्पन्ना नारीणाम् उत्तमा वधूः || 27",
+      "सीता अपि अनुगता रामम् शशिनम् रोहिणी यथा | 28a",
     ],
     anvaya: [
-      "जनकस्य कुले जाता, देवमाया इव निर्मिता, सर्वलक्षणसम्पन्ना नारीणाम् उत्तमा वधूः (सीता च)... ||"
+      "26b - 27 - 28a",
+      "सीता अपि",
+      "- (रामस्य) दयिता भार्या नित्यम् प्राण-समा हिता",
+      "- जनकस्य कुले जाता",
+      "- देवमाया इव निर्मिता",
+      "- सर्वलक्षणसम्पन्ना",
+      "- नारीणाम् उत्तमा",
+      "- वधूः",
+      "रामम् अनुगता (रोहिणी शशिनं यथा)",
     ],
-    prose: [],
+    prose: [
+      "26b - 27 - 28a",
+      "Sita also",
+      "- who is Rama's beloved wife, who was ever matching His life-breath itself and always devoted to His welfare",
+      "- born in Janaka's family",
+      "- created like Deva Maya",
+      "- who is endowed with all best qualities(virtues)",
+      "- foremost among women",
+      "- bride",
+      "followed Rama (as if Rohini followed Chandra)",
+    ],
     transl: [
       "...Born in the noble family of King Janaka, appearing as if she were an embodiment of divine enchantment, endowed with every auspicious feature, and the foremost among all virtuous women, that bride Sita..."
     ],
@@ -1537,6 +1557,12 @@ const verses = [
       "Narada introduces Sita with deep reverence. Born in the spiritually advanced lineage of King Janaka, her beauty and grace are so extraordinary that she looks like a masterwork of divine creation. She bears every perfect physical and moral sign and stands out as the finest example among women."
     ],
     meanings: [
+      "रामस्य = Of Rama",
+      "दयिता = Beloved / Dear",
+      "भार्या = Wife (Sita)",
+      "नित्यम् = Always / Eternally",
+      "प्राण-समा = Equal to his very life-breath",
+      "हिता = Intently acting for his welfare",
       "जनकस्य = Of King Janaka",
       "कुले = In the family / Lineage",
       "जाता = Born",
@@ -1546,7 +1572,14 @@ const verses = [
       "सर्व-लक्षण-सम्पन्ना = Perfect with all ideal attributes and features",
       "नारीणाम् = Among women",
       "उत्तमा = The highest / Foremost",
-      "वधूः = Daughter-in-law / Bride / Wife"
+      "वधूः = Daughter-in-law / Bride / Wife",
+      "सीता = Sita",
+      "अपि = Also",
+      "अनुगता = Accompanied / Followed",
+      "रामम् = Rama",
+      "शशिनम् = The moon",
+      "रोहिणी = The star constellation Rohini",
+      "यथा = Just as",
     ],
     grammar: [],
     notes: [
@@ -1569,7 +1602,7 @@ const verses = [
       "पौरैः अनुगतः दूरम् पित्रा दशरथेन च ||"
     ],
     anvaya: [
-      "रोहिणी शशिनं यथा, सीता अपि रामम् अनुगता. (सः रामः) पौरैः पित्रा दशरथेन च दूरम् अनुगतः ||"
+      " (सः रामः) पौरैः पित्रा दशरथेन च दूरम् अनुगतः ||"
     ],
     prose: [],
     transl: [
@@ -1582,13 +1615,6 @@ const verses = [
       "Sita joins Rama's exile automatically, a union as natural and unalterable as the star Rohini staying with the Moon in the night sky. As the trio walks away from Ayodhya, the grief-stricken citizens and King Dasharatha follow them for miles, unable to easily detach themselves from Rama."
     ],
     meanings: [
-      "सीता = Sita",
-      "अपि = Also",
-      "अनुगता = Accompanied / Followed",
-      "रामम् = Rama",
-      "शशिनम् = The moon",
-      "रोहिणी = The star constellation Rohini",
-      "यथा = Just as",
       "पौरैः = By the citizens / Townsfolk",
       "अनुगतः = Followed",
       "दूरम् = To a great distance",
