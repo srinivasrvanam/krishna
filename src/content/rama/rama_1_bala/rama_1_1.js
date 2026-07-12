@@ -1415,9 +1415,19 @@ const verses = [
       "स्नेहात् विनय-सम्पन्नः सुमित्रा-आनन्द-वर्धनः ||"
     ],
     anvaya: [
-      "व्रजन्तं तम् विनयसम्पन्नः सुमित्रानन्दवर्धनः प्रियः भ्राता लक्ष्मणः स्नेहात् अनुजगाम ह ||"
+      "प्रियः भ्राता लक्ष्मणः",
+      "- सुमित्रानन्दवर्धनः",
+      "- विनयसम्पन्नः",
+      "- तम् व्रजन्तं (रामम्)",
+      "स्नेहात् अनुजगाम ह ||"
     ],
-    prose: [],
+    prose: [
+      "Dear Brother Lakshmana",
+      "- who enhances the joy of his mother Sumitra",
+      "- who is endowed with absolute humility",
+      "- that departing brother Rama",
+      "followed due to affection",
+    ],
     transl: [
       "As He was departing, His beloved brother Lakshmana—endowed with absolute humility and who enhances the happiness of his mother Sumitra—followed Him out of pure, deep affection."
     ],
