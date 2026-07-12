@@ -1071,9 +1071,15 @@ const verses = [
       "तम् एवम् गुण-सम्पन्नम् रामम् सत्य-पराक्रमम् ||"
     ],
     anvaya: [
-      "(यः) त्यागे धनदेन समः, सत्ये अपरः धर्मः इव (अस्ति), एवम् गुणसम्पन्नं सत्यपराक्रमं तम् रामम्... ||"
+      "(यः) त्यागे धन-देन समः",
+      "सत्ये अपरः धर्मः इव (अस्ति)",
+      "एवम् गुणसम्पन्नं सत्यपराक्रमं तम् रामम्... ||"
     ],
-    prose: [],
+    prose: [
+      "In charity/sacrifice, he is equal to Kubera",
+      "In truthfulness, he is like Dharma personified",
+      "... (added in next sloka)",
+    ],
     transl: [
       "In charity and generosity He is equal to Kubera (the god of wealth); in truthfulness He is like another personification of Dharma itself. To such a Rama, who is endowed with these sublime qualities and whose prowess is rooted in truth..."
     ],
