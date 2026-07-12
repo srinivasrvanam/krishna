@@ -1404,7 +1404,8 @@ const verses = [
     number: 25,
     sloka: [
       "तं व्रजन्तं प्रियो भ्राता लक्ष्मणोऽनुजगाम ह |",
-      "स्नेहाद्विनयसम्पन्नः सुमित्रानन्दवर्धनः ||"
+      "स्नेहाद्विनयसम्पन्नः सुमित्रानन्दवर्धनः || 25",
+      "भ्रातरं दयितो भ्रातुः सौभ्रात्रमनुदर्शयन् | 26a",
     ],
     sloka_tel: [
       "తం వ్రజంతం ప్రియో భ్రాతా లక్ష్మణోఽనుజగామ హ |",
@@ -1412,19 +1413,26 @@ const verses = [
     ],
     vicheda: [
       "तम् व्रजन्तम् प्रियः भ्राता लक्ष्मणः अनुजगाम ह |",
-      "स्नेहात् विनय-सम्पन्नः सुमित्रा-आनन्द-वर्धनः ||"
+      "स्नेहात् विनय-सम्पन्नः सुमित्रा-आनन्द-वर्धनः || 25",
+      "भ्रातरम् दयितः भ्रातुः सौभ्रात्रम् अनुदर्शयन् | 26a",
     ],
     anvaya: [
+      "25 - 26a",
       "प्रियः भ्राता लक्ष्मणः",
       "- सुमित्रानन्दवर्धनः",
       "- विनयसम्पन्नः",
-      "- तम् व्रजन्तं (रामम्)",
+      "- भ्रातुः दयितः",
+      "- - सौभ्रात्रम् अनुदर्शयन्",
+      "- तम् व्रजन्तं भ्रातरम् (रामम्)",
       "स्नेहात् अनुजगाम ह ||"
     ],
     prose: [
+      "25 - 26a",
       "Dear Brother Lakshmana",
       "- who enhances the joy of his mother Sumitra",
       "- who is endowed with absolute humility",
+      "- beloved of this brother (Rama)",
+      "- - demonstrating the brotherly qualities (ideal fraternity)",
       "- that departing brother Rama",
       "followed due to affection",
     ],
@@ -1447,7 +1455,12 @@ const verses = [
       "ह = Indeed (historical emphasis)",
       "स्नेहात् = Out of deep love / Affection",
       "विनय-सम्पन्नः = Richly endowed with humility / Modesty",
-      "सुमित्रा-आनन्द-वर्धनः = One who increases the joy of Sumitra"
+      "सुमित्रा-आनन्द-वर्धनः = One who increases the joy of Sumitra",
+      "भ्रातरम् = Brother (Rama)",
+      "दयितः = Beloved / Dearly loving",
+      "भ्रातुः = Toward his brother",
+      "सौभ्रात्रम् = Good brotherly qualities / Ideal fraternity",
+      "अनुदर्शयन् = Exhibiting / Manifesting clearly",
     ],
     grammar: [],
     notes: [
@@ -1483,11 +1496,6 @@ const verses = [
       "Narada completes the picture of Lakshmana's fraternal dedication and shifts directly to introduce Sita. Sita is described as Rama's cherished soulmate, whose life matches his own in perfect harmony, and who constantly acts for his absolute welfare."
     ],
     meanings: [
-      "भ्रातरम् = Brother (Rama)",
-      "दयितः = Beloved / Dearly loving",
-      "भ्रातुः = Toward his brother",
-      "सौभ्रात्रम् = Good brotherly qualities / Ideal fraternity",
-      "अनुदर्शयन् = Exhibiting / Manifesting clearly",
       "रामस्य = Of Rama",
       "दयिता = Beloved / Dear",
       "भार्या = Wife (Sita)",
