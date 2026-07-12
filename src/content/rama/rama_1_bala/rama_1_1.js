@@ -1358,13 +1358,21 @@ const verses = [
       "పితుర్వచననిర్దేశాత్ కైకేయ్యాః ప్రియకారణాత్ ||"
     ],
     vicheda: [
-      "सः जगाम वनम् वीरः प्रतिज्ञाम अनुपालयन् |",
+      "सः जगाम वनम् वीरः प्रतिज्ञाम् अनुपालयन् |",
       "पितुः वचन-निर्देशात् कैकेय्याः प्रिय-कारणात् ||"
     ],
     anvaya: [
-      "सः वीरः पितुः वचननिर्देशात् कैकेय्याः प्रियकारणात् च प्रतिज्ञाम् अनुपालयन् वनं जगाम ||"
+      "सः वीरः (रामः)",
+      "- (पितुः वचननिर्देशात्) (कैकेय्याः प्रियकारणात्)",
+      "- प्रतिज्ञाम् अनुपालयन्",
+      "वनं जगाम |"
     ],
-    prose: [],
+    prose: [
+      "That heroic Rama",
+      "- due to (his father's command) and (to please Kaikeyi)",
+      "- executing the vow",
+      "went to forest",
+    ],
     transl: [
       "That heroic Rama departed for the forest, faithfully executing the vow to honor his father's command and to ensure that the desire of Kaikeyi was fully gratified."
     ],
