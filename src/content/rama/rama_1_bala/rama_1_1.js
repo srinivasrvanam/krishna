@@ -1591,22 +1591,23 @@ const verses = [
     number: 28,
     sloka: [
       "सीताप्यनुगता रामं शशिनं रोहिणी यथा |",
-      "पौरैरनुगतो दूरं पित्रा दशरथेन च ||"
+      "पौरैरनुगतो दूरं पित्रा दशरथेन च || 28"
     ],
     sloka_tel: [
       "సీతాప్యనుగతా రామం శశినం రోహిణీ యథా |",
-      "పౌరైరనులతో దూరం పిత్రా దశరథేన చ ||"
+      "పౌరైరనులతో దూరం పిత్రా దశరథేన చ || 28"
     ],
     vicheda: [
       "सीता अपि अनुगता रामम् शशिनम् रोहिणी यथा |",
-      "पौरैः अनुगतः दूरम् पित्रा दशरथेन च ||"
+      "पौरैः अनुगतः दूरम् पित्रा दशरथेन च || 28"
     ],
     anvaya: [
       "28b",
-      " (सः रामः) पौरैः पित्रा दशरथेन च दूरम् अनुगतः ||"
+      "(सः रामः) (पौरैः) (पित्रा दशरथेन च) दूरम् अनुगतः ||"
     ],
     prose: [
       "28b",
+      "Rama was followed for a great distance by the citizens and by his father, King Dasharatha.",
     ],
     transl: [
       "...Sita too accompanied Rama, just as the constellation Rohini ever accompanies the Moon. Rama was followed for a great distance by the weeping citizens and by his heartbroken father, King Dasharatha."
