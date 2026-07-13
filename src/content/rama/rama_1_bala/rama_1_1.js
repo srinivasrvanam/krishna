@@ -1647,9 +1647,17 @@ const verses = [
       "गुहम् आसाद्य धर्म-आत्मा निषाद-अधिपतिम् प्रियम् ||"
     ],
     anvaya: [
-      "धर्मात्मा (सः रामः) गङ्गाकूले शृङ्गीवेरपुरे प्रियम् निषादाधिपतिं गुहम् आसाद्य सूतं व्यसर्जयत् ||"
+      "धर्मात्मा (सः रामः)",
+      "शृङ्गीवेर-पुरे गङ्गा-कूले",
+      "प्रियम् निषादाधिपतिं गुहम् आसाद्य",
+      "सूतं व्यसर्जयत् |"
     ],
-    prose: [],
+    prose: [
+      "Righteous One (Rama)",
+      "In the town of Shringiverapura, on the banks of holy river Ganga",
+      "having met his friend Guha, the King of Nishadas",
+      "sent back his charioteer (Sumantra)",
+    ],
     transl: [
       "Reaching the town of Shringiverapura on the banks of the holy river Ganga, the righteous Rama met his dear friend Guha, the king of the Nishadas, and sent back his charioteer Sumantra."
     ],
