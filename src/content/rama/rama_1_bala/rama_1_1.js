@@ -1602,12 +1602,10 @@ const verses = [
       "पौरैः अनुगतः दूरम् पित्रा दशरथेन च || 28"
     ],
     anvaya: [
-      "28b",
-      "(सः रामः) (पौरैः) (पित्रा दशरथेन च) दूरम् अनुगतः ||"
+      "done in prev & next sloka",
     ],
     prose: [
-      "28b",
-      "Rama was followed for a great distance by the citizens and by his father, King Dasharatha.",
+      "done in prev & next sloka",
     ],
     transl: [
       "...Sita too accompanied Rama, just as the constellation Rohini ever accompanies the Moon. Rama was followed for a great distance by the weeping citizens and by his heartbroken father, King Dasharatha."
@@ -1619,12 +1617,6 @@ const verses = [
       "Sita joins Rama's exile automatically, a union as natural and unalterable as the star Rohini staying with the Moon in the night sky. As the trio walks away from Ayodhya, the grief-stricken citizens and King Dasharatha follow them for miles, unable to easily detach themselves from Rama."
     ],
     meanings: [
-      "पौरैः = By the citizens / Townsfolk",
-      "अनुगतः = Followed",
-      "दूरम् = To a great distance",
-      "पित्रा = By the father",
-      "दशरथेन = By Dasharatha",
-      "च = And"
     ],
     grammar: [],
     notes: [
@@ -1635,28 +1627,42 @@ const verses = [
     chapter: 1,
     number: 29,
     sloka: [
+      "पौरैरनुगतो दूरं पित्रा दशरथेन च || 28b",
       "शृङ्गीवेरपुरे सूतं गङ्गाकूले व्यसर्जयत् |",
-      "गुहमासाद्य धर्मात्मा निषादाधिपतिं प्रियम् ||"
+      "गुहमासाद्य धर्मात्मा निषादाधिपतिं प्रियम् || 29",
+      "गुहेन सहितो रामो लक्ष्मणेन च सीतया | 30a",
     ],
     sloka_tel: [
+      "పౌరైరనులతో దూరం పిత్రా దశరథేన చ || 28b",
       "శృంగివేరపురే సూతం గంగాకూలే వ్యసర్జయత్ |",
-      "గుహమాసాద్య ధర్మాత్మా నిషాదాధిపతిం ప్రియమ్ ||"
+      "గుహమాసాద్య ధర్మాత్మా నిషాదాధిపతిం ప్రియమ్ || 29",
+      "గుహేన సహితో రామో లక్ష్మణేన చ సీతయా | 30a",
     ],
     vicheda: [
+      "पौरैः अनुगतः दूरम् पित्रा दशरथेन च || 28b",
       "शृङ्गीवेर-पुरे सूतम् गङ्गा-कूले व्यसर्जयत् |",
-      "गुहम् आसाद्य धर्म-आत्मा निषाद-अधिपतिम् प्रियम् ||"
+      "गुहम् आसाद्य धर्म-आत्मा निषाद-अधिपतिम् प्रियम् || 29",
+      "गुहेन सहितः रामः लक्ष्मणेन च सीतया | 30a",
     ],
     anvaya: [
+      "28b - 29 - 30a",
+      "(सः रामः) (पौरैः) (पित्रा दशरथेन च) दूरम् अनुगतः ||",
       "धर्मात्मा (सः रामः)",
       "शृङ्गीवेर-पुरे गङ्गा-कूले",
       "प्रियम् निषादाधिपतिं गुहम् आसाद्य",
-      "सूतं व्यसर्जयत् |"
+      "सूतं व्यसर्जयत् |",
+      "रामः",
+      "लक्ष्मणेन सीतया गुहेन च सहितः",
     ],
     prose: [
+      "28b - 29 - 30a",
+      "Rama was followed for a great distance by the citizens and by his father, King Dasharatha.",
       "Righteous One (Rama)",
       "In the town of Shringiverapura, on the banks of holy river Ganga",
       "having met his friend Guha, the King of Nishadas",
       "sent back his charioteer (Sumantra)",
+      "Rama",
+      "- who is accompanied by Sita, Lakshmana and Guha",
     ],
     transl: [
       "Reaching the town of Shringiverapura on the banks of the holy river Ganga, the righteous Rama met his dear friend Guha, the king of the Nishadas, and sent back his charioteer Sumantra."
@@ -1668,6 +1674,12 @@ const verses = [
       "The exile journey hits its first major geographic milestone. Arriving at Shringiverapura along the banks of the Ganges, the righteous Rama meets his loyal friend Guha, a tribal king. At this boundary, Rama decides to officially dismiss the royal chariot and sends the charioteer Sumantra back to the capital."
     ],
     meanings: [
+      "पौरैः = By the citizens / Townsfolk",
+      "अनुगतः = Followed",
+      "दूरम् = To a great distance",
+      "पित्रा = By the father",
+      "दशरथेन = By Dasharatha",
+      "च = And",
       "शृङ्गीवेर-पुरे = In the town of Shringiverapura",
       "सूतम् = The charioteer (Sumantra)",
       "गङ्गा-कूले = On the bank of the river Ganga",
@@ -1676,7 +1688,13 @@ const verses = [
       "आसाद्य = Having approached / Met",
       "धर्म-आत्मा = The righteous-souled one (Rama)",
       "निषाद-अधिपतिम् = The king of the hunter tribes (Nishadas)",
-      "प्रियम् = Dear / Beloved"
+      "प्रियम् = Dear / Beloved",
+      "गुहेन = By / With the help of Guha",
+      "सहितः = Accompanied by / Together with",
+      "रामः = Rama",
+      "लक्ष्मणेन = With Lakshmana",
+      "च = And",
+      "सीतया = With Sita",
     ],
     grammar: [],
     notes: [
@@ -1727,12 +1745,6 @@ const verses = [
       "With the assistance of Guha (who provides boats and guidance), Rama, Sita, and Lakshmana cross the deep, wide waters of the sacred Ganges. They push deeper into the wilderness, moving systematically from one forest zone into another as their journey advances."
     ],
     meanings: [
-      "गुहेन = By / With the help of Guha",
-      "सहितः = Accompanied by / Together with",
-      "रामः = Rama",
-      "लक्ष्मणेन = With Lakshmana",
-      "च = And",
-      "सीतया = With Sita",
       "तेन = Through that",
       "वनेन = Through the forest paths",
       "वनम् = Deep forest interior",
