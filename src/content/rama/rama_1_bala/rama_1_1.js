@@ -1817,47 +1817,54 @@ const verses = [
     chapter: 1,
     number: 32,
     sloka: [
-      "देवतायतनप्रख्यां पर्णशालां च कृत्वा ह |",
-      "उषुर्वनचरास्तत्र त्रयो धर्मे स्थितास्तथा ||"
+      "चित्रकूटं गते रामे पुत्रशोकातुरस्तदा || 32b",
+      "राजा दशरथः स्वर्गं जगाम विलपन् सुतम् | 33a"
     ],
     sloka_tel: [
-      "దేవతాయతనప్రఖ్యాం పర్ణశాలాం చ కృత్వా హ |",
-      "ఉషుర్వనచరాస్తత్ర త్రయో ధర్మే స్థితాస్తథా ||"
+      "చిత్రకూటం గతే రామే పుత్రశోకాతురస్తదా |",
+      "రాజా దశరథః స్వర్గం జగామ విలపన్ సుతమ్ ||"
     ],
     vicheda: [
-      "देवता-आयतन-प्रख्याम् पर्ण-शालाम् च कृत्वा ह |",
-      "उषुः वन-चराः तत्र त्रयः धर्मे स्थिताः तथा ||"
+      "चित्रकूटम् गते रामे पुत्र-शोक-आतुरः तदा",
+      "राजा दशरथः स्वर्गम् जगाम विलपन् सुतम्"
     ],
     anvaya: [
-      "तथा धर्मे स्थिताः ते त्रयः वनचराः तत्र देवतायतनप्रख्याम् पर्णशालाम् कृत्वा उषुः ह ||"
+      "तदा",
+      "पुत्रशोक-आतुरः राजा दशरथः",
+      "- रामे चित्रकूटम् गते (सति)",
+      "- सुतम् विलपन् स्वर्गम् जगाम ||"
     ],
-    prose: [],
+    prose: [
+      "Then",
+      "King Dasaratha, who is agonizing grief of separation from his beloved son",
+      "- in Rama who went to Chitrakootam",
+      "- crying for his son, he went to heavens",
+    ],
     transl: [
-      "Firmly established in righteousness, the three exiles constructed a leaf-hut that resembled a sacred divine temple, and they lived there as dwellers of the forest."
+      "Once Rama had departed for Mount Chitrakoot, King Dasharatha, overwhelmed and utterly consumed by the agonizing grief of separation from his beloved son, passed away, crying out for his son as he ascended to the heavens."
     ],
     transl_tel: [
-      "ధర్మానికి కట్టుబడిన ఆ ముగ్గురు వనవాసులు, అక్కడ దేవాలయం వంటి పవిత్రమైన ఒక పర్ణశాలను (ఆకులతో కూడిన ఇల్లు) నిర్మించుకుని నివసించారు."
+      "రాముడు చిత్రకూట పర్వతానికి వెళ్ళిన తరువాత, పుత్రవియోగ దుఃఖంతో తీవ్రంగా పరితపించిన దశరథ మహారాజు, తన కుమారుడిని తలచుకుంటూ విలపిస్తూ స్వర్గస్థుడైనాడు (మరణించాడు)."
     ],
     essence: [
-      "To make a home in the wilderness, Lakshmana builds a beautiful hermitage out of leaves and thatch. Because of their pure character and adherence to duty (*Dharma*), this simple hut feels as sacred and peaceful as a divine temple. Here, they adapt fully to the lifestyle of forest dwellers."
+      "This verse marks one of the most tragic turning points in the epic. King Dasharatha's life was deeply bound to Rama's presence. Unable to bear the crushing weight of banishing his virtuous son, his physical heart breaks from grief. He passes away while desperately calling out Rama's name, leaving the throne of Ayodhya vacant."
     ],
     meanings: [
-      "देवता-आयतन-प्रख्याम् = Resembling a temple of the gods / Sacred shrine",
-      "पर्ण-शालाम् = A hut made of leaves / Hermitage",
-      "च = And",
-      "कृत्वा = Having constructed / Built",
-      "ह = Indeed (historical emphasis)",
-      "उषुः = Lived / Resided",
-      "वन-चराः = Dwellers of the forest",
-      "तत्र = There",
-      "त्रयः = The three",
-      "धर्मे = In righteousness / Virtue",
-      "स्थिताः = Firmly established",
-      "तथा = In that manner"
+      "चित्रकूटम् = To Mount Chitrakoot",
+      "गते = Having gone",
+      "रामे = Rama (locative absolute: 'while Rama had gone')",
+      "पुत्र-शोक-आतुरः = Afflicted / Overwhelmed by grief for his son",
+      "तदा = Then / At that time",
+      "राजा = The king",
+      "दशरथः = Dasharatha",
+      "स्वर्गम् = To heaven (meaning death/demise)",
+      "जगाम = Departed / Went",
+      "विलपन् = Lamenting / Crying out",
+      "सुतम् = For his son"
     ],
     grammar: [],
     notes: [
-      "The phrase 'Devatayatana-prakhyam' implies that a home is made holy not by gold or stones, but by the spiritual purity and righteousness of the people living inside it. Lakshmana's craftsmanship and devotion in building this structure are highly celebrated in the full epic text."
+      "The phrase 'Rame Chitrakootam gate' uses the *Sati Saptami* (locative absolute) grammatical construction in Sanskrit, indicating 'immediately upon Rama reaching Chitrakoot.' This shows how closely the king's final moments of life were tied to the timeline of Rama's journey."
     ]
   },
   {
