@@ -1761,9 +1761,20 @@ const verses = [
       "देव-गन्धर्व-संकाशाः तत्र ते न्यवसन् सुखम् ||"
     ],
     anvaya: [
-      "ते वनेन वनं गत्वा बहूदकाः नदीः तीर्त्वा, भरद्वाजस्य शासनात् चित्रकूटम् अनुप्राप्य, रम्यम् आवसथम् कृत्वा, वने रममाणाः देवगन्धर्वसंकाशाः ते त्रयः तत्र सुखम् न्यवसन् ||"
+      "ते",
+      "- वनेन वनं गत्वा बहूदकाः नदीः तीर्त्वा",
+      "- भरद्वाजस्य शासनात् चित्रकूटम् अनुप्राप्य",
+      "- रम्यम् आवसथम् कृत्वा",
+      "त्रयः वने रममाणाः |",
+      "तत्र ते देवगन्धर्वसंकाशाः सुखम् न्यवसन् |"
     ],
     prose: [
+      "They (Rama, Sita, Lakshmana)",
+      "- journeying from forest to forest and crossing rivers with large amounts of water",
+      "- having reached Chitrakootam by the instruction of Sage Bharadwaja",
+      "- having built a beautiful hermitage",
+      "Those three delighted in the forest",
+      "There (in the forest), they lived happily like Devas and Gandharvas",
     ],
     transl: [
       "Journeying from forest to forest and crossing deep, fast-flowing rivers, those three—shining with the divine brilliance of gods and celestial musicians—reached Mount Chitrakoot by the advice and instruction of Sage Bharadwaja. There, they built a charming, beautiful hermitage and lived together in quiet, blissful happiness."
