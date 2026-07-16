@@ -1628,7 +1628,7 @@ const verses = [
     number: 29,
     sloka: [
       "पौरैरनुगतो दूरं पित्रा दशरथेन च || 28b",
-      "शृङ्गीवेरपुरे सूतं गङ्गाकूले व्यसर्जयत् |",
+      "शृङ्गिबेरपुरे सूतं गङ्गाकूले व्यसर्जयत् |",
       "गुहमासाद्य धर्मात्मा निषादाधिपतिं प्रियम् || 29",
       "गुहेन सहितो रामो लक्ष्मणेन च सीतया | 30a",
     ],
@@ -1640,38 +1640,38 @@ const verses = [
     ],
     vicheda: [
       "पौरैः अनुगतः दूरम् पित्रा दशरथेन च || 28b",
-      "शृङ्गीवेर-पुरे सूतम् गङ्गा-कूले व्यसर्जयत् |",
+      "शृङ्गिबेर-पुरे सूतम् गङ्गा-कूले व्यसर्जयत् |",
       "गुहम् आसाद्य धर्म-आत्मा निषाद-अधिपतिम् प्रियम् || 29",
       "गुहेन सहितः रामः लक्ष्मणेन च सीतया | 30a",
     ],
     anvaya: [
       "28b - 29 - 30a",
-      "(सः रामः) (पौरैः) (पित्रा दशरथेन च) दूरम् अनुगतः ||",
-      "धर्मात्मा (सः रामः)",
-      "शृङ्गीवेर-पुरे गङ्गा-कूले",
-      "प्रियम् निषादाधिपतिं गुहम् आसाद्य",
+      "धर्मात्मा (रामः)",
+      "- (पौरैः) (पित्रा दशरथेन च) दूरम् अनुगतः ||",
+      "- शृङ्गिबेर-पुरे गङ्गा-कूले",
+      "- प्रियम् निषादाधिपतिं गुहम् आसाद्य",
+      "(लक्ष्मणेन सीतया गुहेन च सहितः) रामः",
       "सूतं व्यसर्जयत् |",
-      "रामः",
-      "लक्ष्मणेन सीतया गुहेन च सहितः",
+
     ],
     prose: [
       "28b - 29 - 30a",
-      "Rama was followed for a great distance by the citizens and by his father, King Dasharatha.",
       "Righteous One (Rama)",
-      "In the town of Shringiverapura, on the banks of holy river Ganga",
-      "having met his friend Guha, the King of Nishadas",
+      "- who is followed for a great distance by the citizens and by his father, King Dasharatha.",
+      "- In the town of Shringiberapura, on the banks of holy river Ganga",
+      "- having met his friend Guha, the King of Nishadas",
+      "Rama who is accompanied by Sita, Lakshmana and Guha",
       "sent back his charioteer (Sumantra)",
-      "Rama",
-      "- who is accompanied by Sita, Lakshmana and Guha",
+
     ],
     transl: [
-      "Reaching the town of Shringiverapura on the banks of the holy river Ganga, the righteous Rama met his dear friend Guha, the king of the Nishadas, and sent back his charioteer Sumantra."
+      "Reaching the town of Shringiberapura on the banks of the holy river Ganga, the righteous Rama met his dear friend Guha, the king of the Nishadas, and sent back his charioteer Sumantra."
     ],
     transl_tel: [
       "ధర్మాత్ముడైన రాముడు గంగానది తీరంలో ఉన్న శృంగివేరపురానికి చేరుకుని, అక్కడ తన ప్రియమిత్రుడు, బోయలకు రాజు (నిషాదాధిపతి) అయిన గుహుడిని కలుసుకుని, తన రథసారథియైన సుమంత్రుడిని వెనక్కు పంపివేశాడు."
     ],
     essence: [
-      "The exile journey hits its first major geographic milestone. Arriving at Shringiverapura along the banks of the Ganges, the righteous Rama meets his loyal friend Guha, a tribal king. At this boundary, Rama decides to officially dismiss the royal chariot and sends the charioteer Sumantra back to the capital."
+      "The exile journey hits its first major geographic milestone. Arriving at Shringiberapura along the banks of the Ganges, the righteous Rama meets his loyal friend Guha, a tribal king. At this boundary, Rama decides to officially dismiss the royal chariot and sends the charioteer Sumantra back to the capital."
     ],
     meanings: [
       "पौरैः = By the citizens / Townsfolk",
@@ -1680,7 +1680,7 @@ const verses = [
       "पित्रा = By the father",
       "दशरथेन = By Dasharatha",
       "च = And",
-      "शृङ्गीवेर-पुरे = In the town of Shringiverapura",
+      "शृङ्गिबेर-पुरे = In the town of Shringiberapura",
       "सूतम् = The charioteer (Sumantra)",
       "गङ्गा-कूले = On the bank of the river Ganga",
       "व्यसर्जयत् = Sent back / Dismissed",
