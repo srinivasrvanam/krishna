@@ -1871,7 +1871,7 @@ const verses = [
     chapter: 1,
     number: 34,
     sloka: [
-      "मृते तु तस्मिन् भरतो वसिष्ठप्रमुखैर्द्विजैः || 32b",
+      "मृते तु तस्मिन् भरतो वसिष्ठप्रमुखैर्द्विजैः || 33b",
       "नियुज्यमानो राज्याय नैच्छद् राज्यं महाबलः |",
       "स जगाम वनं वीरो रामपादप्रसादकः || 34"
     ],
@@ -1886,9 +1886,17 @@ const verses = [
       "सः जगाम वनम् वीरः राम-पाद-प्रसादकः"
     ],
     anvaya: [
-      "तस्मिन् मृते तु, वसिष्ठप्रमुखैः द्विजैः राज्याय नियुज्यमानः (अपि) महाबलः भरतः राज्यम् न ऐच्छत्; वीरः सः रामपादप्रसादकः (सन्) वनम् जगाम ||"
+      "तस्मिन् मृते तु",
+      "- महाबलः भरतः राज्यम् न ऐच्छत् |",
+      "- वसिष्ठप्रमुखैः द्विजैः राज्याय नियुज्यमानः (अपि)",
+      "सः वीरः (भरतः) रामपादप्रसादकः (सन्) वनम् जगाम |"
     ],
-    prose: [],
+    prose: [
+      "upon the death of King Dasharatha",
+      "Powerful Bharatha refused to accept the Kingdom",
+      "- even though he is urged by Scholars like Sage Vashishta",
+      "That heroic Bharatha went to forest to seek the grace of Rama's divine feet",
+    ],
     transl: [
       "Upon the death of King Dasharatha, when the exceptionally powerful Bharata was urged by the scholarly priests led by Sage Vashistha to ascend the throne, he firmly refused to accept the kingdom. Instead, that heroic prince journeyed to the forest to propitiate Rama and seek the grace of his divine feet."
     ],
