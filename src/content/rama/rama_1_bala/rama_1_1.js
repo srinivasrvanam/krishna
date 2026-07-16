@@ -1869,95 +1869,57 @@ const verses = [
   },
   {
     chapter: 1,
-    number: 33,
-    sloka: [
-      "चित्रकूटं गते रामे पुत्रशोकातुरस्तथा |",
-      "राजा दशरथः स्वर्गं जगाम विलपन् सुतम् ||"
-    ],
-    sloka_tel: [
-      "చిత్రకూటం గతే రామే పుత్రశోకాతరస్తథా |",
-      "రాజా దశరథః స్వర్గం జగామ విలపన్ సుతమ్ ||"
-    ],
-    vicheda: [
-      "चित्रकूटम् गते रामे पुत्र-शोक-आतुरः तथा |",
-      "राजा दशरथः स्वर्गम् जगाम विलपन सुतम् ||"
-    ],
-    anvaya: [
-      "रामे चित्रकूटम् गते (सति), तथा पुत्रशोकातुरः राजा दशरथः सुतम् विलपन् स्वर्गम् जगाम ||"
-    ],
-    prose: [],
-    transl: [
-      "When Rama had gone to Chitrakoota, King Dasharatha, utterly overwhelmed and tormented by the agonizing grief of separation from his son, passed away to heaven, crying out for his child."
-    ],
-    transl_tel: [
-      "రాముడు చిత్రకూట పర్వతానికి వెళ్ళిన తర్వాత, పుత్ర వియోగ శోకంతో వ్యాకులుడైన దశరథ మహారాజు, కొడుకు కొరకై విలపిస్తూ స్వర్గస్థుడయ్యాడు."
-    ],
-    essence: [
-      "Narada shifts the focus back to the tragic state of Ayodhya. Unable to bear the crushing weight of separation from his beloved eldest son, King Dasharatha becomes physically and emotionally broken. Calling out Rama's name in deep sorrow, the elderly king breathes his last, succumbing to a broken heart."
-    ],
-    meanings: [
-      "चित्रकूटम् = To Chitrakoota",
-      "गते = Having gone",
-      "रामे = Rama (locative absolute structure: 'while Rama had gone')",
-      "पुत्र-शोक-आतुरः = Afflicted / Tormented by grief for his son",
-      "तथा = In that state",
-      "राजा = The king",
-      "दशरथः = Dasharatha",
-      "स्वर्गम् = To heaven",
-      "जगाम = Departed / Went",
-      "विलपन् = Weeping / Lamenting",
-      "सुतम् = Son"
-    ],
-    grammar: [],
-    notes: [
-      "This verse shows the fatal reality of Dasharatha's paternal attachment. His death fulfills an old curse given to him by the blind parents of Shravana Kumara, predicting he would die of intense grief for his son (*Putra-shoka*)."
-    ]
-  },
-  {
-    chapter: 1,
     number: 34,
     sloka: [
-      "मृते तु तस्मिन् भरतो वसिष्ठप्रमुखैर्द्विजैः |",
-      "नियुज्यमानो राज्याय नैच्छद्राज्यं महाबलः ||"
+      "मृते तु तस्मिन् भरतो वसिष्ठप्रमुखैर्द्विजैः || 32b",
+      "नियुज्यमानो राज्याय नैच्छद् राज्यं महाबलः |",
+      "स जगाम वनं वीरो रामपादप्रसादकः || 34"
     ],
     sloka_tel: [
       "మృతే తు తస్మిన్ భరతో వసిష్ఠప్రముఖైర్ద్విజైః |",
-      "నియుజ్యమానో రాజ్యాయ నైచ్ఛద్రాజ్యం మహాబలః ||"
+      "నియుజ్యమానో రాజ్యాయ నైచ్ఛద్ రాజ్యం మహాబలః ||",
+      "స జగామ వనం వీరో రామపాదప్రసాదకః |"
     ],
     vicheda: [
-      "मृते तु तस्मिन् भरतः वसिष्ठ-प्रमुखैः द्विजैः |",
-      "नियुज्यमानः राज्याय न ऐच्छत् राज्यम् महा-बलः ||"
+      "मृते तु तस्मिन् भरतः वसिष्ठ-प्रमुखैः द्विजैः",
+      "नियुज्यमानः राज्याय न ऐच्छत् राज्यम् महाबलः",
+      "सः जगाम वनम् वीरः राम-पाद-प्रसादकः"
     ],
     anvaya: [
-      "तस्मिन् मृते तु, वसिष्ठप्रमुखैः द्विजैः राज्याय नियुज्यमानः (अपि) महाबलः भरतः राज्यम् न ऐच्छत् ||"
+      "तस्मिन् मृते तु, वसिष्ठप्रमुखैः द्विजैः राज्याय नियुज्यमानः (अपि) महाबलः भरतः राज्यम् न ऐच्छत्; वीरः सः रामपादप्रसादकः (सन्) वनम् जगाम ||"
     ],
     prose: [],
     transl: [
-      "Following the king's demise, when the powerful Bharata was urged and commanded by the eminent sages led by Vasistha to ascend the throne, he absolutely refused to accept the kingdom."
+      "Upon the death of King Dasharatha, when the exceptionally powerful Bharata was urged by the scholarly priests led by Sage Vashistha to ascend the throne, he firmly refused to accept the kingdom. Instead, that heroic prince journeyed to the forest to propitiate Rama and seek the grace of his divine feet."
     ],
     transl_tel: [
-      "దశరథుడు మరణించిన తర్వాత, వసిష్ఠుడు మొదలైన ప్రముఖ బ్రాహ్మణోత్తములు భరతునికి రాజ్యాన్ని అప్పగించాలని ప్రయత్నించినప్పటికీ, మహాబలశాలియైన భరతుడు ఆ రాజ్యాన్ని స్వీకరించడానికి అంగీకరించలేదు."
+      "దశరథ మహారాజు మరణించిన తర్వాత, వసిష్ఠ మహర్షి మొదలైన బ్రాహ్మణోత్తములు భరతుడిని సింహాసనాన్ని అధిష్టించాల్సిందిగా కోరారు. కానీ, మహాబలశాలియైన భరతుడు ఆ రాజ్యాన్ని ఏలడానికి నిరాకరించాడు. ఆ వీరుడు రాముడిని ప్రసన్నం చేసుకుని, అతని పాదపద్మాలను ప్రార్థించి తిరిగి అయోధ్యకు తీసుకురావడం కోసం అడవికి బయలుదేరాడు."
     ],
     essence: [
-      "With Dasharatha dead and Rama exiled, Ayodhya faces an urgent leadership crisis. Sages and royal elders, led by Sage Vasistha, call Bharata back from his maternal home and order him to be crowned king. However, Bharata displays immense moral strength and refuses, knowing the kingdom rightfully belongs to Rama."
+      "When Dasharatha dies, the royal assembly and high priest Vashistha urge Bharata to take the crown to prevent political chaos. However, showing extraordinary moral character and selflessness, Bharata flatly refuses to usurp what rightfully belongs to his elder brother. Guided by love and duty (*Dharma*), he organizes a delegation to travel deep into the forest, intending to beg Rama to return and claim his crown."
     ],
     meanings: [
-      "मृते = Having died",
-      "तु = But / Indeed",
-      "तस्मिन् = When he (Dasharatha passed away)",
+      "मृते = Having passed away / Died",
+      "तु = Indeed / But",
+      "तस्मिन् = He (King Dasharatha)",
       "भरतः = Bharata",
-      "वसिष्ठ-प्रमुखैः = Led by Sage Vasistha",
-      "द्विजैः = By the twice-born / Sages and priests",
-      "नियुज्यमानः = Being urged / Appointed / Commanded",
-      "राज्याय = For the kingdom / Kingship",
+      "वसिष्ठ-प्रमुखैः = Led by Sage Vashistha",
+      "द्विजैः = By the twice-born / Learned priests",
+      "नियुज्यमानः = Being urged / Appointed / Directed",
+      "राज्याय = For the kingdom / Rulership",
       "न = Not",
       "ऐच्छत् = Desired / Wished",
       "राज्यम् = The kingdom",
-      "महा-बलः = One of immense physical and moral strength"
+      "महाबलः = The exceptionally strong/powerful one",
+      "सः = He (Bharata)",
+      "जगाम = Went / Journeyed",
+      "वनम् = To the forest",
+      "वीरः = The heroic / Brave one",
+      "राम-पाद-प्रसादकः = Seeking to propitiate / Win the grace of Rama's feet"
     ],
     grammar: [],
     notes: [
-      "The epithet 'Maha-balah' (of great strength) here refers to Bharata's incredible internal moral fiber. It takes extraordinary spiritual power to reject a clean, unopposed offer of absolute imperial power out of sheer ethical integrity."
+      "Bharata's refusal of the throne is a cornerstone of the epic's exploration of selfless duty. The phrase 'Ramapada-prasadakah' indicates that his journey was not one of political negotiation, but of pure spiritual and brotherly devotion, viewing Rama's feet as the ultimate authority."
     ]
   },
   {
