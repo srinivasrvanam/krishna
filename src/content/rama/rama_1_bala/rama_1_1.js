@@ -1749,58 +1749,57 @@ const verses = [
       "देवगन्धर्वसंकाशास्तत्र ते न्यवसन् सुखम् | 32a",
     ],
     sloka_tel: [
-      "భరద్వాజప్రసాదాచ్చ చిత్రకూటముపాగమన్ |",
-      "చిత్రకూటం గతాస్తే తు త్రయశ్చిత్రవిహారిణః ||"
+      "తే వనేన వనం గత్వా నదీస్తీర్త్వా బహూదకాః |",
+      "చిత్రకూటమనుప్రాప్య భరద్వాజస్య శాసనాత్ ||",
+      "రమ్యమావసథం కృత్వా రమమాణా వనే త్రయః |",
+      "దేవగంధర్వసంకాశాస్తత్ర తే న్యవసన్ సుఖమ్ ||"
     ],
     vicheda: [
-      "भरद्वाज-प्रसादात् च चित्रकूटम् उपागमन् |",
-      "चित्रकूटम् गताः ते तु त्रयः चित्र-विहारिणः ||"
+      "ते वनेन वनम् गत्वा नदीः तीर्त्वा बहु-उदकाः |",
+      "चित्रकूटम् अनुप्राप्य भरद्वाजस्य शासनात् |",
+      "रम्यम् आवसथम् कृत्वा रममाणाः वने त्रयः |",
+      "देव-गन्धर्व-संकाशाः तत्र ते न्यवसन् सुखम् ||"
     ],
     anvaya: [
-      "रामः",
-      "लक्ष्मणेन सीतया गुहेन च सहितः",
-      "- बहूदकाः नदीः तीर्त्वा",
-      "- ते वनेन वनं गत्वा",
-      ", चित्रकूटं गताः ते त्रयः तु चित्रविहारिणः (अभवन्) ||"
+      "ते वनेन वनं गत्वा बहूदकाः नदीः तीर्त्वा, भरद्वाजस्य शासनात् चित्रकूटम् अनुप्राप्य, रम्यम् आवसथम् कृत्वा, वने रममाणाः देवगन्धर्वसंकाशाः ते त्रयः तत्र सुखम् न्यवसन् ||"
     ],
     prose: [
-      "Rama",
-      "- who is accompanied by Sita, Lakshmana and Guha",
-      "- having crossed rivers with huge amounts of water",
-      "- having gone from one forest to another forest",
     ],
     transl: [
-      "Having reached Chitrakoota, those three spent their time joyfully, wandering through its wonderful woodlands."
+      "Journeying from forest to forest and crossing deep, fast-flowing rivers, those three—shining with the divine brilliance of gods and celestial musicians—reached Mount Chitrakoot by the advice and instruction of Sage Bharadwaja. There, they built a charming, beautiful hermitage and lived together in quiet, blissful happiness."
     ],
     transl_tel: [
-      "భరద్వాజ మహర్షి అనుగ్రహంతో వారు చిత్రకూట పర్వతానికి చేరుకున్నారు. చిత్రకూటానికి వెళ్ళిన ఆ ముగ్గురు అక్కడి విచిత్రమైన, అందమైన వనాలలో విహరిస్తూ సంతోషంగా గడిపారు."
+      "ఆ ముగ్గురూ అడవి వెంబడి అడవిని దాటుతూ, నిండుగా ప్రవహించే నదులను దాటి, భరద్వాజ మహర్షి ఆజ్ఞానుసారం చిత్రకూట పర్వతానికి చేరుకున్నారు. అక్కడ ఒక అందమైన పర్ణశాలను నిర్మించుకుని, దేవతలు-గంధర్వుల వలె ప్రకాశిస్తూ, ఆ వనంలో ఎంతో సంతోషంగా నివసించారు."
     ],
     essence: [
-      "The trio visits the hermitage of Sage Bharadvaja, who blesses them and directs them to a serene mountain called Chitrakoota. Settling there, Rama, Sita, and Lakshmana find comfort in the beautiful, vibrant nature around them, momentarily forgetting the harshness of their exile."
+      "This verse captures the peaceful transition of the exiled trio—Rama, Sita, and Lakshmana—from weary wanderers into settled forest dwellers. Moving through dense woodlands and navigating wide rivers, they consult Sage Bharadwaja, who guides them to the serene hill of Chitrakoot. Building a lovely thatch cottage, they find joy in nature, looking as radiant and serene as celestial beings."
     ],
     meanings: [
-
-      "तेन = Through that",
-      "वनेन = Through the forest paths",
-      "वनम् = Deep forest interior",
-      "गत्वा = Having gone",
+      "ते = They (Rama, Sita, Lakshmana)",
+      "वनेन वनम् = From forest to forest",
+      "गत्वा = Having traveled / Gone",
       "नदीः = Rivers",
       "तीर्त्वा = Having crossed over",
-      "बहु-उदकाः = Possessing vast quantities of water / Deep and wide",
-      "भरद्वाज-प्रसादात् = By the grace / Favor of Sage Bharadvaja",
-      "च = And",
-      "चित्रकूटम् = To Mount Chitrakoota",
-      "उपागमन् = They approached / Reached",
-      "चित्रकूटम् = Chitrakoota",
-      "गताः = Having gone / Reached",
+      "बहु-उदकाः = Filled with abundant water / Deep",
+      "चित्रकूटम् = Mount Chitrakoot",
+      "अनुप्राप्य = Having reached",
+      "भरद्वाजस्य = Of Sage Bharadwaja",
+      "शासनात् = Under the instruction / Command",
+      "रम्यम् = Beautiful / Charming",
+      "आवसथम् = Cottage / Dwelling / Hermitage",
+      "कृत्वा = Having constructed / Built",
+      "रममाणाः = Rejoicing / Delighting",
+      "वने = In the forest",
+      "त्रयः = The three of them",
+      "देव-गन्धर्व-संकाशाः = Resembling gods (Devas) and celestial musicians (Gandharvas)",
+      "तत्र = There (at Chitrakoot)",
       "ते = They",
-      "तु = Indeed",
-      "त्रयः = The three (Rama, Sita, Lakshmana)",
-      "चित्र-विहारिणः = Wandering / Sporting in wonderful, scenic places"
+      "न्यवसन् = Lived / Dwelt",
+      "सुखम् = Happily / Comfortably"
     ],
     grammar: [],
     notes: [
-      "Sage Bharadvaja acts as a spiritual compass for the exiles, pointing them away from deep dangers toward a peaceful sanctuary. 'Chitra-viharina' beautifully captures a rare period of lightheartedness and joy for the trio amid their banishment."
+      "Despite being stripped of their royal luxuries, the trio is described as 'devagandharvasankashah' (radiant like celestial beings). This highlights their spiritual fortitude; their happiness is derived from their internal character, mutual love, and connection to nature, rather than external comforts."
     ]
   },
   {
