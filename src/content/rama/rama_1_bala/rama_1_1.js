@@ -1706,34 +1706,21 @@ const verses = [
     number: 30,
     sloka: [
       "गुहेन सहितो रामो लक्ष्मणेन च सीतया |",
-      "तेन वनेन वनं गत्वा नदीस्तीर्त्वा बहूदकाः || 30",
-      "भरद्वाजप्रसादाच्च चित्रकूूटमुपागमन् | 31a",
+      "ते वनेन वनं गत्वा नदीस्तीर्त्वा बहूदकाः || 30",
     ],
     sloka_tel: [
       "గుహేన సహితో రామో లక్ష్మణేన చ సీతయా |",
-      "తేన వనేన వనం గత్వా నదీస్తీర్త్వా బహూదకాః || 30",
-      "భరద్వాజప్రసాదాచ్చ చిత్రకూటముపాగమన్ | 31a",
+      "తే వనేన వనం గత్వా నదీస్తీర్త్వా బహూదకాః || 30",
     ],
     vicheda: [
       "गुहेन सहितः रामः लक्ष्मणेन च सीतया |",
-      "तेन वनेन वनम् गत्वा नदीः तीर्त्वा बहु-उदकाः || 30",
-      "भरद्वाज-प्रसादात् च चित्रकूटम् उपागमन् | 31a",
+      "ते वनेन वनम् गत्वा नदीः तीर्त्वा बहु-उदकाः || 30",
     ],
     anvaya: [
-      "30 - 31a",
-      "रामः",
-      "लक्ष्मणेन सीतया गुहेन च सहितः",
-      "- बहूदकाः नदीः तीर्त्वा",
-      "- तेन वनेन वनं गत्वा",
-      "भरद्वाज-प्रसादात् च चित्रकूटम् उपागमन्",
+      "done in prev & next sloka",
     ],
     prose: [
-      "30 - 31a",
-      "Rama",
-      "- who is accompanied by Sita, Lakshmana and Guha",
-      "- having crossed rivers with huge amounts of water",
-      "- having gone from one forest to another forest",
-      "Reached Chitrakuta, by the grace of Bharadwaja Rishi",
+      "done in prev & next sloka",
     ],
     transl: [
       "Accompanied by Lakshmana and Sita, and aided by Guha, Rama crossed deep, wide rivers flowing with copious waters, moving steadily from one dense forest to another, By the grace and guidance of Sage Bharadvaja, they arrived at Mount Chitrakoota. "
@@ -1745,17 +1732,6 @@ const verses = [
       "With the assistance of Guha (who provides boats and guidance), Rama, Sita, and Lakshmana cross the deep, wide waters of the sacred Ganges. They push deeper into the wilderness, moving systematically from one forest zone into another as their journey advances."
     ],
     meanings: [
-      "तेन = Through that",
-      "वनेन = Through the forest paths",
-      "वनम् = Deep forest interior",
-      "गत्वा = Having gone",
-      "नदीः = Rivers",
-      "तीर्त्वा = Having crossed over",
-      "बहु-उदकाः = Possessing vast quantities of water / Deep and wide",
-      "भरद्वाज-प्रसादात् = By the grace / Favor of Sage Bharadvaja",
-      "च = And",
-      "चित्रकूटम् = To Mount Chitrakoota",
-      "उपागमन् = They approached / Reached",
     ],
     grammar: [],
     notes: [
@@ -1779,9 +1755,18 @@ const verses = [
       "चित्रकूटम् गताः ते तु त्रयः चित्र-विहारिणः ||"
     ],
     anvaya: [
+      "रामः",
+      "लक्ष्मणेन सीतया गुहेन च सहितः",
+      "- बहूदकाः नदीः तीर्त्वा",
+      "- ते वनेन वनं गत्वा",
       ", चित्रकूटं गताः ते त्रयः तु चित्रविहारिणः (अभवन्) ||"
     ],
-    prose: [],
+    prose: [
+      "Rama",
+      "- who is accompanied by Sita, Lakshmana and Guha",
+      "- having crossed rivers with huge amounts of water",
+      "- having gone from one forest to another forest",
+    ],
     transl: [
       "Having reached Chitrakoota, those three spent their time joyfully, wandering through its wonderful woodlands."
     ],
@@ -1792,6 +1777,18 @@ const verses = [
       "The trio visits the hermitage of Sage Bharadvaja, who blesses them and directs them to a serene mountain called Chitrakoota. Settling there, Rama, Sita, and Lakshmana find comfort in the beautiful, vibrant nature around them, momentarily forgetting the harshness of their exile."
     ],
     meanings: [
+
+      "तेन = Through that",
+      "वनेन = Through the forest paths",
+      "वनम् = Deep forest interior",
+      "गत्वा = Having gone",
+      "नदीः = Rivers",
+      "तीर्त्वा = Having crossed over",
+      "बहु-उदकाः = Possessing vast quantities of water / Deep and wide",
+      "भरद्वाज-प्रसादात् = By the grace / Favor of Sage Bharadvaja",
+      "च = And",
+      "चित्रकूटम् = To Mount Chitrakoota",
+      "उपागमन् = They approached / Reached",
       "चित्रकूटम् = Chitrakoota",
       "गताः = Having gone / Reached",
       "ते = They",
