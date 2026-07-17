@@ -2052,71 +2052,29 @@ const verses = [
   },
   {
     chapter: 1,
-    number: 37,
-    sloka: [
-      "रामोऽपि परमोदारः सुमुखः सुमहायशाः |",
-      "न चैच्छत्पितुरादेशाद् राज्यं रामो महाबलः ||"
-    ],
-    sloka_tel: [
-      "రామోఽపి పరమోదారః సుముఖః సుమహాయశాః |",
-      "న చైచ్ఛత్పితురాదేశాద్ రాజ్యం రామో మహాబలః ||"
-    ],
-    vicheda: [
-      "रामः अपि परम-उदारः सु-मुखः सु-महा-यशाः |",
-      "न च ऐच्छत् पितुः आदेशात् राज्यम् रामः महा-बलः ||"
-    ],
-    anvaya: [
-      "परमोदारः सुमुखः सुमहायशाः महाबलः रामः अपि पितुः आदेशात् राज्यम् न च ऐच्छत् ||"
-    ],
-    prose: [],
-    transl: [
-      "Rama, who was exceptionally generous, always pleasant-faced, highly illustrious, and endowed with immense spiritual strength, did not desire to take back the kingdom, out of absolute obedience to his father’s command."
-    ],
-    transl_tel: [
-      "అత్యంత ఉదార స్వభావుడు, ప్రసన్నమైన ముఖము కలవాడు, గొప్ప కీర్తిశాలి, మహాబలవంతుడైన రాముడు కూడా తండ్రి ఆజ్ఞను గౌరవించి ఆ రాజ్యాన్ని స్వీకరించడానికి ఇష్టపడలేదు."
-    ],
-    essence: [
-      "Even though Bharata offers him the throne with tears and deep love, Rama remains unyielding. Exhibiting true nobility and a calm, pleasant composure (*Sumukhah*), he gently declines. For Rama, keeping his deceased father's promise to Kaikeyi intact matters far more than reclaiming his royal title."
-    ],
-    meanings: [
-      "रामः = Rama",
-      "अपि = Also / Yet",
-      "परम-उदारः = Supreme-hearted / Highly magnanimous",
-      "सु-मुखः = Having a pleasant, serene countenance / Cheerful",
-      "सु-महा-यशाः = Highly renowned / Illustrious",
-      "न = Not",
-      "च = And",
-      "ऐच्छत् = Desired",
-      "पितुः = Of the father",
-      "आदेशात् = Due to the command / Decree",
-      "राज्यम् = The kingdom",
-      "रामः = Rama",
-      "महा-बलः = One of great strength / Determination"
-    ],
-    grammar: [],
-    notes: [
-      "The description 'Sumukhah' (cheerful/pleasant-faced) underlines that Rama was not acting out of rigid, bitter stubbornness. He was genuinely happy to see his brother's virtue, yet perfectly at peace staying in exile to protect their family's integrity."
-    ]
-  },
-  {
-    chapter: 1,
     number: 38,
     sloka: [
-      "पादुके च अस्य राज्याय न्यासं दत्त्वा पुनः पुनः |",
-      "निवर्तयामास ततो भरतं भरताग्रजः ||"
+      "पादुके च अस्य राज्याय न्यासं दत्त्वा पुनः पुनः || 37b",
+      "निवर्तयामास ततो भरतं भरताग्रजः | 38a"
     ],
     sloka_tel: [
       "పాదుకే చ అస్య రాజ్వాయ న్యాసం దత్త్వా పునః పునః |",
       "నివర్తయామాస తతో భరతం భరతాగ్రజః ||"
     ],
     vicheda: [
-      "पादुके च अस्य राज्याय न्यासम् दत्त्वा पुनः पुनः |",
-      "निवर्तयामास ततः भरतम् भरत-अग्रजः ||"
+      "पादुके च अस्य राज्याय न्यासम् दत्त्वा पुनः पुनः ||",
+      "निवर्तयामास ततः भरतम् भरत-अग्रजः |"
     ],
     anvaya: [
-      "भरताग्रजः (रामः) राज्याय अस्य पादुके न्यासं दत्त्वा पुनः पुनः (याचितं) भरतं ततः निवर्तयामास ||"
+      "भरताग्रजः (रामः)",
+      "राज्याय अस्य पादुके न्यासं दत्त्वा",
+      "पुनः पुनः (याचितं) भरतं ततः निवर्तयामास |"
     ],
-    prose: [],
+    prose: [
+      "Rama (Bharatha's elder brother)",
+      "having given his wooden sandals as a representative for governance",
+      "repeatedly urged Bharatha to go back to the Kingdom from there",
+    ],
     transl: [
       "To serve as his royal representatives for governance, the elder brother of Bharata (Rama) handed over his two sandals as a sacred trust, and thus successfully persuaded Bharata to turn back."
     ],
