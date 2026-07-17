@@ -1998,47 +1998,54 @@ const verses = [
     chapter: 1,
     number: 36,
     sloka: [
-      "अयाचद्भ्रातरं रामं आर्यभावपुरस्कृतः |",
-      "त्वमेव राजा धर्मज्ञ इति रामं वचोऽब्रवीत् ||"
+      "रामोऽपि परमोदारः सुमुखः सुमहायशाः || 36b",
+      "न चैच्छत्पितुरादेशाद्राज्यं रामो महाबलः | 37a"
     ],
     sloka_tel: [
-      "అయాచద్భ్రాతరం రామం ఆర్యభావపురస్కృతః |",
-      "త్వమేవ రాజా ధర్మజ్ఞ ఇతి రామం వచోఽబ్రవీత్ ||"
+      "రామోఽపి పరమోదారః సుముఖః సుమహాయశాః |",
+      "న చైచ్ఛత్పితురాదేశాద్రాజ్యం రామో మహాబలః ||"
     ],
     vicheda: [
-      "अयाचत् भ्रातरम् रामम् आर्य-भाव-पुरस्कृतः |",
-      "त्वम् एव राजा धर्म-ज्ञ इति रामम् वचः अब्रवीत् ||"
+      "रामः अपी परमोदारः सुमुखः सु-महा-यशाः",
+      "न च ऐच्छत् पितुः आदेशात् राज्यम् रामः महा-बलः"
     ],
     anvaya: [
-      "आर्यभावपुरस्कृतः (सः) भ्रातरं रामं अयाचत्. 'धर्मज्ञ! त्वम् एव राजा' इति रामं वचः अब्रवीत् ||"
+      "परमोदारः सुमुखः सु-महा-यशाः",
+      "महाबलः रामः अपि",
+      "पितुः आदेशात् राज्यम् न च ऐच्छत् |"
     ],
-    prose: [],
+    prose: [
+      "Extremely magnanimous, serene-faced, possessor of great game",
+      "Powerful Rama also",
+      "refused to accept the Kingdom due to father's command",
+    ],
     transl: [
-      "...Guided by a deeply noble and respectful disposition, he implored his elder brother Rama. He spoke these words to Him: 'O Knower of Righteousness! You alone are our true king!'"
+      "Rama—who was exceedingly magnanimous, always serene of countenance, exceptionally illustrious, and immensely powerful—firmly refused to accept the kingdom, choosing instead to honor and fulfill the sacred command of his father."
     ],
     transl_tel: [
-      "శ్రేష్ఠమైన సద్భావనతో కూడినవాడై, తన అన్నయైన రాముడిని ప్రార్థించాడు. 'ఓ ధర్మమెరిగినవాడా! నువ్వే మా రాజువు' అని రాముడితో ఆ మాటలు పలికాడు."
+      "అత్యంత ఉదార స్వభావుడు, సదా ప్రసన్నమైన ముఖము కలవాడు, మహాకీర్తిశాలి, మహాబలశాలి అయిన రాముడు కూడా తన తండ్రి ఆజ్ఞను పరిపాలించడానికే నిశ్చయించుకున్నాడు తప్ప, ఆ రాజ్యాన్ని స్వీకరించడానికి అస్సలు ఇష్టపడలేదు."
     ],
     essence: [
-      "Upon locating Rama in the woods, Bharata handles the meeting with unmatched respect and humility. He firmly rejects any claim to the crown and pleads with his elder brother, saying, 'You are the expert in justice and tradition. By every law of earth and heaven, you alone are our true king. Please come back and rule.'"
+      "Despite Bharata's emotional appeals and the breaking news of his father's demise, Rama stands completely unshaken in his resolve. He shows his supreme magnanimity (*paramodarah*) by harboring no anger toward anyone. Maintaining a calm, smiling expression (*sumukhah*), he explains that keeping their father's promise to Kaikeyi is their highest moral duty, choosing the hardships of exile over an empire."
     ],
     meanings: [
-      "अयाचत् = Beseeched / Entreated / Begged",
-      "भ्रातरम् = Brother",
-      "रामम् = Rama",
-      "आर्य-भाव-पुरस्कृतः = Filled with / Motivated by a noble, respectful attitude",
-      "त्वम् = You",
-      "एव = Alone / Only",
-      "राजा = King",
-      "धर्म-ज्ञ = O knower of Dharma / Righteousness",
-      "इति = Thus",
-      "रामम् = To Rama",
-      "वचः = Words",
-      "अब्रवीत् = Spoke"
+      "रामः = Rama",
+      "अपि = Also / Even",
+      "परमोदारः = Exceedingly generous / Highly magnanimous",
+      "सुमुखः = Cheerful / Serene-faced / Pleasant",
+      "सु-महा-यशाः = Possessing vast, magnificent fame",
+      "न = Not",
+      "च = And",
+      "ऐच्छत् = Desired / Wished",
+      "पितुः = Of the father",
+      "आदेशात् = Due to the command / Order",
+      "राज्यम् = The kingdom / Sovereignty",
+      "रामः = Rama",
+      "महा-बलः = The exceptionally strong / Powerful one"
     ],
     grammar: [],
     notes: [
-      "Bharata's address 'Twam eva raja' (You alone are king) shows his complete alignment with the rules of primogeniture (the oldest son inheriting the throne) and his personal refusal to profit from his mother's palace intrigue."
+      "The adjective 'sumukhah' (pleasant-faced) is highly intentional here. It emphasizes that Rama did not refuse the kingdom out of stubbornness, pride, or deep resentment, but with a peaceful, cheerful heart that was entirely content living out his father's righteous decree."
     ]
   },
   {
