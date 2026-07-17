@@ -1934,46 +1934,64 @@ const verses = [
     chapter: 1,
     number: 35,
     sloka: [
-      "स जगाम वनं वीरो रामपादप्रसादकः |",
-      "गत्वा तु स महात्मानं रामं सत्यपराक्रमम् ||"
+      "गत्वा तु स महात्मानं रामं सत्यपराक्रमम् |",
+      "अयाचद्भ्रातरं राममार्यभावपुरस्कृतः || 35",
+      "त्वमेव राजा धर्मज्ञ इति रामं वचोऽब्रवीत् | 36a"
     ],
     sloka_tel: [
-      "స జగామ వనం వీరో రామపాదప్రసాదకః |",
-      "గత్వా తు స మహాత్మానం రామం సత్యపరాక్రమమ్ ||"
+      "గత్వా తు స మహాత్మానం రామం సత్యపరాక్రమమ్ |",
+      "అయాచద్భ్రాతరం రామమార్యభావపురస్కృతః ||",
+      "త్వమేవ రాజా ధర్మజ్ఞ ఇతి రామం వచోఽబ్రవీత్ |"
     ],
     vicheda: [
-      "सः जगाम वनम् वीरः राम-पाद-प्रसादकः |",
-      "गत्वा तु सः महा-आत्मानम् रामम् सत्य-पराक्रमम् ||"
+      "गत्वा तु सः महात्मानम् रामम् सत्य-पराक्रमम्",
+      "अयाचत् भ्रातरम् रामम् आर्य-भाव-पुरस्कृतः",
+      "त्वम् एव राजा धर्मज्ञ इति रामम् वचः अब्रवीत्"
     ],
     anvaya: [
-      "रामपादप्रसादकः सः वीरः वनं जगाम, गत्वा तु सः महात्मानं सत्यपराक्रमम् रामम्... ||"
+      "सः (भरतः) आर्य-भाव-पुरस्कृतः",
+      "- गत्वा",
+      "तु सत्यपराक्रमम् महात्मानं भ्रातरं रामं अयाचत् |",
+      "'धर्मज्ञ! त्वम् एव राजा' इति रामम् वचः अब्रवीत् |"
     ],
-    prose: [],
+    prose: [
+      "That Bharatha, who is filled with deep devotion and humility towards Rama",
+      "- having gone to",
+      "begged his brother high-souled Sri Rama, whose prowess is rooted in Truth",
+      "Bharatha Said to Rama, 'Hey Knower of Dharma, you alone are the King!'",
+    ],
     transl: [
-      "That heroic Bharata, seeking only to propitiate and win the grace of Rama’s feet, departed for the forest. Having reached the location of that great-souled Rama, whose valor rests entirely on truth..."
+      "Approaching his high-souled brother Rama, whose prowess is rooted in truth, Bharata—guided by deep reverence and noble affection—made an earnest appeal. He addressed Rama with these words: 'O Knower of Righteousness! You alone are our king.'"
     ],
     transl_tel: [
-      "రాముని పాదాలను ప్రసన్నం చేసుకోవడం కోసం ఆ వీరుడైన భరతుడు అరణ్యానికి వెళ్ళాడు. అక్కడ మహాత్ముడు, సత్యమైన పరాక్రమము కలవాడు అయిన రాముడిని చేరుకుని..."
+      "సత్యపరాక్రముడు, మహాత్ముడు అయిన తన అన్న రాముని వద్దకు వెళ్ళి, ఉత్తమమైన భ్రాతృభావంతో భరతుడు ప్రార్థించాడు. 'ధర్మమెరిగిన ఓ రామా! నీవే మా రాజువు' అని రాముడితో ఆ కటిక అడవిలో పలికాడు."
     ],
     essence: [
-      "Instead of staying in the palace, the heroic Bharata decides to track down his brother in the wild. His sole goal is to bow at Rama's feet, apologize for his mother's actions, and convince him to return. He enters the forest to find the noble, truth-abiding Rama."
+      "Upon finding Rama in the forest, Bharata does not approach him with political motives but with a heart full of deep devotion and humility (*arya-bhava*). He falls at Rama's feet and begs him to return to Ayodhya, flatly stating that Rama is the only legitimate ruler of the kingdom and that no one else can fill their father's shoes."
     ],
     meanings: [
-      "सः = He (Bharata)",
-      "जगाम = Went / Departed",
-      "वनम् = To the forest",
-      "वीरः = The hero",
-      "राम-पाद-प्रसादकः = One who seeks to propitiate / Please the feet of Rama",
-      "गत्वा = Having gone / Reached",
+      "गत्वा = Having approached / Reached",
       "तु = Indeed",
       "सः = He (Bharata)",
-      "महा-आत्मानम् = The great-souled one",
+      "महात्मानम् = The high-souled / Noble one",
       "रामम् = Rama",
-      "सत्य-पराक्रमम् = One whose courage / Prowess is rooted in truth"
+      "सत्य-पराक्रमम् = One whose courage/prowess is rooted in truth",
+      "अयाचत् = Beseeched / Begged / Appealed",
+      "भ्रातरम् = The brother",
+      "रामम् = Rama",
+      "आर्य-भाव-पुरस्कृतः = Filled with / Guided by noble feelings and reverence",
+      "त्वम् = You",
+      "एव = Alone / Only",
+      "राजा = The king",
+      "धर्मज्ञ = O knower of righteousness / Dharma",
+      "इति = Thus",
+      "रामम् = To Rama",
+      "वचः = Words",
+      "अब्रवीत् = Spoke / Addressed"
     ],
     grammar: [],
     notes: [
-      "Like verse 26, this verse ends in a grammatical suspension that carries over directly into the next verse to clarify exactly what Bharata did upon meeting Rama."
+      "The term 'Arya-bhava-puraskrutah' beautifully captures Bharata's psychological state. Despite being offered absolute imperial power by the elders of the kingdom, his conduct remains firmly anchored in sibling duty and traditional respect for the elder brother."
     ]
   },
   {
