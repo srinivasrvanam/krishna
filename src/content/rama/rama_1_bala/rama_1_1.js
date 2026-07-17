@@ -2107,21 +2107,31 @@ const verses = [
     chapter: 1,
     number: 39,
     sloka: [
-      "स काममनवाप्यैव रामपादावुपस्पृशन् |",
-      "नन्दिग्रामेऽकरोद्राजं रामागमनकाङ्क्षया ||"
+      "स काममनवाप्यैव रामपादावुपस्पृशन् || 38b",
+      "नन्दिग्रामेऽकरोद्राजं रामागमनकाङ्क्षया | 39a"
     ],
     sloka_tel: [
-      "స కామమనవాప్యైవ రామపాదావుపస్పృశన్ |",
-      "నందిగ్రామేఽకరోద్రాజం రామాగమనకాంక్షయా ||"
+      "స కామమనవాప్యైవ రామపాదావుపస్పృశన్ ||",
+      "నందిగ్రామేఽకరోద్రాజం రామాగమనకాంక్షయా |"
     ],
     vicheda: [
-      "सः कामम् अनवाप्य एव राम-पादौ उपस्पृशन् |",
-      "नन्दिग्रामे अकरोत् राज्यम् राम-आगमन-काङ्क्षया ||"
+      "सः कामम् अनवाप्य एव राम-पादौ उपस्पृशन् ||",
+      "नन्दिग्रामे अकरोत् राज्यम् राम-आगमन-काङ्क्षया |"
     ],
     anvaya: [
-      "सः कामम् अनवाप्य एव रामपादौ उपस्पृशन्, रामागमनकाङ्क्षया नन्दिग्रामे राज्यम् अकरोत् ||"
+      "सः (भरतः)",
+      "- कामम् अनवाप्य एव",
+      "- रामपादौ उपस्पृशन्",
+      "- रामागमनकाङ्क्षया",
+      "नन्दिग्रामे राज्यम् अकरोत् |"
     ],
-    prose: [],
+    prose: [
+      "That Bharatha",
+      "- having not being fulfilled his desire of bringing back Rama",
+      "- while touching the feet of Rama",
+      "- with the expectation of Rama's return",
+      "managed the affairs of Kingdom from the Nandigrama",
+    ],
     transl: [
       "Though his primary desire to bring Rama back was completely unfulfilled, Bharata reverently touched Rama’s feet and managed the affairs of the kingdom from the nearby town of Nandigrama, living in constant, intense expectation of Rama’s return."
     ],
