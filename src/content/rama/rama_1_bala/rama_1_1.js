@@ -1886,15 +1886,17 @@ const verses = [
       "सः जगाम वनम् वीरः राम-पाद-प्रसादकः"
     ],
     anvaya: [
-      "तस्मिन् मृते तु",
-      "- महाबलः भरतः राज्यम् न ऐच्छत् |",
+      "महाबलः भरतः",
+      "- तस्मिन् मृते तु",
       "- वसिष्ठप्रमुखैः द्विजैः राज्याय नियुज्यमानः (अपि)",
+      "- राज्यम् न ऐच्छत् |",
       "सः वीरः (भरतः) रामपादप्रसादकः (सन्) वनम् जगाम |"
     ],
     prose: [
-      "upon the death of King Dasharatha",
-      "Powerful Bharatha refused to accept the Kingdom",
+      "Powerful Bharatha",
+      "- upon the death of King Dasharatha",
       "- even though he is urged by Scholars like Sage Vashishta",
+      "- refused to accept the Kingdom",
       "That heroic Bharatha went to forest to seek the grace of Rama's divine feet",
     ],
     transl: [
