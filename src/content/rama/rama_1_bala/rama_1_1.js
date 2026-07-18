@@ -3759,49 +3759,47 @@ const verses = [
     chapter: 1,
     number: 75,
     sloka: [
-      "ततो दग्ध्वा पुरीं लङ्कां ऋते सीतां च मैथिलीम् |",
-      "रामाय प्रियमाख्यातुं पुनरायान्महाकपिः ||"
+      "पञ्च सेनाग्रगान् हत्वा सप्त मन्त्रिसुतानपि |",
+      "शूरमक्षं च निष्पिष्य ग्रहणं समुपागमत् || 75"
     ],
     sloka_tel: [
-      "తతో దగ్ధ్వా పురీం లంకాం ృతే సీతాం చ మైథిలీమ్ |",
-      "రామాయ ప్రియమాఖ్యాతుం పునరాయాన్మహాకపి ||"
+      "పంచ సేనాగ్రగాన్ హత్వా సప్త మంత్రిసుతానపి |",
+      "శూరమక్షం చ నిష్పిష్య గ్రహణం సముపాగమత్ || 75"
     ],
     vicheda: [
-      "ततः दग्ध्वा पुरीम् लङ्काम् ऋते सीताम् च मैथिलीम् |",
-      "रामाय प्रियम् आख्यातुम् पुनः आयात् महा-कपिः ||"
+      "पञ्च सेना-अग्रगान् हत्वा सप्त मन्त्रि-सुतान् अपि",
+      "शूरम् अक्षम् च निष्पिष्य ग्रहणम् समुपागमत्"
     ],
     anvaya: [
-      "ततः मैथिलीम् सीताम् ऋते, लङ्कां पुरीम् दग्ध्वा, महाकपिः रामाय प्रियम् आख्यातुम् पुनः आयात् ||"
+      "(हनुमान्) पञ्च सेनाग्रगान् सप्त मन्त्रिसुतान् अपि हत्वा, शूरम् अक्षम् च निष्पिष्य ग्रहणम् समुपागमत् ||"
     ],
     prose: [],
     transl: [
-      "After delivering his message, Hanuman set fire to the entire golden city of Lanka—carefully ensuring that Sita remained untouched. The great Vanara then flew back across the sea to deliver the joyous news to Rama."
+      "After slaying five top military commanders and seven sons of the chief ministers, and thoroughly crushing the valiant prince Aksha, Hanuman allowed himself to be captured."
     ],
     transl_tel: [
-      "ఆ తర్వాత మైథిలియైన సీతాదేవి ఉన్న ప్రాంతాన్ని తప్ప, మిగిలిన లంకా నగరాన్నంతటినీ దహనం చేసి, రామునికి ఈ శుభవార్తను తెలియజేయడం కోసం ఆ వానర శ్రేష్ఠుడు వెనక్కి తిరిగి వచ్చాడు."
+      "ఐదుగురు సేనాధిపతులను, ఏడుగురు మంత్రి కుమారులను సంహరించి, మహాశూరుడైన వాలెడి కుమారుడు అక్షకుమారుడిని పిండిపిండిగా నలిపివేసిన తర్వాత, హనుమంతుడు శత్రువుల బంధనానికి (బ్రహ్మాస్త్రానికి) లోబడి లొంగిపోయాడు."
     ],
     essence: [
-      "Ravana orders Hanuman's tail to be wrapped in cloth and set on fire as punishment. Hanuman turns this against them by escaping his bonds, leaping from rooftop to rooftop, and burning down Lanka's infrastructure. Ensuring Sita is safe, he leaps back across the ocean, eager to tell Rama the words: 'Seen has been Sita.'"
+      "Provoked by the destruction of the Ashoka grove, Ravana sends his elite forces to eliminate Hanuman. Hanuman effortlessly annihilates five army generals and seven sons of ministers. Finally, Ravana's brilliant young warrior son, Aksha Kumara, charges into battle, but Hanuman crushes him to pieces. Witnessing this havoc, Indrajit unleashes the infallible Brahmastra. Though immune to its lethal power, Hanuman chooses to honor the weapon and submits to capture so he can secure a direct audience with Ravana."
     ],
     meanings: [
-      "ततः = Thereafter",
-      "दग्ध्वा = Having incinerated / Set ablaze",
-      "पुरीम् = The metropolis",
-      "लङ्काम् = Lanka",
-      "ऋते = Excluding / Leaving untouched",
-      "सीताम् = Sita",
+      "पञ्च = Five",
+      "सेना-अग्रगान् = Frontline army commanders / Generals",
+      "हत्वा = Having slain / Destroyed",
+      "सप्त = Seven",
+      "मन्त्रि-सुतान् = Sons of ministers",
+      "अपि = Also",
+      "शूरम् = The heroic / Valiant",
+      "अक्षम् = Aksha Kumara (Ravana's youngest son)",
       "च = And",
-      "मैथिलिम् = Princess of Mithila",
-      "रामाय = To Rama",
-      "प्रियम् = Pleasing news / Joyful tidings",
-      "आख्यातुम् = To report / Communicate",
-      "पुनः = Back / Again",
-      "आयात् = Returned / Flew across",
-      "महा-कपिः = The great monkey (Hanuman)"
+      "निष्पिष्य = Having crushed completely / Ground into pieces",
+      "ग्रहणम् = Captivity / Arrest",
+      "समुपागमत् = Attained / Accepted voluntarily"
     ],
     grammar: [],
     notes: [
-      "Burning Lanka wasn't just acts of random property destruction; it was psychological warfare. It shattered the illusion of Lanka’s absolute invincibility and left Ravana's population terrified before Rama's army even set foot on the island."
+      "The phrase 'grahanam samupagamat' reflects Hanuman's brilliant strategic mind. He was bound by Indrajit's Brahmastra, but due to a previous boon from Lord Brahma, the weapon could only temporarily hold him. He voluntarily simulated being trapped to be taken directly into Ravana's court for high-level espionage and diplomacy."
     ]
   },
   {
