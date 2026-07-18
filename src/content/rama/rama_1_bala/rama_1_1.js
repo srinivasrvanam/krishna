@@ -3247,49 +3247,53 @@ const verses = [
     chapter: 1,
     number: 64,
     sloka: [
-      "बिभेद च पुनः सालान् सप्तैकेन महेषुणा |",
-      "गिरिं रसातलं चैव जनयन् प्रत्ययं तदा ||"
+      "सुग्रीवः शङ्कितश्चासीन्नित्यं वीर्येण राघवे || 63b",
+      "राघवप्रत्ययार्थं तु दुन्दुभेः कायमुत्तमम् |",
+      "दर्शयामास सुग्रीवो महापर्वतसन्निभम् || 64"
     ],
     sloka_tel: [
-      "బిభేద చ పునః సాలాన్ సప్తైకేన మహేషుణా |",
-      "గిరిం రసాతలం చైవ జనయన్ ప్రత్యయం తదా ||"
+      "సుగ్రీవః శఙ్కితశ్చాసీన్నిత్యం వీర్యేణ రాఘవే || 63b",
+      "రాఘవప్రత్యయార్థం తు దుందుభేః కాయముత్తమమ్ |",
+      "దర్శయామాస సుగ్రీవో మహాపర్వతసన్నిభమ్ || 64"
     ],
     vicheda: [
-      "बिभेद च पुनः सालान् सप्त एकेन महा-इषुणा |",
-      "गिरिम् रसा-तलम् च एव जनयन् प्रत्ययम् तदा ||"
+      "सुग्रीवः शङ्कितः च आसीत् नित्यम् वीर्येण राघवे",
+      "राघव-प्रत्यय-अर्थम् तु दुन्दुभेः कायम् उत्तमम्",
+      "दर्शयामास सुग्रीवः महा-पर्वत-सन्निभम्"
     ],
     anvaya: [
-      "तदा (रामः) प्रत्ययम् जनयन् एकेन महेषुणा सप्त सालान् गिरिम् रसातलं च एव पुनः बिभेद ||"
+      "सुग्रीवः राघवे वीर्येण नित्यम् शङ्कितः च आसीत्; राघवप्रत्ययार्थम् तु सुग्रीवः महापर्वतसन्निभम् दुन्दुभेः उत्तमम् कायम् दर्शयामास ||"
     ],
     prose: [],
     transl: [
-      "To completely eliminate any remaining doubt, Rama unleashed a single, blazing arrow that pierced straight through seven massive Sala trees, bored through a mountain, tore into the subterranean earth, and returned to his quiver."
+      "Sugriva remained constantly apprehensive and doubtful regarding Rama's prowess in comparison to Vali. Therefore, to instill confidence in Raghavan's capabilities, Sugriva pointed out the massive, mountain-like skeleton of the demon Dundubhi."
     ],
     transl_tel: [
-      "అప్పుడు సుగ్రీవునికి సంపూర్ణ నమ్మకం కలిగించడం కోసం రాముడు ఒకే ఒక్క బాణాన్ని ప్రయోగించాడు. ఆ బాణం ఏడు తాటి చెట్లను (సాల వృక్షాలను), ఒక పర్వతాన్ని, భూమి అంతర్భాగాన్ని (రसातలం) సైతం చీల్చుకుంటూ దూసుకుపోయింది."
+      "వాలితో పోల్చితే శ్రీరాముని పరాక్రమం సరిపోతుందా లేదా అని సుగ్రీవుడు ఎప్పుడూ మనస్సులో సందేహిస్తూనే ఉండేవాడు. కాబట్టి, రాఘవునిపై తనకు నమ్మకం కలగడం కోసం, వాలి చేత చంపబడి, ఒక పెద్ద పర్వతంలా పడివున్న దుందుభి అనే రాక్షసుడి భారీ అస్థిపంజరాన్ని (శరీరాన్ని) సుగ్రీవుడు రామునికి చూపించాడు."
     ],
     essence: [
-      "To remove every speck of fear from Sugriva's mind, Rama performs a miracle. He shoots one magnificent arrow. The projectile tears through seven colossal Sala trees standing in a row, penetrates the solid rock of a nearby mountain, breaches the depths of the earth, and then flies right back into Rama's quiver."
+      "Sugriva's skepticism is deeply rooted in his traumatic past; he has watched Vali crush terrifying adversaries effortlessly. Even though Rama seems heroic, Sugriva worries whether this soft-spoken prince can truly defeat a monster like Vali. To test Rama's physical capability and seek reassurance, Sugriva shows him the colossal, mountain-sized skeleton of the buffalo-demon Dundubhi, whom Vali had slaughtered and flung across the forest, serving as a benchmark of Vali's terrifying strength."
     ],
     meanings: [
-      "बिभेद = Pierced / Tore through",
+      "सुग्रीवः = Sugriva",
+      "शङ्कितः = Apprehensive / Doubtful",
       "च = And",
-      "पुनः = Furthermore / Again",
-      "सालान् = Sala trees",
-      "सप्त = Seven",
-      "एकेन = With a single",
-      "महा-इषुणा = Great / Mighty arrow",
-      "गिरिम् = A mountain / Hill",
-      "रसा-तलम् = The deep layers of the earth / Underworld",
-      "च = And",
-      "एव = Verily",
-      "जनयन् = Inspiring / Generating",
-      "प्रत्ययम् = Conviction / Undoubting faith",
-      "तदा = Then"
+      "आसीत् = Was",
+      "नित्यम् = Constantly / Always",
+      "वीर्येण = Regarding the prowess / Valour",
+      "राघवे = In Rama (Raghavan)",
+      "राघव-प्रत्यय-अर्थम् = For the sake of instilling confidence in Rama",
+      "तु = But / Indeed",
+      "दुन्दुभेः = Of the demon Dundubhi",
+      "कायम् = The body / Skeleton",
+      "उत्तमम् = Huge / Colossal / Great",
+      "दर्शयामास = Showed / Pointed out",
+      "सुग्रीवः = Sugriva",
+      "महा-पर्वत-सन्निभम् = Resembling a massive mountain"
     ],
     grammar: [],
     notes: [
-      "This iconic feat is known as *Sapta-Tala-Bhedana*. It completely shatters Sugriva's doubts. Piercing seven dynamic living targets, a mountain, and the earth with a single arrow proves that Rama's archery is backed by cosmic, unstoppable energy."
+      "The compound 'raghava-pratyaya-artham' perfectly captures Sugriva's state of mind—he isn't trying to insult Rama, but desperately needs to believe that Rama has what it takes to save him. The 'Mahaparvata-sannibham' carcass of Dundubhi provides a vivid visual scale for the impossible physical trial that lies ahead."
     ]
   },
   {
