@@ -4784,57 +4784,46 @@ const verses = [
     chapter: 1,
     number: 99,
     sloka: [
-      "इत्येवमेतन्मुनिना पुराविद -",
-      "न्महर्षिणा नित्यमुदारबुद्धिना |",
-      "मया श्रुतं कीर्तयता प्रहर्षदं",
-      "शृణ్వन्तु सर्वे शमहेतुमुत्तमम् ||"
+      "एतदाख्यानमायुष्यं पठन् रामायणं नरः |",
+      "सपुत्रपौत्रः सगणः प्रेत्य स्वर्गे महीयते || 99"
     ],
     sloka_tel: [
-      "ఇత్యేవమేతన్మునినా పురావిద -",
-      "న్మహర్షిణా నిత్యముదారబుద్ధినా |",
-      "మయా శ్రుతం కీర్తయతా ప్రహర్షదం",
-      "శృణ్వంతు సర్వే శమహేతుముత్తమమ్ ||"
+      "ఏతదాఖ్యానమాయుష్యం పఠన్ రామాయణం నరః |",
+      "సపుత్రపౌత్రః సగణః ప్రేత్య స్వర్గే మహీయతే || 99"
     ],
     vicheda: [
-      "इति एवम् एतत् मुनिना पुरा-विदा |",
-      "महर्षिणा नित्यम् उदार-बुद्धिना |",
-      "मया श्रुतम् कीर्तयता प्रहर्षदम् |",
-      "शृण्वन्तु सर्वे शम-हेతుम् उत्तमम् ||"
+      "एतत् आख्यानम् आयुष्यम् पठन् रामायणम् नरः",
+      "स-पुत्र-पौत्रः स-गणः प्रेत्य स्वर्गे महीयते"
     ],
     anvaya: [
-      "नित्यम् उदारबुद्धिना पुराविदा मुनिना महर्षिणा (नारदेन) कीर्तयता मया श्रुतम्, प्रहर्षदम् उत्तमम् शमहेतुम् एतत् (रामचरितम्) इति एवम् सर्वे शृण్వन्तु ||"
+      "आयुष्यम् एतत् रामायणम् आख्यानम् पठन् नरः सपुत्रपौत्रः सगणः (च भूत्वा), प्रेत्य स्वर्गे महीयते ||"
     ],
     prose: [],
     transl: [
-      "Thus, this extraordinarily joyful, sublime chronicle—the ultimate source of absolute inner peace—was shared by the great, noble-minded Sage Narada, who knows all ancient truths. May everyone listen to this narrative with a focused and reverent mind."
+      "A person who regularly reads this life-prolonging narrative of the Ramayana is blessed with sons, grandsons, and faithful companions in this world, and upon departing this life, is highly exalted in the heavenly realm."
     ],
     transl_tel: [
-      "సమస్త పురాతన సత్యాలు తెలిసినవాడు, నిత్య ఉదారబుద్ధి కలిగినవాడు అయిన నారద మహర్షి ద్వారా చెప్పబడినది, నాచే వినబడినది, పరమానందాన్ని ఇచ్చేది, మనఃశాంతికి పరమ సాధనమైన ఈ ఉత్తమ రామాయణ గాథను మీరందరూ భక్తితో వినండి."
+      "ఆయుష్షును పెంచేది అయిన ఈ రామాయణ మహాేతిహాసాన్ని పఠించే మానవుడు, ఈ లోకంలో పుత్ర పౌత్రాదులతో, ఇష్టమిత్ర గణంతో కూడి సుఖంగా జీవిస్తాడు. ఆపై పరలోకమునందు (మరణానంతరం) స్వర్గలోకంలో గొప్ప గౌరవ మర్యాదలతో పూజింపబడతాడు."
     ],
     essence: [
-      "Valmiki wraps up his introduction by looking back at his source. He notes that this story was directly narrated to him by Narada, a massive cosmic intellect. Because it comes from a place of pure realization, listening to it provides *shama-hetum*—the ultimate catalyst for calming a chaotic, stressed mind and finding real peace."
+      "Sage Narada continues the Phalasruti (statement of rewards), spelling out the tangible material and spiritual blessings unlocked by studying the Ramayana. On the physical plane, it grants longevity (*ayushyam*) and a thriving, harmonious family unit consisting of children, grandchildren, and loyal dependants. On the metaphysical plane, it ensures a smooth post-mortem transition, securing an honored place in higher dimensions of reality (*swarge mahiyate*) due to the refined mental state cultivated by reflecting on Rama's path."
     ],
     meanings: [
-      "इति = Thus",
-      "एवम् = In this manner",
-      "एतत् = This (epic history)",
-      "मुनिना = By the silent sage",
-      "पुरा-विदा = Knower of ancient history / Cosmic past",
-      "महर्षिणा = By the great rishi (Narada)",
-      "नित्यम् = Always",
-      "उदार-बुद्धिना = One possessing a magnanimous, broad mind",
-      "मया = By me (Valmiki)",
-      "श्रुतम् = Was heard",
-      "कीर्तयता = While being narrated / Sung",
-      "प्रहर्षदम् = Bestowing intense joy / Rapture",
-      "शृण्वन्तु = May you all hear / Listen closely",
-      "सर्वे = Everyone",
-      "शम-हेतुम् = The root cause of inner calmness and peace",
-      "उत्तमम् = The supreme / Most excellent text"
+      "एतत् = This",
+      "आख्यानम् = Historical narrative / epic chronicle",
+      "आयुष्यम् = Life-prolonging / life-giving",
+      "पठन् = Reading / studying",
+      "रामायणम् = The Ramayana (The journey of Rama)",
+      "नरः = A human being / person",
+      "स-पुत्र-पौत्रः = Together with children and grandchildren",
+      "स-गणः = Accompanied by attendants, relatives, and well-wishers",
+      "प्रेत्य = Having departed this world / after death",
+      "स्वर्गे = In heaven / higher celestial realms",
+      "महीयते = Is revered / honored / glorified"
     ],
     grammar: [],
     notes: [
-      "This verse captures the oral lineage (*Parampara*) of the text. Valmiki acknowledges Narada's generosity in sharing it. The word *shama* (tranquility) is the goal here—it highlights that the epic's real aim is to silence internal mental storms."
+      "The term 'ayushyam' highlights that contemplating a narrative focused on absolute composure, vitality, and ethical alignment reduces emotional stress, which ancient texts rightly identify as a primary cause of shortened lifespans. The word 'saganah' implies that the positive vibrations of reading this text do not stop at the individual; they actively elevate the reader's entire social circle."
     ]
   },
   {
