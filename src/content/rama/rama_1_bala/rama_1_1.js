@@ -3345,45 +3345,49 @@ const verses = [
     chapter: 1,
     number: 66,
     sloka: [
-      "ततोऽगर्जद्धरिवरः सुग्रीवो हेमपिङ्गलः |",
-      "तेन नादेन महता निर्जगाम हरीश्वरः ||"
+      "बिभेद च पुनः सालान् सप्तैकेन महेषुणा |",
+      "गिरिं रसातलं चैव जनयन् प्रत्ययं तदा || 66"
     ],
     sloka_tel: [
-      "తతోఽగర్జద్ధరివరః సుగ్రీవో హేమపింగలః |",
-      "తేన నాదేన మహతా నిర్జగామ హరీశ్వరః ||"
+      "బిభేద చ పునః సాలాన్ సప్తైకేన మహేషుణా |",
+      "గిరిం రసాతలం చైవ జనయన్ ప్రత్యయం తదా || 66"
     ],
     vicheda: [
-      "ततः अगर्जत् हरि-वरः सुग्रीवः हेम-पिङ्गलः |",
-      "तेन नादेन महता निर्जगाम हरि-ईश्वरः ||"
+      "बिभेद च पुनः सालान् सप्त एकेन महा-इषुणा",
+      "गिरिम् रसातलम च एव जनयन् प्रत्ययम् तदा"
     ],
     anvaya: [
-      "ततः हेमपिङ्गलः हरिवरः सुग्रीवः अगर्जत्, तेन महता नादेन हरीश्वरः (वाली) निर्जगाम ||"
+      "तदा (सः) प्रत्ययम् जनयन्, एकेन महेषुणा सप्त सालान् गिरिम् रसातलं च एव पुनः बिभेद ||"
     ],
     prose: [],
     transl: [
-      "Arriving at the gates, the golden-hued Vanara hero Sugriva let out a thunderous, earth-shaking roar. Hearing that defiant, massive sound, the king of the monkeys, Vali, stormed out of his palace."
+      "Then, to instill absolute confidence in Sugriva, Rama unleashed a single magnificent arrow, piercing clean through seven massive Shala trees, a mountain, and down into the subterranean earth itself."
     ],
     transl_tel: [
-      "బంగారు ఛాయ కలిగిన సుగ్రీవుడు కిష్కింధకు చేరుకుని సింహనాదం చేశాడు. ఆ భయంకరమైన ధ్వని వినపడగానే, వానర రాజైన వాలి కోపంతో గుహ నుండి వెలుపలికి వచ్చాడు."
+      "అప్పుడు సుగ్రీవునికి తనపై సంపూర్ణ నమ్మకం కలిగించడం కోసం, శ్రీరాముడు ఒకే ఒక్క మహా బాణముతో ఏడు తాటి (సాల) వృక్షాలను, ఒక పర్వతాన్ని మరియు భూగర్భాన్ని (రసాతలాన్ని) కూడా ఒకదాని తర్వాత ఒకటిగా చీల్చుకుంటూ వెళ్లేలా కొట్టాడు."
     ],
     essence: [
-      "Standing at the border of his old home, Sugriva—whose coat shines like molten gold—roars out a fierce challenge. It fills the sky. Vali, surprised that his previously terrified younger brother dares to stand at his doorstep, becomes furious and charges outside to crush the rebellion."
+      "To completely eliminate Sugriva's lingering hesitation, Rama follows up the bone-kicking feat with an even more spectacular display of archery. He shoots a single arrow that penetrates a straight row of seven massive Shala trees, cuts through an adjacent mountain ridge, dives deep into the lowest realm of the earth (Rasatala), and incredibly returns back to his quiver, leaving Sugriva utterly spellbound and reassured of victory."
     ],
     meanings: [
-      "ततः = Then",
-      "अगर्जत् = Roared out / Thundered",
-      "हरि-वरः = The best among monkeys (Sugriva)",
-      "सुग्रीवः = Sugriva",
-      "हेम-पिङ्गलः = Golden-yellow / Bronzed coat hue",
-      "तेन = By that",
-      "नादेन = Sound / Roar",
-      "महता = Great / Tremendous",
-      "निर्जगाम = Came out / Emerged",
-      "हरि-ईश्वरः = The lord of monkeys (Vali)"
+      "बिभेद = Pierced through / Cleaved / Shattered",
+      "च = And",
+      "पुनः = Furthermore / Again",
+      "सालान् = Shala trees (often translated as palm/teak trees)",
+      "सप्त = Seven",
+      "एकेन = With a single",
+      "महा-इषुणा = Great / Mighty arrow",
+      "गिरिम् = The mountain",
+      "रसातलम् = Rasatala (the subterranean underworld)",
+      "च = And",
+      "एव = Indeed / Truly",
+      "जनयन् = Inspiring / Creating / Instilling",
+      "प्रत्ययम् = Absolute faith / Confidence / Conviction",
+      "तदा = Then / At that moment"
     ],
     grammar: [],
     notes: [
-      "The contrast between the brothers is drawn through titles: Sugriva is *Hari-vara* (a warrior among monkeys), while Vali is *Hari-ishvara* (the undisputed ruler/god of monkeys). Sugriva's roar is fueled entirely by the quiet strength of Rama standing hidden behind the trees."
+      "The feat of piercing the seven trees ('Sapta-shala-bhedana') is one of Rama's defining martial highlights. Valmiki adds that the arrow even penetrated 'Rasatalam', signifying that Rama's physical prowess surpassed any earthly or demonic force, completely securing Sugriva's allegiance."
     ]
   },
   {
