@@ -3442,46 +3442,45 @@ const verses = [
     chapter: 1,
     number: 68,
     sloka: [
-      "ततः सुग्रीवमेव राज्ये शक्रसमो बली |",
-      "प्रतिपादयित्वा वीरः सस्वान सर्वान् हरीश्वरः ||"
+      "ततोऽगर्जद्धरिवरः सुग्रीवो हेमपिङ्गलः |",
+      "तेन नादेन महता निर्जगाम हरीश्वरः || 68"
     ],
     sloka_tel: [
-      "తతః సుగ్రీవమేవ రాజ్యే శక్రసమో బలీ |",
-      "ప్రతిపాదయిత్వా వీరః సస్వాన సర్వాన్ హరీశ్వరః ||"
+      "తతోఽగర్జద్ధరివరః సుగ్రీవో హేమపింగళః |",
+      "తేన నాదేన మహతా నిర్జగామ హరీశ్వరః || 68"
     ],
     vicheda: [
-      "ततः सुग्रीवम् एव राज्ये शक्र-समः बली |",
-      "प्रतिपादयित्वा वीरः सस्वान सर्वान् हरीश्वरः ||"
+      "ततः अगर्जत् हरि-वरः सुग्रीवः हेम-पिङ्गलः",
+      "तेन नादेन महता निर्जगाम हरीश्वरः"
     ],
     anvaya: [
-      "ततः शक्रसमः बली वीरः हरीश्वरः (रामः) सुग्रीवम् एव राज्ये प्रतिपादयित्वा, सर्वान् (वानरान्) सस्वान ||"
+      "ततः हेमपिङ्गलः हरिवरः सुग्रीवः अगर्जत्; तेन महता नादेन हरीश्वरः (वाली) निर्जगाम ||"
     ],
     prose: [],
     transl: [
-      "Thereafter, the heroic and mighty Rama, who possesses power matching Lord Indra, formally installed Sugriva upon the throne, uniting all the Vanara forces under his leadership."
+      "Then, Sugriva, the foremost among the vanaras, whose coat shone with a golden-yellow hue, let out a thunderous roar. Terrified and provoked by that tremendous sound, Vali, the lord of the vanaras, emerged from his palace."
     ],
     transl_tel: [
-      "ఆ తర్వాత ఇంద్రుడితో సమానమైన పరాక్రమవంతుడైన రాముడు, సుగ్రీవుడిని కిష్కింధ రాజ్యానికి రాజుగా అభిషేకించి, వానరులందరినీ అతడి ఆధీనంలోకి తెచ్చాడు."
+      "ఆపై, పసిడి వర్ణముతో మెరిసిపోతున్న వానరశ్రేష్ఠుడైన సుగ్రీవుడు సింహనాదం చేశాడు. ఆ భయంకరమైన ధ్వనిని విని, తట్టుకోలేక వానరరాజు అయిన వాలి గుహ వెలుపలికి వచ్చాడు."
     ],
     essence: [
-      "Following Vali's passing, Rama honors his promise. He crowns Sugriva as the undisputed king of Kishkindha and appoints Angada (Vali’s son) as the crown prince. With the civil war over, Rama commands and mobilizes the entire monkey population, bringing order and preparing them for the grand quest ahead."
+      "Arriving at the gates of Kishkindha with Rama backing him up, Sugriva throws down the gauntlet. Emboldened by his newfound confidence, his roar shakes the mountain fortress. Vali, the undisputed king who had grown accustomed to his brother hiding in fear on Rishyamuka mountain, is startled and enraged by this sudden, audacious challenge, prompting him to storm out of his palace to crush the uprising."
     ],
     meanings: [
-      "ततः = Thereafter",
-      "सुग्रीवम् = Sugriva",
-      "एव = Alone / Assuredly",
-      "राज्ये = In the kingdom / On the throne",
-      "शक्र-समः = Equal to Shakra (Indra, king of gods)",
-      "बली = Powerful",
-      "प्रतिपादयित्वा = Having established / Installed",
-      "वीरः = The heroic warrior (Rama)",
-      "सस्वान = Collected / Consolidated / Commanded",
-      "सर्वान् = All",
-      "हरीश्वरः = The lord of monkeys (referring to Rama taking overall command of the race through Sugriva)"
+      "ततः = Then / Thereupon",
+      "अगर्जत् = Roared / Thundered",
+      "हरि-वरः = The best / Foremost among the vanaras",
+      "सुग्रीवः = Sugriva",
+      "हेम-पिङ्गलः = Having a golden-yellow complexion",
+      "तेन = By that",
+      "नादेन = Sound / Roar",
+      "महता = By the great / Tremendous",
+      "निर्जगाम = Came out / Emerged",
+      "हरीश्वरः = The king of the vanaras (Vali)"
     ],
     grammar: [],
     notes: [
-      "Rama is described as *Shakra-samah* (equal to Indra). Just as Indra restores cosmic order by eliminating chaotic forces, Rama stabilizes the southern territories by replacing an erratic ruler with an ally bound by dharma."
+      "The compound 'hema-pingalah' vividly paints Sugriva's physical appearance, showing the majestic, lion-like golden mane and coat of the elite vanara royalty. The title 'harisvarah' shifts here to denote Vali, emphasizing his established, formidable sovereign power over the monkey kingdom."
     ]
   },
   {
