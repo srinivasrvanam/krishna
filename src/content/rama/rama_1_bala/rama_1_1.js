@@ -3668,47 +3668,45 @@ const verses = [
     chapter: 1,
     number: 73,
     sloka: [
-      "पञ्च सेनाग्रगान् हत्वा सप्त मन्त्रिमुतानपि |",
-      "शूरमक्षं च निष्पिष्य ग्रहणं समुपागमत् ||"
+      "तत्र लङ्कां समासाद्य पुरीं रावणपालिताम् |",
+      "ददर्श सीतां ध्यायन्तीमशोकवनिकां गताम् || 73"
     ],
     sloka_tel: [
-      "పంచ సేనాగ్రగాన్ హత్వా సప్త మంత్రిముతానపి |",
-      "శూరమక్షం చ నిష్పిష్య గ్రహణం సముపాగమత్ ||"
+      "తత్ర లఙ్కాం సమాసాద్య పురీం రావణపాలితామ్ |",
+      "దదర్శ సీతాం ధ్యాయంతీమశోకవనికాం గతామ్ || 73"
     ],
     vicheda: [
-      "पञ्च सेना-अग्रगान् हत्वा सप्त मन्त्रि-सुतान् अपि |",
-      "शूरम् अक्षम् च निष्पिष्य ग्रहणम् समुपागमत् ||"
+      "तत्र लङ्काम् समासाद्य पुरीम् रावण-पालिताम्",
+      "ददर्श सीताम् ध्यायन्तीम् अशोक-वनिकाम् गताम्"
     ],
     anvaya: [
-      "पञ्च सेनाग्रगान् सप्त मन्त्रिमुतान् अपि हत्वा, शूरम् अक्षम् च निष्पिष्य (हनुमान्) ग्रहणम् समुपागमत् ||"
+      "तत्र रावणपालिताम् लङ्कां पुरीम् समासाद्य, अशोकवनिकाम् गताम् ध्यायन्तीम् सीताम् ददर्श ||"
     ],
     prose: [],
     transl: [
-      "After slaying five formidable army generals and seven sons of ministers, and completely crushing Ravana's brave warrior son Aksha, Hanuman intentionally allowed himself to be captured."
+      "Having successfully reached the city of Lanka, which was heavily guarded and ruled by Ravana, Hanuman discovered Sita inside the Ashoka grove, deeply immersed in sorrowful thoughts of Rama."
     ],
     transl_tel: [
-      "ఐదుగురు సేనాధిపతులను, ఏడుగురు మంత్రి కుమారులను వధించి, శూరుడైన అక్షకుమారుడిని నలిపి చంపిన తర్వాత, హనుమంతుడు కావాలనే బంధనానికి (చిక్కడానికి) లొంగిపోయాడు."
+      "అక్కడ రావణుడి చేత పాలింపబడుతున్న లంకా నగరానికి చేరుకున్న హనుమంతుడు, అశోకవనంలో ఉంటూ, నిరంతరము శ్రీరాముని గురించే ధ్యానిస్తూ శోకసముద్రంలో మునిగివున్న సీతాదేవిని కనుగొన్నాడు."
     ],
     essence: [
-      "Furious at the destruction of his garden, Ravana sends waves of troops. Hanuman effortlessly eliminates five elite military commanders and seven high-ranking ministers' sons. When Ravana's young prince Aksha enters the fray, Hanuman crushes him. Finally, to face Ravana directly in court, Hanuman willingly allows Indrajit’s Brahmastra arrow to bind him."
+      "After landing in Lanka under the cover of night, Hanuman infiltrates the opulent, heavily fortified demonic citadel. He searches meticulously through palaces and gardens until he reaches the Ashoka grove (*Ashoka-vanika*). There, he finally spots Sita. Stripped of royal comforts and surrounded by terrifying ogresses, she remains completely unyielding, her mind entirely anchored in unbroken meditation (*dhyaayanteem*) on her husband, Rama."
     ],
     meanings: [
-      "पञ्च = Five",
-      "सेना-अग्रगान् = Frontline army commanders / Generals",
-      "हत्वा = Slaying / Having killed",
-      "सप्त = Seven",
-      "मन्त्रि-सुतान् = Sons of ministers",
-      "अपि = Also",
-      "शूरम् = Heroic / Valiant",
-      "अक्षम् = Aksha Kumara (Ravana's son)",
-      "च = And",
-      "निष्पिष्य = Grinding down / Crushing completely",
-      "ग्रहणम् = Captivity / Arrest state",
-      "समुपागमत् = Approached / Willingly accepted"
+      "तत्र = There (across the ocean)",
+      "लङ्काम् = Lanka",
+      "समासाद्य = Having reached / Entered safely",
+      "पुरीम् = The city",
+      "रावण-पालिताम् = Ruled / Protected by Ravana",
+      "ददर्श = He saw / Discovered",
+      "सीताम् = Sita",
+      "ध्यायन्तीम् = Meditating / Deeply contemplating (on Rama)",
+      "अशोक-वनिकाम् = The Ashoka grove / garden",
+      "गताम् = Who had entered / Restrained within"
     ],
     grammar: [],
     notes: [
-      "Hanuman's capture is a tactical choice (*Grahana-upagamat*). As a master diplomat, he knows that real deterrence requires delivering a face-to-face ultimatum to the enemy king inside his own courtroom."
+      "The word 'dhyaayanteem' is highly significant; it depicts Sita not merely as a passive victim in captivity, but as a spiritual ascetic whose entire consciousness is fused with Rama. This poignant discovery forms the core emotional climax of the Sundara Kanda."
     ]
   },
   {
