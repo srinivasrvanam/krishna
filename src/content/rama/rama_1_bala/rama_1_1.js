@@ -4,7 +4,7 @@ const verses = [
     number: 1,
     sloka: [
       "ॐ तपःस्वाध्याय निरतं तपस्वी वाग्विदां वरम् |",
-      "नारदं परिपप्रच्छ वाल्मीकिर्मुनिपुङ्गवम् ||"
+      "नारदं परिपप्रच्छ वाल्मीकिर्मुनिपुङ्गवम् || 1"
     ],
     sloka_tel: [
       "ఓం తపఃస్వాధ్యాయ నిరతం తపస్వీ వాగ్విదాం వరమ్ |",
@@ -53,7 +53,7 @@ const verses = [
     number: 2,
     sloka: [
       "को न्वस्मिन्साम्प्रतं लोके गुणवान् कश्च वीर्यवान् |",
-      "धर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रतः ||"
+      "धर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रतः || 2"
     ],
     sloka_tel: [
       "కో న్వస్మిన్సాంప్రతం లోకే గుణవాన్ కశ్చ వీర్యవాన్ |",
@@ -117,7 +117,7 @@ const verses = [
     number: 3,
     sloka: [
       "चारित्रेण च को युक्तः सर्वभूतेषु को हितः |",
-      "विद्वान् कः कः समर्थश्च कश्चैकप्रियदर्शनः ||"
+      "विद्वान् कः कः समर्थश्च कश्चैकप्रियदर्शनः || 3"
     ],
     sloka_tel: [
       "చారిత్రేణ చ కో యుక్తః సర్వభూతేషు కో హితః |",
@@ -181,7 +181,7 @@ const verses = [
     number: 4,
     sloka: [
       "आत्मवान् को जितक्रोधो द्युतिमान् कोऽनसूयकः |",
-      "कस्य बिभ्यति देवाश्च जातरोषस्य संयुगे ||"
+      "कस्य बिभ्यति देवाश्च जातरोषस्य संयुगे || 4"
     ],
     sloka_tel: [
       "ఆత్మవాన్ కో జితక్రోధో ద్యుతిమాన్ కోఽనసూయకః |",
@@ -242,7 +242,7 @@ const verses = [
     number: 5,
     sloka: [
       "एतदिच्छाम्यहं श्रोतुं परं कौतूहलं हि मे |",
-      "महर्षे त्वं समर्थोऽसि ज्ञातुमेवंविधं नरम् ||"
+      "महर्षे त्वं समर्थोऽसि ज्ञातुमेवंविधं नरम् || 5"
     ],
     sloka_tel: [
       "ఏతదిచ్ఛామ్యహం శ్రోతుం పరం కౌతూహలం హి మే |",
@@ -301,7 +301,7 @@ const verses = [
     number: 6,
     sloka: [
       "श्रुत्वा चैतत्त्रिलोकज्ञो वाल्मीकेर्नारदो वचः |",
-      "श्रूयतामिति चामन्त्र्य प्रहृष्टो वाक्यमब्रवीत् ||"
+      "श्रूयतामिति चामन्त्र्य प्रहृष्टो वाक्यमब्रवीत् || 6"
     ],
     sloka_tel: [
       "శ్రుత్వా చైతత్త్రిలోకజ్ఞో వాల్మీకేర్నారదో వచః |",
@@ -362,7 +362,7 @@ const verses = [
     number: 7,
     sloka: [
       "बहवो दुर्लभाश्चैव ये त्वया कीर्तिता गुणाः |",
-      "मुने वक्ष्याम्यहं बुद्ध्वा तैर्युक्तः श्रूयतां नरः ||"
+      "मुने वक्ष्याम्यहं बुद्ध्वा तैर्युक्तः श्रूयतां नरः || 7"
     ],
     sloka_tel: [
       "బహవో దుర్లభాశ్చైవ యే త్వయా కీర్తితా గుణాః |",
@@ -424,7 +424,7 @@ const verses = [
     number: 8,
     sloka: [
       "इक्ष्वाकुवंशप्रभवो रामो नाम जनैः श्रुतः |",
-      "नियतात्मा महावीर्यो द्युतिमान् धृतिमान् वशी ||"
+      "नियतात्मा महावीर्यो द्युतिमान् धृतिमान् वशी || 8"
     ],
     sloka_tel: [
       "ఇక్ష్వాకువంశప్రభవో రామో నామ జనైః శ్రుతః |",
@@ -482,7 +482,7 @@ const verses = [
     number: 9,
     sloka: [
       "बुद्धिमान् नीतिमान् वाग्मी श्रीमान् शत्रुनिबर्हणः |",
-      "विपुलांसो महाबाहुः कम्बुग्रीवो महाहनुः ||"
+      "विपुलांसो महाबाहुः कम्बुग्रीवो महाहनुः || 9"
     ],
     sloka_tel: [
       "బుద్ధిమాన్ నీతిమాన్ వాగ్మీ శ్రీమాన్ శత్రునిబర్హణః |",
@@ -545,7 +545,7 @@ const verses = [
     number: 10,
     sloka: [
       "महोरस्को महेष्वासो गूढजत्रुररिन्दमः |",
-      "आजानुबाहुः सुशिराः सुललाटः सुविक्रमः ||"
+      "आजानुबाहुः सुशिराः सुललाटः सुविक्रमः || 10"
     ],
     sloka_tel: [
       "మహోరస్కో మహేష్వాసో గూఢజత్రురరిందమః |",
@@ -605,7 +605,7 @@ const verses = [
     number: 11,
     sloka: [
       "समः समविभक्ताङ्गः स्निग्धवर्णः प्रतापवान् |",
-      "पीनवक्षा विशालाक्षो लक्ष्मीवान् शुभलक्षणः ||"
+      "पीनवक्षा विशालाक्षो लक्ष्मीवान् शुभलक्षणः || 11"
     ],
     sloka_tel: [
       "సమః సమవిభక్తాంగః స్నిగ్ధవర్ణః ప్రతాపవాన్ |",
@@ -665,7 +665,7 @@ const verses = [
     number: 12,
     sloka: [
       "धर्मज्ञः सत्यसन्धश्च प्रजानां च हिते रतः |",
-      "यशस्वी ज्ञानसम्पन्नः शुचिर्वश्यः समाधिमान् ||"
+      "यशस्वी ज्ञानसम्पन्नः शुचिर्वश्यः समाधिमान् || 12"
     ],
     sloka_tel: [
       "ధర్మజ్ఞః సత్యసంధశ్చ ప్రజానాం చ హితే రతః |",
@@ -729,7 +729,7 @@ const verses = [
     number: 13,
     sloka: [
       "प्रजापतिसमः श्रीमान् धाता रिपुनिषूदनः |",
-      "रक्षिता जीवलोकस्य धर्मस्य परिरक्षिता ||"
+      "रक्षिता जीवलोकस्य धर्मस्य परिरक्षिता || 13"
     ],
     sloka_tel: [
       "ప్రజాపతిసమః శ్రీమాన్ ధాతా రిపునిషూదనః |",
@@ -785,7 +785,7 @@ const verses = [
     number: 14,
     sloka: [
       "रक्षिता स्वस्य धर्मस्य स्वजनस्य च रक्षिता |",
-      "वेदवेदाङ्गतत्त्वज्ञो धनुर्वेदे च निष्ठितः ||"
+      "वेदवेदाङ्गतत्त्वज्ञो धनुर्वेदे च निष्ठितः || 14"
     ],
     sloka_tel: [
       "రక్షితా స్వస్య ధర్మస్య స్వజనస్య చ రక్షితా |",
@@ -839,7 +839,7 @@ const verses = [
     number: 15,
     sloka: [
       "सर्वशास्त्रार्थतत्त्वज्ञो स्मृतिमान् प्रतिभानवान् |",
-      "सर्वलोकप्रियः साधुरदीनात्मा विचक्षणः ||"
+      "सर्वलोकप्रियः साधुरदीनात्मा विचक्षणः || 15"
     ],
     sloka_tel: [
       "సర్వశాస్త్రార్థతత్త్వజ్ఞో స్మృతిమాన్ ప్రతిభానవాన్ |",
@@ -896,7 +896,7 @@ const verses = [
     number: 16,
     sloka: [
       "सर्वदाभिगतः सद्भिः समुद्र इव सिन्धुभिः |",
-      "आर्यः सर्वसमश्चैव सदैव प्रियदर्शनः ||"
+      "आर्यः सर्वसमश्चैव सदैव प्रियदर्शनः || 16"
     ],
     sloka_tel: [
       "సర్వదాభిగతః సద్భిః సముద్ర ఇవ సింధుభిః |",
@@ -953,7 +953,7 @@ const verses = [
     number: 17,
     sloka: [
       "स च सर्वगुणोपेतः कौसल्यानन्दवर्धनः |",
-      "समुद्र इव गाम्भीर्ये धैर्येण हिमवानिव ||"
+      "समुद्र इव गाम्भीर्ये धैर्येण हिमवानिव || 17"
     ],
     sloka_tel: [
       "స చ సర్వగుణోపేతః కౌసల్యానందవర్ధనః |",
@@ -1007,7 +1007,7 @@ const verses = [
     number: 18,
     sloka: [
       "विष्णुना सदृशो वीर्ये सोमवत्प्रियदर्शनः |",
-      "कालाग्निसदृशः क्रोधे क्षमया पृथ्वीसमः ||"
+      "कालाग्निसदृशः क्रोधे क्षमया पृथ्वीसमः || 18"
     ],
     sloka_tel: [
       "విష్ణునా సదృశో వీర్యే సోమవత్ప్రియదర్శనః |",
@@ -1060,7 +1060,7 @@ const verses = [
     number: 19,
     sloka: [
       "धनदेन समस्त्यागे सत्ये धर्म इवापरः |",
-      "तमेवं गुणसम्पन्नं रामं सत्यपराक्रमम् ||"
+      "तमेवं गुणसम्पन्नं रामं सत्यपराक्रमम् || 19"
     ],
     sloka_tel: [
       "ధనదేన సమస్త్యాగే సత్యే ధర్మ ఇవాపరః |",
@@ -1106,7 +1106,7 @@ const verses = [
   },
   {
     chapter: 1,
-    number: 20,
+    number: 21,
     sloka: [
       "तमेवं गुणसम्पन्नं रामं सत्यपराक्रमम् || 19b",
       "ज्येष्ठं श्रेष्ठगुणैर्युक्तं प्रियं दशरथः सुतम् |",
@@ -1190,45 +1190,6 @@ const verses = [
   },
   {
     chapter: 1,
-    number: 21,
-    sloka: [
-      "यौवराज्येन संयोक्तुमैच्छत्प्रीत्या महीपतिः |",
-      "तस्याभिषेकसम्भारान् दृष्ट्वा भार्याथ कैकयी ||"
-    ],
-    sloka_tel: [
-      "యౌవరాజ్యేన సంయోక్తుమైచ్ఛత్ప్రీత్యా మహీపతిః |",
-      "తస్యాభిషేకసంభారాన్ దృష్ట్వా భార్యాథ కైకయీ ||"
-    ],
-    vicheda: [
-      "यौवराज्येन संयोक्तुम् ऐच्छत् प्रीत्या मही-पतिः |",
-      "तस्य अभिषेक-सम्भारान् दृष्ट्वा भार्या अथ कैकयी ||"
-    ],
-    anvaya: [
-      "... done in prev & next sloka",
-    ],
-    prose: [
-      "... done in prev & next sloka",
-    ],
-    transl: [
-      "The lord of the earth (King Dasharatha), out of deep affection, desired to invest Him with the position of crown prince. Thereafter, seeing the preparations arranged for that coronation, his wife Kaikeyi..."
-    ],
-    transl_tel: [
-      "మహారాజైన దశరథుడు ఎంతో ప్రేమతో రామునికి యువరాజ పట్టాభిషేకం చేయాలని నిశ్చయించాడు. ఆ పట్టాభిషేకానికి జరుగుతున్న వైభవవంతమైన ఏర్పాట్లను చూసి, ఆయన భార్యయైన కైకేయి..."
-    ],
-    essence: [
-      "This verse seamlessly carries forward the thought from the previous slokas. King Dasharatha officially moves forward with his heart's desire to install Rama as the crown prince. However, upon witnessing the grand ceremonial items and materials accumulating for the festive event, his queen Kaikeyi steps into the narrative arc."
-    ],
-    meanings: [
-      "... done in prev & next sloka",
-    ],
-    grammar: [],
-    notes: [
-      "This verse represents the precise tipping point of the Ayodhya Kanda's backstory. It introduces the sudden visual contrast of the grand celebratory arrangements (*Abhisheka-sambharan*) turning into a catalyst for conflict.",
-      "The grammar here remains linked in suspension with the following verse to outline Kaikeyi's subsequent actions."
-    ]
-  },
-  {
-    chapter: 1,
     number: 22,
     sloka: [
       "तस्याभिषेकसम्भारान् दृष्ट्वा भार्याथ कैकयी || 21b",
@@ -1298,7 +1259,7 @@ const verses = [
     number: 23,
     sloka: [
       "स सत्यवचनात् राजा धर्मपाशेन संयतः |",
-      "विवासयामास सुतं रामं दशरथः प्रियम् ||"
+      "विवासयामास सुतं रामं दशरथः प्रियम् || 23"
     ],
     sloka_tel: [
       "స సత్యవచనాత్ రాజా ధర్మపాశేన సంయతః |",
@@ -1351,7 +1312,7 @@ const verses = [
     number: 24,
     sloka: [
       "स जगाम वनं वीरः प्रतिज्ञामनुपालयन् |",
-      "पितुर्वचननिर्देशात् कैकेय्याः प्रियकारणात् ||"
+      "पितुर्वचननिर्देशात् कैकेय्याः प्रियकारणात् || 24"
     ],
     sloka_tel: [
       "స జగామ వనం వీరః ప్రతిజ్ఞామనుపాలయన్ |",
@@ -1401,7 +1362,7 @@ const verses = [
   },
   {
     chapter: 1,
-    number: 25,
+    number: 26,
     sloka: [
       "तं व्रजन्तं प्रियो भ्राता लक्ष्मणोऽनुजगाम ह |",
       "स्नेहाद्विनयसम्पन्नः सुमित्रानन्दवर्धनः || 25",
@@ -1469,44 +1430,7 @@ const verses = [
   },
   {
     chapter: 1,
-    number: 26,
-    sloka: [
-      "भ्रातरं दयितो भ्रातुः सौभ्रात्रमनुदर्शयन् |",
-      "रामस्य दयिता भार्या नित्यं प्राणसमा हिता ||"
-    ],
-    sloka_tel: [
-      "భ్రాతరం దయితా భ్రాతుః సౌభ్రాత్రమనుదర్శయన్ |",
-      "రామస్య దయితా భార్యా నిత్యం ప్రాణసమా హితా ||"
-    ],
-    vicheda: [
-      "भ्रातरम् दयितः भ्रातुः सौభ्रात्रम् अनुदर्शयन् |",
-      "रामस्य दयिता भार्या नित्यम् प्राण-समा हिता ||"
-    ],
-    anvaya: [
-      "done in prev & next sloka"
-    ],
-    prose: [
-      "done in prev & next sloka"
-    ],
-    transl: [
-      "...Demonstrating the highest standard of brotherly love toward his adored sibling. Rama's beloved wife, who was ever matching His life-breath itself and always devoted to His welfare..."
-    ],
-    transl_tel: [
-      "తన అన్నపై గల నిరుపమానమైన సోదరప్రేమను చాటుకుంటూ లక్ష్మణుడు వెళ్ళాడు. అలాగే రాముడికి నిరంతరం ప్రియమైనది, ఆయన ప్రాణంతో సమానమైనది, ఆయన హితాన్ని కోరే భార్య..."
-    ],
-    essence: [
-      "Narada completes the picture of Lakshmana's fraternal dedication and shifts directly to introduce Sita. Sita is described as Rama's cherished soulmate, whose life matches his own in perfect harmony, and who constantly acts for his absolute welfare."
-    ],
-    meanings: [
-    ],
-    grammar: [],
-    notes: [
-      "This verse acts as a bridge. The first half concludes Lakshmana's motives, while the second half initiates a beautiful description of Sita, leading directly into verse 27."
-    ]
-  },
-  {
-    chapter: 1,
-    number: 27,
+    number: 28,
     sloka: [
       "रामस्य दयिता भार्या नित्यं प्राणसमा हिता || 26b",
       "जनकस्य कुले जाता देवमायेव निर्मिता |",
@@ -1588,44 +1512,7 @@ const verses = [
   },
   {
     chapter: 1,
-    number: 28,
-    sloka: [
-      "सीताप्यनुगता रामं शशिनं रोहिणी यथा |",
-      "पौरैरनुगतो दूरं पित्रा दशरथेन च || 28"
-    ],
-    sloka_tel: [
-      "సీతాప్యనుగతా రామం శశినం రోహిణీ యథా |",
-      "పౌరైరనులతో దూరం పిత్రా దశరథేన చ || 28"
-    ],
-    vicheda: [
-      "सीता अपि अनुगता रामम् शशिनम् रोहिणी यथा |",
-      "पौरैः अनुगतः दूरम् पित्रा दशरथेन च || 28"
-    ],
-    anvaya: [
-      "done in prev & next sloka",
-    ],
-    prose: [
-      "done in prev & next sloka",
-    ],
-    transl: [
-      "...Sita too accompanied Rama, just as the constellation Rohini ever accompanies the Moon. Rama was followed for a great distance by the weeping citizens and by his heartbroken father, King Dasharatha."
-    ],
-    transl_tel: [
-      "చంద్రుడిని రోహిణీ దేవి అనుసరించినట్లుగా, సీతాదేవి కూడా రాముడి వెంట వెళ్ళింది. ఆ సమయంలో పురప్రజలు, తండ్రి అయిన దశరథుడు కూడా వారి వెనుక చాలా దూరం వరకు అనుసరిస్తూ వెళ్ళారు."
-    ],
-    essence: [
-      "Sita joins Rama's exile automatically, a union as natural and unalterable as the star Rohini staying with the Moon in the night sky. As the trio walks away from Ayodhya, the grief-stricken citizens and King Dasharatha follow them for miles, unable to easily detach themselves from Rama."
-    ],
-    meanings: [
-    ],
-    grammar: [],
-    notes: [
-      "The moon-and-star simile emphasizes that Sita's place is fundamentally next to Rama, irrespective of whether he resides in a gilded palace or a rough forest clearing. The citizens' tracking behind them demonstrates the deep democratic love Rama commanded."
-    ]
-  },
-  {
-    chapter: 1,
-    number: 29,
+    number: 30,
     sloka: [
       "पौरैरनुगतो दूरं पित्रा दशरथेन च || 28b",
       "शृङ्गिबेरपुरे सूतं गङ्गाकूले व्यसर्जयत् |",
@@ -1703,45 +1590,7 @@ const verses = [
   },
   {
     chapter: 1,
-    number: 30,
-    sloka: [
-      "गुहेन सहितो रामो लक्ष्मणेन च सीतया |",
-      "ते वनेन वनं गत्वा नदीस्तीर्त्वा बहूदकाः || 30",
-    ],
-    sloka_tel: [
-      "గుహేన సహితో రామో లక్ష్మణేన చ సీతయా |",
-      "తే వనేన వనం గత్వా నదీస్తీర్త్వా బహూదకాః || 30",
-    ],
-    vicheda: [
-      "गुहेन सहितः रामः लक्ष्मणेन च सीतया |",
-      "ते वनेन वनम् गत्वा नदीः तीर्त्वा बहु-उदकाः || 30",
-    ],
-    anvaya: [
-      "done in prev & next sloka",
-    ],
-    prose: [
-      "done in prev & next sloka",
-    ],
-    transl: [
-      "Accompanied by Lakshmana and Sita, and aided by Guha, Rama crossed deep, wide rivers flowing with copious waters, moving steadily from one dense forest to another, By the grace and guidance of Sage Bharadvaja, they arrived at Mount Chitrakoota. "
-    ],
-    transl_tel: [
-      "సీతాలక్ష్మణులతో కూడిన రాముడు, గుహుడి సహాయంతో ఎక్కువ నీరున్న నదులను దాటి, ఆయా అడవుల గుండా ఒక వనము నుండి మరొక వనమునకు ప్రయాణమయ్యాడు."
-    ],
-    essence: [
-      "With the assistance of Guha (who provides boats and guidance), Rama, Sita, and Lakshmana cross the deep, wide waters of the sacred Ganges. They push deeper into the wilderness, moving systematically from one forest zone into another as their journey advances."
-    ],
-    meanings: [
-    ],
-    grammar: [],
-    notes: [
-      "This verse captures the physical reality of the exile. Crossing 'Bahu-dakah' (deep rivers) marks their definitive detachment from civil infrastructure, transitioning fully into the rugged terrain of nature.",
-      "The sentence structure continues directly into the next verse to pinpoint their next historical sanctuary."
-    ]
-  },
-  {
-    chapter: 1,
-    number: 31,
+    number: 32,
     sloka: [
       "ते वनेन वनं गत्वा नदीस्तीर्त्वा बहूदकाः || 30b",
       "चित्रकूटमनुप्राप्य भरद्वाजस्य शासनात् |",
@@ -1815,7 +1664,7 @@ const verses = [
   },
   {
     chapter: 1,
-    number: 32,
+    number: 33,
     sloka: [
       "चित्रकूटं गते रामे पुत्रशोकातुरस्तदा || 32b",
       "राजा दशरथः स्वर्गं जगाम विलपन् सुतम् | 33a"
@@ -1934,7 +1783,7 @@ const verses = [
   },
   {
     chapter: 1,
-    number: 35,
+    number: 36,
     sloka: [
       "गत्वा तु स महात्मानं रामं सत्यपराक्रमम् |",
       "अयाचद्भ्रातरं राममार्यभावपुरस्कृतः || 35",
@@ -1998,7 +1847,7 @@ const verses = [
   },
   {
     chapter: 1,
-    number: 36,
+    number: 37,
     sloka: [
       "रामोऽपि परमोदारः सुमुखः सुमहायशाः || 36b",
       "न चैच्छत्पितुरादेशाद्राज्यं रामो महाबलः | 37a"
