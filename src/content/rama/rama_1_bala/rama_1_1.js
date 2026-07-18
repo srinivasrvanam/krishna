@@ -2404,45 +2404,71 @@ const verses = [
     chapter: 1,
     number: 45,
     sloka: [
-      "शरण्यः कारुणिकः स तेषां प्रतिशुश्राव हा |",
-      "राक्षसानां वधं संख्ये वनवासिनिवासिनाम् ||"
+      "स तेषां प्रतिशुश्राव राक्षसानां तथा वने || 44b",
+      "प्रतिज्ञातश्च रामेण वधः संयति रक्षसाम् | 45a",
+      "ऋषीणामग्निकल्पानां दण्डकारण्यवासिनाम् || 45b"
     ],
     sloka_tel: [
-      "శరణ్యః కారుణికః స తేషాం ప్రతిశుశ్రావ హా |",
-      "రాక్షసానాం వధం సంఖ్యే వనవాసినివాసినామ్ ||"
+      "స తేషాం ప్రతిశుశ్రావ రాక్షసానాం తథా వనే || 44b",
+      "ప్రతిజ్ఞాతశ్చ రామేణ వధః సంయతి రక్షసామ్ | 45a",
+      "ఋషీణామగ్నికల్పానాం దండకారణ్యవాసినామ్ || 45b"
     ],
     vicheda: [
-      "शरण्यः कारुणिकः सः तेषाम् प्रतिशुश्राव ह |",
-      "राक्षसानाम् वधम् सङ्ख्ये वनवासि-निवासिनाम् ||"
+      "सः तेषाम् प्रतिशुश्राव राक्षसानाम् तथा वने",
+      "प्रतिज्ञातः च रामेण वधः संयति रक्षसाम्",
+      "ऋषीणाम् अग्नि-कल्पानाम् दण्डकारण्य-वासिनाम्"
     ],
     anvaya: [
-      "शरण्यः कारुणिकः सः वनवासिनिवासिनाम् तेषाम् (ऋषीणाम्) सङ्ख्ये राक्षसानाम् वधम् प्रतिशुश्राव ह ||"
+      "सः वने",
+      "- तेषाम् (ऋषीणाम्) तथा राक्षसानाम् (वधम्)",
+      "प्रतिशुश्राव",
+      ";",
+      "रक्षसाम् वधः",
+      "- दण्डकारण्यवासिनाम् अग्निकल्पानाम् ऋषीणाम् (कृते)",
+      "- संयति",
+      "- रामेण",
+      "प्रतिज्ञातः च |",
     ],
-    prose: [],
+    prose: [
+      "He (Rama) in the forest",
+      "- for the sake of Rishis, the killing of Rakshasas",
+      "gave word",
+      ";",
+      "The killing of Rakshasas",
+      "- for the sake of Rishis, who are dwellers of deep forests, equal to fire",
+      "- in the battle",
+      "- by Rama",
+      "was vowed as well.",
+    ],
     transl: [
-      "He, who is the ultimate refuge of the helpless and deeply compassionate, gave his solemn promise to those forest-dwelling sages that He would totally annihilate the Rakshasas in battle."
+      "In that forest, Rama gave his solemn word to those sages. He took a sacred vow to destroy the demonic rakshasas in battle, assuring full protection to the holy ascetics who resided in the Dandaka forest and blazed with spiritual energy like fire."
     ],
     transl_tel: [
-      "శరణు కోరినవారిని రక్షించేవాడు, దయామయుడు అయిన ఆ రాముడు, అరణ్యాలలో నివసిస్తున్న ఆ ఋషులకు యుద్ధంలో రాక్షసులను వధిస్తానని ప్రతిజ్ఞ (మాటా) ఇచ్చాడు."
+      "ఆ అడవిలో శ్రీరాముడు ఆ మునులందరికీ అభయప్రదానం చేశాడు. దండకారణ్యంలో నివసిస్తూ, అగ్నితో సమానమైన తపోతేజస్సుతో వెలిగిపోతున్న ఆ ఋషుల సమక్షంలో, యుద్ధరంగంలో రాక్షసులను సంహరిస్తానని ఆయన దృఢమైన ప్రతిజ్ఞ చేశాడు."
     ],
     essence: [
-      "Moved by the intense suffering of the hermits, the deeply compassionate Rama—who naturally provides shelter to anyone seeking safety—gives his unbending word. He promises the forest residents that he will confront and eliminate the predatory Rakshasas in open combat (*Sankhye*)."
+      "Rama explicitly commits to his role as a divine guardian. Despite the immense power of the sages—who possess enough spiritual energy to destroy enemies themselves—they live peacefully and do not wish to waste their penance on violence. Rama honors their sanctity by taking an unshakeable oath (*pratijna*) to wage war against and eradicate the dark forces plaguing Dandakaranya."
     ],
     meanings: [
-      "शरण्यः = One who is fit to afford shelter / Ultimate refuge",
-      "कारुणिकः = Deeply compassionate / Kind-hearted",
       "सः = He (Rama)",
       "तेषाम् = To them (to the sages)",
-      "प्रतिशुश्राव = Promised / Solemnly vowed",
-      "ह = Indeed",
-      "राक्षसानाम् = Of the Rakshasas",
-      "वधम् = The slaughter / Extermination",
-      "सङ्ख्ये = In battle / Warfare",
-      "वनवासि-निवासिनाम् = Of those residing in the forest retreats"
+      "प्रतिशुश्राव = Promised / Assured / Gave word",
+      "राक्षसानाम् = Of the rakshasas / Demons",
+      "तथा = In that manner / Thus",
+      "वने = In the forest",
+      "प्रतिज्ञातः = Was vowed / Solemnly sworn",
+      "च = And",
+      "रामेण = By Rama",
+      "वधः = The slaying / Annihilation",
+      "संयति = In battle / In combat",
+      "रक्षसाम् = Of the demons",
+      "ऋषीणाम् = To the sages / Of the seers",
+      "अग्नि-कल्पानाम् = Equal to fire / Blazing with spiritual radiance",
+      "दण्डकारण्य-वासिनाम् = Dwellers of the Dandaka forest"
     ],
     grammar: [],
     notes: [
-      "Rama's vow is an unyielding commitment. In the full text, Sita gently questions the wisdom of picking a fight with the Rakshasas without direct personal provocation while wearing the clothes of a peaceful hermit. Rama clarifies that his duty to protect those who seek refuge (*Sharanagata-Rakshana*) overrides all other considerations."
+      "The phrase 'Agnikalpanam' describes the sages as possessing a raw, scorching spiritual power resembling fire. Rama's promise here ('vadhah samyati raksasam') is a pivotal moment in the epic; it sets up his unyielding duty to fight the demons, a vow he holds higher than even his own life or comfort."
     ]
   },
   {
