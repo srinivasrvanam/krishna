@@ -2225,47 +2225,66 @@ const verses = [
   },
   {
     chapter: 1,
-    number: 41,
+    number: 42,
     sloka: [
-      "तत्रागमनमेकाग्रो दण्डकारण्यमाविशत् |",
-      "प्रविश्य तु महारण्यं रामो राजीवलोचनः ||"
+      "प्रविश्य तु महारण्यं रामो राजीवलोचनः |",
+      "विराधं राक्षसं हत्वा शरभङ्गं ददर्श ह || 41",
+      "सुतीक्ष्णं चाप्यगस्त्यं च अगस्त्यभ्रातरं तथा | 42a"
     ],
     sloka_tel: [
-      "తత్రాగమనమేకాగ్రో దండకారణ్యమావిశత్ |",
-      "ప్రవిశ్య తు మహారణ్యం రామో రాజీవలోచనః ||"
+      "ప్రవిశ్య తు మహారణ్యం రామో రాజీవలోచనః |",
+      "విరాధం రాక్షసం హత్వా శరభంగం దదర్శ హ ||",
+      "సుతీక్షణం చాప్యగస్త్యం చ అగస్త్యభ్రాతరం తథా |"
     ],
     vicheda: [
-      "तत्र आगमनम् एकाग्रः दण्डक-अरण्यम् आविशत् |",
-      "प्रविश्य तु महा-अरण्यम् रामः राजीव-लोचनः ||"
+      "प्रविश्य तु महारण्यम् रामः राजीव-लोचनः",
+      "विराधम् राक्षसम् हत्वा शरभङ्गम् ददर्श ह",
+      "सुतीक्ष्णम् च अपि अगस्त्यम् च अगस्त्य-भ्रातरम् तथा"
     ],
     anvaya: [
-      "तत्र (पौराणाम्) आगमनम् (दृष्ट्वा), एकाग्रः राजीवलोचनः रामः दण्डकारण्यम् आविशत्, तत् महारण्यम् प्रविश्य तु... ||"
+      "राजीवलोचनः रामः",
+      "- महारण्यम् प्रविश्य तु",
+      "- विराधम् राक्षसं हत्वा",
+      "- शरभङ्गम् सुतीक्ष्णम् च अपि तथा अगस्त्यम् अगस्त्यभ्रातरं च ददर्श ह ||"
     ],
-    prose: [],
+    prose: [
+      "The lotus-eyed Rama",
+      "- having entered the deep forest",
+      "- having killed the Rakshasa Viradha",
+      "- visited and paid respects to great sages like Sharabanga, Sutikshna, Agastya and Agastya's brother (Sudharshana)",
+    ],
     transl: [
-      "Noticing the constant influx of people there, the single-minded, lotus-eyed Rama decided to leave Chitrakoota and entered the deep Dandaka forest. Having thus entered that immense, formidable wilderness..."
+      "Upon entering the deep and perilous wilderness, the lotus-eyed Rama slew the dreaded demon Viradha. Thereafter, he visited and paid his respects to the great sages Sharabhanga, Sutikshna, Agastya, and likewise, Agastya's illustrious brother (Sudharshana)."
     ],
     transl_tel: [
-      "అక్కడికి ప్రజలు పదే పదే రావడం చూసి, ఏకాగ్రత కలిగినవాడు, పద్మముల వంటి కన్నులు కలవాడు అయిన రాముడు దండకారణ్యంలోకి ప్రవేశించాడు. ఆ దట్టమైన అరణ్యంలోకి అడుగుపెట్టి..."
+      "ఆ ఘోరారణ్యంలోకి ప్రవేశించిన తర్వాత, పద్మనేత్రుడైన రాముడు విరాధుడు అనే రాక్షసుడిని వధించాడు. అనంతరం ఆయన శరభంగ మహర్షిని, సుతీక్షణ మహర్షిని, అగస్త్య మహర్షిని, అలాగే అగస్త్యుని సోదరుడిని దర్శించుకున్నాడు."
     ],
     essence: [
-      "To avoid the frequent crowds from Ayodhya and maintain his ascetic vows, Rama remains completely focused (*Ekagrah*). He leads Sita and Lakshmana away from Chitrakoota and moves deep into the vast, dense, and legendary Dandaka forest, transitioning into a much harsher phase of their exile."
+      "Entering the vast Dandaka forest brings Rama face-to-face with his dual purpose in exile: eliminating threatening forces and protecting the spiritual ecosystem. He immediately encounters and destroys Viradha, a ferocious demon terrorizing the woods. Moving forward, he begins a sacred pilgrimage, visiting the hermitages of exalted sages to seek their blessings and understand the plight of the forest dwellers."
     ],
     meanings: [
-      "तत्र = There (at Chitrakoota)",
-      "आगमनम् = The coming / Gathering of crowds",
-      "एकाग्रः = One-pointed / Unwavering in focus",
-      "दण्डक-अरण्यम् = The Dandaka forest",
-      "आविशत् = Entered",
       "प्रविश्य = Having entered",
       "तु = Indeed",
-      "महा-अरण्यम् = The great forest / Wilderness",
+      "महारण्यम् = The great, vast wilderness / Deep forest",
       "रामः = Rama",
-      "राजीव-लोचनः = Lotus-eyed one"
+      "राजीव-लोचनः = One with eyes like a lotus flower",
+      "विराधम् = Viradha (the name of the demon)",
+      "राक्षसम् = The demon",
+      "हत्वा = Having slain / Destroyed",
+      "शरभङ्गम् = Sage Sharabhanga",
+      "ददर्श = Visited / Met / Beheld",
+      "ह = Truly (historical emphasis)",
+      "सुतीक्ष्णम् = Sage Sutikshna",
+      "च = And",
+      "अपि = Also",
+      "अगस्त्यम् = Sage Agastya",
+      "च = And",
+      "अगस्त्य-भ्रातरम् = The brother of Sage Agastya (Idhmavaha)",
+      "तथा = Likewise / As well"
     ],
     grammar: [],
     notes: [
-      "The phrase 'Ekagrah' highlights Rama's total internal clarity; he does not look back at royal comforts or give in to the temptation of staying near civilization. Entering Dandaka marks the true epic shift into the territory of danger and destiny."
+      "The epithet 'Rajiva-lochanah' (lotus-eyed) highlights Rama's serene, divine composure even in a terrifying landscape. Meeting Sage Agastya is a major milestone, as this master of the wilderness later arms Rama with celestial weapons crucial for the upcoming conflict."
     ]
   },
   {
