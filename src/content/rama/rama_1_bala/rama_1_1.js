@@ -3105,47 +3105,50 @@ const verses = [
     chapter: 1,
     number: 61,
     sloka: [
-      "प्रतिज्ञातं च रामेण वधः वालिनः आहवे |",
-      "वालिनः च बलं तत्र कथयामास वानरः ||"
+      "सुग्रीवश्चापि तत्सर्वं श्रुत्वा रामस्य वानरः || 60b",
+      "चकार सख्यं रामेण प्रीतश्चैवाग्निसाक्षिकम् | 61a"
     ],
     sloka_tel: [
-      "ప్రతిజ్ఞాతం చ రామేణ వధః వాలినః ఆహవే |",
-      "వాలినః చ బలం తత్ర కథయామాస వానరః ||"
+      "సుగ్రీవశ్చాపి తత్సర్వం శ్రుత్వా రామస్య వానరః || 60b",
+      "చకార సఖ్యం రామేణ ప్రీతశ్చైవాగ్నిసాక్షికమ్ | 61a"
     ],
     vicheda: [
-      "प्रतिज्ञातम् च रामेण वधः वालिनः आहवे |",
-      "वालिनः च बलम् तत्र कथयामास वानरः ||"
+      "सुग्रीवः च अपि तत् सर्वम् श्रुत्वा रामस्य वानरः",
+      "चकार सख्यम् रामेण प्रीतः च एव अग्नि-साक्षिकम्"
     ],
     anvaya: [
-      "रामेण च आहवे वालिनः वधः प्रतिज्ञातम्, तत्र वानरः वालिनः बलम् च कथयामास ||"
+      "वानरः सुग्रीवः च अपि रामस्य तत् सर्वम् श्रुत्वा, प्रीतः च एव रामेण (सह) अग्निसाक्षिकम् सख्यम् चकार ||"
     ],
     prose: [],
     transl: [
-      "Rama solemnly promised to slay Vali in open combat. Hearing this pledge, Sugriva, still harbor-ing deep apprehension, began to describe Vali’s terrifying, unmatched physical power."
+      "Upon listening to everything that Rama had been through, the vanara Sugriva was deeply moved. Full of affection and goodwill, he forged a sacred bond of friendship with Rama, consecrated in the presence of fire as their holy witness."
     ],
     transl_tel: [
-      "వాలితో యుద్ధం చేసి అతడిని వధిస్తానని రాముడు ప్రతిజ్ఞ చేశాడు. ఆ సమయంలో సుగ్రీవుడు వాలికి ఉన్న అసమానమైన శారీరక బలాన్ని, పరాక్రమాన్ని రామునికి వివరించాడు."
+      "శ్రీరాముడు చెప్పిన వృత్తాంతాన్ని అంతటినీ విన్న వానరుడైన సుగ్రీవుడు ఎంతో చలించిపోయాడు. రామునిపై పరమ ప్రీతి కలిగినవాడై, పవిత్రమైన అగ్ని దేవుని సాక్షిగా ఆయనతో స్నేహబంధాన్ని (సంధిని) కుదుర్చుకున్నాడు."
     ],
     essence: [
-      "Moved by Sugriva’s plight, Rama promises to eliminate the tyrannical Vali in battle. However, Sugriva is plagued by doubt; he knows his brother's near-invincible strength. To show Rama what they are up against, Sugriva details Vali's past exploits and massive power, hoping to ensure Rama doesn't underestimate the king of Kishkindha."
+      "Hearing Rama's tragic tale creates an instant soul-connection for Sugriva, who is also an exiled prince living in fear after having his own wife taken by his brother Vali. Recognizing their shared pain, they formalize their alliance. Guided by Hanuman, they light a sacred fire; by walking around it, they bind their destinies together, promising to protect and serve each other's causes faithfully."
     ],
     meanings: [
-      "प्रतिज्ञातम् = Solemnly promised / Pledged",
+      "सुग्रीवः = Sugriva",
       "च = And",
-      "रामेण = By Rama",
-      "वधः = Slaying / Elimination",
-      "वालिनः = Of Vali",
-      "आहवे = In battle / Combat",
-      "वालिनः = Of Vali",
+      "अपि = Also",
+      "तत् = That",
+      "सर्वम् = Everything / All",
+      "श्रुत्वा = Having heard / Listened to",
+      "रामस्य = Of Rama / From Rama",
+      "वानरः = The vanara (monkey king)",
+      "चकार = Made / Executed",
+      "सख्यम् = Friendship / Sacred alliance",
+      "रामेण = With Rama",
+      "प्रीतः = Delighted / Affectionate / Filled with empathy",
       "च = And",
-      "बलम् = Strength / Might",
-      "तत्र = There (in that context)",
-      "कथयामास = Narrated / Described",
-      "वानरः = The Vanara (Sugriva)"
+      "एव = Indeed",
+      "अग्नि-साक्षिकम् = With fire as the primary witness"
     ],
     grammar: [],
     notes: [
-      "Sugriva's hesitation is natural. Vali possessed a divine boon where he absorbed half the strength of anyone facing him head-on. By explaining Vali's power, Sugriva isn't just boasting about his enemy—he is practically asking Rama for proof that he can match such force."
+      "The compound 'Agni-sakshikam' holds immense cultural and legal weight in the epic. An alliance sealed before fire is unbreakable, eternal, and spiritually binding. From this moment onward, Rama's search for Sita and Sugriva's struggle against Vali become a singular, shared mission."
     ]
   },
   {
