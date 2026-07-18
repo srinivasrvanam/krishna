@@ -4212,47 +4212,46 @@ const verses = [
     chapter: 1,
     number: 86,
     sloka: [
-      "पुनराख्यायिकां जल्पन् सुग्रीवसहितश्च सः |",
-      "पुष्पकं तत्समारुह्य नन्दिग्रामं ययौ तदा ||"
+      "देवताभ्यो वरं प्राप्य समुत्थाप्य च वानरान् |",
+      "अयोध्यां प्रस्थितो रामः पुष्पकेण सुहृद् वृतः || 86"
     ],
     sloka_tel: [
-      "పునరాఖ్యాయికాం జల్పన్ సుగ్రీవసహితశ్చ సః |",
-      "పుష్పకం తత్సమారుహ్య నందిగ్రామం యయౌ తదా ||"
+      "దేవతాభ్యో వరం ప్రాప్య సముత్థాప్య చ వానరాన్ |",
+      "అయోధ్యాం ప్రస్థితో రామః పుష్పకేణ సుహృద్ వృతః || 86"
     ],
     vicheda: [
-      "पुनः आख्यायिकाम् जल्पन् सुग्रीव-सहितः च सः |",
-      "पुष्पकम् तत् समारुह्य नन्दिग्रामम् ययौ तदा ||"
+      "देवताभ्यः वरम् प्राप्य समुत्थाप्य च वानरान्",
+      "अयोध्याम् प्रस्थितः रामः पुष्पकेण सुहृद्-वृतः"
     ],
     anvaya: [
-      "तदा सः सुग्रीवसहितः पुनः आख्यायिकाम् जल्पन्, तत् पुष्पकम् समारुह्य नन्दिग्रामम् ययौ ||"
+      "रामः देवताभ्यः वरम् प्राप्य वानरान् समुत्थाप्य च, सुहृद्वृतः (सन्) पुष्पकेण अयोध्याम् प्रस्थितः ||"
     ],
     prose: [],
     transl: [
-      "Re-boarding the Pushpaka chariot alongside Sugriva, Rama pointed out the landmarks below, happily recounting past stories of their journey as they flew directly toward Nandigram."
+      "Having obtained boons from the assembled gods and resurrected the fallen vanaras, Rama, surrounded by his close friends, set forth toward Ayodhya aboard the Pushpaka aerial chariot."
     ],
     transl_tel: [
-      "ఆ తర్వాత రాముడు సుగ్రీవునితో కలిసి, దారిపొడుగునా గత వృత్తాంతాలను (కథలను) ముచ్చటించుకుంటూ, ఆ పుష్పక విమానాన్ని అధిరోహించి భరతుడు నివసిస్తున్న నందిగ్రామానికి చేరుకున్నాడు."
+      "సమస్త దేవతల నుండి వరాలను పొంది, యుద్ధంలో మరణించిన వానరులందరినీ తిరిగి బతికించుకున్న తర్వాత, శ్రీరాముడు తన మిత్రులందరితో కూడినవాడై, పుష్పక విమానంలో అయోధ్యా నగరానికి ప్రయాణమయ్యాడు."
     ],
     essence: [
-      "Once Hanuman returns with news of Bharata's immense joy and faithful anticipation, Rama resumes his flight. As the chariot glides through the air, Rama points out forests, rivers, and battlefields to Sugriva and the allies, sharing stories of his exile before finally touchdown at Nandigram, the temporary capital."
+      "Before leaving Lanka, the grateful gods grant Rama any boon he desires. Demonstrating his profound love for his loyal army, Rama does not ask for personal power or wealth; instead, he asks for the resurrection of every single vanara warrior who died fighting for him. The gods grant this, bringing the fallen monkeys back to life with healed wounds. With his mission complete, Rama boards the majestic Pushpaka Vimana, flying toward Ayodhya alongside Sita, Lakshmana, Sugriva, Vibhishana, and his close allies."
     ],
     meanings: [
-      "पुनः = Again",
-      "आख्यायिकाम् = Narratives / Past episodes / Stories",
-      "जल्पन् = Speaking / Conversing intimately",
-      "सुग्रीव-सहितः = Along with Sugriva",
+      "देवताभ्यः = From the deities / gods",
+      "वरम् = Boons / divine favors",
+      "प्राप्य = Having obtained / received",
+      "समुत्थाप्य = Having restored to life / resurrected",
       "च = And",
-      "सः = He (Rama)",
-      "पुष्पकम् = The Pushpaka chariot",
-      "तत् = That",
-      "समारुह्य = Having boarded / Mounted",
-      "नन्दिग्रामम् = To the village of Nandigram",
-      "ययौ = Went / Traveled",
-      "तदा = Then"
+      "वानरान् = The vanaras (monkey warriors)",
+      "अयोध्याम् = Toward Ayodhya",
+      "प्रस्थितः = Departed / set out",
+      "रामः = Rama",
+      "पुष्पकेण = By the Pushpaka (aerial chariot / aircraft)",
+      "सुहृद्-वृतः = Surrounded / accompanied by his friends"
     ],
     grammar: [],
     notes: [
-      "Conversing about past struggles (*akhyayikam jalpan*) on the final leg of the journey shows Rama's lighter, companionable side. The hardships of the forest are now turned into shared memories among friends."
+      "The phrase 'samutthāpya ca vānarān' showcases Rama's ultimate compassion as a leader. He ensures that those who sacrificed their lives for his cause share in the final victory. The compound 'suhṛd-vṛtaḥ' signifies that his return is a grand celebration shared with his loyal allies, setting a triumphant tone for the upcoming coronation."
     ]
   },
   {
