@@ -3057,45 +3057,48 @@ const verses = [
     chapter: 1,
     number: 60,
     sloka: [
-      "ततो वानरराजेन वैरानुकथनं प्रति |",
-      "रामायावेदितं सर्वं प्रणिवेदाच्च सर्वशः ||"
+      "सुग्रीवाय च तत्सर्वं शंसद्रामो महाबलः || 59b",
+      "आदितस्तद्यथावृत्तं सीतायाश्च विशेषतः | 60a"
     ],
     sloka_tel: [
-      "తతో వానరరాజేన వైరానుపథనం ప్రతి |",
-      "రామాయావేదితం సర్వం ప్రణివేదాచ్చ సర్వశః ||"
+      "సుగ్రీవాయ చ తత్సర్వం శంసద్రామో మహాబలః || 59b",
+      "ఆదితస్తద్యథావృత్తం సీతాయాశ్చ విశేషతః | 60a"
     ],
     vicheda: [
-      "ततः वानर-राजेन वैरा-अनुकथनम् प्रति |",
-      "रामाय आवेदितम् सर्वम् प्रणिवेदात् च सर्वशः ||"
+      "सुग्रीवाय च तत् सर्वम् शंसत् रामः महाबलः",
+      "आदितः तत् यथा-वृत्तम् सीतायाः च विशेषतः"
     ],
     anvaya: [
-      "ततः वानरराजेन (सुग्रीवेण) वैरानुकथनम् प्रति सर्वशः प्रणिवेदात् च सर्वम् रामाय आवेदितम् ||"
+      "महाबलः रामः आदितः यथावृत्तम् तत् सर्वम् विशेषतः सीतायाः च (वृत्तान्तम्) सुग्रीवाय शंसत् ||"
     ],
     prose: [],
     transl: [
-      "Thereafter, the Vanara prince Sugriva related his own grievances, telling Rama everything about his bitter feud with his elder brother Vali, baring his heart completely."
+      "The exceptionally powerful Rama narrated everything to Sugriva exactly as it had happened from the very beginning, describing in precise detail the agonizing abduction of Sita."
     ],
     transl_tel: [
-      "ఆ తర్వాత వానరరాజైన సుగ్రీవుడు, తన అన్నయైన వాలితో తనకు గల శత్రుత్వాన్ని (వైరాన్ని) గురించి, త్రాగుబోతుతనం లేకుండా చాలా స్పష్టంగా, సమస్త వృత్తాంతాన్ని రామునికి వివరించాడు."
+      "మహాబలశాలియైన శ్రీరాముడు మొదటి నుండి జరిగిన వృత్తాంతాన్ని అంతటినీ, ముఖ్యంగా సీతాదేవి అపహరణకు గురైన విధానాన్ని సుగ్రీవునికి వివరంగా తెలియజేశాడు."
     ],
     essence: [
-      "With their alliance sealed, Sugriva shares his own painful past. He explains how a misunderstanding turned his older brother, King Vali, into a bitter enemy. He tells Rama how Vali exiled him, took his wife, and hunted him across the lands, leaving him isolated on Rishyamukha mountain."
+      "Upon cementing their bond of friendship, transparency becomes paramount. Rama, despite being extraordinarily powerful, bares his heart to Sugriva. He recounts his entire journey starting from Ayodhya up to the forest exile, emphasizing the catastrophic loss of Sita. This raw, honest sharing secures Sugriva's deep empathy and absolute commitment to the rescue mission."
     ],
     meanings: [
-      "ततः = Thereafter",
-      "वानर-राजेन = By the Vanara prince (Sugriva)",
-      "वैरा-अनुकथनम् = The detailed account of animosity / Bitter feud",
-      "प्रति = Regarding / Concerning",
-      "रामाय = To Rama",
-      "आवेदितम् = Was reported / Expressed",
-      "सर्वम् = Everything / Entirely",
-      "प्रणिवेदात् = Out of deep vulnerability / Full disclosure",
+      "सुग्रीवाय = To Sugriva",
       "च = And",
-      "सर्वशः = In exhaustive detail"
+      "तत् = That",
+      "सर्वम् = Everything / All",
+      "शंसत् = Narrating / Recounting",
+      "रामः = Rama",
+      "महाबलः = The exceptionally powerful one",
+      "आदितः = From the beginning / From the outset",
+      "तत् = That",
+      "यथा-वृत्तम् = As it happened / In chronological sequence",
+      "सीतायाः = Of Sita",
+      "च = And",
+      "विशेषतः = Especially / In particular detail"
     ],
     grammar: [],
     notes: [
-      "This verse balances their alliance perfectly. Just as Rama shared his sorrow over losing Sita, Sugriva opens up about his exile and the loss of his family. This mutual vulnerability lays the groundwork for their shared objective: defeating tyrants and reclaiming what was stolen."
+      "The word 'Visesatah' (especially) underscores that Rama's immediate focus and vulnerability lay entirely in his grief for Sita. Even though he had lost a kingdom, his discourse to his new ally centers primarily on the crime committed against his wife, highlighting his profound devotion to her."
     ]
   },
   {
