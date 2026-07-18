@@ -3155,53 +3155,45 @@ const verses = [
     chapter: 1,
     number: 62,
     sloka: [
-      "सुग्रीवः शङ्कितश्चासीन्नित्यं वीर्येण राघवे |",
-      "राघवस्य आप्रत्यार्थं दुन्दुभेः कायमुत्तमम् ||",
-      "दर्शयामास सुग्रीवो महापर्वतसन्निभम् |"
+      "ततो वानरराजेन वैरानुकथनं प्रति || 61b",
+      "रामायावेदितं सर्वं प्रणयाद्दुःखितेन च | 62a"
     ],
     sloka_tel: [
-      "సుగ్రీవః శంకితశ్చాసీన్నిత్యం వీర్యేణ రాఘవే |",
-      "రాఘవస్య ఆప్రత్యార్థం దుందుభేః కాయముత్తమమ్ ||",
-      "దర్శయామాస సుగ్రీవో మహాపర్వతసన్నిభమ్ |"
+      "తతో వానరరాజేన వైరానకథనం ప్రతి || 61b",
+      "రామాయావేదితం సర్వం ప్రణయాద్దుఃఖితేన చ | 62a"
     ],
     vicheda: [
-      "सुग्रीवः शङ्कितः च आसीत् नित्यम् वीर्येण राघवे |",
-      "राघवस्य आ-प्रत्यय-अर्थम् दुन्दुभेः कायम् उत्तमम् |",
-      "दर्शयामास सुग्रीवः महा-पर्वत-सन्निभम् ||"
+      "ततः वानर-राजेन वैर-अनुकथनम् प्रति",
+      "रामाय आवेदितम् सर्वम् प्रणयात् दुःखितेन च"
     ],
     anvaya: [
-      "सुग्रीवः राघवे वीर्येण नित्यम् शङ्कितः च आसीत्, राघवस्य आप्रत्यार्थं सुग्रीवः महापर्वतसन्निभम् दुन्दुभेः उत्तमम् कायम् दर्शयामास ||"
+      "ततः दुःखितेन वानरराजेन प्रणयात् वैरानुकथनम् प्रति सर्वम् रामाय आवेदितम् च ||"
     ],
     prose: [],
     transl: [
-      "Deeply anxious and constantly questioning Rama’s ultimate combat capability, Sugriva pointed toward the massive, mountain-like skeletal remains of the demon Dundubhi to test him."
+      "Thereafter, out of growing affection and trust, the sorrowful king of the vanaras detailed the entire story of his bitter enmity with his brother Vali to Rama."
     ],
     transl_tel: [
-      "రాముని పరాక్రమంపై సుగ్రీవునికి ఎప్పుడూ ఒక చిన్న అనుమానం ఉంటూనే ఉండేది. అందువల్ల రామునికి నమ్మకం కలిగించడం కోసం, పూర్వం వాలి చేతిలో చనిపోయి, కొండలా పడి ఉన్న దుందుభి అనే రాక్షసుని భారీ కళేబరాన్ని చూపించాడు."
+      "ఆ తర్వాత, శ్రీరామునిపై ఏర్పడిన స్నేహపూర్వకమైన అనురాగంతో, దుఃఖితుడైన ఆ వానరరాజు (సుగ్రీవుడు) తన అన్నయైన వాలితో తనకు గల వైరం గురించిన పూర్వాపరాలను, వృత్తాంతాన్ని అంతటినీ రామునికి విన్నవించుకున్నాడు."
     ],
     essence: [
-      "Sugriva cannot fully shake his skepticism. Rama looks like a peaceful, slender ascetic, while Vali is a hulking warrior. To verify if Rama truly has the power to back up his promise, Sugriva shows him the gigantic, dry carcass of the buffalo-demon Dundubhi, whom Vali had easily slain and hurled away years before."
+      "Now that their friendship is sealed before the sacred fire, mutual trust flourishes. Sugriva, deeply burdened by his exile and the constant threat of his tyrannical brother Vali, opens up completely to Rama. Out of genuine affection (*pranaya*), he explains how the bitter feud started, how he was driven out of his kingdom, and how his wife was forcibly taken, seeking Rama's help to resolve his profound sorrow."
     ],
     meanings: [
-      "सुग्रीवः = Sugriva",
-      "शङ्कितः = Doubtful / Apprehensive",
-      "च = And",
-      "आसीत् = Was",
-      "नित्यम् = Constantly / Continually",
-      "वीर्येण = Regarding prowess / Strength",
-      "राघवे = In Rama (Raghav)",
-      "राघवस्य = Rama's",
-      "आ-प्रत्यय-अर्थम् = For the purpose of generating conviction / Instilling faith",
-      "दुन्दुभेः = Of the demon Dundubhi",
-      "कायम् = The body / Skeleton",
-      "उत्तमम् = Huge / Massive",
-      "दर्शयामास = Showed / Pointed out",
-      "सुग्रीवः = Sugriva",
-      "महा-पर्वत-सन्निभम् = Resembling a great mountain"
+      "ततः = Thereafter / Then",
+      "वानर-राजेन = By the king of the vanaras (Sugriva)",
+      "वैर-अनुकथनम् = The narration of the enmity / Feud",
+      "प्रति = Regarding / Concerning",
+      "रामाय = To Rama",
+      "आवेदितम् = Was reported / Narrated / Disclosed",
+      "सर्वम् = Everything / Entirely",
+      "प्रणयात् = Out of affection / Love / Trust",
+      "दुःखितेन = By the sorrowful one",
+      "च = And"
     ],
     grammar: [],
     notes: [
-      "This three-line sloka (*tri-pada*) highlights the psychological undercurrents of the alliance. Sugriva desperately needs help but is terrified of backing a losing side. The massive skeleton serves as a benchmark for Vali's power."
+      "The word 'Pranayat' signifies that Sugriva did not share his history out of a sterile political deal, but out of absolute, heartfelt trust that developed the moment they crossed hands around the sacred fire. This reciprocating vulnerability matches Rama's previous disclosure about Sita."
     ]
   },
   {
