@@ -4441,48 +4441,47 @@ const verses = [
     chapter: 1,
     number: 91,
     sloka: [
-      "न चापि क्षुद्भयं तत्र न तस्करभयं तथा |",
-      "नगरानि च राष्ट्राणि धनधान्ययुतानि च ||"
+      "न पुत्रमरणं किंचिद्द्रक्ष्यन्ति पुरुषाः क्वचित् |",
+      "नार्यश्चाविधवा नित्यं भविष्यन्ति पतिव्रताः || 91"
     ],
     sloka_tel: [
-      "న చాపి క్షుద్భయం తత్ర న తస్కరభయం తథా |",
-      "నగరాని చ రాష్ట్రాణి ధనధాన్యయుతాని చ ||"
+      "న పుత్రమరణం కించిద్ద్రక్ష్యంతి పురుషాః క్వచిత్ |",
+      "నార్యశ్చావిధవా నిత్యం భవిష్యంతి పతివ్రతాః || 91"
     ],
     vicheda: [
-      "न च अपि क्षुध्-भयम् तत्र न तस्कर-भयम् तथा |",
-      "नगरानि च राष्ट्राणि धन-धान्य-युतानि च ||"
+      "न पुत्र-मरणम् किञ्चित् द्रक्ष्यन्ति पुरुषाः क्वचित्",
+      "नार्यः च अविधवाः नित्यम् भविष्यन्ति पतिव्रताः"
     ],
     anvaya: [
-      "तत्र क्षुद्भयं च अपि न, तथा तस्करभयं न; नगरानि च राष्ट्राणि धनधान्ययुतानि च (अभवन्) ||"
+      "(रामराज्ये) पुरुषाः क्वचित् किञ्चित् पुत्रमरणम् न द्रक्ष्यन्ति, नार्यः च नित्यम् अविधवाः पतिव्रताः (च) भविष्यन्ति ||"
     ],
     prose: [],
     transl: [
-      "In that golden realm, there was neither the tormenting dread of hunger nor any fear of thieves and bandits. Every city and province flourished, overflowing with boundless wealth and agricultural abundance."
+      "Nowhere will fathers ever witness the tragic death of their children, and women will remain forever free from early widowhood, living happily and devoted to their husbands."
     ],
     transl_tel: [
-      "ఆ రాజ్యంలో ఆకలి బాధలు కానీ, దొంగల భయం కానీ అస్సలు ఉండేవి కావు. నగరాలు, గ్రామాలు అన్నీ ధనధాన్యాలతో సమృద్ధిగా విలసిల్లాయి."
+      "శ్రీరాముని రాజ్యంలో తండ్రులు తమ కళ్లెదుట పిల్లలు చనిపోయే ఘోరమైన దుఃఖాన్ని ఎక్కడా, ఏమాత్రం చూడరు. స్త్రీలు దీర్ఘసుమంగళిలుగా ఉంటూ ఎన్నటికీ వైధవ్య బాధను అనుభవించరు మరియు నిరంతరం పతివ్రతలుగా సంతోషంగా జీవిస్తారు."
     ],
     essence: [
-      "Economic security reaches its peak under Rama's watch. Poverty is completely wiped out, removing the desperation that drives hunger. Because the administration is highly vigilant and the citizens are naturally moral, crime and theft disappear entirely. Both metropolitan hubs and rural territories thrive with full storehouses."
+      "In this verse, Valmiki details the extraordinary subversion of natural tragedies under Rama's ideal rule. In ancient thought, the death of a child while the parent is still alive was considered the ultimate violation of cosmic order and the worst form of human grief. Under Rama Rajya, the natural life cycle functions perfectly, ensuring parents never outlive their children. Similarly, premature deaths are eliminated, preserving the sanctity of families and protecting women from the immense hardships of early widowhood."
     ],
     meanings: [
-      "न = No",
+      "न = Never / Not",
+      "पुत्र-मरणम् = Death of a son / child",
+      "किञ्चित् = Even a little / At all",
+      "द्रक्ष्यन्ति = Will see / witness",
+      "पुरुषाः = Men / Fathers",
+      "क्वचित् = Anywhere / At any time",
+      "नार्यः = Women",
       "च = And",
-      "अपि = Even",
-      "क्षुध्-भयम् = Fear of hunger / Starvation",
-      "तत्र = There (in Rama's kingdom)",
-      "न = No",
-      "तस्कर-भयम् = Fear of thieves / Plunderers",
-      "तथा = Likewise",
-      "नगरानि = Cities / Urban areas",
-      "च = And",
-      "राष्ट्राणि = Provinces / Kingdoms / Rural states",
-      "धन-धान्य-युतानि = Packed with wealth and grains",
-      "च = And"
+      "अविधवाः = Non-widows (having their husbands alive / Sumangalis)",
+      "नित्यम् = Eternally / Always",
+      "भविष्यन्ति = Will remain / become",
+      "पतिव्रताः = Devoted to their husbands / virtuous"
     ],
     grammar: [],
     notes: [
-      "The elimination of *taskara-bhayam* (fear of theft) reflects an absolute trust in public safety. Doors did not need locks because societal equity left no one wanting, and systemic integrity left no room for corruption."
+      "The phrase 'na putra-maraṇam' showcases the concept of *Abhyudaya* (total material and natural harmony) where the regular occurrence of premature, unnatural deaths (*Apamrityu*) ceases because the righteous energy of the king perfectly maintains the cosmic order (*Dharma*)."
     ]
   },
   {
