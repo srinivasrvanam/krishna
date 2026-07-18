@@ -3534,44 +3534,45 @@ const verses = [
     chapter: 1,
     number: 70,
     sloka: [
-      "ततो गृध्रस्य वचनात् सम्पातेः हनुमान् बली |",
-      "शतयोजनविस्तीर्णं पुप्लुवे लवणार्णवम् ||"
+      "ततः सुग्रीववचनाद्धत्वा वालिनमाहवे |",
+      "सुग्रीवमेव तद्राज्ये राघवः प्रत्यपादयत् || 70"
     ],
     sloka_tel: [
-      "తతో గృధ్రస్య వచనాత్ సంపాతేః హనుమాన్ బలీ |",
-      "శతయోజనవిస్తీర్ణం పుప్లువే లవణార్ణవమ్ ||"
+      "తతః సుగ్రీవవచనాద్ధత్వా వాలినమాహవే |",
+      "సుగ్రీవమేవ తద్రాజ్యే రాఘవః ప్రత్యపాదయత్ || 70"
     ],
     vicheda: [
-      "ततः गृध्रस्य वचनात् सम्पातेः हनुमान् बली |",
-      "शत-योजन-विस्तीर्णम् पुप्लुवे लवण-अर्णवम् ||"
+      "ततः सुग्रीव-वचनात् हत्वा वालिनम् आहवे",
+      "सुग्रीवम् एव तत्-राज्ये राघवः प्रत्यपादयत्"
     ],
     anvaya: [
-      "ततः बली हनुमान् गृध्रस्य सम्पातेः वचनात् शतयोजनविस्तीर्णं लवणार्णवम् पुप्लुवे ||"
+      "ततः राघवः सुग्रीववचनात् आहवे वालिनम् हत्वा, सुग्रीवम् एव तद्राज्ये प्रत्यपादयत् ||"
     ],
     prose: [],
     transl: [
-      "Acting upon the precise intelligence provided by the elder vulture Sampati, the mighty Hanuman leaped across the vast salt ocean, stretching a distance of eight hundred miles."
+      "Thereafter, having slain Vali in battle in accordance with his promise to Sugriva, Raghavan (Rama) duly installed Sugriva himself on the throne of that kingdom."
     ],
     transl_tel: [
-      "ఆ తర్వాత జటాయువు అన్నయైన సంపాతి అనే పక్షి ఇచ్చిన సమాచారం ఆధారంగా, మహాబలశాలియైన హనుమంతుడు నూరు యోజనాల (800 మైళ్ళ) వెడల్పు గల లవణ సముద్రాన్ని లంఘించాడు."
+      "ఆ పిమ్మట, సుగ్రీవునికి ఇచ్చిన మాట ప్రకారం యుద్ధరంగమున వాలిని సంహరించిన తర్వాత, రాఘవుడు ఆ కిష్కింధా రాజ్యసింహాసనంపై సుగ్రీవుడినే ప్రతిష్ఠించి (పట్టాభిషిక్తుడిని చేసి) అతనికి రాజ్యాన్ని అప్పగించాడు."
     ],
     essence: [
-      "The southern search party reaches the edge of the southern ocean and falls into despair, running out of time. There, they encounter Jatayu’s elder brother, Sampati. With his vast vision, Sampati confirms that Sita is confined across the sea in Lanka. Armed with this knowledge, the powerful Hanuman expands his size and makes a spectacular leap across the massive ocean."
+      "By eliminating Vali, Rama swiftly delivers justice and honors the solemn pact made before the sacred fire. He rescues Sugriva from the clutches of fear and exile, restoring his honor, his wife, and his rightful position. Rama immediately crowns Sugriva as the supreme king of the vanaras, establishing a righteous ruler over Kishkindha and solidifying a powerful kingdom as his ally."
     ],
     meanings: [
       "ततः = Thereafter / Then",
-      "गृध्रस्य = Of the vulture",
-      "वचनात् = By the words / Guidance",
-      "सम्पातेः = Of Sampati",
-      "हनुमान् = Hanuman",
-      "बली = The powerful one",
-      "शत-योजन-विस्तीर्णम् = Spanning a width of one hundred yojanas (~800 miles)",
-      "पुप्लुवे = Leaped across / Flew over",
-      "लवण-अर्णवम् = The salt ocean"
+      "सुग्रीव-वचनात् = In accordance with Sugriva's request / plea (and his own promise)",
+      "हत्वा = Having slain / Terminated",
+      "वालिनम् = Vali",
+      "आहवे = In the combat / battle",
+      "सुग्रीवम् = Sugriva",
+      "एव = Alone / Himself",
+      "तत्-राज्ये = In that kingdom (of Kishkindha)",
+      "राघवः = Rama (Raghavan)",
+      "प्रत्यपादयत् = Installed / Established / Crowned"
     ],
     grammar: [],
     notes: [
-      "This verse acts as the bridge to the *Sundara Kanda*. A single line masterfully connects the desperation of the trapped search party, the critical tip from Sampati, and Hanuman's historic leap across the ocean."
+      "The term 'pratyapadayat' signifies a formal and lawful restoration of sovereignty. Rama, staying true to his principles as a prince, does not annex Kishkindha for himself after winning the battle; instead, he immediately hands the governance back to the native vanara leader, reinforcing his character as the epitome of righteousness (*Dharma*)."
     ]
   },
   {
