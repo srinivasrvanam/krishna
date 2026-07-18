@@ -2624,45 +2624,45 @@ const verses = [
     chapter: 1,
     number: 50,
     sloka: [
-      "ज्ञात्वा ज्ञातिवधं चैव खरदूषणयोस्तथा |",
-      "अमर्षितो हरद्रावणः जनकात्मजाम् ||"
+      "ततो ज्ञातिवधं श्रुत्वा रावणः क्रोधमूर्छितः || 49b",
+      "सहायं वरयामास मारीचं नाम राक्षसम् | 50a"
     ],
     sloka_tel: [
-      "జ్ఞాత్వా జ్ఞాతివధం చైవ ఖరదూషణయోస్తథా |",
-      "అమర్శితో హరద్రావణః జనకాత్మజామ్ ||"
+      "తతో జ్ఞాతివధం శ్రుత్వా రావణః క్రోధమూర్ఛితః || 49b",
+      "సహాయం వరయామాస మారీచం నామ రాక్షసమ్ | 50a"
     ],
     vicheda: [
-      "ज्ञात्वा ज्ञाति-वधम् च एव खर-दूषणयोः तथा |",
-      "अमर्षितः अहरत् रावणः जनक-आत्मजाम् ||"
+      "ततः ज्ञाति-वधम् श्रुत्वा रावणः क्रोध-मूर्छितः",
+      "सहायम् वरयामास मारीचम् नाम राक्षसम्"
     ],
     anvaya: [
-      "खरदूषणयोः तथा ज्ञातिवधम् च एव ज्ञात्वा, अमर्षितः रावणः जनकात्मजाम् अहरत् ||"
+      "ततः ज्ञातिवधम् श्रुत्वा क्रोधमूर्छितः रावणः मारीचम् नाम राक्षसम् सहायम् वरयामास ||"
     ],
     prose: [],
     transl: [
-      "Upon learning of the total annihilation of his relatives and the fall of Khara and Dushana, Ravana, consumed by a furious, burning rage, plotted and abducted Sita, the daughter of Janaka."
+      "Thereafter, upon hearing of the wholesale slaughter of his kinsmen, Ravana became blind with rage and sought the assistance of a demon named Maricha."
     ],
     transl_tel: [
-      "ఖరదూషణుల మరణాన్ని, తన స్వజనులైన రాక్షస సైన్య వినాశనాన్ని తెలుసుకుని, తీవ్రమైన క్రోధముతో (కోపంతో) రగిలిపోయిన రావణుడు, జనకపుత్రికయైన సీతాదేవిని అపహరించాడు."
+      "ఆ తర్వాత తన బంధువులైన ఖరదూషణాదుల సైన్యమంతటా హతమైందని విన్న రావణుడు క్రోధంతో ఊగిపోయాడు. ఎలాగైనా ప్రతీకారం తీర్చుకోవాలనే ఉద్దేశంతో మారీచుడనే రాక్షసుడిని సహాయంగా ఎంచుకున్నాడు."
     ],
     essence: [
-      "The news of the total defeat at Janasthana travels fast to the capital of Lanka. Learning that his brothers Khara and Dushana are dead and his frontier army is gone, the emperor Ravana becomes blind with fury and humiliation. Seeking a devastating revenge, he orchestrates a cunning plan and kidnaps Rama's beloved wife, Sita."
+      "The complete destruction of the Janasthana outpost sends shockwaves to the capital of Lanka. When Ravana learns that his brothers Khara, Dushana, and Trishiras, along with 14,000 troops, were obliterated by a lone human prince, his royal pride is deeply wounded and he flies into a blind rage. Realizing that direct warfare against Rama is suicidal, he seeks out his uncle Maricha to execute a deceptive, asymmetric plan."
     ],
     meanings: [
-      "ज्ञात्वा = Having known / Learnt",
+      "ततः = Thereafter / Then",
       "ज्ञाति-वधम् = The slaughter of his kinsmen / Relatives",
-      "च = And",
-      "एव = Indeed",
-      "खर-दूषणयोः = Of Khara and Dushana",
-      "तथा = Likewise",
-      "अमर्षितः = Intolerant / Burning with uncontrollable fury",
-      "अहरत् = Abducted / Stole away",
-      "रावणः = King Ravana",
-      "जनक-आत्मजाम् = The daughter of King Janaka (Sita)"
+      "श्रुत्वा = Upon hearing",
+      "रावणः = Ravana",
+      "क्रोध-मूर्छितः = Fainted / Blinded / Overpowered with rage",
+      "सहायम् = As an ally / Helper / Accomplice",
+      "वरयामास = Chose / Solicited / Sought out",
+      "मारीचम् = Maricha",
+      "नाम = Named / Known as",
+      "राक्षसम् = The demon"
     ],
     grammar: [],
     notes: [
-      "This verse acts as the ultimate catalyst for the remaining epic. Ravana's act of abducting Sita (*Sita-Harana*) seals his own doom, transforming a localized forest clash into an international war between Lanka and Rama's forces."
+      "The phrase 'Krodha-murchitah' perfectly captures Ravana's psychological state. His anger isn't just a surface reaction; it paralyzes his capacity for fair judgment. Turning to Maricha, who has already experienced Rama's terrifying archery once before, marks the beginning of the plot involving the golden deer."
     ]
   },
   {
