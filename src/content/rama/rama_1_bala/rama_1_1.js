@@ -4396,50 +4396,45 @@ const verses = [
     chapter: 1,
     number: 90,
     sloka: [
-      "न चाग्निजं भयं किञ्चिन्नाप्सु मज्जन्ति जन्तवः |",
-      "न वातजं भयं किञ्चित्तथा रामभ्युदाहृतम् ||"
+      "प्रहृष्टमुदितो लोकस्तुष्टः पुष्टः सुधार्मिकः |",
+      "निरामयो ह्यरोगश्च दुर्भिक्षभयवर्जितः || 90"
     ],
     sloka_tel: [
-      "న చాగ్నిజం భయం కించిన్నాప్సు మజ్జంతి జంతవః |",
-      "న వాతజం భయం కించిత్తథా రామభ్యుదాహృతమ్ ||"
+      "ప్రహృష్టముదితో లోకస్తుష్టః పుష్టః సుధార్మికః |",
+      "నిరామయో హ్యరోగశ్చ దుర్భిక్షభయవర్జితః || 90"
     ],
     vicheda: [
-      "न च अग्नि-जम् भयम् किञ्चित् न अप्सु मज्जन्ति जन्तवः |",
-      "न वात-जम् भयम् किञ्चित् तथा राम-अभ्युदाहृतम् ||"
+      "प्रहृष्ट-मुदितः लोकः तुष्टः पुष्टः सु-धार्मिकः",
+      "निरामयः हि अरोगः च दुर्भिक्ष-भय-वर्जितः"
     ],
     anvaya: [
-      "तथा रामभ्युदाहृतम् (राज्ये), किञ्चित् अग्निजं भयम् न, जन्तवः अप्सु न मज्जन्ति, किञ्चित् वातजं भयम् च न ||"
+      "(रामराज्ये) लोकः प्रहृष्टमुदितः, तुष्टः, पुष्टः, सुधार्मिकः, निरामयः, अरोगः च, दुर्भिक्षभयवर्जितः हि (अभवत्) ||"
     ],
     prose: [],
     transl: [
-      "In the celebrated realm of Rama, there was absolutely no danger from destructive fires, no living beings ever perished by drowning in water, and the terror of devastating storms and tornadoes was entirely unknown."
+      "During Rama's reign, the entire populace became immensely delighted and cheerful, completely satisfied, well-nourished, deeply righteous, free from mental anxiety, devoid of physical illnesses, and entirely liberated from the fear of famine."
     ],
     transl_tel: [
-      "రాముడి పరిపాలనలో అగ్ని ప్రమాదాల భయం కానీ, నీటిలో మునిగి ప్రాణులు చనిపోయే ప్రమాదాలు కానీ, వినాశకరమైన తుఫానుల (గాలి) భయం కానీ అస్సలు ఉండేవి కావు."
+      "శ్రీరాముని రాజ్యంలో ప్రజలందరూ నిత్య కల్యాణంగా ఎంతో సంతోషాన్ని, ఉల్లాసాన్ని అనుభవించారు. వారు సంపూర్ణ తృప్తిని, పుష్టిని (ఆరోగ్య బలాలను) కలిగి ఉండి, మిక్కిలి ధార్మికులుగా జీవించారు. మానసిక ఆందోళనలు, శారీరక రోగాలు లేనివారై, కరువు కాటకాల భయం నుండి పూర్తిగా విముక్తులయ్యారు."
     ],
     essence: [
-      "Rama’s governance brings safety from natural disasters. Towns are safe from fires, rivers and seas support life without tragic drownings, and violent winds or hurricanes leave the infrastructure untouched. The natural elements operate in perfect harmony with human civilization."
+      "This verse begins the celebrated description of *Rama Rajya* (the golden age of Rama's governance). Valmiki outlines how a perfectly righteous ruler directly influences the ecosystem and the well-being of the collective. Because the administration is anchored in absolute virtue, society thrives across all facets: psychological joy (*prahrista-muditah*), material and economic security (*tushtah pushtah*), ethical behavior (*sudharmikah*), holistic health (*niramayo hyarogashcha*), and complete protection against natural disasters like drought or starvation."
     ],
     meanings: [
-      "न = No / Never",
+      "प्रहृष्ट-मुदितः = Immensely delighted and cheerful",
+      "लोकः = The world / the populace / society",
+      "तुष्टः = Contented / deeply satisfied",
+      "पुष्टः = Well-nourished / robust / prosperous",
+      "सु-धार्मिकः = Highly righteous / naturally ethical",
+      "निरामयः = Free from internal afflictions / mental grief / anxieties",
+      "हि = Indeed / certainly",
+      "अरोगः = Devoid of physical ailments / diseases",
       "च = And",
-      "अग्नि-जम् = Born of fire / Arson / Wildfires",
-      "भयम् = Fear / Hazard",
-      "किञ्चित् = Whatsoever / Even a little",
-      "न = No",
-      "अप्सु = In waters",
-      "मज्जन्ति = Drown / Perish under water",
-      "जन्तवः = Living creatures / People",
-      "न = No",
-      "वात-जम् = Born of wind / Storms / Hurricanes",
-      "भयम् = Threat / Danger",
-      "किञ्चित् = Any",
-      "तथा = In that manner",
-      "राम-अभ्युदाहृतम् = In the widely celebrated / Chronicled reign of Rama"
+      "दुर्भिक्ष-भय-वर्जितः = Completely free from the fear of famines or scarcities"
     ],
     grammar: [],
     notes: [
-      "This verse shows that a truly dharmic ruler aligns human society with the laws of nature. By ruling with complete justice, the destructive tendencies of fire (*agni*), water (*apas*), and wind (*vayu*) are tamed into peaceful, supportive forces."
+      "The terms 'niramayah' and 'arogah' beautifully contrast mental and physical well-being. 'Amaya' refers to internal distress or systemic imbalances, while 'Roga' refers to manifest bodily diseases. This highlights that under Rama's rule, healthcare and quality of life reached an ideal equilibrium, creating an environment where even nature synchronized to eliminate starvation (*durbhiksha*)."
     ]
   },
   {
