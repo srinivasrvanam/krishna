@@ -4104,94 +4104,62 @@ const verses = [
   },
   {
     chapter: 1,
-    number: 83,
-    sloka: [
-      "अभिषिच्य च लङ्कायां राक्षसेन्द्रं विभीषणम् |",
-      "कृतकृत्यस्तदा रामो विज्वरः प्रमुमोद ह ||"
-    ],
-    sloka_tel: [
-      "అభిషిచ్య చ లంకాయాం రాక్షసేంద్రం విభీషణమ్ |",
-      "కృతకృత్యస్తదా రామో విజ్వరః ప్రముమోద హ ||"
-    ],
-    vicheda: [
-      "अभिषिच्य च लङ्कायाम् राक्षस-इन्द्रम् विभीषणम् |",
-      "कृतकृत्यः तदा रामः विज्वरः प्रमुमोद ह ||"
-    ],
-    anvaya: [
-      "तदा रामः लङ्कायाम् विभीषणम् राक्षसेन्द्रं अभिषिच्य च, कृतकृत्यः विज्वरः (सन्) प्रमुमोद ह ||"
-    ],
-    prose: [],
-    transl: [
-      "Having formally crowned Ravana's righteous brother Vibhishana as the new king of Lanka, Rama felt his profound mission was accomplished. Free from all anxiety, he rejoiced exceedingly."
-    ],
-    transl_tel: [
-      "అనంతరం లంకా నగరానికి విభీషణుడిని రాక్షస రాజుగా రాముడు అభిషేకించాడు. ఆ విధంగా తన కర్తవ్యాన్ని నెరవేర్చి, మానసిక చింతలన్నీ తొలగిపోయినవాడై రాముడు ఎంతో ఆనందించాడు."
-    ],
-    essence: [
-      "Rama honors his promise to Vibhishana, who had sought his refuge. Instead of occupying Lanka as a conqueror, Rama crowns Vibhishana as its rightful king. With his wife rescued, his allies rewarded, and the world secure, Rama’s heavy mental burdens dissolve into pure joy."
-    ],
-    meanings: [
-      "अभिषिच्य = Having consecrated / Crowned",
-      "च = And",
-      "लङ्कायाम् = In Lanka",
-      "राक्षस-इन्द्रम् = As the lord of the demons",
-      "विभीषणम् = Vibhishana",
-      "कृतकृत्यः = One who achieved his purpose / Fulfilled in duty",
-      "तदा = Then",
-      "रामः = Rama",
-      "विज्वरः = Free from feverish anxiety / Untroubled",
-      "प्रमुमोद = Rejoiced / Felt deep bliss",
-      "ह = Indeed"
-    ],
-    grammar: [],
-    notes: [
-      "Rama’s act of immediately crowning Vibhishana demonstrates absolute non-aggression and detachment. He fought a war for justice and honor, not for territorial expansion or imperial colonization."
-    ]
-  },
-  {
-    chapter: 1,
     number: 84,
     sloka: [
-      "देवताभ्यो वरं प्राप्य समुत्थाप्य च वानरान् |",
-      "अयोध्यां प्रस्थितो रामः पुष्पकेण सुहृद्वृतः ||"
+      "ततोऽग्निवचनात्सीतां ज्ञात्वा विगतकल्मषाम् |",
+      "कर्मणा तेन महता त्रैलोक्यं सचराचरम् || 83",
+      "सदेवर्षिगणं तुष्टं राघवस्य महात्मनः ||",
+      "बभौ रामः संप्रहृष्टः पूजितः सर्वदैवतैः|| 84"
     ],
     sloka_tel: [
-      "దేవతాభ్యో వరం ప్రాప్య సముత్థాప్య చ వానరాన్ |",
-      "అయోధ్యాం ప్రస్థితో రామః పుష్పకేణ సుహృద్వృతః ||"
+      "తతోఽగ్నివచనాత్సీతాం జ్ఞాత్వా విగతకల్మషామ్ |",
+      "కర్మణా తేన మహతా త్రైలోక్యం సచరాచరమ్ || 83",
+      "సదేవర్షిగణం తుష్టం రాఘవస్య మహాత్మనః ||",
+      "బభౌ రామః సంప్రహృష్టః పూజితః సర్వదైవతైః|| 84"
     ],
     vicheda: [
-      "देवताभ्यः वरम् प्राप्य समुत्थाप्य च वानरान् |",
-      "अयोध्याम् प्रस्थितः रामः पुष्पकेण सुहृद्-वृतः ||"
+      "ततः अग्नि-वचनात् सीताम् ज्ञात्वा विगत-कल्मषाम्",
+      "कर्मणा तेन महता त्रैलोक्यम् स-चर-अचरम्",
+      "स-देव-ऋषि-गणम् तुष्टम् राघवस्य महा-आत्मनः",
+      "बभौ रामः सम्प्रहृष्टः पूजितः सर्व-दैवतैः"
     ],
     anvaya: [
-      "रामः देवताभ्यः वरम् प्राप्य वानरान् समुत्थाप्य च, सुहृद्वृतः (सन्) पुष्पकेण अयोध्याम् प्रस्थितः ||"
+      "ततः अग्निवचनात् सीताम् विगतकल्मषाम् ज्ञात्वा, महात्मनः राघवस्य तेन महता कर्मणा सदेवर्षिगणम् सचराचरम् त्रैलोक्यम् तुष्टम् (अभवत्); सर्वदैवतैः पूजितः रामः सम्प्रहृष्टः (सन्) बभौ ||"
     ],
     prose: [],
     transl: [
-      "Securing a magnificent boon from the grateful gods, Rama brought all the fallen Vanara warriors back to life. Surrounded by his devoted friends, he boarded the aerial chariot Pushpaka and set course for Ayodhya."
+      "Thereupon, hearing the direct testimony of the Fire God, Rama recognized Sita as entirely pure and free from blemish. By that monumental deed of the high-souled Raghavan, the three worlds—including all animate and inanimate beings, along with the hosts of gods and sages—were immensely gratified. Revered by all the deities, Rama shone brilliantly, filled with profound joy."
     ],
     transl_tel: [
-      "దేవతల నుండి వరాన్ని పొంది, యుద్ధంలో మరణించిన వానరులనందరినీ రాముడు తిరిగి బతికించాడు. ఆపై తన మిత్రులందరితో కలిసి పుష్పక విమానంలో అయోధ్యకు ప్రయాణమయ్యాడు."
+      "అగ్నిదేవుని సాక్ష్యం ద్వారా సీతాదేవి ఎటువంటి పాపము లేని నిష్కళంకమైన పతివ్రత అని గ్రహించిన తర్వాత, మహాత్ముడైన శ్రీరాముడు చేసిన ఆ మహత్కార్యానికి (ధర్మరక్షణకు) దేవతలు, ఋషులతో కూడిన చరాచర సృష్టి అంతా ఎంతో సంతోషించింది. సమస్త దేవతల చేత పూజింపబడినవాడై, శ్రీరాముడు పరమానందంతో ప్రకాశించాడు."
     ],
     essence: [
-      "When the gods offer Rama boons, he doesn't ask for personal wealth. Instead, he requests that every single monkey warrior who died fighting for his cause be restored to life and health. The gods grant this, resurrecting the fallen army. Surrounded by Sita, Lakshmana, Sugriva, Vibhishana, and Hanuman, Rama boards the magnificent flying chariot to return home."
+      "As Sita steps into the pyre, Agni (the Fire God) emerges holding her completely unharmed, declaring her absolute purity to the universe. Rama accepts her back, revealing that he always knew her virtue but required this public validation to preserve cosmic order and justice. This intense resolution satisfies the entire cosmos—gods, sages, and nature alike. Brahma and other deities descend to praise Rama for anchoring righteousness on earth, leaving Rama completely relieved and radiating divine joy."
     ],
     meanings: [
-      "देवताभ्यः = From the deities / Gods",
-      "वरम् = Boon",
-      "प्राप्य = Having obtained",
-      "समुत्थाप्य = Restoring to life / Raising up",
-      "च = And",
-      "वानरान् = The monkeys",
-      "अयोध्याम् = Toward Ayodhya",
-      "प्रस्थितः = Set out / Departed",
+      "ततः = Then / Thereupon",
+      "अग्नि-वचनात् = By the words / testimony of the Fire God",
+      "सीताम् = Sita",
+      "ज्ञात्वा = Having known / recognized",
+      "विगत-कल्मषाम् = Free from all taint / blemish / sin",
+      "कर्मणा = By the action / deed",
+      "तेन = By that",
+      "महता = By the great / monumental",
+      "त्रैलोक्यम् = The three worlds",
+      "स-चर-अचरम् = Along with moving and non-moving elements (all creation)",
+      "स-देव-ऋषि-गणम् = Along with the gatherings of gods and sages",
+      "तुष्टम् = Gratified / pleased",
+      "राघवस्य = Of Rama (Raghavan)",
+      "महा-आत्मनः = Of the high-souled / magnanimous one",
+      "बभौ = Shone brilliantly / radiated",
       "रामः = Rama",
-      "पुष्पकेण = By the Pushpaka aerial chariot",
-      "सुहृद्-वृतः = Surrounded / Accompanied by his friends"
+      "सम्प्रहृष्टः = Excessively delighted / deeply thrilled",
+      "पूजितः = Worshipped / honored",
+      "सर्व-दैवतैः = By all the deities"
     ],
     grammar: [],
     notes: [
-      "Resurrecting the monkeys highlights Rama’s deep loyalty to those who served him. He refuses to celebrate a victory built on the permanent grief of his allies' families."
+      "The compound 'vigata-kalmasham' underscores the absolute vindication of Sita's character. The phrase 'trailokyam tustam' emphasizes that the Agni Pariksha was not a petty domestic dispute, but a cosmic necessity. The entire universe rejoiced because the king successfully balanced personal love with his absolute duty (*Dharma*) as a moral ruler, validating his status as a divine exemplar."
     ]
   },
   {
