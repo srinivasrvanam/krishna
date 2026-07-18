@@ -4059,44 +4059,47 @@ const verses = [
     chapter: 1,
     number: 82,
     sloka: [
-      "कर्मणा तेन महता त्रैलोक्यं सचराचरम् |",
-      "सदेवर्षिगणं तुष्टं राघवेण महात्मना ||"
+      "तामुवाच ततो रामः परुषं जनसंसदि |",
+      "अमृष्यमाणा सा सीता विवेश ज्वलनं सती || 82"
     ],
     sloka_tel: [
-      "కర్మణా తేన మహతా త్రైలోక్యం సచరాచరమ్ |",
-      "సదేవర్షిగణం తుష్టం రాఘవేణ మహాత్మనా ||"
+      "తామువాచ తతో రామః పరుషం జనసంసది |",
+      "అమృష్యమాణా సా సీతా వివేశ జ్వలనం సతీ || 82"
     ],
     vicheda: [
-      "कर्मणा तेन महता त्रैलोक्यम् स-चर-अचरम् |",
-      "स-देव-ऋषि-गणम् तुष्टम् राघवेण महा-त्मना ||"
+      "ताम् उवाच ततः रामः परुषम् जन-संसदि",
+      "अमृष्यमाणा सा सीता विवेश ज्वलनम् सती"
     ],
     anvaya: [
-      "महात्मना राघवेण तेन महता कर्मणा सदेవర్షిगణం सచరాచరమ్ त्रैलोक्यम् तुष्टम् ||"
+      "ततः रामः जनसंसदि ताम् परुषम् उवाच; सा सती सीता (तत्) अमृष्यमाणा ज्वलनम् विवेश ||"
     ],
     prose: [],
     transl: [
-      "By that monumental feat of defeating Ravana, the high-souled Rama brought immense peace and gratification to the three worlds—including all living and non-living beings, the gods, and the holy sages."
+      "Thereupon, in the midst of the vast assembly, Rama spoke deeply wounding, harsh words to her. Unable to bear those cutting accusations, the chaste and virtuous Sita entered the blazing fire."
     ],
     transl_tel: [
-      "మహాత్ముడైన రాముడు చేసిన ఆ గొప్ప కార్యం (రావణ వధ) వల్ల దేవతలు, ఋషులు, చరాచర ప్రాణులతో కూడిన మూడు లోకాలు ఎంతో సంతోషాన్ని, ప్రశాంతతను పొందాయి."
+      "ఆ తర్వాత, అందరి సమక్షంలో శ్రీరాముడు సీతాదేవితో ఎంతో కఠినమైన మాటలు పలికాడు. తన శీలాన్ని శంకించే ఆ మాటలను ఏమాత్రం సహించలేక, పతివ్రతయైన ఆ సీతాదేవి మండుతున్న అగ్నిగుండంలోకి ప్రవేశించింది."
     ],
     essence: [
-      "Ravana's tyranny had oppressed the entire universe. By eliminating him, Rama frees the cosmos from fear. Sages can perform their rituals in peace, the gods regain their celestial domains, and nature itself breathes a sigh of relief, rejoicing in the victory of righteousness."
+      "To silence future public slander and establish her purity before the world, Rama treats Sita with calculated coldness, uttering harsh words (*parusham*) in front of the entire assembly of vanaras and rakshasas. Heartbroken but fiercely dignified, Sita refuses to endure this stain on her character (*amrishyamana*). Proclaiming her absolute fidelity, she commands Lakshmana to prepare a pyre and steps directly into the roaring flames, leaving her fate to the judgment of the gods."
     ],
     meanings: [
-      "कर्मणा = By the action / Achievement",
-      "तेन = By that",
-      "महता = Great / Monumental",
-      "त्रैलोक्यम् = The three worlds",
-      "स-चर-अचरम् = With all moving and non-moving elements",
-      "स-देव-ऋषि-गणम् = Along with assemblies of gods and sages",
-      "तुष्टम् = Gratified / Contented / Pleased",
-      "राघवेण = By Rama",
-      "महा-त्मना = By the high-souled one"
+      "ताम् = To her (Sita)",
+      "उवाच = Spoke / Addressed",
+      "ततः = Then / Thereupon",
+      "रामः = Rama",
+      "परुषम् = Harshly / Severe words",
+      "जन-संसदि = In the public assembly / Gathering of people",
+      "अमृष्यमाणा = Unable to tolerate / Impassioned with self-respect",
+      "सा = She",
+      "सीता = Sita",
+      "विवेश = Entered",
+      "ज्वलनम् = The blazing fire",
+      "सती = The chaste / Virtuous woman"
     ],
     grammar: [],
     notes: [
-      "The phrase *'sacharacharam'* emphasizes that Rama's actions have cosmic resonance. The fall of a tyrant does not just benefit human politics; it restores balance to the entire ecosystem of creation."
+      "The phrase 'janasansadi' (in public assembly) explains Rama's behavior; his harshness was a public trial meant to preempt any future gossip against the royal lineage. Sita's designation as 'sati' reinforces her flawless virtue right at the moment she enters the fire (*Agni Pariksha*), transforming a moment of humiliation into a testament of her divine purity."
     ]
   },
   {
