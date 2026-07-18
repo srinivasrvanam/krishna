@@ -2808,47 +2808,47 @@ const verses = [
     chapter: 1,
     number: 54,
     sloka: [
-      "कबन्धं नाम रूपेण विकृतं घोरदर्शनम् |",
-      "निहत्य स महाबाहुर्ददाह स्वर्गतिश्च सः ||"
+      "गृध्रं च निहतं दृष्ट्वा हृतां श्रुत्वा च मैथिलीम् || 53b",
+      "राघवः शोकसन्तप्तो विललापाकुलेन्द्रियः | 54a"
     ],
     sloka_tel: [
-      "కబంధం నామ రూపేణ వికృతం ఘోరదర్శనమ్ |",
-      "నిహత్య స మహాబాహుర్దదాహ స్వర్గతిశ్చ సః ||"
+      "గృధ్రం చ నిహతం దృష్ట్వా హృతాం శ్రుత్వా చ మైథిలీమ్ || 53b",
+      "రాఘవః శోకసంతప్తో విలలాపాకులేంద్రియః | 54a"
     ],
     vicheda: [
-      "कबन्धम् नाम रूपेण विकृतम् घोर-दर्शनम् |",
-      "निहत्य सः महा-बाहुः ददाह स्वर्गतिः च सः ||"
+      "गृध्रम् च निहतम् दृष्ट्वा हृताम् श्रुत्वा च मैथिलीम्",
+      "राघवः शोक-सन्तप्तः विललाप आकुल-इन्द्रियः"
     ],
     anvaya: [
-      "महाबाहुः सः रूपेण विकृतम् घोरदर्शनम् कबन्धं नाम (राक्षसम्) निहत्य ददाह, सः च स्वर्गतिः (अभवत्) ||"
+      "राघवः निहतम् गृध्रम् च दृष्ट्वा मैथिलीम् हृताम् च श्रुत्वा, शोक-सन्तप्तः आकुल-इन्द्रियः (सन्) विललाप ||"
     ],
     prose: [],
     transl: [
-      "This demon was named Kabandha, a creature horrifying to look at and completely deformed in shape. The mighty-armed Rama slew him and cremated his body, whereupon Kabandha ascended to heaven in his original radiant form."
+      "Upon seeing the fallen and mortally wounded vulture Jatayu, and learning that Maithili (Sita) had been abducted, Rama was consumed by intense grief and lamented bitterly, his senses completely overwhelmed with agitation."
     ],
     transl_tel: [
-      "రూపంలో వికృతంగా, భయంకరంగా ఉన్న కబంధుడనే రాక్షసుడిని మహాబాహుడైన రాముడు వధించి దహనం చేశాడు. దీనితో ఆ కబంధుడు శాపవిముక్తి పొంది ఉత్తమ గతులను (స్వర్గాన్ని) పొందాడు."
+      "మరణావస్థలో పడివున్న పక్షిరాజు జటాయువును చూసి, మైథిలి (సీతాదేవి) అపహరణకు గురైందని అతని ద్వారా తెలుసుకున్న శ్రీరాముడు తీవ్రమైన దుఃఖంతో మునిగిపోయాడు. ఇంద్రియాలన్నీ కలత చెందగా ఆయన ఎంతో రోదించాడు."
     ],
     essence: [
-      "The brothers encounter Kabandha, a headless monster whose face is embedded in his belly. He traps them in his massive arms, but Rama and Lakshmana cut off his limbs. Realizing who they are, the dying Kabandha requests cremation. Once his body burns, his curse shatters, and he ascends to the heavens as a brilliant celestial being."
+      "Rama returns to an empty cottage and encounters a heartbreaking scene. He finds their loyal protector, Jatayu, dying on the ground. Before passing away, Jatayu informs Rama that Ravana has taken Sita. The shock of his wife's sudden abduction combined with the tragic sacrifice of the noble bird breaks Rama's composure, plunging the usually stoic prince into profound human sorrow and despair."
     ],
     meanings: [
-      "कबन्धम् = Kabandha",
-      "नाम = Named",
-      "रूपेण = By form / Appearance",
-      "विकृतम् = Deformed / Disfigured",
-      "घोर-दर्शनम् = Horrific / Terrifying to look at",
-      "निहत्य = Slaying / Striking down",
-      "सः = He",
-      "महा-बाहुः = Mighty-armed one (Rama)",
-      "ददाह = Cremated / Consumed with fire",
-      "स्वर्गतिः = Attained heaven / Celestial realm",
+      "गृध्रम् = The vulture (Jatayu)",
       "च = And",
-      "सः = He (Kabandha)"
+      "निहतम् = Struck down / Mortally wounded",
+      "दृष्ट्वा = Having seen",
+      "हृताम् = Abducted / Carried away",
+      "श्रुत्वा = Having heard / Learnt",
+      "च = And",
+      "मैथिलीम् = Maithili (Sita, the princess of Mithila)",
+      "राघवः = Rama (descendant of Raghu)",
+      "शोक-सन्तप्तः = Afflicted / Consumed by profound grief",
+      "विललाप = Lamented / Cried out in sorrow",
+      "आकुल-इन्द्रियः = With agitated senses / Overwhelmed faculties"
     ],
     grammar: [],
     notes: [
-      "Kabandha was originally a beautiful celestial musician (*Gandharva*) cursed by a sage to live as a monster until Rama freed him. Before departing, a grateful Kabandha provides Rama with vital strategic intelligence: he tells him to seek an alliance with the vanara prince Sugriva."
+      "The compound 'Akulendriyah' beautifully demonstrates Valmiki's portrayal of Rama as an avatar experiencing deep, raw human emotions. Despite his divine nature, the sudden loss of Sita shatters his internal composure, setting the emotional tone for the sorrowful journeys in the Aranya and Kishkindha Kandas."
     ]
   },
   {
