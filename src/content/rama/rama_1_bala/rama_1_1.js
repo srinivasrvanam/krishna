@@ -4011,45 +4011,48 @@ const verses = [
     chapter: 1,
     number: 81,
     sloka: [
-      "ततो अग्निद्वचनात्सीतां ज्ञात्वा विगतकल्मषाम् |",
-      "बभौ रामः सम्प्रहृष्टः पूजितः सर्वदैवतैः ||"
+      "तेन गत्वा पुरीं लङ्कां हत्वा रावणमाहवे |",
+      "रामः सीतामनुप्राप्य परां व्रीडामुपागमत् || 81"
     ],
     sloka_tel: [
-      "తతో అగ్నిద్వచనాత్సీతాం జ్ఞాత్వా విగతకల్మషామ్ |",
-      "బభౌ రామః సంప్రహృష్టః పూజితః సర్వదైవతైః ||"
+      "తేన గత్వా పురీం లఙ్కాం హత్వా రావణమాహవే |",
+      "రామః సీతామనుప్రాప్య పరాం వ్రీడాముపాగమత్ || 81"
     ],
     vicheda: [
-      "ततः अग्नि-वचनात् सीताम् ज्ञात्वा विगत-कल्मषाम् |",
-      "बभौ रामः सम्प्रहृष्टः पूजितः सर्व-दैवतैः ||"
+      "तेन गत्वा पुरीम् लङ्काम् हत्वा रावणम् आहवे",
+      "रामः सीताम् अनुप्राप्य पराम् व्रीडाम् उपागमत्"
     ],
     anvaya: [
-      "ततः अग्निवचनात् सीताम् विगतकल्मषाम् ज्ञात्वा, सर्वदैवतैः पूजितः रामः सम्प्रहृष्टः (सन्) बभौ ||"
+      "रामः तेन लङ्कां पुरीम् गत्वा, आहवे रावणम् हत्वा, सीताम् अनुप्राप्य पराम् व्रीडाम् उपागमत् ||"
     ],
     prose: [],
     transl: [
-      "Upon the absolute testimony of the fire god, who declared Sita to be completely stainless and pure, Rama was filled with boundless joy. Honored and praised by all the gathered gods, he shone with his original splendor."
+      "Crossing by that bridge, entering the city of Lanka, and slaying Ravana in battle, Rama won back Sita, but then became overwhelmed by an intense sense of social inhibition and moral awkwardness."
     ],
     transl_tel: [
-      "ఆ తర్వాత అగ్నిదేవుని సాక్ష్యం ద్వారా సీతాదేవి నిష్కళంకమైనదని తెలుసుకుని రాముడు అమితానందం పొందాడు. సమస్త దేవతలచే పూజింపబడినవాడై రాముడు తన సహజ తేజస్సుతో ప్రకాశించాడు."
+      "ఆ సేతువు ద్వారా లంకా నగరానికి చేరుకుని, ఘోర యుద్ధంలో రావణుడిని సంహరించి, శ్రీరాముడు సీతాదేవిని తిరిగి పొందాడు. కానీ, ఆ వెంటనే ఆయన సమాజం దృష్ట్యా తీవ్రమైన లోకాపవాద భయానికి, మనస్సంకోచానికి (మర్యాదారక్షణ గ్లానికి) లోనయ్యాడు."
     ],
     essence: [
-      "As Sita steps into the flames, Agni, the god of fire, emerges holding her completely unharmed. He proclaims her absolute purity to the world. Deeply relieved that her honor is publicly vindicated, Rama happily accepts his wife back. The celestial deities descend to praise Rama for restoring cosmic balance."
+      "After crossing the bridge with his army, Rama wage a historic war, eliminates Ravana, and liberates Sita. However, the immediate aftermath brings a jarring, painful twist. Knowing that Sita had lived in the palace of another man for months, Rama experiences severe social anxiety and conflict regarding public perception (*vridam upagamat*). As a king responsible for setting an unblemished moral precedent for society, he feels legally and socially restricted from accepting her back without public proof of her purity, leading to the agonizing trial that follows."
     ],
     meanings: [
-      "ततः = Thereafter",
-      "अग्नि-वचनात् = By the words / Testimony of the fire god",
-      "सीताम् = Sita",
-      "ज्ञात्वा = Knowing / Having realized",
-      "विगत-कल्मषाम् = Free from all taint / Blemishless",
-      "बभौ = Shone / Radiant",
+      "तेन = By that (bridge)",
+      "गत्वा = Having gone / crossed over",
+      "पुरीम् = To the city of",
+      "लङ्काम् = Lanka",
+      "हत्वा = Having slain / destroyed",
+      "रावणम् = Ravana",
+      "आहवे = In battle / combat",
       "रामः = Rama",
-      "सम्प्रहृष्टः = Extremely delighted / Ecstatic",
-      "पूजितः = Worshiped / Adored",
-      "सर्व-दैवतैः = By all the gods"
+      "सीताम् = Sita",
+      "अनुप्राप्य = Having recovered / won back",
+      "पराम् = Extreme / Intense",
+      "व्रीडाम् = Shyness / Social inhibition / Moral embarrassment / Modesty",
+      "उपागमत् = Attained / Experienced"
     ],
     grammar: [],
     notes: [
-      "The intervention of Agni serves as the ultimate cosmic notary. Rama privately knew her purity, but required a divine demonstration to establish an undeniable historical precedent of her virtue for the public."
+      "The word 'vrīḍā' is one of the most parsed terms in this chapter. While it often means shyness or shame, in Rama's context, it denotes a profound psychological crisis—the crushing weight of social propriety (*lokapavada*) and the public scrutiny a monarch must face. It sets the stage for the painful demand of the fire ordeal (*Agni Pariksha*) to clear her name before the world."
     ]
   },
   {
