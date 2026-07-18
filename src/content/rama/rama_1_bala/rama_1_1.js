@@ -4694,46 +4694,43 @@ const verses = [
     chapter: 1,
     number: 97,
     sloka: [
-      "एतदाख्यानमायुष्यं पठन् रामायणं नरः |",
-      "सपुत्रपौत्रः सगणः प्रेत्य स्वर्गे महीयते ||"
+      "दशवर्षसहस्राणि दशवर्षशतानि च |",
+      "रामो राज्यमुपासित्वा ब्रह्मलोकं गमिष्यति || 97"
     ],
     sloka_tel: [
-      "ఏతదాఖ్యానమాయుష్యం పఠన్ రామాయణం నరః |",
-      "సపుత్రపౌత్రః సగణః ప్రేత్య స్వర్గే మహీయతే ||"
+      "దశవర్షసహస్రాణి దశవర్షశతాని చ |",
+      "రామో రాజ్యముపాసిత్వా బ్రహ్మలోకం గమిష్యతి || 97"
     ],
     vicheda: [
-      "एतत् आख्यानम् आयुष्यम् पठन् रामायणम् नरः |",
-      "स-पुत्र-पौत्रः स-गणः प्रेत्य स्वर्गे महीयते ||"
+      "दश-वर्ष-सहस्राणि दश-वर्ष-शतानि च",
+      "रामः राज्यम् उपासित्वा ब्रह्म-लोकम् गमिष्यति"
     ],
     anvaya: [
-      "एतत् आयुष्यम् रामायणं आख्यानम् पठन् नरः, सपुत्रपौत्रः सगणः (सन्) प्रेत्य स्वर्गे महीयते ||"
+      "रामः दशवर्षसहस्राणि दशवर्षशतानि च राज्यम् उपासित्वा ब्रह्मलोकम् गमिष्यति ||"
     ],
     prose: [],
     transl: [
-      "A person who regularly reads this life-enforcing epic known as the Ramayana will enjoy a long life. Blessed with children, grandchildren, and loyal companions in this world, they will be deeply honored in the heavenly realms hereafter."
+      "Having served and protected his kingdom for eleven thousand years, Rama will eventually return to the pristine realm of Brahma."
     ],
     transl_tel: [
-      "ఆయుష్షును పెంచే ఈ రామాయణ కథను చదివే మానవుడు ఇహలోకంలో పుత్రపౌత్రాదులతో, ఇష్టజనులతో సుఖంగా జీవించి, మరణానంతరం స్వర్గలోకంలో గౌరవింపబడతాడు."
+      "శ్రీరాముడు పదివేల సంవత్సరాలు మరియు మరొక వెయ్యి సంవత్సరాలు (మొత్తం పదకొండు వేల సంవత్సరాలు) లీలాపూర్వకంగా రాజ్యాన్ని పరిపాలించి, ఆపై తన శాశ్వత పరమపదమైన బ్రహ్మలోకానికి వేంచేస్తాడు."
     ],
     essence: [
-      "The blessings of the Ramayana are both practical and transcendent. In the present life, it promotes vitality, health, and deep, lasting family bonds across generations. When this life ends, the positive mental impressions left by the text elevate the soul to a state of higher cosmic consciousness."
+      "Narada concludes the chronological timeline of Rama's earthly incarnation (*Avataric mission*) with this verse. The duration of Rama's reign is specified as ten thousand plus one thousand years—a mathematical and poetic way of stating eleven thousand years in epic literature. Valmiki uses the word *upāsitvā* (literally 'having worshipped/served') for his rule, indicating that Rama did not merely dominate an empire, but treated governance as a sacred spiritual practice. At the end of this golden era, he withdraws his physical form and returns to his eternal, supreme cosmic abode."
     ],
     meanings: [
-      "एतत् = This",
-      "आख्यानम् = Narrative / Epic historical account",
-      "आयुष्यम् = Life-extending / Bestower of longevity",
-      "पठन् = Reading / Contemplating",
-      "रामायणम् = The Ramayana",
-      "नरः = A person / Human being",
-      "स-पुत्र-पौत्रः = Along with sons and grandsons",
-      "स-गणः = Along with one's kin / Attendants / Friends",
-      "प्रेत्य = After leaving this body / Departing",
-      "स्वर्गे = In heaven / Higher realms",
-      "महीयते = Is exalted / Honored / Glorified"
+      "दश-वर्ष-सहस्राणि = Ten thousand years (10 x 1,000)",
+      "दश-वर्ष-शतानि = One thousand years (10 x 100)",
+      "च = And",
+      "रामः = Rama",
+      "राज्यम् = The kingdom / sovereign duties",
+      "उपासित्वा = Having worshipped / served with devotion",
+      "ब्रह्म-लोकम् = To the realm of Brahma / the supreme spiritual world",
+      "गमिष्यति = Will go / will return"
     ],
     grammar: [],
     notes: [
-      "By promising blessings that include *sa-gana* (companions) and *saputra-pautra* (family), the text targets the householder. It emphasizes that you do not need to abandon society to achieve spiritual elevation."
+      "The choice of the verb 'upāsitvā' (from the root *upās* - to sit near, attend to, or worship) yields deep insight into ancient political philosophy. It shows that in the Ramayana, power is a heavy duty of service rather than a privilege of enjoyment. The vast timeline reflects the cosmic scales of Treta Yuga, where a human life span was vastly extended compared to our current era."
     ]
   },
   {
