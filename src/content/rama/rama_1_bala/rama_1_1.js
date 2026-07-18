@@ -2909,92 +2909,58 @@ const verses = [
   },
   {
     chapter: 1,
-    number: 56,
-    sloka: [
-      "शबरीमभिगतो विद्वान् शबर्या पूजितः सम्यक् |",
-      "रामो जनकात्मजायाः अन्वेषणे युक्तः ||"
-    ],
-    sloka_tel: [
-      "శబరీమభిగతో విద్వాన్ శబర్యా పూజితః సమ్యక్ |",
-      "రామో జనకాత్మజాయాః అన్వేషణే యుక్తః ||"
-    ],
-    vicheda: [
-      "शबरीम् अभिगतः विद्वान् शबर्या पूजितः सम्यक् |",
-      "रामः जनक-आत्मजायाः अन्वेषणे युक्तः ||"
-    ],
-    anvaya: [
-      "शबरीम् अभिगतः विद्वान् रामः शबर्या सम्यक् पूजितः (सन्), जनकात्मजायाः अन्वेषणे युक्तः (अभवत्) ||"
-    ],
-    prose: [],
-    transl: [
-      "Approaching Sabari's hermitage, the wise Rama was received with profound honor and worshiped with deep love by her. Heartened by this encounter, Rama remained entirely focused on his mission to find Janaka's daughter."
-    ],
-    transl_tel: [
-      "జ్ఞానియైన రాముడు శబరి ఆశ్రమానికి వెళ్ళగా, ఆమె ఆయనను భక్తితో, చక్కగా పూజించింది. ఆమె సత్కారాలు అందుకున్న రాముడు సీతాదేవి అన్వేషణ యత్నంలో ముందుకు సాగాడు."
-    ],
-    essence: [
-      "Rama reaches Sabari’s home, where the elderly saint welcomes him with immense love, offering him the finest wild berries she spent days gathering. Deeply touched by her pure devotion, Rama blesses her. Re-energized by her spiritual presence, he prepares for the next phase of his search for Sita."
-    ],
-    meanings: [
-      "शबरीम् = Sabari",
-      "अभिगतः = Having reached / Visited",
-      "विद्वान् = The wise / Omniscient one",
-      "शबर्या = By Sabari",
-      "पूजितः = Worshiped / Honored",
-      "सम्यक् = Professionally / Correctly / With deep devotion",
-      "रामः = Rama",
-      "जनक-आत्मजायाः = Of Janaka's daughter (Sita)",
-      "अन्वेषणे = In the search / Quest",
-      "युक्तः = Engaged / Intently focused"
-    ],
-    grammar: [],
-    notes: [
-      "The meeting with Sabari highlights Rama's accessibility; he happily accepts the humble offerings of a forest dweller. This pure connection stands out as a beautiful moment of emotional warmth amid the stress of his exile and search."
-    ]
-  },
-  {
-    chapter: 1,
     number: 57,
     sloka: [
-      "पम्पातीरे हनुमता सङ्गतो वानरेण ह |",
-      "हनुमद्वचनाच्चैव सुग्रीवेण समागतः ||"
+      "तं निहत्य महाबाहुर्ददाह स्वर्गतश्च सः |",
+      "स चास्य कथयामास शबरीं धर्मचारिणीम् || 56",
+      "श्रमणीं धर्मनिपुणामभिगच्छेति राघव | 57a"
     ],
     sloka_tel: [
-      "పమ్పాతీరే హనుమతా సంగతో వానరేణ హ |",
-      "హనుమద్వచనాచ్చైవ సుగ్రీవేణ సమాగతః ||"
+      "తం నిహత్య మహాబాహుర్దదాహ స్వర్గతశ్చ సః |",
+      "స చాస్య కథయామాస శబరీం ధర్మచారిణీమ్ || 56",
+      "శ్రమణీం ధర్మనిపుణామభిగచ్ఛేతి రాఘవ | 57a"
     ],
     vicheda: [
-      "पम्पा-तीरे हनुमता सङ्गतः वानरेण ह |",
-      "हनुमत्-वचनात् च एव सुग्रीवेण समागतः ||"
+      "तम् निहत्य महाबाहुः ददाह स्वर्गतः च सः",
+      "सः च अस्य कथयामास शबरीम् धर्म-चारिणीम्",
+      "श्रमणीम् धर्म-निपुणाम् अभिगच्छ इति राघव"
     ],
     anvaya: [
-      "पम्पातीरे वानरेण हनुमता सङ्गतो ह, हनुमद्वचनात् च एव सुग्रीवेण समागतः ||"
+      "महाबाहुः (रामः) तम् निहत्य ददाह, सः च स्वर्गतः; सः अस्य 'राघव! धर्मचारिणीम् श्रमणीम् धर्मनिपुणाम् शबरीम् अभिगच्छ' इति कथयामास ||"
     ],
     prose: [],
     transl: [
-      "On the scenic banks of Lake Pampa, Rama met the extraordinary Vanara warrior, Hanuman. Guided by Hanuman’s reassuring words, Rama went on to form a critical alliance with the exiled prince Sugriva."
+      "The mighty-armed Rama slew that demon and cremated his remains, whereupon Kabandha assumed a divine form and ascended to heaven. Before departing, he counselled Rama, saying, 'O Raghavan! Go and visit Shabari, a pious woman of ascetic life who is thoroughly versed in the principles of righteousness.'"
     ],
     transl_tel: [
-      "పంపా సరోవర తీరంలో రామునికి వానరోత్తముడైన హనుమంతునితో పరిచయం ఏర్పడింది. ఆ హనుమంతుని మాటల ద్వారానే రాముడు సుగ్రీవునితో స్నేహం (పొత్తు) కుదుర్చుకున్నాడు."
+      "మహాబాహుడైన శ్రీరాముడు ఆ కబంధుని బాహువులను ఖండించి సంహరించి, అతని దేహాన్ని దహనం చేశాడు. ఆ సంస్కారంతో శాపవిముక్తుడై దివ్యరూపంతో స్వర్గానికి వెళ్తూ ఆ కబంధుడు రామునికి ఇలా చెప్పాడు: 'ఓ రాఘవా! ధర్మనిష్ఠ గలది, ఉత్తమ తపస్విని, ధర్మమర్మములు తెలిసినది అయిన శబరి వద్దకు వెళ్ళుము.'"
     ],
     essence: [
-      "While walking near Lake Pampa, the brothers meet Hanuman, who approaches them disguised as a scholar to discern their intentions on behalf of Sugriva. Impressed by Hanuman's eloquence and nobility, Rama reveals his identity. Hanuman safely guides them up Rishyamukha mountain, bringing Rama and Sugriva together."
+      "Upon being defeated by Rama and Lakshmana, Kabandha reveals that he was actually a celestial being cursed to take a monstrous shape. He requests a proper cremation to break the curse. Once freed and ascending back to the heavens, he repays Rama's kindness with invaluable guidance, directing him toward the pious ascetic Shabari, who will further guide him toward his crucial alliance with Sugriva."
     ],
     meanings: [
-      "पम्पा-तीरे = On the banks of Lake Pampa",
-      "हनुमता = With Hanuman",
-      "सङ्गतः = Met / United",
-      "वानरेण = With the Vanara (monkey race warrior)",
-      "ह = Indeed (historical event)",
-      "हनुमत्-वचनात् = By the words / Mediation of Hanuman",
+      "तम् = Him (Kabandha)",
+      "निहत्य = Having slain / Struck down",
+      "महाबाहुः = The mighty-armed one (Rama)",
+      "ददाह = Cremated / Burnt",
+      "स्वर्गतः = Ascended to heaven",
       "च = And",
-      "एव = Truly",
-      "सुग्रीवेण = With Sugriva",
-      "समागतः = Formally met / Came together"
+      "सः = He (Kabandha)",
+      "सः = He",
+      "च = And",
+      "अस्य = To him (to Rama)",
+      "कथयामास = Spoke / Advised / Directed",
+      "शबरीम् = Shabari",
+      "धर्म-चारिणीम् = One who walks the path of righteousness / Pious practitioner",
+      "श्रमणीम् = An ascetic woman / Hermitess",
+      "धर्म-निपुणाम् = Highly proficient / Well-versed in righteousness",
+      "अभिगच्छ = Approach / Visit / Go to",
+      "इति = Thus",
+      "राघव = O descendant of Raghu (Rama)"
     ],
     grammar: [],
     notes: [
-      "This marks the entry of Hanuman into the epic, an introduction that fundamentally transforms the narrative. Hanuman acts as the ideal envoy, using his quick diplomatic skills to unite a prince looking for his wife with a vanara looking for his kingdom."
+      "Kabandha's liberation acts as a critical strategic junction in the epic. It shows that even in the dark depths of the wilderness, Rama's actions bring liberation to those bound by curses, while simultaneously opening up the next major pathways of his quest to rescue Sita."
     ]
   },
   {
