@@ -2475,92 +2475,48 @@ const verses = [
     chapter: 1,
     number: 46,
     sloka: [
-      "प्रतिज्ञातश्च हा एषोऽर्थः ऋषिभिर्दण्डकारण्यवासिभिः |",
-      "रक्षसाम् सम्मुखे युद्धे वधः संश्रुतः शूरः ||"
-    ],
-    sloka_tel: [
-      "ప్రతిజ్ఞాతశ్చ హా ఏషోఽర్థః ఋషిభిర్దండకారణ్యవాసిభిః |",
-      "రక్షసామ్ సమ్ముఖే యుద్ధే వధః సంశ్రుతః శూరః ||"
-    ],
-    vicheda: [
-      "प्रतिज्ञातः च ह एषः अर्थः ऋषिभिः दण्डकारण्य-वासिभिः |",
-      "रक्षसाम् सम्मुखे युद्धे वधः संश्रुतः शूरः ||"
-    ],
-    anvaya: [
-      "दण्डकारण्यवासिभिः ऋषिभिः (सह) एषः अर्थः प्रतिज्ञातः च ह, शूरः (रामः) युद्धे सम्मुखे रक्षसाम् वधः संश्रुतः ||"
-    ],
-    prose: [],
-    transl: [
-      "This crucial pledge was thus sealed before the sages residing in the Dandaka forest; the heroic Rama solemnly bound himself to destroy the demons face-to-face in battle."
-    ],
-    transl_tel: [
-      "దండకారణ్యంలో నివసించే ఋషుల సమక్షంలో ఈ విషయం ప్రతిజ్ఞ చేయబడింది. పరాక్రమవంతుడైన రాముడు యుద్ధంలో రాక్షసులను సమ్ముఖంగా ఎదుర్కొని వధిస్తానని స్థిరంగా అంగీకరించాడు."
-    ],
-    essence: [
-      "This verse reinforces the historical weight of Rama's agreement. In front of the entire assembly of Dandaka's spiritual practitioners, the heroic prince explicitly seals his covenant: he will face the dark forces head-on and eradicate them from the region."
-    ],
-    meanings: [
-      "प्रतिज्ञातः = Solemnly pledged / Vowed",
-      "च = And",
-      "ह = Indeed",
-      "एषः = This",
-      "अर्थः = Matter / Purpose / Commitment",
-      "ऋषिभिः = By / With the sages",
-      "दण्डकारण्य-वासिभिः = Inhabitants of the Dandaka forest",
-      "रक्षसाम् = Of the Rakshasas",
-      "सम्मुखे = Face-to-face / In front",
-      "युद्धे = In battle",
-      "वधः = Slain / Destruction",
-      "संश्रुतः = Explicitly promised / Undertaken",
-      "शूरः = The heroic / Brave one (Rama)"
-    ],
-    grammar: [],
-    notes: [
-      "The phrase 'Sammukhe yuddhe' (face-to-face combat) indicates Rama's chivalrous warrior code. He will not ambush them using underhanded methods, but will confront their terror openly and transparently."
-    ]
-  },
-  {
-    chapter: 1,
-    number: 47,
-    sloka: [
       "तेन तत्रैव वसता जनस्थाननिवासिनी |",
-      "विप्रकृता शूर्पणखा राक्षसी कामरूपिणी ||"
+      "विरूपिता शूर्पणखा राक्षसी कामरूपिणी || 46"
     ],
     sloka_tel: [
       "తేన తత్రైవ వసతా జనస్థాననివాసినీ |",
-      "విప్రకృతా శూర్పణఖా రాక్షసీ కామరూపిణీ ||"
+      "విరూపితా శూర్పణఖా రాక్షసీ కామరూపిణీ || 46"
     ],
     vicheda: [
-      "तेन तत्र एव वसता जनस्थान-निवासिनी |",
-      "विप्रकृता शूर्पणखा राक्षसी काम-रूपिणी ||"
+      "तेन तत्र एव वसता जनस्थान-निवासिनी",
+      "विरूपिता शूर्पणखा राक्षसी काम-रूपिणी"
     ],
     anvaya: [
-      "तत्र एव वसता तेन, जनस्थाननिवासिनी कामरूपिणी शूर्पणखा राक्षसी विप्रकृता ||"
+      "जनस्थाननिवासिनी कामरूपिणी राक्षसी शूर्पणखा",
+      "तत्र एव वसता तेन विरूपिता |",
     ],
-    prose: [],
+    prose: [
+      "Shurpanakha, demoness, resident of Janastan, who possessed the power to change her form at will",
+      "was disfigured by him there while residing in the Dandaka forest",
+    ],
     transl: [
-      "While He was residing right there, a shape-shifting demoness named Shurpanakha, an inhabitant of the Janasthana region, was disfigured and punished."
+      "While Rama was residing in that very region, the demoness Shurpanakha—a resident of Janasthana who possessed the power to change her form at will—was disfigured and mutilated."
     ],
     transl_tel: [
-      "అక్కడే నివసిస్తున్న రాముని చేత (లక్ష్మణుని ద్వారా), జనస్థానంలో ఉంటున్నది, కోరిన రూపం మార్చగలది (కామరూపిణి) అయిన శూర్పణఖ అనే రాక్షసి ముక్కు చెవులు కోయబడి అవమానించబడింది."
+      "శ్రీరాముడు ఆ దండకారణ్య ప్రాంతంలోనే నివసిస్తున్న సమయంలో, జనస్థానంలో నివసించేది, కోరిన రూపం ధరించగల శక్తి గలది (కామరూపిణి) అయిన శూర్పణఖ అనే రాక్షసిని ఆయన విరూపిణిగా చేశాడు (ఆమె ముక్కు చెవులు కోయించాడు)."
     ],
     essence: [
-      "While living peacefully in their forest camp, the spark for the great war is struck. A dangerous demoness named Shurpanakha, who lives in the nearby outpost of Janasthana and can change her form at will, tries to harm Sita and entice Rama. As a punishment, she is overpowered and disfigured by Lakshmana on Rama's orders."
+      "While Rama lives peacefully in the forest, the catalyst for the great war appears. Shurpanakha, a powerful demoness who can shift shapes at will, encounters Rama and becomes aggressively infatuated. When she attempts to harm Sita out of jealousy, Rama orders Lakshmana to punish her, resulting in her nose and ears being severed. This event triggers the retaliation of her brothers and changes the course of the epic."
     ],
     meanings: [
-      "तेन = By him (Rama/Lakshmana team context)",
+      "तेन = By him (Rama)",
       "तत्र = There",
-      "एव = Exactly / Alone",
-      "वसता = While residing",
-      "जनस्थान-निवासिनी = An inhabitant of Janasthana (a Rakshasa military outpost)",
-      "विप्रकृता = Disfigured / Punished / Repulsed",
+      "एव = Alone / Exactly",
+      "वसता = While residing / Living",
+      "जनस्थान-निवासिनी = Resident of Janasthana (a demonic outpost in Dandaka)",
+      "विरूपिता = Was disfigured / Deformed",
       "शूर्पणखा = Shurpanakha",
-      "राक्षसी = Demoness",
+      "राक्षसी = The demoness",
       "काम-रूपिणी = Capable of assuming any form at will"
     ],
     grammar: [],
     notes: [
-      "Janasthana was the forward military headquarters of Ravana’s empire inside Dandaka. Shurpanakha's disfigurement (her nose and ears were severed) acts as the direct trigger that draws the main Rakshasa forces into a direct conflict with Rama."
+      "The location 'Janasthana' is highly significant as it was the forward military outpost of Ravana's kingdom in the southern wilderness. Shurpanakha's disfigurement transforms a localized conflict with forest ascetics into a direct war with the royal house of Lanka."
     ]
   },
   {
