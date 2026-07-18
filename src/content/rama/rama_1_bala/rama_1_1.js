@@ -3579,45 +3579,45 @@ const verses = [
     chapter: 1,
     number: 71,
     sloka: [
-      "तत्र लङ्कां समासाद्य पुरीं रावणपालिताम् |",
-      "ददर्श सीतां ध्यायन्तीं अशोकवनिकां गताम् ||"
+      "स च सर्वान् समानीय वानरान् वानरर्षभः |",
+      "दिशः प्रस्थापयामास दिदृक्षुर्जनकात्मजाम् || 71"
     ],
     sloka_tel: [
-      "తత్ర లంకాం సమాసాద్య పురీం రావణపాలితామ్ |",
-      "దదర్శ సీతాం ధ్యాయంతీం అశోకవనికాం గతామ్ ||"
+      "స చ సర్వాన్ సమానీయ వానరాన్ వానరర్షభః |",
+      "దిశః ప్రస్థాపయామాస దిదృక్షుర్జనకాత్మజామ్ || 71"
     ],
     vicheda: [
-      "तत्र लङ्काम् समासाद्य पुरीम् रावण-पालिताम् |",
-      "ददर्श सीताम् ध्यायन्तीम् अशोक-वनिकाम् गताम् ||"
+      "सः च सर्वान् समानीय वानरान् वानर-ऋषभः",
+      "दिशः प्रस्थापयामास दिदृक्षुः जनक-आत्मजाम्"
     ],
     anvaya: [
-      "तत्र रावणपालिताम् लङ्कां पुरीम् समासाद्य, अशोकवनिकां गताम् ध्यायन्तीं सीताम् ददर्श ||"
+      "वानरर्षभः सः च सर्वान् वानरान् समानीय, जनकात्मजाम् दिदृक्षुः (सन्) दिशः प्रस्थापयामास ||"
     ],
     prose: [],
     transl: [
-      "Reaching the island fortress of Lanka, which was heavily guarded by Ravana, Hanuman successfully located Sita inside the Ashoka grove, where she sat deeply immersed in thoughts of Rama."
+      "Then, that bull among the vanaras, Sugriva, gathered all the vanara forces together and, eager to discover the whereabouts of Janaka's daughter Sita, dispatched them in all four directions."
     ],
     transl_tel: [
-      "రావణునిచే పాలింపబడుతున్న లంకా నగరానికి చేరుకుని, అక్కడ అశోకవనంలో కూర్చుని, నిరంతరం రాముడినే ధ్యానిస్తున్న సీతాదేవిని హనుమంతుడు దర్శించాడు."
+      "ఆ పిమ్మట, వానరశ్రేష్ఠుడైన ఆ సుగ్రీవుడు సమస్త వానర సైన్యాలను ఒకచోటకి చేర్చాడు. జనకమహారాజు పుత్రికయైన సీతాదేవిని వెదకి కనుగొనాలనే తీవ్ర ఆకాంక్షతో, ఆయన ఆ వానరులను నలుదిక్కులకూ పంపించివేశాడు."
     ],
     essence: [
-      "After landing on Lanka, Hanuman slips past the city defenses under the cover of night. After a meticulous search through palaces and gardens, he discovers Sita inside the Ashoka grove. She is pale, weeping, surrounded by demoness guards, and entirely absorbed in meditating on her husband."
+      "Now safely installed as the king of Kishkindha and having passed the monsoon season, Sugriva fulfills his side of the sacred covenant. He summons his colossal global army of vanaras. Driven by the urgent desire to find Sita (*janakatmajam didrikshuh*), he organizes them into massive search parties and commands them to scour the earth in every cardinal direction, setting the grand search operation into motion."
     ],
     meanings: [
-      "तत्र = There",
-      "लङ्काम् = Lanka",
-      "समासाद्य = Having reached / Entered safely",
-      "पुरीम् = The fortified city",
-      "रावण-पालिताम् = Ruled / Protected by Ravana",
-      "ददर्श = Saw / Located",
-      "सीताम् = Sita",
-      "ध्यायन्तीम् = Meditating / Constantly thinking (of Rama)",
-      "अशोक-वनिकाम् = The Ashoka grove / Garden",
-      "गताम् = Who had entered / Rested within"
+      "सः = He (Sugriva)",
+      "च = And",
+      "सर्वान् = All",
+      "समानीय = Having gathered / Assembled together",
+      "वानरान् = The vanaras / Monkey warriors",
+      "वानर-ऋषभः = The bull (foremost) among the vanaras",
+      "दिशः = To all the directions",
+      "प्रस्थापयामास = Dispatched / Sent forth",
+      "दिदृक्षुः = Desiring to see / Eager to find",
+      "जनक-आत्मजाम् = The daughter of King Janaka (Sita)"
     ],
     grammar: [],
     notes: [
-      "This verse captures the emotional peak of Hanuman's quest. Finding Sita alive changes the trajectory of the epic from a desperate search mission into an absolute rescue operation."
+      "The epithet 'Vanararsabhah' (bull among the vanaras) underlines Sugriva's newly restored royal authority and commanding stature. His mobilization of the global vanara grid highlights the sweeping, epic scale of the search operation detailed in the Kishkindha Kanda."
     ]
   },
   {
