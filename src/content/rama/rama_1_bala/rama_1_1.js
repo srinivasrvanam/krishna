@@ -3920,48 +3920,44 @@ const verses = [
     chapter: 1,
     number: 79,
     sloka: [
-      "तेन गत्वा पुरीं लङ्कां हत्वा रावणमाहवे |",
-      "रामः सीतामनुप्राप्य परां व्रीडामुपागमत् ||"
+      "ततः सुग्रीवसहितो गत्वा तीरं महोदधेः |",
+      "समुद्रं क्षोभयामास शरैरादित्यसन्निभैः || 79"
     ],
     sloka_tel: [
-      "తేన గత్వా పురీం లంకాం హత్వా రావణమాహవే |",
-      "రామః సీతామనుప్రాప్య పరాం వ్రీడాముపాగమత్ ||"
+      "తతః సుగ్రీవసహితో గత్వా తీరం మహోదధేః |",
+      "సముద్రం క్షోభయామాస శరైరాదిత్యసన్నిభైః || 79"
     ],
     vicheda: [
-      "तेन गत्वा पुरीम् लङ्काम् हत्वा रावणम् आहवे |",
-      "रामः सीताम् अनुप्राप्य पराम् व्रीडाम् उपागमत् ||"
+      "ततः सुग्रीव-सहितः गत्वा तीरम् महा-उदधेः",
+      "समुद्रम् क्षोभयामास शरैः आदित्य-सन्निभैः"
     ],
     anvaya: [
-      "तेन लङ्कां पुरीम् गत्वा, आहवे रावणम् हत्वा सीताम् अनुप्राप्य, रामः परां व्रीडाम् उपागमत् ||"
+      "ततः (रामः) सुग्रीवसहितः महोदधेः तीरम् गत्वा, आदित्यसन्निभैः शरैः समुद्रम् क्षोभयामास ||"
     ],
     prose: [],
     transl: [
-      "Crossing over that bridge, Rama stormed Lanka and slew Ravana in a cataclysmic war. Yet, upon recovering Sita, Rama unexpectedly experienced deep reservation and public constraints."
+      "Thereafter, marching alongside Sugriva and the vanara army, Rama reached the shores of the great ocean, where he threw the sea into complete turmoil using his arrows that blazed like the sun."
     ],
     transl_tel: [
-      "ఆ వంతెన ద్వారా లంకా నగరానికి వెళ్ళి, ఘోర యుద్ధంలో రావణుడిని వధించి రాముడు సీతను తిరిగి పొందాడు. కానీ, ప్రజాధర్మ రక్షణ కోసం ఆమెను స్వీకరించే సమయంలో రాముడు తీవ్ర సంకోచాన్ని (లజ్జను/బాధను) పొందాడు."
+      "ఆ పిమ్మట శ్రీరాముడు సుగ్రీవునితో కలిసి మహాసముద్ర తీరానికి చేరుకున్నాడు. లంకకు చేరుకోవడానికి సముద్రుడు దారి ఇవ్వకపోవడంతో, ఆయన సూర్యుడితో సమానంగా ప్రకాశించే తన దివ్యాస్త్రాలతో ఆ సముద్రాన్ని కలవరపెట్టాడు (క్షోభకు గురిచేశాడు)."
     ],
     essence: [
-      "The army crosses the bridge into Lanka, sparking a ferocious, high-stakes war. Rama destroys Ravana’s legions and kills the tyrant in a historic duel. However, when Sita is finally brought before him in public, Rama experiences intense conflict. Bound by his duties as a king to protect public integrity, he faces deep emotional and social constraints."
+      "Upon receiving Hanuman's definitive confirmation, Rama immediately mobilizes the entire vanara army and marches south to the edge of the Indian Ocean. Confronted by the seemingly impassable barrier of the deep sea, Rama fasts and prays for three days, requesting the Sea God (Samudra) to grant safe passage. When his peaceful appeals are met with silence and indifference, Rama's righteous fury awakens. He strings his bow and unleashes cosmic weapons as blazing as solar fire, boiling the waters and forcing the ocean to yield."
     ],
     meanings: [
-      "तेन = By that (bridge)",
-      "गत्वा = Having crossed over / Reached",
-      "पुरीम् = The city",
-      "लङ्काम् = Lanka",
-      "हत्वा = Having slain / Smashed",
-      "रावणम् = Ravana",
-      "आहवे = In battle / Combat",
-      "रामः = Rama",
-      "सीताम् = Sita",
-      "अनुप्राप्य = Having fully recovered / Obtained again",
-      "पराम् = Great / Supreme",
-      "व्रीडाम् = Embarrassment / Constraint born of public accountability / Hesitation",
-      "उपागमत् = Experienced / Entered into"
+      "ततः = Thereafter / Then",
+      "सुग्रीव-सहितः = Accompanied by Sugriva",
+      "गत्वा = Having gone / Marched to",
+      "तीरम् = The shore / Coast",
+      "महा-उदधेः = Of the great ocean",
+      "समुद्रम् = The sea",
+      "क्षोभयामास = Caused to agitate / Terrified / Threw into turmoil",
+      "शरैः = With arrows",
+      "आदित्य-सन्निभैः = Resembling the sun / Blazing like sunbursts"
     ],
     grammar: [],
     notes: [
-      "The word *'Vridam'* captures the complex intersection of personal love and political duty. As a private individual, Rama is thrilled to have his wife back. As a king (*Raja*), he must maintain absolute transparency before his subjects, leading to the difficult trials that follow."
+      "The compound 'aditya-sannibhaih' captures the radiant, destructive heat of Rama's arrows. This event marks the opening of the Yuddha Kanda, shifting Rama's role from a grieving husband into an unstoppable commander-in-chief ready to dismantle any cosmic obstacle standing in his path."
     ]
   },
   {
