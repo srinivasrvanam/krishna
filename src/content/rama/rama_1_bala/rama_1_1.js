@@ -2967,48 +2967,45 @@ const verses = [
     chapter: 1,
     number: 58,
     sloka: [
-      "सुग्रीवाय च तत्सर्वं शंसद्रामो महाबलः |",
-      "आदितस्तद्यथावृत्तं सीतायाश्च विशेषतः ||"
+      "सोऽभ्यगच्छन्महातेजाः शबरीं शत्रुसूदनः || 57b",
+      "शबर्या पूजितः सम्यग्रामो दशरथात्मजः | 58a"
     ],
     sloka_tel: [
-      "సుగ్రీవాయ చ తత్సర్వం శంసద్రామో మహాబలః |",
-      "ఆదితస్తద్యథావృత్తం సీతాయాశ్చ విశేషతః ||"
+      "సోఽభ్యగచ్ఛన్మహాతేజాః శబరీం శత్రుసూదనః || 57b",
+      "శబర్య్యా పూజితః సమ్యగ్రామో దశరథాత్మజః | 58a"
     ],
     vicheda: [
-      "सुग्रीवाय च तत् सर्वम् शंसत् रामः महा-बलः |",
-      "आदितः तत् यथा-वृत्तम् सीतायाः च विशेषतः ||"
+      "सः अभ्यगच्छत् महातेजाः शबरीम् शत्रु-सूदनः",
+      "शबर्या पूजितः सम्यक् रामः दशरथ-आत्मजः"
     ],
     anvaya: [
-      "महाबलः रामः आदितः यथावृत्तं तत् सर्वम् सीतायाः विशेषतः च सुग्रीवाय शंसत् ||"
+      "महातेजाः शत्रुसूदनः सः दशरथात्मजः रामः शबरीम् अभ्यगच्छत्, शबर्या च सम्यक् पूजितः ||"
     ],
     prose: [],
     transl: [
-      "The powerful Rama shared his entire story with Sugriva, recounting events from the very beginning, with special and poignant detail regarding the painful abduction of his wife, Sita."
+      "Rama, the destroyer of foes who possessed immense radiance, approached Shabari and was fittingly and thoroughly worshipped by her with deep devotion."
     ],
     transl_tel: [
-      "మహాబలవంతుడైన రాముడు మొదటి నుండి జరిగిన వృత్తాంతాన్ని అంతటినీ, ముఖ్యముగా సీతాదేవి అపహరణ గురించి సుగ్రీవునికి వివరంగా తెలియజేశాడు."
+      "గొప్ప తేజస్సు గలవాడు, శత్రుసంహారకుడు, దశరథ పుత్రుడు అయిన ఆ శ్రీరాముడు శబరి ఆశ్రమానికి వెళ్లాడు. అక్కడ ఆయన శబరి చేత ఎంతో భక్తిశ్రద్ధలతో, శాస్త్రోక్తంగా అర్చించబడ్డాడు."
     ],
     essence: [
-      "Sitting down with Sugriva, Rama recounts his entire journey: his departure from Ayodhya, his life in the forest, and the tragic details of Sita's kidnapping. Listening to his story, Sugriva feels a deep sense of shared sorrow, recognizing that they are both princes suffering from the sting of betrayal and exile."
+      "Following Kabandha's parting advice, Rama and Lakshmana make their way to the hermitage of Shabari. Despite her humble tribal background, her pure heart and intense ascetic discipline make her house a sacred destination. Rama accepts her hospitality and worship without any hesitation, highlighting his deep accessibility and love for true devotees, irrespective of social boundaries."
     ],
     meanings: [
-      "सुग्रीवाय = To Sugriva",
-      "च = And",
-      "तत् = That",
-      "सर्वम् = All / Everything",
-      "शंसत् = Related / Narrated",
+      "सः = He (Rama)",
+      "अभ्यगच्छत् = Approached / Visited",
+      "महातेजाः = One of immense radiance / Splendor",
+      "शबरीम् = Shabari",
+      "शत्रु-सूदनः = The destroyer of enemies",
+      "शबर्या = By Shabari",
+      "पूजितः = Was worshipped / Honored",
+      "सम्यक् = Properly / Fittingly / Thoroughly",
       "रामः = Rama",
-      "महा-बलः = Mighty-mighty / Highly powerful",
-      "आदितः = From the beginning / Inception",
-      "तत् = That",
-      "यथा-वृत्तम् = Exactly as it happened / Factually",
-      "सीतायाः = Of Sita",
-      "च = And",
-      "विशेषतः = Specifically / In detail"
+      "दशरथ-आत्मजः = The son of Dasharatha"
     ],
     grammar: [],
     notes: [
-      "Sharing his vulnerability reveals Rama's genuine humanity. By placing his cards on the table, he builds a relationship grounded in mutual trust rather than political manipulation."
+      "The phrase 'samyak pujitah' signifies that Shabari's worship was perfect and flawless because it was seasoned with absolute devotion. This meeting is celebrated across Indian literature as one of the finest examples of the eradication of caste and social hierarchies through mutual spiritual respect and divine love."
     ]
   },
   {
