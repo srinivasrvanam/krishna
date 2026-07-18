@@ -2580,47 +2580,44 @@ const verses = [
     chapter: 1,
     number: 49,
     sloka: [
-      "निजघान वने रामस्तेषां चैव पदानुगान् |",
-      "वने तस्मिन् निहताश्च चतुर्दशसहस्राणि ||"
+      "वने तस्मिन्निवसता जनस्थाननिवासिनाम् || 48b",
+      "रक्षसां निहतान्यासन् सहस्राणि चतुर्दश | 49a"
     ],
     sloka_tel: [
-      "నిజఘాన వనే రామస్తేషాం చైవ పదానుగాన్ |",
-      "వనే తస్మిన్ నిహతాశ్చ చతుర్దశసహస్రాణి ||"
+      "వనే తస్మిన్నివసతా జనస్థాననివాసినామ్ || 48b",
+      "రక్షసాం నిహతాన్యాసన్ సహస్రాణి చతుర్దశ | 49a"
     ],
     vicheda: [
-      "निजघान वने रामः तेषाम् च एव पद-अनुगान् |",
-      "वने तस्मिन् निहताः च चतुर्दश-सहस्राणि ||"
+      "वने तस्मिन् निवसता जनस्थान-निवासिनाम्",
+      "रक्षसाम् निहतानि आसन् सहस्राणि चतुर्दश"
     ],
     anvaya: [
-      "रामः वने तेषाम् पदानुगान् च एव निजघान, तस्मिन् वने चतुर्दशसहस्राणि (राक्षसाः) निहताः च ||"
+      "तस्मिन् वने निवसता तेन जनस्थाननिवासिनाम् रक्षसाम् चतुर्दश सहस्राणि निहतानि आसन् ||"
     ],
     prose: [],
     transl: [
-      "...Rama single-handedly slaughtered them along with their massive legions of infantry followers. In that intense forest combat, fourteen thousand terrifying demons were completely wiped out."
+      "While Rama was residing in that forest, fourteen thousand rakshasas inhabiting Janasthana were completely wiped out and slain by him."
     ],
     transl_tel: [
-      "రాముడు ఆ అరణ్యంలో వారిని మరియు వారి అనుచరులైన సైన్యాన్ని హతమార్చాడు. ఆ అడవిలో మొత్తం పదునాలుగు వేల మంది (14,000) రాక్షసులు సంహరించబడ్డారు."
+      "ఆ అడవిలో శ్రీరాముడు నివసిస్తున్న సమయంలో, జనస్థానంలో స్థావరం ఏర్పరచుకున్న పద్నాలుగు వేల మంది రాక్షసులు ఆయన చేతిలో పూర్తిగా హతమార్చబడ్డారు."
     ],
     essence: [
-      "In a spectacular display of military prowess, Rama stands his ground alone against the incoming wave of enemies. He neutralizes the commanders Khara, Dushana, and Trishiras, and completely annihilates their entire army of fourteen thousand demonic foot soldiers, liberating that sector of the forest."
+      "This verse quantifies the incredible military feat Rama accomplished single-handedly in Janasthana. Incited by Shurpanakha, Khara and Dushana brought their entire forward division—numbering exactly fourteen thousand elite demonic warriors—to attack Rama. Rama defended his hermitage alone and decimated the entire force, establishing his undisputed mastery over the wilderness."
     ],
     meanings: [
-      "निजघान = Killed / Destroyed utterly",
-      "वने = In the forest",
-      "रामः = Rama",
-      "तेषाम् = Their",
-      "च = And",
-      "एव = Indeed",
-      "पद-अनुगान् = Foot-followers / Infantry / Soldiers",
       "वने = In the forest",
       "तस्मिन् = In that",
-      "निहताः = Slain / Wiped out",
-      "च = And",
-      "चतुर्दश-सहस्राणि = Fourteen thousand"
+      "निवसता = By the one residing (by Rama)",
+      "जनस्थान-निवासिनाम् = Of those who lived in Janasthana",
+      "रक्षसाम् = Of the rakshasas / Demons",
+      "निहतानि = Slain / Killed",
+      "आसन् = Were",
+      "सहस्राणि = Thousands",
+      "चतुर्दश = Fourteen"
     ],
     grammar: [],
     notes: [
-      "This incredible battle showcases Rama’s absolute mastery of martial arts and celestial weaponry (*Astras*). Defeating fourteen thousand highly trained, shape-shifting warriors single-handedly within a few hours establishes his reputation as an invincible warrior."
+      "The mention of fourteen thousand ('sahasrani chaturdasa') showcases the scale of Rama's power. Defeating a conventional army of this size single-handedly without taking a scratch proved to the worlds that Rama was no ordinary mortal prince."
     ]
   },
   {
