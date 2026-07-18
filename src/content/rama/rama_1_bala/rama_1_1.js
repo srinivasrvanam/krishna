@@ -3394,54 +3394,48 @@ const verses = [
     chapter: 1,
     number: 67,
     sloka: [
-      "अनुमान्य तदा तारां वालिनं वानरेश्वरम् |",
-      "सुग्रीवेण समागतं शरेणैकेन राघवः ||",
-      "जघान युवराजं च तदा तस्मिन् महाहवे |"
+      "ततः प्रीतमनाश्चैव विश्वस्तश्च महाकपिः |",
+      "किष्किन्धां रामसहितो जगाम च गुहां तदा || 67"
     ],
     sloka_tel: [
-      "అనుమాన్య తదా తారాం వాలినం వానరేశ్వరమ్ |",
-      "సుగ్రీవేణ సమాగతం శరేణైకేన రాఘవః ||",
-      "జఘాన యువరాజం చ తదా తస్మిన్ మహాహవే ||"
+      "తతః ప్రీతమనాశ్చైవ విశ్వస్తశ్చ మహాకపిః |",
+      "కిష్కింధాం రామసహితో జగామ చ గుహాం తదా || 67"
     ],
     vicheda: [
-      "अनुमान्य तदा ताराम् वालिनम् वानर-ईश्वरम् |",
-      "सुग्रीवेण समागतम् शरेण एकेन राघवः |",
-      "जघान युवराजम् च तदा तस्मिन् महा-आहवे ||"
+      "ततः प्रीत-मनाः च एव विश्वस्तः च महा-कपिः",
+      "किष्किन्धाम् राम-सहितः जगाम च गुहाम् तदा"
     ],
     anvaya: [
-      "तदा ताराम् अनुमान्य (उपेक्ष्य), सुग्रीवेण समागतं वानरेश्वरम् वालिनम् तस्मिन् महाआहवे राघवः एकेन शरेण जघान, तदा (सुग्रीवः) युवराजम् च (अभवत्) ||"
+      "ततः प्रीतमनाः विश्वस्तः च महाकपिः (सुग्रीवः) तदा रामसहितः गुहाम् किष्किन्धाम् जगाम च ||"
     ],
     prose: [],
     transl: [
-      "Dismissing the wise warnings of his queen Tara, Vali engaged in ferocious combat with Sugriva. In that monumental duel, Rama unleashed a single arrow, striking down the monkey king, paving the way for Sugriva's restoration."
+      "Thereupon, his heart filled with joy and absolute confidence restored, the great vanara leader Sugriva, accompanied by Rama, marched towards the cave-fortress of Kishkindha."
     ],
     transl_tel: [
-      "తన భార్యయైన తార మాటలను పక్కనపెట్టి వాలి సుగ్రీవునితో ఘోర యుద్ధానికి తలపడ్డాడు. ఆ మహాయుద్ధంలో రాముడు ఒకే ఒక్క బాణంతో వాలిని వధించాడు."
+      "ఆ అద్భుత పరాక్రమాన్ని చూసిన తర్వాత, పరమ సంతోష భరితమైన మనస్సు కలవాడు, రామునిపై సంపూర్ణ విశ్వాసం కుదిరినవాడు అయిన ఆ వానర శ్రేష్ఠుడు (సుగ్రీవుడు), అప్పుడు శ్రీరామునితో కూడి గుహారూపమైన కిష్కింధా నగరానికి బయలుదేరాడు."
     ],
     essence: [
-      "Before leaving, Vali’s wife Tara begs him not to go, warning him that Sugriva has secured the backing of Rama. Furious and proud, Vali dismisses her advice and locks horns with Sugriva in a brutal fight. As they grapple, Rama shoots a single arrow from his concealment, mortally wounding Vali in the thick of battle."
+      "Witnessing Rama effortlessly launch Dundubhi's skeleton and shatter the seven Shala trees completely cures Sugriva's deep-seated anxiety. With his faith fully sealed (*vishvastah*), his mood shifts from crippling fear to triumphant joy. Confident that his divine ally can easily overpower Vali, Sugriva wastes no time and leads Rama straight to the gates of the cave-kingdom, Kishkindha, to challenge his tyrannical brother."
     ],
     meanings: [
-      "अनुमान्य = Dismissing / Ignoring (after she reasoned with him)",
-      "तदा = Then",
-      "ताराम् = Tara (Vali's wife)",
-      "वालिनम् = Vali",
-      "वानर-ईश्वरम् = The king of the Vanaras",
-      "सुग्रीवेण = With Sugriva",
-      "समागतम् = Clashing / Locked in duel",
-      "शरेण = Arrow",
-      "एकेन = Single",
-      "राघवः = Rama",
-      "जघान = Slew / Struck down",
-      "युवराजम् = Crown prince position (now open or transferred)",
+      "ततः = Thereupon / After that",
+      "प्रीत-मनाः = One with a delighted mind / Joyful heart",
       "च = And",
-      "तदा = Then",
-      "तस्मिन् = In that",
-      "महा-आहवे = Great battle"
+      "एव = Indeed",
+      "विश्वस्तः = Completely confident / Trusting / Reassured",
+      "च = And",
+      "महा-कपिः = The great vanara (Sugriva)",
+      "किष्किन्धाम् = To Kishkindha",
+      "राम-सहितः = Accompanied by Rama / Along with Rama",
+      "जगाम = Went / Marched towards",
+      "च = And",
+      "गुहाम् = The cave / Mountain-valley fortress",
+      "तदा = Then / At that time"
     ],
     grammar: [],
     notes: [
-      "Tara’s intelligence stands out here; she correctly deduces the geopolitical shift. This verse is historically unique because it condenses a controversial event—Rama shooting Vali from hiding—into a straightforward statement of tactical alliance execution."
+      "The description of Kishkindha as a 'guha' (cave) points to its architectural nature as a secure, massive valley or cavernous mountain stronghold typical of ancient vanara habitations. Sugriva's transition to a 'vishvastah' state is the ultimate psychological victory before the physical battle even begins."
     ]
   },
   {
