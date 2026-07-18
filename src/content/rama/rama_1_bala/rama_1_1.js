@@ -3487,45 +3487,47 @@ const verses = [
     chapter: 1,
     number: 69,
     sloka: [
-      "स च सर्वान् समानीय वानरान् वानरर्षभः |",
-      "दिशः प्रस्थापयामास दिदृक्षुः जनकात्मजाम् ||"
+      "अनुमान्य तदा तारां सुग्रीवेण समागतः |",
+      "निजघान च तत्रैनं शरेणैकेन राघवः || 69"
     ],
     sloka_tel: [
-      "స చ సర్వాన్ సమానీయ వానరాన్ వానరర్షభః |",
-      "దిశః ప్రస్థాపయామాస దిదృక్షుః జనకాత్మజామ్ ||"
+      "అనుమాన్య తదా తారాం సుగ్రీవేణ సమాగతః |",
+      "నిజఘాన చ తత్రైనం శరేణైకేన రాఘవః || 69"
     ],
     vicheda: [
-      "सः च सर्वान् समानीय वानरान् वानर-ऋषभः |",
-      "दिशः प्रस्थापयामास दिदृक्षुः जनक-आत्मजाम् ||"
+      "अनुमान्य तदा ताराम् सुग्रीवेण समागतः",
+      "निजघान च तत्र एनम् शरेण एकेन राघवः"
     ],
     anvaya: [
-      "वानरर्षभः सः च सर्वान् वानरान् समानीय, जनकात्मजाम् दिदृक्षुः (सन्) दिशः प्रस्थापयामास ||"
+      "तदा (वाली) ताराम् अनुमान्य सुग्रीवेण (सह) समागतः; राघवः च तत्र एनम् एकेन शरेण निजघान ||"
     ],
     prose: [],
     transl: [
-      "The newly crowned leader of the monkeys, Sugriva, gathered his vast legions from all corners and dispatched search parties in every direction to locate Janaka’s daughter."
+      "Having disregarded the warning and reasoning of his wife Tara, Vali clashed fiercely with Sugriva. Right then and there, Raghavan (Rama) struck him down with a single, unyielding arrow."
     ],
     transl_tel: [
-      "వానర శ్రేష్ఠుడైన ఆ సుగ్రీవుడు సమస్త వానర సైన్యాన్ని ఒకచోటకు చేర్చి, సీతాదేవి జాడను కనుగొనాలనే తీవ్ర ఆకాంక్షతో వారిని అన్ని దిక్కులకూ పంపించాడు."
+      "ఆ సమయంలో తన భార్యయైన తార చేసిన హితబోధను (వారించిన మాటలను) తిరస్కరించి, వాలి సుగ్రీవునితో ఘోర యుద్ధానికి తలపడ్డాడు. అప్పుడు అక్కడ శ్రీరాముడు ఒకే ఒక్క బాణముతో ఆ వాలిని కొట్టి సంహరించాడు."
     ],
     essence: [
-      "Fulfilling his side of the pact after the monsoon season ends, King Sugriva calls upon millions of Vanara warriors from across mountains and forests. Driven by a deep desire to help Rama locate Sita, he splits his forces into specialized teams and sends them north, south, east, and west with strict deadlines."
+      "Before storming out, Vali's wise wife Tara begs him not to go, suspecting that Sugriva has secured a powerful ally. Blinded by arrogance and familial rage, Vali dismisses her counsel and charges into battle against his brother. As the two fight intensely, Rama—waiting for the right moment from his concealed position—releases a single deadly arrow that pierces Vali's chest, fulfilling his vow to Sugriva."
     ],
     meanings: [
-      "सः = He (Sugriva)",
+      "अनुमान्य = Having pacified / Convinced (here used in the context of overriding or setting aside her warnings)",
+      "तदा = Then / At that time",
+      "ताराम् = Tara (Vali's wife)",
+      "सुग्रीवेण = With Sugriva",
+      "समागतः = Clashed / Came together in combat",
+      "निजघान = Struck down / Slew",
       "च = And",
-      "सर्वान् = All",
-      "समानीय = Having gathered / Summoned together",
-      "वानरान् = The monkeys",
-      "वानर-ऋषभः = The bull among monkeys (leader Sugriva)",
-      "दिशः = To all different directions / Cardinal points",
-      "प्रस्थापयामास = Dispatched / Sent forth",
-      "दिदृक्षुः = Desiring to see / Locate",
-      "जनक-आत्मजाम् = Janaka's daughter (Sita)"
+      "तत्र = There / On the battlefield",
+      "एनम् = Him (Vali)",
+      "शरेण = With an arrow",
+      "एकेन = With a single",
+      "राघवः = Rama (Raghavan)"
     ],
     grammar: [],
     notes: [
-      "Sugriva sets a strict one-month deadline for the search parties, attaching severe penalties for failure. This shows his absolute seriousness and dedication to returning Rama's favor."
+      "The phrase 'taram anumanya' highlights a major turning point in the Kishkindha Kanda. Tara's political intuition was flawless; she correctly deduced Rama's involvement. Vali's refusal to listen to her wise counsel seals his tragic fate, setting up the controversial yet pivotal moment of his slaying by Rama's hidden arrow."
     ]
   },
   {
