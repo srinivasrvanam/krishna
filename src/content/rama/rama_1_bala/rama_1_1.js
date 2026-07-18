@@ -4349,47 +4349,47 @@ const verses = [
     chapter: 1,
     number: 89,
     sloka: [
-      "न पुत्रमरणं केचिद्द्रक्ष्यन्ति पुरुषाः क्वचित् |",
-      "नार्यश्चావిధవా नित्यं भविष्यन्ति पतिव्रताः ||"
+      "नन्दिग्रामे जटां हित्वा भ्रातृभिः सहितोऽनघः |",
+      "रामः सीतामनुप्राप्य राज्यं पुनरवाप्तवान् || 89"
     ],
     sloka_tel: [
-      "న పుత్రమరణం కేచిద్ద్రక్ష్యంతి పురుషాః క్వచిత్ |",
-      "నార్యశ్చావిధవా నిత్యం భవిష్యంతి పతివ్రతాః ||"
+      "నందిగ్రామే జటాం హిత్వా భ్రాతృభిః సహితోఽనఘః |",
+      "రామః సీతామనుప్రాప్య రాజ్యం పునరవాప్తవాన్ || 89"
     ],
     vicheda: [
-      "न पुत्र-मरणम् केचित् द्रक्ष्यन्ति पुरुषाः क्वचित् |",
-      "नार्यः च अ-विधवाः नित्यम् भविष्यन्ति पतिव्रताः ||"
+      "नन्दिग्रामे जटाम् हित्वा भ्रातृभिः सहितः अनघः",
+      "रामः सीताम् अनुप्राप्य राज्यम् पुनः अवाप्तवान्"
     ],
     anvaya: [
-      "पुरुषाः क्वचित् केचित् पुत्रमरणं न द्रक्ष्यन्ति, नार्यः च नित्यम् अविधवाः पतिव्रताः भविष्यन्ति ||"
+      "अनघः रामः नन्दिग्रामे जटाम् हित्वा भ्रातृभिः सहितः (सन्), सीताम् अनुप्राप्य राज्यम् पुनः अवाप्तवान् ||"
     ],
     prose: [],
     transl: [
-      "Parents never had to experience the crushing agony of outliving their children anywhere in the kingdom. Women lived long, fulfilling lives with their spouses, remaining safe from early widowhood and anchored in mutual marital devotion."
+      "Having shed his matted ascetic hair at Nandigrama, the sinless Rama, united with his brothers and having successfully recovered Sita, reclaimed his rightful kingdom once again."
     ],
     transl_tel: [
-      "ఆ రాజ్యంలో ఏ తండ్రి కూడా తన కొడుకు అకాల మరణాన్ని చూసే పరిస్థితి రాలేదు. స్త్రీలు దీర్ఘసుమంగళిలుగా, పతివ్రతలుగా ఎంతో వైభవంగా జీవించారు."
+      "నందిగ్రామంలో తన జటలను తొలగించుకున్న నిష్పాపుడైన ఆ శ్రీరాముడు, తన తమ్ములందరితో కలిసి, సీతాదేవిని సమేతంగా పొంది, తన స్వంత రాజ్యాన్ని మరల హస్తగతం చేసుకున్నాడు (పట్టాభిషిక్తుడైనాడు)."
     ],
     essence: [
-      "In this harmonious society, the natural order of life is fully respected: the old pass away before the young, meaning no father has to mourn his son's funeral. Families stay intact, and women enjoy stable, loving households, free from the social and emotional hardships of sudden widowhood."
+      "Arriving at Nandigrama, Rama meets his brother Bharata in a deeply emotional reunion. Marking the official end of their fourteen-year vow of forest exile, Rama, Lakshmana, and Bharata shave off their matted ascetic hair (*jatam hitva*) and bathe in holy waters. Stepping out of their hermit attire into royal vestments, they enter Ayodhya in a grand procession. Surrounded by his devoted brothers and his faithful queen Sita, the flawless, sinless Rama formally ascends the throne, reclaiming his sovereign duty over the Kosala Empire."
     ],
     meanings: [
-      "न = Never",
-      "पुत्र-मरणम् = Death of a son / Offspring before parents",
-      "केचित् = Anyone / Whosoever",
-      "द्रक्ष्यन्ति = Will see / Witness",
-      "पुरुषाः = Men / Parents",
-      "क्वचित् = Anywhere / At any time",
-      "नार्यः = Women",
-      "च = And",
-      "अ-विधवाः = Free from widowhood / Spouses alive",
-      "नित्यम् = Constantly / Always",
-      "भविष्यन्ति = Will remain / Become",
-      "पतिव्रताः = Devoted to their husbands"
+      "नन्दिग्रामे = In the village of Nandigrama",
+      "जటाम् = Matted hair (worn during ascetic exile)",
+      "हित्वा = Having shed / abandoned / shaved off",
+      "भ्रातृभिः = With his brothers (Lakshmana, Bharata, and Shatrughna)",
+      "सहितः = Together with / united with",
+      "अनघः = The sinless / blameless / faultless one",
+      "रामः = Rama",
+      "सीताम् = Sita",
+      "अनुप्राप्य = Having safely recovered / regained",
+      "राज्यम् = The kingdom / sovereignty",
+      "पुनः = Again / back",
+      "अवाप्तवान् = Reclaimed / obtained / acquired"
     ],
     grammar: [],
     notes: [
-      "The absence of *putra-maranam* (outliving one's child) was considered the ultimate sign of a balanced cosmic order (*Dharma*). It represents a society completely free from unnatural tragedies."
+      "The adjective 'anaghah' (sinless/pure) underscores that despite years in the wilderness, the stain of killing enemies in war, and the heavy trials of public scrutiny, Rama's character remains pristine. Shaving the 'jata' represents the physical and symbolic transition from a woodland hermit back to a royal sovereign ready to establish righteous governance."
     ]
   },
   {
