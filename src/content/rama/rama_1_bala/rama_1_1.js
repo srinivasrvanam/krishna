@@ -3200,45 +3200,47 @@ const verses = [
     chapter: 1,
     number: 63,
     sloka: [
-      "उद्विक्ष्या महाबाहुः प्रेक्ष्य च अस्थि महाबलः |",
-      "पादाङ्गुष्ठेन चिक्षेप पादशैलं दशायोजनम् ||"
+      "प्रतिज्ञातं च रामेण तदा वालिवधं प्रति || 62b",
+      "वालिनश्च बलं तत्र कथयामास वानरः | 63a"
     ],
     sloka_tel: [
-      "ఉద్విక్ష్యా మహాబాహుః ప్రేక్ష్య చ అస్థి మహాబలః |",
-      "పాదంగుష్ఠేన చిక్షేప పాదశైలం దశాయోజనమ్ ||"
+      "ప్రతిజ్ఞాతం చ రామేణ తదా వాలివధం ప్రతి || 62b",
+      "వాలినశ్చ బలం తత్ర కథయామాస వానరః | 63a"
     ],
     vicheda: [
-      "उद्विक्ष्या महा-बाहुः प्रेक्ष्य च अस्थि महा-बलः |",
-      "पाद-अङ्गुष्ठेन चिक्षेप पाद-शैलम् दशल-योजनम् ||"
+      "प्रतिज्ञातम् च रामेण तदा वालि-वधम् प्रति",
+      "वालिनः च बलम् तत्र कथयामास वानरः"
     ],
     anvaya: [
-      "महाबाहुः महाबलः (रामः) अस्थि प्रेक्ष्य उद्विक्ष्या च, पादाङ्गुष्ठेन पादशैलं दशायोजनम् चिक्षेप ||"
+      "तदा रामेण वालिवधम् प्रति प्रतिज्ञातम् च; तत्र वानरः वालिनः बलम् च कथयामास ||"
     ],
     prose: [],
     transl: [
-      "Glancing casually at the colossal heap of bones, the mighty-armed, immensely powerful Rama smiled, flicked his big toe, and effortlessly kicked the heavy, mountain-sized skeleton a staggering distance of eighty miles."
+      "At that moment, Rama solemnly vowed to execute the slaying of Vali. Hearing this, the vanara Sugriva began describing the extraordinary prowess and unmatched strength of Vali to him."
     ],
     transl_tel: [
-      "మహాబాహువు, మహాబలశాలియైన రాముడు ఆ ఎముకల కుప్పను చూసి, నవ్వుతూ తన కాలి బొటనవేలితో దాన్ని అలా మీటాడు. అంతే, ఆ కొండంత కళేబరం పది యోజనాల (సుమారు 80 మైళ్ళ) దూరంలో పడేలా ఎగిరిపోయింది."
+      "ఆ సమయంలో శ్రీరాముడు వాలిని సంహరిస్తానని పవిత్రమైన ప్రతిజ్ఞ చేశాడు. ఆ మాట విన్న వానరుడైన సుగ్రీవుడు, వాలికి గల అసమానమైన శారీరక బలాన్ని, పరాక్రమాన్ని రామునికి వివరంగా వివరించడం ప్రారంభించాడు."
     ],
     essence: [
-      "Without breaking a sweat or even drawing his bow, Rama looks at the massive carcass that Sugriva feared so much. He nudges the mountain of bones with his big toe and launches it clean across the horizon, landing it ten yojanas (about 80 miles) away. This nonchalant display of raw strength leaves the monkeys awestruck."
+      "As soon as Sugriva finishes recounting the injustices he suffered, Rama—acting as a true friend and a righteous protector—gives his word that he will eliminate Vali. While deeply reassured by Rama's vow (*Pratijnatam*), Sugriva is also anxious. He knows Vali possesses terrifying, borderline supernatural strength. To ensure Rama isn't underestimating the enemy, Sugriva candidly outlines Vali's fearsome military achievements and power."
     ],
     meanings: [
-      "उद्विक्ष्या = Looking at / Glancing up",
-      "महा-बाहुः = Mighty-armed one",
-      "प्रेक्ष्य = Having examined / Observed",
+      "प्रतिज्ञातम् = Solemnly vowed / Promised",
       "च = And",
-      "अस्थि = The bones / Carcass",
-      "महा-बलः = Intensely powerful Rama",
-      "पाद-अङ्गुष्ठेन = With the big toe of his foot",
-      "चिक्षेप = Hurled / Threw away",
-      "पाद-शैलम् = Like a small hill / Boulder weight",
-      "दश-योजनम् = Ten yojanas distance (1 yojana = ~8 miles)"
+      "रामेण = By Rama",
+      "तदा = Then / At that moment",
+      "वालि-वधम् = The slaying of Vali",
+      "प्रति = Regarding / Concerning",
+      "वालिनः = Of Vali",
+      "च = And",
+      "बलम् = The physical might / Strength",
+      "तत्र = There / In that context",
+      "कथयामास = Described / Narrated",
+      "वानरः = The vanara (Sugriva)"
     ],
     grammar: [],
     notes: [
-      "While Vali had thrown Dundubhi's fresh body when it had flesh and weight, Rama kicks the completely dried, light skeleton. Sugriva notes this distinction in the upcoming dialogue, showing that while Rama's feat is incredible, he needs to see a display of weapon accuracy and piercing power to match Vali's living strength."
+      "The phrase 'valivadham prati pratijnatam' highlights Rama's decisive, unhesitating commitment to justice. Sugriva's subsequent anxiety and detailed account of Vali's power serve as a narrative buildup, setting up the legendary feats of strength Rama will soon perform to win his ally's absolute confidence."
     ]
   },
   {
