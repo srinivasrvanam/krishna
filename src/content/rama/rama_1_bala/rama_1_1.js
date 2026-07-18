@@ -3624,46 +3624,44 @@ const verses = [
     chapter: 1,
     number: 72,
     sloka: [
-      "निवेदयित्वा अभिज्ञानं प्रवृत्तिं च निवेद्य च |",
-      "समाश्वास्य च वैदेहीं मर्दयामास तोरणम् ||"
+      "ततो गृध्रस्य वचनात्सम्पातेेर्हनुमान् बली |",
+      "शतयोजनविस्तीर्णं पुप्लुवे लवणार्णवम् || 72"
     ],
     sloka_tel: [
-      "నివేదయిత్వా అభిజ్ఞానం ప్రవృత్తిం చ నివేద్య చ |",
-      "సమాశ్వాస్య చ వైదేహీం మర్దయామాస తోరణమ్ ||"
+      "తతో గృధ్రస్య వచనాత్సమ్పాతేేర్హనుమాన్ బలీ |",
+      "శతయోజనవిస్తీర్ణం పుప్లువే లవణార్ణవమ్ || 72"
     ],
     vicheda: [
-      "निवेदयित्वा अभिज्ञानम् प्रवृत्तिकम् च निवेद्य च |",
-      "समाश्वास्य च वैदेहीम् मर्दयामास तोरणम् ||"
+      "ततः गृध्रस्य वचनात् सम्पातेः हनुमान् बली",
+      "शत-योजन-विस्तीर्णम् पुप्लुवे लवण-अर्णवम्"
     ],
     anvaya: [
-      "अभिज्ञानम् निवेदयित्वा प्रवृत्तिं च निवेद्य च, वैदेहीं समाश्वास्य च (हनुमान्) तोरणम् मर्दयामास ||"
+      "ततः बली हनुमान् गृध्रस्य सम्पातेः वचनात् शतयोजनविस्तीर्णम् लवणार्णवम् पुप्लुवे ||"
     ],
     prose: [],
     transl: [
-      "Presenting Rama’s signet ring as proof of identity and conveying his welfare, Hanuman comforted the grieving princess of Videha. He then went on to aggressively shatter the main ceremonial gateway of the grove."
+      "Thereafter, acting upon the precise words of the vulture Sampati, the exceptionally powerful Hanuman leaped across the salt ocean, which spanned a vast distance of eight hundred miles."
     ],
     transl_tel: [
-      "రాముని ముద్రికను (ఉంగరాన్ని) ఇచ్చి, రాముని క్షేమ సమాచారాన్ని తెలియజేసి, సీతాదేవికి ధైర్యం చెప్పాడు. ఆ తర్వాత హనుమంతుడు ఆ వనంలోని ప్రధాన తోరణాన్ని (ద్వారాన్ని) ధ్వంసం చేశాడు."
+      "ఆ తర్వాత, గృధ్రరాజైన సంపాతి చెప్పిన మాటల ఆధారంగా, మహాబలశాలియైన హనుమంతుడు వంద యోజనముల వెడల్పు (దాదాపు ఎనిమిది వందల మైళ్లు) గల ఆ లవణ సముద్రాన్ని లంఘించాడు (దాటాడు)."
     ],
     essence: [
-      "Hanuman approaches Sita delicately, singing Rama's praises to win her trust. He gives her Rama’s signet ring (*Abhigyanam*) and describes Rama's sorrow and plans to save her. Having reassured her, Hanuman decides to test Lanka’s military strength before leaving, systematically destroying the pristine Ashoka grove and its massive arches."
+      "When the southern search party hits a dead end at the edge of the southern ocean, they encounter the old vulture King Sampati. Blessed with far-reaching telescopic vision, Sampati informs them that Sita is captive across the sea in Lanka. Reassured by this definite intelligence and awakening to his own divine latent strength, the mighty Hanuman takes a colossal leap directly across the expansive salt sea to find her."
     ],
     meanings: [
-      "निवेदयित्वा = Having presented / Given",
-      "अभिज्ञानम् = Token of recognition / Signet ring",
-      "प्रवृत्तिम् = News / Report of welfare",
-      "च = And",
-      "निवेद्य = Having narrated / Detailed",
-      "च = And",
-      "समाश्वास्य = Having consoled / Reassured",
-      "च = And",
-      "वैदेहीम् = Sita (Princess of Videha)",
-      "मर्दयामास = Crushed / Smashed down",
-      "तोरणम् = The monumental gateway / Arched entrance"
+      "ततः = Thereafter / Then",
+      "गृध्रस्य = Of the vulture",
+      "वचनात् = By the words / Counsel",
+      "सम्पातेः = Of Sampati",
+      "हनुमान् = Hanuman",
+      "बली = The powerful one",
+      "शत-योजन-विस्तीर्णम् = Spanning a width of one hundred yojanas (roughly 800 miles)",
+      "पुप्लुवे = Leaped across / Crossed over",
+      "लवण-अर्णवम् = The salt ocean"
     ],
     grammar: [],
     notes: [
-      "Hanuman transitions smoothly from a gentle, soft-spoken envoy (*Dootha*) comforting a traumatized queen to an unstoppable, aggressive warrior (*Veera*) laying waste to the tyrant's playground."
+      "The term 'Sata-yojana-vistirnam' gives the exact epic dimension of the channel separating mainland India from Lanka. One yojana is conventionally taken to be around 8 miles, making the leap a staggering 800-mile journey. This spectacular feat marks the grand transition from the Kishkindha Kanda into the Sundara Kanda."
     ]
   },
   {
