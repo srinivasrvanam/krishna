@@ -3012,50 +3012,45 @@ const verses = [
     chapter: 1,
     number: 59,
     sloka: [
-      "सुग्रीवश्चापि तत्सर्वं श्रुत्वा रामस्य वानरः |",
-      "चकार सख्यं रामेण प्रीतश्चैवाग्निसाक्षिकम् ||"
+      "पम्पातीरे हनुमता सङ्गतो वानरेण ह || 58b",
+      "हनुमद्वचनाच्चैव सुग्रीवेण समागतः | 59a"
     ],
     sloka_tel: [
-      "సుగ్రీవశ్చాపి తత్సర్వం శ్రుత్వా రామస్య వానరః |",
-      "చకార సఖ్యం రామేణ ప్రీతశ్చైవాగ్నిసాక్షికమ్ ||"
+      "పమ్పాతీరే హనుమతా సఙ్గతో వానరేణ హ || 58b",
+      "హనుమద్వచనాచ్చైవ సుగ్రీవేణ సమాగతః | 59a"
     ],
     vicheda: [
-      "सुग्रीवः च अपि तत् सर्वम् श्रुत्वा रामस्य वानरः |",
-      "चकार सख्यम् रामेण प्रीतः च एव अग्नि-साक्षिकम् ||"
+      "पम्पा-तीरे हनुमता सङ्गतः वानरेण ह",
+      "हनुमत्-वचनात् च एव सुग्रीवेण समागतः"
     ],
     anvaya: [
-      "वानरः सुग्रीवः च अपि रामस्य तत् सर्वम् श्रुत्वा, प्रीतः च एव रामेण सह अग्निसाक्षिकम् सख्यम् चकार ||"
+      "(सः रामः) पम्पातीरे वानरेण हनुमता सङ्गतः ह, हनुमद्वचनात् च एव सुग्रीवेण समागतः ||"
     ],
     prose: [],
     transl: [
-      "After listening to Rama's deeply moving story, the Vanara leader Sugriva, filled with empathy and joy, sealed an unbending bond of friendship with Rama before a sacred fire."
+      "On the banks of the Pampa Lake, Rama met with the vanara Hanuman. Thereafter, through the mediation and reassuring words of Hanuman, he formed a solemn alliance with Sugriva."
     ],
     transl_tel: [
-      "రాముని కథనంతా విన్న వానరుడైన సుగ్రీవుడు, ఎంతో సంతోషంతో రామునితో అగ్ని సాక్షిగా స్నేహాన్ని ప్రమాణం చేసుకున్నాడు."
+      "పంపా సరోవర తీరమున శ్రీరాముడు వానరుడైన హనుమంతుని కలుసుకున్నాడు. ఆపై ఆ హనుమంతుని మాటల ద్వారా, అతని మధ్యవర్తిత్వము వలన సుగ్రీవునితో స్నేహ సమాగమము (సంధి) కుదుర్చుకున్నాడు."
     ],
     essence: [
-      "Hearing Rama's story, Sugriva pledges his complete support. To solidify their alliance, Hanuman lights a sacred fire. Walking around the flames together, Rama and Sugriva form a solemn pact (*Agni-Sakshikam*), swearing to stand by each other as brothers and treat each other's joys and sorrows as their own."
+      "Moving further south to the scenic banks of Lake Pampa, Rama encounters Hanuman, the minister of the exiled vanara king Sugriva. Sent to gauge the identity of the two heroic archers, Hanuman's flawless speech wins Rama's absolute trust. Recognizing their shared plight, Hanuman acts as the bridge, introducing Rama to Sugriva and setting the stage for a mutually beneficial historic alliance."
     ],
     meanings: [
-      "सुग्रीवः = Sugriva",
+      "पम्पा-तीरे = On the banks of Lake Pampa",
+      "हनुमता = With Hanuman",
+      "सङ्गतः = Met / Came together",
+      "वानरेण = With the vanara (monkey warrior)",
+      "ह = Indeed (historical past marker)",
+      "हनुमत्-वचनात् = Due to the words / Persuasion of Hanuman",
       "च = And",
-      "अपि = Also",
-      "तत् = That",
-      "सर्वम् = All",
-      "श्रुत्वा = Having heard",
-      "रामस्य = Of Rama (his story)",
-      "वानरः = The Vanara / Monkey chief",
-      "चकार = Made / Concluded",
-      "सख्यम् = Friendship / Alliance",
-      "रामेण = With Rama",
-      "प्रीतः = Pleased / Affectionate",
-      "च = And",
-      "एव = Truly",
-      "अग्नि-साक्षिकम् = With the sacred fire as witness"
+      "एव = Verily",
+      "सुग्रीवेण = With Sugriva",
+      "समागतः = Was brought together / Entered into alliance"
     ],
     grammar: [],
     notes: [
-      "An alliance sealed with fire (*Agni-Sakshikam*) is an absolute commitment in ancient tradition. By invoking fire—a symbol of purity and truth—their partnership evolves into a sacred brotherhood that cannot be broken by convenience or fear."
+      "The meeting on the banks of Pampa is monumental, introducing Hanuman—who becomes the ideal epitome of devotion (Bhakti)—into Rama's life. The phrase 'hanumadvacanat' highlights Hanuman's masterful diplomacy and eloquence, which instantly dispelled Sugriva's paranoia and brought the two great heroes together."
     ]
   },
   {
