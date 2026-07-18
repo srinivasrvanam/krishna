@@ -4648,45 +4648,46 @@ const verses = [
     chapter: 1,
     number: 96,
     sloka: [
-      "इदं पवित्रं पापहरं पुण्यं वेदिसम्मितम् |",
-      "यः पठेद्रामचरितं सर्वपापैः प्रमुच्यते ||"
+      "राजवंशान् शतगुणान् स्थापयिष्यति राघवः |",
+      "चातुर्वर्ण्यं च लोकेऽस्मिन् स्वे स्वे धर्मे नियोक्ष्यति || 96"
     ],
     sloka_tel: [
-      "ఇదం పవిత్రం పాపహరం పుణ్యం వేదిసమ్మితమ్ |",
-      "యః పఠేద్రామచరితం సర్వపాపైః ప్రముచ్యతే ||"
+      "రాజవంశాన్ శతగుణాన్ స్థాపయిష్యతి రాఘవః |",
+      "చాతుర్వర్ణ్యం చ లోకేఽస్మిన్ స్వే స్వే ధర్మే నియోక్ష్యతి || 96"
     ],
     vicheda: [
-      "इदम् पवित्रम् पाप-हरम् पुण्यम् वेदि-सम्मितम् |",
-      "यः पठेत् राम-चरितम् सर्व-पापैः प्रमुच्यते ||"
+      "राजवंशान् शत-गुणान् स्थापयिष्यति राघवः",
+      "चातुर्वर्ण्यम् च लोके अस्मिन् स्वे स्वे धर्मे नियोक्ष्यति"
     ],
     anvaya: [
-      "पवित्रम् पापहरम् पुण्यम् वेदिसम्मितम् इदम् रामचरितं यः पठेत्, सः सर्वपापैः प्रमुच्यते ||"
+      "राघवः राजवंशान् शतगुणान् स्थापयिष्यति, अस्मिन् लोके चातुर्वर्ण्यम् च स्वे स्वे धर्मे नियोक्ष्यति ||"
     ],
     prose: [],
     transl: [
-      "This epic account of Rama's life is deeply purifying, cleanses all sins, confers vast spiritual merit, and holds equal status with the sacred Vedas. Anyone who reads this chronicle is completely liberated from all spiritual taints."
+      "The descendant of Raghu (Rama) will establish royal dynasties a hundredfold more illustrious than before, and he will anchor the people of all four social orders in this world firmly within their respective duties."
     ],
     transl_tel: [
-      "అత్యంత పవిత్రమైనది, పాపాలను హరించేది, పుణ్యప్రదమైనది, వేదాలతో సమానమైనది అయిన ఈ రామచరిత్రాన్ని (రామాయణాన్ని) ఎవరు చదువుతారో, వారు సమస్త పాపాల నుండి విముక్తులవుతారు."
+      "రఘువంశతిలకుడైన శ్రీరాముడు క్షత్రియ వంశాలను మునుపటి కంటే వందరెట్లు మిన్నగా వైభవంతో ప్రతిష్ఠింపజేస్తాడు. అంతేకాక, ఈ లోకంలోని నాలుగు వర్ణాల ప్రజలను వారి వారి స్వధర్మాలలో (కర్తవ్యాలలో) నిలకడగా ఉండేలా నియమిస్తాడు."
     ],
     essence: [
-      "This verse begins the *Phalasruti*. Narada guarantees that the Ramayana isn't just an entertaining historical story; it carries intense spiritual weight. Immersing your mind in Rama’s struggles, choices, and virtues acts as a deep inner reset, washing away accumulated negative mental conditioning (*papam*)."
+      "This verse transitions into the prophetic phase of Narada's narration, using future-tense verbs (*sthapayishyati*, *niyokshyati*) because Narada is describing Rama's ongoing and future reign to Valmiki. Rama ensures that geopolitical stability is maintained by installing and supporting a multitude of righteous regional rulers. Furthermore, he preserves societal harmony by encouraging all four social classes to perform their natural duties (*svadharma*) ethically, preventing administrative decay and social chaos."
     ],
     meanings: [
-      "इदम् = This",
-      "पवित्रम् = Highly sacred / Purifying",
-      "पाप-हरम् = Destroyer of sins / Faults",
-      "पुण्यम् = Merit-yielding / Virtuous",
-      "वेदि-सम्मितम् = Equal in authority and value to the Vedas",
-      "यः = Whoever",
-      "पठेत् = Reads / Studies",
-      "राम-चरितम् = The biography/deeds of Rama",
-      "सर्व-पापैः = From all accumulated sins",
-      "प्रमुच्यते = Is thoroughly liberated"
+      "राजवंशान् = The royal lines / dynasties",
+      "शत-गुणान् = A hundredfold (vastly more prosperous/stable)",
+      "स्थापयिष्यति = Will establish / reinstate / secure",
+      "राघवः = Rama (descendant of Raghu)",
+      "चातुर्वर्ण्यम् = The four social orders / divisions of labor",
+      "च = And",
+      "लोके = In the world",
+      "अस्मिन् = In this",
+      "स्वे स्वे = Each in their own respective",
+      "धर्मे = In duty / righteousness / vocation",
+      "नियोक्ष्यति = Will engage / employ / anchor"
     ],
     grammar: [],
     notes: [
-      "The phrase *veda-sammitam* tells us that while the abstract Vedas can be difficult for the average person to grasp, the Ramayana packages those exact same ultimate truths into an accessible, deeply moving human story."
+      "The phrase 'sve sve dharme niyokshyati' underlines the core Vedic principle of *Svadharma*. In this context, it signifies an ideal state of governance where citizens do not suffer from systemic identity crises or professional exploitation; instead, they are empowered to peacefully fulfill the social and ethical duties aligned with their natural aptitude, maintaining cosmic balance."
     ]
   },
   {
