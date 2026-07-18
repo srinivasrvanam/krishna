@@ -2855,46 +2855,56 @@ const verses = [
     chapter: 1,
     number: 55,
     sloka: [
-      "स च अस्मान् कथयामास शबरीं धर्मचारिणीम् |",
-      "श्रमणीं धर्मनिपुणां अभिगच्छेति राघव ||"
+      "ततस्तेनैव शोकेन गृध्रं दग्ध्वा जटायुषम् || 54b",
+      "मार्गमाणो वने सीतां राक्षसं संददर्श ह |",
+      "कबन्धं नाम रूपेण विकृतं घोरदर्शनम् || 55"
     ],
     sloka_tel: [
-      "స చ అస్మాన్ కథయామాస శబరీం ధర్మచారిణీమ్ |",
-      "శ్రమణీం ధర్మనిపుణాం అభిగచ్ఛేతి రాఘవ ||"
+      "తతస్తేనైవ శోకేన గృధ్రం దగ్ధ్వా జటాయుషమ్ || 54b",
+      "మార్గమాణో వనే సీతాం రాక్షసం సందదర్శ హ |",
+      "కబంధం నామ రూపేణ వికృతం ఘోరదర్శనమ్ || 55"
     ],
     vicheda: [
-      "सः च अस्मात् कथयामास शबरीम् धर्म-चारिणीम् |",
-      "श्रमणीम् धर्म-निपुणाम् अभिगच्छ इति राघव ||"
+      "ततः तेन एव शोकेन गृध्रम् दग्ध्वा जटायुषम्",
+      "मार्गमाणः वने सीताम् राक्षसम् सन्ददर्श ह",
+      "कबन्धम् नाम रूपेण विकृतम् घोर-दर्शनम्"
     ],
     anvaya: [
-      "राघव! सः च अस्मात् (रामाय) 'धर्मचारिणीम् श्रमणीम् धर्मनिपुणां शबरीम् अभिगच्छ' इति कथयामास ||"
+      "ततः तेन एव शोकेन जटायुषम् गृध्रम् दग्ध्वा वने सीताम् मार्गमाणः (सः), रूपेण विकृतम् घोरदर्शनम् कबन्धम् नाम राक्षसम् सन्ददर्श ह ||"
     ],
     prose: [],
     transl: [
-      "Before his departure, he advised Rama, saying: 'O Scion of the Raghu dynasty! Travel forward and meet Sabari, a deeply pious female ascetic who is fully anchored in righteousness and spiritual discipline.'"
+      "Thereafter, performing the funeral rites and cremating the vulture Jatayu while still immersed in that profound grief, Rama continued searching for Sita in the forest. During his search, he encountered a demon named Kabandha, who was horribly misshapen in form and terrifying to behold."
     ],
     transl_tel: [
-      "ఆ కబంధుడు వెళ్తూ రామునితో ఇలా అన్నాడు: 'ఓ రాఘవా! నువ్వు ఇక్కడికి దగ్గరలోనే ఉన్న, ధర్మాన్ని ఆచరించేది, తపస్విని, సర్వధర్మ నిపుణురాలు అయిన శబరిని దర్శించుకో'."
+      "ఆ పిమ్మట, అదే తీవ్ర దుఃఖంతో పక్షిరాజు జటాయువుకు అంత్యక్రియలు నిర్వహించి, దహన సంస్కారాలు పూర్తి చేసిన తర్వాత, శ్రీరాముడు అడవిలో సీతాదేవి కోసం వెతకడం ప్రారంభించాడు. ఆ సమయంలో, వికృతమైన ఆకారం కలిగి, చూడటానికే అత్యంత భయంకరంగా ఉన్న 'కబంధుడు' అనే రాక్షసుడు ఆయనకు ఎదురయ్యాడు."
     ],
     essence: [
-      "As a parting piece of guidance, the liberated celestial tells Rama to seek out Sabari. She is a dedicated, elderly female hermit living nearby on the banks of Lake Pampa. He assures Rama that her spiritual wisdom and devotion will help guide him along the next path of his journey."
+      "Despite his overwhelming sorrow, Rama honors Jatayu by performing his last rites as if he were his own father—a rare privilege reflecting Jatayu's nobility. As the brothers press onward into the deep wilderness of the Krauncha forest looking for Sita, they come face-to-face with Kabandha, a bizarre, headless creature with eyes in his chest and massive arms, marking their first major encounter in the wilderness post-abduction."
     ],
     meanings: [
-      "सः = He (Kabandha)",
-      "च = And",
-      "अस्मात् = From that place / Situation (carrying over to advice)",
-      "कथयामास = Spoke / Directed",
-      "शबरीम् = Sabari",
-      "धर्म-charini-m = One who walks the path of righteousness",
-      "श्रमणीम् = An ascetic woman / Hermit",
-      "धर्म-निपुणाम् = Highly expert / Skilled in spiritual duties",
-      "अभिगच्छ = Go forward to meet / Approach",
-      "इति = Thus",
-      "राघव = O Rama (descendant of Raghu)"
+      "ततः = Thereafter / Then",
+      "तेन = With that",
+      "एव = Very / Indeed",
+      "शोकेन = With grief",
+      "गृध्रम् = The vulture",
+      "दग्ध्वा = Having cremated / Given a fiery burial",
+      "जटायुषम् = Jatayu",
+      "मार्गमाणः = While searching / Seeking",
+      "वने = In the forest",
+      "सीताम् = Sita",
+      "राक्षसम् = A demon",
+      "सन्ददर्श = Saw / Encountered",
+      "ह = Indeed (historical past marker)",
+      "कबन्धम् = Kabandha",
+      "नाम = Named / Known as",
+      "रूपेण = In bodily form",
+      "विकृतम् = Deformed / Disfigured / Misshapen",
+      "घोर-दर्शनम् = Terrifying to behold / Frightening look"
     ],
     grammar: [],
     notes: [
-      "The mention of Sabari as 'Shramani' and 'Dharma-nipuna' highlights that true spiritual attainment is judged solely by one's purity of character and devotion, completely independent of social status, gender, or birth."
+      "The cremation of Jatayu ('gridhram dagdhva') is a profound moment highlighting Rama's deep gratitude and righteousness. Kabandha's entry marks a transitional phase; though a terrifying obstacle initially, his defeat and subsequent liberation will provide Rama with the vital clue to seek alliance with Sugriva."
     ]
   },
   {
