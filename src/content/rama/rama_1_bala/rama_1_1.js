@@ -4737,52 +4737,47 @@ const verses = [
     chapter: 1,
     number: 98,
     sloka: [
-      "पठन् द्विजो वागृषभत्वमीयात् स्यात्क्षत्रियो भूमिपतित्वमीयात् |",
-      "वणिक्जनः पण्यफलत्वमीयात् जनश्च शूद्रोऽपि महत्त्वमीयात् ||"
+      "इदं पवित्रं पापघ्नं पुण्यं वेदैश्च सम्मितम् |",
+      "यः पठेद्रामचरितं सर्वपापैः प्रमुच्यते || 98"
     ],
     sloka_tel: [
-      "పఠన్ ద్విజో వాగృషభత్వమీయాత్ స్యాత్క్షత్రియో భూమిపతిత్వమీయాత్ |",
-      "వణిక్జనః పణ్యఫలత్వమీయాత్ జనశ్చ శూద్రోఽపి మహత్త్వమీయాత్ ||"
+      "ఇదం పవిత్రం పాపఘ్నం పుణ్యం వేదైశ్చ సమ్మితమ్ |",
+      "యః పఠేద్రామచరితం సర్వపాపైః ప్రముచ్యతే || 98"
     ],
     vicheda: [
-      "पठन् द्विजः वाक्-ऋषभत्वम् ईयात् स्यात् क्षत्रियः भूमि-पतित्वम् ईयात् |",
-      "वणिक्-जनः पण्य-फलत्वम् ईयात् जनः च शूद्रः अपि महत्त्वम् ईयात् ||"
+      "इदम् पवित्रम् पाप-घ्नम् पुण्यम् वेदैः च सम्मितम्",
+      "यः पठेत् राम-चरितम् सर्व-पापैः प्रमुच्यते"
     ],
     anvaya: [
-      "(इदम्) पठन् द्विजः वागृषभत्वम् ईयात्, क्षत्रियः स्यात् (चेत्) भूमिपतित्वम् ईयात्, वणिक्जनः पण्यफलत्वम् ईयात्, शूद्रः जनः च अपि महत्त्वम् ईयात् ||"
+      "पवित्रम्, पापघ्नम्, पुण्यम्, वेदैः च सम्मितम् इदम् रामचरितम् यः पठेत्, (सः) सर्वपापैः प्रमुच्यते ||"
     ],
     prose: [],
     transl: [
-      "By studying this text, a scholar attains mastery over speech and wisdom; a warrior achieves true leadership and sovereignty over land; a merchant secures abundant prosperity in trade; and any common citizen gains profound personal dignity and greatness."
+      "Whoever reads this sacred, sin-destroying, and merit-bestowing biography of Rama, which is equal in authority and virtue to the holy Vedas themselves, is entirely liberated from all sins."
     ],
     transl_tel: [
-      "ఈ గ్రంథాన్ని చదవడం వల్ల బ్రాహ్మణుడు వాగ్ధాటిని (జ్ఞానాన్ని), క్షత్రియుడు భూమిపై అధికారాన్ని (నాయకత్వాన్ని), వైశ్యుడు వ్యాపార లాభాలను, శూద్రుడు సమాజంలో గొప్ప గౌరవాన్ని, ఉన్నత స్థానాన్ని పొందుతారు."
+      "పరమ పవిత్రమైనది, పాపాలను నశింపజేసేది, పుణ్యప్రదమైనది మరియు వేదాలతో సమానమైన యోగ్యత కలిగినది అయిన ఈ శ్రీరామచరిత్రాన్ని (రామాయణాన్ని) ఎవరైతే భక్తితో పఠిస్తారో, వారు సమస్త పాపాల నుండి సంపూర్ణంగా విముక్తులవుతారు."
     ],
     essence: [
-      "The Ramayana unlocks whatever excellence is relevant to your specific path in life. It doesn't use a one-size-fits-all approach. It gives teachers eloquence, gives leaders administrative strength, gives entrepreneurs success, and gives every working citizen a deep sense of purpose, self-worth, and honor."
+      "This verse begins the Phalasruti (recital of benefits) section of the introductory chapter. Sage Narada declares that the narrative of Rama's life is not mere mundane literature or poetry; it is a spiritual cleanser. Because Rama lived as the embodiment of Vedic truth, his life chronicle possesses the same spiritual weight as the Vedas (*vedaishcha sammitam*). Engaging with this text by reading, listening, or contemplating it removes karmic baggage and purifies the human subconscious."
     ],
     meanings: [
-      "पठन् = Reading / Studying",
-      "द्विजः = A Brahmin / Intellectual / Scholar",
-      "वाक्-ऋषभत्वम् = Supreme mastery over speech and eloquence",
-      "ईयात् = Attains / Reaches",
-      "स्यात् = If he be",
-      "क्षत्रियः = A Kshatriya / Warrior / Administrator",
-      "भूमि-पतित्वम् = Rulership / Sovereignty over land",
-      "ईयात् = Gains",
-      "वणिक्-जनः = A merchant / Trader / Entrepreneur",
-      "पण्य-फलत्वम् = Generous profits and success in trade",
-      "ईयात् = reaps",
-      "जनः = Person",
+      "इदम् = This",
+      "पवित्रम् = Sacred / purifying agent",
+      "पाप-घ्नम् = Destroyer of sins / negative karma",
+      "पुण्यम् = Meritorious / virtue-bestowing",
+      "वेदैः = With the four Vedas",
       "च = And",
-      "शूद्रः = A Shudra / Working class citizen",
-      "अपि = Even",
-      "महत्त्वम् = Greatness / High social dignity",
-      "ईयात् = Attains"
+      "सम्मितम् = Equal to / matching in measure and status",
+      "यः = Whoever",
+      "पठेत् = Reads / recites with devotion",
+      "राम-चरितम् = The biography/chronicle of Rama's journey",
+      "सर्व-पापैः = From all sins / moral failings",
+      "प्रमुच्यते = Is thoroughly liberated / freed"
     ],
     grammar: [],
     notes: [
-      "This verse shows the broad, inclusive nature of the epic. It openly declares that the text belongs to everyone, and its blessings adapt perfectly to uplift any person, regardless of their social or professional starting point."
+      "The compound 'vedaishcha sammitam' validates the traditional view of the Ramayana as the 'Upabrimhana'—the practical exposition that expands and exemplifies the cryptic truths of the Upanishads. It is famously said that when the Supreme Being took birth as the son of Dasaratha, the Vedas spontaneously manifested as the Ramayana through Sage Valmiki."
     ]
   },
   {
