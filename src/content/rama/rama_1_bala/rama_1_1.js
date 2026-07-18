@@ -3804,93 +3804,69 @@ const verses = [
   },
   {
     chapter: 1,
-    number: 76,
-    sloka: [
-      "सोऽभिगम्य महात्मानं कृत्वा प्रदक्षिणं राघवम् |",
-      "अवेदितवान् हर्षेण दृष्टा सीतेति तत्त्वतः ||"
-    ],
-    sloka_tel: [
-      "సోఽభిగమ్య మహాత్మానం కృత్వా ప్రదక్షిణం రాఘవమ్ |",
-      "అవేదితవాన్ హర్షేణ దృష్ట్వా సీతేతి తత్త్వతః ||"
-    ],
-    vicheda: [
-      "सः अभिगम्य महा-आत्मानम् कृत्वा प्रदक्षिणम् राघवम् |",
-      "अवेदितवान् हर्षेण दृष्टा सीता इति तत्त्वतः ||"
-    ],
-    anvaya: [
-      "सः महात्मानं राघवम् अभिगम्य प्रदक्षिणं कृत्वा, 'दृष्टा सीता' इति हर्षेण तत्त्वतः अवेदितवान् ||"
-    ],
-    prose: [],
-    transl: [
-      "Approaching the high-souled Rama, Hanuman reverently circled him clockwise and delivered the definitive, ecstatic report: 'Sita has been found exactly as she is!'"
-    ],
-    transl_tel: [
-      "ఆ హనుమంతుడు మహాత్ముడైన రాముని వద్దకు వచ్చి, ఆయనకు ప్రదక్షిణ చేసి, మిక్కిలి సంతోషంతో 'సీతమ్మను చూశాను' అని నిజాన్ని నివేదించాడు."
-    ],
-    essence: [
-      "Hanuman reunites with Rama on the mainland. He shows his respect by circumambulating (*Pradakshinam*) him. Brimming with joy, he delivers his concise, masterful report, choosing his words carefully so Rama instantly knows she is alive, safe, and faithful, relieving months of crushing anxiety."
-    ],
-    meanings: [
-      "सः = He (Hanuman)",
-      "अभिगम्य = Approaching / Reaching",
-      "महा-आत्मानम् = The great-souled / Noble one",
-      "कृत्वा = Having performed",
-      "प्रदक्षिणम् = Reverent circumambulation (clockwise turn)",
-      "राघवम् = Rama",
-      "अवेदितवान् = Formally announced / Disclosed",
-      "हर्षेण = With exuberant joy",
-      "दृष्टा = Has been seen / Found",
-      "सीता = Sita",
-      "इति = Thus",
-      "तत्त्वतः = Factually / Structurally precise without exaggeration"
-    ],
-    grammar: [],
-    notes: [
-      "In Sanskrit, Hanuman states *'Drishta Sita'* ('Seen is Sita') rather than *'Sita Drishta'* ('Sita is seen'). By leading with the verb 'Seen,' he ensures that the very first syllable Rama hears guarantees her safety, preventing Rama's heart from skipping a beat in suspense."
-    ]
-  },
-  {
-    chapter: 1,
     number: 77,
     sloka: [
-      "ततः सुग्रीवसहितो गत्वा तीरं महोदधेः |",
-      "समुद्रं क्षोभयामास शरैरादित्यसन्निभैः ||"
+      "अस्त्रेणोन्मुक्तमात्मानं ज्ञात्वा पैतामहाद्वरात् |",
+      "मर्षयन् राक्षसान् वीरो यन्त्रिणस्तान्यदृच्छया || 76",
+      "ततो दग्ध्वा पुरीं लङ्कामृते सीतां च मैथिलीम् |",
+      "रामाय प्रियमाख्यातुं पुनरायान्महाकपिः || 77"
     ],
     sloka_tel: [
-      "తతః సుగ్రీవసహితో గత్వా తీరం మహోదధేః |",
-      "సముద్రం క్షోభయామాస శరైరాదిత్యసన్నిభైః ||"
+      "అస్త్రేణోన్ముక్తమాత్మానం జ్ఞాత్వా పైతామహాద్వరాత్ |",
+      "మర్షయన్ రాక్షసాన్ వీరో యంత్రిణస్తాన్యదృచ్ఛయా || 76",
+      "తతో దగ్ధ్వా పురీం లఙ్కామృతే సీతాం చ మైథిలీమ్ |",
+      "రామాయ ప్రియమాఖ్యాతుం పునరాయాన్మహాకపిః || 77"
     ],
     vicheda: [
-      "ततः सुग्रीव-सहितः गत्वा तीरम् महा-उदधेः |",
-      "समुद्रम् क्षोभयामास शरैः आदित्य-सन्निभैः ||"
+      "अस्त्रेण उन्मुक्तम् आत्मानम् ज्ञात्वा पैतामहात् वरात्",
+      "मर्षयन् राक्षसान् वीरः यन्त्रिणः तान् यदृच्छया",
+      "ततः दग्ध्वा पुरीम् लङ्काम् ऋते सीताम् च मैथिलीम्",
+      "रामाय प्रियम् आख्यातुम् पुनः आयात् महा-कपिः"
     ],
     anvaya: [
-      "ततः (रामः) सुग्रीवसहितः महोदधेः तीरं गत्वा, आदित्यसन्निभैः शरैः समुद्रम् क्षोभयामास ||"
+      "वीरः (हनुमान्) पैतामहात् वरात् आत्मानम् अस्त्रेण उन्मुक्तम् ज्ञात्वा, यदृच्छया तान् यन्त्रिणः राक्षसान् मर्षयन्, ततः मैथिलीम् सीताम् ऋते लङ्काम् पुरीम् दग्ध्वा च, रामाय प्रियम् आख्यातुम् पुनः आयात् ||"
     ],
     prose: [],
     transl: [
-      "Accompanied by King Sugriva and the vast monkey army, Rama marched down to the edge of the great ocean. When the sea god refused to grant passage, Rama churned the waters with arrows as blazing as the sun."
+      "Knowing that he was freed from the weapon's binding due to a boon granted by Lord Brahma, the heroic Hanuman willingly tolerated those rakshasas who tied him up. Subsequently, after reducing the entire city of Lanka to ashes—sparing only the princess of Mithila, Sita—the great vanara returned to convey the joyous news to Rama."
     ],
     transl_tel: [
-      "ఆ తర్వాత రాముడు సుగ్రీవునితో కలిసి మహాసముద్ర తీరానికి చేరుకున్నాడు. సముద్రుడు దారి ఇవ్వకపోవడంతో, సూర్యుడితో సమానమైన తేజస్సు గల బాణాలతో ఆ సముద్రాన్ని కలవరపెట్టాడు (క్షోభింపజేశాడు)."
+      "బ్రహ్మదేవుడు ఇచ్చిన వరం వల్ల తాను ఆ బ్రహ్మాస్త్ర బంధనం నుండి విముక్తుడైనట్లు గ్రహించినప్పటికీ, ఆ శూరుడైన హనుమంతుడు తనను బంధించి ఈడ్చుకెళ్తున్న రాక్షసుల చేష్టలను లీలగా భరించాడు. ఆ తర్వాత, మిథిలాపురి రాజపుత్రి అయిన సీతాదేవి ఉన్న అశోకవనాన్ని మినహాయించి, మిగిలిన లంకా నగరాన్నంతటినీ దహనం చేసి, శ్రీరామునికి ఆ సంతోషకరమైన వార్తను తెలియజేయడం కోసం ఆ వానరశ్రేష్ఠుడు వెనుకకు తిరిగి వచ్చాడు."
     ],
     essence: [
-      "Rama mobilizes the army and marches south to the edge of the Indian Ocean. Confronted by an impassable barrier, Rama fasts and prays to the ocean deity for three days to grant a path. When the ocean ignores his requests, Rama loses his patience, draws his bow, and fires solar-grade arrows that boil the waters and terrorize its creatures."
+      "Hanuman possesses a boon from Lord Brahma ensuring that no divine missile can bind him for long. When the demons unknowingly break the rules of the Brahmastra by tying him with ropes, the weapon's power instantly vanishes. Yet, Hanuman plays along, allowing them to drag him to court just to face Ravana. When Ravana orders his tail to be set on fire, Hanuman uses it as a weapon, leaping from roof to roof to incinerate the golden citadel. Making absolutely sure Sita's sanctuary remains untouched, he leaps back across the ocean to bring Rama the long-awaited proof of her survival."
     ],
     meanings: [
-      "ततः = Thereafter",
-      "सुग्रीव-सहितः = Accompanied by Sugriva",
-      "गत्वा = Having gone / Arrived at",
-      "तीरम् = The shore / Coastline",
-      "महा-उदधेः = Of the grand ocean",
-      "समुद्रम् = The sea",
-      "क्षोभयामास = Agitated / Churned violently / Terrified",
-      "शरैः = With arrows",
-      "आदित्य-सन्निभैः = Resembling the brilliant, blazing sun"
+      "अस्त्रेण = By the weapon (the Brahmastra)",
+      "उन्मुक्तम् = Released / Freed from binding",
+      "आत्मानम् = Himself",
+      "ज्ञात्वा = Knowing / Recognizing",
+      "पैतामहात् = From the grandfather (Lord Brahma)",
+      "वरात् = Due to a boon",
+      "मर्षयन् = Tolerating / Forbearing / Enduring",
+      "राक्षसान् = The rakshasas / demons",
+      "वीरः = The heroic one (Hanuman)",
+      "यन्त्रिणः = Those who were binding / capturing him",
+      "तान् = Them",
+      "यदृच्छया = Accidental / By chance (playing along effortlessly)",
+      "ततः = Then / Subsequently",
+      "दग्ध्वा = Having incinerated / burnt down",
+      "पुरीम् = The city",
+      "लङ्काम् = Lanka",
+      "ऋते = Excepting / Excluding",
+      "सीताम् = Sita",
+      "च = And",
+      "मैथिलिम् = The princess of Mithila",
+      "रामाय = To Rama",
+      "प्रियम् = The pleasing / joyful news",
+      "आख्यातुम् = To narrate / communicate",
+      "पुनः = Again / Back",
+      "आयात् = Returned / Arrived",
+      "महा-कपिः = The great vanara"
     ],
     grammar: [],
     notes: [
-      "This moment highlights Rama's philosophy of power: he always exhausts peaceful diplomacy (*Sama*) before resorting to overwhelming force (*Danda*). His sun-bright arrows (*Aditya-sannibhaih*) serve as a wake-up call to the indifferent forces of nature."
+      "The compound 'paitamahad-varat' highlights the mechanics of the cosmic weapons; a boon from Brahma can override the missile's effect. The exception 'rite sitam' is a beautiful detail emphasizing that while Hanuman's destructive rage flattened Lanka's military infrastructure, his controlled, divine awareness kept Sita and the Ashoka grove completely insulated from the devastating inferno."
     ]
   },
   {
