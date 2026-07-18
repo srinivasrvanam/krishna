@@ -3964,47 +3964,47 @@ const verses = [
     chapter: 1,
     number: 80,
     sloka: [
-      "तामुवाच ततो रामः परुषं जनसंसदि |",
-      "अमृष्यमाणा सा सीता विवेश ज्वलनं सती ||"
+      "दर्शयामास चात्मानं समुद्रः सरितां पतिः |",
+      "समुद्रवचनाच्चैव नलं सेतुमकारयत् || 80"
     ],
     sloka_tel: [
-      "తామువాచ తతో రాముః పరుషం జనసంసది |",
-      "అమృష్యమాణా సా సీతా వివేశ జ్వలనం సతీ ||"
+      "దర్శయామాస చాత్మానం సముద్రః సరితాం పతిః |",
+      "సముద్రవచనాచ్చైవ నలం సేతుమకారయత్ || 80"
     ],
     vicheda: [
-      "ताम् उवाच ततः रामः परुषम् जन-संसदि |",
-      "अमृष्यमाणा सा सीता विवेश ज्वलनम् सती ||"
+      "दर्शयामास च आत्मानम् समुद्रः सरिताम् पतिः",
+      "समुद्र-वचनात् च एव नलम् सेतुम् अकारयत्"
     ],
     anvaya: [
-      "ततः रामः जनसंसदि ताम् परुषम् उवाच, सा सती सीता (तत् वचः) अमृष्यमाणा ज्वलनं विवेश ||"
+      "सरिताम् पतिः समुद्रः आत्मानम् दर्शयामास च, समुद्रवचनात् च एव नलम् सेतुम् अकारयत् ||"
     ],
     prose: [],
     transl: [
-      "Before the assembled masses, Rama addressed her with harsh words of detachment to satisfy public scrutiny. Unable to brook this stain on her honor, the pure and chaste Sita courageously entered the blazing fire."
+      "Terrified by Rama's fury, the Ocean God, the lord of all rivers, appeared in person before him. Following the advice given by the Ocean God himself, Rama had Nala construct a magnificent bridge across the sea."
     ],
     transl_tel: [
-      "ఆ తర్వాత రాముడు లోకాపవాదానికి భయపడి జనులందరి సమక్షంలో సీతతో కఠినమైన మాటలు అన్నాడు. పతివ్రతయైన ఆ సీతాదేవి ఆ మాటలను తట్టుకోలేక, తన పవిత్రతను నిరూపించుకోవడానికి మండుతున్న అగ్ని గుండంలోకి ప్రవేశించింది."
+      "నదులన్నిటికీ అధిపతియైన ఆ సముద్రుడు శ్రీరాముని అస్త్ర తేజస్సుకు భయపడి, స్వయంగా ప్రత్యక్షమయ్యాడు. ఆపై ఆ సముద్రుని సూచన (సలహా) ప్రకారమే, శ్రీరాముడు వానర శిల్పియైన నలుని చేత సముద్రంపై వారధిని (సేతువును) నిర్మింపజేశాడు."
     ],
     essence: [
-      "To establish her purity beyond any public doubt, Rama addresses Sita with detached, sharp words in court. Devastated but proud, Sita refuses to live under a cloud of suspicion. She asks Lakshmana to light a funeral pyre and steps directly into the roaring flames (*Agni Pariksha*) to let the fire god judge her character."
+      "Faced with the terrifying prospect of being completely dried up by Rama's solar weapons, Samudra (the Ocean God) emerges from the depths with folded hands. He explains that while he cannot break the cosmic laws of physics by making his waters vanish, he will gladly support a causeway. He points out Nala, a vanara architect blessed with the divine engineering traits of his father Viswakarma, and advises Rama to utilize him. Rama agrees, and under Nala's supervision, the army begins building the legendary Rama Setu."
     ],
     meanings: [
-      "ताम् = To her (Sita)",
-      "उवाच = Spoke / Declared",
-      "ततः = Then",
-      "रामः = Rama",
-      "परुषम् = Harshly / Sternly / Uncompromisingly",
-      "जन-संसदि = In the assembly of people / Public view",
-      "अमृष्यमाणा = Intolerant of the insult / Deeply pained",
-      "सा = She",
-      "सीता = Sita",
-      "विवेश = Entered / Stepped into",
-      "ज्वलनम् = The blazing fire",
-      "सती = The chaste / Pure woman"
+      "दर्शयामास = Revealed / Made visible",
+      "च = And",
+      "आत्मानम् = Himself / His personal form",
+      "समुद्रः = The Ocean God",
+      "सरिताम् = Of the rivers",
+      "पतिः = The lord / master",
+      "समुद्र-वचनात् = Based on the words / counsel of the ocean",
+      "च = And",
+      "एव = Indeed",
+      "नलम् = Through Nala (the vanara engineer)",
+      "सेतुम् = The bridge / causeway",
+      "अकारयत् = Caused to be constructed"
     ],
     grammar: [],
     notes: [
-      "The *Agni Pariksha* is one of the most intense moments in the epic. Rama acts as an impartial judge to protect her historical reputation from gossip. Sita's willingness to step into the flames shifts the focus from her vulnerability to her unmatched moral power."
+      "The phrase 'saritām patih' highlights the ocean's status as the final destination and monarch of all earthly waters. This verse captures a monumental engineering feat of the Ramayana—the building of the bridge to Lanka (*Setubandhana*)—which transitions the narrative into the heart of the war zone."
     ]
   },
   {
