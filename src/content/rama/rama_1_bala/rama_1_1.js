@@ -2350,46 +2350,54 @@ const verses = [
     chapter: 1,
     number: 44,
     sloka: [
-      "वसतस्तस्य रामस्य वने वनचरैः सह |",
-      "ऋषयोऽभ्यागमन् सर्वे वधायासुररक्षसाम् ||"
+      "वसतस्तस्य रामस्य वने वनचरैः सह || 43b",
+      "ऋषयोऽभ्यागमन्सर्वे वधायासुररक्षसाम् | 44a"
     ],
     sloka_tel: [
-      "వసతస్తస్య రామస్య వనే వనచరైః సహ |",
-      "ఋషయోఽభ్యాగమన్ సర్వే వధాయాసురరక్షసామ్ ||"
+      "వసతస్తస్య రామస్య వనే వనచరైః సహ || 43b",
+      "ఋషయోఽభ్యాగమన్సర్వే వధాయాసురరక్షసామ్ | 44a"
     ],
     vicheda: [
-      "वसतः तस्य रामस्य वने वन-चरैः सह |",
-      "ऋषयः अभ्यागमन् सर्वे वधाय असुर-रक्षसाम् ||"
+      "वसतः तस्य रामस्य वने वन-चरैः सह",
+      "ऋषयः अभ्यागमन् सर्वे वधाय असुर-रक्षसाम्"
     ],
     anvaya: [
-      "वने वनचरैः सह वसतः तस्य रामस्य (समीपम्) सर्वे ऋषयः असुररक्षसाम् वधाय अभ्यागमन् ||"
+      "सर्वे ऋषयः",
+      "- असुर-रक्षसाम् वधाय",
+      "- वनचरैः सह वने वसतः तस्य रामस्य (समीपम्) |",
+      "अभ्यागमन् |",
     ],
-    prose: [],
+    prose: [
+      "All the holy Sages",
+      "- in order to kill asuras & rakshasas",
+      "- rama who is living in the forest alongside forest dwellers",
+      "approached",
+    ],
     transl: [
-      "While Rama was residing in the forest alongside fellow forest dwellers, all the resident sages approached Him collectively, pleading for the complete destruction of the terrifying demons."
+      "While Rama was residing in the forest alongside the other forest dwellers, all the holy sages approached him, collectively appealing for the destruction of the demonic asuras who were terrorizing them."
     ],
     transl_tel: [
-      "ఆ అడవిలో వనవాసులతో కలిసి నివసిస్తున్న రాముని వద్దకు అరణ్యములోని ఋషులందరూ వచ్చి, తమను వేధిస్తున్న అసురులను, రాక్షసులను వధించవలసిందిగా వేడుకున్నారు."
+      "శ్రీరాముడు వనవాసులతో కూడి అడవిలో నివసిస్తున్న సమయంలో, అక్కడి మునులందరూ ఆయనను కలిసి, తమను వేధిస్తున్న అసురులను (రాక్షసులను) సంహరించవలసిందిగా ప్రార్థించారు."
     ],
     essence: [
-      "As Rama makes the forest his home, the local ascetics and sages gather around him. They describe the relentless torment, disruptions, and violent massacres they face from cannibalistic demons (*Asuras* and *Rakshasas*) during their quiet prayers. They formally beg Rama to act as their royal shield and destroy these monsters."
+      "As Rama settles into forest life, his reputation as a protector spreads among the peaceful ascetics of Dandakaranya. The sages, whose spiritual practices are constantly disrupted by flesh-eating demons, approach Rama formally. They recognize his divine prowess and seek a solemn commitment from him to act as their guardian and eradicate the demonic forces."
     ],
     meanings: [
       "वसतः = While residing / Living",
       "तस्य = His",
-      "रामस्य = Of Rama (locative absolute context)",
+      "रामस्य = Of Rama (locative absolute context: 'as Rama was living')",
       "वने = In the forest",
-      "वन-चरैः = Forest dwellers / Hermits",
-      "सह = Together with",
-      "ऋषयः = Sages / Seers",
+      "वन-चरैः = The forest dwellers / Companions",
+      "सह = Along with",
+      "ऋषयः = The sages / Seers",
       "अभ्यागमन् = Approached / Came near",
-      "सर्वे = All",
-      "वधाय = For the destruction / Elimination",
-      "असुर-रक्षसाम् = Of the Asuras and Rakshasas (demons)"
+      "सर्वे = All of them",
+      "वधाय = For the destruction / Slaying",
+      "असुर-रक्षसाम् = Of the evil demons and rakshasas"
     ],
     grammar: [],
     notes: [
-      "This verse underscores a critical point: Rama did not initiate violence against the Rakshasas out of personal malice. He was formally petitioned by the suffering sages of the land, fulfilling his intrinsic duty as a Kshatriya king to protect his innocent subjects."
+      "This verse represents the formal petition that drives the core conflict of the Aranya Kanda. By accepting the sages' plea, Rama binds himself to an unyielding oath of protection, establishing a direct conflict of interest with Ravana's kingdom."
     ]
   },
   {
