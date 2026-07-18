@@ -3300,47 +3300,45 @@ const verses = [
     chapter: 1,
     number: 65,
     sloka: [
-      "ततः प्रीतमानास्तेन विश्वस्तः स महाकपिः |",
-      "किष्किन्धां रामसहितो जगाम च गुहां तदा ||"
+      "उत्स्मयित्वा महाबाहुः प्रेक्ष्य चास्थि महाबलः |",
+      "पादाङ्गुष्ठेन चिक्षेप सम्पूर्णं दशयोजनम् || 65"
     ],
     sloka_tel: [
-      "తతః ప్రీతమానాస్తేన విశ్వస్తః స మహాకపిః |",
-      "కిష్కింధాం రామసహితో జగామ చ గుహాం తదా ||"
+      "ఉత్స్మయిత్వా మహాబాహుః ప్రేక్ష్య చాస్థి మహాబలః |",
+      "పాదాడుష్ఠేన చిక్షేప సంపూర్ణం దశయోజనమ్ || 65"
     ],
     vicheda: [
-      "ततः प्रीत-मनाः तेन विश्वस्तः सः महा-कपिः |",
-      "किष्किन्धाम् राम-सहितः जगाम च गुहाम् तदा ||"
+      "उत्स्मयित्वा महाबाहुः प्रेक्ष्य च अस्थि महाबलः",
+      "पाद-अङ्गुष्ठेन चिक्षेप सम्पूर्णम् दश-योजनम्"
     ],
     anvaya: [
-      "ततः तेन प्रीतमनाः विश्वस्तः सः महाकपिः तदा रामसहितः गुहां किष्किन्धाम् जगाम च ||"
+      "महाबाहुः महाबलः (रामः) अस्थि प्रेक्ष्य उत्स्मयित्वा च, पादाङ्गुष्ठेन सम्पूर्णम् दशयोजनम् चिक्षेप ||"
     ],
     prose: [],
     transl: [
-      "Convinced and filled with immense joy by this exhibition of power, the great Vanara leader Sugriva placed his absolute trust in Rama. Accompanied by Rama and Lakshmana, he marched confidently toward the cave-kingdom of Kishkindha."
+      "Looking at the colossal skeleton and gently smiling at Sugriva's doubt, the mighty-armed and exceptionally powerful Rama effortlessly flicked the entire massive heap a full distance of eighty miles away with just his big toe."
     ],
     transl_tel: [
-      "రాముని పరాక్రమాన్ని చూసి ఆ వానర శ్రేష్ఠుడైన సుగ్రీవుడు సంపూర్ణ విశ్వాసాన్ని, ఆనందాన్ని పొందాడు. ఆ వెంటనే రాముడిని వెంటబెట్టుకుని కిష్కింధ నగరానికి బయలుదేరాడు."
+      "మహాబాహువు, మహాబలశాలియైన శ్రీరాముడు ఆ అస్థిపంజరాన్ని చూసి, సుగ్రీవుని అమాయకత్వానికి మందహాసం (చిరునవ్వు) చిందించాడు. ఆపై కేవలం తన కాలి బొటనవ్రేలితో ఆ భారీ శవదేహాన్ని ఏకంగా పది యోజనముల దూరం (దాదాపు ఎనభై మైళ్ళు) పడిపోయేలా విసిరివేశాడు."
     ],
     essence: [
-      "With all suspicion washed away, Sugriva feels an immense surge of confidence and joy. He knows he has the ultimate ally. Standing tall alongside Rama and Lakshmana, Sugriva leads the way straight to the heavily fortified, valley-enclosed capital city of Kishkindha to challenge Vali."
+      "Amused by Sugriva's underlying anxiety and doubt, Rama responds not with words of boast, but with a casual display of mind-boggling power. While Vali had used his full physical strength to hurl the fresh carcass of Dundubhi, Rama uses just the tip of his big toe to kick the now dried, heavily calcified, and leaden skeletal remains across an immense distance of ten yojanas, instantly proving his superiority."
     ],
     meanings: [
-      "ततः = Thereafter",
-      "प्रीत-मनाः = Delighted in mind / Happy-hearted",
-      "तेन = By that (action of Rama)",
-      "विश्वस्तः = Completely reassured / Having full trust",
-      "सः = He",
-      "महा-कपिः = The great monkey chief (Sugriva)",
-      "किष्किन्धाम् = To Kishkindha",
-      "राम-सहितः = Accompanied by Rama",
-      "जगाम = Went / Marched",
+      "उत्स्मयित्वा = Having smiled gently / Smilingly",
+      "महाबाहुः = The mighty-armed one",
+      "प्रेक्ष्य = Having looked at / Glancing at",
       "च = And",
-      "गुहाम् = The cave / Valley city fortress",
-      "तदा = Then"
+      "अस्थि = The bone / Skeleton (of Dundubhi)",
+      "महाबलः = The exceptionally powerful one",
+      "पाद-अङ्गुष्ठेन = With the big toe of his foot",
+      "चिक्षेप = Hurled / Threw away / Flicked",
+      "सम्पूर्णम् = Wholly / Fully / Entirely",
+      "दश-योजनम् = A distance of ten yojanas (approximately 80 miles)"
     ],
     grammar: [],
     notes: [
-      "The word 'Guha' means cave, but in the context of Kishkindha, it refers to a vast, mountain-locked valley that acted as an impenetrable natural fortress for the Vanara race. Sugriva transitions from a trembling refugee to a confident challenger."
+      "The contrast between Vali's exertion and Rama's effortless 'utsmaitva' (smiling) is a key narrative device used by Valmiki to showcase the difference between mere physical monster-strength and the boundless, divine weight of Rama's power. One yojana is traditionally calculated as roughly 8 miles, making 'dasa-yojanam' a staggering distance."
     ]
   },
   {
