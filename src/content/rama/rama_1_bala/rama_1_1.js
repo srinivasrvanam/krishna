@@ -4486,91 +4486,65 @@ const verses = [
   },
   {
     chapter: 1,
-    number: 92,
-    sloka: [
-      "नित्यप्रमुदिताः सर्वे यथा कृतयुगे तथा |",
-      "अश्वमेधशतैरीष्ट्वा तथा बहुसुवर्णकैः ||"
-    ],
-    sloka_tel: [
-      "నిత్యప్రముదితాః సర్వే యథా కృతయుగే తథా |",
-      "అశ్వమేధశతైరీష్ట్వా తథా బహుసువర్ణకైః ||"
-    ],
-    vicheda: [
-      "नित्य-प्रमुदिताः सर्वे यथा कृत-युगे तथा |",
-      "अश्वमेध-शतैः ईष्ट्वा तथा बहु-सुवर्णकैः ||"
-    ],
-    anvaya: [
-      "सर्वे यथा कृतयुगे तथा नित्यप्रमुदिताः (अभवन्); (रामः) बहुसुवर्णकैः तथा अश्वमेधशतैः ईष्ट्वा ||"
-    ],
-    prose: [],
-    transl: [
-      "All people lived in a state of perennial joy, exactly as they did during the pristine Golden Age (Krita Yuga). Meanwhile, King Rama worshipped the divine by performing hundreds of Ashvamedha sacrifices and distributing astronomical amounts of gold."
-    ],
-    transl_tel: [
-      "సత్యయుగంలో (కృతయుగంలో) ప్రజలు ఎంత సంతోషంగా ఉండేవారో, రాముని పాలనలో కూడా అందరూ అలాగే నిత్యం ఆనందంగా జీవించారు. రాముడు వందలాది అశ్వమేధ యాగాలు, బహుసువర్ణ యాగాలు చేసి అపరిమితమైన దానాలు చేశాడు."
-    ],
-    essence: [
-      "Rama's reign effectively pulls the current era back into the purity of the Satya/Krita Yuga, where misery didn't exist. To sustain cosmic order and express gratitude, Rama performs hundreds of grand sacred rituals (*Yagnas*), ensuring that vast wealth is recycled back into society through charity and spiritual endowments."
-    ],
-    meanings: [
-      "नित्य-प्रमुदिताः = Eternally delighted / Ever-joyful",
-      "सर्वे = All the citizens",
-      "यथा = Just as",
-      "कृत-युге = In the Golden Age (Satya Yuga)",
-      "तथा = In that very manner",
-      "अश्वमेध-शतैः = With hundreds of horse-sacrifices",
-      "ईष्ट्वा = Having worshipped / Performed sacrifices",
-      "तथा = And also",
-      "बहु-सुवर्णकैः = With sacrifices involving massive donations of gold"
-    ],
-    grammar: [],
-    notes: [
-      "Performing an *Ashvamedha* required undisputed sovereignty and undisputed moral legitimacy. Rama performing hundreds of them underscores his position as the supreme world-protector (*Chakravarti*)."
-    ]
-  },
-  {
-    chapter: 1,
     number: 93,
     sloka: [
-      "गवां कोट्ययुतं दत्त्वा विद्वाद्भ्यो विधिपूर्वकम् |",
-      "असंख्यं धनं दत्त्वा ब्राह्मणेभ्यो महायशाः ||"
+      "न चाग्निजं भयं किञ्चिन्नाप्सु मज्जन्ति जन्तवः |",
+      "न वातजं भयं किञ्चिन्नापि ज्वरकृतं तथा || 92",
+      "न चापि क्षुद्भयं तत्र न तस्करभयं तथा | 93a"
     ],
     sloka_tel: [
-      "గవాం కోట్యయుతం దత్త్వా విద్వాద్భ్యో విధిపూర్వకమ్ |",
-      "అసంఖ్యం ధనం దత్త్వా బ్రాహ్మణేభ్యో మహాయశాః ||"
+      "న CPAగ్నిజం భయం కించిన్నాప్సు మజ్జంతి జంతవః |",
+      "న వాతజం భయం కించిన్నాపి జ్వరకృతం తథా || 92",
+      "న చాపి క్షుద్భయం తత్ర న తస్కరభయం తథా | 93a"
     ],
     vicheda: [
-      "गवाम् कोटि-अयुतम् दत्त्वा विद्वाद्भ्यः विधि-पूर्वकम् |",
-      "असंख्यम् धनम् दत्त्वा ब्राह्मणेभ्यः महा-यशाः ||"
+      "न च अग्नि-जम् भयम् किञ्चित् न अप्सु मज्जन्ति जन्तवः",
+      "न वात-जम् भयम् किञ्चित् न अपि ज्वर-कृतम् तथा",
+      "न च अपि क्षुद्-भयम् तत्र न तस्कर-भयम् तथा"
     ],
     anvaya: [
-      "महायशाः (रामः) विद्वाद्भ्यः विधिपूर्वकम् गवां कोट्ययुतं दत्त्वा, ब्राह्मणेभ्यः असंख्यं धनं च दत्त्वा ||"
+      "(रामराज्ये) अग्निंजम् भयम् किञ्चित् न च (अस्ति), जन्तवः अप्सु न मज्जन्ति, वातजम् भयम् किञ्चित् न, तथा ज्वरकृतम् अपि (भयम्) न अस्ति; तत्र क्षुद्भयम् च अपि न (अस्ति), तथा तस्करभयम् न (अस्ति) ||"
     ],
     prose: [],
     transl: [
-      "The exceptionally illustrious Rama, strictly following scriptural injunctions, gifted hundreds of millions of cows to learned scholars and distributed immeasurable wealth among the priestly community."
+      "In that kingdom, there is absolutely no fear of destruction from fires, nor do living beings perish by drowning in water. There is no danger from violent storms, nor any affliction caused by consuming fevers. Furthermore, the inhabitants face neither the pangs of hunger nor the terror of thieves."
     ],
     transl_tel: [
-      "మహాకీర్తిశాలియైన రాముడు విద్వాంసులకు, బ్రాహ్మణులకు శాస్త్రోక్తంగా కోట్లాది ఆవులను, లెక్కింపలేనంత ధనాన్ని దానంగా ఇచ్చాడు."
+      "శ్రీరాముని రాజ్యంలో అగ్నిప్రమాదాల వల్ల ఎటువంటి భయం లేదు. ప్రాణులు నీటిలో మునిగి (వరదలలో) చనిపోవు. తుఫానులు, సుడిగాలుల వల్ల కలిగే ప్రమాదాలు లేవు, అలాగే తీవ్ర జ్వరాల వంటి శారీరక తాపాలు లేవు. ఆ రాజ్యంలో ఆకలి బాధ అనేది కానీ, దొంగల వల్ల కలిగే భయం కానీ అసలు ఎంతమాత్రం లేవు."
     ],
     essence: [
-      "Rama channels the kingdom's prosperity straight to the intellectual, spiritual, and moral guardians of society. By giving away vast quantities of cattle (the primary measure of economic stability and nutrition at the time) and boundless wealth, he ensures that those dedicated to knowledge and truth are never compromised by poverty."
+      "Valmiki continues to delineate how Rama's reign rescues creation from both natural disasters and social evils. Under his rule, the elements behave benignly: accidental fires do not ravage properties, waters do not violently drown citizens, and hurricanes cause no havoc. Public health is so pristine that epidemic fevers disappear. On the social front, complete economic abundance eliminates starvation (kshud-bhayam), and absolute law enforcement wipes out white-collar and violent crimes alike, eliminating the fear of thieves."
     ],
     meanings: [
-      "गवाम् = Of cows / Cattle",
-      "कोटि-अयुतम् = Ten thousand crores (hundreds of millions)",
-      "दत्त्वा = Having donated / Gifted",
-      "विद्वाद्भ्यः = To the learned scholars / Wise men",
-      "विधि-पूर्वकम् = In accordance with sacred rules / Systematically",
-      "असंख्यम् = Incalculable / Numberless",
-      "धनम् = Riches / Wealth",
-      "दत्त्वा = Having distributed",
-      "ब्राह्मणेभ्यः = To the Brahmins / Sages / Priests",
-      "महा-यशाः = The one of monumental fame (Rama)"
+      "न = Not / Never",
+      "च = And",
+      "अग्नि-जम् = Born of fire / Fire hazards",
+      "भयम् = Fear / Danger",
+      "किञ्चित् = Even a little / At all",
+      "न = Not",
+      "अप्सु = In the waters",
+      "मज्जन्ति = Drown / Sink helplessly",
+      "जन्तवः = Living beings / Creatures",
+      "न = Not",
+      "वात-जम् = Born of wind / Storms / Cyclones",
+      "भयम् = Danger",
+      "किञ्चित् = At all",
+      "न = Not",
+      "अपि = Also",
+      "ज्वर-कृतम् = Caused by fevers / Diseases",
+      "तथा = Likewise",
+      "न = Not",
+      "च = And",
+      "अपि = Also",
+      "क्षुद्-भयम् = Fear of hunger / Starvation",
+      "तत्र = There (in Rama's realm)",
+      "न = Not",
+      "तस्कर-भयम् = Fear of thieves / Robbers",
+      "तथा = In that manner"
     ],
     grammar: [],
     notes: [
-      "*Kotyayutam* signifies an astronomical number. In ancient agrarian economies, gifting a cow was equivalent to setting up a family with a permanent livelihood, clean nutrition, and continuous organic resources."
+      "The terms 'agnijam' (fire-born) and 'vātajam' (wind-born) reference the classical elemental disruptions that routinely devastated ancient settlements. In Rama Rajya, the psychological freedom from these anxieties highlights an ecosystem perfectly balanced by the king's spiritual and administrative alignment with universal righteousness."
     ]
   },
   {
