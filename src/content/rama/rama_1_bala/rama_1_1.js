@@ -2716,47 +2716,46 @@ const verses = [
     chapter: 1,
     number: 52,
     sloka: [
-      "जटायुषं च हत्वा वै गृध्रं राजानमुत्तमम् |",
-      "क्रन्दन्तीं वैदेहीं हत्वा शोकातुरोऽभवत् ||"
+      "अनादृत्य तु तद्वाक्यं रावणः कालचोदितः || 51b",
+      "जगाम सहमारीचस्तस्याश्रमपदं तदा | 52a"
     ],
     sloka_tel: [
-      "జటాయుషం చ హత్వా వై గృధ్రం రాజానముత్తమమ్ |",
-      "క్రందంతీం వైదేహీం హత్వా శోకాతరోఽభవత్ ||"
+      "అనాదృత్య తు తద్వాక్యం రావణః కాలచోదితః || 51b",
+      "జగామ సహమారీచస్తస్యాశ్రమపదం తదా | 52a"
     ],
     vicheda: [
-      "जटायुषम् च हत्वा वै गृध्रम् राजानम् उत्तमम् |",
-      "क्रन्दन्तीम् वैदेहीम् हत्वा शोक-आतुरः अभवत् ||"
+      "अनादृत्य तु तत् वाक्यम् रावणः काल-चोदितः",
+      "जगाम सह-मारीचः तस्य आश्रम-पदम् तदा"
     ],
     anvaya: [
-      "उत्तमम् गृध्रं राजानम् जटायुषम् च हत्वा, क्रन्दन्तीं वैदेहीं हत्वा (रावणे गते सति, रामः) शोकातुरः अभवत् ||"
+      "कालचोदितः रावणः तु तत् वाक्यम् अनादृत्य, तदा सहमारीचः तस्य आश्रमपदम् जगाम ||"
     ],
     prose: [],
     transl: [
-      "Ravana mortally wounded the noble vulture king Jatayu who flew to her defense. Carrying away the weeping princess of Videha (Sita), Ravana fled, leaving Rama utterly overwhelmed by a tempest of grief upon his return."
+      "Completely disregarding those wise words, Ravana, driven by destiny and the impending hour of his own doom, set out at that moment along with Maricha toward Rama's hermitage."
     ],
     transl_tel: [
-      "తనను రక్షించబోయిన పక్షిరాజైన జటాయువును చంపి, విలపిస్తున్న వైదేహిని (సీతను) రావణుడు ఎత్తుకెళ్ళిపోగా, ఆ తర్వాత కుటీరానికి వచ్చిన రాముడు పుట్టెడు దుఃఖంలో మునిగిపోయాడు."
+      "మారీచుడు చెప్పిన ఆ హితవచనాలను పూర్తిగా తిరస్కరించి, కాలము మూడినవాడై (వినాశకాలం దాపురించినవాడై) రావణుడు ఆ క్షణమే మారీచుడిని వెంటబెట్టుకుని శ్రీరాముని ఆశ్రమ ప్రాంతానికి బయలుదేరాడు."
     ],
     essence: [
-      "As Ravana flies through the air with Sita, the elderly vulture king Jatayu hears her cries and fights bravely to rescue her. Ravana cuts down Jatayu and escapes. When Rama returns to an empty hut and finds signs of a violent struggle, he is plunged into a state of agonizing, helpless sorrow."
+      "Arrogance combined with an approaching doom clouds a person's judgment. Ravana completely brushes aside Maricha's logical warning. The phrase *Kala-choditah* highlights that time and fate are driving him toward his inevitable destruction. Instead of backing down, he forces Maricha to accompany him on the treacherous mission to Rama's dwelling place."
     ],
     meanings: [
-      "जटायुषम् = Jatayu",
-      "च = And",
-      "हत्वा = Having struck down / Killed",
-      "वै = Indeed",
-      "गृध्रम् = Vulture",
-      "राजानम् = King",
-      "उत्तमम् = Noble / Foremost",
-      "क्रन्दन्तीम् = Crying out / Weeping",
-      "वैदेहीम् = Sita (Princess of Videha)",
-      "हत्वा = Having snatched / Carried off",
-      "शोक-आतुरः = Tormented by overwhelming grief",
-      "अभवत् = Became"
+      "अनादृत्य = Disregarding / Spurning / Ignoring",
+      "तु = But / Indeed",
+      "तत् = That",
+      "वाक्यम् = Advice / Statement / Words",
+      "रावणः = Ravana",
+      "काल-चोदितः = Driven by time / Impelled by destiny or death",
+      "जगाम = Went / Set out",
+      "सह-मारीचः = Along with Maricha",
+      "तस्य = His (Rama's)",
+      "आश्रम-पदम् = Hermitage / Abode",
+      "तदा = Then / At that time"
     ],
     grammar: [],
     notes: [
-      "Jatayu represents the ultimate sacrifice of an ally. Though physically an old bird, his moral courage to confront the world's most terrifying tyrant single-handedly makes him one of the most revered figures in the Ramayana."
+      "The term 'Kala-choditah' is a powerful thematic phrase in Valmiki Ramayana, reflecting the proverb 'Vinashakale Viparitabuddhi' (when destruction is near, intellect works upside down). Ravana's inability to heed sound advice shows that fate has already set his downfall in motion."
     ]
   },
   {
