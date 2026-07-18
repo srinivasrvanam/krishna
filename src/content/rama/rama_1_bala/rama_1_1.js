@@ -3713,47 +3713,46 @@ const verses = [
     chapter: 1,
     number: 74,
     sloka: [
-      "अस्त्रेण उन्मुक्तमात्मानं ज्ञात्वा पैतामहाद्वरात् |",
-      "मर्षयन् राक्षसान् वीरो विषण्णो ह्यग्निसाधनात् ||"
+      "निवेदयित्वाभिज्ञानं प्रवृत्तिं च निवेद्य च |",
+      "समाश्वास्य च वैदेहीं मर्दयामास तोरणम् || 74"
     ],
     sloka_tel: [
-      "అస్త్రేణ ఉన్ముక్తమాత్మానం జ్ఞాత్వా పైతామహాద్వరాత్ |",
-      "మర్షయన్ రాక్షసాన్ వీరో విషణ్ణో హ్యగ్నిసాధనాత్ ||"
+      "నివేదయిత్వాభిజ్ఞానం ప్రవృత్తిం చ నివేద్య చ |",
+      "సమాశ్వాస్య చ వైదేహీం మర్దయామాస తోరణమ్ || 74"
     ],
     vicheda: [
-      "अस्त्रेण उन्मुक्तम् आत्मानम् ज्ञात्वा पैतामहात् वरात् |",
-      "मर्षयन् राक्षसान् वीरः विषण्णः हि अग्नि-साधनात् ||"
+      "निवेदयित्वा अभिज्ञानम् प्रवृत्तिम् च निवेद्य च",
+      "समाश्वास्य च वैदेहीम् मर्दयामास तोरणम्"
     ],
     anvaya: [
-      "पैतामहात् वरात् आत्मानम् अस्त्रेण उन्मुक्तम् ज्ञात्वा अपि, वीरः (हनुमान्) अग्निसाधनात् विषण्णः (राक्षसैः कृताः पीडाः) मर्षयन् (राक्षससभाम् जगाम) ||"
+      "(हनुमान्) अभिज्ञानम् निवेदयित्वा, प्रवृत्तिम् च निवेद्य, वैदेहीम् समाश्वास्य च, तोरणम् मर्दयामास ||"
     ],
     prose: [],
     transl: [
-      "Knowing that he was instantly freed from the weapon's binding due to a prior boon from Lord Brahma, the heroic Hanuman patiently endured the rough handling of the demons to accomplish his mission."
+      "Having presented the signet ring as proof of identity, conveyed the latest news of Rama's welfare, and fully comforted Sita, Hanuman proceeded to shatter the main arched gateway of the grove."
     ],
     transl_tel: [
-      "బ్రహ్మదేవుడు ఇచ్చిన వరం వల్ల ఆ బ్రహ్మాస్త్ర బంధనం నుండి తాను ఎప్పుడో విముక్తుడైనట్లు గ్రహించినప్పటికీ, ఆ వీరుడైన హనుమంతుడు తన కార్యం కోసం రాక్షసులు పెట్టే బాధలను ఓర్పుతో భరించాడు."
+      "శ్రీరాముని ఆనవాలును (అంగుళీయకాన్ని) సమర్పించి, ఆయన క్షేమ సమాచారాన్ని తెలియజేసి, సీతాదేవిని ఓదార్చిన అనంతరం, హనుమంతుడు ఆ అశోకవనం యొక్క ప్రధాన తోరణాన్ని (ద్వారాన్ని) ధ్వంసం చేశాడు."
     ],
     essence: [
-      "Indrajit binds Hanuman with the legendary Brahma-Astra. Because Brahma had previously granted Hanuman a boon making him immune to long-term harm from such weapons, the bond breaks the moment the crude rakshasa guards tie him with ordinary ropes. Hanuman pretends to still be trapped, enduring their insults so they will carry him directly to Ravana."
+      "To win Sita's trust, Hanuman hands her Rama's inscribed signet ring (*abhijnanam*) and narrates Rama's intense grief and ongoing efforts to rescue her. Once she is deeply consoled and reassured, Hanuman's primary reconnaissance mission is complete. Before leaving, he decides to gauge the enemy's military strength and stir panic in Lanka by single-handedly destroying the magnificent, heavily guarded ceremonial gateways of the Ashoka grove."
     ],
     meanings: [
-      "अस्त्रेण = By the mystic weapon (Brahmastra)",
-      "उन्मुक्तम् = Freed / Released",
-      "आत्मानम् = Himself",
-      "ज्ञात्वा = Knowing / Recognizing",
-      "पैतामहात् = From the Grandfather (Lord Brahma)",
-      "वरात् = Due to a boon",
-      "मर्षयन् = Tolerating / Forbearing",
-      "राक्षसान् = The demons / Captors",
-      "वीरः = The heroic warrior",
-      "विषण्णः = Seemingly dejected / Subdued (feigning compliance)",
-      "हि = Indeed / Certainly",
-      "अग्नि-साधनात् = For the purpose of implementing his deeper, fiery strategic plan"
+      "निवेदयित्वा = Having presented / Handed over",
+      "अभिज्ञानम् = The token of recognition / Signet ring",
+      "प्रवृत्तिम् = The news / Accounts of welfare",
+      "च = And",
+      "निवेद्य = Having communicated / Informed",
+      "च = And",
+      "समाश्वास्य = Having consoled / Comforted",
+      "च = And",
+      "वैदेहीम् = Sita (Princess of Videha)",
+      "मर्दयामास = Crushed / Demolished / Shattered",
+      "तोरणम् = The arched gateway / Arched entrance portal"
     ],
     grammar: [],
     notes: [
-      "This shows Hanuman’s brilliant restraint. Even though he has the raw power to smash his captors instantly, he suppresses his ego and plays along with their game to serve Rama's larger diplomatic objectives."
+      "The term 'Abhijnanam' specifically refers to Rama's ring, which acts as the ultimate truth-token. The transition to 'mardayaamasa toranam' shows Hanuman shifting gears instantly from a gentle, diplomatic messenger to an absolute destructive force, launching the structural dismantling of Ravana's pride."
     ]
   },
   {
