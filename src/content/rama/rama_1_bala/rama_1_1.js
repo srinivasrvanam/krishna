@@ -2162,46 +2162,65 @@ const verses = [
     chapter: 1,
     number: 40,
     sloka: [
-      "गते तु भरते श्रीमान् सत्यसन्धो जितेन्द्रियः |",
-      "रामोऽथ लक्षयामास पौरजानपदस्य च ||"
+      "गते तु भरते श्रीमान् सत्यसन्धो जितेन्द्रियः || 39b",
+      "रामस्तु पुनरालक्ष्य नागरस्य जनस्य च |",
+      "तत्रागमनमेकाग्रो दण्डकान्प्रविवेश ह || 40"
     ],
     sloka_tel: [
-      "గతే తు భరతే శ్రీమాన్ సత్యసంధో జితేంద్రియః |",
-      "రామోఽథ లక్షయామాస పౌరజానపదస్య చ ||"
+      "గతే తు భరతే శ్రీమాన్ సత్యసంధో జితేంద్రియః || 39b",
+      "రామస్తు పునరాలక్ష్య నాగరస్య జనస్య చ |",
+      "తత్రాగమనమేకాగ్రో దండకాన్ప్రవివేశ హ || 40"
     ],
     vicheda: [
-      "गते तु भरते श्रीमान् सत्य-सन्धः जित-इन्द्रियः |",
-      "रामः अथ लक्षयामास पौर-जानपदस्य च ||"
+      "गते तु भरते श्रीमान् सत्य-सन्धः जित-इन्द्रियः",
+      "रामः तु पुनः आलक्ष्य नागरस्य जनस्य च",
+      "तत्र आगमनम् एकाग्रः दण्डकान् प्रविवेश ह"
     ],
     anvaya: [
-      "भरते गते तु, अथ श्रीमान् सत्यसन्धो जितेन्द्रियः रामः पौरजानपदस्य च (पुनः पुनः आगमनं) लक्षयामास ||"
+      "श्रीमान् सत्यसन्धः जितेन्द्रियः एकाग्रः रामः तु",
+      "- भरते गते तु",
+      "- तत्र नागरस्य जनस्य च पुनः आगमनम् आलक्ष्य",
+      "दण्डकान् प्रविवेश ह |"
     ],
-    prose: [],
+    prose: [
+      "Glorious Rama, who is strictly devoted to truth, master of senses, singularly focus on his duty",
+      "- when Bharatha left",
+      "- anticipated that the citizens of Ayodhya would repeatedly visit him there",
+      "entered the deep forest (Dandakaranya)",
+    ],
     transl: [
-      "After Bharata had departed, the glorious Rama, who was ever devoted to truth and possessed absolute control over his senses, noticed that the citizens and rural folks kept visiting their forest retreat."
+      "After Bharata had departed, the glorious Rama—who was strictly devoted to truth, master of his senses, and singularly focused on his duty—anticipated that the citizens of Ayodhya would repeatedly visit him there. Therefore, he chose to move further away and entered the deep recesses of the Dandaka forest."
     ],
     transl_tel: [
-      "భరతుడు వెళ్ళిపోయిన తర్వాత, శ్రీమంతుడు, సత్యసంధుడు, జితేంద్రియుడు అయిన రాముడు, తమను చూడటానికి పురప్రజలు, జానపదులు (గ్రామీణులు) పదే పదే అక్కడికి వస్తుండటాన్ని గమనించాడు."
+      "భరతుడు వెళ్ళిపోయిన తరువాత, శ్రీమంతుడు, సత్యసంధుడు, జితేంద్రియుడు అయిన రాముడు ఏకాగ్రచిత్తుడై ఆలోచించాడు. అయోధ్యా నగర ప్రజలు తనను వెతుక్కుంటూ మళ్లీ మళ్లీ ఇక్కడికి వస్తారని గ్రహించి, ఆయన ఆ చిత్రకూట ప్రాంతాన్ని విడిచి దండకారణ్యంలోకి ప్రవేశించాడు."
     ],
     essence: [
-      "Once Bharata leaves, Rama realizes that Chitrakoota is no longer a quiet, isolated sanctuary. Because it is too close to Ayodhya, crowds of townspeople and curious citizens continue to trek out to see them, disrupting the peaceful, contemplative atmosphere required for their ascetic life."
+      "Now that Bharata has left with the sandals, Chitrakoot is no longer a hidden refuge. Rama realizes that its proximity to Ayodhya means citizens and royal delegations will constantly travel back and forth to visit him, which would disrupt his vow of quiet exile and disturb the local ascetics. To maintain the integrity of his father's command, Rama decides to move deeper into the wild and perilous Dandaka forest."
     ],
     meanings: [
-      "गते = Having left / Departed",
-      "तु = But / After",
-      "भरते = Bharata (locative absolute: 'after Bharata had left')",
-      "श्रीमान् = The glorious / Majestic one",
-      "मृत्य-सन्धः = Bound to truth / True to his vows",
+      "गते = Having departed / Gone",
+      "तु = Indeed",
+      "भरते = Bharata (locative absolute: 'once Bharata had left')",
+      "श्रीमान् = The glorious / Illustrious one",
+      "सत्य-सन्धः = One bound strictly to truth",
       "जित-इन्द्रियः = Master of his senses / Self-controlled",
       "रामः = Rama",
-      "अथ = Then / Thereafter",
-      "लक्षयामास = Noticed / Perceived clearly",
-      "पौर-जानपदस्य = Of the city folk (Poura) and country folk (Janapada)",
-      "च = And"
+      "तु = But / On his part",
+      "पुनः = Again",
+      "आलक्ष्य = Anticipating / Realizing / Foreseeing",
+      "नागरस्य = Of the city",
+      "जनस्य = Of the people / Citizens",
+      "च = And",
+      "तत्र = There (at Chitrakoot)",
+      "आगमनम् = The arrival / Commuting",
+      "एकाग्रः = Undistracted / Single-mindedly focused",
+      "दण्डकान् = The Dandaka forest (plural usage referring to the vast regions)",
+      "प्रविवेश = Entered deeply",
+      "ह = Verily (historical emphasis)"
     ],
     grammar: [],
     notes: [
-      "This verse sets up the reason for their next major geographic move. Rama’s high popularity makes true isolation impossible near the borders of Kosala, forcing him to seek privacy deeper inside central India's dense jungles."
+      "The terms 'jitendriyah' (master of senses) and 'ekagrah' (single-minded) explain Rama's mental state. He wasn't swayed by the temptation to stay near the comforts of civilization or the emotional pull of his subjects. His singular focus was the uncompromised fulfillment of his fourteen-year forest vow."
     ]
   },
   {
