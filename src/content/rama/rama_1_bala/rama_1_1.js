@@ -3873,47 +3873,47 @@ const verses = [
     chapter: 1,
     number: 78,
     sloka: [
-      "दर्शयामास च आत्मानं समुद्रः सरितां पतिः |",
-      "समुद्रवचनाच्चैव नलं सेतुमकारयत् ||"
+      "सोऽभिगम्य महात्मानं कृत्वा रामं प्रदक्षिणम् |",
+      "न्यवेदयदमेयात्मा दृष्टा सीतेति तत्त्वतः || 78"
     ],
     sloka_tel: [
-      "దర్శయామాస చ ఆత్మానం సముద్రః సరితాం పతిః |",
-      "సముద్రవచనాచ్చైవ నలం సేతుమకారయత్ ||"
+      "సోఽభిగమ్య మహాత్మానం కృత్వా రామం ప్రదక్షిణమ్ |",
+      "న్యవేదయదమేయాత్మా దృష్టా సీతేతి తత్త్వతః || 78"
     ],
     vicheda: [
-      "दर्शयामास च आत्मानम् समुद्रः सरिताम् पतिः |",
-      "समुद्र-वचनात् च एव नलम् सेतुम् अकारयत् ||"
+      "सः अभिगम्य महा-आत्मानम् कृत्वा रामम् प्रदक्षिणम्",
+      "न्यवेदयत् अमेयात्मा दृष्टा सीता इति तत्त्वतः"
     ],
     anvaya: [
-      "सरितां पतिः समुद्रः आत्मानम् दर्शयामास च, समुद्रवचनात् च एव (रामः) नलम् सेतुम् अकारयत् ||"
+      "अमेयात्मा सः महात्मानम् रामम् अभिगम्य प्रदक्षिणम् कृत्वा च, 'सीता दृष्टा' इति तत्त्वतः न्यवेदयत् ||"
     ],
     prose: [],
     transl: [
-      "The lord of rivers, the ocean deity, emerged from the waves to offer his surrender. Following his guidance, Rama had the architect monkey Nala construct a monumental floating bridge across the waters."
+      "Approaching the high-souled Rama and reverently walking clockwise around him, the boundless-minded Hanuman delivered the true account of his discovery, declaring, 'Sita has been found!'"
     ],
     transl_tel: [
-      "అప్పుడు నదులకు అధిపతియైన సముద్రుడు ప్రత్యక్షమై రామునికి నమస్కరించాడు. ఆ సముద్రుని సూచన ప్రకారమే రాముడు వానర శిల్పియైన నలుడి ద్వారా సముద్రంపై వంతెన (సేతువు) నిర్మింపజేశాడు."
+      "అపారమైన బుద్ధిసంపద గల ఆ హనుమంతుడు మహాత్ముడైన శ్రీరాముని సమీపించి, ఆయనకు భక్తితో ప్రదక్షిణము చేసి, యథార్థముగా 'సీతాదేవి నా చేత చూడబడినది' (కనుగొనబడినది) అని సత్యసందేశాన్ని విన్నవించాడు."
     ],
     essence: [
-      "Terrified by Rama’s rage, the ocean deity Samudra rises from the depths, bowing in deep reverence. He explains that he cannot alter his fluid nature to split the sea, but offers a solution: Nala, the son of the divine architect Viswakarma, is in their ranks. Under Nala’s direction, the monkeys can throw rocks and trees into the water, and the sea will support them to create a stable bridge."
+      "Landing back on the northern shores, Hanuman wastes no time. He hurries back to Rama's camp. Knowing Rama is in agony, Hanuman carefully constructs his opening line. Instead of saying 'I went to Lanka and saw Sita,' he places the verb first—*Drishta Sita* ('Seen is Sita')—instantly extinguishing Rama's burning anxiety. He circumambulates Rama as a mark of supreme respect and gives a precise, firsthand report of her welfare and unbroken fidelity."
     ],
     meanings: [
-      "दर्शयामास = Revealed / Showed",
-      "च = And",
-      "आत्मानम् = Himself",
-      "समुद्रः = The ocean god",
-      "सरिताम् = Of rivers",
-      "पतिः = The lord / Husband",
-      "समुद्र-वचनात् = Based on the counsel / Words of the ocean god",
-      "च = And",
-      "एव = Truly",
-      "नलम् = Through Nala (the engineer Vanara)",
-      "सेतुम् = The bridge (*Rama Setu*)",
-      "अकारयत् = Caused to be built / Created"
+      "सः = He (Hanuman)",
+      "अभिगम्य = Having approached / Reached",
+      "महा-आत्मानम् = The high-souled / Great-natured one",
+      "कृत्वा = Having made / Performed",
+      "रामम् = Rama",
+      "प्रदक्षिणम् = Circumambulation (clockwise walking out of deep reverence)",
+      "न्यवेदयत् = Announced / Reported / Communicated",
+      "अमेयात्मा = One of boundless intelligence / Immeasurable soul",
+      "दृष्टा = Has been seen / Found",
+      "सीता = Sita",
+      "इति = Thus / In this manner",
+      "तत्त्वतः = Truly / Factually / In accordance with reality"
     ],
     grammar: [],
     notes: [
-      "The phrase *'Saritam patih'* (lord of rivers) underlines the ocean's supremacy over water. The construction of the *Rama Setu* stands out as an engineering marvel born from a collaborative effort between human determination, engineering expertise, and nature's cooperation."
+      "Valmiki’s use of 'drishta siteti' is celebrated across literary history. Placing the word 'Drishta' (seen) right at the start of the message is a masterstroke of communication; it answers Rama's burning question within a single syllable, preventing any momentary panic that a delayed 'Sita...' might cause. The epithet 'ameyātmā' honors Hanuman's supreme emotional intelligence in this critical moment."
     ]
   },
   {
