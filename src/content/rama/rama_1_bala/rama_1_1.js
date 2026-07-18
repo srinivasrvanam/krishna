@@ -2524,34 +2524,37 @@ const verses = [
     number: 48,
     sloka: [
       "ततः शूर्पणखावाक्यादुद्युक्तान् सर्वराक्षसान् |",
-      "खरं त्रिशिरसं चैव दूषणं चैव राक्षसम् ||"
+      "खरं त्रिशिरसं चैव दूषणं चैव राक्षसम् || 47",
+      "निजघान रणे रामस्तेषां चैव पदानुगान् | 48a"
     ],
     sloka_tel: [
       "తతః శూర్పణఖావాక్యాదుద్యుక్తాన్ సర్వరాక్షసాన్ |",
-      "ఖరం త్రిశిరసం చైవ దూషణం చైవ రాక్షసమ్ ||"
+      "ఖరం త్రిశిరసం చైవ దూషణం చైవ రాక్షసమ్ || 47",
+      "నిజఘాన రణే రామस्तेషాం చైవ పదానుగాన్ | 48a"
     ],
     vicheda: [
-      "ततः शूर्पणखा-वाक्यात् उद्युक्तान् सर्व-राक्षसान् |",
-      "खरम् त्रिशिरसम् च एव दूषणम् च एव राक्षसम् ||"
+      "ततः शूर्पणखा-वाक्यात् उद्युक्तान् सर्व-राक्षसान्",
+      "खरम् त्रिशिरसम् च एव दूषणम् च एव राक्षसम्",
+      "निजघान रणे रामः तेषाम् च एव पदानुगान्"
     ],
     anvaya: [
-      "ततः शूर्पणखावाक्यात् उद्युक्तान् सर्वराक्षसान् खरं त्रिशिरसं च एव दूषणं राक्षसम् च एव... ||"
+      "ततः शूर्पणखावाक्यात् उद्युक्तान् सर्वराक्षसान् खरम् त्रिशिरसं च एव दूषणं च राक्षसम् तेषाम् पदानुगान् च एव रामः रणे निजघान ||"
     ],
     prose: [],
     transl: [
-      "Thereupon, incited by the furious and humiliating complaints of Shurpanakha, all the garrisoned Rakshasas mobilized for war, led by the savage commanders Khara, Trishiras, and Dushana..."
+      "Thereafter, incited by the furious words of Shurpanakha, an entire army of demons mobilized for battle. Rama single-handedly destroyed them all in combat, including their powerful generals Khara, Trishiras, and Dushana, along with their thousands of military followers."
     ],
     transl_tel: [
-      "ఆ తర్వాత శూర్పణఖ మాటల వల్ల కోపించి యుద్ధానికి సిద్ధపడిన రాక్షసులందరినీ, మరియు వారి నాయకులైన ఖరుడు, త్రిశిరస్కుడు, దూషణుడు అనే రాక్షసులను..."
+      "ఆ తర్వాత శూర్పణఖ మాటలతో రెచ్చిపోయి యుద్ధానికి సిద్ధపడిన రాక్షసులందరినీ శ్రీరాముడు రణరంగంలో హతమార్చాడు. వారి సేనాధిపతులైన ఖరుడు, త్రిశిరస్సు, దూషణుడు అనే రాక్షస వీరులను, వారితో పాటు వచ్చిన సైన్యమంతటినీ ఆయన ఒక్కడే సంహరించాడు."
     ],
     essence: [
-      "Bleeding and humiliated, Shurpanakha flies back to her brothers, the local Rakshasa warlords ruling Janasthana. Enraged by her story, the regional commanders—Khara, Dushana, and Trishiras—instantly mobilize their entire terrifying army to destroy Rama."
+      "Following her humiliation, Shurpanakha flees to Janasthana and incites her brothers to seek revenge. Khara, Dushana, and Trishiras march out with a massive vanguard army of 14,000 rakshasas. In a stunning display of divine warfare, Rama stands alone against the entire horde and completely obliterates them, demonstrating his absolute military supremacy in the wilderness."
     ],
     meanings: [
-      "ततः = Then / Thereupon",
-      "शूर्पणखा-वाक्यात् = Due to the words / Instigation of Shurpanakha",
-      "उद्युक्तान् = Mobilized / Prepared for battle",
-      "सर्व-राक्षसान् = All the Rakshasa forces",
+      "ततः = Thereafter / Then",
+      "शूर्पणखा-वाक्यात् = Due to the words / Incitement of Shurpanakha",
+      "उद्युक्तान् = Mobilized / Prepared for war",
+      "सर्व-राक्षसान् = All the demons",
       "खरम् = Khara",
       "त्रिशिरसम् = Trishiras",
       "च = And",
@@ -2559,11 +2562,18 @@ const verses = [
       "दूषणम् = Dushana",
       "च = And",
       "एव = Indeed",
-      "राक्षसम् = The demon"
+      "राक्षसम् = The demons",
+      "निजघान = Slew / Destroyed",
+      "रणे = In the battle / On the battlefield",
+      "रामः = Rama",
+      "तेषाम् = Their",
+      "च = And",
+      "एव = Indeed",
+      "पदानुगान् = Followers / Infantry troops / Soldiers"
     ],
     grammar: [],
     notes: [
-      "Like previous narrative bridges, this verse lists the opposing forces and carries over directly into verse 49 to deliver the final tactical outcome of the battle."
+      "This battle is a major turning point in the Aranya Kanda. Rama's single-handed destruction of 14,000 elite demons along with their top generals shatters the illusion of rakshasa invincibility in Dandakaranya and directly prompts Akampana and Ravana to plot their asymmetric counter-strategy."
     ]
   },
   {
