@@ -4166,44 +4166,46 @@ const verses = [
     chapter: 1,
     number: 85,
     sloka: [
-      "भरद्वाजाश्रमं गत्वा रामः सत्यपराक्रमः |",
-      "भरतस्यान्तिकं रामो हनूमन्तं व्यसर्जयत् ||"
+      "अभिषिच्य च लङ्कायां राक्षसेन्द्रं विभीषणम् |",
+      "कृतकृत्यस्ततो रामो विज्वरः प्रमुमोद ह || 85"
     ],
     sloka_tel: [
-      "భరద్వాజాశ్రమం గత్వా రామః సత్యపరాక్రమః |",
-      "భరతస్యాంతికం రామో హనూమంతం వ్యసర్జయత్ ||"
+      "అభిషిచ్య చ లఙ్కాయాం రాక్షసేంద్రం విభీషణమ్ |",
+      "కృతకృత్యస్తతో రామో విజ్వరః ప్రముమోద హ || 85"
     ],
     vicheda: [
-      "भरद्वाज-आश्रमम् गत्वा रामः सत्य-पराक्रमः |",
-      "भरतस्य अन्तिकम् रामः हनूमन्तम् व्यसर्जयत् ||"
+      "अभिषिच्य च लङ्कायाम् राक्षस-इन्द्रम् विभीषणम्",
+      "कृतकृत्यः ततः रामः विज्वरः प्रमुमोद ह"
     ],
     anvaya: [
-      "सत्यपराक्रमः रामः भरद्वाजाश्रमं गत्वा, भरतस्य अन्तिकम् हनूमन्तम् व्यसर्जयत् ||"
+      "ततः लङ्कायाम् राक्षसेन्द्रम् विभीषणम् अभिषिच्य च, रामः कृतकृत्यः विज्वरः (सन्) प्रमुमोद ह ||"
     ],
     prose: [],
     transl: [
-      "Arriving at the hermitage of Sage Bharadwaja on the outskirts, the truly val-iant Rama paused his journey. He immediately dispatched Hanuman ahead as an envoy to meet Bharata."
+      "Then, having consecrated Vibhishana as the king of the demons in Lanka, Rama felt entirely fulfilled, free from all anxiety, and rejoiced exceedingly."
     ],
     transl_tel: [
-      "సత్యపరాక్రముడైన రాముడు మార్గమధ్యంలో భరద్వాజ మహర్షి ఆశ్రమానికి చేరుకున్నాడు. అక్కడి నుండి భరతుడి వద్దకు ముందస్తు సమాచారం చేరవేయడం కోసం హనుమంతుడిని పంపించాడు."
+      "ఆ పిమ్మట, లంకా నగరంలో రాక్షసరాజైన విభీషణునికి పట్టాభిషేకం చేసిన తర్వాత, శ్రీరాముడు తాను చేయవలసిన కార్యాన్ని పూర్తి చేసినవాడై (కృతకృత్యుడై), సమస్త దుఃఖాల నుండి విముక్తుడై పరమానందాన్ని పొందాడు."
     ],
     essence: [
-      "The Pushpaka chariot lands near Prayagraj at Sage Bharadwaja’s ashram. Knowing that the 14-year exile period is ending exactly that day, Rama is deeply concerned about Bharata's mental state—Bharata had vowed to step into a fire if Rama delayed even by a day. Rama sends Hanuman ahead to announce his survival and gauge Bharata's real reaction."
+      "With the war won and Sita vindicated, Rama crowns Ravana's righteous brother, Vibhishana, as the new emperor of Lanka. This acts as the final step in restoring cosmic order. Having destroyed evil and established a righteous ruler in its place, Rama fulfills his epic vows. The internal fever of anxiety, grief, and exile that plagued him for years vanishes completely (*vijvarah*), allowing him to finally experience absolute, unclouded peace."
     ],
     meanings: [
-      "भरद्वाज-आश्रमम् = The hermitage of Sage Bharadwaja",
-      "गत्वा = Having reached / Visited",
+      "अभिषिच्य = Having consecrated / Crowned",
+      "च = And",
+      "लङ्कायाम् = In Lanka",
+      "राक्षस-इन्द्रम् = As the lord/king of the rakshasas",
+      "विभीषणम् = Vibhishana",
+      "कृतकृत्यः = One who has accomplished his mission / Fulfilled his duty",
+      "ततः = Then / Subsequently",
       "रामः = Rama",
-      "sitya-parakramah = One whose prowess is rooted in truth",
-      "भरतस्य = Of Bharata",
-      "अन्तिकम् = To the presence / Near",
-      "रामः = Rama",
-      "हनूमन्तम् = Hanuman",
-      "व्यसर्जयत् = Sent forth / Dispatched"
+      "विज्वरः = Free from fever / Free from mental agony and anxiety",
+      "प्रमुमोद = Rejoiced exceedingly / Felt immense joy",
+      "ह = Indeed (used to emphasize a historical fact)"
     ],
     grammar: [],
     notes: [
-      "Sending Hanuman shows Rama’s sharp emotional intelligence. He wants to ensure his sudden return with a massive monkey army doesn't shock the kingdom, while also testing if Bharata has grown attached to the throne during his absence."
+      "The word 'vijvarah' (literally 'feverless') is a beautiful medical metaphor for spiritual and mental relief. It shows that Rama's intense psychological burden, carried since the day of his exile, has broken. Furthermore, crowning Vibhishana emphasizes Rama's complete lack of imperialistic greed; he fought for justice, not territorial expansion."
     ]
   },
   {
