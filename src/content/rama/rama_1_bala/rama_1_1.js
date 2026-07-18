@@ -4597,45 +4597,51 @@ const verses = [
     chapter: 1,
     number: 95,
     sloka: [
-      "दशवर्षसहस्राणि दशवर्षशतानि च |",
-      "रामो राज्यमुपासित्वा ब्रह्मलोकं प्रयास्यति ||"
+      "अश्वमेधशतैरिष्ट्वा तथा बहुसुवर्णकैः || 94b",
+      "गवां कोट्ययुतं दत्त्वा विद्वद्भ्यो विधिपूर्वकम् | |",
+      "असंख्येयं धनं दत्त्वा ब्राह्मणेभ्यो महायशाः || 95"
     ],
     sloka_tel: [
-      "దశवर्षసహస్రాణి దశवर्षశతాని చ |",
-      "రామో రాజ్యముపాసిత్వా బ్రహ్మలోకం ప్రయాస్యతి ||"
+      "అశ్వమేధశతైరిష్ట్వా తథా బహుసువర్ణకైః || 94b",
+      "గవాం కోట్యయుతం దత్త్వా విద్వద్భ్యో విధిపూర్వకమ్ | |",
+      "అసంఖ్యేయం ధనం దత్త్వా బ్రాహ్మణేభ్యో మహాయశాః || 95"
     ],
     vicheda: [
-      "दश वर्ष-सहस्राणि दश वर्ष-शतानि च |",
-      "रामः राज्यम् उपासित्वा ब्रह्म-लोकम् प्रयास्यति ||"
+      "अश्वमेध-शतैः इष्ट्वा तथा बहु-सुवर्णकैः",
+      "गवाम् कोटि-अयुतम् दत्त्वा विद्वद्भ्यः विधि-पूर्वकम्",
+      "असंख्येयम् धनम् दत्त्वा ब्राह्मणेभ्यः महा-यशाः"
     ],
     anvaya: [
-      "रामः दशवर्षसहस्राणि दशवर्षशतानि च राज्यम् उपासित्वा ब्रह्मलोकं प्रयास्यति ||"
+      "महायशाः (रामः) बहुसुवर्णकैः तथा अश्वमेधशतैः इष्ट्वा, विधिपूर्वकम् विद्वद्भ्यः गवाम् कोट्ययुतम् दत्त्वा, ब्राह्मणेभ्यः असङ्ख्येयम् धनम् दत्त्वा ||"
     ],
     prose: [],
     transl: [
-      "Having served and protected the empire as a spiritual duty for eleven thousand years, Rama will eventually return to his supreme, eternal celestial abode."
+      "Having performed hundreds of Ashvamedha (horse sacrifice) rituals as well as numerous other sacrifices requiring immense offerings of gold, the highly illustrious Rama distributed a hundred billion cows to wise scholars in strict accordance with scriptural injunctions, and bestowed incalculable wealth upon the brahmanas."
     ],
     transl_tel: [
-      "రాముడు పదివేల సంవత్సరాల పైగా మరో వెయ్యి సంవత్సరాలు (మొత్తం 11 వేల సంవత్సరాలు) రాజ్యాన్ని పరిపాలించి, ఆపై బ్రహ్మలోకానికి (తన పరమపదానికి) చేరుకుంటాడు."
+      "మహాకీర్తిశాలియైన శ్రీరాముడు వందలాది అశ్వమేధ యాగాలను, అపారమైన బంగారంతో కూడిన అనేక ఇతర యజ్ఞాలను శాస్త్రోక్తంగా నిర్వహించాడు. విద్వాంసులైన పండితులకు విధిపూర్వకంగా పదికోట్ల ఆవులను దానం చేశాడు మరియు బ్రాహ్మణులకు లెక్కింపలేనంత ధనాన్ని దానధర్మాలుగా సమర్పించాడు."
     ],
     essence: [
-      "Rama’s presence on Earth spans an incredible eleven thousand years (0,000 + 1,000$). The text intentionally uses the word *upasitva* (worshipped) instead of just 'ruled,' showing that he treats governing his people as a sacred act of devotion. Once his earthly mission is complete, he returns to his cosmic source."
+      "Valmiki highlights the unrivaled spiritual merit, charity, and religious legacy of Rama's administration. As a righteous monarch, Rama performs hundreds of rigorous Vedic sacrifices, including the pinnacle Ashvamedha ritual, which requires immense state resources and absolute sovereignty. Instead of accumulating personal imperial treasures, he acts as a custodian of wealth, systematically returning fortunes back to society. He gives away immense quantities of sacred livestock (*gavam kotyayutam*) and bottomless wealth to learned sages and scholars, reinforcing knowledge, culture, and spiritual order across his realm."
     ],
     meanings: [
-      "दश = Ten",
-      "वर्ष-सहस्राणि = Thousands of years",
-      "दश = Ten",
-      "वर्ष-शतानि = Hundreds of years",
-      "च = And",
-      "रामः = Rama",
-      "राज्यम् = The kingdom",
-      "उपासित्वा = Having reverently served / Governed as worship",
-      "ब्रह्म-लोकम् = The ultimate divine plane / Spiritual source",
-      "प्रयास्यति = Will depart toward"
+      "अश्वमेध-शतैः = With hundreds of Ashvamedha (horse) sacrifices",
+      "इष्ट्वा = Having worshipped / performed rituals",
+      "तथा = As well as",
+      "बहु-सुवर्णकैः = Sacrifices involving massive donations of gold (such as Bahusuvarnaka)",
+      "गवाम् = Of cows / cattle wealth",
+      "कोटि-अयुतम् = Ten thousand crores (one hundred billion / astronomical amount)",
+      "दत्त्वा = Having given / donated",
+      "विद्वद्भ्यः = To the wise scholars / men of learning",
+      "विधि-पूर्वकम् = In strict accordance with prescribed rituals / scriptural codes",
+      "असंख्येयम् = Incalculable / countless / infinite",
+      "धनम् = Wealth / treasures",
+      "ब्राह्मणेभ्यः = To the brahmanas / priests",
+      "महा-यशाः = The highly illustrious one / possessor of vast glory (Rama)"
     ],
     grammar: [],
     notes: [
-      "In the context of the *Treta Yuga*, human lifespans were described as vastly longer than today's. Eleven thousand years signifies a long, deeply anchored epoch of uninterrupted peace and cultural stability."
+      "The compound 'gavam kotyayutam' (literally ten thousand crores of cows) highlights livestock as the ancient benchmark of agrarian economic wealth. The phrase 'vidhi-purvakam' denotes that Rama's philanthropy was not a chaotic display of vanity, but a structured, ritualistic redistribution of state wealth back to the guardians of knowledge and morality, earning him the epithet 'maha-yashah'."
     ]
   },
   {
