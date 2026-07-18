@@ -4258,47 +4258,44 @@ const verses = [
     chapter: 1,
     number: 87,
     sloka: [
-      "नन्दिग्रामे जटां हित्वा भ्रातृभिः सहितोऽनघः |",
-      "रामः सीतामनुप्राप्य राज्यं पुनरवाप्तवान् ||"
+      "भरद्वाजाश्रमं गत्वा रामः सत्यपराक्रमः |",
+      "भरतस्यान्तिकं रामो हनुमन्तं व्यसर्जयत् || 87"
     ],
     sloka_tel: [
-      "నందిగ్రామే జటాం హిత్వా భ్రాతృభిః సహితోఽనఘః |",
-      "రామః సీతామనుప్రాప్య రాజ్యం పునరవాప్తవాన్ ||"
+      "భరద్వాజాశ్రమం గత్వా రామః సత్యపరాక్రమః |",
+      "భరతస్యాంతికం రామో హనుమంతం వ్యసర్జయత్ || 87"
     ],
     vicheda: [
-      "नन्दिग्रामे जटाम् हित्वा भ्रातृभिः सहितः अनघः |",
-      "रामः सीताम् अनुप्राप्य राज्यम् पुनः अवाप्तवान् ||"
+      "भरद्वाज-आश्रमम् गत्वा रामः सत्य-पराक्रमः",
+      "भरतस्य अन्तिकम् रामः हनुमन्तम् व्यसर्जयत्"
     ],
     anvaya: [
-      "अनघः रामः नन्दिग्रामे जटां हित्वा भ्रातृभिः सहितः, सीताम् अनुप्राप्य राज्यम् पुनः अवाप्तवान् ||"
+      "सत्यपराक्रमः रामः भरद्वाजाश्रमम् गत्वा, (ततः) रामः भरतस्य अन्तिकम् हनुमन्तम् व्यसर्जयत् ||"
     ],
     prose: [],
     transl: [
-      "At Nandigram, the sinless Rama shaved off his matted ascetic locks. Reunited deeply with all his brothers and having successfully recovered Sita, he triumphantly reclaimed his rightful kingdom."
+      "Having reached the hermitage of Sage Bharadvaja on his return journey, Rama, whose valor is always anchored in truth, dispatched Hanuman ahead into the presence of Bharata."
     ],
     transl_tel: [
-      "పాపరహితుడైన ఆ రాముడు నందిగ్రామంలో తన జటలను తొలగించుకున్నాడు. తన సోదరులందరితో కలిసి, సీతాదేవి సమేతుడై తన స్వంత రాజ్యాన్ని తిరిగి హస్తగతం చేసుకున్నాడు."
+      "తిరుగుప్రయాణంలో సత్య పరాక్రమశాలియైన శ్రీరాముడు భరద్వాజ మహర్షి ఆశ్రమానికి చేరుకున్నాడు. అక్కడ నుండి ఆయన భరతుని వద్దకు క్షేమ సమాచారాన్ని మోసుకువెళ్లే దూతగా హనుమంతుడిని ముందుగా పంపించాడు."
     ],
     essence: [
-      "Landing at Nandigram, Rama sheds his identity as a forest hermit. He and Lakshmana untie and shave off their matted hair (*Jata*). Surrounded by his three brothers—Bharata, Lakshmana, and Shatrughna—and with Sita by his side, Rama formally accepts the governance of Ayodhya back from Bharata."
+      "As the Pushpaka Vimana nears Ayodhya, it makes a brief stopover at Prayaga at the ashram of Sage Bharadvaja. Rama remembers the solemn vow made by Bharata: if Rama did not return the exact day the fourteen-year exile ended, Bharata would enter a blazing fire. To prevent a catastrophic misunderstanding due to any slight delay, Rama wisely sends Hanuman ahead as an envoy to gauge Bharata's state of mind and joyfully announce their immediate arrival."
     ],
     meanings: [
-      "नन्दिग्रामे = In Nandigram",
-      "जटाम् = Matted hair locks of an ascetic",
-      "हित्वा = Having shed / Discarded / Shaved",
-      "भ्रातृभिः = With his brothers",
-      "सहितः = Together with",
-      "अनघः = Sinless / Spotless character (Rama)",
+      "भरद्वाज-आश्रमम् = To the hermitage of Sage Bharadvaja",
+      "गत्वा = Having reached / visited",
       "रामः = Rama",
-      "सीताम् = Sita",
-      "अनुप्राप्य = Having retrieved completely",
-      "राज्यम् = The kingdom / Sovereignty",
-      "पुनः = Again",
-      "अवाप्तवान् = Reclaimed / Attained back"
+      "सत्य-पराक्रमः = One whose power/valor is truthful",
+      "भरतस्य = Of Bharata",
+      "अन्तिकम् = To the presence / proximity",
+      "रामः = Rama",
+      "हनुमन्तम् = Hanuman",
+      "व्यसर्जयत् = Dispatched / sent forth"
     ],
     grammar: [],
     notes: [
-      "Shedding the *Jata* marks the formal psychological and social transition from *Vana-vhasa* (forest exile lifestyle) back to *Rajya-pala* (royal duties). It symbolizes the closure of his long period of trials."
+      "The repetition of the name 'Ramah' in both halves of the verse emphasizes his dual role here: first as the triumphant epic hero (*satyaparakramah*) honoring the sages, and second as the caring, anxious older brother taking preemptive strategic steps to safeguard Bharata's life. Sending Hanuman underscores Hanuman's matchless emotional intelligence and diplomacy."
     ]
   },
   {
