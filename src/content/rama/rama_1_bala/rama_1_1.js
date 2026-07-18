@@ -4302,43 +4302,47 @@ const verses = [
     chapter: 1,
     number: 88,
     sloka: [
-      "प्रहृष्टमुदितो लोकस्तुष्टः पुष्टः सुधार्मिकः |",
-      "निरामयो निरंतको दुर्भिक्षभयवर्जितः ||"
+      "पुनराख्यायिकां जल्पन् सुग्रीवसहितश्च सः |",
+      "पुष्पकं तत्समारुह्य नन्दिग्रामं ययौ तदा || 88"
     ],
     sloka_tel: [
-      "ప్రహృష్టముదితో లోకస్తుష్టః పుష్టః సుధార్మికః |",
-      "నిరామయో నిరంతకో దుర్భిక్షభయవర్జితః ||"
+      "పునరాఖ్యాయికాం జల్పన్ సుగ్రీవసహితశ్చ సః |",
+      "పుష్పకం తత్సమారుహ్య నందిగ్రామం యయౌ తదా || 88"
     ],
     vicheda: [
-      "प्रहृष्ट-मुदितः लोकः तुष्टः पुष्टः सु-धार्मिकः |",
-      "निरामयः निरंतकः दुर्भिक्ष-भय-वर्जितः ||"
+      "पुनः आख्यायिकाम् जल्पन् सुग्रीव-सहितः च सः",
+      "पुष्पकम् तत् समारुह्य नन्दिग्रामम् ययौ तदा"
     ],
     anvaya: [
-      "(రామరాజ్యే) लोकः प्रहृष्टमुदितः तुष्टः पुष्टः सुधार्मिकः निरामयः निरंतकः दुर्भिक्षभयवर्जितः (చ అభవత్) ||"
+      "तदा सुग्रीवसहितः च सः पुनः आख्यायिकाम् जल्पन्, तत् पुष्पकम् समारुह्य नन्दिग्रामम् ययौ ||"
     ],
     prose: [],
     transl: [
-      "Under his reign, the populace became exceedingly joyful, deeply contented, well-nourished, and naturally anchored in high virtue. The realm was free from diseases, premature deaths, and the terrifying fear of famine."
+      "Then, accompanied by Sugriva, Rama boarded that Pushpaka chariot once again and, while narrating past events and stories of their journey, traveled to Nandigrama."
     ],
     transl_tel: [
-      "రాముని పాలనలో ప్రజలందరూ నిత్యసంతోషంతో, తృప్తితో, పుష్టిగా, ధర్మబద్ధంగా జీవించారు. ఆ రాజ్యంలో రోగాలు, అకాల మరణాల భయం కానీ, క్షామం (కరువు) భయం కానీ లేకుండా పోయాయి."
+      "ఆ సమయంలో సుగ్రీవునితో కూడివున్న ఆ శ్రీరాముడు, గత వనవాస వృత్తాంతాలను, విశేషాలను ముచ్చటించుకుంటూ, మరల ఆ పుష్పక విమానాన్ని అధిరోహించి నందిగ్రామానికి చేరుకున్నాడు."
     ],
     essence: [
-      "With Rama’s ascension, a golden era begins. The citizens experience physical abundance and emotional fulfillment. Social morality thrives naturally. Epidemics disappear, natural disasters cease, and the constant human anxiety over food scarcity or untimely deaths is completely eradicated."
+      "While waiting for Hanuman's return report, Rama takes off from the hermitage toward Ayodhya's outskirts. As the Pushpaka Vimana glides through the air, Rama points out the various forests, rivers, and battlefields below to Sugriva, Sita, and his allies, reminiscing about the trials and triumphs of their past fourteen years. The flight culminates at Nandigrama, the humble village where Bharata had been living like an ascetic while ruling the empire on behalf of Rama's sandals."
     ],
     meanings: [
-      "प्रहृष्ट-मुदितः = Greatly thrilled and happy",
-      "लोकः = The world / The citizens",
-      "तुष्टः = Contented / Satisfied",
-      "पुष्टः = Well-nourished / Physically robust",
-      "सु-धार्मिकः = Highly righteous / Virtuous",
-      "निरामयः = Free from illness / Diseases",
-      "निरंतकः = Free from premature death / Ultimate fear",
-      "दुर्भिक्ष-भय-वर्जितः = Totally devoid of the fear of famine / Drought"
+      "पुनः = Again / Once more",
+      "आख्यायिकाम् = Past stories / Narrations of events / Chronicles",
+      "जल्पन् = Speaking / Conversing / Chatting",
+      "सुग्रीव-सहितः = Along with Sugriva",
+      "च = And",
+      "सः = He (Rama)",
+      "पुष्पकम् = The Pushpaka chariot",
+      "तत् = That",
+      "समारुह्य = Having boarded / Ascended",
+      "नन्दिग्रामम् = To the village of Nandigrama",
+      "ययौ = Went / Journeys to",
+      "तदा = Then / At that time"
     ],
     grammar: [],
     notes: [
-      "This verse introduces the core attributes of *Rama Rajya*—the idealized vision of an enlightened state where the moral character of the leader directly influences the health, economy, and spiritual well-being of the entire civilization."
+      "The word 'ākhyāyikām jalpan' beautifully shows Rama in a relaxed, reflective state after years of intense trauma. Instead of a tense military march, the final approach to his kingdom is a shared, conversational journey with his closest allies, highlighting his warm camaraderie with Sugriva."
     ]
   },
   {
