@@ -2669,45 +2669,47 @@ const verses = [
     chapter: 1,
     number: 51,
     sloka: [
-      "सहायेन मारीचेन राक्षसेन महात्मना |",
-      "इन्द्रस्येव शचीं देवीं जहार जनकात्मजाम् ||"
+      "वार्यमाणः सुबहुशो मारीचेन स रावणः || 50b",
+      "न विरोधो बलवता क्षमो रावण तेन ते | 51a"
     ],
     sloka_tel: [
-      "సహాయేన మారీచేన రాక్షసేన మహాత్మనా |",
-      "ఇంద్రస్యేవ శచీం దేవీం జహార జనకాత్మజామ్ ||"
+      "వార్యమాణః సుబహుశో మారీచేన స రావణః || 50b",
+      "న విరోధో బలవతా క్షమో రావణ తేన తే | 51a"
     ],
     vicheda: [
-      "सहायेन मारीचेन राक्षसेन महा-आत्मना |",
-      "इन्द्रस्य इव शचीम् देवीम् जहार जनक-आत्मजाम् ||"
+      "वार्यमाणः सुबहुशः मारीचेन सः रावणः",
+      "न विरोधः बलवता क्षमः रावण तेन ते"
     ],
     anvaya: [
-      "महात्मना राक्षसेन मारीचेन सहायेन, इन्द्रस्य शचीं देवीम् इव (स्थिताम्) जनकात्मजाम् जहार ||"
+      "सः रावणः मारीचेन सुबहुशः 'रावण! तेन बलवता ते विरोधः न क्षमः' (इति) वार्यमाणः (अपि) ||"
     ],
     prose: [],
     transl: [
-      "With the strategic assistance of the extraordinarily powerful magician-demon Maricha, Ravana forcibly abducted Janaka’s daughter Sita, who was as matchless and sacred as Indra’s divine consort, Queen Shachi."
+      "Though that Ravana was repeatedly warned and dissuaded by Maricha, who pleaded, 'O Ravana! It is not proper or safe for you to oppose that mighty Rama,' he refused to listen."
     ],
     transl_tel: [
-      "మాయావియైన మారీచుడనే రాక్షసుని సహాయంతో, ఇంద్రుని భార్యయైన శచీదేవితో సమానమైన పవిత్రత కలిగిన జనకనందిని సీతాదేవిని రావణుడు అపహరించాడు."
+      "ఆ రావణుడు మారీచుని చేత అనేక పర్యాయాలు వారించబడ్డాడు. 'ఓ రావణా! మహా బలశాలియైన ఆ రాముడితో నీకు వైరము తగదు, అది నీకు క్షేమకరం కాదు' అని మారీచుడు ఎంతో హితవు పలికినప్పటికీ రావణుడు వినలేదు."
     ],
     essence: [
-      "To execute the kidnapping, Ravana enlists the help of Maricha, a demon skilled in illusions. Maricha transforms into a captivating golden deer to lure Rama and Lakshmana away from the hermitage. Once Sita is left unprotected, Ravana sweeps in and abducts her, violating a woman as pure and venerable as the queen of the gods."
+      "Maricha serves as the voice of reason, having experienced Rama's absolute power firsthand in his youth. He desperately tries to check Ravana's reckless anger, advising him that picking a fight with someone as exceptionally powerful as Rama will only lead to utter ruin. However, Ravana's arrogance blinds him to this crucial warning."
     ],
     meanings: [
-      "सहायेन = With the assistance / Help",
+      "वार्यमाणः = Being dissuaded / Restrained / Warned",
+      "सुबहुशः = Many times / Repeatedly",
       "मारीचेन = By Maricha",
-      "राक्षसेन = By the demon",
-      "महा-आत्मना = Of great / Intense power (here used for Maricha's vast magical capabilities)",
-      "इन्द्रस्य = Of Indra",
-      "इव = Like / As",
-      "शचीम् = Shachi",
-      "देवीम् = Goddess / Queen",
-      "जहार = Carried away / Abducted",
-      "जनक-आत्मजाम् = The daughter of Janaka (Sita)"
+      "सः = That",
+      "रावणः = Ravana",
+      "न = Not",
+      "विरोधः = Enmity / Conflict / Opposition",
+      "बलवता = With a powerful person",
+      "क्षमः = Proper / Befitting / Safe",
+      "रावण = O Ravana",
+      "तेन = With him (Rama)",
+      "ते = To you"
     ],
     grammar: [],
     notes: [
-      "Maricha uses his life as a pawn, knowing Rama's arrow will kill him, but fears Ravana's immediate wrath even more. The comparison to Shachi highlights Sita's supreme dignity and emphasizes that Ravana's crime is an affront to cosmic order."
+      "Maricha's counsel ('na virodho balavata ksamo') is a profound piece of political wisdom from the Nitishastra (treatise on ethics and politics): a ruler should never invite conflict with an adversary of superior strength. This setting contrasts Maricha's fearful clarity with Ravana's pride-driven ignorance."
     ]
   },
   {
