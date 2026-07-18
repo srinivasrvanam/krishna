@@ -4551,47 +4551,46 @@ const verses = [
     chapter: 1,
     number: 94,
     sloka: [
-      "राजवंशान् शतगुणान् स्थापयिष्यति राघवः |",
-      "चातुर्वर्ण्यं च लोकेऽस्मिन् स्वे स्वे धर्मे नियोक्ष्यति ||"
+      "नगराणि च राष्ट्राणि धनधान्ययुतानि च || 93b",
+      "नित्यं प्रमुदिताः सर्वे यथा कृतयुगे तथा | 94a"
     ],
     sloka_tel: [
-      "రాజవంశాన్ శతగుణాన్ స్థాపయిష్యతి రాఘవః |",
-      "చాతుర్వర్ణ్యం చ లోకేఽస్మిన్ స్వే స్వే ధర్మే నియోక్ష్యతి ||"
+      "నగరాణి చ రాష్ట్రాణి ధనధాన్యయుతాని చ || 93b",
+      "నిత్యం ప్రముదితాః సర్వే యథా కృతయుగే తథా | 94a"
     ],
     vicheda: [
-      "राज-वंशान् शत-गुणान् स्थापयिष्यति राघवः |",
-      "चातुर्वर्ण्यम् च लोके अस्मिन् स्वे स्वे धर्मे नियोक्ष्यति ||"
+      "नगराणि च राष्ट्राणि धन-धान्य-युतानि च",
+      "नित्यम् प्रमुदिताः सर्वे यथा कृत-युगे तथा"
     ],
     anvaya: [
-      "राघवः अस्मिन् लोके राजवंशान् शतगुणान् स्थापयिष्यति, चातुर्वर्ण्यं च स्वे स्वे धर्मे नियोक्ष्यति ||"
+      "(रामराज्ये) नगराणि च राष्ट्राणि च धनधान्ययुतानि (भविष्यन्ति), सर्वे यथा कृतयुगे तथा नित्यम् प्रमुदिताः (भविष्यन्ति) ||"
     ],
     prose: [],
     transl: [
-      "Rama will elevate and firmly establish hundreds of noble dynasties across the earth, while gently steering the four structural orders of society to remain harmoniously anchored in their respective moral duties."
+      "All the cities and provinces brimmed with boundless wealth and food grains. Every single citizen remained perennially delighted, living in complete harmony just as people did during the golden age of truth."
     ],
     transl_tel: [
-      "రాముడు ఈ లోకంలోని నూతన రాజవంశాలను వందల రెట్లు ప్రతిష్ఠింపజేస్తాడు. సమాజంలోని నాలుగు వర్ణాల ప్రజలను వారి వారి స్వధర్మాలలో నిలిచేలా చేస్తాడు."
+      "శ్రీరాముని పరిపాలనలో నగరాలు, గ్రామాలు (రాష్ట్రాలు) అఖండమైన ధనధాన్యాలతో సంపన్నమై విలసిల్లాయి. ప్రజలందరూ సత్యయుగంలో (కృతయుగంలో) ఉన్నట్లే నిరంతర ఆనందాన్ని, పరమ సంతోషాన్ని అనుభవించారు."
     ],
     essence: [
-      "Instead of running a centralized empire by crushing local leadership, Rama acts as a benevolent overlord. He restores and multiplies hundreds of local royal families, empowering them to rule justly. He also ensures that all segments of society focus cleanly on their duties (*Dharma*), maintaining social balance and stopping exploitation."
+      "Valmiki highlights the macroeconomic prosperity and psychological state of the population under Rama's rule. Economic abundance is not restricted to urban centers; both cities (nagarani) and rural territories (rashtrani) overflow with commercial wealth and agricultural produce. This structural security creates a lifestyle so pure, stress-free, and ethically grounded that it mirrors Satya Yuga (Krita Yuga), the primordial golden age where deceit and misery were entirely non-existent."
     ],
     meanings: [
-      "राज-वंशान् = Royal lineages / Dynasties",
-      "शत-गुणान् = Hundred-fold",
-      "स्थापयिष्यति = Will establish / Solidify",
-      "राघवः = Rama",
-      "चातुर्वर्ण्यम् = The four-fold social order",
+      "नगराणि = Cities / Urban centers",
       "च = And",
-      "लोके = In the world",
-      "अस्मिन् = In this",
-      "स्वे = In their own",
-      "स्वे = Respective",
-      "धर्मे = Duty / Moral path",
-      "नियोक्ष्यति = Will engage / Guide them into"
+      "राष्ट्राणि = Provinces / Rural territories / Kingdoms",
+      "धन-धान्य-युतानि = Filled with wealth and food grains",
+      "च = And",
+      "नित्यम् = Eternally / Perennially",
+      "प्रमुदिताः = Delighted / Highly cheerful",
+      "सर्वे = All the people / Everyone",
+      "यथा = Just as / In the manner of",
+      "कृत-युगे = In the golden age (Krita Yuga / Satya Yuga)",
+      "तथा = In that same way"
     ],
     grammar: [],
     notes: [
-      "Note the sudden grammatical switch here to the future tense (*sthapayisyati, niyoksyati*). Narada is speaking to Valmiki *before* Rama's entire reign plays out, predicting the stable future Rama will create."
+      "The phrase 'yathā kṛtayuge tathā' serves as the ultimate benchmark for idealistic governance. Krita Yuga is conceptually characterized by spontaneous righteousness and an absence of systemic suffering. By transforming Treta Yuga into Krita Yuga through his personal conduct, Rama sets the timeless standard for a utopian welfare state."
     ]
   },
   {
