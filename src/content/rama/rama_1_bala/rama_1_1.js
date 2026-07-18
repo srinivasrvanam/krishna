@@ -2289,97 +2289,61 @@ const verses = [
   },
   {
     chapter: 1,
-    number: 42,
-    sloka: [
-      "विराधं राक्षसं हत्वा शरभङ्गं ददर्श ह |",
-      "सुतीक्ष्णं च अप्यगस्त्यं च अगस्त्यभ्रातरं तथा ||"
-    ],
-    sloka_tel: [
-      "విరాధం రాక్షసం హత్వా శరభంగం దదర్శ హ |",
-      "సుతీక్ష్ణం చ అప్యగస్త్యం చ అగస్త్యభ్రాతరం తథా ||"
-    ],
-    vicheda: [
-      "विराधम् राक्षसम् हत्वा शरभङ्गम् ददर्श ह |",
-      "सुतीक्ष्णम् च अपि अगस्त्यम् च अगस्त्य-भ्रातरम् तथा ||"
-    ],
-    anvaya: [
-      "(रामो) विराधं राक्षसं हत्वा शरभङ्गं ददर्श ह, तथा सुतीक्ष्णम् च अपि अगस्त्यम् च अगस्त्यभ्रातरं च (ददर्श) ||"
-    ],
-    prose: [],
-    transl: [
-      "After slaying the fierce demon Viradha, Rama visited the great Sage Sharabhanga. He then met Sage Sutikshna, Sage Agastya, and likewise Agastya's illustrious brother."
-    ],
-    transl_tel: [
-      "విరాధుడనే రాక్షసుడిని వధించిన తర్వాత, రాముడు శరభంగ మహర్షిని దర్శించుకున్నాడు. ఆ తర్వాత సుతీక్ష్ణ మహర్షిని, అగస్త్య మహర్షిని, అలాగే అగస్త్యుని సోదరుడిని కూడా దర్శించాడు."
-    ],
-    essence: [
-      "Dandaka welcomes them with immediate peril. Rama encounters and eliminates a terrifying demon named Viradha who attacks them. Following this victory, the trio journeys through various holy hermitages, paying respects to and receiving blessings from powerful enlightened sages: Sharabhanga, Sutikshna, the legendary Agastya, and his brother Idhmavahana."
-    ],
-    meanings: [
-      "विराधम् = Viradha",
-      "राक्षसम् = The demon / Rakshasa",
-      "हत्वा = Having killed / Slain",
-      "शरभङ्गम् = Sage Sharabhanga",
-      "ददर्श = He saw / Visited",
-      "ह = Indeed (historical past)",
-      "सुतीक्ष्णम् = Sage Sutikshna",
-      "च = And",
-      "अपि = Also",
-      "अगस्त्यम् = Sage Agastya",
-      "च = And",
-      "अगस्त्य-भ्रातरम् = Agastya's brother (Idhmavahana)",
-      "तथा = Likewise"
-    ],
-    grammar: [],
-    notes: [
-      "The death of Viradha is Rama's first combat engagement in the forest, serving as a prelude to his ultimate mission of wiping out demonic forces. Meeting Sage Agastya is a major turning point, as Agastya is the spiritual master of the southern regions."
-    ]
-  },
-  {
-    chapter: 1,
     number: 43,
     sloka: [
-      "अगस्त्यवचनाच्चैव जग्राह ऐन्द्रं शरासनम् |",
-      "खड्गं च परमप्रीतस्तूणी च अक्षय्यशायकौ ||"
+      "अगस्त्यवचनाच्चैव जग्राहैन्द्रं शरासनम् || 42b",
+      "खड्गं च परमप्रीतस्तूणी चाक्षयसायकौ | 43a"
     ],
     sloka_tel: [
-      "అగస్త్యవచనాచ్చైవ జగ్రాహ ఐంద్రం శరాసనమ్ |",
-      "ఖడ్గం చ పరమప్రీతస్తూణీ చ అక్షయ్యశాయకౌ ||"
+      "అగస్త్యవచనాచ్చైవ జగ్రాహైంద్రం శరాసనమ్ || 42b",
+      "ఖడ్గం చ పరమప్రీతస్తూణీ చాక్షయసాయకౌ | 43a"
     ],
     vicheda: [
-      "अगस्त्य-वचनात् च एव जग्राह ऐन्द्रम् शरासनम् |",
-      "खड्गम् च परम-प्रीतम् तूणी च अक्षय्य-शायकौ ||"
+      "अगस्त्य-वचनात् च एव जग्राह ऐन्द्रम् शरासनम्",
+      "खड्गम् च परम-प्रीतः तूणी च अक्षय-सायकौ"
     ],
     anvaya: [
-      "अगस्त्यवचनात् च एव परमप्रीतम् (सः) ऐन्द्रं शरासनम् खड्गं च अक्षय्यशायकौ तूणी च जग्राह ||"
+      "परमप्रीतः (रामः)",
+      "- अगस्त्यवचनात् च एव",
+      "- - ऐन्द्रम् शरासनम्,",
+      "- - खड्गम् च,",
+      "- - अक्षयसायकौ तूणी च",
+      "जग्राह |",
     ],
-    prose: [],
+    prose: [
+      "Rama who is filled with immense joy",
+      "- upon the advice of Sage Agastya",
+      "- - Indra's bow",
+      "- - a sword",
+      "- - a pair of quivers containing inexhaustible arrows",
+      "accepted",
+    ],
     transl: [
-      "Acting on the direct advice of Sage Agastya, Rama, filled with supreme joy, accepted a divine bow originally belonging to Indra, a powerful sword, and two quivers containing arrows that could never be exhausted."
+      "Acting upon the wise counsel and direction of Sage Agastya, Rama, filled with immense joy, accepted a divine bow that originally belonged to Indra, a celestial sword, and a pair of quivers containing inexhaustible arrows."
     ],
     transl_tel: [
-      "అగస్త్య మహర్షి మాటల ప్రకారం, రాముడు ఎంతో సంతోషంతో ఇంద్రునికి సంబంధించిన విల్లును (ఐంద్ర శరాసనం), ఒక ఖడ్గాన్ని, బాణాలు ఎప్పటికీ అయిపోని రెండు అమ్ములపొదులను స్వీకరించాడు."
+      "అగస్త్య మహర్షి సూచనల మేరకు, శ్రీరాముడు ఎంతో సంతోషంతో ఇంద్రుడికి సంబంధించిన దివ్యమైన విల్లును (శరాసనాన్ని), ఒక ఖడ్గాన్ని, ఎన్నటికీ తరిగిపోని బాణాలు గల రెండు అమ్ములపొదులను స్వీకరించాడు."
     ],
     essence: [
-      "Sage Agastya recognizes Rama's divine identity and the trials that lie ahead. He presents Rama with a formidable arsenal of heavenly weapons left in his care: the massive bow of Indra, a gleaming sword, and two inexhaustible quivers (*Akshaya-Tuna*). Rama accepts them gratefully, fully armed for the coming conflicts."
+      "This moment arms Rama for his divine destiny. Recognizing Rama's mission to clear the forest of dark forces, Sage Agastya hands over an extraordinary celestial arsenal. Rama receives Indra's supreme bow, a radiant sword, and two unique quivers whose arrows instantly replenish themselves, making him completely unstoppable in the battles ahead."
     ],
     meanings: [
       "अगस्त्य-वचनात् = By the words / Counsel of Sage Agastya",
       "च = And",
       "एव = Indeed",
-      "जग्राह = Accepted / Took up",
+      "जग्राह = Accepted / Received / Took",
       "ऐन्द्रम् = Belonging to Indra (the king of gods)",
-      "शरासनम् = Bow (literally, 'arrow-seater')",
-      "खड्गम् = Sword",
+      "शरासनम् = A bow (literally, 'that which projects arrows')",
+      "खड्गम् = A sword",
       "च = And",
-      "परम-प्रीतम् = Highly pleased / Filled with joy",
+      "परम-प्रीतः = Overjoyed / Deeply pleased",
       "तूणी = Two quivers",
       "च = And",
-      "अक्षय्य-शायकौ = Containing arrows that never decrease / Inexhaustible"
+      "अक्षय-सायकौ = Possessing inexhaustible arrows"
     ],
     grammar: [],
     notes: [
-      "The gift of these divine weapons shifts Rama's status from a wandering ascetic back to an active cosmic protector. The 'Akshaya' (never-decaying) quivers ensure that he will never run out of firepower in long, overwhelming battles."
+      "The term 'Akshaya-sayakau' represents the ultimate asset for a warrior in the wilderness. Having access to infinite arrows ensures that Rama can face entire armies of demons without ever running out of ammunition or needing a supply line."
     ]
   },
   {
