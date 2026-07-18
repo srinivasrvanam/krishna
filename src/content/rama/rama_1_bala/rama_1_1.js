@@ -2762,48 +2762,46 @@ const verses = [
     chapter: 1,
     number: 53,
     sloka: [
-      "ततस्तस्मिन्नेव वने गृध्रं दग्ध्वा महाबलः |",
-      "मार्गमाणो वने सीतां राक्षसं सन्ददर्श ह ||"
+      "तेन मायाविना दूरमपवाह्य नृपात्मजौ || 52b",
+      "जहार भार्यां रामस्य गृध्रं हत्वा जटायुषम् | 53a"
     ],
     sloka_tel: [
-      "తతస్తస్మిన్నేవ వనే గృధ్రం దగ్ధ్వా మహాబలః |",
-      "మార్గమాణో వనే సీతాం రాక్షసం సందదర్శ హ ||"
+      "తేన మాయావినా దూ్రమపవాహ్య నృపాత్మజౌ || 52b",
+      "జహార భార్యాం రామస్య గృధ్రం హత్వా జటాయుషమ్ | 53a"
     ],
     vicheda: [
-      "ततः तस्मिन् एव वने गृध्रम् दग्ध्वा महा-बलः |",
-      "मार्गमाणः वने सीताम् राक्षसम् सन्ददर्श ह ||"
+      "तेन मायाविना दूरम् अपवाह्य नृप-आत्मजौ",
+      "जहार भार्याम् रामस्य गृध्रम् हत्वा जटायुषम्"
     ],
     anvaya: [
-      "ततः महाबलः तस्मिन् एव वने गृध्रम् दग्ध्वा, वने सीतां मार्गमाणः (सः) राक्षसम् सन्ददर्श ह ||"
+      "तेन मायाविना नृपात्मजौ दूरम् अपवाह्य, (सः रावणः) जटायुषम् गृध्रम् हत्वा रामस्य भार्याम् जहार ||"
     ],
     prose: [],
     transl: [
-      "Thereafter, the powerful Rama performed the final funeral rites, cremating the loyal vulture in that very forest. As he continued his desperate search for Sita through the woods, he encountered a bizarre, misshapen demon."
+      "Using that deceptive demon Maricha to lure the two princes far away from the hermitage, Ravana fatally wounded the vulture king Jatayu and abducted Rama's wife, Sita."
     ],
     transl_tel: [
-      "ఆ తర్వాత మహాబలశాలియైన రాముడు ఆ అడవిలోనే ఆ జటాయువుకు అంత్యక్రియలు నిర్వహించి దహనం చేశాడు. తిరిగి అడవిలో సీత కోసం వెతుకుతుండగా, ఒక వింత రాక్షసుడు వారికి ఎదురయ్యాడు."
+      "మాయావియైన ఆ మారీచుని సహాయంతో రాజకుమారులైన రామలక్ష్మణులను ఆశ్రమం నుండి చాలా దూరం వెళ్లేలా చేసి, అడ్డువచ్చిన పక్షిరాజు జటాయువును దారుణంగా కొట్టి, రావణుడు శ్రీరాముని భార్యయైన సీతాదేవిని అపహరించాడు."
     ],
     essence: [
-      "Rama finds the dying Jatayu, who survives just long enough to reveal that Ravana stole Sita toward the south. Deeply moved, Rama honors the bird like a son would a father, performing his cremation. Resuming their trek through the dense forest, the brothers stumble upon a terrifying, trunk-like creature."
+      "The tragic turning point of the Aranya Kanda takes place here. Maricha takes the form of a golden deer, drawing Rama and subsequently Lakshmana away from the cottage. Finding Sita unprotected, Ravana moves in to seize her. The noble vulture king Jatayu courageously fights back to protect her, but the powerful demon king cuts him down and flees into the sky with Sita."
     ],
     meanings: [
-      "ततः = Thereafter",
-      "तस्मिन् = In that",
-      "एव = Very",
-      "वने = Forest",
-      "गृध्रम् = Vulture (Jatayu)",
-      "दग्ध्वा = Having cremated / Burnt",
-      "महा-बलः = The mighty one (Rama)",
-      "मार्गमाणः = Searching for",
-      "वने = In the forest",
-      "सीताम् = Sita",
-      "राक्षसम् = A demon",
-      "सन्ददर्श = Saw / Encountered",
-      "ह = Indeed"
+      "तेन = By that / With the help of him",
+      "मायाविना = Deceptive / Possessing illusory powers (Maricha)",
+      "दूरम् = Far away",
+      "अपवाह्य = Having lured away / Distracted",
+      "नृप-आत्मजौ = The two sons of the king (Rama and Lakshmana)",
+      "जहार = Abducted / Stole away",
+      "भार्याम् = The wife",
+      "रामस्य = Of Rama",
+      "गृध्रम् = The vulture",
+      "हत्वा = Having struck down / Fatally wounded / Killed",
+      "जटायुषम् = Jatayu"
     ],
     grammar: [],
     notes: [
-      "Performing the funeral rites (*Daha-Samskara*) for a vulture shows Rama's profound character. He expands the boundaries of family duty and gratitude to include a non-human animal who died protecting his wife."
+      "The word 'Apavahya' underscores the asymmetric nature of Ravana's plot. He knew he stood zero chance against the princes ('nripatmajau') in open combat, so he resorted to trickery. Jatayu's sacrifice stands as one of the ultimate symbols of selflessness and duty in the entire epic."
     ]
   },
   {
