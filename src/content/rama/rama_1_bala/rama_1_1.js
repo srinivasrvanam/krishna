@@ -4830,46 +4830,58 @@ const verses = [
     chapter: 1,
     number: 100,
     sloka: [
-      "मूलं रामायणस्यैतद्गाथा सङ्क्षेपतः कृता |",
-      "वाल्मीकिना कृतं सर्वं सर्गबन्धमनुत्तमम् ||"
+      "पठन् द्विजो वागृषभत्वमीयात् |",
+      "स्यात् क्षत्रियो भूमिपतित्वमीयात् ||",
+      "वणिग्जनः पण्यफलत्वमीयात् |",
+      "जनश्च शूद्रोऽपि महत्त्वमीयात् || 100"
     ],
     sloka_tel: [
-      "మూలం రామాయణస్యైతద్గాథా సంక్షేపతః కృతా |",
-      "వాల్మీకినా కృతం సర్వం సర్గబంధమనుత్తమమ్ ||"
+      "పఠన్ ద్విజో వాగృషభత్వమీయాత్ |",
+      "స్యాత్ క్షత్రియో భూమిపతిత్వమీయాత్ ||",
+      "వణిగ్జనః పణ్యఫలత్వమీయాత్ |",
+      "జనశ్చ శూద్రోఽపి మహత్త్వమీయాత్ || 100"
     ],
     vicheda: [
-      "मूलम् रामायणस्य एतत् गाथा सङ्क्षेपतः कृता |",
-      "वाल्मीकिना कृतम् सर्वम् सर्ग-बन्धम् अनुत्तमम् ||"
+      "पठन् द्विजः वाक्-ऋषभत्वम् ईयात्",
+      "स्यात् क्षत्रियः भूमि-पतित्वम् ईयात्",
+      "वणिग्-जनः पण्य-फलत्वम् ईयात्",
+      "जनः च शूद्रः अपि महत्त्वम् ईयात्"
     ],
     anvaya: [
-      "एतत् रामायणस्य मूलम् गाथा सङ्क्षेपतः कृता; वाल्मीकिना सर्वम् अनुत्तमम् सर्गबन्धम् कृतम् ||"
+      "(इदं रामायणं) पठन् द्विजः वागृषभत्वम् ईयात्, क्षत्रियः स्यात् (चेत्) भूमिपतित्वम् ईयात्, वणिग्जनः पण्यफलत्वम् ईयात्, शूद्रः जनः अपि च महत्त्वम् ईयात् ||"
     ],
     prose: [],
     transl: [
-      "This concludes the foundational root of the Ramayana, presented cleanly as a concise summary. Inspired by this, Valmiki went on to compose the entire magnificent, incomparable masterpiece, perfectly structured into sequential cantos."
+      "By reading this Ramayana, a Brahmana attains mastery over speech and eloquence; a Kshatriya achieves sovereignty over the earth; a Vaishya reaps rich profits from his trade; and even a Shudra attains greatness and respect in society."
     ],
     transl_tel: [
-      "సంక్షిప్తంగా చెప్పబడిన ఈ కథే సమగ్ర రామాయణానికి మూలస్తంభం. దీనిని ఆధారం చేసుకుని వాల్మీకి మహర్షి సర్గలతో కూడిన అత్యుత్తమమైన, సాటిలేని సంపూర్ణ రామాయణ మహాకావ్యాన్ని రచించాడు."
+      "ఈ రామాయణాన్ని పఠించడం వల్ల బ్రాహ్మణుడు వాగ్దాటిని (మహా పండిత్యమును) పొందుతాడు; క్షత్రియుడైతే భూమండలానికి అధిపతి అవుతాడు; వైశ్యుడు తన వ్యాపారంలో అపారమైన లాభాలను ఆర్జిస్తాడు; మరియు శూద్రుడైనవాడు కూడా సమాజంలో ఎనలేని గొప్పతనాన్ని, గౌరవాన్ని పొందుతాడు."
     ],
     essence: [
-      "This hundredth verse completes Chapter 1—often called the *Samkshepa Ramayana* (the Ramayana in brief) or the *Bala Kanda* baseline. It serves as the seeds from which Valmiki grows his massive, 24,000-verse epic masterpiece, neatly organized into cantos (*sargas*) to preserve this timeless legacy for humanity."
+      "Narada details how the blessings of the Ramayana dynamically adapt to fulfill the intrinsic needs and functions of every section of human society. It does not discriminate; its transformative power benefits everyone based on their unique walk of life. It elevates the intellect of thinkers, grants leadership power to administrators, brings financial success to merchants, and bestows cultural and moral dignity upon the workforce, elevating the entire social ecosystem."
     ],
     meanings: [
-      "मूलम् = The foundation / Core root",
-      "रामायणस्य = Of the Ramayana",
-      "एतत् = This",
-      "गाथा = Song / Account / Narrative",
-      "सङ्क्षेपतः = Concisely / In brief summary",
-      "कृता = Was executed / Done",
-      "वाल्मीकिना = By Valmiki",
-      "कृतम् = Composed / Structured",
-      "सर्वम् = Entirety / Wholly",
-      "सर्ग-बन्धम् = Bound/arranged beautifully into cantos (chapters)",
-      "अनुत्तमम् = Unsurpassed / Peak of poetic excellence"
+      "पठन् = Reading / studying",
+      "द्विजः = A Brahmana (intellectual/priestly class)",
+      "वाक्-ऋषभत्वम् = Supreme mastery over speech / eloquence",
+      "ईयात् = Attains / achieves",
+      "स्यात् = If he be",
+      "क्षत्रियः = A Kshatriya (warrior/ruler class)",
+      "भूमि-पतित्वम् = Lordship over land / sovereignty",
+      "ईयात् = Attains",
+      "वणिग्-जनः = A Vaishya (merchant/trader)",
+      "पण्य-फलत्वम् = Abundant fruits of commerce / trade profits",
+      "ईयात् = Attains",
+      "जनः = A person",
+      "च = And",
+      "शूद्रः = A Shudra (labor/artisan class)",
+      "अपि = Even",
+      "महत्त्वम् = Greatness / high status / nobility",
+      "ईयात् = Attains"
     ],
     grammar: [],
     notes: [
-      "With this, the architectural overview of the entire epic closes. This first chapter acts as an index and a spiritual anchor before the reader dives deep into the intense, emotional detail of the remaining chapters."
+      "This verse changes meter to *Upajati*, signaling the climax of Narada's discourse. The term 'vāg-ṛṣabhatvam' (literally 'bull among speakers') highlights the supreme power of expression. The universal nature of this verse confirms that the epic belongs to humanity as a whole, ensuring that whoever aligns their mind with Rama's story gains excellence in their field."
     ]
   },
 ];
