@@ -2558,9 +2558,15 @@ const verses = [
       "न विरोधः बलवता क्षमः रावण तेन ते"
     ],
     anvaya: [
-      "सः रावणः मारीचेन सुबहुशः 'रावण! तेन बलवता ते विरोधः न क्षमः' (इति) वार्यमाणः (अपि) ||"
+      "सः रावणः",
+      "- मारीचेन सुबहुशः वार्यमाणः",
+      "'रावण! तेन बलवता ते विरोधः न क्षमः' (इति) |"
     ],
-    prose: [],
+    prose: [
+      "That Ravana",
+      "- was warned by Maricha repeatedly",
+      "'O Ravana! It is not safe for you to have enmity with that powerful (Rama)'",
+    ],
     transl: [
       "Though that Ravana was repeatedly warned and dissuaded by Maricha, who pleaded, 'O Ravana! It is not proper or safe for you to oppose that mighty Rama,' he refused to listen."
     ],
