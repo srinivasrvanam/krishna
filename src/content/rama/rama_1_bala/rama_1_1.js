@@ -2387,9 +2387,21 @@ const verses = [
       "निजघान रणे रामः तेषाम् च एव पदानुगान्"
     ],
     anvaya: [
-      "ततः शूर्पणखावाक्यात् उद्युक्तान् सर्वराक्षसान् खरम् त्रिशिरसं च एव दूषणं च राक्षसम् तेषाम् पदानुगान् च एव रामः रणे निजघान ||"
+      "ततः",
+      "रामः एव",
+      "- शूर्पणखावाक्यात् उद्युक्तान् सर्वराक्षसान्",
+      "- खरम् त्रिशिरसं च एव दूषणं च राक्षसम्",
+      "- तेषाम् पदानुगान् च",
+      "रणे निजघान",
     ],
-    prose: [],
+    prose: [
+      "Thereafter",
+      "Rama",
+      "- all the demons, who are provoked by the words of Shurpanakha",
+      "- demons like Khara, Thrisirasa, and Dhushana,",
+      "- and their foot soldiers",
+      "destroyed in a combat",
+    ],
     transl: [
       "Thereafter, incited by the furious words of Shurpanakha, an entire army of demons mobilized for battle. Rama single-handedly destroyed them all in combat, including their powerful generals Khara, Trishiras, and Dushana, along with their thousands of military followers."
     ],
