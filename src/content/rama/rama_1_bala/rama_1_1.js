@@ -2728,7 +2728,7 @@ const verses = [
     prose: [
       "Raghava",
       "- having seen the wounded Jatayu",
-      "- having heard that Maithili has been adbucted",
+      "- having heard that Maithili has been abducted",
       "- having been consumed by intense grief and his sense completely overwhelmed with agitation",
       "lamented",
     ],
@@ -2779,9 +2779,21 @@ const verses = [
       "कबन्धम् नाम रूपेण विकृतम् घोर-दर्शनम्"
     ],
     anvaya: [
-      "ततः तेन एव शोकेन जटायुषम् गृध्रम् दग्ध्वा वने सीताम् मार्गमाणः (सः), रूपेण विकृतम् घोरदर्शनम् कबन्धम् नाम राक्षसम् सन्ददर्श ह ||"
+      "ततः",
+      "(सः)",
+      "- वने सीताम् मार्गमाणः",
+      "- तेन एव शोकेन",
+      "- जटायुषम् गृध्रम् दग्ध्वा",
+      "- रूपेण विकृतम् घोरदर्शनम् कबन्धम् नाम राक्षसम् सन्ददर्श ह ||"
     ],
-    prose: [],
+    prose: [
+      "Thereafter",
+      "That Rama",
+      "- continued searching for Sita",
+      "- with that grief",
+      "- performed the funeral rites of Jatayu",
+      "- encoutered a demon named Kabandha, who is mis-shaped by form and is terrifying to behold",
+    ],
     transl: [
       "Thereafter, performing the funeral rites and cremating the vulture Jatayu while still immersed in that profound grief, Rama continued searching for Sita in the forest. During his search, he encountered a demon named Kabandha, who was horribly misshapen in form and terrifying to behold."
     ],
