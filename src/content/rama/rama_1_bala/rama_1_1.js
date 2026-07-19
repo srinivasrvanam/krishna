@@ -2908,9 +2908,21 @@ const verses = [
       "शबर्या पूजितः सम्यक् रामः दशरथ-आत्मजः"
     ],
     anvaya: [
-      "महातेजाः शत्रुसूदनः सः दशरथात्मजः रामः शबरीम् अभ्यगच्छत्, शबर्या च सम्यक् पूजितः ||"
+      "सः रामः",
+      "दशरथात्मजः",
+      "महातेजाः",
+      "शत्रुसूदनः",
+      "शबरीम् अभ्यगच्छत् |",
+      "शबर्या च सम्यक् पूजितः |"
     ],
-    prose: [],
+    prose: [
+      "That Rama",
+      "who is son of Dasaratha",
+      "who has immense radiance",
+      "who is destroyer of enemies",
+      "reached Shabari's hermitage",
+      "Rama was well worshipped by Shabari with deep devotion",
+    ],
     transl: [
       "Rama, the destroyer of foes who possessed immense radiance, approached Shabari and was fittingly and thoroughly worshipped by her with deep devotion."
     ],
