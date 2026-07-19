@@ -2719,9 +2719,19 @@ const verses = [
       "राघवः शोक-सन्तप्तः विललाप आकुल-इन्द्रियः"
     ],
     anvaya: [
-      "राघवः निहतम् गृध्रम् च दृष्ट्वा मैथिलीम् हृताम् च श्रुत्वा, शोक-सन्तप्तः आकुल-इन्द्रियः (सन्) विललाप ||"
+      "राघवः",
+      "- निहतम् गृध्रम् च दृष्ट्वा",
+      "- मैथिलीम् हृताम् च श्रुत्वा",
+      "- शोक-सन्तप्तः आकुल-इन्द्रियः (सन्)",
+      "विललाप |"
     ],
-    prose: [],
+    prose: [
+      "Raghava",
+      "- having seen the wounded Jatayu",
+      "- having heard that Maithili has been adbucted",
+      "- having been consumed by intense grief and his sense completely overwhelmed with agitation",
+      "lamented",
+    ],
     transl: [
       "Upon seeing the fallen and mortally wounded vulture Jatayu, and learning that Maithili (Sita) had been abducted, Rama was consumed by intense grief and lamented bitterly, his senses completely overwhelmed with agitation."
     ],
