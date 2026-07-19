@@ -2503,9 +2503,19 @@ const verses = [
       "सहायम् वरयामास मारीचम् नाम राक्षसम्"
     ],
     anvaya: [
-      "ततः ज्ञातिवधम् श्रुत्वा क्रोधमूर्छितः रावणः मारीचम् नाम राक्षसम् सहायम् वरयामास ||"
+      "ततः",
+      "क्रोधमूर्छितः रावणः",
+      "- ज्ञातिवधम् श्रुत्वा",
+      "- मारीचम् नाम राक्षसम्",
+      "सहायम् वरयामास |"
     ],
-    prose: [],
+    prose: [
+      "Thereafter",
+      "Ravana, who is overpowered with anger",
+      "- having heard about killing of his kinsmen",
+      "- demon named Maricha",
+      "sought for help",
+    ],
     transl: [
       "Thereafter, upon hearing of the wholesale slaughter of his kinsmen, Ravana became blind with rage and sought the assistance of a demon named Maricha."
     ],
