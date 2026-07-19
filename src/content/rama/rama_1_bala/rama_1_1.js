@@ -2611,9 +2611,17 @@ const verses = [
       "जगाम सह-मारीचः तस्य आश्रम-पदम् तदा"
     ],
     anvaya: [
-      "कालचोदितः रावणः तु तत् वाक्यम् अनादृत्य, तदा सहमारीचः तस्य आश्रमपदम् जगाम ||"
+      "कालचोदितः रावणः तु",
+      "- तत् वाक्यम् अनादृत्य",
+      "तदा सहमारीचः",
+      "तस्य आश्रमपदम् जगाम |"
     ],
-    prose: [],
+    prose: [
+      "Ravana, who is driven by destiny",
+      "- having disregarded those words of Maricha",
+      "at that moment, along with Maricha",
+      "went to his (Rama's) hermitage",
+    ],
     transl: [
       "Completely disregarding those wise words, Ravana, driven by destiny and the impending hour of his own doom, set out at that moment along with Maricha toward Rama's hermitage."
     ],
