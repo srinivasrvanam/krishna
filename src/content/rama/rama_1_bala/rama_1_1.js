@@ -2453,9 +2453,15 @@ const verses = [
       "रक्षसाम् निहतानि आसन् सहस्राणि चतुर्दश"
     ],
     anvaya: [
-      "तस्मिन् वने निवसता तेन जनस्थाननिवासिनाम् रक्षसाम् चतुर्दश सहस्राणि निहतानि आसन् ||"
+      "चतुर्दश सहस्राणि जनस्थाननिवासिनाम् रक्षसाम्",
+      "- तस्मिन् वने निवसता (तेन)",
+      "निहतानि आसन्",
     ],
-    prose: [],
+    prose: [
+      "14,000 rakshasas residing in Janasthana",
+      "- by Rama, who is living in that forest",
+      "were slain",
+    ],
     transl: [
       "While Rama was residing in that forest, fourteen thousand rakshasas inhabiting Janasthana were completely wiped out and slain by him."
     ],
