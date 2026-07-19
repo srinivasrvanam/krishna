@@ -2847,9 +2847,17 @@ const verses = [
       "श्रमणीम् धर्म-निपुणाम् अभिगच्छ इति राघव"
     ],
     anvaya: [
-      "महाबाहुः (रामः) तम् निहत्य ददाह, सः च स्वर्गतः; सः अस्य 'राघव! धर्मचारिणीम् श्रमणीम् धर्मनिपुणाम् शबरीम् अभिगच्छ' इति कथयामास ||"
+      "महाबाहुः (रामः)",
+      "- तम् निहत्य ददाह",
+      "सः च स्वर्गतः",
+      "सः अस्य 'राघव! धर्मचारिणीम् श्रमणीम् धर्मनिपुणाम् शबरीम् अभिगच्छ' इति कथयामास |"
     ],
-    prose: [],
+    prose: [
+      "Mighty armed Rama",
+      "- having slain that demon Kabandha, cremated him",
+      "That Kabandha then assumed a divine form and ascended to heaven",
+      "Kabandha spoke 'O Raghava, Go and visit Shabari, a pious woman of ascetic life who is thoroughly versed in principles of righteousness'",
+    ],
     transl: [
       "The mighty-armed Rama slew that demon and cremated his remains, whereupon Kabandha assumed a divine form and ascended to heaven. Before departing, he counselled Rama, saying, 'O Raghavan! Go and visit Shabari, a pious woman of ascetic life who is thoroughly versed in the principles of righteousness.'"
     ],
