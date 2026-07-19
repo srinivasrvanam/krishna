@@ -2665,9 +2665,17 @@ const verses = [
       "जहार भार्याम् रामस्य गृध्रम् हत्वा जटायुषम्"
     ],
     anvaya: [
-      "तेन मायाविना नृपात्मजौ दूरम् अपवाह्य, (सः रावणः) जटायुषम् गृध्रम् हत्वा रामस्य भार्याम् जहार ||"
+      "(सः रावणः)",
+      "- तेन मायाविना नृपात्मजौ दूरम् अपवाह्य",
+      "- जटायुषम् गृध्रम् हत्वा",
+      "रामस्य भार्याम् जहार |"
     ],
-    prose: [],
+    prose: [
+      "(That Ravana)",
+      "- using that deceptive Maricha to lure the two princes far away from hermitage",
+      "- having wounded Jatayu",
+      "abducted Rama's wife",
+    ],
     transl: [
       "Using that deceptive demon Maricha to lure the two princes far away from the hermitage, Ravana fatally wounded the vulture king Jatayu and abducted Rama's wife, Sita."
     ],
