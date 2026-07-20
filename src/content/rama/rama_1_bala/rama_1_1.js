@@ -3241,9 +3241,19 @@ const verses = [
       "दर्शयामास सुग्रीवः महा-पर्वत-सन्निभम्"
     ],
     anvaya: [
-      "सुग्रीवः राघवे वीर्येण नित्यम् शङ्कितः च आसीत्; राघवप्रत्ययार्थम् तु सुग्रीवः महापर्वतसन्निभम् दुन्दुभेः उत्तमम् कायम् दर्शयामास ||"
+      "सुग्रीवः",
+      "राघवे वीर्येण नित्यम् शङ्कितः च आसीत्;",
+      "राघवप्रत्ययार्थम् तु",
+      "सुग्रीवः",
+      "महापर्वतसन्निभम् दुन्दुभेः उत्तमम् कायम् दर्शयामास ||"
     ],
-    prose: [],
+    prose: [
+      "Sugriva",
+      "remained doubtful regarding Rama's prowess",
+      "To instill confidence in Rama's prowess",
+      "Sugriva",
+      "he pointed out the massive mountain-like skeleton of Dundubhi",
+    ],
     transl: [
       "Sugriva remained constantly apprehensive and doubtful regarding Rama's prowess in comparison to Vali. Therefore, to instill confidence in Raghavan's capabilities, Sugriva pointed out the massive, mountain-like skeleton of the demon Dundubhi."
     ],
