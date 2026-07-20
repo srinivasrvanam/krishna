@@ -3183,9 +3183,17 @@ const verses = [
       "वालिनः च बलम् तत्र कथयामास वानरः"
     ],
     anvaya: [
-      "तदा रामेण वालिवधम् प्रति प्रतिज्ञातम् च; तत्र वानरः वालिनः बलम् च कथयामास ||"
+      "तदा",
+      "रामेण वालिवधम् प्रति प्रतिज्ञातम् च;",
+      "तत्र",
+      "वानरः वालिनः बलम् च कथयामास |"
     ],
-    prose: [],
+    prose: [
+      "Then",
+      "The slaying of Vali was vowed by Rama",
+      "there (hearing this)",
+      "Vanara Sugriva described the strength of Vali to Rama",
+    ],
     transl: [
       "At that moment, Rama solemnly vowed to execute the slaying of Vali. Hearing this, the vanara Sugriva began describing the extraordinary prowess and unmatched strength of Vali to him."
     ],
