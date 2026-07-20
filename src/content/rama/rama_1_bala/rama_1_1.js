@@ -3016,9 +3016,15 @@ const verses = [
       "आदितः तत् यथा-वृत्तम् सीतायाः च विशेषतः"
     ],
     anvaya: [
-      "महाबलः रामः आदितः यथावृत्तम् तत् सर्वम् विशेषतः सीतायाः च (वृत्तान्तम्) सुग्रीवाय शंसत् ||"
+      "महाबलः रामः",
+      "- आदितः यथावृत्तम् तत् सर्वम् विशेषतः सीतायाः च (वृत्तान्तम्)",
+      "सुग्रीवाय शंसत् |"
     ],
-    prose: [],
+    prose: [
+      "Powerful Rama",
+      "- everything from the beginning as it happened, describing the abduction of Sita",
+      "narrated to Sugriva",
+    ],
     transl: [
       "The exceptionally powerful Rama narrated everything to Sugriva exactly as it had happened from the very beginning, describing in precise detail the agonizing abduction of Sita."
     ],
