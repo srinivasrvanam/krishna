@@ -2965,9 +2965,15 @@ const verses = [
       "हनुमत्-वचनात् च एव सुग्रीवेण समागतः"
     ],
     anvaya: [
-      "(सः रामः) पम्पातीरे वानरेण हनुमता सङ्गतः ह, हनुमद्वचनात् च एव सुग्रीवेण समागतः ||"
+      "(सः रामः)",
+      "- पम्पातीरे वानरेण हनुमता सङ्गतः ह",
+      "- हनुमद्वचनात् च एव सुग्रीवेण समागतः |"
     ],
-    prose: [],
+    prose: [
+      "That Rama",
+      "- met with Vanara Hanuman at banks of Pampa",
+      "- later he met Sugriva through the mediation of Hanuman",
+    ],
     transl: [
       "On the banks of the Pampa Lake, Rama met with the vanara Hanuman. Thereafter, through the mediation and reassuring words of Hanuman, he formed a solemn alliance with Sugriva."
     ],
