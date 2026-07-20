@@ -3128,9 +3128,19 @@ const verses = [
       "रामाय आवेदितम् सर्वम् प्रणयात् दुःखितेन च"
     ],
     anvaya: [
-      "ततः दुःखितेन वानरराजेन प्रणयात् वैरानुकथनम् प्रति सर्वम् रामाय आवेदितम् च ||"
+      "ततः",
+      "दुःखितेन वानरराजेन",
+      "प्रणयात्",
+      "वैरानुकथनम् प्रति सर्वम्",
+      "रामाय आवेदितम् च ||"
     ],
-    prose: [],
+    prose: [
+      "Thereafter",
+      "By the sorrowful Vanara King Sugriva",
+      "due to the affection/trust towards Rama",
+      "the Story of his bitter enmity with his brother Vali",
+      "was narrated to Rama",
+    ],
     transl: [
       "Thereafter, out of growing affection and trust, the sorrowful king of the vanaras detailed the entire story of his bitter enmity with his brother Vali to Rama."
     ],
