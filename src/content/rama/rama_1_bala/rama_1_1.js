@@ -3070,9 +3070,17 @@ const verses = [
       "चकार सख्यम् रामेण प्रीतः च एव अग्नि-साक्षिकम्"
     ],
     anvaya: [
-      "वानरः सुग्रीवः च अपि रामस्य तत् सर्वम् श्रुत्वा, प्रीतः च एव रामेण (सह) अग्निसाक्षिकम् सख्यम् चकार ||"
+      "वानरः सुग्रीवः च अपि",
+      "- रामस्य तत् सर्वम् श्रुत्वा",
+      "- प्रीतः च एव",
+      "रामेण (सह) अग्निसाक्षिकम् सख्यम् चकार |"
     ],
-    prose: [],
+    prose: [
+      "Vanara Sugriva also",
+      "- having listened to entire story of Rama",
+      "- having become affectionate",
+      "made friendship with Rama in the presence of Fire as witness",
+    ],
     transl: [
       "Upon listening to everything that Rama had been through, the vanara Sugriva was deeply moved. Full of affection and goodwill, he forged a sacred bond of friendship with Rama, consecrated in the presence of fire as their holy witness."
     ],
