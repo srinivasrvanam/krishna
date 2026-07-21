@@ -3415,9 +3415,17 @@ const verses = [
       "किष्किन्धाम् राम-सहितः जगाम च गुहाम् तदा"
     ],
     anvaya: [
-      "ततः प्रीतमनाः विश्वस्तः च महाकपिः (सुग्रीवः) तदा रामसहितः गुहाम् किष्किन्धाम् जगाम च ||"
+      "ततः",
+      "प्रीतमनाः विश्वस्तः च महाकपिः (सुग्रीवः)",
+      "तदा रामसहितः",
+      "गुहाम् किष्किन्धाम् जगाम च |"
     ],
-    prose: [],
+    prose: [
+      "Thereafter",
+      "Great Vanara (Sugriva), who heart is filled with joy & confidence",
+      "then along with Rama",
+      "went to cave kingdom of Kishkindha",
+    ],
     transl: [
       "Thereupon, his heart filled with joy and absolute confidence restored, the great vanara leader Sugriva, accompanied by Rama, marched towards the cave-fortress of Kishkindha."
     ],
