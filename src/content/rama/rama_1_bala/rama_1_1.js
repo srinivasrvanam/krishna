@@ -3471,9 +3471,15 @@ const verses = [
       "तेन नादेन महता निर्जगाम हरीश्वरः"
     ],
     anvaya: [
-      "ततः हेमपिङ्गलः हरिवरः सुग्रीवः अगर्जत्; तेन महता नादेन हरीश्वरः (वाली) निर्जगाम ||"
+      "ततः",
+      "हेमपिङ्गलः हरिवरः सुग्रीवः अगर्जत्;",
+      "तेन महता नादेन हरीश्वरः (वाली) निर्जगाम |"
     ],
-    prose: [],
+    prose: [
+      "Thereafter",
+      "Best among Vanaras (Sugriva), having golden yellow complexion roared",
+      "Due to that tremendous sound, Vali, lord of Vanaras, came out of his palace",
+    ],
     transl: [
       "Then, Sugriva, the foremost among the vanaras, whose coat shone with a golden-yellow hue, let out a thunderous roar. Terrified and provoked by that tremendous sound, Vali, the lord of the vanaras, emerged from his palace."
     ],
