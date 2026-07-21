@@ -3356,9 +3356,19 @@ const verses = [
       "गिरिम् रसातलम च एव जनयन् प्रत्ययम् तदा"
     ],
     anvaya: [
-      "तदा (सः) प्रत्ययम् जनयन्, एकेन महेषुणा सप्त सालान् गिरिम् रसातलं च एव पुनः बिभेद ||"
+      "तदा पुनः",
+      "(सः) प्रत्ययम् जनयन्",
+      "- एकेन महेषुणा",
+      "- सप्त सालान् गिरिम् रसातलं च एव",
+      "बिभेद |"
     ],
-    prose: [],
+    prose: [
+      "Then, furthermore",
+      "Rama while instilling confidence",
+      "- with a single arrow",
+      "- 7 Shala trees, a mountain, and down in the subterrain earth",
+      "pierced",
+    ],
     transl: [
       "Then, to instill absolute confidence in Sugriva, Rama unleashed a single magnificent arrow, piercing clean through seven massive Shala trees, a mountain, and down into the subterranean earth itself."
     ],
