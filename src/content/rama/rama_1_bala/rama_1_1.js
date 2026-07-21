@@ -3626,9 +3626,17 @@ const verses = [
       "दिशः प्रस्थापयामास दिदृक्षुः जनक-आत्मजाम्"
     ],
     anvaya: [
-      "वानरर्षभः सः च सर्वान् वानरान् समानीय, जनकात्मजाम् दिदृक्षुः (सन्) दिशः प्रस्थापयामास ||"
+      "सः वानरर्षभः",
+      "च सर्वान् वानरान् समानीय",
+      "जनकात्मजाम् दिदृक्षुः (सन्)",
+      "दिशः प्रस्थापयामास |"
     ],
-    prose: [],
+    prose: [
+      "That best among Vanaras (Vali)",
+      "gathered all the Vanaras",
+      "and eager to discover the whereabouts of Sita",
+      "dispatched them in various directions",
+    ],
     transl: [
       "Then, that bull among the vanaras, Sugriva, gathered all the vanara forces together and, eager to discover the whereabouts of Janaka's daughter Sita, dispatched them in all four directions."
     ],
