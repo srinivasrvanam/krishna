@@ -3575,9 +3575,15 @@ const verses = [
       "सुग्रीवम् एव तत्-राज्ये राघवः प्रत्यपादयत्"
     ],
     anvaya: [
-      "ततः राघवः सुग्रीववचनात् आहवे वालिनम् हत्वा, सुग्रीवम् एव तद्राज्ये प्रत्यपादयत् ||"
+      "ततः राघवः",
+      "सुग्रीववचनात् आहवे वालिनम् हत्वा",
+      "सुग्रीवम् एव तद्राज्ये प्रत्यपादयत् |"
     ],
-    prose: [],
+    prose: [
+      "Then Raghava",
+      "having slain Vali in the battle in accordance with his promise to Sugriva",
+      "installed Sugriva himself on the throne of that Kingdom",
+    ],
     transl: [
       "Thereafter, having slain Vali in battle in accordance with his promise to Sugriva, Raghavan (Rama) duly installed Sugriva himself on the throne of that kingdom."
     ],
