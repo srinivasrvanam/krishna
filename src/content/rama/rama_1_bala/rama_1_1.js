@@ -3522,9 +3522,15 @@ const verses = [
       "निजघान च तत्र एनम् शरेण एकेन राघवः"
     ],
     anvaya: [
-      "तदा (वाली) ताराम् अनुमान्य सुग्रीवेण (सह) समागतः; राघवः च तत्र एनम् एकेन शरेण निजघान ||"
+      "तदा",
+      "(वाली) ताराम् अनुमान्य सुग्रीवेण (सह) समागतः;",
+      "राघवः च तत्र एनम् एकेन शरेण निजघान |"
     ],
-    prose: [],
+    prose: [
+      "Then",
+      "Vali having disregarded the warning of Tara, clashed with Sugriva",
+      "Raghava (Rama) slew him (Vali) with a single arrow",
+    ],
     transl: [
       "Having disregarded the warning and reasoning of his wife Tara, Vali clashed fiercely with Sugriva. Right then and there, Raghavan (Rama) struck him down with a single, unyielding arrow."
     ],
