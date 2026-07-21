@@ -3301,9 +3301,19 @@ const verses = [
       "पाद-अङ्गुष्ठेन चिक्षेप सम्पूर्णम् दश-योजनम्"
     ],
     anvaya: [
-      "महाबाहुः महाबलः (रामः) अस्थि प्रेक्ष्य उत्स्मयित्वा च, पादाङ्गुष्ठेन सम्पूर्णम् दशयोजनम् चिक्षेप ||"
+      "महाबाहुः महाबलः (रामः)",
+      "- उत्स्मयित्वा च",
+      "- अस्थि प्रेक्ष्य",
+      "- पादाङ्गुष्ठेन",
+      "सम्पूर्णम् दशयोजनम् चिक्षेप |"
     ],
-    prose: [],
+    prose: [
+      "Mighty armed and powerful Rama",
+      "- and gently smiling",
+      "- having looked at skeleton of Dundubhi",
+      "- with the big toe of his feet",
+      "threw it 10 yojanas (80 miles) away",
+    ],
     transl: [
       "Looking at the colossal skeleton and gently smiling at Sugriva's doubt, the mighty-armed and exceptionally powerful Rama effortlessly flicked the entire massive heap a full distance of eighty miles away with just his big toe."
     ],
