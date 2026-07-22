@@ -3782,9 +3782,19 @@ const verses = [
       "समाश्वास्य च वैदेहीम् मर्दयामास तोरणम्"
     ],
     anvaya: [
-      "(हनुमान्) अभिज्ञानम् निवेदयित्वा, प्रवृत्तिम् च निवेद्य, वैदेहीम् समाश्वास्य च, तोरणम् मर्दयामास ||"
+      "(हनुमान्)",
+      "अभिज्ञानम् निवेदयित्वा",
+      "प्रवृत्तिम् च निवेद्य",
+      "वैदेहीम् समाश्वास्य च",
+      "तोरणम् मर्दयामास |"
     ],
-    prose: [],
+    prose: [
+      "Hanuman",
+      "having presented the rama's ring as proof",
+      "having conveyed the latest news of Rama",
+      "having consoled Sita maa",
+      "shattered the main arched gateway of that grove (ashoka vatika)",
+    ],
     transl: [
       "Having presented the signet ring as proof of identity, conveyed the latest news of Rama's welfare, and fully comforted Sita, Hanuman proceeded to shatter the main arched gateway of the grove."
     ],
