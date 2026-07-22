@@ -3731,9 +3731,15 @@ const verses = [
       "ददर्श सीताम् ध्यायन्तीम् अशोक-वनिकाम् गताम्"
     ],
     anvaya: [
-      "तत्र रावणपालिताम् लङ्कां पुरीम् समासाद्य, अशोकवनिकाम् गताम् ध्यायन्तीम् सीताम् ददर्श ||"
+      "तत्र",
+      "रावणपालिताम् लङ्कां पुरीम् समासाद्य",
+      "अशोकवनिकाम् गताम् ध्यायन्तीम् सीताम् ददर्श |"
     ],
-    prose: [],
+    prose: [
+      "Thereafter, (Hanuman)",
+      "Having reached the city of Lanka, which is ruled by Ravana",
+      "saw Sita inside Ashoka vatika, who is deeply immersed in Rama's thoughts",
+    ],
     transl: [
       "Having successfully reached the city of Lanka, which was heavily guarded and ruled by Ravana, Hanuman discovered Sita inside the Ashoka grove, deeply immersed in sorrowful thoughts of Rama."
     ],
