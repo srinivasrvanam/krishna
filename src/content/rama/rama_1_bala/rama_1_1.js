@@ -3679,9 +3679,17 @@ const verses = [
       "शत-योजन-विस्तीर्णम् पुप्लुवे लवण-अर्णवम्"
     ],
     anvaya: [
-      "ततः बली हनुमान् गृध्रस्य सम्पातेः वचनात् शतयोजनविस्तीर्णम् लवणार्णवम् पुप्लुवे ||"
+      "ततः",
+      "बली हनुमान्",
+      "गृध्रस्य सम्पातेः वचनात्",
+      "शतयोजनविस्तीर्णम् लवणार्णवम् पुप्लुवे |"
     ],
-    prose: [],
+    prose: [
+      "Then",
+      "Powerful Hanuman",
+      "As per the words of vulture Sampati",
+      "leaped across the salt ocean, which spanned a distance of 10 yojanas (800 miles)",
+    ],
     transl: [
       "Thereafter, acting upon the precise words of the vulture Sampati, the exceptionally powerful Hanuman leaped across the salt ocean, which spanned a vast distance of eight hundred miles."
     ],
