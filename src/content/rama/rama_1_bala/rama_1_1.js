@@ -3838,9 +3838,17 @@ const verses = [
       "शूरम् अक्षम् च निष्पिष्य ग्रहणम् समुपागमत्"
     ],
     anvaya: [
-      "(हनुमान्) पञ्च सेनाग्रगान् सप्त मन्त्रिसुतान् अपि हत्वा, शूरम् अक्षम् च निष्पिष्य ग्रहणम् समुपागमत् ||"
+      "(हनुमान्)",
+      "पञ्च सेनाग्रगान् सप्त मन्त्रिसुतान् अपि हत्वा",
+      "शूरम् अक्षम् च निष्पिष्य",
+      "ग्रहणम् समुपागमत् |"
     ],
-    prose: [],
+    prose: [
+      "Hanuman",
+      "having slayed top 5 military commanders and 7 sons of ministers",
+      "and having crushed completely the prince Aksha",
+      "allowed himself to be captured",
+    ],
     transl: [
       "After slaying five top military commanders and seven sons of the chief ministers, and thoroughly crushing the valiant prince Aksha, Hanuman allowed himself to be captured."
     ],
