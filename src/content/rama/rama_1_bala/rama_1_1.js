@@ -4132,9 +4132,19 @@ const verses = [
       "रामः सीताम् अनुप्राप्य पराम् व्रीडाम् उपागमत्"
     ],
     anvaya: [
-      "रामः तेन लङ्कां पुरीम् गत्वा, आहवे रावणम् हत्वा, सीताम् अनुप्राप्य पराम् व्रीडाम् उपागमत् ||"
+      "रामः",
+      "तेन लङ्कां पुरीम् गत्वा",
+      "आहवे रावणम् हत्वा",
+      "सीताम् अनुप्राप्य",
+      "पराम् व्रीडाम् उपागमत् |"
     ],
-    prose: [],
+    prose: [
+      "Rama",
+      "Using that bridge, having gone to city of Lanka",
+      "and having slain Ravana in battle",
+      "and having won Sita back",
+      "but became intense sense of social inhibition",
+    ],
     transl: [
       "Crossing by that bridge, entering the city of Lanka, and slaying Ravana in battle, Rama won back Sita, but then became overwhelmed by an intense sense of social inhibition and moral awkwardness."
     ],
