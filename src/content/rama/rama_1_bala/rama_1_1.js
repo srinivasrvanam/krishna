@@ -4782,9 +4782,15 @@ const verses = [
       "नित्यम् प्रमुदिताः सर्वे यथा कृत-युगे तथा"
     ],
     anvaya: [
-      "(रामराज्ये) नगराणि च राष्ट्राणि च धनधान्ययुतानि (भविष्यन्ति), सर्वे यथा कृतयुगे तथा नित्यम् प्रमुदिताः (भविष्यन्ति) ||"
+      "(रामराज्ये)",
+      "नगराणि च राष्ट्राणि च धनधान्ययुतानि (भविष्यन्ति)",
+      "सर्वे यथा कृतयुगे तथा नित्यम् प्रमुदिताः (भविष्यन्ति) |"
     ],
-    prose: [],
+    prose: [
+      "During Rama's Reign",
+      "All the cities and provinces were filled with wealth an food grains",
+      "Everyone were always delighted, as people of Satya Yuga",
+    ],
     transl: [
       "All the cities and provinces brimmed with boundless wealth and food grains. Every single citizen remained perennially delighted, living in complete harmony just as people did during the golden age of truth."
     ],
