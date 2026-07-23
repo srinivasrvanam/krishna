@@ -4473,9 +4473,19 @@ const verses = [
       "पुष्पकम् तत् समारुह्य नन्दिग्रामम् ययौ तदा"
     ],
     anvaya: [
-      "तदा सुग्रीवसहितः च सः पुनः आख्यायिकाम् जल्पन्, तत् पुष्पकम् समारुह्य नन्दिग्रामम् ययौ ||"
+      "तदा",
+      "सुग्रीवसहितः च सः",
+      "पुनः आख्यायिकाम् जल्पन्",
+      "तत् पुष्पकम् समारुह्य",
+      "नन्दिग्रामम् ययौ |"
     ],
-    prose: [],
+    prose: [
+      "Then",
+      "Rama who is accompanied by Sugriva",
+      "once again narrating the past events",
+      "boarded that Pushpaka Vimana",
+      "traveled to Nandigrama",
+    ],
     transl: [
       "Then, accompanied by Sugriva, Rama boarded that Pushpaka chariot once again and, while narrating past events and stories of their journey, traveled to Nandigrama."
     ],
