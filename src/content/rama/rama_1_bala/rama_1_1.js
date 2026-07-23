@@ -4945,9 +4945,17 @@ const verses = [
       "रामः राज्यम् उपासित्वा ब्रह्म-लोकम् गमिष्यति"
     ],
     anvaya: [
-      "रामः दशवर्षसहस्राणि दशवर्षशतानि च राज्यम् उपासित्वा ब्रह्मलोकम् गमिष्यति ||"
+      "रामः",
+      "दशवर्षसहस्राणि दशवर्षशतानि च",
+      "राज्यम् उपासित्वा",
+      "ब्रह्मलोकम् गमिष्यति |"
     ],
-    prose: [],
+    prose: [
+      "Rama",
+      "for 11000 years",
+      "having protected his kingdom",
+      "will enventually return to Brahma lokam",
+    ],
     transl: [
       "Having served and protected his kingdom for eleven thousand years, Rama will eventually return to the pristine realm of Brahma."
     ],
