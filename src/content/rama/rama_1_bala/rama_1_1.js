@@ -3972,9 +3972,17 @@ const verses = [
       "न्यवेदयत् अमेयात्मा दृष्टा सीता इति तत्त्वतः"
     ],
     anvaya: [
-      "अमेयात्मा सः महात्मानम् रामम् अभिगम्य प्रदक्षिणम् कृत्वा च, 'सीता दृष्टा' इति तत्त्वतः न्यवेदयत् ||"
+      "अमेयात्मा सः",
+      "महात्मानम् रामम् अभिगम्य",
+      "प्रदक्षिणम् कृत्वा च",
+      "'सीता दृष्टा' इति तत्त्वतः न्यवेदयत् |"
     ],
-    prose: [],
+    prose: [
+      "That great souled Hanuman",
+      "having approached high-souled Rama",
+      "having done circumambulations",
+      "delivered the true account his discovery, declaring 'Sita maa has been found'",
+    ],
     transl: [
       "Approaching the high-souled Rama and reverently walking clockwise around him, the boundless-minded Hanuman delivered the true account of his discovery, declaring, 'Sita has been found!'"
     ],
