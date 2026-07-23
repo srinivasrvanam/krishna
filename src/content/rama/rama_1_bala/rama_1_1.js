@@ -4696,7 +4696,7 @@ const verses = [
       "न चापि क्षुद्भयं तत्र न तस्करभयं तथा | 93a"
     ],
     sloka_tel: [
-      "న CPAగ్నిజం భయం కించిన్నాప్సు మజ్జంతి జంతవః |",
+      "న చాగ్నిజం భయం కించిన్నాప్సు మజ్జంతి జంతవః |",
       "న వాతజం భయం కించిన్నాపి జ్వరకృతం తథా || 92",
       "న చాపి క్షుద్భయం తత్ర న తస్కరభయం తథా | 93a"
     ],
@@ -4706,9 +4706,25 @@ const verses = [
       "न च अपि क्षुद्-भयम् तत्र न तस्कर-भयम् तथा"
     ],
     anvaya: [
-      "(रामराज्ये) अग्निंजम् भयम् किञ्चित् न च (अस्ति), जन्तवः अप्सु न मज्जन्ति, वातजम् भयम् किञ्चित् न, तथा ज्वरकृतम् अपि (भयम्) न अस्ति; तत्र क्षुद्भयम् च अपि न (अस्ति), तथा तस्करभयम् न (अस्ति) ||"
+      "(रामराज्ये)",
+      "अग्निंजम् भयम् किञ्चित् न च (अस्ति)",
+      "जन्तवः अप्सु न मज्जन्ति",
+      "वातजम् भयम् किञ्चित् न",
+      "तथा ज्वरकृतम् अपि (भयम्) न अस्ति;",
+      "तत्र",
+      "क्षुद्भयम् च अपि न (अस्ति)",
+      "तथा तस्करभयम् न (अस्ति) |"
     ],
-    prose: [],
+    prose: [
+      "During Rama's reign",
+      "there is no fear of fire",
+      "living beings does not drown in water",
+      "there is no fear of violent storms",
+      "there is no fear of fevers",
+      "there",
+      "there is no fear of hunger/starvation",
+      "there is no fear of thieves",
+    ],
     transl: [
       "In that kingdom, there is absolutely no fear of destruction from fires, nor do living beings perish by drowning in water. There is no danger from violent storms, nor any affliction caused by consuming fevers. Furthermore, the inhabitants face neither the pangs of hunger nor the terror of thieves."
     ],
