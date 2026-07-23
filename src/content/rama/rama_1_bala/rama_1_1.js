@@ -4530,9 +4530,19 @@ const verses = [
       "रामः सीताम् अनुप्राप्य राज्यम् पुनः अवाप्तवान्"
     ],
     anvaya: [
-      "अनघः रामः नन्दिग्रामे जटाम् हित्वा भ्रातृभिः सहितः (सन्), सीताम् अनुप्राप्य राज्यम् पुनः अवाप्तवान् ||"
+      "अनघः रामः",
+      "नन्दिग्रामे जटाम् हित्वा",
+      "भ्रातृभिः सहितः (सन्)",
+      "सीताम् अनुप्राप्य",
+      "राज्यम् पुनः अवाप्तवान् |"
     ],
-    prose: [],
+    prose: [
+      "Sinless Rama",
+      "having shed his matted hair at Nandigrama",
+      "united with his brothers",
+      "and having recovered Sita",
+      "reclaimed his rightful kingdom once again",
+    ],
     transl: [
       "Having shed his matted ascetic hair at Nandigrama, the sinless Rama, united with his brothers and having successfully recovered Sita, reclaimed his rightful kingdom once again."
     ],
