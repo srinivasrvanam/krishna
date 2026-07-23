@@ -4365,9 +4365,19 @@ const verses = [
       "अयोध्याम् प्रस्थितः रामः पुष्पकेण सुहृद्-वृतः"
     ],
     anvaya: [
-      "रामः देवताभ्यः वरम् प्राप्य वानरान् समुत्थाप्य च, सुहृद्वृतः (सन्) पुष्पकेण अयोध्याम् प्रस्थितः ||"
+      "रामः",
+      "देवताभ्यः वरम् प्राप्य",
+      "वानरान् समुत्थाप्य च",
+      "सुहृद्वृतः (सन्)",
+      "पुष्पकेण अयोध्याम् प्रस्थितः |"
     ],
-    prose: [],
+    prose: [
+      "Rama",
+      "having obtained Varam from assembled gods",
+      "having resurrected the fallen Vanaras",
+      "Rama, who is surrounded by friends",
+      "set forth to Ayodhya aboard Pushpaka Vimana",
+    ],
     transl: [
       "Having obtained boons from the assembled gods and resurrected the fallen vanaras, Rama, surrounded by his close friends, set forth toward Ayodhya aboard the Pushpaka aerial chariot."
     ],
