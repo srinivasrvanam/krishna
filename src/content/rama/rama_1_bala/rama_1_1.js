@@ -4249,9 +4249,17 @@ const verses = [
       "बभौ रामः सम्प्रहृष्टः पूजितः सर्व-दैवतैः"
     ],
     anvaya: [
-      "ततः अग्निवचनात् सीताम् विगतकल्मषाम् ज्ञात्वा, महात्मनः राघवस्य तेन महता कर्मणा सदेवर्षिगणम् सचराचरम् त्रैलोक्यम् तुष्टम् (अभवत्); सर्वदैवतैः पूजितः रामः सम्प्रहृष्टः (सन्) बभौ ||"
+      "ततः",
+      "अग्निवचनात् सीताम् विगतकल्मषाम् ज्ञात्वा",
+      "महात्मनः राघवस्य तेन महता कर्मणा स-देव-ऋषि-गणम् स-चर-अचरम् त्रैलोक्यम् तुष्टम् (अभवत्);",
+      "सर्वदैवतैः पूजितः रामः सम्प्रहृष्टः (सन्) बभौ |"
     ],
-    prose: [],
+    prose: [
+      "Thereafter",
+      "Having known that Sita is pure, by the words of Fire god",
+      "By that great deed of high-souled Raghava, the 3 worlds including devatas and rishis, animate and inamiate beings were immensely happy",
+      "Revered by all the deities, Rama shone brilliantly, filled with profound joy",
+    ],
     transl: [
       "Thereupon, hearing the direct testimony of the Fire God, Rama recognized Sita as entirely pure and free from blemish. By that monumental deed of the high-souled Raghavan, the three worlds—including all animate and inanimate beings, along with the hosts of gods and sages—were immensely gratified. Revered by all the deities, Rama shone brilliantly, filled with profound joy."
     ],
