@@ -4190,9 +4190,15 @@ const verses = [
       "अमृष्यमाणा सा सीता विवेश ज्वलनम् सती"
     ],
     anvaya: [
-      "ततः रामः जनसंसदि ताम् परुषम् उवाच; सा सती सीता (तत्) अमृष्यमाणा ज्वलनम् विवेश ||"
+      "ततः",
+      "रामः जनसंसदि ताम् परुषम् उवाच;",
+      "सा सती सीता (तत्) अमृष्यमाणा ज्वलनम् विवेश |"
     ],
-    prose: [],
+    prose: [
+      "Thereafter",
+      "Rama in the midst of vast assembly, spoke harsh words to her",
+      "That virtuous Sita entered the blazing fire, unable to bear those accusations.",
+    ],
     transl: [
       "Thereupon, in the midst of the vast assembly, Rama spoke deeply wounding, harsh words to her. Unable to bear those cutting accusations, the chaste and virtuous Sita entered the blazing fire."
     ],
