@@ -4421,9 +4421,17 @@ const verses = [
       "भरतस्य अन्तिकम् रामः हनुमन्तम् व्यसर्जयत्"
     ],
     anvaya: [
-      "सत्यपराक्रमः रामः भरद्वाजाश्रमम् गत्वा, (ततः) रामः भरतस्य अन्तिकम् हनुमन्तम् व्यसर्जयत् ||"
+      "सत्यपराक्रमः रामः",
+      "भरद्वाजाश्रमम् गत्वा",
+      "(ततः) रामः",
+      "भरतस्य अन्तिकम् हनुमन्तम् व्यसर्जयत् |"
     ],
-    prose: [],
+    prose: [
+      "Rama, whose valor is anchored in truth",
+      "having gone to ashrama of Bharadwaja",
+      "thereafter Rama",
+      "dispatched Hanuman to the presence of Bharatha",
+    ],
     transl: [
       "Having reached the hermitage of Sage Bharadvaja on his return journey, Rama, whose valor is always anchored in truth, dispatched Hanuman ahead into the presence of Bharata."
     ],
