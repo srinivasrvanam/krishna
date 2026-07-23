@@ -4587,9 +4587,27 @@ const verses = [
       "निरामयः हि अरोगः च दुर्भिक्ष-भय-वर्जितः"
     ],
     anvaya: [
-      "(रामराज्ये) लोकः प्रहृष्टमुदितः, तुष्टः, पुष्टः, सुधार्मिकः, निरामयः, अरोगः च, दुर्भिक्षभयवर्जितः हि (अभवत्) ||"
+      "(रामराज्ये)",
+      "लोकः",
+      "प्रहृष्टमुदितः",
+      "तुष्टः",
+      "पुष्टः",
+      "सुधार्मिकः",
+      "निरामयः",
+      "अरोगः च",
+      "दुर्भिक्षभयवर्जितः हि (अभवत्) |"
     ],
-    prose: [],
+    prose: [
+      "(During Rama's reign)",
+      "the people of Ayodhya",
+      "were immensely delighted",
+      "completely satisfied",
+      "well nourished",
+      "deeply righteous",
+      "free from mental anxiety",
+      "devoid of physical illness",
+      "and entirely liberated from fear of famine",
+    ],
     transl: [
       "During Rama's reign, the entire populace became immensely delighted and cheerful, completely satisfied, well-nourished, deeply righteous, free from mental anxiety, devoid of physical illnesses, and entirely liberated from the fear of famine."
     ],
