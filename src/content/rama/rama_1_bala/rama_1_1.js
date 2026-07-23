@@ -4311,9 +4311,17 @@ const verses = [
       "कृतकृत्यः ततः रामः विज्वरः प्रमुमोद ह"
     ],
     anvaya: [
-      "ततः लङ्कायाम् राक्षसेन्द्रम् विभीषणम् अभिषिच्य च, रामः कृतकृत्यः विज्वरः (सन्) प्रमुमोद ह ||"
+      "ततः",
+      "लङ्कायाम् राक्षसेन्द्रम् विभीषणम् अभिषिच्य च",
+      "रामः कृतकृत्यः विज्वरः (सन्)",
+      "प्रमुमोद ह ||"
     ],
-    prose: [],
+    prose: [
+      "Thereafter",
+      "Having consecrated Vibhishana as the King of Rakshasas in Lanka",
+      "Rama who has fulfilled all his duties and free from anxiety",
+      "felt delighted/immense joy",
+    ],
     transl: [
       "Then, having consecrated Vibhishana as the king of the demons in Lanka, Rama felt entirely fulfilled, free from all anxiety, and rejoiced exceedingly."
     ],
