@@ -4079,9 +4079,15 @@ const verses = [
       "समुद्र-वचनात् च एव नलम् सेतुम् अकारयत्"
     ],
     anvaya: [
-      "सरिताम् पतिः समुद्रः आत्मानम् दर्शयामास च, समुद्रवचनात् च एव नलम् सेतुम् अकारयत् ||"
+      "सरिताम् पतिः समुद्रः",
+      "आत्मानम् दर्शयामास च",
+      "समुद्रवचनात् च एव नलम् सेतुम् अकारयत् |"
     ],
-    prose: [],
+    prose: [
+      "the Ocean God, lord of all rivers",
+      "appeared in person before Rama",
+      "Following the advice given by Ocean god himself, Nala constructed a bridge across the ocean",
+    ],
     transl: [
       "Terrified by Rama's fury, the Ocean God, the lord of all rivers, appeared in person before him. Following the advice given by the Ocean God himself, Rama had Nala construct a magnificent bridge across the sea."
     ],
