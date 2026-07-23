@@ -3841,7 +3841,7 @@ const verses = [
       "(हनुमान्)",
       "पञ्च सेनाग्रगान् सप्त मन्त्रिसुतान् अपि हत्वा",
       "शूरम् अक्षम् च निष्पिष्य",
-      "ग्रहणम् समुपागमत् |"
+      "ग्रहणम् समुपागमत् |",
     ],
     prose: [
       "Hanuman",
@@ -3899,9 +3899,21 @@ const verses = [
       "रामाय प्रियम् आख्यातुम् पुनः आयात् महा-कपिः"
     ],
     anvaya: [
-      "वीरः (हनुमान्) पैतामहात् वरात् आत्मानम् अस्त्रेण उन्मुक्तम् ज्ञात्वा, यदृच्छया तान् यन्त्रिणः राक्षसान् मर्षयन्, ततः मैथिलीम् सीताम् ऋते लङ्काम् पुरीम् दग्ध्वा च, रामाय प्रियम् आख्यातुम् पुनः आयात् ||"
+      "वीरः (हनुमान्)",
+      "पैतामहात् वरात् आत्मानम् अस्त्रेण उन्मुक्तम् ज्ञात्वा",
+      "यदृच्छया तान् यन्त्रिणः राक्षसान् मर्षयन्",
+      "ततः",
+      "मैथिलीम् सीताम् ऋते लङ्काम् पुरीम् दग्ध्वा च",
+      "रामाय प्रियम् आख्यातुम् पुनः आयात् ||"
     ],
-    prose: [],
+    prose: [
+      "Heroic Hanuman",
+      "Knowing that he was freed from the weapon's binding due to a boon granted by Lord Brahma",
+      "willingly tolerated those rakshasas who tied him up",
+      "Subsequently",
+      "after reducing the entire city of Lanka to ashes—sparing only the princess of Mithila, Sita",
+      "the great vanara returned to convey the joyous news to Rama.",
+    ],
     transl: [
       "Knowing that he was freed from the weapon's binding due to a boon granted by Lord Brahma, the heroic Hanuman willingly tolerated those rakshasas who tied him up. Subsequently, after reducing the entire city of Lanka to ashes—sparing only the princess of Mithila, Sita—the great vanara returned to convey the joyous news to Rama."
     ],
