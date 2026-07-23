@@ -4027,9 +4027,17 @@ const verses = [
       "समुद्रम् क्षोभयामास शरैः आदित्य-सन्निभैः"
     ],
     anvaya: [
-      "ततः (रामः) सुग्रीवसहितः महोदधेः तीरम् गत्वा, आदित्यसन्निभैः शरैः समुद्रम् क्षोभयामास ||"
+      "ततः",
+      "(रामः) सुग्रीवसहितः",
+      "महोदधेः तीरम् गत्वा",
+      "आदित्यसन्निभैः शरैः समुद्रम् क्षोभयामास |"
     ],
-    prose: [],
+    prose: [
+      "Thereafter",
+      "Rama along with Sugriva",
+      "having reached the shores of great ocean",
+      "caused agitation to the ocean with his arrows that blazed like the sun",
+    ],
     transl: [
       "Thereafter, marching alongside Sugriva and the vanara army, Rama reached the shores of the great ocean, where he threw the sea into complete turmoil using his arrows that blazed like the sun."
     ],
