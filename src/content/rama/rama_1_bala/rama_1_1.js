@@ -4893,9 +4893,15 @@ const verses = [
       "चातुर्वर्ण्यम् च लोके अस्मिन् स्वे स्वे धर्मे नियोक्ष्यति"
     ],
     anvaya: [
-      "राघवः राजवंशान् शतगुणान् स्थापयिष्यति, अस्मिन् लोके चातुर्वर्ण्यम् च स्वे स्वे धर्मे नियोक्ष्यति ||"
+      "राघवः",
+      "राजवंशान् शतगुणान् स्थापयिष्यति",
+      "अस्मिन् लोके चातुर्वर्ण्यम् च स्वे स्वे धर्मे नियोक्ष्यति |"
     ],
-    prose: [],
+    prose: [
+      "Raghava",
+      "will establish royal dynasties a hundredfold",
+      "and he will anchor people of all four social orders in this world, within their respective dharmas(duties)",
+    ],
     transl: [
       "The descendant of Raghu (Rama) will establish royal dynasties a hundredfold more illustrious than before, and he will anchor the people of all four social orders in this world firmly within their respective duties."
     ],
