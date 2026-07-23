@@ -4837,9 +4837,17 @@ const verses = [
       "असंख्येयम् धनम् दत्त्वा ब्राह्मणेभ्यः महा-यशाः"
     ],
     anvaya: [
-      "महायशाः (रामः) बहुसुवर्णकैः तथा अश्वमेधशतैः इष्ट्वा, विधिपूर्वकम् विद्वद्भ्यः गवाम् कोट्ययुतम् दत्त्वा, ब्राह्मणेभ्यः असङ्ख्येयम् धनम् दत्त्वा ||"
+      "महायशाः (रामः)",
+      "अश्वमेधशतैः इष्ट्वा",
+      "तथा बहुसुवर्णकैः विधिपूर्वकम् विद्वद्भ्यः गवाम् कोट्ययुतम् दत्त्वा",
+      "ब्राह्मणेभ्यः असङ्ख्येयम् धनम् दत्त्वा ||"
     ],
-    prose: [],
+    prose: [
+      "The highly illustrious Rama",
+      "having performed hundreds of Ashvamedha ",
+      "having given crores of cows to wise scholars as per scriptural injunctions",
+      "given incalculable amount of wealth for Brahmanas",
+    ],
     transl: [
       "Having performed hundreds of Ashvamedha (horse sacrifice) rituals as well as numerous other sacrifices requiring immense offerings of gold, the highly illustrious Rama distributed a hundred billion cows to wise scholars in strict accordance with scriptural injunctions, and bestowed incalculable wealth upon the brahmanas."
     ],
