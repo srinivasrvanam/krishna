@@ -4650,9 +4650,15 @@ const verses = [
       "नार्यः च अविधवाः नित्यम् भविष्यन्ति पतिव्रताः"
     ],
     anvaya: [
-      "(रामराज्ये) पुरुषाः क्वचित् किञ्चित् पुत्रमरणम् न द्रक्ष्यन्ति, नार्यः च नित्यम् अविधवाः पतिव्रताः (च) भविष्यन्ति ||"
+      "(रामराज्ये)",
+      "पुरुषाः क्वचित् किञ्चित् पुत्रमरणम् न द्रक्ष्यन्ति",
+      "नार्यः च नित्यम् अविधवाः पतिव्रताः (च) भविष्यन्ति |"
     ],
-    prose: [],
+    prose: [
+      "During Rama's reign",
+      "Men never witness the death of their child",
+      "Women were always free of widowhood, and devoted to their husbands",
+    ],
     transl: [
       "Nowhere will fathers ever witness the tragic death of their children, and women will remain forever free from early widowhood, living happily and devoted to their husbands."
     ],
