@@ -4996,9 +4996,21 @@ const verses = [
       "यः पठेत् राम-चरितम् सर्व-पापैः प्रमुच्यते"
     ],
     anvaya: [
-      "पवित्रम्, पापघ्नम्, पुण्यम्, वेदैः च सम्मितम् इदम् रामचरितम् यः पठेत्, (सः) सर्वपापैः प्रमुच्यते ||"
+      "इदम् रामचरितम्",
+      "- पवित्रम्",
+      "- पापघ्नम्",
+      "- पुण्यम्",
+      "- वेदैः च सम्मितम्",
+      "यः पठेत्, (सः) सर्वपापैः प्रमुच्यते ||"
     ],
-    prose: [],
+    prose: [
+      "This Rama charitam",
+      "- sacred",
+      "- destroyer of sins",
+      "- gives punya",
+      "- is equal to vedas",
+      "One who reads this Ramayana, will be liberated from all sins",
+    ],
     transl: [
       "Whoever reads this sacred, sin-destroying, and merit-bestowing biography of Rama, which is equal in authority and virtue to the holy Vedas themselves, is entirely liberated from all sins."
     ],
