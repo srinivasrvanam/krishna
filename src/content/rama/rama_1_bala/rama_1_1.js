@@ -5115,9 +5115,19 @@ const verses = [
       "जनः च शूद्रः अपि महत्त्वम् ईयात्"
     ],
     anvaya: [
-      "(इदं रामायणं) पठन् द्विजः वागृषभत्वम् ईयात्, क्षत्रियः स्यात् (चेत्) भूमिपतित्वम् ईयात्, वणिग्जनः पण्यफलत्वम् ईयात्, शूद्रः जनः अपि च महत्त्वम् ईयात् ||"
+      "(इदं रामायणं) पठन्",
+      "द्विजः वागृषभत्वम् ईयात्",
+      "क्षत्रियः स्यात् (चेत्) भूमिपतित्वम् ईयात्",
+      "वणिग्जनः पण्यफलत्वम् ईयात्",
+      "शूद्रः जनः अपि च महत्त्वम् ईयात् |"
     ],
-    prose: [],
+    prose: [
+      "By reading this Ramayana",
+      "A Brahmana attains mastery over speech",
+      "A Kshatriya attains sovereignty over earth",
+      "A Vaishya reaps rich profits in trade",
+      "even a Shudra attains greatnes and respect in society",
+    ],
     transl: [
       "By reading this Ramayana, a Brahmana attains mastery over speech and eloquence; a Kshatriya achieves sovereignty over the earth; a Vaishya reaps rich profits from his trade; and even a Shudra attains greatness and respect in society."
     ],
