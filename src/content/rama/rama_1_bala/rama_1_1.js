@@ -5055,9 +5055,17 @@ const verses = [
       "स-पुत्र-पौत्रः स-गणः प्रेत्य स्वर्गे महीयते"
     ],
     anvaya: [
-      "आयुष्यम् एतत् रामायणम् आख्यानम् पठन् नरः सपुत्रपौत्रः सगणः (च भूत्वा), प्रेत्य स्वर्गे महीयते ||"
+      "आयुष्यम् एतत् रामायणम् आख्यानम् पठन्",
+      "नरः",
+      "सपुत्रपौत्रः सगणः (च भूत्वा)",
+      "प्रेत्य स्वर्गे महीयते ||"
     ],
-    prose: [],
+    prose: [
+      "This Ramayana, who gives ayushyam",
+      "A person",
+      "will be blessed with children & grandchildren in this world, and faithful companions",
+      "and upon departing this life, is highly exalted in heavenly realm",
+    ],
     transl: [
       "A person who regularly reads this life-prolonging narrative of the Ramayana is blessed with sons, grandsons, and faithful companions in this world, and upon departing this life, is highly exalted in the heavenly realm."
     ],
