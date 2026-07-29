@@ -118,8 +118,8 @@ function BG() {
                         <Breadcrumbs />
                     </div>
                     <div className="flex flex-wrap justify-center gap-2 mt-2 py-4">
-                        {prevVerse && prevVerse.number && <Link to={`/bg/${chapter_num}/${prevVerse.number}`} className="sv-btn fixed bottom-4 left-5">Prev - {prevVerse.number}</Link>}
-                        {nextVerse && nextVerse.number && <Link to={`/bg/${chapter_num}/${nextVerse.number}`} className="sv-btn fixed bottom-4 right-5">Next - {nextVerse.number}</Link>}
+                        {prevVerse && prevVerse.number && <Link to={`/bg/${chapter_num}/${prevVerse.number}`} className="sv-btn fixed bottom-10 left-5 text-3xl">&lt;{prevVerse.number}</Link>}
+                        {nextVerse && nextVerse.number && <Link to={`/bg/${chapter_num}/${nextVerse.number}`} className="sv-btn fixed bottom-10 right-5 text-3xl">{nextVerse.number}&gt;</Link>}
                     </div>
                     <Verse verse={verse} />
                     <br />
