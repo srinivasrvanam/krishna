@@ -701,32 +701,54 @@ const verses = [
   },
   {
     chapter: 12,
-    number: 13,
+    number: 14,
     sloka: [
       "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च |",
-      "निर्ममो निरहङ्कारः समदुःखसुखः क्षमी ||"
+      "निर्ममो निरहङ्कारः समदुःखसुखः क्षमी || 13",
+      "संतुष्टः सततं योगी यतात्मा दृढनिश्चयः |",
+      "मय्यर्पितमनोबुद्धिर्यो मद्भक्तः स मे प्रियः || 14"
     ],
     sloka_tel: [
       "అద్వేష్టా సర్వభూతానాం మైత్రః కరుణ ఏవ చ |",
-      "నిర్మమో నిరహంకారః సమదుఃఖసుఖః క్షమీ ||"
+      "నిర్మమో నిరహంకారః సమదుఃఖసుఖః క్షమీ || 13",
+      "సంతుష్టః సతతం యోగీ యతాత్మా దృఢనిశ్చయః |",
+      "మయ్యర్పితమనోబుద్ధిర్యో మద్భక్తః స మే ప్రియః || 14"
     ],
     vicheda: [
       "अद्वेष्टा सर्व-भूतानाम् मैत्रः करुणः एव च |",
-      "निर्ममः निरहङ्कारः सम-दुःख-सुखः क्षमी ||"
+      "निर्ममः निरहङ्कारः सम-दुःख-सुखः क्षमी || 13",
+      "संतुष्टः सततम् योगी यत-आत्मा दृढ-निश्चयः |",
+      "मयि अर्पित-मनो-बुद्धिः यः मत्-भक्तः सः मे प्रियः || 14"
     ],
     anvaya: [
-      "सर्वभूतानाम् अद्वेष्टा मैत्रः करुणः एव च निर्ममः निरहङ्कारः समदुःखसुखः क्षमी ||"
+      "यः मद्भक्तः",
+      "सर्वभूतानाम् अद्वेष्टा मैत्रः करुणः एव च",
+      "निर्ममः निरहङ्कारः",
+      "समदुःखसुखः क्षमी |",
+      "सततम् संतुष्टः",
+      "योगी यतात्मा",
+      "दृढनिश्चयः मय्यर्पितमनोबुद्धिः",
+      "सः मे प्रियः |"
     ],
     prose: [
-      "He who hates no creature, who is friendly and compassionate to all, who is free from attachment and egoism, balanced in pleasure and pain, and forgiving..."
+      "that devotee of Mine, who",
+      "He who hates no creature, who is friendly and compassionate to all",
+      "who is free from attachment and egoism",
+      "balanced in pleasure and pain, and forgiving",
+      " is always content",
+      "steadily united in meditation, self - controlled",
+      "possessed of firm conviction, with mind and intellect dedicated to Me",
+      " is dear to Me."
     ],
 
     transl: [
-      "Verses 13 and 14 describe the internal and external qualities of a perfected devotee. Krishna explains that a true seeker harbors no malice toward any living being, exhibits natural friendliness and empathy, remains free from the concepts of personal ownership and ego, preserves mental equilibrium through joy and sorrow, and possesses a deeply forgiving nature."
+      "He who hates no creature, who is friendly and compassionate to all, who is free from attachment and egoism, balanced in pleasure and pain, and forgiving...",
+      "...Who is always content, steadily united in meditation, self-controlled, possessed of firm conviction, with mind and intellect dedicated to Me—that devotee of Mine is dear to Me."
     ],
 
     transl_tel: [
-      "సమస్త ప్రాణుల పట్ల ద్వేషము లేనివాడు, అందరిపట్ల స్నేహభావము, కరుణ కలిగినవాడు, మమకారము మరియు అహంకారము లేనివాడు, సుఖదుఃఖాలను సమానంగా స్వీకరించేవాడు, అపరాధాలను క్షమించే గుణము కలవాడు..."
+      "సమస్త ప్రాణుల పట్ల ద్వేషము లేనివాడు, అందరిపట్ల స్నేహభావము, కరుణ కలిగినవాడు, మమకారము మరియు అహంకారము లేనివాడు, సుఖదుఃఖాలను సమానంగా స్వీకరించేవాడు, అపరాధాలను క్షమించే గుణము కలవాడు...",
+      "ఎల్లప్పుడూ సంతృప్తి కలిగి ఉండేవాడు, నిరంతరం ధ్యానంలో ఉండేవాడు, ఆత్మనిగ్రహం కలవాడు, దృఢ నిశ్చయము కలవాడు, తన మనస్సును బుద్ధిని నాకే అర్పించినవాడు అయిన నా భక్తుడు నాకు అత్యంత ప్రియమైనవాడు."
     ],
 
     essence: [],
@@ -741,49 +763,7 @@ const verses = [
       "निर्ममः = Free from possessiveness ('mine-ness')",
       "निरहङ्कारः = Free from false egoism ('I-ness')",
       "सम-दुःख-सुखः = Equanimous in distress and happiness",
-      "क्षमी = Forgiving / Patient"
-    ],
-
-    grammar: [],
-
-    notes: [
-      "This verse begins a famous sequence (Verses 13–20) often called the 'Bhakta Lakshana'—the characteristics of an ideal devotee who is deeply dear to the Lord.",
-      "The pair 'Nirmamo Nirahankarah' targets the root causes of human suffering: 'Ahamta' (identifying with the physical body as the self) and 'Mamata' (claiming ownership over worldly materials and relationships)."
-    ]
-  },
-  {
-    chapter: 12,
-    number: 14,
-    sloka: [
-      "संतुष्टः सततं योगी यतात्मा दृढनिश्चयः |",
-      "मय्यर्पितमनोबुद्धिर्यो मद्भक्तः स मे प्रियः ||"
-    ],
-    sloka_tel: [
-      "సంతుష్టః సతతం యోగీ యతాత్మా దృఢనిశ్చయః |",
-      "మయ్యర్పితమనోబుద్ధిర్యో మద్భక్తః స మే ప్రియః ||"
-    ],
-    vicheda: [
-      "संतुष्टः सततम् योगी यत-आत्मा दृढ-निश्चयः |",
-      "मयि अर्पित-मनो-बुद्धिः यः मत्-भक्तः सः मे प्रियः ||"
-    ],
-    anvaya: [
-      "यः सततम् संतुष्टः योगी यतात्मा दृढनिश्चयः मय्यर्पितमनोबुद्धिः सः मद्भक्तः मे प्रियः ||"
-    ],
-    prose: [
-      "...Who is always content, steadily united in meditation, self-controlled, possessed of firm conviction, with mind and intellect dedicated to Me—that devotee of Mine is dear to Me."
-    ],
-
-    transl: [
-      "Krishna concludes this specific portrait of a perfected devotee by emphasizing internal satisfaction independent of external conditions. A seeker who has checked their impulses, remains anchored in firm faith, and hands over both emotional desires and intellectual choices to the Divine is deeply loved by Him."
-    ],
-
-    transl_tel: [
-      "ఎల్లప్పుడూ సంతృప్తి కలిగి ఉండేవాడు, నిరంతరం ధ్యానంలో ఉండేవాడు, ఆత్మనిగ్రహం కలవాడు, దృఢ నిశ్చయము కలవాడు, తన మనస్సును బుద్ధిని నాకే అర్పించినవాడు అయిన నా భక్తుడు నాకు అత్యంత ప్రియమైనవాడు."
-    ],
-
-    essence: [],
-
-    meanings: [
+      "क्षमी = Forgiving / Patient",
       "संतुष्टः = Contented / Satisfied",
       "सततम् = Always / Perpetually",
       "योगी = One united with the Divine / Yogi",
@@ -801,6 +781,10 @@ const verses = [
     grammar: [],
 
     notes: [
+      "Verses 13 and 14 describe the internal and external qualities of a perfected devotee. Krishna explains that a true seeker harbors no malice toward any living being, exhibits natural friendliness and empathy, remains free from the concepts of personal ownership and ego, preserves mental equilibrium through joy and sorrow, and possesses a deeply forgiving nature.",
+      "Krishna concludes this specific portrait of a perfected devotee by emphasizing internal satisfaction independent of external conditions. A seeker who has checked their impulses, remains anchored in firm faith, and hands over both emotional desires and intellectual choices to the Divine is deeply loved by Him.",
+      "This verse begins a famous sequence (Verses 13–20) often called the 'Bhakta Lakshana'—the characteristics of an ideal devotee who is deeply dear to the Lord.",
+      "The pair 'Nirmamo Nirahankarah' targets the root causes of human suffering: 'Ahamta' (identifying with the physical body as the self) and 'Mamata' (claiming ownership over worldly materials and relationships).",
       "This verse connects directly back to Verse 8, where Krishna first asked for the surrender of 'Manas' and 'Buddhi'. Here, He confirms that doing so successfully transforms a person into the ideal 'Yogi'.",
       "The phrase 'Sardustah Satatam' indicates a state of baseline happiness that does not change depending on whether one's worldly desires are fulfilled or frustrated."
     ]
