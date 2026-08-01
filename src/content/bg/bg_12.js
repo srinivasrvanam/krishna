@@ -143,32 +143,66 @@ const verses = [
   },
   {
     chapter: 12,
-    number: 3,
+    number: 4,
     sloka: [
       "ये त्वक्षरमनिर्देश्यमव्यक्तं पर्युपासते |",
-      "सर्वत्रगमचिन्त्यं च कूटस्थमचलं ध्रुवम् ||"
+      "सर्वत्रगमचिन्त्यं च कूटस्थमचलं ध्रुवम् || 3",
+      "संनियम्येन्द्रियग्रामं सर्वत्र समबुद्धयः |",
+      "ते प्राप्नुवन्ति मामेव सर्वभूतहिते रताः || 4"
     ],
     sloka_tel: [
       "యే త్వక్షరమనిర్దేశ్యమవ్యక్తం పర్యుపాసతే |",
-      "సర్వత్రగమచింత్యం చ కూటస్థమచలం ధ్రువమ్ ||"
+      "సర్వత్రగమచింత్యం చ కూటస్థమచలం ధ్రువమ్ || 3",
+      "సన్నియమ్యేంద్రియగ్రామం సర్వత్ర సమబుద్ధయః |",
+      "తే ప్రాప్నువన్తి మామేవ సర్వభూతహితే రతాః || 4"
     ],
     vicheda: [
       "ये तु अक्षरम् अनिर्देश्यम् अव्यक्तम् पर्युपासते |",
-      "सर्वत्र-गम् अचिन्त्यम् च कूट-स्थम् अचलम् ध्रुवम् ||"
+      "सर्वत्र-गम् अचिन्त्यम् च कूट-स्थम् अचलम् ध्रुवम् || 3",
+      "संनियम्य इन्द्रिय-ग्रामम् सर्वत्र सम-बुद्धयः |",
+      "ते प्राप्नुवन्ति माम् एव सर्व-भूत-हिते रताः || 4"
     ],
     anvaya: [
-      "ये तु अनिर्देश्यम् अव्यक्तम् अक्षरम् सर्वत्रगम् अचिन्त्यम् च कूटस्थम् अचलम् ध्रुवम् पर्युपासते ||"
+      "ये",
+      "- अक्षरम्",
+      "- अनिर्देश्यम्",
+      "- अव्यक्तम्",
+      "- सर्वत्रगम्",
+      "- अचिन्त्यम् च",
+      "- कूटस्थम्",
+      "- अचलम्",
+      "- ध्रुवम्",
+      "पर्युपासते |",
+      "- - इन्द्रियग्रामं संनियम्य",
+      "सर्वत्र समबुद्धयः",
+      "सर्वभूतहिते रताः",
+      "ते माम् एव प्राप्नुवन्ति |"
     ],
     prose: [
-      "But those who fully worship the imperishable, the indefinable, the unmanifest, the omnipresent, the unthinkable, the unchanging, the immovable, and the eternal..."
+      "those who",
+      "- the imperishable",
+      "- the indefinable",
+      "- the unmanifest",
+      "- the omnipresent",
+      "- the unthinkable",
+      "- the unchanging",
+      "- the immovable",
+      "- and the eternal",
+      "fully worship",
+      "- - having fully controlled all the senses,",
+      "maintaining equanimity everywhere",
+      "being engaged in the welfare of all beings",
+      "they also attain Me alone."
     ],
 
     transl: [
-      "Krishna now addresses the second group Arjuna asked about: those who meditate on the abstract, formless aspect of the Absolute (Nirguna Brahman), describing its characteristics as beyond sensory perception and material change."
+      "Krishna now addresses the second group Arjuna asked about: those who meditate on the abstract, formless aspect of the Absolute (Nirguna Brahman), describing its characteristics as beyond sensory perception and material change.",
+      "Completing the thought from the previous verse, Krishna states that those who pursue the formless, unmanifest path still reach the exact same ultimate goal (Himself), provided they control their senses, remain even-minded in all situations, and actively work for the well-being of all living entities."
     ],
 
     transl_tel: [
-      "కాని, ఎవరైతే నిర్వచించరానిది, అవ్యక్తమైనది, సర్వవ్యాప్తమైనది, ఊహకందనిది, కూటస్థమైనది (మార్పులేనిది), అచలమైనది, శాశ్వతమైనది అయిన ఆ అక్షర పరబ్రహ్మాన్ని ఉపాసిస్తారో..."
+      "కాని, ఎవరైతే నిర్వచించరానిది, అవ్యక్తమైనది, సర్వవ్యాప్తమైనది, ఊహకందనిది, కూటస్థమైనది (మార్పులేనిది), అచలమైనది, శాశ్వతమైనది అయిన ఆ అక్షర పరబ్రహ్మాన్ని ఉపాసిస్తారో...",
+      "ఇంద్రియాల సమూహాన్ని పూర్తిగా అదుపులో ఉంచుకుని, అన్ని పరిస్థితులలోనూ సమబుద్ధిని కలిగి ఉంటూ, సమస్త ప్రాణుల మేలును కోరేవారు కూడా నన్నే పొందుతారు."
     ],
 
     essence: [],
@@ -185,49 +219,7 @@ const verses = [
       "च = And",
       "कूट-स्थम् = Unchanging / Immutable",
       "अचलम् = Immovable",
-      "ध्रुवम् = Eternal / Constant"
-    ],
-
-    grammar: [],
-
-    notes: [
-      "Verses 3 and 4 form a continuous statement. This verse lists eight distinct attributes of the formless Absolute to show how challenging it is for the mind to grasp.",
-      "The word 'Kutastham' means sitting at the peak or remaining completely unaffected, signifying that the supreme reality stands detached from the dualities of nature."
-    ]
-  },
-  {
-    chapter: 12,
-    number: 4,
-    sloka: [
-      "संनियम्येन्द्रियग्रामं सर्वत्र समबुद्धयः |",
-      "ते प्राप्नुवन्ति मामेव सर्वभूतहिते रताः ||"
-    ],
-    sloka_tel: [
-      "సన్నియమ్యేంద్రియగ్రామం సర్వత్ర సమబుద్ధయః |",
-      "తే ప్రాప్నువన్తి మామేవ సర్వభూతహితే రతాః ||"
-    ],
-    vicheda: [
-      "संनियम्य इन्द्रिय-ग्रामम् सर्वत्र सम-बुद्धयः |",
-      "ते प्राप्नुवन्ति माम् एव सर्व-भूत-हिते रताः ||"
-    ],
-    anvaya: [
-      "इन्द्रियग्रामं संनियम्य सर्वत्र समबुद्धयः सर्वभूतहिते रताः ते माम् एव प्राप्नुवन्ति ||"
-    ],
-    prose: [
-      "...By fully controlling all the senses, maintaining equanimity everywhere, and being engaged in the welfare of all beings—they also attain Me alone."
-    ],
-
-    transl: [
-      "Completing the thought from the previous verse, Krishna states that those who pursue the formless, unmanifest path still reach the exact same ultimate goal (Himself), provided they control their senses, remain even-minded in all situations, and actively work for the well-being of all living entities."
-    ],
-
-    transl_tel: [
-      "ఇంద్రియాల సమూహాన్ని పూర్తిగా అదుపులో ఉంచుకుని, అన్ని పరిస్థితులలోనూ సమబుద్ధిని కలిగి ఉంటూ, సమస్త ప్రాణుల మేలును కోరేవారు కూడా నన్నే పొందుతారు."
-    ],
-
-    essence: [],
-
-    meanings: [
+      "ध्रुवम् = Eternal / Constant",
       "संनियम्य = Having fully controlled / Restraining",
       "इन्द्रिय-ग्रामम् = The entire group of senses",
       "सर्वत्र = Everywhere / In all circumstances",
@@ -243,6 +235,8 @@ const verses = [
     grammar: [],
 
     notes: [
+      "Verses 3 and 4 form a continuous statement. This verse lists eight distinct attributes of the formless Absolute to show how challenging it is for the mind to grasp.",
+      "The word 'Kutastham' means sitting at the peak or remaining completely unaffected, signifying that the supreme reality stands detached from the dualities of nature.",
       "This verse highlights the intense ethical and practical discipline required for Nirguna Upasana (impersonal meditation). It is not merely intellectual isolation; it requires deep compassion for all living things and total sensory control.",
       "By stating 'they attain Me alone,' Krishna removes any sectarian division between the path of devotion (Bhakti) and the path of knowledge (Jnana), confirming that both lead to the same supreme destination."
     ]
