@@ -805,10 +805,16 @@ const verses = [
       "हर्ष-अमर्ष-भय-उद्वेगैः मुक्तः यः सः च मे प्रियः ||"
     ],
     anvaya: [
-      "यस्मान् लोकः न उद्विजते, यः च लोकात् न उद्विजते, यः च हर्षामर्षभयोद्वेगैः मुक्तः सः मे प्रियः ||"
+      "यस्मात् लोकः न उद्विजते",
+      "यः च लोकात् न उद्विजते",
+      "यः च हर्षामर्षभयोद्वेगैः मुक्तः",
+      "सः मे प्रियः ||"
     ],
     prose: [
-      "He by whom the world is not agitated and who is not agitated by the world, and who is free from joy, envy, fear, and anxiety—he is dear to Me."
+      "He by whom the world is not agitated",
+      "and who is not agitated by the world",
+      "and who is free from joy, envy, fear, and anxiety",
+      "—he is dear to Me."
     ],
 
     transl: [
