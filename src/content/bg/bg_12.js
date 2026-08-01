@@ -257,14 +257,16 @@ const verses = [
       "अव्यक्ता हि गतिः दुःखम् देह-वद्भिः अवाप्यते ||"
     ],
     anvaya: [
-      "अव्यक्त-आसक्त-चेतसाम् तेषाम् क्लेशः अधिकतरः (भवति), हि देहवद्भिः अव्यक्ता गतिः दुःखम् अवाप्यते ||"
+      "(अव्यक्त-आसक्त-चेतसाम्) तेषाम् क्लेशः अधिकतरः (भवति)",
+      "देहवद्भिः अव्यक्ता गतिः दुःखम् अवाप्यते |"
     ],
     prose: [
-      "The difficulty is much greater for those whose minds are attached to the unmanifest; for, the path of the unmanifest is attained with great hardship by embodied beings."
+      "The difficulty is much greater for those whose minds are attached to the unmanifest;",
+      "for, the path of the unmanifest is attained with great hardship by embodied beings."
     ],
 
     transl: [
-      "Krishna explains why the path of devotion is preferred over the path of abstract meditation: focusing the mind on a formless, attribute-less Absolute is incredibly difficult for human beings who are anchored to a physical, embodied existence.",
+      "The difficulty is much greater for those whose minds are attached to the unmanifest; for, the path of the unmanifest is attained with great hardship by embodied beings.",
     ],
 
     transl_tel: [
@@ -290,7 +292,8 @@ const verses = [
 
     notes: [
       "This is a pivotal verse in Bhakti philosophy. Krishna does not say the impersonal path is wrong; He simply states it is functionally harder ('Adhikatara Kleshah') for humans.",
-      "Since our daily experiences are bound by forms, names, and senses, trying to contemplate something that lacks all of these qualities feels unnatural and mentally exhausting for most seekers."
+      "Since our daily experiences are bound by forms, names, and senses, trying to contemplate something that lacks all of these qualities feels unnatural and mentally exhausting for most seekers.",
+      "Krishna explains why the path of devotion is preferred over the path of abstract meditation: focusing the mind on a formless, attribute-less Absolute is incredibly difficult for human beings who are anchored to a physical, embodied existence.",
     ]
   },
   {
