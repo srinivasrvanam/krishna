@@ -298,32 +298,62 @@ const verses = [
   },
   {
     chapter: 12,
-    number: 6,
+    number: 7,
     sloka: [
       "ये तु सर्वाणि कर्माणि मयि संन्यस्य मत्पराः |",
-      "अनन्येनैव योगेन मां ध्यायन्त उपासते ||"
+      "अनन्येनैव योगेन मां ध्यायन्त उपासते || 6",
+      "तेषामहं समुद्धर्ता मृत्युसंसारसागरात् |",
+      "भवामि नचिरात्पार्थ मय्यावेशितचेतसाम् || 7"
     ],
     sloka_tel: [
       "యే తు సర్వాణి కర్మాణి మయి సంన్యస్య మత్పరాః |",
-      "అనన్యేనైవ యోగేన మాం ధ్యాయన్త ఉపాసతే ||"
+      "అనన్యేనైవ యోగేన మాం ధ్యాయన్త ఉపాసతే || 6",
+      "తేషామహం సముద్ధర్తా మృత్యుసంసారసాగరాత్ |",
+      "భవామి నచిరాత్పార్థ మయ్యావేశితచేతసామ్ || 7"
     ],
     vicheda: [
       "ये तु सर्वाणि कर्माणि मयि संन्यस्य मत्पराः |",
-      "अनन्येन एव योगेन माम् ध्यायन्तः उपासते ||"
+      "अनन्येन एव योगेन माम् ध्यायन्तः उपासते || 6",
+      "तेषाम् अहम् समुद्धर्ता मृत्यु-संसार-सागरात् |",
+      "भवामि नचिरात् पार्थ मयि आवेशित-चेतसाम् || 7"
     ],
     anvaya: [
-      "ये तु सर्वाणि कर्माणि मयि संन्यस्य मत्पराः (सन्तः) अनन्येन योगेन एव माम् ध्यायन्तः उपासते ||"
+      "पार्थ!",
+      "ये",
+      "- तु सर्वाणि कर्माणि मयि संन्यस्य",
+      "- मत्पराः (सन्तः)",
+      "- अनन्येन योगेन एव माम् ध्यायन्तः",
+      "उपासते |",
+      "अहम्",
+      "(मयि आवेशित-चेतसाम्) तेषाम्",
+      "- मृत्यु-संसार-सागरात्",
+      "- नचिरात्",
+      "- समुद्धर्ता",
+      "भवामि |"
     ],
     prose: [
-      "But those who surrender all their actions unto Me, regarding Me as the Supreme Goal, and who worship Me, meditating upon Me with unswerving devotion..."
+      "O Partha (Arjuna)",
+      "those who",
+      "- surrender all their actions unto Me",
+      "- regarding Me as the Supreme Goal",
+      "- meditating upon Me with unwavering devotion",
+      "worship Me",
+      "I ",
+      "- for those whose minds are absorbed in Me",
+      "- from the ocean of birth and death bound by mortality",
+      "- without delay",
+      "- their deliverer ",
+      "become",
     ],
 
     transl: [
-      "Verses 6 and 7 form a combined statement. Here, Krishna highlights the practice of those who follow the personal path: they dedicate every action to Him, live with Him as their ultimate destination, and practice focused meditation without drifting to any other shelter."
+      "But those who surrender all their actions unto Me, regarding Me as the Supreme Goal, and who worship Me, meditating upon Me with unswerving devotion...",
+      "O Partha (Arjuna), for those whose minds are absorbed in Me, I become their swift deliverer from the ocean of birth and death bound by mortality."
     ],
 
     transl_tel: [
-      "కాని, ఎవరైతే తమ సమస్త కర్మలను నాకే అర్పించి, నన్నే పరమగమ్యముగా భావించి, అచంచలమైన భక్తియోగముతో నన్ను ధ్యానిస్తూ ఉపాసిస్తారో..."
+      "కాని, ఎవరైతే తమ సమస్త కర్మలను నాకే అర్పించి, నన్నే పరమగమ్యముగా భావించి, అచంచలమైన భక్తియోగముతో నన్ను ధ్యానిస్తూ ఉపాసిస్తారో...",
+      "ఓ పార్థా! నాపైనే మనస్సును లగ్నం చేసిన ఆ భక్తులను, నేను ఈ మృత్యురూప సంసార సాగరం నుండి అతి త్వరలోనే స్వయంగా ఉద్ధరిస్తాను."
     ],
 
     essence: [],
@@ -341,49 +371,7 @@ const verses = [
       "योगेन = Through the Yoga of devotion",
       "माम् = Me",
       "ध्यायन्तः = Meditating upon",
-      "उपासते = Worship"
-    ],
-
-    grammar: [],
-
-    notes: [
-      "This verse defines 'Ananya Yoga'—a state where there is no secondary object of reliance. The devotee’s secular, social, and spiritual duties are completely integrated and offered to the personal Divine.",
-      "The transition from the intense difficulties of formless meditation (Verse 5) to this complete surrender sets up the immediate grace promised in the next verse."
-    ]
-  },
-  {
-    chapter: 12,
-    number: 7,
-    sloka: [
-      "तेषामहं समुद्धर्ता मृत्युसंसारसागरात् |",
-      "भवामि नचिरात्पार्थ मय्यावेशितचेतसाम् ||"
-    ],
-    sloka_tel: [
-      "తేషామహం సముద్ధర్తా మృత్యుసంసారసాగరాత్ |",
-      "భవామి నచిరాత్పార్థ మయ్యావేశితచేతసామ్ ||"
-    ],
-    vicheda: [
-      "तेषाम् अहम् समुद्धर्ता मृत्यु-संसार-सागरात् |",
-      "भवामि नचिरात् पार्थ मयि आवेशित-चेतसाम् ||"
-    ],
-    anvaya: [
-      "पार्थ मयि आवेशित-चेतसाम् तेषाम् अहम् मृत्यु-संसार-सागरात् नचिरात् समुद्धर्ता भवामि ||"
-    ],
-    prose: [
-      "O Partha (Arjuna), for those whose minds are absorbed in Me, I become their swift deliverer from the ocean of birth and death bound by mortality."
-    ],
-
-    transl: [
-      "Completing the thought from the previous verse, Krishna promises that devotees who surrender everything to Him do not have to struggle through spiritual evolution alone. He personally steps in to rescue them quickly from the endless cycle of transmigratory existence."
-    ],
-
-    transl_tel: [
-      "ఓ పార్థా! నాపైనే మనస్సును లగ్నం చేసిన ఆ భక్తులను, నేను ఈ మృత్యురూప సంసార సాగరం నుండి అతి త్వరలోనే స్వయంగా ఉద్ధరిస్తాను."
-    ],
-
-    essence: [],
-
-    meanings: [
+      "उपासते = Worship",
       "तेषाम् = Of them",
       "अहम् = I",
       "समुद्धर्ता = The deliverer / Savior",
@@ -398,8 +386,12 @@ const verses = [
     grammar: [],
 
     notes: [
+      "This verse defines 'Ananya Yoga'—a state where there is no secondary object of reliance. The devotee’s secular, social, and spiritual duties are completely integrated and offered to the personal Divine.",
+      "The transition from the intense difficulties of formless meditation (Verse 5) to this complete surrender sets up the immediate grace promised in the next verse.",
       "The metaphor of 'Samsara' as a vast, treacherous ocean ('Sagara') is central to Vedic philosophy. Crossing it by one's own effort (via self-directed knowledge or austerity) is described as long and exhausting.",
-      "Here, Krishna offers the ultimate comfort of Bhakti: the Supreme Divine acts as a personal lifeguard, lifting the helpless devotee out of the turbulent waters of worldly existence without delay ('Nachirat')."
+      "Here, Krishna offers the ultimate comfort of Bhakti: the Supreme Divine acts as a personal lifeguard, lifting the helpless devotee out of the turbulent waters of worldly existence without delay ('Nachirat').",
+      "Verses 6 and 7 form a combined statement. Here, Krishna highlights the practice of those who follow the personal path: they dedicate every action to Him, live with Him as their ultimate destination, and practice focused meditation without drifting to any other shelter.",
+      "Completing the thought from the previous verse, Krishna promises that devotees who surrender everything to Him do not have to struggle through spiritual evolution alone. He personally steps in to rescue them quickly from the endless cycle of transmigratory existence."
     ]
   },
   {
