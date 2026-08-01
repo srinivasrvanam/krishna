@@ -1102,10 +1102,18 @@ const verses = [
       "श्रद्दधानाः मत्-परमाः भक्ताः ते अतीव मे प्रियाः ||"
     ],
     anvaya: [
-      "ये तु श्रद्दधानाः मत्परमाः (सन्तः) इदम् यथोक्तम् धर्म्यामृतम् पर्युपासते, ते भक्ताः मे अतीव प्रियाः ||"
+      "ये तु",
+      "श्रद्दधानाः",
+      "मत्परमाः (सन्तः)",
+      "इदम् यथोक्तम् धर्म्यामृतम् पर्युपासते",
+      "ते भक्ताः मे अतीव प्रियाः |"
     ],
     prose: [
-      "But those who follow this immortal nectar of virtue as described above, endowing themselves with faith and regarding Me as their Supreme Goal—those devotees are exceedingly dear to Me."
+      "But those",
+      "endowing themselves with faith",
+      "and regarding Me as their Supreme Goal",
+      "who follow this immortal nectar of virtue as described above",
+      "—those devotees are exceedingly dear to Me."
     ],
 
     transl: [
