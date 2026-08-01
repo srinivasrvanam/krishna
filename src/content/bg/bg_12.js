@@ -962,32 +962,42 @@ const verses = [
   },
   {
     chapter: 12,
-    number: 18,
+    number: 19,
     sloka: [
       "समः शत्रौ च मित्रे च तथा मानापमानयोः |",
-      "शीतोष्णसुखदुःखेषु समः सङ्गविवर्जितः ||"
+      "शीतोष्णसुखदुःखेषु समः सङ्गविवर्जितः || 18",
+      "तुल्यनिन्दास्तुतिर्मौनी संतुष्टो येन केनचित् |",
+      "अनिकेतः स्थिरमतिर्भक्तिमान्मे प्रियो नरः || 19"
     ],
     sloka_tel: [
       "సమః శత్రౌ చ మిత్రే చ తథా మానాపమానయోః |",
-      "శీతోష్ణసుఖదుఃఖేషు సమః సంగవివర్జితః ||"
+      "శీతోష్ణసుఖదుఃఖేషు సమః సంగవివర్జితః || 18",
+      "తుల్యనిందాస్తుతిర్మౌనీ సంతుష్టో యేన కేనచిత్ |",
+      "అనికేతః స్థిరమతిర్భక్తిమాన్మే ప్రియో నరః || 19"
     ],
     vicheda: [
       "समः शत्रौ च मित्रे च तथा मान-अपमानयोः |",
-      "शीत-उष्ण-सुख-दुःखेषु समः सङ्ग-विवर्जितः ||"
+      "शीत-उष्ण-सुख-दुःखेषु समः सङ्ग-विवर्जितः || 18",
+      "तुल्य-निन्दा-स्तुतिः मौनी संतुष्टः येन केनचित् |",
+      "अनिकेतः स्थिर-मतिः भक्ति-मान् मे प्रियः नरः || 19"
     ],
     anvaya: [
-      "शत्रौ च मित्रे च तथा मानापमानयोः समः, शीतोष्णसुखदुःखेषु समः, सङ्गविवर्जितः ||"
+      "शत्रौ च मित्रे च तथा मानापमानयोः समः, शीतोष्णसुखदुःखेषु समः, सङ्गविवर्जितः ||",
+      "तुल्यनिन्दास्तुतिः मौनी येन केनचित् संतुष्टः अनिकेतः स्थिरमतिः (यः) भक्तिमान् नरः मे प्रियः ||"
     ],
     prose: [
-      "He who is equanimous toward foe and friend, as well as in honor and dishonor, who is balanced in cold and heat, pleasure and pain, and who is free from all attachment..."
+      "He who is equanimous toward foe and friend, as well as in honor and dishonor, who is balanced in cold and heat, pleasure and pain, and who is free from all attachment...",
+      "...Who holds blame and praise as equal, who is silent, content with whatever comes, homeless, firm in understanding, and full of devotion—that person is dear to Me."
     ],
 
     transl: [
-      "He who is equanimous toward foe and friend, as well as in honor and dishonor, who is balanced in cold and heat, pleasure and pain, and who is free from all attachment..."
+      "He who is equanimous toward foe and friend, as well as in honor and dishonor, who is balanced in cold and heat, pleasure and pain, and who is free from all attachment...",
+      "...Who holds blame and praise as equal, who is silent, content with whatever comes, homeless, firm in understanding, and full of devotion—that person is dear to Me."
     ],
 
     transl_tel: [
-      "శత్రువు పట్ల, మిత్రువు పట్ల సమాన భావము కలిగి ఉండేవాడు, అట్లే మానావమానాల నందు, శీతోష్ణాల నందు, సుఖదుఃఖాల నందు సమబుద్ధి కలిగి, ఆసక్తిని పూర్తిగా విడిచిపెట్టినవాడు..."
+      "శత్రువు పట్ల, మిత్రువు పట్ల సమాన భావము కలిగి ఉండేవాడు, అట్లే మానావమానాల నందు, శీతోష్ణాల నందు, సుఖదుఃఖాల నందు సమబుద్ధి కలిగి, ఆసక్తిని పూర్తిగా విడిచిపెట్టినవాడు...",
+      "నిందను, స్తుతిని సమానంగా భావించేవాడు, మౌనము వహించేవాడు, లభించిన దానితోనే తృప్తి పడేవాడు, ఇల్లు అనే మమకారము లేనివాడు (అనికేతుడు), స్థిరమైన బుద్ధి కలవాడు అయిన భక్తుడు నాకు అత్యంత ప్రియుడు."
     ],
 
     essence: [],
@@ -1002,50 +1012,7 @@ const verses = [
       "मान-अपमानयोः = In honor and dishonor",
       "शीत-उष्ण-सुख-दुःखेषु = In cold, heat, pleasure, and pain",
       "समः = Balanced",
-      "सङ्ग-विवर्जितः = Completely free from attachment / Clinging"
-    ],
-
-    grammar: [],
-
-    notes: [
-      "Verses 18 and 19 build a definitive summary of the state of equanimity. Here, Krishna notes that an ideal devotee preserves an identical attitude whether dealing with an adversary or an ally, whether receiving social praise or public humiliation, and whether encountering physical discomforts like freezing cold and burning heat. They live detached from worldly dynamics.",
-      "This verse shows a beautiful progression of dualities: it covers social relationships (foe/friend), psychological experiences (honor/dishonor), and physical realities (cold/heat).",
-      "The phrase 'Sanga-vavarjitah' highlights that the root of balance is the systemic removal of 'Sanga'—the mental glue that makes us cling to specific people, comforts, or reputations."
-    ]
-  },
-  {
-    chapter: 12,
-    number: 19,
-    sloka: [
-      "तुल्यनिन्दास्तुतिर्मौनी संतुष्टो येन केनचित् |",
-      "अनिकेतः स्थिरमतिर्भक्तिमान्मे प्रियो नरः ||"
-    ],
-    sloka_tel: [
-      "తుల్యనిందాస్తుతిర్మౌనీ సంతుష్టో యేన కేనచిత్ |",
-      "అనికేతః స్థిరమతిర్భక్తిమాన్మే ప్రియో నరః ||"
-    ],
-    vicheda: [
-      "तुल्य-निन्दा-स्तुतिः मौनी संतुष्टः येन केनचित् |",
-      "अनिकेतः स्थिर-मतिः भक्ति-मान् मे प्रियः नरः ||"
-    ],
-    anvaya: [
-      "तुल्यनिन्दास्तुतिः मौनी येन केनचित् संतुष्टः अनिकेतः स्थिरमतिः (यः) भक्तिमान् नरः मे प्रियः ||"
-    ],
-    prose: [
-      "...Who holds blame and praise as equal, who is silent, content with whatever comes, homeless, firm in understanding, and full of devotion—that person is dear to Me."
-    ],
-
-    transl: [
-      "...Who holds blame and praise as equal, who is silent, content with whatever comes, homeless, firm in understanding, and full of devotion—that person is dear to Me."
-    ],
-
-    transl_tel: [
-      "నిందను, స్తుతిని సమానంగా భావించేవాడు, మౌనము వహించేవాడు, లభించిన దానితోనే తృప్తి పడేవాడు, ఇల్లు అనే మమకారము లేనివాడు (అనికేతుడు), స్థిరమైన బుద్ధి కలవాడు అయిన భక్తుడు నాకు అత్యంత ప్రియుడు."
-    ],
-
-    essence: [],
-
-    meanings: [
+      "सङ्ग-विवर्जितः = Completely free from attachment / Clinging",
       "तुल्य-निन्दा-स्तुतिः = Equal in blame and praise",
       "मौनी = Silent / Contemplative / Restrained in speech",
       "संतुष्टः = Contented",
@@ -1060,7 +1027,9 @@ const verses = [
 
     grammar: [],
 
-    notes: [
+    notes: ["Verses 18 and 19 build a definitive summary of the state of equanimity. Here, Krishna notes that an ideal devotee preserves an identical attitude whether dealing with an adversary or an ally, whether receiving social praise or public humiliation, and whether encountering physical discomforts like freezing cold and burning heat. They live detached from worldly dynamics.",
+      "This verse shows a beautiful progression of dualities: it covers social relationships (foe/friend), psychological experiences (honor/dishonor), and physical realities (cold/heat).",
+      "The phrase 'Sanga-vavarjitah' highlights that the root of balance is the systemic removal of 'Sanga'—the mental glue that makes us cling to specific people, comforts, or reputations.",
       "Completing the description of the ideal devotee, Krishna observes that such a person looks at public criticism and adulation with the exact same eye, speaks with careful restraint, stays grateful for whatever basic necessities arrive naturally, does not derive pride from owning a fixed dwelling, holds an unshakeable focus on truth, and is saturated with love for the Divine.",
       "'Aniketah' literally means 'homeless'. In a deeper psychological sense, it means a person who does not pin their security or identity on real estate, a house, or a particular country—they feel at home everywhere in God's creation.",
       "The word 'Mauni' does not just mean stopping physical speech; it denotes a mind that has quieted its internal chatter, arguments, and defensive justifications against external criticisms."
