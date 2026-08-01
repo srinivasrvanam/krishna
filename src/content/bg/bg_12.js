@@ -938,10 +938,22 @@ const verses = [
       "शुभ-अशुभ-परित्यागी भक्ति-मान् यः सः मे प्रियः ||"
     ],
     anvaya: [
-      "यः न हृष्यति, न द्वेष्टि, न शोचति, न काङ्क्षति, शुभ-अशुभ-परित्यागी यः भक्तिमान् सः मे प्रियः ||"
+      "यः",
+      "न हृष्यति,",
+      "न द्वेष्टि,",
+      "न शोचति,",
+      "न काङ्क्षति,",
+      "शुभ-अशुभ-परित्यागी",
+      "सः भक्तिमान् मे प्रियः ||"
     ],
     prose: [
-      "He who neither rejoices nor hates, neither grieves nor desires, and who renounces both auspicious and inauspicious outcomes—such a person, endowed with devotion, is dear to Me."
+      "He who",
+      "neither rejoices ",
+      "nor hates, ",
+      "neither grieves ",
+      "nor desires, ",
+      "and who renounces both auspicious and inauspicious outcomes",
+      "—such a person, endowed with devotion, is dear to Me."
     ],
 
     transl: [
