@@ -870,10 +870,24 @@ const verses = [
       "सर्व-आरम्भ-परित्यागी यः मत्-भक्तः सः मे प्रियः ||"
     ],
     anvaya: [
-      "यः अनपेक्षः शुचिः दक्षः उदासीनः गतव्यथः सर्वारम्भपरित्यागी मद्भक्तः सः मे प्रियः ||"
+      "यः",
+      "अनपेक्षः",
+      "शुचिः",
+      "दक्षः",
+      "उदासीनः",
+      "गतव्यथः",
+      "सर्वारम्भपरित्यागी ",
+      "सः मद्भक्तः मे प्रियः ||"
     ],
     prose: [
-      "He who is free from expectations, pure, expert, unconcerned, untroubled, and who has renounced all egoistic initiatives—that devotee of Mine is dear to Me."
+      "He who",
+      "is free from expectations,",
+      "pure, ",
+      "expert, ",
+      "unconcerned, ",
+      "untroubled, ",
+      "and who has renounced all egoistic initiatives",
+      "—that devotee of Mine is dear to Me."
     ],
 
     transl: [
