@@ -474,14 +474,18 @@ const verses = [
       "अभ्यास-योगेन ततः माम् इच्छ आप्तुम् धनञ्जय ||"
     ],
     anvaya: [
-      "धनञ्जय अथ मयि चित्तं स्थिरं समाधातुं न शक्नोषि, ततः अभ्यासयोगेन माम् आप्तुम् इच्छ ||"
+      "धनञ्जय!",
+      "अथ मयि चित्तं स्थिरं समाधातुं न शक्नोषि",
+      "ततः अभ्यासयोगेन माम् आप्तुम् इच्छ |"
     ],
     prose: [
-      "O Dhananjaya (Arjuna), if you are unable to fix your mind steadily on Me, then seek to reach Me by the yoga of constant practice."
+      "O Dhananjaya (Arjuna)",
+      "if you are unable to fix your mind steadily on Me",
+      "then seek to reach Me by the yoga of constant practice."
     ],
 
     transl: [
-      "Recognizing that absolute, effortless focus of both mind and intellect on the Divine (as commanded in Verse 8) can be incredibly difficult, Krishna offers a practical alternative: if the mind drifts, use the discipline of repetitive spiritual practice (Abhyasa-yoga) to gradually pull it back and build the desire to attain Him."
+      "O Dhananjaya (Arjuna), if you are unable to fix your mind steadily on Me, then seek to reach Me by the yoga of constant practice."
     ],
 
     transl_tel: [
@@ -510,7 +514,8 @@ const verses = [
 
     notes: [
       "This verse begins a beautifully pragmatic 'ladder of options' where Krishna steps down to meet the seeker at their current level of competence, showing His profound compassion as a teacher.",
-      "The term 'Abhyasa' implies a repetitive, deliberate effort. Krishna acknowledges that the mind is restless by nature, but reassures Arjuna that muscle memory for the soul can be built through consistent, patient retraining."
+      "The term 'Abhyasa' implies a repetitive, deliberate effort. Krishna acknowledges that the mind is restless by nature, but reassures Arjuna that muscle memory for the soul can be built through consistent, patient retraining.",
+      "Recognizing that absolute, effortless focus of both mind and intellect on the Divine (as commanded in Verse 8) can be incredibly difficult, Krishna offers a practical alternative: if the mind drifts, use the discipline of repetitive spiritual practice (Abhyasa-yoga) to gradually pull it back and build the desire to attain Him."
     ]
   },
   {
