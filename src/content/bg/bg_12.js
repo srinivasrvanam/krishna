@@ -654,14 +654,20 @@ const verses = [
       "ध्यानात् कर्म-फल-त्यागः त्यागात् शान्तिः अनन्तरम् ||"
     ],
     anvaya: [
-      "अभ्यासात् हि ज्ञानम् श्रेयः, ज्ञानात् ध्यानं विशिष्यते, ध्यानात् कर्मफलत्यागः (विशिष्यते), त्यागात् अनन्तरम् शान्तिः (भवति) ||"
+      "अभ्यासात् हि ज्ञानम् श्रेयः",
+      "ज्ञानात् ध्यानं विशिष्यते",
+      "ध्यानात् कर्मफलत्यागः (विशिष्यते)",
+      "त्यागात् अनन्तरम् शान्तिः (भवति) ||"
     ],
     prose: [
-      "Better indeed is knowledge than mechanical practice; meditation is superior to knowledge; and renunciation of the fruits of actions is better than meditation; peace immediately follows such renunciation."
+      "Better indeed is knowledge than mechanical practice;",
+      "meditation is superior to knowledge;",
+      "and renunciation of the fruits of actions is better than meditation;",
+      "peace immediately follows such renunciation."
     ],
 
     transl: [
-      "Krishna ranks the psychological tools of spiritual growth to highlight why He ended His ladder with the renunciation of action-rewards. Mechanical practice without understanding is lowest; cultivated knowledge is better; absorbing that knowledge into deep meditation is higher still; but for an attached mind, renouncing the anxiety over results (Karma Phala Tyaga) is the most immediate way to clear mental turbulence and attain peace."
+      "Better indeed is knowledge than mechanical practice; meditation is superior to knowledge; and renunciation of the fruits of actions is better than meditation; peace immediately follows such renunciation."
     ],
 
     transl_tel: [
@@ -688,6 +694,7 @@ const verses = [
     grammar: [],
 
     notes: [
+      "Krishna ranks the psychological tools of spiritual growth to highlight why He ended His ladder with the renunciation of action-rewards. Mechanical practice without understanding is lowest; cultivated knowledge is better; absorbing that knowledge into deep meditation is higher still; but for an attached mind, renouncing the anxiety over results (Karma Phala Tyaga) is the most immediate way to clear mental turbulence and attain peace.",
       "This verse provides the psychological rationale for the options given in the previous verses. Krishna structures this sequence based on practical efficacy for an unpurified mind rather than abstract philosophical value.",
       "While meditation is technically a higher internal state, it cannot bring peace if the seeker is constantly plagued by anxiety over material desires and outcomes. Therefore, cutting the cord of attachment to results ('Tyaga') acts as an immediate pressure-release valve for the mind, paving the swift path to 'Shanti'."
     ]
