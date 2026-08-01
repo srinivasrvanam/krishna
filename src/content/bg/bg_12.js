@@ -89,11 +89,21 @@ const verses = [
     ],
     anvaya: [
       "श्रीभगवान् उवाच -",
-      "ये मयि मनः आवेश्य परया श्रद्धया उपेताः नित्ययुक्ताः (सन्तं) माम् उपासते, ते मे युक्ततमाः मताः ||"
+      "ये",
+      "- मयि मनः आवेश्य",
+      "- परया श्रद्धया उपेताः",
+      "- नित्ययुक्ताः",
+      "माम् उपासते",
+      "ते मे युक्ततमाः मताः ||"
     ],
     prose: [
-      "The Blessed Lord said:",
-      "Those who, fixing their minds on Me, worship Me with steadfast devotion and are endowed with supreme faith—they are considered by Me to be the most perfect in Yoga."
+      "The Supreme Lord said:",
+      "Those who",
+      "- fixing their minds on Me",
+      "- and are endowed with supreme faith",
+      "- with steadfast devotion",
+      "- worship Me",
+      "they are considered by Me to be the most perfect in Yoga."
     ],
 
     transl: [
