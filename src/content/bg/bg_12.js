@@ -534,14 +534,18 @@ const verses = [
       "मदर्थम् अपि कर्माणि कुर्वन् सिद्धिम् अवाप्स्यसि ||"
     ],
     anvaya: [
-      "अभ्यासे अपि असमर्थः असि (तर्हि) मत्कर्मपरमः भव, मदर्थम् कर्माणि कुर्वन् अपि सिद्धिम् अवाप्स्यसि ||"
+      "अभ्यासे अपि असमर्थः असि",
+      "(तर्हि) मत्कर्मपरमः भव",
+      "मदर्थम् कर्माणि कुर्वन् अपि सिद्धिम् अवाप्स्यसि |"
     ],
     prose: [
-      "If you are unable even to practice this discipline, then make My work your supreme priority. By performing actions for My sake, you will certainly attain perfection."
+      "If you are unable even to practice this discipline",
+      "then make My work your supreme priority.",
+      "By performing actions for My sake, you will certainly attain perfection."
     ],
 
     transl: [
-      "Stepping down another level on the ladder of spiritual options, Krishna addresses those who lack the mental discipline for systematic, meditative practice (Abhyasa). He advises them to simply dedicate their physical actions to Him—working for His cause or performing duties with a sense of divine service, which naturally leads to spiritual purification and ultimate success."
+      "If you are unable even to practice this discipline, then make My work your supreme priority. By performing actions for My sake, you will certainly attain perfection."
     ],
 
     transl_tel: [
@@ -568,6 +572,7 @@ const verses = [
     grammar: [],
 
     notes: [
+      "Stepping down another level on the ladder of spiritual options, Krishna addresses those who lack the mental discipline for systematic, meditative practice (Abhyasa). He advises them to simply dedicate their physical actions to Him—working for His cause or performing duties with a sense of divine service, which naturally leads to spiritual purification and ultimate success.",
       "In this alternative, internal meditation is replaced by external devotional activity. This includes actions that directly serve the Divine, such as caring for sacred spaces, helping community welfare in a spiritual spirit, or sharing wisdom.",
       "The core shift here is from changing *how the mind thinks* to changing *why the body acts*. By altering the motive behind physical labor to be 'for His sake,' everyday work transforms into a purifying spiritual tool."
     ]
