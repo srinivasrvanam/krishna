@@ -1014,12 +1014,31 @@ const verses = [
       "अनिकेतः स्थिर-मतिः भक्ति-मान् मे प्रियः नरः || 19"
     ],
     anvaya: [
-      "शत्रौ च मित्रे च तथा मानापमानयोः समः, शीतोष्णसुखदुःखेषु समः, सङ्गविवर्जितः ||",
-      "तुल्यनिन्दास्तुतिः मौनी येन केनचित् संतुष्टः अनिकेतः स्थिरमतिः (यः) भक्तिमान् नरः मे प्रियः ||"
+      "(यः)",
+      "शत्रौ च मित्रे च तथा",
+      "मानापमानयोः समः",
+      "शीतोष्णसुखदुःखेषु समः",
+      "सङ्गविवर्जितः |",
+      "तुल्यनिन्दास्तुतिः",
+      "मौनी",
+      "येन केनचित् संतुष्टः",
+      "अनिकेतः",
+      "स्थिरमतिः",
+      " भक्तिमान् नरः मे प्रियः ||"
     ],
     prose: [
-      "He who is equanimous toward foe and friend, as well as in honor and dishonor, who is balanced in cold and heat, pleasure and pain, and who is free from all attachment...",
-      "...Who holds blame and praise as equal, who is silent, content with whatever comes, homeless, firm in understanding, and full of devotion—that person is dear to Me."
+      "He who",
+      "is equanimous toward foe and friend",
+      "as well as in honor and dishonor",
+      "who is balanced in cold and heat, pleasure and pain",
+      "and who is free from all attachment...",
+      "...Who holds blame and praise as equal",
+      "who is silent",
+      "content with whatever comes",
+      "homeless",
+      "does not waver in mind",
+      "and full of devotion",
+      "—that person is dear to Me."
     ],
 
     transl: [
