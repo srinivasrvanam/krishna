@@ -593,14 +593,20 @@ const verses = [
       "सर्व-कर्म-फल-त्यागम् ततः कुरु यत-आत्म-वान् ||"
     ],
     anvaya: [
-      "अथ एतद् अपि कर्तुम् अशक्तः असि, ततः मद्योगम् आश्रितः यतात्मवान् (सन्) सर्वकर्मफलत्यागं कुरु ||"
+      "अथ एतद् अपि कर्तुम् अशक्तः असि",
+      "ततः मद्योगम् आश्रितः",
+      "यतात्मवान् (सन्)",
+      "सर्वकर्मफलत्यागं कुरु |"
     ],
     prose: [
-      "If you are unable to do even this, then, taking shelter in My Yoga, remain self-controlled and renounce the fruits of all your actions."
+      "If you are unable to do even this",
+      "then, taking shelter in My Yoga",
+      "remain self-controlled",
+      "and renounce the fruits of all your actions."
     ],
 
     transl: [
-      "Krishna reaches the practical baseline of His spiritual ladder: if a person cannot even dedicate their work directly to God (as advised in Verse 10), they should simply perform their everyday duties with self-restraint and consciously surrender the attachment to the final results. This practice of Karma Phala Tyaga protects the mind from binding reactions."
+      "If you are unable to do even this, then, taking shelter in My Yoga, remain self-controlled and renounce the fruits of all your actions."
     ],
 
     transl_tel: [
@@ -627,6 +633,7 @@ const verses = [
     grammar: [],
 
     notes: [
+      "Krishna reaches the practical baseline of His spiritual ladder: if a person cannot even dedicate their work directly to God (as advised in Verse 10), they should simply perform their everyday duties with self-restraint and consciously surrender the attachment to the final results. This practice of Karma Phala Tyaga protects the mind from binding reactions.",
       "This verse introduces the essence of Karma Yoga as a universal entry-point. It does not require deep theological knowledge or intense emotional devotion upfront—it simply asks the seeker to change their relationship with the outcomes of their work.",
       "By checking the ego's demand for specific rewards ('Yatatmavan'), a secular professional, a student, or a householder can convert ordinary secular labor into an active tool for mental purification and ultimate liberation."
     ]
