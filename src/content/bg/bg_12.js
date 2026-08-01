@@ -410,14 +410,22 @@ const verses = [
       "निवसिष्यसि मयि एव अतः ऊर्ध्वम् न संशयः ||"
     ],
     anvaya: [
-      "मयि एव मनः आधत्स्व, मयि बुद्धिं निवेशय, अतः ऊर्ध्वं मयि एव निवसिष्यसि, (अत्र) संशयः न ||"
+      "मयि एव मनः आधत्स्व",
+      "मयि बुद्धिं निवेशय",
+      "अतः ऊर्ध्वं",
+      "मयि एव निवसिष्यसि",
+      "(अत्र) संशयः न |"
     ],
     prose: [
-      "Fix your mind on Me alone, rest your intellect in Me; thereafter, you will live in Me alone, without a doubt."
+      "Fix your mind on Me alone",
+      "rest your intellect in Me;",
+      "thereafter",
+      "you will live in Me alone",
+      "without a doubt."
     ],
 
     transl: [
-      "Krishna gives a direct command to Arjuna on how to practice this personal devotion: anchor both the emotional mind and the analytical intellect in Him. By doing so, the seeker transcends material consciousness and permanently abides in divine existence after this life."
+      "Fix your mind on Me alone, rest your intellect in Me; thereafter, you will live in Me alone, without a doubt."
     ],
 
     transl_tel: [
@@ -446,7 +454,8 @@ const verses = [
 
     notes: [
       "This verse highlights that total surrender involves both 'Manas' (the seat of emotions, desires, and thoughts) and 'Buddhi' (the faculty of judgment, reason, and decision-making).",
-      "Krishna uses the words 'Na Samsayah' (no doubt) as an absolute guarantee, reassuring Arjuna that this dual alignment of mind and intellect ensures ultimate spiritual liberation."
+      "Krishna uses the words 'Na Samsayah' (no doubt) as an absolute guarantee, reassuring Arjuna that this dual alignment of mind and intellect ensures ultimate spiritual liberation.",
+      "Krishna gives a direct command to Arjuna on how to practice this personal devotion: anchor both the emotional mind and the analytical intellect in Him. By doing so, the seeker transcends material consciousness and permanently abides in divine existence after this life."
     ]
   },
   {
