@@ -812,7 +812,7 @@ const verses = [
     ],
 
     transl: [
-      "Krishna describes a beautiful, harmonious relationship between the devotee and society. An advanced practitioner neither causes mental distress or anxiety to other living beings, nor allows the actions and criticisms of society to perturb their own internal peace, having risen above emotional swings like blind excitement, resentment, fear, and worry."
+      "He by whom the world is not agitated and who is not agitated by the world, and who is free from joy, envy, fear, and anxiety—he is dear to Me."
     ],
 
     transl_tel: [
@@ -843,6 +843,7 @@ const verses = [
     grammar: [],
 
     notes: [
+      "Krishna describes a beautiful, harmonious relationship between the devotee and society. An advanced practitioner neither causes mental distress or anxiety to other living beings, nor allows the actions and criticisms of society to perturb their own internal peace, having risen above emotional swings like blind excitement, resentment, fear, and worry.",
       "This verse shows that spiritual advancement has clear social outcomes. A true devotee's presence acts as a sanctuary; they are so harmless and gentle that no one feels threatened or anxious around them.",
       "'Harsha' (elation when getting something pleasant) and 'Amarsha' (intolerance or envy when seeing another's prosperity) are highlighted as major emotional barriers that a balanced mind must transcend."
     ]
@@ -870,7 +871,7 @@ const verses = [
     ],
 
     transl: [
-      "Krishna lists further essential traits of an ideal worker-devotee: they desire nothing from the material world, maintain internal and external cleanliness, execute their duties with expert skill, remain neutral amidst partisan conflicts, stay free from psychological worry, and abandon the ego-driven desire to launch new projects purely for personal prestige or gain."
+      "He who is free from expectations, pure, expert, unconcerned, untroubled, and who has renounced all egoistic initiatives—that devotee of Mine is dear to Me."
     ],
 
     transl_tel: [
@@ -896,6 +897,7 @@ const verses = [
     grammar: [],
 
     notes: [
+      "Krishna lists further essential traits of an ideal worker-devotee: they desire nothing from the material world, maintain internal and external cleanliness, execute their duties with expert skill, remain neutral amidst partisan conflicts, stay free from psychological worry, and abandon the ego-driven desire to launch new projects purely for personal prestige or gain.",
       "The inclusion of 'Daksha' (expert/skilful) is highly noteworthy. It proves that the Bhagavad Gita's detachment does not mean laziness or sloppy execution. A true yogi performs duties with high competence, but remains detached from personal reward.",
       "'Sarvarambha-parityagi' does not mean giving up all activities; it means renouncing the mental urge to start actions driven purely by individual vanity or greed, choosing instead to act as an instrument of divine purpose."
     ]
@@ -923,7 +925,7 @@ const verses = [
     ],
 
     transl: [
-      "Krishna underscores emotional neutrality. An ideal devotee does not get ecstatically attached to pleasant acquisitions, does not nurse hatred for unpleasant situations, does not sink into deep grief over losses, and does not hanker after future material gains. By treating both worldly good fortune and misfortune with an even mind, they preserve their spiritual integrity."
+      "He who neither rejoices nor hates, neither grieves nor desires, and who renounces both auspicious and inauspicious outcomes—such a person, endowed with devotion, is dear to Me."
     ],
 
     transl_tel: [
@@ -953,6 +955,7 @@ const verses = [
     grammar: [],
 
     notes: [
+      "Krishna underscores emotional neutrality. An ideal devotee does not get ecstatically attached to pleasant acquisitions, does not nurse hatred for unpleasant situations, does not sink into deep grief over losses, and does not hanker after future material gains. By treating both worldly good fortune and misfortune with an even mind, they preserve their spiritual integrity.",
       "The pair 'Shubha-Ashubha-Parityagi' highlights that a seeker must look beyond the duality of material concepts of 'good luck' and 'bad luck'. Both are temporary waves on the surface of material nature.",
       "By not reacting to these dualities with standard human patterns of elation and despair, the devotee locks their consciousness into a higher, transcendental plane of stability."
     ]
@@ -980,7 +983,7 @@ const verses = [
     ],
 
     transl: [
-      "Verses 18 and 19 build a definitive summary of the state of equanimity. Here, Krishna notes that an ideal devotee preserves an identical attitude whether dealing with an adversary or an ally, whether receiving social praise or public humiliation, and whether encountering physical discomforts like freezing cold and burning heat. They live detached from worldly dynamics."
+      "He who is equanimous toward foe and friend, as well as in honor and dishonor, who is balanced in cold and heat, pleasure and pain, and who is free from all attachment..."
     ],
 
     transl_tel: [
@@ -1005,6 +1008,7 @@ const verses = [
     grammar: [],
 
     notes: [
+      "Verses 18 and 19 build a definitive summary of the state of equanimity. Here, Krishna notes that an ideal devotee preserves an identical attitude whether dealing with an adversary or an ally, whether receiving social praise or public humiliation, and whether encountering physical discomforts like freezing cold and burning heat. They live detached from worldly dynamics.",
       "This verse shows a beautiful progression of dualities: it covers social relationships (foe/friend), psychological experiences (honor/dishonor), and physical realities (cold/heat).",
       "The phrase 'Sanga-vavarjitah' highlights that the root of balance is the systemic removal of 'Sanga'—the mental glue that makes us cling to specific people, comforts, or reputations."
     ]
@@ -1032,7 +1036,7 @@ const verses = [
     ],
 
     transl: [
-      "Completing the description of the ideal devotee, Krishna observes that such a person looks at public criticism and adulation with the exact same eye, speaks with careful restraint, stays grateful for whatever basic necessities arrive naturally, does not derive pride from owning a fixed dwelling, holds an unshakeable focus on truth, and is saturated with love for the Divine."
+      "...Who holds blame and praise as equal, who is silent, content with whatever comes, homeless, firm in understanding, and full of devotion—that person is dear to Me."
     ],
 
     transl_tel: [
@@ -1057,6 +1061,7 @@ const verses = [
     grammar: [],
 
     notes: [
+      "Completing the description of the ideal devotee, Krishna observes that such a person looks at public criticism and adulation with the exact same eye, speaks with careful restraint, stays grateful for whatever basic necessities arrive naturally, does not derive pride from owning a fixed dwelling, holds an unshakeable focus on truth, and is saturated with love for the Divine.",
       "'Aniketah' literally means 'homeless'. In a deeper psychological sense, it means a person who does not pin their security or identity on real estate, a house, or a particular country—they feel at home everywhere in God's creation.",
       "The word 'Mauni' does not just mean stopping physical speech; it denotes a mind that has quieted its internal chatter, arguments, and defensive justifications against external criticisms."
     ]
@@ -1084,7 +1089,7 @@ const verses = [
     ],
 
     transl: [
-      "Krishna concludes the entire 12th Chapter with an ultimate declaration of love for those who try to embody these virtues. He calls these teachings the 'Nectar of Dharma' (Dharmyamritam). Anyone who practices this timeless path with authentic faith and keeps Him as the singular focal point of their life is not just dear, but *exceedingly* dear to Him."
+      "But those who follow this immortal nectar of virtue as described above, endowing themselves with faith and regarding Me as their Supreme Goal—those devotees are exceedingly dear to Me."
     ],
 
     transl_tel: [
@@ -1113,6 +1118,7 @@ const verses = [
     grammar: [],
 
     notes: [
+      "Krishna concludes the entire 12th Chapter with an ultimate declaration of love for those who try to embody these virtues. He calls these teachings the 'Nectar of Dharma' (Dharmyamritam). Anyone who practices this timeless path with authentic faith and keeps Him as the singular focal point of their life is not just dear, but *exceedingly* dear to Him.",
       "The chapter ends on a powerful crescendo. While earlier verses stated who is 'dear' (Priyah), this final verse upgrades the promise to 'exceedingly dear' (Ativa Me Priyah) for anyone who strives to make these virtues their living reality.",
       "By referencing 'Dharmyamritam', Krishna reminds us that the qualities outlined in this chapter are not dry restrictions; they are life-giving nectar that yields immortal spiritual health and everlasting inner peace."
     ]
