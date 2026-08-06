@@ -15,9 +15,17 @@ const verses = [
       "यत् त्वया उक्तम् वचः तेन मोहः अयम् विगतः मम"
     ],
     anvaya: [
-      "मदनुग्रहाय अध्यात्मसंज्ञितम् यत् परमम् गुह्यम् वचः त्वया उक्तम्, तेन मम अयम् मोहः विगतः ||"
+      "मदनुग्रहाय",
+      "यत् परमम् गुह्यम् अध्यात्मसंज्ञितम् वचः",
+      "त्वया उक्तम्",
+      "तेन मम अयम् मोहः विगतः |"
     ],
-    prose: [],
+    prose: [
+      "Inorder to bless me",
+      "Those words that are supremely confidential regarding the supreme self",
+      "spoken by you",
+      "by those words, my delusion has now dispelled",
+    ],
     transl: [
       "Arjuna said: Out of compassion for me, you have spoken these supremely confidential words regarding the spiritual self. By hearing your instruction, my delusion has now been dispelled."
     ],
