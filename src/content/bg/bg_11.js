@@ -584,9 +584,23 @@ const verses = [
       "सर्व-आश्चर्य-मयम् देवम् अनन्तम् विश्वतः-मुखम्"
     ],
     anvaya: [
-      "(पार्थः) दिव्यमाल्याम्बरधरम्, दिव्यगन्धानुलेपनम्, सर्वाश्चर्यमयम्, अनन्तम्, विश्वतोमुखम् देवम् (ददर्श) ||"
+      "(पार्थः)",
+      "दिव्यमाल्याम्बरधरम्",
+      "दिव्यगन्धानुलेपनम्",
+      "सर्वाश्चर्यमयम्",
+      "अनन्तम्",
+      "विश्वतोमुखम्",
+      "देवम् (अपश्यत्) ||"
     ],
-    prose: [],
+    prose: [
+      "Arjuna",
+      "the form that is wearing divine garlands and garments",
+      "the form that is anointed with divine fragrances",
+      "the form filled with all wonders",
+      "the form that is boundless (infinite)",
+      "the form that is facing every direction",
+      "saw the god",
+    ],
     transl: [
       "Wearing celestial garlands and garments, anointed with divine fragrances, filled with all wonders, resplendent, boundless, and facing in every direction."
     ],
