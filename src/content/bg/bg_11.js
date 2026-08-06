@@ -643,9 +643,13 @@ const verses = [
       "यदि भाः सदृशी सा स्यात् भासः तस्य महा-आत्मनः"
     ],
     anvaya: [
-      "दिवि युगपत् सूर्यसहस्रस्य उत्थिता भाः भवेत् यदि, सा तस्य महात्मनः भासः सदृशी स्यात् ||"
+      "यदि दिवि युगपत् सूर्यसहस्रस्य उत्थिता भाः भवेत्",
+      "सा तस्य महात्मनः भासः सदृशी स्यात् |"
     ],
-    prose: [],
+    prose: [
+      "If the radiance of a thousand suns were to burst forth simultaneously in the sky",
+      "that might resemble the effulgence of that Supreme Soul.",
+    ],
     transl: [
       "If the radiance of a thousand suns were to burst forth simultaneously in the sky, that might resemble the effulgence of that Supreme Soul."
     ],
