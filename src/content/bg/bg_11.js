@@ -180,9 +180,19 @@ const verses = [
       "योग-ईश्वर ततः मे त्वम् दर्शय आत्मानम् अव्ययम्"
     ],
     anvaya: [
-      "प्रभो! मया तत् द्रष्टुम् शक्यम् इति यदि मन्यसे, ततः योगेश्वर! त्वम् अव्ययम् आत्मानम् मे दर्शय ||"
+      "प्रभो!",
+      "मया तत् द्रष्टुम् शक्यम् इति यदि मन्यसे",
+      "ततः",
+      "योगेश्वर!",
+      "त्वम् अव्ययम् आत्मानम् मे दर्शय |"
     ],
-    prose: [],
+    prose: [
+      "O Lord",
+      "If you think that it is possible for me to see it",
+      "then",
+      "O Lord of Yoga",
+      "You show me your imperishable self",
+    ],
     transl: [
       "O Lord, if you think that it is possible for me to behold it, then, O Lord of Yoga, reveal to me your imperishable self."
     ],
