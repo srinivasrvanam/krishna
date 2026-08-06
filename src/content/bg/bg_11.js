@@ -468,9 +468,21 @@ const verses = [
       "दर्शयामास पार्थाय परमम् रूपम् ऐश्वरम्"
     ],
     anvaya: [
-      "सञ्जयः उवाच—राजन्! महायोगेश्वरः हरिः एवम् उक्त्वा ततः पार्थाय परमम् ऐश्वरम् रूपम् दर्शयामास ||"
+      "सञ्जयः उवाच",
+      "—राजन्!",
+      "महायोगेश्वरः हरिः",
+      "एवम् उक्त्वा",
+      "ततः पार्थाय",
+      "परमम् ऐश्वरम् रूपम् दर्शयामास |"
     ],
-    prose: [],
+    prose: [
+      "Sanjaya said",
+      "O King (Dhritharashtra)",
+      "The Supreme Lord of all Yoga, Sri Hari",
+      "having spoken thus",
+      "then for Arjuna",
+      "revealed his supreme sovereign cosmic form",
+    ],
     transl: [
       "Sanjaya said: O King, having spoken thus, Hari, the supreme Lord of all mystic power, revealed to Arjuna his paramount, sovereign cosmic form."
     ],
