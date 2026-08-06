@@ -408,9 +408,15 @@ const verses = [
       "दिव्यम् ददामि ते चक्षुः पश्य मे योगम् ऐश्वरम्"
     ],
     anvaya: [
-      "तु अनेन एव स्वचक्षुषा माम् द्रष्टुम् न शक्यसे; ते दिव्यम् चक्षुः ददामि, मे ऐश्वरम् योगम् पश्य ||"
+      "तु अनेन एव स्वचक्षुषा माम् द्रष्टुम् न शक्यसे;",
+      "ते दिव्यम् चक्षुः ददामि",
+      "मे ऐश्वरम् योगम् पश्य |"
     ],
-    prose: [],
+    prose: [
+      "But you cannot see me with these material eyes of yours",
+      "So, I bestow upon you divine vision",
+      "Now behold my sovereign, majestic power",
+    ],
     transl: [
       "But you cannot see me with these material eyes of yours. Therefore, I bestow upon you divine vision. Now behold my sovereign, majestic yoga!"
     ],
