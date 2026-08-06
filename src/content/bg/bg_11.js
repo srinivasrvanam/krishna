@@ -297,9 +297,15 @@ const verses = [
       "बहूनि आश्चर्य-रूपाणि पश्य आश्‍चर्याणि भारत"
     ],
     anvaya: [
-      "भारत! आदित्यान्, वसून्, रुद्रान्, अश्विनौ, तथा मरुतः पश्य; बहूनि आश्चर्यणि अदृष्टपूर्वाणि (च) पश्य ||"
+      "भारत!",
+      "आदित्यान्, वसून्, रुद्रान्, अश्विनौ, तथा मरुतः पश्य;",
+      "बहूनि आश्चर्यणि अदृष्टपूर्वाणि (च) पश्य |"
     ],
-    prose: [],
+    prose: [
+      "O Bharatha",
+      "Behold the adityas, vasus, rudras, ashwini kumaras, and the Maruts",
+      "Behold many wonders never seen before",
+    ],
     transl: [
       "Behold the Adityas, the Vasus, the Rudras, the Ashvini Kumaras, and the Maruts. Behold, O descendant of Bharata, many wonders never seen before."
     ],
