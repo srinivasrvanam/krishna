@@ -71,9 +71,15 @@ const verses = [
       "त्वत्तः कमल-पत्र-अक्ष माहात्म्यम् अपि च अव्ययम्"
     ],
     anvaya: [
-      "कमलपत्राक्ष! भूतानाम् भवाप्ययौ हि त्वत्तः मया विस्तरशः श्रुतौ, अव्ययम् माहात्म्यम् अपि च (श्रुतम्) ||"
+      "कमलपत्राक्ष!",
+      "भूतानाम् भवाप्ययौ हि त्वत्तः मया विस्तरशः श्रुतौ",
+      "अव्ययम् माहात्म्यम् अपि च (श्रुतम्) |"
     ],
-    prose: [],
+    prose: [
+      "O lotus eyed one!",
+      "The origin and dissolution of all living beings was heard by me in a great detail",
+      "and also about your inexhaustible divine majesty",
+    ],
     transl: [
       "O lotus-eyed one, I have heard from you in detail about the origin and dissolution of all living beings, as well as your inexhaustible divine majesty."
     ],
