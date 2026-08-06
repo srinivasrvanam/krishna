@@ -528,9 +528,21 @@ const verses = [
       "अनेक-दिव्य-आभरणम् दिव्य-अनेक-उद्यत-आयुधम्"
     ],
     anvaya: [
-      "(पार्थः) अनेकवक्त्रनयनम्, अनेकाद्भुतदर्शनम्, अनेकदिव्याभरणम्, दिव्यानेकोद्यतायुधम् (परमं रूपं ददर्श) ||"
+      "(पार्थः)",
+      "अनेकवक्त्रनयनम्",
+      "अनेकाद्भुतदर्शनम्",
+      "अनेकदिव्याभरणम्",
+      "दिव्यानेकोद्यतायुधम्",
+      "(परमं रूपं अपश्यत्) |"
     ],
-    prose: [],
+    prose: [
+      "Arjuna",
+      "form that contains infinite mouths and eyes",
+      "form that displays many wonderous sights",
+      "form that is adorned with infinite divine ornaments",
+      "form that is wielding infinite divine weapons",
+      "saw the supreme divine form",
+    ],
     transl: [
       "Arjuna beheld that form containing infinite mouths and eyes, displaying manifold wondrous sights, adorned with numerous celestial ornaments, and wielding countless brandished divine weapons."
     ],
