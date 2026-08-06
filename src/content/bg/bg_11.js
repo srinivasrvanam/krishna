@@ -77,7 +77,7 @@ const verses = [
     ],
     prose: [
       "O lotus eyed one!",
-      "The origin and dissolution of all living beings was heard by me in a great detail",
+      "The origin and dissolution of all living beings was heard by me in a great detail from you",
       "and also about your inexhaustible divine majesty",
     ],
     transl: [
