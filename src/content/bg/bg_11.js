@@ -243,9 +243,15 @@ const verses = [
       "नाना-विधानि दिव्यानि नाना-वर्ण-आकृतीनि च"
     ],
     anvaya: [
-      "श्रीभगवान् उवाच—पार्थ! अथ शतशः सहस्रशः नानाविधानि दिव्यानि नानावर्णाकृतीनि च मे रूपाणि पश्य ||"
+      "श्रीभगवान् उवाच",
+      "—पार्थ!",
+      "अथ शतशः सहस्रशः नाना-विधानि दिव्यानि नाना-वर्ण-आकृतीनि च मे रूपाणि पश्य",
     ],
-    prose: [],
+    prose: [
+      "The Supreme Lord said",
+      "O Partha (Arjuna)",
+      "Now behold my hundreds and thousands of multifaceted divine forms, exhibiting varied colors and shapes",
+    ],
     transl: [
       "The Supreme Lord said: O son of Pritha (Arjuna), behold my hundreds and thousands of multifaceted divine forms, exhibiting varied colors and shapes."
     ],
