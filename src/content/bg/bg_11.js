@@ -124,9 +124,17 @@ const verses = [
       "द्रष्टुम् इच्छामि ते रूपम् ऐश्वरम् पुरुष-उत्तम"
     ],
     anvaya: [
-      "परमेश्वर! त्वम् आत्मानम् यथा आत्थ, एतत् एवम् (अस्ति); पुरुषोत्तम! ते ऐश्वरम् रूपम् द्रष्टुम् इच्छामि ||"
+      "परमेश्वर!",
+      "त्वम् आत्मानम् यथा आत्थ, एतत् एवम् (अस्ति);",
+      "पुरुषोत्तम!",
+      "ते ऐश्वरम् रूपम् द्रष्टुम् इच्छामि ||"
     ],
-    prose: [],
+    prose: [
+      "O Supreme Lord",
+      "You are precisely as you describe yourself",
+      "O Supreme Being",
+      "I desire to see your divine, sovereign form",
+    ],
     transl: [
       "O Supreme Lord, you are precisely as you describe yourself. Yet, O Supreme Being, I desire to directly behold your divine, sovereign form."
     ],
