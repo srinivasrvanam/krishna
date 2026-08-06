@@ -350,9 +350,17 @@ const verses = [
       "मम देहे गुडाकेश यत् च अन्यत् द्रष्टुम् इच्छसि"
     ],
     anvaya: [
-      "गुडाकेश! अद्य इह मम देहे एकस्थम् सचराचरम् कृत्स्नम् जगत्, यत् च अन्यत् द्रष्टुम् इच्छसि, (तत् सर्वम्) पश्य ||"
+      "गुडाकेश!",
+      "अद्य इह मम देहे एकस्थम् सचराचरम् कृत्स्नम् जगत्",
+      "यत् च अन्यत् द्रष्टुम् इच्छसि",
+      "(तत् सर्वम्) पश्य |"
     ],
-    prose: [],
+    prose: [
+      "O Gudakesha (conquerer of sleep/ignorance)",
+      "Now here the entire universe (including moving and non-moving) at one place within my body",
+      "and whatever else you wish to see",
+      "see all that",
+    ],
     transl: [
       "O Gudakesha (Arjuna), behold today the entire universe—moving and non-moving—concentrated here in one single place within my body, along with whatever else you wish to see."
     ],
