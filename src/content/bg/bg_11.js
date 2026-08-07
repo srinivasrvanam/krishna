@@ -1061,9 +1061,25 @@ const verses = [
       "पश्यामि त्वाम् दीप्त-हुताश-वक्त्रम् स्व-तेजसा विश्वम् इदम् तपन्तम्"
     ],
     anvaya: [
-      "त्वाम् अनादिमध्यान्तम्, अनन्तवीर्यम्, अनन्तबाहुम्, शशिसूर्यनेत्रम्, दीप्तहुताशवक्त्रम्, स्वतेजसा इदम् विश्वम् तपन्तम् पश्यामि ||"
+      "त्वाम्",
+      "अनादिमध्यान्तम्",
+      "अनन्तवीर्यम्",
+      "अनन्तबाहुम्",
+      "शशिसूर्यनेत्रम्",
+      "दीप्तहुताशवक्त्रम्",
+      "स्वतेजसा इदम् विश्वम् तपन्तम्",
+      "पश्यामि |"
     ],
-    prose: [],
+    prose: [
+      "you",
+      "without the beginning, middle or end",
+      "possessing infinite power",
+      "with boundless arms",
+      "having the sun and moon as your eyes",
+      "blazing fire as your mouths",
+      "scorching this entire universe with your radiance",
+      "I see",
+    ],
     transl: [
       "I see you as without beginning, middle, or end, possessing infinite power, with boundless arms, having the sun and moon as your eyes, blazing fire as your mouths, and scorching this entire universe with your radiance."
     ],
