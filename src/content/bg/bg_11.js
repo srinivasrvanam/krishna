@@ -1295,9 +1295,23 @@ const verses = [
       "बहु-उदरम् बहु-दंष्ट्रा-करालम् दृष्ट्वा लोकाः प्रव्यथिताः तथा अहम्"
     ],
     anvaya: [
-      "महाबाहो! बहुवक्त्रनेत्रम्, बहुबाहूरुपादम्, बहूदरम्, बहुदंष्ट्राकरालम् ते महत् रूपम् दृष्ट्वा लोकाः प्रव्यथिताः, तथा अहम् (अपि प्रव्यथितः) ||"
+      "महाबाहो!",
+      "बहुवक्त्रनेत्रम्",
+      "बहुबाहूरुपादम्",
+      "बहूदरम्",
+      "बहुदंष्ट्राकरालम्",
+      "ते महत् रूपम् दृष्ट्वा लोकाः प्रव्यथिताः",
+      "तथा अहम् (अपि प्रव्यथितः) ||"
     ],
-    prose: [],
+    prose: [
+      "O mighty-armed one",
+      "many mouths and eyes",
+      "many arms, thighs and feet",
+      "many bellies",
+      "tusks",
+      "beholding your colossal form with",
+      "so am I",
+    ],
     transl: [
       "O mighty-armed one, beholding your colossal form with countless mouths, eyes, arms, thighs, feet, and bellies, terrifying with its formidable tusks, all the worlds are trembling with fear—and so am I."
     ],
