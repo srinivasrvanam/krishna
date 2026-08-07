@@ -755,9 +755,17 @@ const verses = [
       "प्रणम्य शिरसा देवम् कृत-अञ्जलिः अभाषत"
     ],
     anvaya: [
-      "ततः विस्मयाविष्टः हृष्टरोमा सः धनञ्जयः शिरसा देवम् प्रणम्य कृताञ्जलिः अभाषत ||"
+      "ततः",
+      "विस्मयाविष्टः हृष्टरोमा सः धनञ्जयः",
+      "शिरसा देवम् प्रणम्य",
+      "कृताञ्जलिः अभाषत |"
     ],
-    prose: [],
+    prose: [
+      "Then",
+      "That Arjuna who is overwhelmed with wonder and his hair standing on end",
+      "bowed his head before the Lord",
+      "spoke with folded hands",
+    ],
     transl: [
       "Then, overwhelmed with wonder and his hair standing on end, Dhananjaya (Arjuna) bowed his head before the Lord and, with folded hands, began to speak."
     ],
