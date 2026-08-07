@@ -1183,9 +1183,15 @@ const verses = [
       "स्वस्ति इति उक्त्वा महर्षि-सिद्ध-सङ्घाः स्तुवन्ति त्वाम् स्तुतिभिः पुष्कलाभिः"
     ],
     anvaya: [
-      "अमी सुरसङ्घाः हि त्वाम् विशन्ति; केचित् भीताः प्राञ्जलयः गृणन्ति; महर्षिसिद्धसङ्घाः 'स्वस्ति' इति उक्त्वा पुष्कलाभिः स्तुतिभिः त्वाम् स्तुवन्ति ||"
+      "अमी सुरसङ्घाः हि त्वाम् विशन्ति;",
+      "केचित् भीताः प्राञ्जलयः गृणन्ति;",
+      "महर्षिसिद्धसङ्घाः 'स्वस्ति' इति उक्त्वा पुष्कलाभिः स्तुतिभिः त्वाम् स्तुवन्ति |"
     ],
-    prose: [],
+    prose: [
+      "Indeed, hosts of gods enter into you;",
+      "some, fearful, offer prayers with folded hands.",
+      "Assemblies of great sages and perfected beings chant 'May there be peace!' and praise you with splendid hymns.",
+    ],
     transl: [
       "Indeed, hosts of gods enter into you; some, fearful, offer prayers with folded hands. Assemblies of great sages and perfected beings chant 'May there be peace!' and praise you with splendid hymns."
     ],
