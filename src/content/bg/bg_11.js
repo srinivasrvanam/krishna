@@ -1123,9 +1123,15 @@ const verses = [
       "दृष्ट्वा अद्भुतम् रूपम् उग्रम् तव इदम् लोक-त्रयम् प्रव्यथितम् महात्मन्"
     ],
     anvaya: [
-      "महात्मन्! द्यावापृथिव्योः इदम् अन्तरम् सर्वाः दिशः च एकेन त्वया हि व्याप्तम्; तव इदम् अद्भुतम् उग्रम् रूपम् दृष्ट्वा लोकत्रयम् प्रव्यथितम् (अस्ति) ||"
+      "महात्मन्!",
+      "द्यावापृथिव्योः इदम् अन्तरम् सर्वाः दिशः च एकेन त्वया हि व्याप्तम्;",
+      "तव इदम् अद्भुतम् उग्रम् रूपम् दृष्ट्वा लोकत्रयम् प्रव्यथितम्(अस्ति) |"
     ],
-    prose: [],
+    prose: [
+      "O Great Soul",
+      "the space between heaven and earth, as well as all directions, is pervaded by you alone.",
+      "Beholding this wondrous and terrifying form of yours, the three worlds are trembling with fear.",
+    ],
     transl: [
       "O Great Soul, the space between heaven and earth, as well as all directions, is pervaded by you alone. Beholding this wondrous and terrifying form of yours, the three worlds are trembling with fear."
     ],
