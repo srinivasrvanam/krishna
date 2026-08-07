@@ -882,9 +882,17 @@ const verses = [
       "न अन्तम् न मध्यम् न पुनः तव आदिम् पश्यामि विश्व-ईश्वर विश्व-रूप"
     ],
     anvaya: [
-      "विश्‍वेश्‍वर! विश्‍वरूप! त्वाम् अनेकबाहूदरवक्त्रनेत्रम् सर्वतः अनन्तरूपम् पश्यामि; तव न अन्तम्, न मध्यम्, न पुनः आदिम् पश्यामि ||"
+      "विश्‍वेश्‍वर!",
+      "विश्‍वरूप!",
+      "त्वाम् अनेक-बाहु-उदर-वक्त्र-नेत्रम् सर्वतः अनन्तरूपम् पश्यामि",
+      "तव न अन्तम्, न मध्यम्, न पुनः आदिम् पश्यामि |",
     ],
-    prose: [],
+    prose: [
+      "O Lord of the universe",
+      "O Lord with universal form",
+      "I see you with infinite arms, bellies, mouths and eyes, spreading endlessly in every direction",
+      "I see neither your beginning, nor your middle, nor your end",
+    ],
     transl: [
       "I see you with infinite arms, bellies, mouths, and eyes, spreading endlessly in every direction. O Lord of the Universe, O Universal Form, I see neither your beginning, nor your middle, nor your end."
     ],
