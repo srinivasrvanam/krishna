@@ -811,9 +811,27 @@ const verses = [
       "ब्रह्माणम् ईशम् कमल-आसन-स्थम् ऋषीन् च सर्वान् उरगान् च दिव्यान्"
     ],
     anvaya: [
-      "अर्जुनः उवाच—देव! तव देहे सर्वान् देवान् तथा भूतविशेषसङ्घान्, कमलासनस्थम् ईशम् ब्रह्माणम् सर्वान् ऋषीन् दिव्यान् उरगान् च पश्यामि ||"
+      "अर्जुनः उवाच—",
+      "देव!",
+      "तव देहे",
+      "- सर्वान् देवान्",
+      "- तथा भूतविशेषसङ्घान्",
+      "- कमलासनस्थम् ब्रह्माणम् ईशम्",
+      "- सर्वान् ऋषीन्",
+      "- दिव्यान् उरगान् च",
+      "पश्यामि |"
     ],
-    prose: [],
+    prose: [
+      "Arjuna said",
+      "O Lord",
+      "In your body",
+      "- all the gods",
+      "- similarly, various groups of living beings",
+      "- lord brahma seated on lotus, and Shiva",
+      "- all the sages",
+      "- the celestial serpents",
+      "I am seeing",
+    ],
     transl: [
       "Arjuna said: O Lord, within your body I behold all the gods, various assemblies of living beings, Lord Brahma seated upon his lotus throne, Lord Shiva, all the divine sages, and the celestial serpents."
     ],
