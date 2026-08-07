@@ -1241,9 +1241,13 @@ const verses = [
       "गन्धर्व-यक्ष-असुर-सिद्ध-सङ्घाः वीक्षन्ते त्वाम् विस्मिताः च एव सर्वे"
     ],
     anvaya: [
-      "रुद्राः, आदित्याः, वसवः, ये साध्याः, विश्वे(देवाः), अश्विनौ, मरुतः, ऊष्मपाः च, गन्धर्वयक्षासुरसिद्धसङ्घाः च—सर्वे एव विस्मिताः त्वाम् वीक्षन्ते ||"
+      "रुद्राः, आदित्याः, वसवः, ये साध्याः, विश्वे(देवाः), अश्विनौ, मरुतः, ऊष्म-पाः च, गन्धर्व-यक्ष-असुर-सिद्ध-सङ्घाः च",
+      "—सर्वे एव विस्मिताः त्वाम् वीक्षन्ते |"
     ],
-    prose: [],
+    prose: [
+      "The Rudras, Adityas, Vasus, Sadhyas, Vishvedevas, the twin Ashvins, the Maruts, the Ancestors, and the hosts of Gandharvas, Yakshas, Asuras, and Siddhas",
+      "all gaze upon you in utter amazement.",
+    ],
     transl: [
       "The Rudras, Adityas, Vasus, Sadhyas, Vishvedevas, the twin Ashvins, the Maruts, the Ancestors, and the hosts of Gandharvas, Yakshas, Asuras, and Siddhas—all gaze upon you in utter amazement."
     ],
