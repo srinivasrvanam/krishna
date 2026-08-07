@@ -677,7 +677,8 @@ const verses = [
     grammar: [
       "भाः = भास् (प्रभा) - सकारान्तः, स्त्रीलिङ्गः - प्रथमा - एक.व.",
       "भासः = भास् (प्रभा) - सकारान्तः, स्त्रीलिङ्गः - षष्ठी - एक.व.",
-      "भवेत् = भू (to exist/happen) - कर्तरि विधिलिङ्ल",
+      "भवेत् = भू (to exist/happen) - कर्तरि विधिलिङ्ल (advice/duty/possibility - general usage)",
+      "भूयात् = भू (to exist/happen) - कर्तरि आशीर्लिङ्ल (prayer/blessing/heartfelt wish)",
       "स्यात् = अस् (to be/exist) - कर्तरि विधिलिङ्ल",
     ],
     notes: [
