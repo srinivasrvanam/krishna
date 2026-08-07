@@ -644,7 +644,7 @@ const verses = [
     ],
     anvaya: [
       "यदि दिवि युगपत् सूर्यसहस्रस्य उत्थिता भाः भवेत्",
-      "सा तस्य महात्मनः भासः सदृशी स्यात् |"
+      "तस्य महात्मनः भासः सा सदृशी स्यात् |"
     ],
     prose: [
       "If the radiance of a thousand suns were to burst forth simultaneously in the sky",
@@ -674,7 +674,12 @@ const verses = [
       "तस्य = Of that",
       "महा-आत्मनः = Of the Supreme Soul / Great Being"
     ],
-    grammar: [],
+    grammar: [
+      "भाः = भास् (प्रभा) - सकारान्तः, स्त्रीलिङ्गः - प्रथमा - एक.व.",
+      "भासः = भास् (प्रभा) - सकारान्तः, स्त्रीलिङ्गः - षष्ठी - एक.व.",
+      "भवेत् = भू (to exist/happen) - कर्तरि विधिलिङ्ल",
+      "स्यात् = अस् (to be/exist) - कर्तरि विधिलिङ्ल",
+    ],
     notes: [
       "This famous verse inspired J. Robert Oppenheimer's recollection during the first atomic bomb test ('If the radiance of a thousand suns...'). Sanjaya uses the conditional 'yadi' (if) to indicate that even a thousand suns are mere approximations of Krishna's infinite, uncreated light."
     ]
