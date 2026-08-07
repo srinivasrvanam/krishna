@@ -701,9 +701,17 @@ const verses = [
       "अपश्यत् देव-देवस्य शरीरे पाण्डवः तदा"
     ],
     anvaya: [
-      "तदा पाण्डवः तत्र देवदेवस्य शरीरे अनेकधा प्रविभक्तम् कृत्स्नम् जगत् एकस्थम् अपश्यत् ||"
+      "तदा पाण्डवः तत्र",
+      "देवदेवस्य शरीरे",
+      "(अनेकधा प्रविभक्तम्) कृत्स्नम् जगत्",
+      "एकस्थम् अपश्यत् ||"
     ],
-    prose: [],
+    prose: [
+      "Then Arjuna there",
+      "within the body of God of Gods",
+      "the entire universe with its manifold divisions",
+      "saw all at one place",
+    ],
     transl: [
       "Then Arjuna beheld the entire universe, with its manifold divisions, resting in one place within the body of the God of gods."
     ],
