@@ -940,9 +940,23 @@ const verses = [
       "पश्यामि त्वाम् दुर्निरीक्ष्यम् समन्तात् दीप्त-अनल-अर्क-द्युतिम् अप्रमेयम्"
     ],
     anvaya: [
-      "त्वाम् किरीटिनम् गदिनम् चक्रिणम् च, तेजोराशिम् सर्वतः दीप्तिमन्तम्, समन्तात् दीप्तानलार्कद्युतिम् अप्रमेयम् दुर्निरीक्ष्यम् च पश्यामि ||"
+      "त्वाम्",
+      "किरीटिनम् गदिनम् चक्रिणम् च",
+      "तेजोराशिम् सर्वतः दीप्तिमन्तम्",
+      "समन्तात् दीप्तानलार्कद्युतिम्",
+      "अप्रमेयम्",
+      "दुर्निरीक्ष्यम् च",
+      "पश्यामि |"
     ],
-    prose: [],
+    prose: [
+      "you",
+      "wearning a crown, holding a mace (gada), and chakra",
+      "a mass of radiance shining everywhere",
+      "glowing on all sides like a blazing fire or the sun",
+      "immeasurable in every way",
+      "difficult to look at",
+      "I see",
+    ],
     transl: [
       "I behold you wearing a crown, wielding a mace and disc, a mass of radiance shining everywhere, difficult to look at, glowing on all sides like a blazing fire or the sun, immeasurable in every way."
     ],
