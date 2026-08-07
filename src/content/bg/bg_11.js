@@ -1002,9 +1002,19 @@ const verses = [
       "त्वम् अव्ययः शाश्वत-धर्म-गोप्ता सनातनः त्वम् पुरुषः मतः मे"
     ],
     anvaya: [
-      "त्वम् परमम् वेदितव्यम् अक्षरम्, त्वम् अस्य विश्वस्य परम् निधानम्, त्वम् अव्ययः शाश्वतधर्मगोप्ता, त्वम् सनातनः पुरुषः (इति) मे मतः ||"
+      "त्वम् परमम् वेदितव्यम् अक्षरम्",
+      "त्वम् अस्य विश्वस्य परम् निधानम्",
+      "त्वम् अव्ययः शाश्वतधर्मगोप्ता",
+      "त्वम् सनातनः पुरुषः",
+      "(इति) मे मतः ||"
     ],
-    prose: [],
+    prose: [
+      "You are the imperishable Supreme Reality to be known",
+      "you are the ultimate resting place of this universe",
+      "You are the changeless guardian of eternal Dharma",
+      "and you are the eternal Supreme Person",
+      "this is my conviction",
+    ],
     transl: [
       "You are the imperishable Supreme Reality to be known; you are the ultimate resting place of this universe. You are the changeless guardian of eternal Dharma, and you are the eternal Supreme Person—this is my conviction."
     ],
