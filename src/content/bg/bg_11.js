@@ -1664,7 +1664,7 @@ const verses = [
     chapter: 11,
     number: 30,
     sloka: [
-      "लेलिह्यसे ग्रसमानः समन्ताल्लोकान्ग्रग्रान् वदनैर्ज्वलद्भिः |",
+      "लेलिह्यसे ग्रसमानः समन्ताल्लोकान्समग्रान् वदनैर्ज्वलद्भिः |",
       "तेजोभिरापूर्य जगत्समग्रं भासस्तवोग्राः प्रतपन्ति विष्णो || ३० ||"
     ],
     sloka_tel: [
@@ -1676,9 +1676,19 @@ const verses = [
       "तेजोभिः आपूर्य जगत् समग्रम् भासः तव उग्राः प्रतपन्ति विष्णो"
     ],
     anvaya: [
-      "विष्णो! ज्वलद्भिः वदनैः समग्रान् लोकान् समन्तात् ग्रसमानः लेलिह्यसे; तव उग्राः भासः तेजोभिः समग्रम् जगत् आपूर्य प्रतपन्ति ||"
+      "विष्णो!",
+      "ज्वलद्भिः वदनैः",
+      "समग्रान् लोकान् समन्तात्",
+      "ग्रसमानः लेलिह्यसे;",
+      "तव उग्राः भासः तेजोभिः समग्रम् जगत् आपूर्य प्रतपन्ति |"
     ],
-    prose: [],
+    prose: [
+      "O Lord Vishnu",
+      "With your flaming mouths",
+      "all the worlds from all sides",
+      "while devouring, you lick your lips",
+      "Your fierce rays with radiant effulgence, while filling the entire universe, are burning (the entire universe) intensely",
+    ],
     transl: [
       "Devouring all the worlds from every side with your flaming mouths, you lick your lips. O Vishnu, filling the entire universe with your radiant effulgence, your fierce rays burn intensely."
     ],
