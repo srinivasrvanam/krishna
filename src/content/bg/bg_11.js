@@ -1790,7 +1790,7 @@ const verses = [
     number: 32,
     sloka: [
       "श्रीभगवानुवाच |",
-      "कालोऽस्मि लोकक्षयकृत्प्रवृद्धो लोकान्समाहर्तुमिह प्रवृत्तौः |",
+      "कालोऽस्मि लोकक्षयकृत्प्रवृद्धो लोकान्समाहर्तुमिह प्रवृत्तः |",
       "ऋतेऽपि त्वां न भविष्यन्ति सर्वे येऽवस्थिताः प्रत्यनीकेषु योधाः || ३२ ||"
     ],
     sloka_tel: [
@@ -1804,9 +1804,19 @@ const verses = [
       "ऋते अपि त्वाम् न भविष्यन्ति सर्वे ये अवस्थिताः प्रत्यनीकेषु योधाः"
     ],
     anvaya: [
-      "श्रीभगवान् उवाच— अहम् लोकक्षयकृत् प्रवृद्धः कालः अस्मि; इह लोकान् समाहर्तुम् प्रवृत्तः (अस्मि); त्वाम् ऋते अपि प्रत्यनीकेषु ये योधाः अवस्थिताः, (ते) सर्वे न भविष्यन्ति ||"
+      "श्रीभगवान् उवाच—",
+      "अहम् लोकक्षयकृत् प्रवृद्धः कालः अस्मि;",
+      "इह लोकान् समाहर्तुम् प्रवृत्तः (अस्मि);",
+      "त्वाम् ऋते अपि ",
+      "प्रत्यनीकेषु ये योधाः अवस्थिताः (ते) सर्वे न भविष्यन्ति |"
     ],
-    prose: [],
+    prose: [
+      "The Supreme Lord said:",
+      "I am Time, the great destroyer of worlds, ",
+      "now engaged here in annihilating all people.",
+      "Even without your participation",
+      "none of the warriors arrayed in the opposing armies shall escape death.",
+    ],
     transl: [
       "The Supreme Lord said: I am Time, the great destroyer of worlds, now engaged here in annihilating all people. Even without your participation, none of the warriors arrayed in the opposing armies shall escape death."
     ],
