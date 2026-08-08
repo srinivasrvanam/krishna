@@ -1357,9 +1357,19 @@ const verses = [
       "दृष्ट्वा हि त्वाम् प्रव्यथित-अन्तरात्मा धृतिम् न विन्दामि शमम् च विष्णो"
     ],
     anvaya: [
-      "विष्णो! नभःस्पृशम्, दीप्तम्, अनेकवर्णम्, व्यात्ताननम्, दीप्तविशालनेत्रम् त्वाम् दृष्ट्वा प्रव्यथितान्तरात्मा हि अहम् धृतिम् शमम् च न विन्दामि ||"
+      "विष्णो!",
+      "नभःस्पृशम्, (अनेकवर्णम् दीप्तम्), व्यात्ताननम्, दीप्तविशालनेत्रम् त्वाम्",
+      "दृष्ट्वा",
+      "प्रव्यथितान्तरात्मा हि अहम्",
+      "धृतिम् शमम् च न विन्दामि |"
     ],
-    prose: [],
+    prose: [
+      "O Lord Vishnu",
+      "you who is touching the sky, glowing with many colors, mouths wide open, and huge blazing eyes",
+      "having seen",
+      "Indeed I whose innermost soul quakes with fear",
+      "find neither courage nor peace",
+    ],
     transl: [
       "O Vishnu, seeing you touching the sky, glowing with many colors, with mouths wide open and huge blazing eyes, my innermost soul quakes with fear; I find neither courage nor peace."
     ],
