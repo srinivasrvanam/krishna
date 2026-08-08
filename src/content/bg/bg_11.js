@@ -1869,9 +1869,21 @@ const verses = [
       "मया एव एते निहताः पूर्वम् एव निमित्त-मात्रम् भव सव्य-साचिन्"
     ],
     anvaya: [
-      "तस्मात् त्वम् उत्तिष्ठ, यशः लभस्व, शत्रून् जित्वा समृद्धम् राज्यम् भुङ्क्ष्व; एते मया एव पूर्वम् एव निहताः, हे सव्यसाचिन्! त्वम् निमित्तमात्रम् भव ||"
+      "तस्मात्",
+      "त्वम् उत्तिष्ठ",
+      "यशः लभस्व",
+      "शत्रून् जित्वा समृद्धम् राज्यम् भुङ्क्ष्व;",
+      "एते मया एव पूर्वम् एव निहताः",
+      "हे सव्यसाचिन्! त्वम् निमित्तमात्रम् भव |"
     ],
-    prose: [],
+    prose: [
+      "Therefore",
+      "you arise",
+      "obtain glory",
+      "enjoy a prosperous kingdom having conquered your enemies",
+      "All these warriors are slain by me alone",
+      "O ambidextrous archer! be merely my instrument",
+    ],
     transl: [
       "Therefore arise! Win glory, conquer your enemies, and enjoy a prosperous kingdom. By Me alone these warriors have already been slain; be merely my instrument, O ambidextrous archer!"
     ],
