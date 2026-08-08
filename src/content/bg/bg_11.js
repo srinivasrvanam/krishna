@@ -1417,9 +1417,19 @@ const verses = [
       "दिशः न जाने न लभे च शर्म प्रसीद देव-ईश जगत्-निवास"
     ],
     anvaya: [
-      "देवेश! जगन्निवास! दंष्ट्राकरालानि कालानलसन्निभानि च ते मुखानि दृष्ट्वा एव (अहम्) दिशः न जाने, शर्म च न लभे; (तः) प्रसीद ||"
+      "देवेश! जगन्निवास!",
+      "दंष्ट्रा-करालानि काल-अनल-सन्निभानि च ते मुखानि",
+      "दृष्ट्वा",
+      "एव (अहम्) दिशः न जाने, शर्म च न लभे;",
+      "(तः) प्रसीद |"
     ],
-    prose: [],
+    prose: [
+      "O Lord of Gods, O refuge of the universe",
+      "your mouths, terrible with canine teeth (fangs) and resembling the cosmic fire of dissolution",
+      "having seen",
+      "I lose all sense of direction and find no solace",
+      "Please be gracious",
+    ],
     transl: [
       "Seeing your mouths, terrible with fangs and resembling the cosmic fire of dissolution, I lose all sense of direction and find no solace. Be gracious, O Lord of gods, O Refuge of the universe!"
     ],
