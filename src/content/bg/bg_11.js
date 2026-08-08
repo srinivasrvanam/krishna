@@ -1581,31 +1581,63 @@ const verses = [
     chapter: 11,
     number: 29,
     sloka: [
+      "यथा नदीनां बहवोऽम्बुवेगाः समुद्रमेवाभिमुखा द्रवन्ति |",
+      "तथा तवामी नरलोकवीरा विशन्ति वक्त्राण्यभिविज्वलन्ति || 28 ||",
       "यथा प्रदीप्तं ज्वलनं पतङ्गा विशन्ति नाशाय समृद्धवेगाः |",
-      "तथैव नाशाय विशन्ति लोकास्तवापि वक्त्राणि समृद्धवेगाः || २९ ||"
+      "तथैव नाशाय विशन्ति लोकास्तवापि वक्त्राणि समृद्धवेगाः || 29 ||"
     ],
     sloka_tel: [
+      "యథా నదీనాం బహవోऽమ్బువేగాః సముద్రమేవాభిముఖా ద్రవంతి |",
+      "తథా తవామీ నరలోకవీరా విశంతి వక్త్రాణ్యభివిజ్వలంతి || 28 ||",
       "యథా ప్రదీప్తం జ్వలనం పతఙ్గా విశన్తి నాశాయ సమృద్ధవేగాః |",
       "తథైవ నాశాయ విశన్తి లోకాస్తవాపి వక్త్రాణి సమృద్ధవేగాః || 29 ||"
     ],
     vicheda: [
+      "यथा नदीनाम् बहवः अम्बु-वेगाः समुद्रम् एव अभिमुखाः द्रवन्ति",
+      "तथा तव अमी नर-लोक-वीराः विशन्ति वक्त्राणि अभि-विज्वलन्ति",
       "यथा प्रदीप्तम् ज्वलनम् पतङ्गाः विशन्ति नाशाय समृद्ध-वेगाः",
       "तथा एव नाशाय विशन्ति लोकाः तव अपि वक्त्राणि समृद्ध-वेगाः"
     ],
     anvaya: [
-      "यथा पतङ्गाः समृद्धवेगाः नाशाय प्रदीप्तम् ज्वलनम् विशन्ति, तथा एव लोकाः अपि समृद्धवेगाः नाशाय तव वक्त्राणि विशन्ति ||"
+      "यथा नदीनाम् बहवः अम्बुवेगाः समुद्रम् एव अभिमुखाः द्रवन्ति",
+      "तथा अमी नरलोकवीराः तव (अभिविज्वलन्ति वक्त्राणि) विशन्ति ||",
+      "यथा पतङ्गाः समृद्धवेगाः नाशाय प्रदीप्तम् ज्वलनम् विशन्ति",
+      "तथा एव लोकाः अपि समृद्धवेगाः नाशाय तव वक्त्राणि विशन्ति ||"
     ],
-    prose: [],
+    prose: [
+      "As many rapid currents of rivers flow headlong toward the ocean alone",
+      "so do these great heroes of the human world rush into your blazing mouths.",
+      "Just as moths rush with swift speed into a blazing fire to their own destruction",
+      "so too do these worlds rush with headlong speed into your mouths to perish.",
+    ],
     transl: [
+      "As many rapid currents of rivers flow headlong toward the ocean alone, so do these great heroes of the human world rush into your blazing mouths.",
       "Just as moths rush with swift speed into a blazing fire to their own destruction, so too do these worlds rush with headlong speed into your mouths to perish."
     ],
     transl_tel: [
+      "నదులలోని అనేక జలప్రవాహాలు వేగంగా సముద్రం వైపే పరుగెత్తుతున్నట్లుగానే, ఈ మనుష్య లోకంలోని మహా వీరులందరూ రగిలిపోతున్న నీ నోళ్లలో వేగంగా ప్రవేశిస్తున్నారు.",
       "మిడుతలు శీఘ్ర వేగముతో తమ నాశనము కొరకు మండుతున్న అగ్నిలో ఏ విధంగా పడిపోతాయో, అలాగే సమస్త లోకములు కూడా తమ వినాశనము కొరకు నీ నోళ్లలో అత్యంత వేగముగా ప్రవేశిస్తున్నాయి."
     ],
     essence: [
+      "Arjuna uses a vivid metaphor to describe the inescapable destruction he witnesses within the Universal Form. Just as river waters irresistibly surge toward the ocean, the mighty warriors from both armies are drawn helplessly and rapidly into the blazing, destructive mouths of Time (*Kāla*).",
       "Arjuna uses the famous metaphor of moths drawn to a flame to describe the fatal attraction of living beings toward their own destruction. Driven by delusion and the momentum of past karma, armies and worlds accelerate directly into the burning jaws of the Universal Form, unaware that their pursuit of worldly battle leads straight into the mouth of Time."
     ],
     meanings: [
+      "यथा = Just as",
+      "नदीनाम् = Of rivers",
+      "बहवः = Many",
+      "अम्बु-वेगाः = Water currents / torrents",
+      "समुद्रम् = Ocean",
+      "एव = Alone / indeed",
+      "अभिमुखाः = Facing toward",
+      "द्रवन्ति = Rush / flow",
+      "तथा = Similarly",
+      "तव = Your",
+      "अमी = These",
+      "नर-लोक-वीराः = Heroes of the human world",
+      "विशन्ति = Enter into",
+      "वक्त्राणि = Mouths",
+      "अभि-विज्वलन्ति = Blazing / flaming",
       "यथा = Just as",
       "प्रदीप्तम् = Blazing / ignited",
       "ज्वलनेम् = Fire",
@@ -1624,6 +1656,7 @@ const verses = [
     ],
     grammar: [],
     notes: [
+      "Verses 28 and 29 work in tandem, presenting two striking analogies—the river rushing into the ocean and moths flying into a flame—to symbolize the inevitable destruction of all mortal beings by All-devouring Time.",
       "While verse 11.28 compared the rushing warriors to rivers flowing into the sea (an inevitable natural process), verse 11.29 highlights the self-destructive nature of living entities unknowingly rushing into death."
     ]
   },
