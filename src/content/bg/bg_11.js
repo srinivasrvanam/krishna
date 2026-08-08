@@ -1308,7 +1308,7 @@ const verses = [
       "many mouths and eyes",
       "many arms, thighs and feet",
       "many bellies",
-      "tusks",
+      "many terrifying canine teeth",
       "beholding your colossal form with",
       "so am I",
     ],
