@@ -1479,9 +1479,17 @@ const verses = [
       "भीष्मः द्रोणः सूत-पुत्रः तथा असौ सह अस्मदीयैः अपि योध-मुख्यैः"
     ],
     anvaya: [
-      "अमी सर्वे धृतराष्ट्रस्य पुत्राः अवनिपालसङ्घैः सह एव, (तथा) भीष्मः, द्रोणः, असौ सूतपुत्रः तथा अस्मदीयैः अपि योधमुख्यैः सह त्वाम् (विशन्ति) ||"
+      "अमी सर्वे धृतराष्ट्रस्य पुत्राः",
+      "अवनिपालसङ्घैः सह एव",
+      "(तथा) भीष्मः, द्रोणः, असौ सूतपुत्रः",
+      "तथा अस्मदीयैः अपि योधमुख्यैः सह त्वाम् (विशन्ति) |"
     ],
-    prose: [],
+    prose: [
+      "All the sons of Dhritarashtra",
+      "along with the hosts of allied kings",
+      "Bhishma, Drona, and Karna",
+      "together with the principal warriors from our side as well (are entering into you)",
+    ],
     transl: [
       "All the sons of Dhritarashtra, along with the hosts of allied kings, Bhishma, Drona, and Karna, together with the principal warriors from our side as well..."
     ],
