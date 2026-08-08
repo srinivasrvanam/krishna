@@ -1540,9 +1540,15 @@ const verses = [
       "केचित् विलग्नाः दशन-अन्तरेषु सन्दृश्यन्ते चूर्णितैः उत्तमाङ्गैः"
     ],
     anvaya: [
-      "ते त्वरमाणाः दंष्ट्राकरालानि भयानकानि ते वक्त्राणि विशन्ति; केचित् चूर्णितैः उत्तमाङ्गैः दशनान्तरेषु विलग्नाः सन्दृश्यन्ते ||"
+      "ते त्वरमाणाः",
+      "दंष्ट्राकरालानि भयानकानि ते वक्त्राणि विशन्ति;",
+      "केचित् चूर्णितैः उत्तमाङ्गैः दशनान्तरेषु विलग्नाः सन्दृश्यन्ते ||"
     ],
-    prose: [],
+    prose: [
+      "They are rushing",
+      "into your terrifying mouths, fearful with sharp canine teeth",
+      "some are seen caught between your teeth, their heads crushed to powder.",
+    ],
     transl: [
       "They are rushing headlong into your terrifying mouths, fearful with sharp tusks; some are seen caught between your teeth, their heads crushed to powder."
     ],
