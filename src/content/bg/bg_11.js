@@ -1737,9 +1737,21 @@ const verses = [
       "विज्ञातुम् इच्छामि भवन्तम् आद्यम् न हि प्रजानामि तव प्रवृत्तिम्"
     ],
     anvaya: [
-      "उग्ररूप! भवान् कः? मे आख्याहि; देववर! ते नमः अस्तु, प्रसीद; आद्यम् भवन्तम् विज्ञातुम् इच्छामि, तव प्रवृत्तिम् न हि प्रजानामि ||"
+      "उग्ररूप!",
+      "भवान् कः? मे आख्याहि;",
+      "देववर!",
+      "ते नमः अस्तु, प्रसीद;",
+      "आद्यम् भवन्तम् विज्ञातुम् इच्छामि",
+      "तव प्रवृत्तिम् न हि प्रजानामि ||"
     ],
-    prose: [],
+    prose: [
+      "In this terrifying form",
+      "Who are you? Please tell me",
+      "O best among gods",
+      "Salutations to you, be gracious",
+      "I wish to know you, the Primal Being",
+      "I do not comprehend your cosmic intent.",
+    ],
     transl: [
       "Tell me, who are you in this terrifying form? Salutations to you, O Exalted God; be merciful! I wish to know you, the Primal Being, for I do not comprehend your cosmic intent."
     ],
