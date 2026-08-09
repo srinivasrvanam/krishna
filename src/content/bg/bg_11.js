@@ -2326,9 +2326,17 @@ const verses = [
       "अनन्त-वीर्य-अमित-विक्रमः त्वम् सर्वम् समाप्नोषि ततः असि सर्वः"
     ],
     anvaya: [
-      "हे सर्व! ते पुरस्तात् नमः, अथ पृष्ठतः नमः, ते सर्वतः एव नमः अस्तु; अनन्तवीर्यामितविक्रमः त्वम् सर्वम् समाप्नोषि, ततः सर्वः असि ||"
+      "हे सर्व!",
+      "ते पुरस्तात् नमः, अथ पृष्ठतः नमः, ते सर्वतः एव नमः अस्तु;",
+      "अनन्त-वीर्य-अमित-विक्रमः त्वम् सर्वम् समाप्नोषि",
+      "ततः सर्वः असि |"
     ],
-    prose: [],
+    prose: [
+      "O all!",
+      "Salutations to you from the front, from behind, and indeed from every side",
+      "Infinite in power and boundless in prowess, you pervade everything",
+      "and therefore you are Everything.",
+    ],
     transl: [
       "Salutations to you from the front, from behind, and indeed from every side, O All! Infinite in power and boundless in prowess, you pervade everything, and therefore you are Everything."
     ],
