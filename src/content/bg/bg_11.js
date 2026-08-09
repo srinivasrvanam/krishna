@@ -2966,9 +2966,19 @@ const verses = [
       "आश्वासयामास च भीतम् एनम् भूत्वा पुनः सौम्य-वपुः महा-आत्मा"
     ],
     anvaya: [
-      "सञ्जयः उवाच— वासुदेवः अर्जुनम् तथा इति उक्त्वा स्वकम् रूपम् भूयः दर्शयामास; महात्मा पुनः सौम्यवपुः भूत्वा भीतम् एनम् आश्वासयामास च ||"
+      "सञ्जयः उवाच—",
+      "वासुदेवः अर्जुनम् तथा इति उक्त्वा",
+      "स्वकम् रूपम् भूयः दर्शयामास;",
+      "महात्मा पुनः सौम्यवपुः भूत्वा",
+      "भीतम् एनम् आश्वासयामास च |"
     ],
-    prose: [],
+    prose: [
+      "Sanjaya said:",
+      "Vasudeva Having spoken thus to Arjuna,",
+      "revealed His own gentle form once again",
+      "the Great Soul assuming His graceful and pleasing appearance",
+      "comforted the terrified warrior",
+    ],
     transl: [
       "Sanjaya said: Having spoken thus to Arjuna, Vasudeva revealed His own gentle form once again. Assuming His graceful and pleasing appearance, the Great Soul comforted the terrified warrior."
     ],
