@@ -3033,9 +3033,19 @@ const verses = [
       "इदानीम् अस्मि संवृत्तः सचेताः प्रकृतिम् गतः"
     ],
     anvaya: [
-      "अर्जुनः उवाच— जनार्दन! तव इदम् सौम्यम् मानुषम् रूपम् दृष्ट्वा इदानीम् सचेताः संवृत्तः अस्मि, प्रकृतिम् गतः (च अस्मि) ||"
+      "अर्जुनः उवाच—",
+      "जनार्दन!",
+      "तव इदम् सौम्यम् मानुषम् रूपम् दृष्ट्वा",
+      "इदानीम् सचेताः संवृत्तः अस्मि",
+      "प्रकृतिम् गतः (च अस्मि) |"
     ],
-    prose: [],
+    prose: [
+      "Arjuna said:",
+      "O Janardana",
+      "seeing this gentle human form of yours",
+      "I have now recovered my composure",
+      "and am restored to my normal nature",
+    ],
     transl: [
       "Arjuna said: O Janardana, seeing this gentle human form of yours, I have now recovered my composure and am restored to my normal nature."
     ],
