@@ -2634,21 +2634,29 @@ const verses = [
     chapter: 11,
     number: 45,
     sloka: [
-      "अदृष्टपूर्व हृषितोऽस्मि दृष्ट्वा भयेन च प्रव्यथितं मनो मे |",
+      "अदृष्टपूर्वं हृषितोऽस्मि दृष्ट्वा भयेन च प्रव्यथितं मनो मे |",
       "तदेव मे दर्शय देव रूपं प्रसीद देवेश जगन्निवास || ४५ ||"
     ],
     sloka_tel: [
       "అదృష్టపూర్వం హృషితోऽస్మి దృష్ట్వా భయేన చ ప్రవ్యథితం మనో మే |",
-      "తదేవ మే దర్శయ దేవ రూపం ప్రసీद దేవేశ జగన్నివాస || 45 ||"
+      "తదేవ మే దర్శయ దేవ రూపం ప్రసీద దేవేశ జగన్నివాస || 45 ||"
     ],
     vicheda: [
       "अदृष्ट-पूर्वम् हृषितः अस्मि दृष्ट्वा भयेन च प्रव्यथितम् मनः मे",
       "तत् एव मे दर्शय देव रूपम् प्रसीद देव-ईश जगत्-निवास"
     ],
     anvaya: [
-      "अदृष्टपूर्वम् दृष्ट्वा हृषितः अस्मि, मे मनः च भयेन प्रव्यथितम् (अस्ति); हे देव! तत् एव रूपम् मे दर्शय; हे देवेश! हे जगन्निवास! प्रसीद ||"
+      "अदृष्टपूर्वम् दृष्ट्वा हृषितः अस्मि",
+      "मे मनः च भयेन प्रव्यथितम् (अस्ति);",
+      "हे देव! तत् एव रूपम् मे दर्शय;",
+      "हे देवेश! हे जगन्निवास! प्रसीद |"
     ],
-    prose: [],
+    prose: [
+      "I am thrilled to have seen what was never seen before",
+      "yet my mind is trembling with fear",
+      "Show me that familiar form of yours again, O Lord!",
+      "Be merciful, O Lord of Gods, O Refuge of the Universe!",
+    ],
     transl: [
       "I am thrilled to have seen what was never seen before, yet my mind is trembling with fear. Show me that familiar form of yours again, O Lord! Be merciful, O Lord of Gods, O Refuge of the Universe!"
     ],
