@@ -2123,7 +2123,7 @@ const verses = [
     chapter: 11,
     number: 37,
     sloka: [
-      "कस्माच्च ते न नमेरन्महात्मन्ग गरीयसे ब्रह्मणोऽप्यादिकर्त्रे |",
+      "कस्माच्च ते न नमेरन्महात्मन् गरीयसे ब्रह्मणोऽप्यादिकर्त्रे |",
       "अनन्त देवेश जगन्निवास त्वमक्षरं सदसत्तत्परं यत् || ३७ ||"
     ],
     sloka_tel: [
@@ -2135,9 +2135,21 @@ const verses = [
       "अनन्त देव-ईश जगत्-निवास त्वम् अक्षरम् सत् असत् तत्-परम् यत्"
     ],
     anvaya: [
-      "महात्मन्! ब्रह्मणः अपि गरीयसे आदिकर्त्रे च ते (सर्वे) कस्मात् न नमेरन्? हे अनन्त! हे देवेश! हे जगन्निवास! त्वम् अक्षरम्, सत् असत् यत् तत्परम् (तत् त्वम्) ||"
+      "महात्मन्!",
+      "(ब्रह्मणः अपि गरीयसे) (आदिकर्त्रे) च",
+      "ते (सर्वे) कस्मात् न नमेरन्?",
+      "हे अनन्त! हे देवेश! हे जगन्निवास!",
+      "त्वम् अक्षरम्",
+      "सत् असत् यत् तत्परम् (तत् त्वम्) |"
     ],
-    prose: [],
+    prose: [
+      "O great soul!",
+      "to the one greater than brahma, and the original creator",
+      "why should they not bow to you",
+      "O infinite one, O Lord of gods, O abode of universe",
+      "You are imperishable reality",
+      "you are beyong both the manifest and the unmanifest",
+    ],
     transl: [
       "And why should they not bow to you, O Great Soul, who are greater even than Brahma, the original creator? O Infinite One, Lord of Gods, Abode of the Universe, you are the imperishable Reality, beyond both the manifest and the unmanifest."
     ],
