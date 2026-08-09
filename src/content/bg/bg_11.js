@@ -2900,9 +2900,17 @@ const verses = [
       "व्यपेत-भीः प्रीत-मनाः पुनः त्वम् तत् एव मे रूपम् इदम् प्रपश्य"
     ],
     anvaya: [
-      "मम ईदृक् इदम् घोरम् रूपम् दृष्ट्वा ते व्यथा मा (अस्तु), विमूढभावः च मा (अस्तु); त्वम् व्यपेतभीः प्रीतमनाः (सन्) तत् एव मे इदम् रूपम् पुनः प्रपश्य ||"
+      "मम ईदृक् इदम् घोरम् रूपम् दृष्ट्वा",
+      "ते व्यथा मा (अस्तु), विमूढभावः च मा (अस्तु);",
+      "त्वम् व्यपेतभीः प्रीतमनाः (सन्)",
+      "तत् एव मे इदम् रूपम् पुनः प्रपश्य |"
     ],
-    prose: [],
+    prose: [
+      "having seen this terrible form of mine",
+      "do not be distressed or bewildered",
+      "You be free from fear and be gladdened in heart",
+      "behold once again this form of mine",
+    ],
     transl: [
       "Do not be distressed or bewildered by seeing this terrible form of mine. Free from fear and gladdened in heart, behold once again that familiar form of mine!"
     ],
