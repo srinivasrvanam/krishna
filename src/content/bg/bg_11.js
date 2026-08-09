@@ -2450,9 +2450,21 @@ const verses = [
       "एकः अथवा अपि अच्युत तत्-समक्षम् तत् क्षामये त्वाम् अहम् अप्रमेयम्"
     ],
     anvaya: [
-      "हे अच्युत! विहारशय्यासनभोजनेषु एकः अथवा तत्समक्षम् अपि अवहासार्थम् यत् असत्कृतः असि, तत् अप्रमेयम् त्वाम् अहम् क्षामये ||"
+      "हे अच्युत!",
+      "विहार-शय्या-आसन-भोजनेषु",
+      "एकः अथवा तत्-समक्षम् अपि",
+      "अवहास-अर्थम्",
+      "यत् असत्कृतः असि |",
+      "तत् अप्रमेयम् त्वाम् अहम् क्षामये |"
     ],
-    prose: [],
+    prose: [
+      "O achyuta",
+      "While relaxing, resting, sitting or eating",
+      "when being alone or before others",
+      "for the sake of humor",
+      "You were disrespected by me",
+      "For all that, I beg for your forgiveness, O immeasurable Lord",
+    ],
     transl: [
       "And whatever disrespect I showed you in jest while relaxing, resting, sitting, or eating together—whether alone with you or in the presence of others—O Infallible One, I beg forgiveness from you, the immeasurable Lord!"
     ],
