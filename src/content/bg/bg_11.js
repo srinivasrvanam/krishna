@@ -2388,9 +2388,17 @@ const verses = [
       "अजानता महिमानम् तव इदम् मया प्रमादात् प्रणयेन वा अपि"
     ],
     anvaya: [
-      "तव इदम् महिमानम् अजानता मया प्रमादात् प्रणयेन वा अपि 'सखा' इति मत्वा 'हे कृष्ण! हे यादव! हे सखे!' इति प्रसभम् यत् उक्तम् ||"
+      "(तव इदम् महिमानम् अजानता) (प्रमादात्) प्रणयेन वा अपि",
+      "'सखा' इति मत्वा",
+      "'हे कृष्ण! हे यादव! हे सखे!'",
+      "इति प्रसभम् मया यत् उक्तम् |"
     ],
-    prose: [],
+    prose: [
+      "By not knowing this grand majesty of yours, out of carelessness, or even by the affection towards you",
+      "having assumed you merely a friend",
+      "O Krishna, O Yadava, O Sakha",
+      "thus, whatever is said by me, rashly",
+    ],
     transl: [
       "Thinking of you merely as a friend, unaware of this grand majesty of yours, whatever I rashly said out of madness, carelessness, or casual affection—addressing you as 'O Krishna,' 'O Yadava,' 'O friend'..."
     ],
