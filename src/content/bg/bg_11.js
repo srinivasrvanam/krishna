@@ -3210,9 +3210,15 @@ const verses = [
       "ज्ञातुम् द्रष्टुम् च तत्त्वेन प्रवेष्टुम् च परन्तप"
     ],
     anvaya: [
-      "हे परन्तप अर्जुन! अनन्‍या भक्त्या तु एवम्-विधः अहम् तत्त्वेन ज्ञातुम्, द्रष्टुम्, प्रवेष्टुम् च शक्यः ||"
+      "हे परन्तप अर्जुन!",
+      "अनन्‍या भक्त्या तु",
+      "एवम्-विधः अहम् तत्त्वेन ज्ञातुम्, द्रष्टुम्, प्रवेष्टुम् च शक्यः |"
     ],
-    prose: [],
+    prose: [
+      "O Arjuna, scorcher of foes!",
+      "Only by unswerving devotion",
+      "can I be known, seen in truth, and entered into",
+    ],
     transl: [
       "Only by unswerving devotion can I be known, seen in truth, and entered into, O Arjuna, scorcher of foes!"
     ],
