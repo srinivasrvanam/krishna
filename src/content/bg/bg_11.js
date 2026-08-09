@@ -3265,9 +3265,15 @@ const verses = [
       "निर्वैरः सर्व-भूतेषु यः सः माम् एति पाण्डव"
     ],
     anvaya: [
-      "हे पाण्डव! यः मत्कर्मकृत्, मत्परमः, मद्भक्तः, सङ्गवर्जितः, सर्वभूतेषु निर्वैरः (भवति), सः माम् एति ||"
+      "हे पाण्डव!",
+      "यः मत्कर्मकृत्, मत्परमः, मद्भक्तः, सङ्गवर्जितः, सर्वभूतेषु निर्वैरः (भवति)",
+      "सः माम् एति |"
     ],
-    prose: [],
+    prose: [
+      "O Pandava",
+      "One who performs actions for me, considers me as the supreme goal, is devoted to me, is free from attachment, and bears no enmity toward any living being",
+      "that person comes to me",
+    ],
     transl: [
       "One who performs actions for me, considers me as the supreme goal, is devoted to me, is free from attachment, and bears no enmity toward any living being—that person comes to me, O Pandava."
     ],
