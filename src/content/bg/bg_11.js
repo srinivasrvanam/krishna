@@ -2267,9 +2267,15 @@ const verses = [
       "नमः नमः ते अस्तु सहस्र-कृत्वः पुनः च भूयः अपि नमः नमः ते"
     ],
     anvaya: [
-      "त्वम् वायुः, यमः, अग्निः, वरुणः, शशाङ्कः, प्रजापतिः, प्रपितामहः च (असि); ते सहस्रकृत्वः नमः नमः अस्तु, पुनः च भूयः अपि ते नमः नमः (अस्तु) ||"
+      "त्वम् वायुः, यमः, अग्निः, वरुणः, शशाङ्कः, प्रजापतिः, प्रपितामहः च (असि);",
+      "ते सहस्रकृत्वः नमः नमः अस्तु",
+      "पुनः च भूयः अपि ते नमः नमः (अस्तु) |"
     ],
-    prose: [],
+    prose: [
+      "You are Vayu (wind), Yama (death), Agni (fire), Varuna (water), Shashanka (the moon), Prajapati (Brahma), and the Great-Grandfather of all.",
+      "Salutations, salutations to you a thousand times",
+      "and again and yet again, salutations, salutations to you!",
+    ],
     transl: [
       "You are Vayu (wind), Yama (death), Agni (fire), Varuna (water), Shashanka (the moon), Prajapati (Brahma), and the Great-Grandfather of all. Salutations, salutations to you a thousand times, and again and yet again, salutations, salutations to you!"
     ],
