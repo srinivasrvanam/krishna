@@ -3096,9 +3096,17 @@ const verses = [
       "देवाः अपि अस्य रूपस्य नित्यम् दर्शन-काङ्क्षिणः"
     ],
     anvaya: [
-      "श्रीभगवान् उवाच— मम यत् इदम् रूपम् दृष्टवान् असि, (तत्) सुदुर्दर्शम् (अस्ति); देवाः अपि नित्यम् अस्य रूपस्य दर्शनकाङ्क्षिणः (भवन्ति) ||"
+      "श्रीभगवान् उवाच—",
+      "मम यत् इदम् रूपम् दृष्टवान् असि",
+      "(तत्) सुदुर्दर्शम् (अस्ति);",
+      "देवाः अपि नित्यम् अस्य रूपस्य दर्शनकाङ्क्षिणः (भवन्ति) |"
     ],
-    prose: [],
+    prose: [
+      "The Supreme Lord said:",
+      "This form of mine which you have seen",
+      "is exceedingly difficult to behold",
+      "Even the gods are constantly longing for a vision of this form.",
+    ],
     transl: [
       "The Supreme Lord said: This form of mine which you have seen is exceedingly difficult to behold. Even the gods are constantly longing for a vision of this form."
     ],
