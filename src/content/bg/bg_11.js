@@ -2515,9 +2515,21 @@ const verses = [
       "न त्वत्-समः अस्ति अभ्यधिकः कुतः अन्यः लोक-त्रये अपि अप्रतिम-प्रभाव"
     ],
     anvaya: [
-      "त्वम् अस्य चराचरस्य लोकस्य पिता, पूज्यः, गरीयान् गुरुः च असि; हे अप्रतिमप्रभाव! लोकत्रये अपि त्वत्समः न अस्ति, अभ्यधिकः अन्यः कुतः (भवेत्)? ||"
+      "त्वम्",
+      "अस्य चराचरस्य लोकस्य पिता",
+      "पूज्यः, गरीयान् गुरुः च असि;",
+      "हे अप्रतिमप्रभाव!",
+      "लोकत्रये अपि त्वत्समः न अस्ति",
+      "अभ्यधिकः अन्यः कुतः (भवेत्)? |"
     ],
-    prose: [],
+    prose: [
+      "You are",
+      "the Father of this entire world of moving and non-moving beings",
+      "You are its venerable worshipful Deity and its supreme Teacher",
+      "O Lord of matchless power!",
+      "There is none equal to you in the three worlds",
+      "how then could anyone be superior to you? ",
+    ],
     transl: [
       "You are the Father of this entire world of moving and non-moving beings. You are its venerable worshipful Deity and its supreme Teacher. There is none equal to you in the three worlds; how then could anyone be superior to you, O Lord of matchless power?"
     ],
