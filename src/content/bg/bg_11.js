@@ -2836,9 +2836,21 @@ const verses = [
       "एवम्-रूपः शक्यः अहम् नृ-लोके द्रष्टुम् त्वत्-अन्येन कुरु-प्रवीर"
     ],
     anvaya: [
-      "हे कुरुप्रवीर! नृलोके एवम्-रूपः अहम् वेद-यज्ञ-अध्ययनैः न, दानैः न, क्रियाभिः च न, उग्रैः तपोभिः न त्वदन्येन द्रष्टुम् शक्यः (अस्मि) ||"
+      "हे कुरुप्रवीर!",
+      "नृलोके",
+      "वेद-यज्ञ-अध्ययनैः न",
+      "दानैः न, क्रियाभिः च न, उग्रैः तपोभिः",
+      "न त्वदन्येन",
+      "अहम् एवम्-रूपः द्रष्टुम् शक्यः (अस्मि) |"
     ],
-    prose: [],
+    prose: [
+      "O hero of Kurus",
+      "in the human world",
+      "neither by study of veda, nor by yajnas (sacrifices), nor by scriptural studies",
+      "neither by charity, nor by rituals, nor by severe austerities",
+      "nor by any other means",
+      "I can be seen in this form",
+    ],
     transl: [
       "Neither by study of the Vedas, nor by sacrifices, gifts, rituals, or severe austerities can I be seen in this cosmic form in the human world by anyone other than you, O hero of the Kurus!"
     ],
