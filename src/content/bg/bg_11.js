@@ -2765,9 +2765,25 @@ const verses = [
       "तेजोमयम् विश्वम् अनन्तम् आद्यम् यत् मे त्वत्-अन्येन न दृष्ट-पूर्वम्"
     ],
     anvaya: [
-      "श्रीभगवान् उवाच— हे अर्जुन! प्रसन्नेन मया आत्मयोगात् तेजोमयम्, विश्वम्, अनन्तम्, आद्यम्, मे यत् इदम् परम् रूपम् (तत्) तव दर्शितम्, यत् त्वदन्येन पूर्वम् न दृष्टम् ||"
+      "श्रीभगवान् उवाच—",
+      "हे अर्जुन!",
+      "तव प्रसन्नेन",
+      "आत्मयोगात्",
+      "मया दर्शितम्",
+      "मे इदम् परम् रूपम्",
+      "तेजोमयम्, विश्वम्, अनन्तम्, आद्यम्",
+      "यत् त्वदन्येन न दृष्ट-पूर्वम् |"
     ],
-    prose: [],
+    prose: [
+      "The Supreme Lord said:",
+      "O Arjuna",
+      "being pleased with you",
+      "by my own yogic power",
+      "that is shown by me",
+      "this supreme form of mine",
+      "radiant, universal, infinite, and primal form",
+      "a form which no one else has ever seen before.",
+    ],
     transl: [
       "The Supreme Lord said: O Arjuna, being pleased with you, I have shown you this supreme, radiant, universal, infinite, and primal form by my own yogic power—a form which no one other than you has ever seen before."
     ],
