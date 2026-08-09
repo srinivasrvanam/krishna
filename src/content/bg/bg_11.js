@@ -1935,9 +1935,23 @@ const verses = [
       "मया हतान् त्वम् जहि मा व्यथिष्ठाः युध्यस्व जेतासि रणे सपत्नान्"
     ],
     anvaya: [
-      "मया हतान् द्रोणम् च भीष्मम् च जयद्रथम् च कर्णम् तथा अन्यान् अपि योधवीरान् त्वम् जहि; मा व्यथिष्ठाः, युध्यस्व; रणे सपत्नान् जेतासि ||"
+      "मया हतान्",
+      "द्रोणम् च भीष्मम् च जयद्रथम् च कर्णम्",
+      "तथा अन्यान् अपि योधवीरान्",
+      "त्वम् जहि;",
+      "मा व्यथिष्ठाः",
+      "युध्यस्व;",
+      "रणे सपत्नान् जेतासि |"
     ],
-    prose: [],
+    prose: [
+      "All these who are already slain by me",
+      "Drona, Bhisma, Jayadratha, and Karna",
+      "likewise, other warriors",
+      "you kill",
+      "do not be distressed/fearful",
+      "Fight",
+      "you shall conquer the enemies in battle",
+    ],
     transl: [
       "Drona, Bhishma, Jayadratha, Karna, and other heroic warriors have already been slain by Me. Slay them without fear; do not be distressed. Fight, and you shall conquer your rivals in battle!"
     ],
