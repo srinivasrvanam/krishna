@@ -2182,6 +2182,8 @@ const verses = [
     ],
     grammar: [
       "आदि-कर्त्रे = Caturthī vibhakti (like sri matre namah)",
+      "गरीयसे = गरीयस् - पुंलि - Caturthī vibhakti (like sri matre namah)",
+      "नमेरन् = नम् (to bow) - विधिलिङ्(advice/possibility/obligation - general usage) - प्रथमपुरुषः - बहुवचनम्",
     ],
     notes: [
       "Here Krishna is explicitly declared to be higher than Brahma, asserting the transcendental monotheistic supremacy of the Supreme Person over the functional deities of cosmology."
