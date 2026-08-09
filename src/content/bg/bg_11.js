@@ -2707,9 +2707,15 @@ const verses = [
       "तेन एव रूपेण चतुः-भुजेन सहस्र-बाहो भव विश्व-मूर्ते"
     ],
     anvaya: [
-      "अहम् त्वाम् तथा एव किरीटिनम् गदिनम् चक्रहस्तम् द्रष्टुम् इच्छामि; हे सहस्रबाहो! हे विश्वमूर्ते! तेन एव चतुर्भुजेन रूपेण भव ||"
+      "अहम् त्वाम् तथा एव किरीटिनम् गदिनम् चक्रहस्तम् द्रष्टुम् इच्छामि;",
+      "हे सहस्रबाहो! हे विश्वमूर्ते!",
+      "तेन एव चतुर्भुजेन रूपेण भव |"
     ],
-    prose: [],
+    prose: [
+      "I wish to see you just as before, wearing a crown, holding a mace, and bearing a discus in your hand",
+      "O thousand-armed one, O Universal Form",
+      "resume that gentle four-armed form!",
+    ],
     transl: [
       "I wish to see you just as before, wearing a crown, holding a mace, and bearing a discus in your hand. O thousand-armed one, O Universal Form, resume that gentle four-armed form!"
     ],
