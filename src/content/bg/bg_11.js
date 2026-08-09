@@ -3153,9 +3153,15 @@ const verses = [
       "शक्यः एवम्-विधः द्रष्टुम् दृष्टवान् असि माम् यथा"
     ],
     anvaya: [
-      "यथा माम् दृष्टवान् असि, एवम्-विधः अहम् न वेदैः, न तपसा, न दानेन, न च इज्यया द्रष्टुम् शक्यः ||"
+      "यथा माम् दृष्टवान् असि",
+      "न वेदैः, न तपसा, न दानेन, न च इज्यया",
+      "एवम्-विधः अहम् द्रष्टुम् शक्यः |"
     ],
-    prose: [],
+    prose: [
+      "this form as you have seen me.",
+      "Neither by study of the Vedas, nor by penance, nor by charity, nor by ritual worship",
+      "can I be seen in this form",
+    ],
     transl: [
       "Neither by study of the Vedas, nor by penance, nor by charity, nor by ritual worship can I be seen in this form as you have seen me."
     ],
