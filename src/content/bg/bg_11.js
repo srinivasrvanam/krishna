@@ -2005,9 +2005,19 @@ const verses = [
       "नमस्कृत्वा भूयः एव आह कृष्णम् स-गद्गदम् भीत-भीतः प्रणम्य"
     ],
     anvaya: [
-      "सञ्जयः उवाच— केशवस्य एतत् वचनम् श्रुत्वा, किरीटी कृताञ्जलिः वेपमानः नमस्कृत्वा, भीतभीतः (सन्) प्रणम्य, भूयः एव सः कृष्णम् सगद्गदम् आह ||"
+      "सञ्जयः उवाच—",
+      "केशवस्य एतत् वचनम् श्रुत्वा",
+      "किरीटी कृताञ्जलिः वेपमानः नमस्कृत्वा",
+      "भीतभीतः (सन्) प्रणम्य",
+      "भूयः एव सः कृष्णम् सगद्गदम् आह |"
     ],
-    prose: [],
+    prose: [
+      "Sanjaya said",
+      "having heard these words of Keshava",
+      "Arjuna (kiriti) trembling and with folded hands, having offered his obeisances",
+      "having bowed down in deep fear",
+      "again he spoke to Krishna in a faltering voice",
+    ],
     transl: [
       "Sanjaya said: Having heard these words of Keshava, Arjuna (Kiriti), trembling and with folded hands, offered his obeisances. Bowing down again in deep fear, he spoke to Krishna in a faltering voice."
     ],
