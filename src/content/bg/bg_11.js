@@ -2070,9 +2070,21 @@ const verses = [
       "रक्षांसि भीतानि दिशः द्रवन्ति सर्वे नमस्यन्ति च सिद्ध-सङ्घाः"
     ],
     anvaya: [
-      "अर्जुनः उवाच— हृषीकेश! तव प्रकीर्त्या जगत् प्रहृष्यति अनुरज्यते च, रक्षांसि भीतानि दिशः द्रवन्ति, सर्वे सिद्धसङ्घाः च नमस्यन्ति (इति यत्, तत्) स्थाने (एव) ||"
+      "अर्जुनः उवाच—",
+      "हृषीकेश!",
+      "तव प्रकीर्त्या जगत् प्रहृष्यति अनुरज्यते च",
+      "रक्षांसि भीतानि दिशः द्रवन्ति",
+      "सर्वे सिद्धसङ्घाः च नमस्यन्ति ",
+      "(इति यत्, तत्) स्थाने (एव) |"
     ],
-    prose: [],
+    prose: [
+      "Arjuna said",
+      "O Hrishikesha",
+      "the word rejoices and feels devotion in singing your praise",
+      "demons flee in fear in all directions",
+      "hosts of perfected beings bow to you in adoration",
+      "It is right/befitting"
+    ],
     transl: [
       "Arjuna said: O Hrishikesha, it is right that the world rejoices and feels devotion in singing your praise, that demons flee in fear in all directions, and that all the hosts of perfected beings bow to you in adoration."
     ],
