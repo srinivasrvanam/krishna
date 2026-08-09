@@ -2180,7 +2180,9 @@ const verses = [
       "तत्-परम् = That which is beyond both",
       "यत् = Which"
     ],
-    grammar: [],
+    grammar: [
+      "आदि-कर्त्रे = Caturthī vibhakti (like sri matre namah)",
+    ],
     notes: [
       "Here Krishna is explicitly declared to be higher than Brahma, asserting the transcendental monotheistic supremacy of the Supreme Person over the functional deities of cosmology."
     ]
@@ -2201,9 +2203,19 @@ const verses = [
       "वेत्ता असि वेद्यम् च परम् च धाम त्वया ततम् विश्वम् अनन्त-रूप"
     ],
     anvaya: [
-      "त्वम् आदिदेवः, पुराणः पुरुषः, त्वम् अस्य विश्वस्य परम् निधानम्, (त्वम्) वेत्ता, वेद्यम्, परम् धाम च असि; हे अनन्तरूप! त्वया इदम् विश्वम् ततम् ||"
+      "त्वम् आदिदेवः",
+      "पुराणः पुरुषः",
+      "त्वम् अस्य विश्वस्य परम् निधानम्",
+      "(त्वम्) वेत्ता, वेद्यम्, परम् धाम च असि;",
+      "हे अनन्तरूप! त्वया इदम् विश्वम् ततम् |"
     ],
-    prose: [],
+    prose: [
+      "You are the primal deity",
+      "You are the ancient supreme being",
+      "You are the ultimate sanctuary of this universe",
+      "You are the knower, the object to be known, and the supreme abode",
+      "O one of infinite forms!, this entire universe is pervaded by you alone",
+    ],
     transl: [
       "You are the primal Deity, the ancient Supreme Being; you are the ultimate sanctuary of this universe. You are the knower, the object to be known, and the supreme abode. By you this entire universe is pervaded, O One of infinite forms!"
     ],
