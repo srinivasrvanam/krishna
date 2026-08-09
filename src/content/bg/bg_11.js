@@ -2516,10 +2516,10 @@ const verses = [
     ],
     anvaya: [
       "त्वम्",
-      "अस्य चराचरस्य लोकस्य पिता",
+      "अस्य चर-अचरस्य लोकस्य पिता",
       "पूज्यः, गरीयान् गुरुः च असि;",
-      "हे अप्रतिमप्रभाव!",
-      "लोकत्रये अपि त्वत्समः न अस्ति",
+      "हे अप्रतिम-प्रभाव!",
+      "लोकत्रये अपि त्वत्-समः न अस्ति",
       "अभ्यधिकः अन्यः कुतः (भवेत्)? |"
     ],
     prose: [
@@ -2581,9 +2581,19 @@ const verses = [
       "पिता इव पुत्रस्य सखा इव सख्युः प्रियः प्रिययाः अर्हसि देव सोढुम्"
     ],
     anvaya: [
-      "तस्मात् अहम् कायम् प्रणिधाय प्रणम्य ईड्यम् ईशम् त्वाम् प्रसादये; हे देव! पिता पुत्रस्य इव, सखा सख्युः इव, प्रियः प्रिययाः (इव मम् अपराधम्) सोढुम् अर्हसि ||"
+      "तस्मात्",
+      "अहम् कायम् प्रणिधाय प्रणम्य ईड्यम् ईशम् त्वाम् प्रसादये;",
+      "हे देव!",
+      "पिता पुत्रस्य इव, सखा सख्युः इव, प्रियः प्रिययाः (इव मम् अपराधम्)",
+      "सोढुम् अर्हसि |"
     ],
-    prose: [],
+    prose: [
+      "Therefore",
+      "prostrating myself and bowing my body low, I seek your grace, O Adorable Lord!",
+      "O Divine Lord!",
+      "As a father forgives his son, a friend his friend, or a lover his beloved",
+      "please bear with my faults",
+    ],
     transl: [
       "Therefore, prostrating myself and bowing my body low, I seek your grace, O Adorable Lord! As a father forgives his son, a friend his friend, or a lover his beloved, please bear with my faults, O Divine Lord!"
     ],
