@@ -129,9 +129,13 @@ const verses = [
       "असंमूढः सः मर्त्येषु सर्व-पापैः प्रमुच्यते"
     ],
     anvaya: [
-      "यः माम् अजम् अनादिम् लोक-महेश्वरम् च वेत्ति, सः मर्त्येषु असंमूढः (सन्) सर्वपापैः प्रमुच्यते ||"
+      "यः माम् अजम् अनादिम् लोक-महेश्वरम् च वेत्ति", 
+      "सः मर्त्येषु असंमूढः (सन्) सर्वपापैः प्रमुच्यते |"
     ],
-    prose: [],
+    prose: [
+      "One who knows me as unborn, beginningless, and the Supreme Lord of all the worlds",
+      "that undeluded person among mortals is freed from all sins."
+    ],
     transl: [
       "One who knows me as unborn, beginningless, and the Supreme Lord of all the worlds—that undeluded person among mortals is freed from all sins."
     ],
