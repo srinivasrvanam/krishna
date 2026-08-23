@@ -421,9 +421,17 @@ const verses = [
       "कथयन्तः च माम् नित्यम् तुष्यन्ति च रमन्ति च"
     ],
     anvaya: [
-      "मच्चित्ताः मद्गतप्राणाः नित्यम् परस्परम् बोधयन्तः माम् कथयन्तः च तुष्यन्ति च रमन्ति च ||"
+      "मच्चित्ताः मद्गतप्राणाः", 
+      "नित्यम् परस्परम् बोधयन्तः", 
+      "माम् कथयन्तः च", 
+      "तुष्यन्ति च रमन्ति च ||"
     ],
-    prose: [],
+    prose: [
+      "With their minds fixed on me and their lives surrendered to me", 
+      "enlightening one another", 
+      "and constantly speaking of me", 
+      "they derive contentment and rejoice."
+    ],
     transl: [
       "With their minds fixed on me and their lives surrendered to me, enlightening one another and constantly speaking of me, they derive contentment and rejoice."
     ],
