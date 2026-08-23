@@ -476,9 +476,15 @@ const verses = [
       "ददामि बुद्धि-योगम् तम् येन माम् उपयान्ति ते"
     ],
     anvaya: [
-      "सततयुक्तानाम् प्रीतिपूर्वकम् भजताम् तेषाम् अहम् तम् बुद्धियोगम् ददामि, येन ते माम् उपयान्ति ||"
+      "सततयुक्तानाम् प्रीतिपूर्वकम् भजताम् तेषाम्", 
+      "अहम् तम् बुद्धियोगम् ददामि", 
+      "येन ते माम् उपयान्ति ||"
     ],
-    prose: [],
+    prose: [
+      "To those who are constantly devoted and worship me with love", 
+      "I grant that yoga of wisdom", 
+      "by which they come to me."
+    ],
     transl: [
       "To those who are constantly devoted and worship me with love, I grant that yoga of wisdom by which they come to me."
     ],
