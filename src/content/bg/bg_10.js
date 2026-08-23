@@ -581,9 +581,28 @@ const verses = [
       "पुरुषम् शाश्वतम् दिव्यम् आदि-देवम् अजम् विभुम्"
     ],
     anvaya: [
-      "अर्जुनः उवाच— भवान् परम् ब्रह्म, परम् धाम, परमम् पवित्रम् (अस्ति); (तथा त्वाम्) शाश्वतम्, दिव्यम् पुरुषम्, आदिदेवम्, अजम्, विभुम् (आहुः) ||"
+      "अर्जुनः उवाच—", 
+      "भवान्", 
+      "परम् ब्रह्म", 
+      "परम् धाम", 
+      "परमम् पवित्रम् (अस्ति);", 
+      "(तथा त्वाम्) शाश्वतम्", 
+      "दिव्यम् पुरुषम्", 
+      "आदिदेवम्", 
+      "अजम्", 
+      "विभुम् (आहुः) |"
     ],
-    prose: [],
+    prose: [
+      "Arjuna said:", 
+      "You are", 
+      "the Supreme Brahman", 
+      "the supreme abode", 
+      "the ultimate purifier", 
+      "the eternal divine person", 
+      "the primal god", 
+      "unborn", 
+      "and all-pervading."
+    ],
     transl: [
       "Arjuna said: You are the Supreme Brahman, the supreme abode, the ultimate purifier, the eternal divine person, the primal god, unborn and all-pervading."
     ],
