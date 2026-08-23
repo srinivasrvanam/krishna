@@ -528,9 +528,15 @@ const verses = [
       "नाशयामि आत्म-भाव-स्थः ज्ञान-दीपेन भास्वता"
     ],
     anvaya: [
-      "तेषाम् अनुकम्पार्थम् एव आत्मभावस्थः अहम् भास्वता ज्ञानदीपेन अज्ञानजम् तमः नाशयामि ||"
+      "तेषाम् अनुकम्पार्थम् एव", 
+      "आत्मभावस्थः अहम्", 
+      "भास्वता ज्ञानदीपेन अज्ञानजम् तमः नाशयामि ||"
     ],
-    prose: [],
+    prose: [
+      "Out of compassion for them alone", 
+      "dwelling within their hearts, I", 
+      "destroy the darkness born of ignorance with the luminous lamp of wisdom."
+    ],
     transl: [
       "Out of compassion for them alone, dwelling within their hearts, I destroy the darkness born of ignorance with the luminous lamp of wisdom."
     ],
