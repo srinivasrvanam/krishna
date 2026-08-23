@@ -76,9 +76,13 @@ const verses = [
       "अहम् आदिः हि देवानाम् महा-ऋषीणाम् च सर्वशः"
     ],
     anvaya: [
-      "सुरगणाः मे प्रभवम् न विदुः, न महर्षयः (विदुः); हि अहम् देवानाम् महर्षीणाम् च सर्वशः आदिः (अस्मि) ||"
+      "सुरगणाः महर्षयः मे प्रभवम् न विदुः", 
+      "हि अहम् देवानाम् महर्षीणाम् च सर्वशः आदिः (अस्मि) |"
     ],
-    prose: [],
+    prose: [
+      "Neither the hosts of gods nor the great sages know my origin",
+      "I am the origin of all the gods and great sages in every respect.",
+    ],
     transl: [
       "Neither the hosts of gods nor the great sages know my origin, for I am the origin of all the gods and great sages in every respect."
     ],
