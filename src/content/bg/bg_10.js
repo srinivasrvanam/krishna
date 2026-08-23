@@ -166,31 +166,46 @@ const verses = [
   },
   {
     chapter: 10,
-    number: 4,
+    number: 5,
     sloka: [
       "बुद्धिर्ज्ञानमसंमोहः क्षमा सत्यं दमः शमः |",
-      "सुखं दुःखं भवोऽभावो भयं चाभयमेव च || ४ ||"
+      "सुखं दुःखं भवोऽभावो भयं चाभयमेव च || 4 ||",
+      "अहिंसा समता तुष्टिस्तपो दानं यशोऽयशः |",
+      "भवन्ति भावा भूतानां मत्त एव पृथग्विधाः || 5 ||"
     ],
     sloka_tel: [
       "బుద్ధిర్జ్ఞానమసమ్మోహః క్షమా సత్యం దమః శమః |",
-      "సుఖం దుఃఖం భవోऽభావో భయం చాభయమేవ చ || 4 ||"
+      "సుఖం దుఃఖం భవోऽభావో భయం చాభయమేవ చ || 4 ||",
+      "అహింసా సమతా తుష్టిస్తపో దానం యశోऽయశః |",
+      "భవంతి భావా భూతానాం మత్త ఏవ పృథగ్విధాః || 5 ||"
     ],
     vicheda: [
       "बुद्धिः ज्ञानम् असंमोहः क्षमा सत्यम् दमः शमः",
-      "सुखम् दुःखम् भवः अभावः भयम् च अभयम् एव च"
+      "सुखम् दुःखम् भवः अभावः भयम् च अभयम् एव च",
+      "अहिंसा समता तुष्टिः तपः दानम् यशः अयशः",
+      "भवन्ति भावाः भूतानाम् मत्तः एव पृथक्-विधाः"
     ],
     anvaya: [
-      "बुद्धिः, ज्ञानम्, असंमोहः, क्षमा, सत्यम्, दमः, शमः, सुखम्, दुःखम्, भवः, अभावः, भयम्, अभयम् एव च... ||"
+      "बुद्धिः, ज्ञानम्, असंमोहः, क्षमा, सत्यम्, दमः, शमः, सुखम्, दुःखम्, भवः, अभावः, भयम्, अभयम् एव च... ||",
+      "...अहिंसा, समता, तुष्टिः, तपः, दानम्, यशः, अयशः च—", 
+      "भूतानाम् एते पृथग्विधाः भावाः मत्तः एव भवन्ति |"
     ],
-    prose: [],
+    prose: [
+      "Intellect, knowledge, freedom from delusion, forgiveness, truthfulness, control of the senses, control of the mind, pleasure, pain, birth, death, fear, and fearlessness...",
+      "Non-violence, equanimity, contentment, austerity, charity, fame, and infamy",
+      "—all these diverse qualities of living beings originate from me alone."
+    ],
     transl: [
-      "Intellect, knowledge, freedom from delusion, forgiveness, truthfulness, control of the senses, control of the mind, pleasure, pain, birth, death, fear, and fearlessness..."
+      "Intellect, knowledge, freedom from delusion, forgiveness, truthfulness, control of the senses, control of the mind, pleasure, pain, birth, death, fear, and fearlessness...",
+      "Non-violence, equanimity, contentment, austerity, charity, fame, and infamy—all these diverse qualities of living beings originate from me alone."
     ],
     transl_tel: [
-      "బుద్ధి, జ్ఞానము, అజ్ఞానరాహిత్యం, క్షమ, సత్యము, ఇంద్రియ నిగ్రహము, మనో నిగ్రహము, సుఖము, దుఃఖము, పుట్టుక, నాశనము, భయము, అభయము..."
+      "బుద్ధి, జ్ఞానము, అజ్ఞానరాహిత్యం, క్షమ, సత్యము, ఇంద్రియ నిగ్రహము, మనో నిగ్రహము, సుఖము, దుఃఖము, పుట్టుక, నాశనము, భయము, అభయము...",
+      "...అహింస, సమత్వము, తృప్తి, తపస్సు, దానము, కీర్తి, అపకీర్తి— జీవుల ఈ నానావిధాలైన భావాలన్నీ నా నుండియే ఉత్పన్నమవుతున్నాయి."
     ],
     essence: [
-      "Krishna begins listing the internal mental qualities, faculties, and psychological dualities of living beings. Verses 4 and 5 form a single continuous enumeration showing that all cognitive abilities and life experiences—both positive and challenging—originate from Him alone."
+      "Krishna begins listing the internal mental qualities, faculties, and psychological dualities of living beings. Verses 4 and 5 form a single continuous enumeration showing that all cognitive abilities and life experiences—both positive and challenging—originate from Him alone.",
+      "Completing the list started in verse 4, Krishna enumerates further virtues and social conditions (non-violence, contentment, charity, fame, infamy). He emphasizes that all mental states (*bhāvāḥ*) and emotional conditions of all creatures (*bhūtānām*) flow from Him alone (*matta eva*), proving His ultimate mastery over internal psychological reality as well as outer nature."
     ],
     meanings: [
       "बुद्धिः = Intellect / subtle reasoning faculty",
@@ -208,42 +223,7 @@ const verses = [
       "च = And",
       "अभयम् = Fearlessness",
       "एव = Indeed",
-      "च = And"
-    ],
-    grammar: [],
-    notes: [
-      "Verses 4 and 5 form a single syntactic unit (yugmaka) concluding with verse 5's statement: 'All these diverse states of living beings arise from Me alone.'"
-    ]
-  },
-  {
-    chapter: 10,
-    number: 5,
-    sloka: [
-      "अहिंसा समता तुष्टिस्तपो दानं यशोऽयशः |",
-      "भवन्ति भावा भूतानां मत्त एव पृथग्विधाः || ५ ||"
-    ],
-    sloka_tel: [
-      "అహింసా సమతా తుష్టిస్తపో దానం యశోऽయశః |",
-      "భవంతి భావా భూతానాం మత్త ఏవ పృథగ్విధాః || 5 ||"
-    ],
-    vicheda: [
-      "अहिंसा समता तुष्टिः तपः दानम् यशः अयशः",
-      "भवन्ति भावाः भूतानाम् मत्तः एव पृथक्-विधाः"
-    ],
-    anvaya: [
-      "...अहिंसा, समता, तुष्टिः, तपः, दानम्, यशः, अयशः च— भूतानाम् एते पृथग्विधाः भावाः मत्तः एव भवन्ति ||"
-    ],
-    prose: [],
-    transl: [
-      "Non-violence, equanimity, contentment, austerity, charity, fame, and infamy—all these diverse qualities of living beings originate from me alone."
-    ],
-    transl_tel: [
-      "...అహింస, సమత్వము, తృప్తి, తపస్సు, దానము, కీర్తి, అపకీర్తి— జీవుల ఈ నానావిధాలైన భావాలన్నీ నా నుండియే ఉత్పన్నమవుతున్నాయి."
-    ],
-    essence: [
-      "Completing the list started in verse 4, Krishna enumerates further virtues and social conditions (non-violence, contentment, charity, fame, infamy). He emphasizes that all mental states (*bhāvāḥ*) and emotional conditions of all creatures (*bhūtānām*) flow from Him alone (*matta eva*), proving His ultimate mastery over internal psychological reality as well as outer nature."
-    ],
-    meanings: [
+      "च = And",
       "अहिंसा = Non-violence / non-injury",
       "समता = Equanimity / balance",
       "तुष्टिः = Contentment / satisfaction",
@@ -260,6 +240,7 @@ const verses = [
     ],
     grammar: [],
     notes: [
+      "Verses 4 and 5 form a single syntactic unit (yugmaka) concluding with verse 5's statement: 'All these diverse states of living beings arise from Me alone.'",
       "By attributing even contrasting dualities like fame/infamy and pleasure/pain to His cosmic ordinance, Krishna teaches that everything moves according to divine law."
     ]
   },
