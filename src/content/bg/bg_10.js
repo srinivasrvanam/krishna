@@ -260,9 +260,13 @@ const verses = [
       "मत्-भावाः मानसाः जाताः येषाम् लोके इमाः प्रजाः"
     ],
     anvaya: [
-      "सप्त महर्षयः, पूर्वे चत्वारः तथा मनवः मद्भावाः मानसाः जाताः, येषाम् लोके इमाः प्रजाः (उत्पन्नाः) ||"
+      "सप्त महर्षयः, पूर्वे चत्वारः तथा मनवः मद्भावाः मानसाः जाताः", 
+      "येषाम् लोके इमाः प्रजाः (उत्पन्नाः) |"
     ],
-    prose: [],
+    prose: [
+      "The seven great sages, the four ancient ones, and the Manus were born from my mind, endowed with my power;", 
+      "from them have descended all the creatures in this world."
+    ],
     transl: [
       "The seven great sages, the four ancient ones, and the Manus were born from my mind, endowed with my power; from them have descended all the creatures in this world."
     ],
