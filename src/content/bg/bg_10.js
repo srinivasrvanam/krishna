@@ -5,7 +5,7 @@ const verses = [
     sloka: [
       "श्रीभगवानुवाच |",
       "भूय एव महाबाहो शृणु मे परमं वचः |",
-      "यत्तेऽहं प्रीयमाणाय वक्ष्यामि हितकाम्यया || १ ||"
+      "यत्तेऽहं प्रीयमाणाय वक्ष्यामि हितकाम्यया || १ ||" 
     ],
     sloka_tel: [
       "శ్రీభగవానువాచ |",
@@ -18,9 +18,17 @@ const verses = [
       "यत् ते अहम् प्रीयमाणाय वक्ष्यामि हित-काम्यया"
     ],
     anvaya: [
-      "श्रीभगवान् उवाच— हे महाबाहो! भूयः एव मे परमम् वचः शृणु, यत् प्रीयमाणाय ते अहम् हितकाम्यया वक्ष्यामि ||"
+      "श्रीभगवान् उवाच—", 
+      "हे महाबाहो!", 
+      "भूयः एव मे परमम् वचः शृणु", 
+      "यत् (प्रीयमाणाय) ते अहम् हितकाम्यया वक्ष्यामि |"
     ],
-    prose: [],
+    prose: [
+      "The Supreme Lord said:",
+      "O mighty-armed one!",
+      "Listen once again to my supreme word",
+      "which I will tell (who is dear to me) you, with the a desire of your welfare.",
+    ],
     transl: [
       "The Supreme Lord said: Listen once again, O mighty-armed one, to my supreme word, which I speak to you, who take delight in hearing me, out of a desire for your welfare."
     ],
