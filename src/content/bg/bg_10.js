@@ -312,9 +312,15 @@ const verses = [
       "सः अविकम्पेन योगेन युज्यते न अत्र संशयः"
     ],
     anvaya: [
-      "यः मम एताम् विभूतिम् योगम् च तत्त्वतः वेत्ति, सः अविकम्पेन योगेन युज्यते, अत्र संशयः न (अस्ति) ||"
+      "यः मम एताम् विभूतिम् योगम् च तत्त्वतः वेत्ति", 
+      "सः अविकम्पेन योगेन युज्यते", 
+      "अत्र संशयः न (अस्ति) ||"
     ],
-    prose: [],
+    prose: [
+      "One who knows in truth this opulence and yogic power of mine", 
+      "he becomes united with me through unwavering devotion;", 
+      "of this there is no doubt."
+    ],
     transl: [
       "One who knows in truth this opulence and yogic power of mine becomes united with me through unwavering devotion; of this there is no doubt."
     ],
