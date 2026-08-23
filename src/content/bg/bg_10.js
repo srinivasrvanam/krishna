@@ -368,9 +368,15 @@ const verses = [
       "इति मत्वा भजन्ते माम् बुधाः भाव-समन्विताः"
     ],
     anvaya: [
-      "अहम् सर्वस्य प्रभवः, मत्तः सर्वम् प्रवर्तते, इति मत्वा भावसमन्विताः बुधाः माम् भजन्ते ||"
+      "अहम् सर्वस्य प्रभवः", 
+      "मत्तः सर्वम् प्रवर्तते", 
+      "इति मत्वा भावसमन्विताः बुधाः माम् भजन्ते |"
     ],
-    prose: [],
+    prose: [
+      "I am the origin of all;", 
+      "from me everything emanates.", 
+      "Understanding this, the wise, endowed with deep devotion, worship me."
+    ],
     transl: [
       "I am the origin of all; from me everything emanates. Understanding this, the wise, endowed with deep devotion, worship me."
     ],
