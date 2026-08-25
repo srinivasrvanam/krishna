@@ -617,8 +617,9 @@ const verses = [
       "and now you yourself are telling it to me.",
     ],
     transl: [
-      "Arjuna said: You are the Supreme Brahman, the supreme abode, the ultimate purifier, the eternal divine person, the primal god, unborn and all-pervading.",
-      "All the sages proclaim this of you, as do the divine sage Narada, Asita, Devala, and Vyasa; and now you yourself are telling it to me."
+      "Arjuna said: You are the Supreme Brahman, the supreme abode, the ultimate purifier.",
+      "All the sages, including the divine sage Narada, Asita, Devala, and Vyasa; proclaim that you are, the eternal divine person, the primal god, unborn and all-pervading.",
+      "and now you yourself are telling it to me."
     ],
     transl_tel: [
       "అర్జునుడు పలికెను: నీవు పరబ్రహ్మవు, పరమ ధామమవు, అత్యంత పవిత్రుడవు. నీవు శాశ్వతుడవు, దివ్య పురుషుడవు, ఆదిదేవుడవు, పుట్టుక లేనివాడవు, సర్వవ్యాపివి.",
