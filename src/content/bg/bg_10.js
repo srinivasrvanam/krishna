@@ -681,9 +681,19 @@ const verses = [
       "न हि ते भगवन् व्यक्तिम् विदुः देवाः न दानवाः"
     ],
     anvaya: [
-      "हे केशव! यत् माम् वदसि, एतत् सर्वम् ऋतम् मन्ये; हे भगवन्! ते व्यक्तिम् देवाः न विदुः, दानवाः हि न (विदुः) ||"
+      "हे केशव!", 
+      "यत् माम् वदसि", 
+      "एतत् सर्वम् ऋतम् मन्ये;", 
+      "हे भगवन्!", 
+      "ते व्यक्तिम् देवाः न विदुः, दानवाः हि न (विदुः) |"
     ],
-    prose: [],
+    prose: [
+      "O Keshava!",
+      "what you are telling me",
+      "I accept as truth all that",
+      "O Lord",
+      "Neither the gods nor the demons, comprehend your true manifestation.",
+    ],
     transl: [
       "I accept as truth all that you tell me, O Keshava. Neither the gods nor the demons, O Lord, comprehend your true manifestation."
     ],
