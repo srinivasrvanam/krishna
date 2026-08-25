@@ -565,20 +565,26 @@ const verses = [
   },
   {
     chapter: 10,
-    number: 12,
+    number: 13,
     sloka: [
       "अर्जुन उवाच |",
       "परं ब्रह्म परं धाम पवित्रं परमं भवान् |",
-      "पुरुषं शाश्वतं दिव्यमादिदेवमजं विभुम् || १२ ||"
+      "पुरुषं शाश्वतं दिव्यमादिदेवमजं विभुम् || 12 ||",
+      "आहुस्त्वामृषयः सर्वे देवर्षिन्नारदस्तथा |",
+      "असितो देवलो व्यासः स्वयं चैव ब्रवीषि मे || 13 ||"
     ],
     sloka_tel: [
       "అర్జున ఉవాచ |",
       "పరం బ్రహ్మ పరం ధామ పవిత్రం పరమం భవాన్ |",
-      "పురుషం శాశ్వతం దివ్యమాదిదేవమజం విభుమ్ || 12 ||"
+      "పురుషం శాశ్వతం దివ్యమాదిదేవమజం విభుమ్ || 12 ||",
+      "ఆహుస్త్వామృషయః సర్వే దేవర్షిర్నారదస్తథా |",
+      "అసితో దేవలో వ్యాసః స్వయం చైవ బ్రవీషి మే || 13 ||"
     ],
     vicheda: [
       "परम् ब्रह्म परम् धाम पवित्रम् परमम् भवान्",
-      "पुरुषम् शाश्वतम् दिव्यम् आदि-देवम् अजम् विभुम्"
+      "पुरुषम् शाश्वतम् दिव्यम् आदि-देवम् अजम् विभुम्",
+      "आहुः त्वाम् ऋषयः सर्वे देव-ऋषिः नारदः तथा",
+      "असितः देवलः व्यासः स्वयं च एव ब्रवीषि मे"
     ],
     anvaya: [
       "अर्जुनः उवाच—", 
@@ -586,11 +592,14 @@ const verses = [
       "परम् ब्रह्म", 
       "परम् धाम", 
       "परमम् पवित्रम् (अस्ति);", 
-      "(तथा त्वाम्) शाश्वतम्", 
-      "दिव्यम् पुरुषम्", 
-      "आदिदेवम्", 
-      "अजम्", 
-      "विभुम् (आहुः) |"
+      "",
+      "सर्वे ऋषयः, तथा देवर्षिः नारदः, असितः, देवलः, व्यासः च",
+      "- शाश्वतम् दिव्यम् पुरुषम्", 
+      "- आदिदेवम्", 
+      "- अजम्", 
+      "- विभुम्",
+      "त्वाम् (तथा) आहुः;", 
+      "स्वयम् च एव मे ब्रवीषि |"
     ],
     prose: [
       "Arjuna said:", 
@@ -598,19 +607,26 @@ const verses = [
       "the Supreme Brahman", 
       "the supreme abode", 
       "the ultimate purifier", 
-      "the eternal divine person", 
-      "the primal god", 
-      "unborn", 
-      "and all-pervading."
+      "",
+      "All the sages, as do the divine sage Narada, Asita, Devala, and Vyasa",
+      "- the eternal divine person", 
+      "- the primal god", 
+      "- unborn", 
+      "- and all-pervading.",
+      "proclaim this of you",
+      "and now you yourself are telling it to me.",
     ],
     transl: [
-      "Arjuna said: You are the Supreme Brahman, the supreme abode, the ultimate purifier, the eternal divine person, the primal god, unborn and all-pervading."
+      "Arjuna said: You are the Supreme Brahman, the supreme abode, the ultimate purifier, the eternal divine person, the primal god, unborn and all-pervading.",
+      "All the sages proclaim this of you, as do the divine sage Narada, Asita, Devala, and Vyasa; and now you yourself are telling it to me."
     ],
     transl_tel: [
-      "అర్జునుడు పలికెను: నీవు పరబ్రహ్మవు, పరమ ధామమవు, అత్యంత పవిత్రుడవు. నీవు శాశ్వతుడవు, దివ్య పురుషుడవు, ఆదిదేవుడవు, పుట్టుక లేనివాడవు, సర్వవ్యాపివి."
+      "అర్జునుడు పలికెను: నీవు పరబ్రహ్మవు, పరమ ధామమవు, అత్యంత పవిత్రుడవు. నీవు శాశ్వతుడవు, దివ్య పురుషుడవు, ఆదిదేవుడవు, పుట్టుక లేనివాడవు, సర్వవ్యాపివి.",
+      "మహర్షులందరూ, దేవరిషి అయిన నారదుడు, అసిత, దేవలుడు మరియు వ్యాస మహర్షి నిన్ను గురించిన ఈ సత్యాన్నే ప్రకటించారు; ఇప్పుడు నీవు కూడా స్వయంగా నాకు అదే చెబుతున్నావు."
     ],
     essence: [
-      "Inspired by hearing the *Catuḥślokī Gītā*, Arjuna offers a magnificent confession of faith. He glorifies Krishna as the Supreme Reality (*Paraṁ Brahma*), the ultimate resting place of existence (*Paraṁ Dhāma*), the pristine purifier (*Pavitraṁ Paramam*), and the eternal, unborn, all-pervading Divine Being (*Divyaṁ Puruṣam*)."
+      "Inspired by hearing the *Catuḥślokī Gītā*, Arjuna offers a magnificent confession of faith. He glorifies Krishna as the Supreme Reality (*Paraṁ Brahma*), the ultimate resting place of existence (*Paraṁ Dhāma*), the pristine purifier (*Pavitraṁ Paramam*), and the eternal, unborn, all-pervading Divine Being (*Divyaṁ Puruṣam*).",
+      "Arjuna reinforces his recognition of Krishna's divinity by citing venerable spiritual authorities. Great sages (*ऋषयः सर्वे*), including celestial sage Narada, Asita, Devala, and Vedavyasa, have consistently declared Krishna's supreme status. Arjuna notes that Krishna's direct words now perfectly confirm the timeless testimonies of the rishis."
     ],
     meanings: [
       "परम् = Supreme",
@@ -625,42 +641,7 @@ const verses = [
       "दिव्यम् = Divine",
       "आदि-देवम् = Primal god / original deity",
       "अजम् = Unborn",
-      "विभुम् = All-pervading / omnipresent"
-    ],
-    grammar: [],
-    notes: [
-      "Verses 12 and 13 form Arjuna's solemn acknowledgment of Krishna's absolute divinity based on both personal realization and scriptural authority."
-    ]
-  },
-  {
-    chapter: 10,
-    number: 13,
-    sloka: [
-      "आहुस्त्वामृषयः सर्वे देवर्षिन्नारदस्तथा |",
-      "असितो देवलो व्यासः स्वयं चैव ब्रवीषि मे || १३ ||"
-    ],
-    sloka_tel: [
-      "ఆహుస్త్వామృషయః సర్వే దేవర్షిర్నారదస్తథా |",
-      "అసితో దేవలో వ్యాసః స్వయం చైవ బ్రవీషి మే || 13 ||"
-    ],
-    vicheda: [
-      "आहुः त्वाम् ऋषयः सर्वे देव-ऋषिः नारदः तथा",
-      "असितः देवलः व्यासः स्वयं च एव ब्रवीषि मे"
-    ],
-    anvaya: [
-      "सर्वे ऋषयः, तथा देवर्षिः नारदः, असितः, देवलः, व्यासः च त्वाम् (तथा) आहुः; स्वयम् च एव मे ब्रवीषि ||"
-    ],
-    prose: [],
-    transl: [
-      "All the sages proclaim this of you, as do the divine sage Narada, Asita, Devala, and Vyasa; and now you yourself are telling it to me."
-    ],
-    transl_tel: [
-      "మహర్షులందరూ, దేవరిషి అయిన నారదుడు, అసిత, దేవలుడు మరియు వ్యాస మహర్షి నిన్ను గురించిన ఈ సత్యాన్నే ప్రకటించారు; ఇప్పుడు నీవు కూడా స్వయంగా నాకు అదే చెబుతున్నావు."
-    ],
-    essence: [
-      "Arjuna reinforces his recognition of Krishna's divinity by citing venerable spiritual authorities. Great sages (*ऋषयः सर्वे*), including celestial sage Narada, Asita, Devala, and Vedavyasa, have consistently declared Krishna's supreme status. Arjuna notes that Krishna's direct words now perfectly confirm the timeless testimonies of the rishis."
-    ],
-    meanings: [
+      "विभुम् = All-pervading / omnipresent",
       "आहुः = Proclaim / declare",
       "त्वाम् = You",
       "ऋषयः = Sages",
@@ -679,6 +660,7 @@ const verses = [
     ],
     grammar: [],
     notes: [
+      "Verses 12 and 13 form Arjuna's solemn acknowledgment of Krishna's absolute divinity based on both personal realization and scriptural authority.",
       "Arjuna appeals to traditional consensus (*Shastra/Rishi-pramana*) alongside Krishna's direct revelation to affirm his unshakeable faith."
     ]
   },
