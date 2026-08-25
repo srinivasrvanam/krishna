@@ -743,9 +743,13 @@ const verses = [
       "भूत-भावन भूत-ईश देव-देव जगत्-पते"
     ],
     anvaya: [
-      "हे पुरुषोत्तम! हे भूतभावन! हे भूतेश! हे देवदेव! हे जगत्पते! त्वम् स्वयम् एव आत्मना आत्मानम् वेत्थ ||"
+      "हे पुरुषोत्तम! हे भूतभावन! हे भूतेश! हे देवदेव! हे जगत्पते!", 
+      "त्वम् स्वयम् एव आत्मना आत्मानम् वेत्थ |"
     ],
-    prose: [],
+    prose: [
+      "O Supreme Person, source of all beings, Lord of creatures, God of gods, Ruler of the universe!",
+      "Indeed, you alone know yourself by yourself",
+    ],
     transl: [
       "Indeed, you alone know yourself by yourself, O Supreme Person, source of all beings, Lord of creatures, God of gods, Ruler of the universe!"
     ],
