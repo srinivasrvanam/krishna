@@ -902,9 +902,15 @@ const verses = [
       "भूयः कथय तृप्तिः हि शृण्वतः न अस्ति मे अमृतम्"
     ],
     anvaya: [
-      "हे जनार्दन! आत्मनः योगम् विभूतिम् च विस्तरेण भूयः कथय, हि अमृतम् शृण्वतः मे तृप्तिः न अस्ति ||"
+      "हे जनार्दन!", 
+      "आत्मनः योगम् विभूतिम् च विस्तरेण भूयः कथय", 
+      "हि अमृतम् शृण्वतः मे तृप्तिः न अस्ति |"
     ],
-    prose: [],
+    prose: [
+      "O Janardana!",
+      "Tell me again in detail of your yogic power and divine opulences",
+      "for I am never satiated hearing your nectar-like words.",
+    ],
     transl: [
       "Tell me again in detail of your yogic power and divine opulences, O Janardana, for I am never satiated hearing your nectar-like words."
     ],
