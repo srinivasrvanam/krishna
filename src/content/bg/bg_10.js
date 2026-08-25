@@ -793,9 +793,13 @@ const verses = [
       "याभिः विभूतिभिः लोकान् इमान् त्वम् व्याप्य तिष्ठसि"
     ],
     anvaya: [
-      "याभिः विभूतिभिः त्वम् इमान् लोकान् व्याप्य तिष्ठसि, (ताः) दिव्याः आत्मविभूतयः अशेषेण वक्तुम् अर्हसि हि ||"
+      "याभिः विभूतिभिः त्वम् इमान् लोकान् व्याप्य तिष्ठसि", 
+      "(ताः) दिव्याः आत्मविभूतयः अशेषेण वक्तुम् अर्हसि हि |"
     ],
-    prose: [],
+    prose: [
+      "The vibhutis by which you pervade and remain established throughout all these worlds.",
+      "Please describe to me completely your divine opulences",
+    ],
     transl: [
       "Please describe to me completely your divine opulences, by which you pervade and remain established throughout all these worlds."
     ],
