@@ -960,9 +960,17 @@ const verses = [
       "प्राधान्यतः कुरु-श्रेष्ठ न अस्ति अन्तः विस्तरस्य मे"
     ],
     anvaya: [
-      "श्रीभगवान् उवाच— हन्त, हे कुरुश्रेष्ठ! मे दिव्याः आत्मविभूतयः प्राधान्यतः ते कथयिष्यामि, हि मे विस्तरस्य अन्तः न अस्ति ||"
+      "श्रीभगवान् उवाच—", 
+      "हन्त, हे कुरुश्रेष्ठ!", 
+      "मे दिव्याः आत्मविभूतयः प्राधान्यतः ते कथयिष्यामि", 
+      "हि मे विस्तरस्य अन्तः न अस्ति ||"
     ],
-    prose: [],
+    prose: [
+      "The Supreme Lord said:",
+      "O best of the Kurus! Yes,",
+      "I will describe to you my prominent divine opulences",
+      "for there is no end to my detailed manifestation.",
+    ],
     transl: [
       "The Supreme Lord said: Yes, I will describe to you my prominent divine opulences, O best of the Kurus, for there is no end to my detailed manifestation."
     ],
