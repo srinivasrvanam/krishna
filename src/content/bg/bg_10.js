@@ -845,9 +845,17 @@ const verses = [
       "केषु केषु च भावेषु चिन्त्यः असि भगवन् मया"
     ],
     anvaya: [
-      "हे योगिन्! अहम् सदा परिचिन्तयन् त्वाम् कथम् विद्याम्? हे भगवन्! मया केषु केषु च भावेषु (त्वम्) चिन्त्यः असि? ||"
+      "हे योगिन्!", 
+      "अहम् सदा परिचिन्तयन् त्वाम् कथम् विद्याम्?", 
+      "हे भगवन्!", 
+      "मया केषु केषु च भावेषु (त्वम्) चिन्त्यः असि? ||"
     ],
-    prose: [],
+    prose: [
+      "O Supreme Mystic",
+      "How may I know you, by constant meditation?",
+      "O Blessed Lord",
+      "In what various aspects and forms are you to be remembered by me?",
+    ],
     transl: [
       "How may I know you, O Supreme Mystic, by constant meditation? In what various aspects and forms are you to be remembered by me, O Blessed Lord?"
     ],
