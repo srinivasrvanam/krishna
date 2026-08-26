@@ -1071,9 +1071,17 @@ const verses = [
       "मरीचिः मरुताम् अस्मि नक्षत्राणाम् अहम् शशी"
     ],
     anvaya: [
-      "आदित्यानाम् अहम् विष्णुः, ज्योतिषाम् अंशुमान् रविः, मरुताम् मरीचिः अस्मि, नक्षत्राणाम् अहम् शशी (अस्मि) ||"
+      "आदित्यानाम् अहम् विष्णुः", 
+      "ज्योतिषाम् अंशुमान् रविः", 
+      "मरुताम् मरीचिः अस्मि", 
+      "नक्षत्राणाम् अहम् शशी (अस्मि) |"
     ],
-    prose: [],
+    prose: [
+      "Among the Adityas I am Vishnu;",
+      "among luminaries I am the radiant Sun;",
+      "among the Maruts I am Marichi;",
+      "and among the stars I am the Moon.",
+    ],
     transl: [
       "Among the Adityas I am Vishnu; among luminaries I am the radiant Sun; among the Maruts I am Marichi; and among the stars I am the Moon."
     ],
