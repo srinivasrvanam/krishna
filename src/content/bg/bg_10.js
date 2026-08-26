@@ -1294,9 +1294,17 @@ const verses = [
       "यज्ञानाम् जप-यज्ञः अस्मि स्थावराणाम् हिमालयः"
     ],
     anvaya: [
-      "महर्षीणाम् अहम् भृगुः, गिराम् एकम् अक्षरम् (ओम्) अस्मि, यज्ञानाम् जपयज्ञः अस्मि, स्थावराणाम् हिमालयः (अस्मि) ||"
+      "महर्षीणाम् अहम् भृगुः", 
+      "गिराम् एकम् अक्षरम् (ओम्) अस्मि", 
+      "यज्ञानाम् जपयज्ञः अस्मि", 
+      "स्थावराणाम् हिमालयः (अस्मि) |"
     ],
-    prose: [],
+    prose: [
+      "Among the great sages I am Bhrigu;",
+      "among sounds I am the single syllable Om;",
+      "among sacrifices I am Japa-Yajna (the chanting of holy names);",
+      "and among immovable objects I am the Himalayas.",
+    ],
     transl: [
       "Among the great sages I am Bhrigu; among sounds I am the single syllable Om; among sacrifices I am Japa-Yajna (the chanting of holy names); and among immovable objects I am the Himalayas."
     ],
@@ -1340,9 +1348,17 @@ const verses = [
       "गन्धर्वाणाम् चित्ररथः सिद्धानाम् कपिलः मुनिः"
     ],
     anvaya: [
-      "सर्ववृक्षाणाम् अश्वत्थः, देवर्षीणां च नारदः, गन्धर्वाणाम् चित्ररथः, सिद्धानाम् कपिलः मुनिः (अहम् अस्मि) ||"
+      "सर्ववृक्षाणाम् अश्वत्थः", 
+      "देवर्षीणां च नारदः", 
+      "गन्धर्वाणाम् चित्ररथः", 
+      "सिद्धानाम् कपिलः मुनिः (अहम् अस्मि) |"
     ],
-    prose: [],
+    prose: [
+      "Among all trees I am the Peepal tree;",
+      "among divine sages I am Narada;",
+      "among Gandharvas I am Chitraratha;",
+      "and among perfected beings I am the sage Kapila.",
+    ],
     transl: [
       "Among all trees I am the Peepal tree; among divine sages I am Narada; among Gandharvas I am Chitraratha; and among perfected beings I am the sage Kapila."
     ],
@@ -1385,9 +1401,15 @@ const verses = [
       "ऐरावतम् गजेन्द्राणाम् नराणाम् च नराधिपम्"
     ],
     anvaya: [
-      "अश्वानाम् अमृतोद्भवम् उच्चैःश्रवसम्, गजेन्द्राणाम् ऐरावतम्, नराणाम् च नराधिपम् माम् विद्धि ||"
+      "अश्वानाम् अमृतोद्भवम् उच्चैःश्रवसम्", 
+      "गजेन्द्राणाम् ऐरावतम्", 
+      "नराणाम् च नराधिपम् माम् विद्धि |"
     ],
-    prose: [],
+    prose: [
+      "Among horses, know me to be Ucchaihshravas, born of the churning for nectar;",
+      "among lordly elephants, Airavata;",
+      "and among human beings, the king.",
+    ],
     transl: [
       "Among horses, know me to be Ucchaihshravas, born of the churning for nectar; among lordly elephants, Airavata; and among human beings, the king."
     ],
@@ -1430,9 +1452,17 @@ const verses = [
       "प्रजनः च अस्मि कन्दर्पः सर्पाणाम् अस्मि वासुकिः"
     ],
     anvaya: [
-      "आयुधानाम् अहम् वज्रम् अस्मि, धेनूनाम् कामधुक् अस्मि, प्रजनः कन्दर्पः च अस्मि, सर्पाणाम् वासुकिः अस्मि ||"
+      "आयुधानाम् अहम् वज्रम् अस्मि", 
+      "धेनूनाम् कामधुक् अस्मि", 
+      "प्रजनः कन्दर्पः च अस्मि", 
+      "सर्पाणाम् वासुकिः अस्मि |"
     ],
-    prose: [],
+    prose: [
+      "Among weapons I am the thunderbolt;",
+      "among cows I am Kamadhenu;",
+      "I am Kamadeva, the cause of offspring;",
+      "and among single-headed serpents I am Vasuki.",
+    ],
     transl: [
       "Among weapons I am the thunderbolt; among cows I am Kamadhenu; I am Kamadeva, the cause of offspring; and among single-headed serpents I am Vasuki."
     ],
@@ -1478,9 +1508,17 @@ const verses = [
       "पितॄणाम् अर्यमा च अस्मि यमः संयमताम् अहम्"
     ],
     anvaya: [
-      "नागानाम् अनन्तः च अस्मि, यादसाम् अहम् वरुणः, पितॄणाम् अर्यमा च अस्मि, संयमताम् अहम् यमः (अस्मि) ||"
+      "नागानाम् अनन्तः च अस्मि", 
+      "यादसाम् अहम् वरुणः", 
+      "पितॄणाम् अर्यमा च अस्मि", 
+      "संयमताम् अहम् यमः (अस्मि) |"
     ],
-    prose: [],
+    prose: [
+      "Among multi-headed Nagas I am Ananta;",
+      "among aquatic beings I am Varuna;",
+      "among the ancestors I am Aryama;",
+      "and among dispensers of law/subduers I am Yama.",
+    ],
     transl: [
       "Among multi-headed Nagas I am Ananta; among aquatic beings I am Varuna; among the ancestors I am Aryama; and among dispensers of law/subduers I am Yama."
     ],
@@ -1527,9 +1565,17 @@ const verses = [
       "मृगाणाम् च मृगेन्द्रः अहम् वैनतेयः च पक्षिणाम्"
     ],
     anvaya: [
-      "दैत्यानाम् प्रह्लादः च अस्मि, कलयताम् अहम् कालः, मृगाणाम् च अहम् मृगेन्द्रः, पक्षिणाम् च वैनतेयः (अस्मि) ||"
+      "दैत्यानाम् प्रह्लादः च अस्मि", 
+      "कलयताम् अहम् कालः", 
+      "मृगाणाम् च अहम् मृगेन्द्रः", 
+      "पक्षिणाम् च वैनतेयः (अस्मि) |"
     ],
-    prose: [],
+    prose: [
+      "Among Daityas I am Prahlada;",
+      "among reckoners/subduers I am Time;",
+      "among beasts I am the lion;",
+      "and among birds I am Garuda.",
+    ],
     transl: [
       "Among Daityas I am Prahlada; among reckoners/subduers I am Time; among beasts I am the lion; and among birds I am Garuda."
     ],
@@ -1576,9 +1622,17 @@ const verses = [
       "झषाणाम् मकरः च अस्मि स्रोतसाम् अस्मि जाह्नवी"
     ],
     anvaya: [
-      "पवताम् पवनः अस्मि, शस्त्रभृताम् अहम् रामः, झषाणाम् मकरः च अस्मि, स्रोतसाम् जाह्नवी अस्मि ||"
+      "पवताम् पवनः अस्मि", 
+      "शस्त्रभृताम् अहम् रामः", 
+      "झषाणाम् मकरः च अस्मि", 
+      "स्रोतसाम् जाह्नवी अस्मि |"
     ],
-    prose: [],
+    prose: [
+      "Among purifiers I am the wind;",
+      "among wielders of weapons I am Rama;",
+      "among aquatic creatures I am the alligator;",
+      "and among rivers I am the Ganges.",
+    ],
     transl: [
       "Among purifiers I am the wind; among wielders of weapons I am Rama; among aquatic creatures I am the shark/alligator; and among rivers I am the Ganges."
     ],
