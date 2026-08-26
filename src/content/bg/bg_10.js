@@ -1017,9 +1017,15 @@ const verses = [
       "अहम् आदिः च मध्यम् च भूतानाम् अन्तः एव च"
     ],
     anvaya: [
-      "हे गुडाकेश! सर्वभूताशयस्थितः आत्मा अहम्, भूतानाम् आदिः च मध्यम् च अन्तः एव च अहम् (अस्मि) ||"
+      "हे गुडाकेश!", 
+      "सर्वभूताशयस्थितः आत्मा अहम्", 
+      "भूतानाम् आदिः च मध्यम् च अन्तः एव च अहम् (अस्मि) |"
     ],
-    prose: [],
+    prose: [
+      "O Gudakesha (conquerer of sleep)",
+      "I am the Self, seated in the hearts of all living beings.",
+      "I am the beginning, the middle, and also the end of all entities.",
+    ],
     transl: [
       "I am the Self, O Gudakesha, seated in the hearts of all living beings. I am the beginning, the middle, and also the end of all entities."
     ],
