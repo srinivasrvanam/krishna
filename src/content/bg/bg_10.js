@@ -1126,9 +1126,17 @@ const verses = [
       "इन्द्रियाणाम् मनः च अस्मि भूतानाम् अस्मि चेतना"
     ],
     anvaya: [
-      "वेदानाम् सामवेदः अस्मि, देवानाम् वासवः अस्मि, इन्द्रियाणाम् मनः च अस्मि, भूतानाम् चेतना अस्मि ||"
+      "वेदानाम् सामवेदः अस्मि", 
+      "देवानाम् वासवः अस्मि", 
+      "इन्द्रियाणाम् मनः च अस्मि", 
+      "भूतानाम् चेतना अस्मि |"
     ],
-    prose: [],
+    prose: [
+      "Among the Vedas I am the Sama Veda;",
+      "among the demigods I am Indra;",
+      "among the senses I am the mind;",
+      "and in living beings I am consciousness.",
+    ],
     transl: [
       "Among the Vedas I am the Sama Veda; among the demigods I am Indra; among the senses I am the mind; and in living beings I am consciousness."
     ],
@@ -1174,9 +1182,17 @@ const verses = [
       "वसूनाम् पावकः च अस्मि मेरुः शिखरिणाम् अहम्"
     ],
     anvaya: [
-      "रुद्राणाम् शङ्करः च अस्मि, यक्षरक्षसाम् वित्तेशः, वसूनाम् पावकः च अस्मि, शिखरिणाम् अहम् मेरुः (अस्मि) ||"
+      "रुद्राणाम् शङ्करः च अस्मि", 
+      "यक्षरक्षसाम् वित्तेशः", 
+      "वसूनाम् पावकः च अस्मि", 
+      "शिखरिणाम् अहम् मेरुः (अस्मि) |"
     ],
-    prose: [],
+    prose: [
+      "Among the Rudras I am Shankara;",
+      "among the Yakshas and Rakshasas I am Kubera;",
+      "among the Vasus I am Agni;",
+      "and among mountains I am Meru.",
+    ],
     transl: [
       "Among the Rudras I am Shankara; among the Yakshas and Rakshasas I am Kubera; among the Vasus I am Agni; and among mountains I am Meru."
     ],
@@ -1222,9 +1238,17 @@ const verses = [
       "सेनानीनाम् अहम् स्कन्दः सरसाम् अस्मि सागरः"
     ],
     anvaya: [
-      "हे पार्थ! पुरोधसाम् मुख्यम् बृहस्पतिम् माम् विद्धि; सेनानीनाम् अहम् स्कन्दः, सरसाम् सागरः अस्मि ||"
+      "हे पार्थ!", 
+      "पुरोधसाम् मुख्यम् बृहस्पतिम् माम् विद्धि;", 
+      "सेनानीनाम् अहम् स्कन्दः", 
+      "सरसाम् सागरः अस्मि |"
     ],
-    prose: [],
+    prose: [
+      "O Partha",
+      "Among priests, know me to be the chief, Brihaspati;",
+      "among generals I am Skanda;",
+      "and among reservoirs of water I am the ocean.",
+    ],
     transl: [
       "Among priests, O Partha, know me to be the chief, Brihaspati; among generals I am Skanda; and among reservoirs of water I am the ocean."
     ],
