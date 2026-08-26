@@ -1678,9 +1678,17 @@ const verses = [
       "अध्यात्म-विद्या विद्यानाम् वादः प्रवदताम् अहम्"
     ],
     anvaya: [
-      "हे अर्जुन! सर्गाणाम् आदिः अन्तः च मध्यम् च एव अहम्, विद्यानाम् अध्यात्मविद्या, प्रवदताम् वादः अहम् (अस्मि) ||"
+      "हे अर्जुन!", 
+      "सर्गाणाम् आदिः अन्तः च मध्यम् च एव अहम्", 
+      "विद्यानाम् अध्यात्मविद्या", 
+      "प्रवदताम् वादः अहम् (अस्मि) |"
     ],
-    prose: [],
+    prose: [
+      "O Arjuna",
+      "Of creations I am the beginning, the end, and also the middle;",
+      "among sciences I am the spiritual science of the Self;",
+      "and among arguments I am the logical debate after truth.",
+    ],
     transl: [
       "Of creations I am the beginning, the end, and also the middle, O Arjuna; among sciences I am the spiritual science of the Self; and among arguments I am the logical debate after truth."
     ],
@@ -1727,9 +1735,17 @@ const verses = [
       "अहम् एव अक्षयः कालः धाता अहम् विश्वतः-मुखः"
     ],
     anvaya: [
-      "अक्षराणाम् अकारः अस्मि, सामासिकस्य च द्वन्द्वः, अहम् एव अक्षयः कालः, विश्वतोमुखः धाता अहम् (अस्मि) ||"
+      "अक्षराणाम् अकारः अस्मि", 
+      "सामासिकस्य च द्वन्द्वः", 
+      "अहम् एव अक्षयः कालः", 
+      "विश्वतोमुखः धाता अहम् (अस्मि) |"
     ],
-    prose: [],
+    prose: [
+      "Among letters I am the letter 'A';",
+      "among compound words I am the dual compound (Dvandva);",
+      "I alone am imperishable Time",
+      "and I am the all-facing Sustainer.",
+    ],
     transl: [
       "Among letters I am the letter 'A'; among compound words I am the dual compound (Dvandva); I alone am imperishable Time, and I am the all-facing Sustainer."
     ],
