@@ -1960,9 +1960,17 @@ const verses = [
       "मुनीनाम् अपि अहम् व्यासः कवीनाम् उशना कविः"
     ],
     anvaya: [
-      "वृष्णीनाम् वासुदेवः अस्मि, पाण्डवानाम् धनञ्जयः (अस्मि), मुनीनाम् अपि अहम् व्यासः, कवीनाम् उशना कविः (अस्मि) ||"
+      "वृष्णीनाम् वासुदेवः अस्मि", 
+      "पाण्डवानाम् धनञ्जयः (अस्मि)", 
+      "मुनीनाम् अपि अहम् व्यासः", 
+      "कवीनाम् उशना कविः (अस्मि) |"
     ],
-    prose: [],
+    prose: [
+      "Among the Vrishnis I am Vasudeva (Krishna);",
+      "among the Pandavas I am Dhananjaya (Arjuna);",
+      "among sages I am Vyasa;",
+      "and among thinkers/poets I am Ushana (Sukracharya).",
+    ],
     transl: [
       "Among the Vrishnis I am Vasudeva (Krishna); among the Pandavas I am Dhananjaya (Arjuna); among sages I am Vyasa; and among thinkers/poets I am Ushana (Sukracharya)."
     ],
@@ -2007,9 +2015,17 @@ const verses = [
       "मौनम् च एव अस्मि गुह्यानाम् ज्ञानम् ज्ञानवताम् अहम्"
     ],
     anvaya: [
-      "दमयताम् दण्डः अस्मि, जिगीषताम् नीतिः अस्मि, गुह्यानाम् मौनम् च एव अस्मि, ज्ञानवताम् ज्ञानम् अहम् (अस्मि) ||"
+      "दमयताम् दण्डः अस्मि", 
+      "जिगीषताम् नीतिः अस्मि", 
+      "गुह्यानाम् मौनम् च एव अस्मि", 
+      "ज्ञानवताम् ज्ञानम् अहम् (अस्मि) |"
     ],
-    prose: [],
+    prose: [
+      "I am the rod of punishment among enforcers;",
+      "I am statecraft among those who seek victory;",
+      "I am silence among secrets;",
+      "and I am the wisdom of the wise.",
+    ],
     transl: [
       "I am the rod of punishment among enforcers; I am statecraft among those who seek victory; I am silence among secrets; and I am the wisdom of the wise."
     ],
@@ -2056,9 +2072,15 @@ const verses = [
       "न तत् अस्ति बिना यत् स्यात् मया भूतम् चर-अचरम्"
     ],
     anvaya: [
-      "हे अर्जुन! सर्वभूतानाम् यत् बीजम्, तत् च अपि अहम् (अस्मि) | मया बिना यत् स्यात् तत् चराचरम् भूतम् न अस्ति ||"
+      "हे अर्जुन!", 
+      "सर्वभूतानाम् यत् बीजम्, तत् च अपि अहम् (अस्मि) |", 
+      "मया बिना यत् स्यात् तत् चराचरम् भूतम् न अस्ति ||"
     ],
-    prose: [],
+    prose: [
+      "O Arjuna",
+      "And whatever is the generating seed of all existences, that I am",
+      "No entity, moving or non-moving, can exist without Me.",
+    ],
     transl: [
       "And whatever is the generating seed of all existences, that I am, O Arjuna. No entity, moving or non-moving, can exist without Me."
     ],
@@ -2108,9 +2130,15 @@ const verses = [
       "एषः तु उद्देशतः प्रोक्तः विभूतेः विस्तारः मया"
     ],
     anvaya: [
-      "हे परन्तप! मम दिव्यानाम् विभूतीनाम् अन्तः न अस्ति | मया विभूतेः एषः विस्तारः तु उद्देशतः प्रोक्तः ||"
+      "हे परन्तप!", 
+      "मम दिव्यानाम् विभूतीनाम् अन्तः न अस्ति |", 
+      "मया विभूतेः एषः विस्तारः तु उद्देशतः प्रोक्तः ||"
     ],
-    prose: [],
+    prose: [
+      "O scorcher of foes.",
+      "There is no end to My divine opulences",
+      "What I have declared to you is merely a brief brief sample of My infinite manifestations.",
+    ],
     transl: [
       "There is no end to My divine opulences, O scorcher of foes. What I have declared to you is merely a brief brief sample of My infinite manifestations."
     ],
@@ -2157,9 +2185,13 @@ const verses = [
       "तत् तत् एव अवगच्छ त्वम् मम तेजः-अंश-सम्भवम्"
     ],
     anvaya: [
-      "यत् यत् विभूतिमत्, श्रीमत्, ऊर्जितम् एव वा सत्त्वम् (अस्ति), तत् तत् एव मम तेजोंशसम्भवम् त्वम् अवगच्छ ||"
+      "यत् यत् विभूतिमत्, श्रीमत्, ऊर्जितम् एव वा सत्त्वम् (अस्ति)", 
+      "तत् तत् एव मम तेजोंशसम्भवम् त्वम् अवगच्छ ||"
     ],
-    prose: [],
+    prose: [
+      "Whatever creature/manifestation possesses glory, beauty, or extraordinary power",
+      "know that to be born of a mere fragment of My splendor.",
+    ],
     transl: [
       "Whatever creature/manifestation possesses glory, beauty, or extraordinary power, know that to be born of a mere fragment of My splendor."
     ],
@@ -2205,9 +2237,15 @@ const verses = [
       "विष्टभ्य अहम् इदम् कृत्स्नम् एक-अंशेन स्थितः जगत्"
     ],
     anvaya: [
-      "अथवा हे अर्जुन! एतेन बहुना ज्ञातेन तव किम् (प्रयोजनम्)? अहम् एकांशेन इदम् कृत्स्नम् जगत् विष्टभ्य स्थितः (अस्मि) ||"
+      "अथवा हे अर्जुन!", 
+      "एतेन बहुना ज्ञातेन तव किम् (प्रयोजनम्)?", 
+      "अहम् एकांशेन इदम् कृत्स्नम् जगत् विष्टभ्य स्थितः (अस्मि) ||"
     ],
-    prose: [],
+    prose: [
+      "Besides, O Arjuna!",
+      "what need is there for all this detailed knowledge?",
+      "I continuously support and pervade this entire universe with a mere fraction of My being.",
+    ],
     transl: [
       "Besides, what need is there for all this detailed knowledge, O Arjuna? I continuously support and pervade this entire universe with a mere fraction of My being."
     ],
