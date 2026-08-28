@@ -1791,9 +1791,15 @@ const verses = [
       "कीर्तिः श्रीः वाक् च नारीणाम् स्मृतिः मेधा धृतिः क्षमा"
     ],
     anvaya: [
-      "अहम् सर्वहरः मृत्युः च, भविष्यताम् उद्भवः च, नारीणाम् कीर्तिः, श्रीः, वाक्, स्मृतिः, मेधा, धृतिः, क्षमा च (अस्मि) ||"
+      "अहम् सर्वहरः मृत्युः च", 
+      "भविष्यताम् उद्भवः च", 
+      "नारीणाम् कीर्तिः, श्रीः, वाक्, स्मृतिः, मेधा, धृतिः, क्षमा च (अस्मि) |"
     ],
-    prose: [],
+    prose: [
+      "I am all-devouring Death",
+      "and I am the origin of future beings;",
+      "among feminine qualities, I am fame, prosperity, speech, memory, intelligence, steadfastness, and forgiveness.",
+    ],
     transl: [
       "I am all-devouring Death, and I am the origin of future beings; among feminine qualities, I am fame, prosperity, speech, memory, intelligence, steadfastness, and forgiveness."
     ],
@@ -1842,9 +1848,17 @@ const verses = [
       "मासानाम् मार्गशीर्षः अहम् ऋतूनाम् कुसुमाकरः"
     ],
     anvaya: [
-      "तथा साम्नाम् बृहत्साम, छन्दसाम् अहम् गायत्री, मासानाम् अहम् मार्गशीर्षः, ऋतूनाम् कुसुमाकरः (अस्मि) ||"
+      "तथा साम्नाम् बृहत्साम", 
+      "छन्दसाम् अहम् गायत्री", 
+      "मासानाम् अहम् मार्गशीर्षः", 
+      "ऋतूनाम् कुसुमाकरः (अस्मि) |"
     ],
-    prose: [],
+    prose: [
+      "Among the Saman hymns I am the Brihat-Saman;",
+      "among poetic meters I am the Gayatri;",
+      "among months I am Margashirsha (Nov-Dec);",
+      "and among seasons I am spring, the flower-bearer.",
+    ],
     transl: [
       "Among the Saman hymns I am the Brihat-Saman; among poetic meters I am the Gayatri; among months I am Margashirsha; and among seasons I am spring, the flower-bearer."
     ],
@@ -1888,9 +1902,19 @@ const verses = [
       "जयः अस्मि व्यवसायः अस्मि सत्त्वम् सत्त्ववताम् अहम्"
     ],
     anvaya: [
-      "छलयताम् द्यूतम् अस्मि, तेजस्विनाम् तेजः अहम् (अस्मि), जयः अस्मि, व्यवसायः अस्मि, सत्त्ववताम् सत्त्वम् अहम् (अस्मि) ||"
+      "छलयताम् द्यूतम् अस्मि", 
+      "तेजस्विनाम् तेजः अहम् (अस्मि)", 
+      "जयः अस्मि", 
+      "व्यवसायः अस्मि", 
+      "सत्त्ववताम् सत्त्वम् अहम् (अस्मि) |"
     ],
-    prose: [],
+    prose: [
+      "I am the gambling of deceivers;",
+      "I am the splendor of the splendid;",
+      "I am victory;",
+      "I am resolve/effort;",
+      "and I am the goodness/purity of the good.",
+    ],
     transl: [
       "I am the gambling of deceivers; I am the splendor of the splendid; I am victory; I am resolve; and I am the goodness/purity of the good."
     ],
