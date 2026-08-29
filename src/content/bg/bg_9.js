@@ -611,9 +611,17 @@ const verses = [
       "राक्षसीम् आसुरीम् च एव प्रकृतिम् मोहिनीम् श्रिताः"
     ],
     anvaya: [
-      "मोघाशाः, मोघकर्माणः, मोघज्ञानाः, विचेतसः (ते) राक्षसीम् आसुरीम् च एव मोहिनीम् प्रकृतिम् श्रिताः (भवन्ति) ||"
+      "मोघाशाः", 
+      "मोघकर्माणः", 
+      "मोघज्ञानाः", 
+      "विचेतसः (ते) राक्षसीम् आसुरीम् च एव मोहिनीम् प्रकृतिम् श्रिताः (भवन्ति) ||"
     ],
-    prose: [],
+    prose: [
+      "Deluded with vain hopes", 
+      "futile actions", 
+      "and empty knowledge", 
+      "such bewildered minds embrace a demonic, atheistic, and deceitful nature."
+    ],
     transl: [
       "Deluded with vain hopes, futile actions, and empty knowledge, such bewildered minds embrace a demonic, atheistic, and deceitful nature."
     ],
@@ -657,9 +665,17 @@ const verses = [
       "भजन्ति अनन्य-मनसः ज्ञात्वा भूत-आदिम् अव्ययम्"
     ],
     anvaya: [
-      "हे पार्थ! तु दैवीम् प्रकृतिम् आश्रिताः महात्मानः माम् भूतादिम् अव्ययम् ज्ञात्वा अनन्यमनसः भजन्ति ||"
+      "हे पार्थ!", 
+      "तु दैवीम् प्रकृतिम् आश्रिताः महात्मानः", 
+      "माम् भूतादिम् अव्ययम् ज्ञात्वा", 
+      "अनन्यमनसः भजन्ति ||"
     ],
-    prose: [],
+    prose: [
+      "O Partha,",
+      "But the great souls, guided by My divine nature", 
+      "knowing Me as the imperishable source of all beings.",
+      "worship Me with single-minded focus", 
+    ],
     transl: [
       "But the great souls, O Partha, guided by My divine nature, worship Me with single-minded focus, knowing Me as the imperishable source of all beings."
     ],
@@ -704,9 +720,19 @@ const verses = [
       "नमस्यन्तः च माम् भक्त्या नित्य-युक्ताः उपासते"
     ],
     anvaya: [
-      "दृढव्रताः (ते) सततम् माम् कीर्तयन्तः, यतन्तः च, भक्त्या माम् नमस्यन्तः च नित्ययुक्ताः (सन्तः) उपासते ||"
+      "दृढव्रताः (ते)", 
+      "सततम् माम् कीर्तयन्तः", 
+      "यतन्तः च", 
+      "भक्त्या माम् नमस्यन्तः च", 
+      "नित्ययुक्ताः (सन्तः) उपासते ||"
     ],
-    prose: [],
+    prose: [
+      "Those who are firm in vows",
+      "Always glorifying Me,",
+      "striving",
+      "and bowing down to Me in devotion",
+      "they worship Me constantly absorbed in communion.",
+    ],
     transl: [
       "Always glorifying Me, striving with firm resolve, and bowing down to Me in devotion, they worship Me constantly absorbed in communion."
     ],
@@ -751,9 +777,15 @@ const verses = [
       "एकत्वेन पृथक्त्वेन बहुधा विश्वतः-मुखम्"
     ],
     anvaya: [
-      "अपि च अन्ये ज्ञानयज्ञेन यजन्तः एकत्वेन, पृथक्त्वेन, बहुधा (च) विश्वतोमुखम् माम् उपासते ||"
+      "अपि च अन्ये ज्ञानयज्ञेन यजन्तः", 
+      " एकत्वेन, पृथक्त्वेन, बहुधा (च) विश्वतोमुखम् माम्", 
+      "उपासते ||"
     ],
-    prose: [],
+    prose: [
+      "Others worshipping me through the sacrifice of wisdom",
+      "—conceiving Me as the One non-different (non-dual), as distinct (dual), or in manifold manifestations facing everywhere",
+      "worship Me",
+    ],
     transl: [
       "Others worship Me through the sacrifice of wisdom—conceiving Me as the One non-different, as distinct, or in manifold manifestations facing everywhere."
     ],
@@ -797,9 +829,25 @@ const verses = [
       "मन्त्रः अहम् अहम् एव आज्यम् अहम् अग्निः अहम् हुतम्"
     ],
     anvaya: [
-      "अहम् क्रतुः, अहम् यज्ञः, अहम् स्वधा, अहम् औषधम्, अहम् मन्त्रः, अहम् एव आज्यम्, अहम् अग्निः, अहम् हुतम् (अस्मि) ||"
+      "अहम् क्रतुः", 
+      "अहम् यज्ञः", 
+      "अहम् स्वधा", 
+      "अहम् औषधम्", 
+      "अहम् मन्त्रः", 
+      "अहम् एव आज्यम्", 
+      "अहम् अग्निः", 
+      "अहम् हुतम् (अस्मि) ||"
     ],
-    prose: [],
+    prose: [
+      "I am the Vedic ritual", 
+      "I am the sacrifice", 
+      "I am the ancestral offering", 
+      "I am the healing herb", 
+      "I am the sacred chant", 
+      "I am the clarified butter", 
+      "I am the fire", 
+      "and I am the oblation."
+    ],
     transl: [
       "I am the Vedic ritual, I am the sacrifice, I am the ancestral offering, I am the healing herb, I am the sacred chant, I am the clarified butter, I am the fire, and I am the oblation."
     ],
@@ -842,11 +890,13 @@ const verses = [
       "वेद्यम् पवित्रम् ओंकारः ऋक् साम यजुः एव च"
     ],
     anvaya: [
-      "अस्य जगतः पिता, माता, धाता, पितामहः अहम् | वेद्यम्, पवित्रम्, ओंकारः, ऋक्, साम, यजुः एव च (अहम् अस्मि) ||"
+      "अस्य जगतः पिता, माता, धाता, पितामहः अहम् |", 
+      "वेद्यम्, पवित्रम्, ओंकारः, ऋक्, साम, यजुः एव च (अहम् अस्मि) ||"
     ],
     prose: [],
     transl: [
-      "I am the father of this universe, the mother, the sustainer, and the grandfather. I am the object of knowledge, the purifier, the sacred syllable Om, and the Rig, Sama, and Yajur Vedas."
+      "I am the father of this universe, the mother, the sustainer, and the grandfather.", 
+      "I am the object of knowledge, the purifier, the sacred syllable Om, and the Rig, Sama, and Yajur Vedas."
     ],
     transl_tel: [
       "ఈ జగత్తుకు తండ్రిని, తల్లిని, పోషకుడిని (విధాతను), తాతను (పితామహుడిని) నేనే. తెలుసుకోదగిన పరమ సత్యము, పవిత్రం చేసేది, ప్రణవ నాదమైన 'ఓంకారం', అలాగే ఋక్, సామ, యజుర్వేదాలు కూడా నేనే."
@@ -894,7 +944,9 @@ const verses = [
     anvaya: [
       "गतिः, भर्ता, प्रभुः, साक्षी, निवासः, शरणम्, सुहृत्, प्रभवः, प्रलयः, स्थानम्, निधानम्, अव्ययम् बीजम् (च अहम् अस्मि) ||"
     ],
-    prose: [],
+    prose: [
+      "I am the goal, the sustainer, the master, the witness, the abode, the refuge, and the impartial friend. I am the origin, the dissolution, the foundation, the treasure-house, and the imperishable seed."
+    ],
     transl: [
       "I am the goal, the sustainer, the master, the witness, the abode, the refuge, and the impartial friend. I am the origin, the dissolution, the foundation, the treasure-house, and the imperishable seed."
     ],
@@ -940,9 +992,15 @@ const verses = [
       "अमृतम् च एव मृत्युः च सत् असत् च अहम् अर्जुन"
     ],
     anvaya: [
-      "हे अर्जुन! अहम् तपामि, अहम् वर्षम् निगृह्णामि उत्सृजामि च | अमृतम् च एव मृत्युः च सत् असत् च अहम् (अस्मि) ||"
+      "हे अर्जुन!", 
+      "अहम् तपामि, अहम् वर्षम् निगृह्णामि उत्सृजामि च |", 
+      "अमृतम् च एव मृत्युः च सत् असत् च अहम् (अस्मि) ||"
     ],
-    prose: [],
+    prose: [
+      "O Arjuna.",
+      "I radiate heat, and I withhold or send forth rain",
+      "I am immortality and death, and I am both the manifest existent and the unmanifest non-existent.",
+    ],
     transl: [
       "I radiate heat, and I withhold or send forth rain, O Arjuna. I am immortality and death, and I am both the manifest existent and the unmanifest non-existent."
     ],
