@@ -75,9 +75,23 @@ const verses = [
       "प्रत्यक्ष-अवगमम् धर्म्यम् सु-सुखम् कर्तुम् अव्ययम्"
     ],
     anvaya: [
-      "इदम् राजविद्या, राजगुह्यम्, उत्तमम् पवित्रम्, प्रत्यक्ष-अवगमम्, धर्म्यम्, कर्तुम् सुसुखम्, अव्ययम् (च अस्ति) ||"
+      "इदम् राजविद्या", 
+      "राजगुह्यम्", 
+      "उत्तमम् पवित्रम्", 
+      "प्रत्यक्ष-अवगमम्", 
+      "धर्म्यम्", 
+      "कर्तुम् सुसुखम्", 
+      "अव्ययम् (च अस्ति) |"
     ],
-    prose: [],
+    prose: [
+      "This knowledge is the king of sciences",
+      "the king of secrets",
+      "the supreme purifier.",
+      "It is directly realizable",
+      "righteous",
+      "very joyful to practice",
+      "and imperishable",
+    ],
     transl: [
       "This knowledge is the king of sciences, the king of secrets, the supreme purifier. It is directly realizable, righteous, very joyful to practice, and imperishable."
     ],
@@ -120,9 +134,17 @@ const verses = [
       "अप्राप्य माम् निवर्तन्ते मृत्यु-संसार-वर्त्मनि"
     ],
     anvaya: [
-      "हे परन्तप! अस्य धर्मस्य अश्रद्दधानाः पुरुषाः माम् अप्राप्य मृत्युसंसारवर्त्मनि निवर्तन्ते ||"
+      "हे परन्तप!", 
+      "अस्य धर्मस्य अश्रद्दधानाः पुरुषाः", 
+      "माम् अप्राप्य", 
+      "मृत्युसंसारवर्त्मनि निवर्तन्ते ||"
     ],
-    prose: [],
+    prose: [
+      "O scorcher of foes",
+      "Persons who lack faith in this spiritual path",
+      "fail to attain Me",
+      "and return repeatedly to the path of mortal existence.",
+    ],
     transl: [
       "Persons who lack faith in this spiritual path, O scorcher of foes, fail to attain Me and return repeatedly to the path of mortal existence."
     ],
@@ -164,9 +186,15 @@ const verses = [
       "मत्-स्थानि सर्व-भूतानि न च अहम् तेषु अवस्थितः"
     ],
     anvaya: [
-      "अव्यक्तमूर्तिना मया इदम् सर्वम् जगत् ततम्, सर्वभूतानि मत्स्थानि, अहम् च तेषु न अवस्थितः ||"
+      "अव्यक्तमूर्तिना मया इदम् सर्वम् जगत् ततम्", 
+      "सर्वभूतानि मत्स्थानि", 
+      "अहम् च तेषु न अवस्थितः |"
     ],
-    prose: [],
+    prose: [
+      "By Me, in My unmanifested form, this entire universe is pervaded.",
+      "All beings dwell in Me",
+      "but I do not dwell in them.",
+    ],
     transl: [
       "By Me, in My unmanifested form, this entire universe is pervaded. All beings dwell in Me, but I do not dwell in them."
     ],
@@ -212,9 +240,19 @@ const verses = [
       "भूत-भृत् न च भूत-स्थः मम आत्मा भूत-भावनः"
     ],
     anvaya: [
-      "न च भूतानि मत्स्थानि, मे ऐश्वरम् योगम् पश्य! मम आत्मा भूतभृत् भूतभावनः च (अस्ति), भूतस्थः न (अस्ति) ||"
+      "न च भूतानि मत्स्थानि", 
+      "मे ऐश्वरम् योगम् पश्य!", 
+      "मम आत्मा", 
+      "- भूतभृत् भूतभावनः च (अस्ति)", 
+      "- भूतस्थः न (अस्ति) ||"
     ],
-    prose: [],
+    prose: [
+      "And yet beings do not fundamentally rest in Me",
+      "behold My divine mystery!",
+      "My Self", 
+      "- is the origin and sustainer of all beings",
+      "- yet remains independent of them.",
+    ],
     transl: [
       "And yet beings do not fundamentally rest in Me—behold My divine mystery! My Self is the origin and sustainer of all beings, yet remains independent of them."
     ],
@@ -261,9 +299,15 @@ const verses = [
       "तथा सर्वाणि भूतानि मत्-स्थानि इति उपधारय"
     ],
     anvaya: [
-      "यथा सर्वत्रगः महान् वायुः नित्यम् आकाशस्थितः (भवति), तथा सर्वाणि भूतानि मत्स्थानि इति उपधारय ||"
+      "यथा सर्वत्रगः महान् वायुः नित्यम् आकाशस्थितः (भवति)", 
+      "तथा सर्वाणि भूतानि मत्स्थानि",
+      "इति उपधारय ||",
     ],
-    prose: [],
+    prose: [
+      "just as the mighty wind, blowing everywhere, rests always in space",
+      "so do all created beings rest in Me.",
+      "Understand that",
+    ],
     transl: [
       "Understand that just as the mighty wind, blowing everywhere, rests always in space, so do all created beings rest in Me."
     ],
@@ -308,9 +352,15 @@ const verses = [
       "कल्प-क्षये पुनः तानि कल्प-आदौ विसृजामि अहम्"
     ],
     anvaya: [
-      "हे कौन्तेय! सर्वभूतानि कल्पक्षये मामिकाम् प्रकृतिम् यान्ति, कल्पादौ तानि पुनः अहम् विसृजामि ||"
+      "हे कौन्तेय!", 
+      "सर्वभूतानि कल्पक्षये मामिकाम् प्रकृतिम् यान्ति", 
+      "कल्पादौ तानि पुनः अहम् विसृजामि |"
     ],
-    prose: [],
+    prose: [
+      "O son of Kunti",
+      "At the end of a cosmic cycle, all beings merge into My material nature;",
+      "at the beginning of the next cycle, I manifest them once again.",
+    ],
     transl: [
       "At the end of a cosmic cycle, O son of Kunti, all beings merge into My material nature; at the beginning of the next cycle, I manifest them once again."
     ],
@@ -354,9 +404,15 @@ const verses = [
       "भूत-ग्रामम् इमम् कृत्स्नम् अवशम् प्रकृतेः वशात्"
     ],
     anvaya: [
-      "स्वाम् प्रकृतिम् अवष्टभ्य प्रकृतेः वशात् अवशम् इमम् कृत्स्नम् भूतग्रामम् पुनः पुनः विसृजामि ||"
+      "स्वाम् प्रकृतिम् अवष्टभ्य", 
+      "प्रकृतेः वशात् अवशम् इमम् कृत्स्नम् भूतग्रामम्", 
+      "पुनः पुनः विसृजामि ||"
     ],
-    prose: [],
+    prose: [
+      "Presiding over My material nature", 
+      "this entire multitude of beings, who are helpless under the sway of nature's laws.",
+      "I project (create) again and again ",
+    ],
     transl: [
       "Presiding over My material nature, I project again and again this entire multitude of beings, who are helpless under the sway of nature's laws."
     ],
@@ -399,9 +455,15 @@ const verses = [
       "उदासीनवत् आसीनम् असक्तम् तेषु कर्मसु"
     ],
     anvaya: [
-      "हे धनञ्जय! तेषु कर्मसु असक्तम् उदासीनवत् आसीनम् माम् तानि कर्माणि न च निबध्नन्ति ||"
+      "हे धनञ्जय!", 
+      "तानि कर्माणि न च निबध्नन्ति ||",
+      "तेषु कर्मसु असक्तम् उदासीनवत् आसीनम् माम्", 
     ],
-    prose: [],
+    prose: [
+      "O Dhananjaya",
+      "These cosmic activities do not bind Me",
+      "for I remain detached from them, seated like one neutral.",
+    ],
     transl: [
       "These cosmic activities do not bind Me, O Dhananjaya, for I remain detached from them, seated like one neutral."
     ],
@@ -446,9 +508,15 @@ const verses = [
       "हेतुना अनेन कौन्तेय जगत् विपरिवर्तते"
     ],
     anvaya: [
-      "हे कौन्तेय! मया अध्यक्षेण प्रकृतिः सचराचरम् सूयते, अनेन हेतुना जगत् विपरिवर्तते ||"
+      "हे कौन्तेय!", 
+      "मया अध्यक्षेण प्रकृतिः सचराचरम् सूयते", 
+      "अनेन हेतुना जगत् विपरिवर्तते ||"
     ],
-    prose: [],
+    prose: [
+      "O son of Kunti,",
+      "Under My supervision, material nature produces all moving and non-moving beings.",
+      "For this reason, the world continues to revolve.",
+    ],
     transl: [
       "Under My supervision, material nature produces all moving and non-moving beings. For this reason, O son of Kunti, the world continues to revolve."
     ],
@@ -491,9 +559,15 @@ const verses = [
       "परम् भावम् अजानन्तः मम भूत-महेश्वरम्"
     ],
     anvaya: [
-      "मम भूत-महेश्वरम् परम् भावम् अजानन्तः मूढाः मानुषीम् तनुम् आश्रितम् माम् अवजानन्ति ||"
+      "मम भूत-महेश्वरम् परम् भावम् अजानन्तः मूढाः", 
+      "मानुषीम् तनुम् आश्रितम् माम्", 
+      "अवजानन्ति ||"
     ],
-    prose: [],
+    prose: [
+      "Deluded beings (fools) who doesn't know my supreme nature as the Great Lord of all beings",
+      "me, when I descend in a human form",
+      "don't understand (me)",
+    ],
     transl: [
       "Fools deride Me when I descend in a human form, unaware of My supreme nature as the Great Lord of all beings."
     ],
