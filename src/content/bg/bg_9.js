@@ -893,10 +893,12 @@ const verses = [
       "अस्य जगतः पिता, माता, धाता, पितामहः अहम् |", 
       "वेद्यम्, पवित्रम्, ओंकारः, ऋक्, साम, यजुः एव च (अहम् अस्मि) ||"
     ],
-    prose: [],
-    transl: [
+    prose: [
       "I am the father of this universe, the mother, the sustainer, and the grandfather.", 
       "I am the object of knowledge, the purifier, the sacred syllable Om, and the Rig, Sama, and Yajur Vedas."
+    ],
+    transl: [
+      "I am the father of this universe, the mother, the sustainer, and the grandfather. I am the object of knowledge, the purifier, the sacred syllable Om, and the Rig, Sama, and Yajur Vedas."
     ],
     transl_tel: [
       "ఈ జగత్తుకు తండ్రిని, తల్లిని, పోషకుడిని (విధాతను), తాతను (పితామహుడిని) నేనే. తెలుసుకోదగిన పరమ సత్యము, పవిత్రం చేసేది, ప్రణవ నాదమైన 'ఓంకారం', అలాగే ఋక్, సామ, యజుర్వేదాలు కూడా నేనే."
@@ -942,10 +944,12 @@ const verses = [
       "प्रभवः प्रलयः स्थानम् निधानम् बीजम् अव्ययम्"
     ],
     anvaya: [
-      "गतिः, भर्ता, प्रभुः, साक्षी, निवासः, शरणम्, सुहृत्, प्रभवः, प्रलयः, स्थानम्, निधानम्, अव्ययम् बीजम् (च अहम् अस्मि) ||"
+      "गतिः, भर्ता, प्रभुः, साक्षी, निवासः, शरणम्, सुहृत्", 
+      "प्रभवः, प्रलयः, स्थानम्, निधानम्, अव्ययम् बीजम् (च अहम् अस्मि) ||"
     ],
     prose: [
-      "I am the goal, the sustainer, the master, the witness, the abode, the refuge, and the impartial friend. I am the origin, the dissolution, the foundation, the treasure-house, and the imperishable seed."
+      "I am the goal, the sustainer, the master, the witness, the abode, the refuge, and the impartial friend.", 
+      "I am the origin, the dissolution, the foundation, the treasure-house, and the imperishable seed."
     ],
     transl: [
       "I am the goal, the sustainer, the master, the witness, the abode, the refuge, and the impartial friend. I am the origin, the dissolution, the foundation, the treasure-house, and the imperishable seed."
