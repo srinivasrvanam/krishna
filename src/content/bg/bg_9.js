@@ -18,9 +18,17 @@ const verses = [
       "ज्ञानम् विज्ञान-सहितम् यत् ज्ञात्वा मोक्ष्यसे अशुभात्"
     ],
     anvaya: [
-      "श्रीभगवान् उवाच— अनसूयवे ते इदम् तु गुह्यतमम् विज्ञानसहितम् ज्ञानम् प्रवक्ष्यामि, यत् ज्ञात्वा अशुभात् मोक्ष्यसे ||"
+      "श्रीभगवान् उवाच—", 
+      "अनसूयवे ते", 
+      "इदम् तु गुह्यतमम् विज्ञानसहितम् ज्ञानम् प्रवक्ष्यामि", 
+      "यत् ज्ञात्वा अशुभात् मोक्ष्यसे |"
     ],
-    prose: [],
+    prose: [
+      "The Supreme Lord said:",
+      "To you, who is non-envious",
+      "I shall impart this most secret knowledge along with direct realization, ",
+      "knowing which you shall be freed from all worldly miseries.",
+    ],
     transl: [
       "The Supreme Lord said: Because you are non-envious, I shall impart to you this most secret knowledge along with direct realization, knowing which you shall be freed from all worldly miseries."
     ],
