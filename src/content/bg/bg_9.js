@@ -1054,9 +1054,15 @@ const verses = [
       "अश्नन्ति दिव्यान् दिवि देव-भोगान्"
     ],
     anvaya: [
-      "त्रैविद्याः सोमपाः पूतपापाः (जनाः) यज्ञैः माम् इष्ट्वा स्वर्गतिम् प्रार्थयन्ते; ते पुण्यम् सुरेन्द्रलोकम् आसाद्य दिवि दिव्यान् देवभोगान् अश्नन्ति ||"
+      "त्रैविद्याः सोमपाः पूतपापाः (जनाः)", 
+      "यज्ञैः माम् इष्ट्वा स्वर्गतिम् प्रार्थयन्ते;", 
+      "ते पुण्यम् सुरेन्द्रलोकम् आसाद्य दिवि दिव्यान् देवभोगान् अश्नन्ति ||"
     ],
-    prose: [],
+    prose: [
+      "Those who study the three Vedas, drink the Soma juice, and are cleansed of sins", 
+      "worship Me through sacrifices to seek heaven.", 
+      "They having Reached the holy realm of Indra, enjoy the divine pleasures of the gods in heaven."
+    ],
     transl: [
       "Those who study the three Vedas, drink the Soma juice, and are cleansed of sins worship Me through sacrifices to seek heaven. Reaching the holy realm of Indra, they enjoy the divine pleasures of the gods."
     ],
@@ -1111,9 +1117,15 @@ const verses = [
       "गत-आगतम् काम-कामाः लभन्ते"
     ],
     anvaya: [
-      "ते तम् विशालम् स्वर्गलोकम् भुक्त्वा पुण्ये क्षीणे (सति) मर्त्यलोकम् विशन्ति; एवम् त्रयीधर्मम् अनुप्रपन्नाः काम-कामाः गतागतम् लभन्ते ||"
+      "ते तम् विशालम् स्वर्गलोकम् भुक्त्वा", 
+      "पुण्ये क्षीणे (सति) मर्त्यलोकम् विशन्ति;", 
+      "एवम् त्रयीधर्मम् अनुप्रपन्नाः काम-कामाः गतागतम् लभन्ते ||"
     ],
-    prose: [],
+    prose: [
+      "Having enjoyed that vast heavenly world,", 
+      "they re-enter the mortal world when their merit is exhausted.", 
+      "Thus, following the Vedic rituals with desires, those who seek pleasures attain only repeated going and coming."
+    ],
     transl: [
       "Having enjoyed that vast heavenly world, they re-enter the mortal world when their merit is exhausted. Thus, following the Vedic rituals with desires, those who seek pleasures attain only repeated going and coming."
     ],
@@ -1161,9 +1173,13 @@ const verses = [
       "तेषाम नित्य-अभियुक्तानाम् योग-क्षेमम् वहामि अहम्"
     ],
     anvaya: [
-      "ये जनाः अनन्याः (सन्तः) माम् चिन्तयन्तः पर्युपासते, तेषाम् नित्याभियुक्तानाम् योगक्षेमम् अहम् वहामि ||"
+      "ये जनाः अनन्याः (सन्तः) माम् चिन्तयन्तः पर्युपासते", 
+      "तेषाम् नित्याभियुक्तानाम् योगक्षेमम् अहम् वहामि ||"
     ],
-    prose: [],
+    prose: [
+      "To those who always worship Me with exclusive devotion, meditating on Me", 
+      "I personally carry what they lack and preserve what they possess."
+    ],
     transl: [
       "To those who always worship Me with exclusive devotion, meditating on Me, I personally carry what they lack and preserve what they possess."
     ],
@@ -1208,9 +1224,15 @@ const verses = [
       "ते अपि माम् एव कौन्तेय यजन्ति अविधि-पूर्वकम्"
     ],
     anvaya: [
-      "हे कौन्तेय! ये अपि अन्य-देवता-भक्ताः श्रद्धया अन्विताः (सन्तः) यजन्ते, ते अपि अविधिपूर्वकम् माम् एव यजन्ति ||"
+      "हे कौन्तेय!", 
+      "ये अपि अन्य-देवता-भक्ताः श्रद्धया अन्विताः (सन्तः) यजन्ते", 
+      "ते अपि अविधिपूर्वकम् माम् एव यजन्ति ||"
     ],
-    prose: [],
+    prose: [
+      "O son of Kunti", 
+      "Even those who are devotees of other deities and worship them with faith", 
+      "actually worship Me alone, but in an improper manner."
+    ],
     transl: [
       "Even those who are devotees of other deities and worship them with faith, O son of Kunti, actually worship Me alone, but in an improper manner."
     ],
@@ -1256,9 +1278,15 @@ const verses = [
       "न तु माम् अभिजानन्ति तत्त्वेन अतः च्यवन्ति ते"
     ],
     anvaya: [
-      "अहम् हि सर्वयज्ञानाम् भोक्ता च प्रभुः एव च (अस्मि), तु ते माम् तत्त्वेन न अभिजानन्ति, अतः (ते) च्यवन्ति ||"
+      "अहम् हि सर्वयज्ञानाम् भोक्ता च प्रभुः एव च (अस्मि)", 
+      "तु ते माम् तत्त्वेन न अभिजानन्ति", 
+      "अतः (ते) च्यवन्ति ||"
     ],
-    prose: [],
+    prose: [
+      "For I am the sole enjoyer and Lord of all sacrifices.",
+      "But because they do not know Me in reality,",
+      "they fall back into material existence.",
+    ],
     transl: [
       "For I am the sole enjoyer and Lord of all sacrifices. But because they do not know Me in reality, they fall back into material existence."
     ],
@@ -1307,9 +1335,17 @@ const verses = [
       "भूतानि यान्ति भूत-इज्याः यान्ति मत्-याजिनः अपि माम्"
     ],
     anvaya: [
-      "देवव्रताः देवान् यान्ति, पितृव्रताः पितॄन् यान्ति, भूतेज्याः भूतानि यान्ति, मत्-याजिनः अपि माम् यान्ति ||"
+      "देवव्रताः देवान् यान्ति", 
+      "पितृव्रताः पितॄन् यान्ति", 
+      "भूतेज्याः भूतानि यान्ति", 
+      "मत्-याजिनः अपि माम् यान्ति ||"
     ],
-    prose: [],
+    prose: [
+      "Worshippers of the demigods go to the demigods",
+      "worshippers of ancestors go to the ancestors",
+      "worshippers of spirits go to the spirits",
+      "and My devotees come to Me.",
+    ],
     transl: [
       "Worshippers of the demigods go to the demigods, worshippers of ancestors go to the ancestors, worshippers of spirits go to the spirits, and My devotees come to Me."
     ],
@@ -1352,9 +1388,13 @@ const verses = [
       "तत् अहम् भक्ति-उपहृतम् अश्नामि प्रयत-आत्मनः"
     ],
     anvaya: [
-      "यः मे भक्त्या पत्रम् पुष्पम् फलम् तोयम् (वा) प्रयच्छति, प्रयतात्मनः भक्ति-उपहृतम् तत् अहम् अश्नामि ||"
+      "यः मे भक्त्या पत्रम् पुष्पम् फलम् तोयम् (वा) प्रयच्छति", 
+      "प्रयतात्मनः भक्ति-उपहृतम् तत् अहम् अश्नामि ||"
     ],
-    prose: [],
+    prose: [
+      "Whoever offers Me with devotion a leaf, a flower, a fruit, or water", 
+      "I accept that offering of love from the pure-minded soul."
+    ],
     transl: [
       "Whoever offers Me with devotion a leaf, a flower, a fruit, or water, I accept that offering of love from the pure-minded soul."
     ],
@@ -1400,9 +1440,23 @@ const verses = [
       "यत् तपस्यसि कौन्तेय तत् कुरुष्व मत्-अर्पणम्"
     ],
     anvaya: [
-      "हे कौन्तेय! यत् करोषि, यत् अश्नासि, यत् जुहोषि, यत् ददासि, यत् तपस्यसि, तत् मदर्पणम् कुरुष्व ||"
+      "हे कौन्तेय!", 
+      "यत् करोषि", 
+      "यत् अश्नासि", 
+      "यत् जुहोषि", 
+      "यत् ददासि", 
+      "यत् तपस्यसि", 
+      "तत् मदर्पणम् कुरुष्व ||"
     ],
-    prose: [],
+    prose: [
+      "O son of Kunti !", 
+      "Whatever you do", 
+      "whatever you eat", 
+      "whatever you offer in sacrifice", 
+      "whatever you give away", 
+      "and whatever austerities you perform", 
+      "do that as an offering unto Me."
+    ],
     transl: [
       "Whatever you do, whatever you eat, whatever you offer in sacrifice, whatever you give away, and whatever austerities you perform, O son of Kunti, do that as an offering unto Me."
     ],
@@ -1449,9 +1503,13 @@ const verses = [
       "संन्यास-योग-युक्त-आत्मा विमुक्तः माम् उपैष्यसि"
     ],
     anvaya: [
-      "एवम् (सर्वम् मयि अर्पित्वा) शुभ-अशुभ-फलैः कर्मबन्धनैः मोक्ष्यसे; संन्यासयोगयुक्तात्मा (त्वम्) विमुक्तः (सन्) माम् उपैष्यसि ||"
+      "एवम् (सर्वम् मयि अर्पित्वा) शुभ-अशुभ-फलैः कर्मबन्धनैः मोक्ष्यसे;", 
+      "संन्यासयोगयुक्तात्मा (त्वम्) विमुक्तः (सन्) माम् उपैष्यसि ||"
     ],
-    prose: [],
+    prose: [
+      "By doing so, you will be freed from the bonds of karma that produce good and evil results.", 
+      "With your mind attuned to the yoga of renunciation, liberated, you will come to Me."
+    ],
     transl: [
       "By doing so, you will be freed from the bonds of karma that produce good and evil results. With your mind attuned to the yoga of renunciation, liberated, you will come to Me."
     ],
@@ -1493,9 +1551,17 @@ const verses = [
       "ये भजन्ति तु माम् भक्त्या मयि ते तेषु च अपि अहम्"
     ],
     anvaya: [
-      "अहम् सर्वभूतेषु समः (अस्मि), मे द्वेष्यः न अस्ति, प्रियः न (अस्ति) | तु ये भक्त्या माम् भजन्ति, ते मयि (सन्ति), अहम् च अपि तेषु (अस्मि) ||"
+      "अहम् सर्वभूतेषु समः (अस्मि)", 
+      "मे द्वेष्यः न अस्ति, प्रियः न (अस्ति) |", 
+      "तु ये भक्त्या माम् भजन्ति", 
+      "ते मयि (सन्ति), अहम् च अपि तेषु (अस्मि) ||"
     ],
-    prose: [],
+    prose: [
+      "I am equally present in all beings;", 
+      "to Me, none is hateful or dear.", 
+      "But those who worship Me with devotion", 
+      "they abide in Me, and I am also in them."
+    ],
     transl: [
       "I am equally present in all beings; to Me, none is hateful or dear. But those who worship Me with devotion abide in Me, and I am also in them."
     ],
@@ -1548,9 +1614,15 @@ const verses = [
       "साधुः एव सः मन्तव्यः सम्यक् व्यवसितः हि सः"
     ],
     anvaya: [
-      "अपि चेत् सुदुराचारः अनन्यभाक् (सन्) माम् भजते, सः साधुः एव मन्तव्यः, हि सः सम्यक् व्यवसितः (अस्ति) ||"
+      "अपि चेत् सुदुराचारः अनन्यभाक् (सन्) माम् भजते", 
+      "सः साधुः एव मन्तव्यः", 
+      "हि सः सम्यक् व्यवसितः (अस्ति) ||"
     ],
-    prose: [],
+    prose: [
+      "Even if a person of worst conduct worships Me with unswerving devotion", 
+      "he must be regarded as righteous", 
+      "for he has resolved rightly."
+    ],
     transl: [
       "Even if a person of worst conduct worships Me with unswerving devotion, he must be regarded as righteous, for he has resolved rightly."
     ],
@@ -1596,9 +1668,17 @@ const verses = [
       "कौन्तेय प्रतिजानीहि न मे भक्तः प्रणश्यति"
     ],
     anvaya: [
-      "हे कौन्तेय! (सः) क्षिप्रम् धर्मात्मा भवति, शश्वत् शान्तिम् निगच्छति; मे भक्तः न प्रणश्यति (इति) प्रतिजानीहि ||"
+      "हे कौन्तेय!", 
+      "(सः) क्षिप्रम् धर्मात्मा भवति", 
+      "शश्वत् शान्तिम् निगच्छति;", 
+      "मे भक्तः न प्रणश्यति (इति) प्रतिजानीहि ||"
     ],
-    prose: [],
+    prose: [
+      "O son of Kunti, ",
+      "He quickly becomes righteous", 
+      "and attains lasting peace.", 
+      "declare it boldly that My devotee never perishes."
+    ],
     transl: [
       "He quickly becomes righteous and attains lasting peace. O son of Kunti, declare it boldly that My devotee never perishes."
     ],
@@ -1643,9 +1723,15 @@ const verses = [
       "स्त्रियः वैश्याः तथा शूद्राः ते अपि यान्ति पराम् गतिम्"
     ],
     anvaya: [
-      "हे पार्थ! ये अपि पापयोनयः, स्त्रियः, वैश्याः, तथा शूद्राः स्युः, ते अपि माम् व्यपाश्रित्य पराम् गतिम् यान्ति हि ||"
+      "हे पार्थ!", 
+      "ये अपि पापयोनयः, स्त्रियः, वैश्याः, तथा शूद्राः स्युः", 
+      "ते अपि माम् व्यपाश्रित्य पराम् गतिम् यान्ति हि ||"
     ],
-    prose: [],
+    prose: [
+      "O Partha, ",
+      "even those of low birth, women, merchants, as well as laborers—",
+      "For taking refuge in Me, attain the supreme destination."
+    ],
     transl: [
       "For taking refuge in Me, O Partha, even those of low birth—women, merchants, as well as laborers—attain the supreme destination."
     ],
@@ -1695,9 +1781,13 @@ const verses = [
       "अनित्यम् असुखम् लोकम् इमम् प्राप्य भजस्व माम्"
     ],
     anvaya: [
-      "पुण्याः ब्राह्मणाः तथा भक्ताः राजर्षयः (माम् प्राप्नुवन्ति इति) किम् पुनः? (अतः) इमम् अनित्यम् असुखम् लोकम् प्राप्य माम् भजस्व ||"
+      "पुण्याः ब्राह्मणाः तथा भक्ताः राजर्षयः (माम् प्राप्नुवन्ति इति) किम् पुनः?", 
+      "(अतः) इमम् अनित्यम् असुखम् लोकम् प्राप्य माम् भजस्व ||"
     ],
-    prose: [],
+    prose: [
+      "How much more then for holy Brahmins and devoted royal sages!", 
+      "Having come into this temporary and joyless world, engage yourself in My devotion."
+    ],
     transl: [
       "How much more then for holy Brahmins and devoted royal sages! Having come into this temporary and joyless world, engage yourself in My devotion."
     ],
@@ -1743,9 +1833,19 @@ const verses = [
       "माम् एव एष्यसि युक्त्वा आत्मानम् मत्-परायणः"
     ],
     anvaya: [
-      "मन्मनाः भव, मद्भक्तः (भव), मद्याजी (भव), माम् नमस्कुरु | एवम् मत्परायणः (सन्) आत्मानम् युक्त्वा माम् एव एष्यसि ||"
+      "मन्मनाः भव", 
+      "मद्भक्तः (भव)", 
+      "मद्याजी (भव)", 
+      "माम् नमस्कुरु |", 
+      "एवम् मत्परायणः (सन्) आत्मानम् युक्त्वा माम् एव एष्यसि ||"
     ],
-    prose: [],
+    prose: [
+      "Become one whose mind is fixed on me",
+      "Become my devotee",
+      "Become one who worships me",
+      "and bow down to me",
+      "Having aligned your soul thus with Me as the ultimate goal, you shall surely come to Me.",
+    ],
     transl: [
       "Fix your mind on Me, be devoted to Me, offer service to Me, and bow down to Me. Having aligned your soul thus with Me as the ultimate goal, you shall surely come to Me."
     ],
