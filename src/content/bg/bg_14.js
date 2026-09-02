@@ -292,9 +292,15 @@ const verses = [
       "सुख-सङ्गेन बध्नाति ज्ञान-सङ्गेन च अनघ"
     ],
     anvaya: [
-      "हे अनघ! तत्र सत्त्वम् निर्मलत्वात् प्रकाशकम् अनामयम् (भवति); (तत्) सुखसङ्गेन ज्ञानसङ्गेन च (देहिनम्) बध्नाति ||"
+      "हे अनघ!", 
+      "तत्र सत्त्वम् निर्मलत्वात् प्रकाशकम् अनामयम् (भवति);", 
+      "(तत्) सुखसङ्गेन ज्ञानसङ्गेन च (देहिनम्) बध्नाति ||"
     ],
-    prose: [],
+    prose: [
+      "O sinless one.",
+      "Among these, Sattva (the mode of goodness), being pure, illuminating, and free from disease", 
+      "binds the soul through attachment to happiness and attachment to knowledge, "
+    ],
     transl: [
       "Among these, Sattva (the mode of goodness), being pure, illuminating, and free from disease, binds the soul through attachment to happiness and attachment to knowledge, O sinless one."
     ],
@@ -337,9 +343,15 @@ const verses = [
       "तत् निबध्नाति कौन्तेय कर्म-सङ्गेन देहिनम्"
     ],
     anvaya: [
-      "हे कौन्तेय! रजः रागात्मकम् तृष्णासङ्गसमुद्भवम् विद्धि; तत् कर्मसङ्गेन देहिनम् निबध्नाति ||"
+      "हे कौन्तेय!", 
+      "रजः रागात्मकम् तृष्णासङ्गसमुद्भवम् विद्धि;", 
+      "तत् कर्मसङ्गेन देहिनम् निबध्नाति ||"
     ],
-    prose: [],
+    prose: [
+      "O son of Kunti, ",
+      "Know Rajo-guna (the mode of passion) to be characterized by passion, arising from intense desire and attachment.", 
+      "it binds the embodied soul by attachment to fruitive action."
+    ],
     transl: [
       "Know Rajo-guna (the mode of passion) to be characterized by passion, arising from intense desire and attachment. O son of Kunti, it binds the embodied soul by attachment to fruitive action."
     ],
