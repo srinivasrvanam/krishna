@@ -18,9 +18,15 @@ const verses = [
       "यत् ज्ञात्वा मुनयः सर्वे पराम् सिद्धिम् इतः गताः"
     ],
     "anvaya": [
-      "श्रीभगवान् उवाच - ज्ञानानाम् उत्तमम् परम् ज्ञानम् (अहम्) भूयः प्रवक्ष्यामि, यत् ज्ञात्वा सर्वे मुनयः इतः पराम् सिद्धिम् गताः ||"
+      "श्रीभगवान् उवाच -", 
+      "ज्ञानानाम् उत्तमम् परम् ज्ञानम् (अहम्) भूयः प्रवक्ष्यामि", 
+      "यत् ज्ञात्वा सर्वे मुनयः इतः पराम् सिद्धिम् गताः ||"
     ],
-    "prose": [],
+    "prose": [
+      "The Supreme Lord said:", 
+      "I shall again declare to you that supreme wisdom, the best of all knowledge", 
+      "knowing which all sages have attained the ultimate perfection beyond this world."
+    ],
     "transl": [
       "The Supreme Lord said: I shall again declare to you that supreme wisdom, the best of all knowledge, knowing which all sages have attained the ultimate perfection beyond this world."
     ],
@@ -68,9 +74,17 @@ const verses = [
       "सर्गे अपि न उपजायन्ते प्रलये न व्यथन्ति च"
     ],
     anvaya: [
-      "इदम् ज्ञानम् उपाश्रित्य मम साधर्म्यम् आगताः (जनाः) सर्गे अपि न उपजायन्ते, प्रलये च न व्यथन्ति ||"
+      "इदम् ज्ञानम् उपाश्रित्य", 
+      "मम साधर्म्यम् आगताः (जनाः)", 
+      "सर्गे अपि न उपजायन्ते", 
+      "प्रलये च न व्यथन्ति ||"
     ],
-    prose: [],
+    prose: [
+      "By taking refuge in this wisdom", 
+      "having attained unity with My divine nature", 
+      "they are neither born at the time of creation", 
+      "nor disturbed at the time of dissolution."
+    ],
     transl: [
       "By taking refuge in this wisdom, having attained unity with My divine nature, they are neither born at the time of creation nor disturbed at the time of dissolution."
     ],
@@ -117,9 +131,17 @@ const verses = [
       "सम्भवः सर्व-भूतानाम् ततः भवति भारत"
     ],
     anvaya: [
-      "हे भारत! महत् ब्रह्म मम योनिः (अस्ति), तस्मिन् अहम् गर्भम् दधामि; ततः सर्वभूतानाम् सम्भवः भवति ||"
+      "हे भारत!", 
+      "महत् ब्रह्म मम योनिः (अस्ति)", 
+      "तस्मिन् अहम् गर्भम् दधामि;", 
+      "ततः सर्वभूतानाम् सम्भवः भवति |"
     ],
-    prose: [],
+    prose: [
+      "O descendant of Bharata.",
+      "My womb is the great material nature (Mahat-Brahma);", 
+      "into that I place the seed of life", 
+      "from which arises the birth of all beings,"
+    ],
     transl: [
       "My womb is the great material nature (Mahat-Brahma); into that I place the seed of life, from which arises the birth of all beings, O descendant of Bharata."
     ],
@@ -164,9 +186,17 @@ const verses = [
       "तासाम् ब्रह्म महत् योनिः अहम् बीज-प्रदः पिता"
     ],
     anvaya: [
-      "हे कौन्तेय! सर्वयोनिषु याः मूर्तयः सम्भवन्ति, तासाम् महत् ब्रह्म योनिः (अस्ति), अहम् बीजप्रदः पिता (अस्मि) ||"
+      "हे कौन्तेय!", 
+      "सर्वयोनिषु याः मूर्तयः सम्भवन्ति", 
+      "तासाम् महत् ब्रह्म योनिः (अस्ति)", 
+      "अहम् बीजप्रदः पिता (अस्मि) ||"
     ],
-    prose: [],
+    prose: [
+      "O son of Kunti!",
+      "Whatever forms are produced in all species of life", 
+      "the great material nature is their mother womb", 
+      "and I am the seed-giving father."
+    ],
     transl: [
       "Whatever forms are produced in all species of life, O son of Kunti, the great material nature is their mother womb, and I am the seed-giving father."
     ],
@@ -210,9 +240,15 @@ const verses = [
       "निबध्नन्ति महा-बाहो देहे देहिनम् अव्ययम्"
     ],
     anvaya: [
-      "हे महाबाहो! प्रकृतिसम्भवाः सत्त्वम् रजः तमः इति गुणाः अव्ययम् देहिनम् देहे निबध्नन्ति ||"
+      "हे महाबाहो!", 
+      "प्रकृतिसम्भवाः सत्त्वम् रजः तमः इति गुणाः", 
+      "अव्ययम् देहिनम् देहे निबध्नन्ति ||"
     ],
-    prose: [],
+    prose: [
+      "O mighty-armed Arjuna.",
+      "Sattva (goodness), Rajas (passion), and Tamas (ignorance)—these three modes born of material nature", 
+      "bind the immortal soul within the mortal body, "
+    ],
     transl: [
       "Sattva (goodness), Rajas (passion), and Tamas (ignorance)—these three modes born of material nature bind the immortal soul within the mortal body, O mighty-armed Arjuna."
     ],
