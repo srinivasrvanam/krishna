@@ -393,9 +393,15 @@ const verses = [
       "प्रमाद-आलस्य-निद्राभिः तत् निबध्नाति भारत"
     ],
     anvaya: [
-      "हे भारत! तमः तु अज्ञानजम् सर्वदेहिनाम् मोहनम् विद्धि; तत् प्रमाद-आलस्य-निद्राभिः (देहिनम्) निबध्नाति ||"
+      "हे भारत!", 
+      "तमः तु अज्ञानजम् सर्वदेहिनाम् मोहनम् विद्धि;", 
+      "तत् प्रमाद-आलस्य-निद्राभिः (देहिनम्) निबध्नाति ||"
     ],
-    prose: [],
+    prose: [
+      "O descendant of Bharata", 
+      "Know Tamas (the mode of ignorance) to be born of ignorance, delusion to all embodied beings.", 
+      "it binds the soul through negligence, indolence, and sleep."
+    ],
     transl: [
       "Know Tamas (the mode of ignorance) to be born of ignorance, delusion to all embodied beings. O descendant of Bharata, it binds the soul through negligence, indolence, and sleep."
     ],
@@ -438,9 +444,17 @@ const verses = [
       "ज्ञानम् आवृत्य तु तमः प्रमादे सञ्जयति उत"
     ],
     anvaya: [
-      "हे भारत! सत्त्वम् सुखे सञ्जयति, रजः कर्मणि (सञ्जयति); तमः तु ज्ञानम् आवृत्य प्रमादे उत सञ्जयति ||"
+      "हे भारत!", 
+      "सत्त्वम् सुखे सञ्जयति", 
+      "रजः कर्मणि (सञ्जयति);", 
+      "तमः तु ज्ञानम् आवृत्य प्रमादे उत सञ्जयति ||"
     ],
-    prose: [],
+    prose: [
+      "O Bharata;", 
+      "Sattva binds one to happiness", 
+      "Rajas binds one to action", 
+      "whereas Tamas, veiling wisdom, binds one to delusion and negligence."
+    ],
     transl: [
       "Sattva binds one to happiness, Rajas binds one to action, O Bharata; whereas Tamas, veiling wisdom, binds one to delusion and negligence."
     ],
@@ -486,9 +500,17 @@ const verses = [
       "रजः सत्त्वम् तमः च एव तमः सत्त्वम् रजः तथा"
     ],
     anvaya: [
-      "हे भारत! रजः तमः च अभिभूय सत्त्वम् भवति; रजः सत्त्वम् तमः च (अभिभूय भवति); तथा तमः सत्त्वम् रजः (अभिभूय भवति) ||"
+      "हे भारत!", 
+      "रजः तमः च अभिभूय सत्त्वम् भवति;", 
+      "रजः सत्त्वम् तमः च (अभिभूय भवति);", 
+      "तथा तमः सत्त्वम् रजः (अभिभूय भवति) ||"
     ],
-    prose: [],
+    prose: [
+      "O Bharata.", 
+      "Sometimes Sattva prevails, overpowering Rajas and Tamas", 
+      "Sometimes Rajas prevails, overpowering Sattva and Tamas;", 
+      "and at other times Tamas prevails, overpowering Sattva and Rajas."
+    ],
     transl: [
       "Sometimes Sattva prevails, overpowering Rajas and Tamas, O Bharata. Sometimes Rajas prevails, overpowering Sattva and Tamas; and at other times Tamas prevails, overpowering Sattva and Rajas."
     ],
