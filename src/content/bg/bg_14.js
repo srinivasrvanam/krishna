@@ -559,9 +559,13 @@ const verses = [
       "ज्ञानम् यदा तदा विद्यात् विवृद्धम् सत्त्वम् इति उत"
     ],
     "anvaya": [
-      "अस्मिन् देहे सर्वद्वारेषु यदा ज्ञानम् प्रकाशः उपजायते, तदा सत्त्वम् विवृद्धम् इति विद्यात् ||"
+      "अस्मिन् देहे सर्वद्वारेषु यदा ज्ञानम् प्रकाशः उपजायते", 
+      "तदा सत्त्वम् विवृद्धम् इति विद्यात् ||"
     ],
-    "prose": [],
+    "prose": [
+      "When the light of wisdom illuminates all the gates of the body", 
+      "then one should know that the mode of goodness (Sattva) has become dominant."
+    ],
     "transl": [
       "When the light of wisdom illuminates all the gates of the body, then one should know that the mode of goodness (Sattva) has become dominant."
     ],
@@ -607,9 +611,13 @@ const verses = [
       "रजसि एतानि जायन्ते विवृद्धे भरत-ऋषभ"
     ],
     "anvaya": [
-      "हे भरतर्षभ! रजसि विवृद्धे लोभः, प्रवृत्तिः, कर्मणाम् आरम्भः, अशमः, स्पृहा (च)—एतानि जायन्ते ||"
+      "हे भरतर्षभ!", 
+      "रजसि विवृद्धे लोभः, प्रवृत्तिः, कर्मणाम् आरम्भः, अशमः, स्पृहा (च)—एतानि जायन्ते ||"
     ],
-    "prose": [],
+    "prose": [
+      "O best of the Bharatas.",
+      "Greed, restlessness, intense activity, undertaking of egoistic works, and unsatiable longing—these arise when the mode of passion (Rajas) becomes dominant, "
+    ],
     "transl": [
       "Greed, restlessness, intense activity, undertaking of egoistic works, and unsatiable longing—these arise when the mode of passion (Rajas) becomes dominant, O best of the Bharatas."
     ],
@@ -653,9 +661,13 @@ const verses = [
       "तमसि एतानि जायन्ते विवृद्धे कुरु-नन्दन"
     ],
     "anvaya": [
-      "हे कुरुनन्दन! तमसि विवृद्धे अप्रकाशः, अप्रवृत्तिः, प्रमादः, मोहः एव च—एतानि जायन्ते ||"
+      "हे कुरुनन्दन!", 
+      "तमसि विवृद्धे अप्रकाशः, अप्रवृत्तिः, प्रमादः, मोहः एव च—एतानि जायन्ते ||"
     ],
-    "prose": [],
+    "prose": [
+      "O descendant of Kuru.", 
+      "Darkness, inactivity, carelessness, and delusion—these arise when the mode of ignorance (Tamas) becomes dominant, "
+    ],
     "transl": [
       "Darkness, inactivity, carelessness, and delusion—these arise when the mode of ignorance (Tamas) becomes dominant, O descendant of Kuru."
     ],
@@ -700,9 +712,13 @@ const verses = [
       "तदा उत्तम-विदाम् लोकान् अमलान् प्रतिपद्यते"
     ],
     "anvaya": [
-      "सत्त्वे प्रवृद्धे तु यदा देहभृत् प्रलयम् याति, तदा उत्तमविदाम् अमलान् लोकान् प्रतिपद्यते ||"
+      "सत्त्वे प्रवृद्धे तु यदा देहभृत् प्रलयम् याति", 
+      "तदा उत्तमविदाम् अमलान् लोकान् प्रतिपद्यते ||"
     ],
-    "prose": [],
+    "prose": [
+      "If the embodied soul meets death when Sattva (goodness) prevails", 
+      "it reaches the pure higher realms of those who know the highest truth."
+    ],
     "transl": [
       "If the embodied soul meets death when Sattva (goodness) prevails, it reaches the pure higher realms of those who know the highest truth."
     ],
@@ -747,9 +763,13 @@ const verses = [
       "तथा प्रलीनः तमसि मूढ-योनिषु जायते"
     ],
     "anvaya": [
-      "रजसि (प्रवृद्धे) प्रलयम् गत्वा कर्मसङ्गिषु जायते; तथा तमसि प्रलीनः मूढयोनिषु जायते ||"
+      "रजसि (प्रवृद्धे) प्रलयम् गत्वा कर्मसङ्गिषु जायते;", 
+      "तथा तमसि प्रलीनः मूढयोनिषु जायते ||"
     ],
-    "prose": [],
+    "prose": [
+      "Dying in the mode of passion (Rajas), one is born among those attached to action;", 
+      "likewise, dying in ignorance (Tamas), one is born in the wombs of the ignorant/irrational creatures."
+    ],
     "transl": [
       "Dying in the mode of passion (Rajas), one is born among those attached to action; likewise, dying in ignorance (Tamas), one is born in the wombs of the ignorant/irrational creatures."
     ],
@@ -792,9 +812,15 @@ const verses = [
       "रजसः तु फलम् दुःखम् अज्ञानम् तमसः फलम्"
     ],
     "anvaya": [
-      "सुकृतस्य कर्मणः फलम् सात्त्विकम् निर्मलम् आहुः; रजसः फलम् तु दुःखम्, तमसः फलम् अज्ञानम् (आहुः) ||"
+      "सुकृतस्य कर्मणः फलम् सात्त्विकम् निर्मलम् आहुः;", 
+      "रजसः फलम् तु दुःखम्", 
+      "तमसः फलम् अज्ञानम् (आहुः) ||"
     ],
-    "prose": [],
+    "prose": [
+      "The fruit of virtuous action is said to be pure and Sattvic;", 
+      "but the fruit of passion is pain", 
+      "and the fruit of ignorance is darkness."
+    ],
     "transl": [
       "The fruit of virtuous action is said to be pure and Sattvic; but the fruit of passion is pain, and the fruit of ignorance is darkness."
     ],
@@ -840,9 +866,15 @@ const verses = [
       "प्रमाद-मोहौ तमसः भवतः अज्ञानम् एव च"
     ],
     "anvaya": [
-      "सत्त्वात् ज्ञानम् सञ्जायते, रजसः लोभः एव च; तमसः प्रमादमोहौ अज्ञानम् एव च भवतः ||"
+      "सत्त्वात् ज्ञानम् सञ्जायते", 
+      "रजसः लोभः एव च;", 
+      "तमसः प्रमादमोहौ अज्ञानम् एव च भवतः ||"
     ],
-    "prose": [],
+    "prose": [
+      "From Sattva arises wisdom;", 
+      "from Rajas comes greed;", 
+      "and from Tamas arise carelessness, delusion, and ignorance."
+    ],
     "transl": [
       "From Sattva arises wisdom; from Rajas comes greed; and from Tamas arise carelessness, delusion, and ignorance."
     ],
@@ -888,9 +920,15 @@ const verses = [
       "जघन्य-गुण-वृत्ति-स्थाः अधः गच्छन्ति तामसाः"
     ],
     "anvaya": [
-      "सत्त्वस्थाः ऊर्ध्वम् गच्छन्ति; राजसाः मध्ये तिष्ठन्ति; जघन्यगुणवृत्तिस्थाः तामसाः अधः गच्छन्ति ||"
+      "सत्त्वस्थाः ऊर्ध्वम् गच्छन्ति;", 
+      "राजसाः मध्ये तिष्ठन्ति;", 
+      "जघन्यगुणवृत्तिस्थाः तामसाः अधः गच्छन्ति ||"
     ],
-    "prose": [],
+    "prose": [
+      "Those grounded in Sattva rise upward;", 
+      "those in Rajas remain in the middle;", 
+      "while those immersed in the degraded mode of Tamas sink downward."
+    ],
     "transl": [
       "Those grounded in Sattva rise upward; those in Rajas remain in the middle; while those immersed in the degraded mode of Tamas sink downward."
     ],
@@ -933,9 +971,15 @@ const verses = [
       "गुणेभ्यः च परम् वेत्ति मत्-भावम् सः अधिगच्छति"
     ],
     "anvaya": [
-      "यदा द्रष्टा गुणेभ्यः अन्यम् कर्तारम् न अनुपश्यति, गुणेभ्यः च परम् (आत्मानम्) वेत्ति, सः मद्भावम् अधिगच्छति ||"
+      "यदा द्रष्टा गुणेभ्यः अन्यम् कर्तारम् न अनुपश्यति", 
+      "गुणेभ्यः च परम् (आत्मानम्) वेत्ति", 
+      "सः मद्भावम् अधिगच्छति ||"
     ],
-    "prose": [],
+    "prose": [
+      "When the seer beholds no agent of action other than the modes of nature", 
+      "and knows That which is beyond the modes", 
+      "he attains My divine nature."
+    ],
     "transl": [
       "When the seer beholds no agent of action other than the modes of nature, and knows That which is beyond the modes, he attains My divine nature."
     ],
@@ -982,9 +1026,13 @@ const verses = [
       "जन्म-मृत्यु-जरा-दुःखैः विमुक्तः अमृतम् अश्नुते"
     ],
     anvaya: [
-      "देही देहसमुद्भवान् एतान् त्रीन् गुणान् अतीत्य जन्म-मृत्यु-जरा-दुःखैः विमुक्तः (सन्) अमृतम् अश्नुते ||"
+      "देही देहसमुद्भवान् एतान् त्रीन् गुणान् अतीत्य", 
+      "जन्म-मृत्यु-जरा-दुःखैः विमुक्तः (सन्) अमृतम् अश्नुते ||"
     ],
-    "prose": [],
+    "prose": [
+      "Transcending these three modes associated with the material body, the embodied soul", 
+      "becomes freed from birth, death, old age, and sorrow, and attains immortality."
+    ],
     "transl": [
       "Transcending these three modes associated with the material body, the embodied soul becomes freed from birth, death, old age, and sorrow, and attains immortality."
     ],
@@ -1030,9 +1078,19 @@ const verses = [
       "किम् आचारः कथम च एतान् त्रीन् गुणान् अतिवर्तते"
     ],
     "anvaya": [
-      "अर्जुनः उवाच - हे प्रभो! एतान् त्रीन् गुणान् अतीतः (जनः) कैः लिङ्गैः (युक्तः) भवति? किमाचारः (भवति)? एतान् त्रीन् गुणान् कथम् च अतिवर्तते? ||"
+      "अर्जुनः उवाच -", 
+      "हे प्रभो!", 
+      "एतान् त्रीन् गुणान् अतीतः (जनः) कैः लिङ्गैः (युक्तः) भवति?", 
+      "किमाचारः (भवति)?", 
+      "एतान् त्रीन् गुणान् कथम् च अतिवर्तते? ||"
     ],
-    "prose": [],
+    "prose": [
+      "Arjuna said:", 
+      "O Lord", 
+      "by what marks is one recognized who has transcended these three modes?", 
+      "What is his conduct", 
+      "and how does he go beyond these three modes?"
+    ],
     "transl": [
       "Arjuna said: O Lord, by what marks is one recognized who has transcended these three modes? What is his conduct, and how does he go beyond these three modes?"
     ],
@@ -1084,9 +1142,15 @@ const verses = [
       "न द्वेष्टि सम्प्रवृत्तानि न निवृत्तानि काङ्क्षति"
     ],
     "anvaya": [
-      "श्रीभगवान् उवाच - हे पाण्डव! (यः) प्रकाशम् च प्रवृत्तिम् च मोहम् एव च सम्प्रवृत्तानि न द्वेष्टि, निवृत्तानि न काङ्क्षति ||"
+      "श्रीभगवान् उवाच -", 
+      "हे पाण्डव!", 
+      "(यः) प्रकाशम् च प्रवृत्तिम् च मोहम् एव च सम्प्रवृत्तानि न द्वेष्टि, निवृत्तानि न काङ्क्षति ||"
     ],
-    "prose": [],
+    "prose": [
+      "The Supreme Lord said:", 
+      "O son of Pandu", 
+      "one who does not hate illumination (Sattva), activity (Rajas), or delusion (Tamas) when they are present, nor long for them when they cease..."
+    ],
     "transl": [
       "The Supreme Lord said: O son of Pandu, one who does not hate illumination (Sattva), activity (Rajas), or delusion (Tamas) when they are present, nor long for them when they cease..."
     ],
@@ -1134,9 +1198,15 @@ const verses = [
       "गुणाः वर्तन्ते इति एव यः अवतिष्ठति न इङ्गते"
     ],
     "anvaya": [
-      "यः उदासीनवत् आसीनः गुणैः न विचाल्यते, 'गुणाः वर्तन्ते' इति एव (ज्ञात्वा) यः अवतिष्ठति, न इङ्गते ||"
+      "यः उदासीनवत् आसीनः गुणैः न विचाल्यते", 
+      "'गुणाः वर्तन्ते' इति एव (ज्ञात्वा)", 
+      "यः अवतिष्ठति, न इङ्गते ||"
     ],
-    "prose": [],
+    "prose": [
+      "...who sits as if neutral, undisturbed by the modes", 
+      "knowing that 'the modes alone are acting'", 
+      "remains steady and moves not..."
+    ],
     "transl": [
       "...who sits as if neutral, undisturbed by the modes, knowing that 'the modes alone are acting', remains steady and moves not..."
     ],
@@ -1183,9 +1253,20 @@ const verses = [
       "तुल्य-प्रिय-अप्रियः धीरः तुल्य-निन्दा-आत्म-संस्तुतिः"
     ],
     "anvaya": [
-      "समदुःखसुखः, स्वस्थः, समलोष्टाश्मकाञ्चनः, तुल्यप्रियाप्रियः, धीरः, तुल्यनिन्दात्मसंस्तुतिः (यः भवति) ||"
+      "सम-दुःख-सुखः", 
+      "स्वस्थः", 
+      "सम-लोष्ट-अश्म-काञ्चनः", 
+      "तुल्य-प्रिय-अप्रियः", 
+      "धीरः", 
+      "तुल्य-निन्दा-आत्म-संस्तुतिः (यः भवति) ||"
     ],
-    "prose": [],
+    "prose": [
+      "...who is equal in sorrow and joy", 
+      "established in the Self", 
+      "regarding a clod of earth, a stone, and gold as equal", 
+      "remaining calm amid pleasant and unpleasant things", 
+      "equal in praise and blame..."
+    ],
     "transl": [
       "...who is equal in sorrow and joy, established in the Self, regarding a clod of earth, a stone, and gold as equal, remaining calm amid pleasant and unpleasant things, equal in praise and blame..."
     ],
@@ -1224,9 +1305,17 @@ const verses = [
       "सर्व-आरम्भ-परित्यागी गुणातीतः सः उच्यते"
     ],
     "anvaya": [
-      "मानापमानयोः तुल्यः, मित्रारिपक्षयोः तुल्यः, सर्वारम्भपरित्यागी (यः भवति), सः गुणातीतः उच्यते ||"
+      "मानापमानयोः तुल्यः", 
+      "मित्रारिपक्षयोः तुल्यः", 
+      "सर्वारम्भपरित्यागी (यः भवति)", 
+      "सः गुणातीतः उच्यते ||"
     ],
-    "prose": [],
+    "prose": [
+      "...who is the same in honor and dishonor", 
+      "equal toward friend and foe", 
+      "and who has renounced all egoistic undertakings—",
+      "such a person is said to have transcended the modes of nature."
+    ],
     "transl": [
       "...who is the same in honor and dishonor, equal toward friend and foe, and who has renounced all egoistic undertakings—such a person is said to have transcended the modes of nature."
     ],
@@ -1267,9 +1356,15 @@ const verses = [
       "सः गुणान् समतीत्य एतान् ब्रह्म-भूयाय कल्पते"
     ],
     "anvaya": [
-      "यः च अव्यभिचारेण भक्तियोगेन माम् सेवते, सः एतान् गुणान् समतीत्य ब्रह्मभूयाय कल्पते ||"
+      "यः च अव्यभिचारेण भक्तियोगेन माम् सेवते", 
+      "सः एतान् गुणान् समतीत्य", 
+      "ब्रह्मभूयाय कल्पते ||"
     ],
-    "prose": [],
+    "prose": [
+      "And one who serves Me with unswerving devotion (Bhakti Yoga)", 
+      "transcends these three modes of nature", 
+      "and becomes fit for attaining Brahman (the Supreme Divine)."
+    ],
     "transl": [
       "And one who serves Me with unswerving devotion (Bhakti Yoga) transcends these three modes of nature and becomes fit for attaining Brahman (the Supreme Divine)."
     ],
@@ -1314,9 +1409,17 @@ const verses = [
       "शाश्वतस्य च धर्मस्य सुखस्य ऐकान्तिकस्य च"
     ],
     "anvaya": [
-      "हि अहम् ब्रह्मणः, अव्ययस्य अमृतस्य च, शाश्वतस्य धर्मस्य च, ऐकान्तिकस्य सुखस्य च प्रतिष्ठा (अस्मि) ||"
+      "हि अहम् ब्रह्मणः", 
+      "अव्ययस्य अमृतस्य च", 
+      "शाश्वतस्य धर्मस्य च", 
+      "ऐकान्तिकस्य सुखस्य च प्रतिष्ठा (अस्मि) ||"
     ],
-    "prose": [],
+    "prose": [
+      "For I am the basis of the impersonal Brahman", 
+      "of the imperishable immortality", 
+      "of eternal Dharma", 
+      "and of ultimate unending bliss."
+    ],
     "transl": [
       "For I am the basis of the impersonal Brahman, of the imperishable immortality, of eternal Dharma, and of ultimate unending bliss."
     ],
