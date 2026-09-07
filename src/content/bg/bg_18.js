@@ -986,9 +986,17 @@ const verses = [
       "प्रोच्यते गुण-सङ्ख्याने यथावत् शृणु तानि अपि"
     ],
     "anvaya": [
-      "गुणसङ्ख्याने ज्ञानम् कर्म च कर्ता च गुणभेदतः त्रिधा एव प्रोच्यते, तानि अपि यथावत् शृणु ||"
+      "गुण-सङ्ख्याने", 
+      "- ज्ञानम् कर्म च कर्ता च",
+      "गुणभेदतः त्रिधा एव प्रोच्यते",
+      "तानि अपि यथावत् शृणु ||"
     ],
-    "prose": [],
+    "prose": [
+      "in the Sankhya philosophy ",
+      "- Knowledge, action, and the doer ",
+      "are declared to be of three kinds according to the distinction of the gunas.",
+      "Hear of these also as they are."
+    ],
     "transl": [
       "Knowledge, action, and the doer are declared in the Sankhya philosophy to be of three kinds according to the distinction of the gunas. Hear of these also as they are."
     ],
@@ -1033,9 +1041,13 @@ const verses = [
       "अविभक्तम् विभक्तेषु तत् ज्ञानम् विद्धि सात्त्विकम्"
     ],
     "anvaya": [
-      "येन विभक्तेषु सर्वभूतेषु अविभक्तम् एकम् अव्ययम् भावम् ईक्ष्यते, तत् ज्ञानम् सात्त्विकम् विद्धि ||"
+      "येन विभक्तेषु सर्वभूतेषु अविभक्तम् एकम् अव्ययम् भावम् ईक्ष्यते",
+      "तत् ज्ञानम् सात्त्विकम् विद्धि ||"
     ],
-    "prose": [],
+    "prose": [
+      "by which one sees one imperishable reality in all beings, undivided amidst the divided.",
+      "Understand that knowledge to be Sattvic ",
+    ],
     "transl": [
       "Understand that knowledge to be Sattvic by which one sees one imperishable reality in all beings, undivided amidst the divided."
     ],
@@ -1080,9 +1092,13 @@ const verses = [
       "वेत्ति सर्वेषु भूतेषु तत् ज्ञानम् विद्धि राजसम्"
     ],
     "anvaya": [
-      "तु यत् ज्ञानम् सर्वेषु भूतेषु पृथग्विधान् नानाभावान् पृथक्त्वेन वेत्ति, तत् ज्ञानम् राजसम् विद्धि ||"
+      "तु यत् ज्ञानम् सर्वेषु भूतेषु पृथग्विधान् नानाभावान् पृथक्त्वेन वेत्ति", 
+      "तत् ज्ञानम् राजसम् विद्धि ||"
     ],
-    "prose": [],
+    "prose": [
+      "But that knowledge which sees different entities of various kinds in all beings, as distinct from one another", 
+      "know that knowledge to be Rajasic."
+    ],
     "transl": [
       "But that knowledge which sees different entities of various kinds in all beings, as distinct from one another, know that knowledge to be Rajasic."
     ],
@@ -1128,9 +1144,13 @@ const verses = [
       "अतत्व-अर्थ-वत् अल्पम् च तत् तामसम् उदाहृतम्"
     ],
     "anvaya": [
-      "यत् तु एकस्मिन् कार्ये कृत्स्नवत् सक्तम्, अहैतुकम्, अतत्त्वार्थवत्, अल्पम् च (अस्ति), तत् तामसम् उदाहृतम् ||"
+      "यत् तु एकस्मिन् कार्ये कृत्स्नवत् सक्तम्, अहैतुकम्, अतत्त्वार्थवत्, अल्पम् च (अस्ति)", 
+      "तत् तामसम् उदाहृतम् ||"
     ],
-    "prose": [],
+    "prose": [
+      "And that knowledge which clings to a single effect as if it were the whole, without reason, devoid of truth, and narrow",
+      "is declared to be Tamasic."
+    ],
     "transl": [
       "And that knowledge which clings to a single effect as if it were the whole, without reason, devoid of truth, and narrow, is declared to be Tamasic."
     ],
@@ -1176,9 +1196,13 @@ const verses = [
       "अफल-प्रेप्सुना कर्म यत् तत् सात्त्विकम् उच्यते"
     ],
     "anvaya": [
-      "अफलप्रेप्सुना सङ्गरहितम् अरागद्वेषतः कृतम् यत् नियतम् कर्म, तत् सात्त्विकम् उच्यते ||"
+      "अफलप्रेप्सुना सङ्गरहितम् अरागद्वेषतः कृतम् यत् नियतम् कर्म", 
+      "तत् सात्त्विकम् उच्यते ||"
     ],
-    "prose": [],
+    "prose": [
+      "An obligatory action performed without attachment, without attraction or aversion, and by one who desires no reward", 
+      "is called Sattvic."
+    ],
     "transl": [
       "An obligatory action performed without attachment, without attraction or aversion, and by one who desires no reward, is called Sattvic."
     ],
@@ -1221,9 +1245,13 @@ const verses = [
       "क्रियते बहुल-आयासम् तत् राजसम् उदाहृतम्"
     ],
     "anvaya": [
-      "यत् कर्म तु कामेप्सुना वा पुनः साहङ्कारेण बहुलायासं क्रियते, तत् राजसम् उदाहृतम् ||"
+      "यत् कर्म तु कामेप्सुना वा पुनः साहङ्कारेण बहुलायासं क्रियते", 
+      "तत् राजसम् उदाहृतम् ||"
     ],
-    "prose": [],
+    "prose": [
+      "But that action which is performed with immense effort by one seeking desire-gratification, or with egoism", 
+      "is declared to be Rajasic."
+    ],
     "transl": [
       "But that action which is performed with immense effort by one seeking desire-gratification, or with egoism, is declared to be Rajasic."
     ],
@@ -1268,9 +1296,13 @@ const verses = [
       "मोहात् आरभ्यते कर्म यत् तत् तामसम् उच्यते"
     ],
     "anvaya": [
-      "अनुबन्धम् क्षयम् हिंसाम् पौरुषम् च अनवेक्ष्य मोहात् यत् कर्म आरभ्यते, तत् तामसम् उच्यते ||"
+      "अनुबन्धम् क्षयम् हिंसाम् पौरुषम् च अनवेक्ष्य मोहात् यत् कर्म आरभ्यते", 
+      "तत् तामसम् उच्यते ||"
     ],
-    "prose": [],
+    "prose": [
+      "That action which is undertaken out of delusion, without considering consequences, loss, harm to others, or one's own capability", 
+      "is called Tamasic."
+    ],
     "transl": [
       "That action which is undertaken out of delusion, without considering consequences, loss, harm to others, or one's own capability, is called Tamasic."
     ],
