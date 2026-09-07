@@ -18,9 +18,15 @@ const verses = [
       "त्यागस्य च हृषीकेश पृथक् केशिनिषूदन"
     ],
     "anvaya": [
-      "अर्जुनः उवाच—हे महाबाहो! हे हृषीकेश! हे केशिनिषूदन! संन्यासस्य त्यागस्य च तत्त्वम् पृथक् वेदितुम् इच्छामि ||"
+      "अर्जुनः उवाच—",
+      "हे महाबाहो! हे हृषीकेश! हे केशिनिषूदन!", 
+      "संन्यासस्य त्यागस्य च तत्त्वम् पृथक् वेदितुम् इच्छामि ||"
     ],
-    "prose": [],
+    "prose": [
+      "Arjuna said:", 
+      "O mighty-armed one, O Hrishikesha, O slayer of Keshi", 
+      "I desire to know the true nature of renunciation (Sannyasa) and of relinquishment (Tyaga), individually."
+    ],
     "transl": [
       "Arjuna said: O mighty-armed one, O Hrishikesha, O slayer of Keshi, I desire to know the true nature of renunciation (Sannyasa) and of relinquishment (Tyaga), individually."
     ],
@@ -67,9 +73,15 @@ const verses = [
       "सर्व-कर्म-फल-त्यागम् प्राहुः त्यागम् विचक्षणाः"
     ],
     "anvaya": [
-      "श्रीभगवान् उवाच—कवयः काम्यानाम् कर्मणाम् न्यासम् संन्यासम् विदुः; विचक्षणाः सर्वकर्मफलत्यागम् त्यागम् प्राहुः ||"
+      "श्रीभगवान् उवाच—",
+      "कवयः काम्यानाम् कर्मणाम् न्यासम् संन्यासम् विदुः;", 
+      "विचक्षणाः सर्वकर्मफलत्यागम् त्यागम् प्राहुः ||"
     ],
-    "prose": [],
+    "prose": [
+      "The Supreme Lord said:", 
+      "The learned declare Sannyasa to be the renunciation of desire-driven actions;", 
+      "the wise declare Tyaga to be the relinquishment of the fruits of all actions."
+    ],
     "transl": [
       "The Supreme Lord said: The learned declare Sannyasa to be the renunciation of desire-driven actions; the wise declare Tyaga to be the relinquishment of the fruits of all actions."
     ],
@@ -113,9 +125,13 @@ const verses = [
       "यज्ञ-दान-तपः-कर्म न त्याज्यम् इति च अपरे"
     ],
     "anvaya": [
-      "एके मनीषिणः 'कर्म दोषवत् इति त्याज्यम्' प्राहुः; अपरे च 'यज्ञदानतपःकर्म न त्याज्यम्' इति (प्राहुः) ||"
+      "एके मनीषिणः 'कर्म दोषवत् इति त्याज्यम्' प्राहुः;", 
+      "अपरे च 'यज्ञदानतपःकर्म न त्याज्यम्' इति (प्राहुः) ||"
     ],
-    "prose": [],
+    "prose": [
+      "Some thinkers declare that action should be abandoned as an evil;", 
+      "while others maintain that acts of sacrifice, charity, and austerity must not be abandoned."
+    ],
     "transl": [
       "Some thinkers declare that action should be abandoned as an evil; while others maintain that acts of sacrifice, charity, and austerity must not be abandoned."
     ],
@@ -161,9 +177,17 @@ const verses = [
       "त्यागः हि पुरुष-व्याघ्र त्रि-विधः सम्प्रकीर्तितः"
     ],
     "anvaya": [
-      "हे भरतसत्तम! तत्र त्यागे मे निश्चयम् शृणु; हे पुरुषव्याघ्र! त्यागः हि त्रिविधः सम्प्रकीर्तितः ||"
+      "हे भरतसत्तम!", 
+      "तत्र त्यागे मे निश्चयम् शृणु;", 
+      "हे पुरुषव्याघ्र!", 
+      "त्यागः हि त्रिविधः सम्प्रकीर्तितः ||"
     ],
-    "prose": [],
+    "prose": [
+      "O best of the Bharatas! ",
+      "Hear My conclusive verdict on renunciation, ",
+      "O tiger among men, ",
+      "For renunciation, has been declared to be of three kinds.",
+    ],
     "transl": [
       "Hear My conclusive verdict on renunciation, O best of the Bharatas! For renunciation, O tiger among men, has been declared to be of three kinds."
     ],
@@ -207,9 +231,15 @@ const verses = [
       "यज्ञः दानम् तपः च एव पावनानि मनीषिणाम्"
     ],
     "anvaya": [
-      "यज्ञदानतपःकर्म न त्याज्यम्, तत् कार्यम् एव; यज्ञः दानम् तपः च एव मनीषिणाम् पावनानि (भवन्ति) ||"
+      "यज्ञदानतपःकर्म न त्याज्यम्", 
+      "तत् कार्यम् एव;", 
+      "यज्ञः दानम् तपः च एव मनीषिणाम् पावनानि (भवन्ति) ||"
     ],
-    "prose": [],
+    "prose": [
+      "Acts of sacrifice, charity, and austerity must not be abandoned;", 
+      "they ought to be performed.", 
+      "Indeed, sacrifice, charity, and austerity are purifiers of the wise."
+    ],
     "transl": [
       "Acts of sacrifice, charity, and austerity must not be abandoned; they ought to be performed. Indeed, sacrifice, charity, and austerity are purifiers of the wise."
     ],
@@ -255,9 +285,15 @@ const verses = [
       "कर्तव्यानि इति मे पार्थ निश्चितम् मतम् उत्तमम्"
     ],
     "anvaya": [
-      "हे पार्थ! एतानि कर्माणि अपि तु सङ्गम् फलानि च त्यक्त्वा 'कर्तव्यानि' इति (मे) निश्चितम् उत्तमम् मतम् ||"
+      "हे पार्थ!", 
+      "एतानि कर्माणि अपि तु सङ्गम् फलानि च त्यक्त्वा 'कर्तव्यानि'", 
+      "इति (मे) निश्चितम् उत्तमम् मतम् ||"
     ],
-    "prose": [],
+    "prose": [
+      "O Partha, ",
+      "However, even these actions must be performed without attachment and without desire for rewards.", 
+      "This, is My definite and supreme belief."
+    ],
     "transl": [
       "However, even these actions must be performed without attachment and without desire for rewards. This, O Partha, is My definite and supreme belief."
     ],
@@ -305,9 +341,13 @@ const verses = [
       "मोहात् तस्य परित्यागः तामसः परिकीर्तितः"
     ],
     "anvaya": [
-      "नियतस्य कर्मणः तु संन्यासः न उपपद्यते; मोहात् तस्य परित्यागः तामसः परिकीर्तितः ||"
+      "नियतस्य कर्मणः तु संन्यासः न उपपद्यते;", 
+      "मोहात् तस्य परित्यागः तामसः परिकीर्तितः ||"
     ],
-    "prose": [],
+    "prose": [
+      "Renunciation of prescribed duties is not appropriate.", 
+      "Abandoning them out of delusion is declared to be Tamasic."
+    ],
     "transl": [
       "Renunciation of prescribed duties is not appropriate. Abandoning them out of delusion is declared to be Tamasic."
     ],
@@ -351,9 +391,13 @@ const verses = [
       "सः कृत्वा राजसम् त्यागम् न एव त्याग-फलम् लभेत्"
     ],
     "anvaya": [
-      "यत् 'दुःखम्' इति एव कायक्लेशभयात् कर्म त्यजेत्, सः राजसम् त्यागम् कृत्वा त्यागफलम् न एव लभेत् ||"
+      "यत् 'दुःखम्' इति एव काय-क्लेश-भयात् कर्म त्यजेत्", 
+      "सः राजसम् त्यागम् कृत्वा त्याग-फलम् न एव लभेत् ||"
     ],
-    "prose": [],
+    "prose": [
+      "Whoever abandons action merely because it is painful or out of fear of bodily discomfort",
+      "he performs Rajasic renunciation, and does not gain the fruit of true relinquishment."
+    ],
     "transl": [
       "Whoever abandons action merely because it is painful or out of fear of bodily discomfort performs Rajasic renunciation, and does not gain the fruit of true relinquishment."
     ],
@@ -401,9 +445,15 @@ const verses = [
       "सङ्गम् त्यक्त्वा फलम् च एव सः त्यागः सात्त्विकः मतः"
     ],
     "anvaya": [
-      "हे अर्जुन! 'कार्यम्' इति एव यत् नियतम् कर्म सङ्गम् फलम् च एव त्यक्त्वा क्रियते, सः त्यागः सात्त्विकः मतः ||"
+      "हे अर्जुन!", 
+      "'कार्यम्' इति एव यत् नियतम् कर्म सङ्गम् फलम् च एव त्यक्त्वा क्रियते", 
+      "सः त्यागः सात्त्विकः मतः ||"
     ],
-    "prose": [],
+    "prose": [
+      "O Arjuna", 
+      "when prescribed duty is performed simply because it ought to be done, relinquishing attachment and the fruit", 
+      "that relinquishment is regarded as Sattvic."
+    ],
     "transl": [
       "O Arjuna, when prescribed duty is performed simply because it ought to be done, relinquishing attachment and the fruit, that relinquishment is regarded as Sattvic."
     ],
@@ -453,9 +503,15 @@ const verses = [
       "त्यागी सत्त्व-समाविष्टः मेधावी छिन्न-संशयः"
     ],
     "anvaya": [
-      "सत्त्वसमाविष्टः, मेधावी, छिन्नसंशयः त्यागी अकुशलम् कर्म न द्वेष्टि, कुशले (कर्मणि) न अनुषज्जते ||"
+      "सत्त्वसमाविष्टः, मेधावी, छिन्नसंशयः त्यागी", 
+      "अकुशलम् कर्म न द्वेष्टि", 
+      "कुशले (कर्मणि) न अनुषज्जते ||"
     ],
-    "prose": [],
+    "prose": [
+      "The true renouncer, absorbed in Sattva, intelligent and freed from all doubts", 
+      "neither hates unpleasant work", 
+      "nor becomes attached to pleasant work."
+    ],
     "transl": [
       "The true renouncer, absorbed in Sattva, intelligent and freed from all doubts, neither hates unpleasant work nor becomes attached to pleasant work."
     ],
@@ -499,9 +555,15 @@ const verses = [
       "यः तु कर्म-फल-त्यागी सः त्यागी इति अभिधीयते"
     ],
     "anvaya": [
-      "देहभृता अशेषतः कर्माणि त्यक्तुम् न शक्यम् हि; यः तु कर्मफलत्यागी, सः त्यागी इति अभिधीयते ||"
+      "देहभृता अशेषतः कर्माणि त्यक्तुम् न शक्यम् हि;", 
+      "यः तु कर्मफलत्यागी", 
+      "सः त्यागी इति अभिधीयते ||"
     ],
-    "prose": [],
+    "prose": [
+      "Indeed, it is impossible for an embodied being to give up actions entirely.", 
+      "But he who relinquishes the fruits of action", 
+      "is truly called a renouncer."
+    ],
     "transl": [
       "Indeed, it is impossible for an embodied being to give up actions entirely. But he who relinquishes the fruits of action is truly called a renouncer."
     ],
@@ -548,9 +610,13 @@ const verses = [
       "भवति अत्योगिनाम् प्रेत्य न तु संन्यासिनाम् क्वचित्"
     ],
     "anvaya": [
-      "अत्यागिनाम् अनिष्टम् इष्टम् मिश्रम् च इति त्रिविधम् कर्मणः फलम् प्रेत्य भवति; तु संन्यासिनाम् क्वचित् न (भवति) ||"
+      "अत्यागिनाम् अनिष्टम् इष्टम् मिश्रम् च इति त्रिविधम् कर्मणः फलम् प्रेत्य भवति;", 
+      "तु संन्यासिनाम् क्वचित् न (भवति) ||"
     ],
-    "prose": [],
+    "prose": [
+      "The threefold fruit of action—desirable, undesirable, and mixed—accrues after death to non-renouncers", 
+      "but never to true renouncers."
+    ],
     "transl": [
       "The threefold fruit of action—desirable, undesirable, and mixed—accrues after death to non-renouncers, but never to true renouncers."
     ],
@@ -597,9 +663,13 @@ const verses = [
       "साङ्ख्ये कृतान्ते प्रोक्तानि सिद्धये सर्व-कर्मणाम्"
     ],
     "anvaya": [
-      "हे महाबाहो! सर्वकर्मणाम् सिद्धये कृतान्ते साङ्ख्ये प्रोक्तानि एतानि पञ्च कारणानि मे (सकाशात्) निबोध ||"
+      "हे महाबाहो!", 
+      "सर्वकर्मणाम् सिद्धये कृतान्ते साङ्ख्ये प्रोक्तानि एतानि पञ्च कारणानि मे (सकाशात्) निबोध ||"
     ],
-    "prose": [],
+    "prose": [
+      "O mighty-armed one, ",
+      "Learn from Me, these five factors declared in the Sankhya system for the accomplishment of all actions."
+    ],
     "transl": [
       "Learn from Me, O mighty-armed one, these five factors declared in the Sankhya system for the accomplishment of all actions."
     ],
@@ -643,9 +713,19 @@ const verses = [
       "विविधाः च पृथक्-चेष्टाः दैवम् च एव अत्र पञ्चमम्"
     ],
     "anvaya": [
-      "अत्र अधिष्ठानम् तथा कर्ता, पृथग्विधम् करणम् च, विविधाः पृथक् चेष्टाः च, पञ्चमम् दैवम् एव च (कारणम् अस्ति) ||"
+      "अत्र अधिष्ठानम्", 
+      "तथा कर्ता", 
+      "पृथग्विधम् करणम् च", 
+      "विविधाः पृथक् चेष्टाः च", 
+      "पञ्चमम् दैवम् एव च (कारणम् अस्ति) ||"
     ],
-    "prose": [],
+    "prose": [
+      "The seat of action (the body)", 
+      "the doer (ego/jiva)", 
+      "the various senses", 
+      "the distinct kinds of endeavors", 
+      "and fifthly, Providence (the Divine/Destiny)."
+    ],
     "transl": [
       "The seat of action (the body), the doer (ego/jiva), the various senses, the distinct kinds of endeavors, and fifthly, Providence (the Divine/Destiny)."
     ],
@@ -691,9 +771,13 @@ const verses = [
       "न्याय्यम् वा विपरीतम् वा पञ्च एते तस्य हेतवः"
     ],
     "anvaya": [
-      "नरः शरीरवाङ्मनोभिः न्याय्यम् वा विपरीतम् वा यत् कर्म प्रारभते, तस्य एते पञ्च हेतवः (भवन्ति) ||"
+      "नरः शरीर-वाक्-मनोभिः न्याय्यम् वा विपरीतम् वा यत् कर्म प्रारभते", 
+      "तस्य एते पञ्च हेतवः (भवन्ति) ||"
     ],
-    "prose": [],
+    "prose": [
+      "Whatever action a person undertakes by body, speech, or mind—whether proper or improper",
+      "—these five are its causes."
+    ],
     "transl": [
       "Whatever action a person undertakes by body, speech, or mind—whether proper or improper—these five are its causes."
     ],
@@ -739,9 +823,15 @@ const verses = [
       "पश्यति अकृत-बुद्धित्वात् न सः पश्यति दुर्मतिः"
     ],
     "anvaya": [
-      "तत्र एवम् सति, यः तु अकृतबुद्धित्वात् केवलम् आत्मानम् कर्तारम् पश्यति, सः दुर्मतिः न पश्यति ||"
+      "तत्र एवम् सति", 
+      "यः तु अकृत-बुद्धित्वात् केवलम् आत्मानम् कर्तारम् पश्यति", 
+      "सः दुर्मतिः न पश्यति ||"
     ],
-    "prose": [],
+    "prose": [
+      "This being the case", 
+      "one who views the pure Self as the sole doer, due to an untrained intellect", 
+      "is foolish and does not see reality."
+    ],
     "transl": [
       "This being the case, one who views the pure Self as the sole doer, due to an untrained intellect, is foolish and does not see reality."
     ],
@@ -788,9 +878,15 @@ const verses = [
       "हत्वा अपि सः इमान् लोकान् न हन्ति न निबध्यते"
     ],
     "anvaya": [
-      "यस्य अहङ्कृतः भावः न (अस्ति), यस्य बुद्धिः न लिप्यते, सः इमान् लोकान् हत्वा अपि न हन्ति, न निबध्यते ||"
+      "यस्य अहङ्कृतः भावः न (अस्ति)", 
+      "यस्य बुद्धिः न लिप्यते", 
+      "सः इमान् लोकान् हत्वा अपि न हन्ति, न निबध्यते ||"
     ],
-    "prose": [],
+    "prose": [
+      "He who is free from the egoistic notion 'I am the doer,'", 
+      "and whose intellect is untainted", 
+      "even if he slays these creatures, does not slay, nor is he bound."
+    ],
     "transl": [
       "He who is free from the egoistic notion 'I am the doer,' and whose intellect is untainted, even if he slays these creatures, does not slay, nor is he bound."
     ],
@@ -840,9 +936,13 @@ const verses = [
       "करणम् कर्म कर्ता इति त्रि-विधः कर्म-सङ्ग्रहः"
     ],
     "anvaya": [
-      "ज्ञानम्, ज्ञेयम्, परिज्ञाता इति त्रिविधा कर्मचोदना; करणम्, कर्म, कर्ता इति त्रिविधः कर्मसङ्ग्रहः ||"
+      "ज्ञानम्, ज्ञेयम्, परिज्ञाता इति त्रिविधा कर्मचोदना;", 
+      "करणम्, कर्म, कर्ता इति त्रिविधः कर्मसङ्ग्रहः ||"
     ],
-    "prose": [],
+    "prose": [
+      "Knowledge, the object of knowledge, and the knower form the threefold impulse to action.", 
+      "The instrument, the action, and the doer form the threefold basis of action."
+    ],
     "transl": [
       "Knowledge, the object of knowledge, and the knower form the threefold impulse to action. The instrument, the action, and the doer form the threefold basis of action."
     ],
