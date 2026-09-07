@@ -1296,11 +1296,13 @@ const verses = [
       "मोहात् आरभ्यते कर्म यत् तत् तामसम् उच्यते"
     ],
     "anvaya": [
-      "अनुबन्धम् क्षयम् हिंसाम् पौरुषम् च अनवेक्ष्य मोहात् यत् कर्म आरभ्यते", 
+      "मोहात् यत् कर्म आरभ्यते",
+      "- अनुबन्धम् क्षयम् हिंसाम् पौरुषम् च अनवेक्ष्य", 
       "तत् तामसम् उच्यते ||"
     ],
     "prose": [
-      "That action which is undertaken out of delusion, without considering consequences, loss, harm to others, or one's own capability", 
+      "That action which is undertaken out of delusion", 
+      "- without considering consequences, loss, harm to others, or one's own capability", 
       "is called Tamasic."
     ],
     "transl": [
@@ -1348,9 +1350,21 @@ const verses = [
       "सिद्धि-असिद्ध्योः निर्विकारः कर्ता सात्त्विकः उच्यते"
     ],
     "anvaya": [
-      "मुक्तसङ्गः, अनहंवादी, धृत्युत्साहसमन्वितः, सिद्ध्यसिद्ध्योः निर्विकारः कर्ता सात्त्विकः उच्यते ||"
+      "कर्ता",
+      "- मुक्तसङ्गः", 
+      "- अनहंवादी", 
+      "- धृत्युत्साहसमन्वितः", 
+      "- सिद्ध्यसिद्ध्योः निर्विकारः", 
+      "सात्त्विकः उच्यते ||"
     ],
-    "prose": [],
+    "prose": [
+      "A doer", 
+      "- who is free from attachment", 
+      "- free from egotism", 
+      "- endowed with resolve and enthusiasm", 
+      "- and unruffled by success or failure", 
+      "is called Sattvic."
+    ],
     "transl": [
       "A doer who is free from attachment, free from egotism, endowed with resolve and enthusiasm, and unruffled by success or failure, is called Sattvic."
     ],
@@ -1391,9 +1405,25 @@ const verses = [
       "हर्ष-शोक-अन्वितः कर्ता राजसः परिकीर्तितः"
     ],
     "anvaya": [
-      "रागी, कर्मफलप्रेप्सुः, लुब्धः, हिंसात्मकः, अशुचिः, हर्षशोकान्वितः कर्ता राजसः परिकीर्तितः ||"
+      "कर्ता",
+      "- रागी", 
+      "- कर्मफलप्रेप्सुः", 
+      "- लुब्धः", 
+      "- हिंसात्मकः", 
+      "- अशुचिः", 
+      "- हर्षशोकान्वितः", 
+      "राजसः परिकीर्तितः ||"
     ],
-    "prose": [],
+    "prose": [
+      "A doer", 
+      "- who is attached", 
+      "- desirous of the fruits of action", 
+      "- greedy", 
+      "- malicious", 
+      "- impure", 
+      "- and easily moved by joy and sorrow", 
+      "is declared to be Rajasic."
+    ],
     "transl": [
       "A doer who is attached, desirous of the fruits of action, greedy, malicious, impure, and easily moved by joy and sorrow, is declared to be Rajasic."
     ],
@@ -1435,9 +1465,29 @@ const verses = [
       "विषादी दीर्घ-सूत्री च कर्ता तामसः उच्यते"
     ],
     "anvaya": [
-      "अयुक्तः, प्राकृतः, स्तब्धः, शठः, नैष्कृतिकः, अलसः, विषादी, दीर्घसूत्री च कर्ता तामसः उच्यते ||"
+      "कर्ता ",
+      "- अयुक्तः", 
+      "- प्राकृतः", 
+      "- स्तब्धः", 
+      "- शठः", 
+      "- नैष्कृतिकः", 
+      "- अलसः", 
+      "- विषादी", 
+      "- दीर्घसूत्री च", 
+      "तामसः उच्यते ||"
     ],
-    "prose": [],
+    "prose": [
+      "A doer who is", 
+      "- undisciplined", 
+      "- vulgar", 
+      "- stubborn", 
+      "- deceitful", 
+      "- malicious", 
+      "- lazy", 
+      "- despondent", 
+      "- and procrastinating", 
+      "is called Tamasic."
+    ],
     "transl": [
       "A doer who is undisciplined, vulgar, stubborn, deceitful, malicious, lazy, despondent, and procrastinating, is called Tamasic."
     ],
@@ -1482,9 +1532,13 @@ const verses = [
       "प्रोच्यमानम् अशेषेण पृथक्त्वेन धनञ्जय"
     ],
     "anvaya": [
-      "हे धनञ्जय! गुणतः बुद्धेः धृतेः च एव अशेषेण पृथक्त्वेन प्रोच्यमानम् त्रिविधम् भेदम् शृणु ||"
+      "हे धनञ्जय!", 
+      "गुणतः बुद्धेः धृतेः च एव अशेषेण पृथक्त्वेन प्रोच्यमानम् त्रिविधम् भेदम् शृणु ||"
     ],
-    "prose": [],
+    "prose": [
+      "O Dhananjaya, ",
+      "Hear now, the threefold division of intellect (Buddhi) and fortitude (Dhriti) according to the gunas, explained fully and distinctly."
+    ],
     "transl": [
       "Hear now, O Dhananjaya, the threefold division of intellect (Buddhi) and fortitude (Dhriti) according to the gunas, explained fully and distinctly."
     ],
