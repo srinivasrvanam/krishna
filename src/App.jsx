@@ -38,7 +38,7 @@ const Layout = ({ children }) => {
       <Navbar /> {/* Navbar stays fixed across all pages */}
       <div className="flex-1">{children}</div> {/* This part changes */} {/* flex-1 indicates it takes available space */}
       <Footer />
-      <BackToTop />
+      {/* <BackToTop /> */}
     </div>
   );
 };
