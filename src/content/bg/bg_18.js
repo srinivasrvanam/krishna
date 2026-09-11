@@ -1583,9 +1583,21 @@ const verses = [
       "बन्धम् मोक्षम् च या वेत्ति बुद्धिः सा पार्थ सात्त्विकी"
     ],
     "anvaya": [
-      "हे पार्थ! या प्रवृत्तिम् निवृत्तिम् च, कार्याकार्ये, भयाभये, बन्धम् मोक्षम् च वेत्ति, सा बुद्धिः सात्त्विकी ||"
+      "हे पार्थ!", 
+      "या प्रवृत्तिम् निवृत्तिम् च", 
+      "कार्याकार्ये", 
+      "भयाभये", 
+      "बन्धम् मोक्षम् च वेत्ति", 
+      "सा बुद्धिः सात्त्विकी ||"
     ],
-    "prose": [],
+    "prose": [
+      "O Partha!", 
+      "that intellect, which knows when to engage and when to abstain", 
+      "what ought to be done and what ought not to be done", 
+      "what is to be feared and what is not to be feared", 
+      "and what leads to bondage and what leads to liberation.",
+      "that intellect is Sattvic",
+    ],
     "transl": [
       "O Partha, that intellect is Sattvic which knows when to engage and when to abstain, what ought to be done and what ought not to be done, what is to be feared and what is not to be feared, and what leads to bondage and what leads to liberation."
     ],
@@ -1632,9 +1644,19 @@ const verses = [
       "अयाथावत् प्रजानाति बुद्धिः सा पार्थ राजसी"
     ],
     "anvaya": [
-      "हे पार्थ! यया धर्मम् अधर्मम् च, कार्यम् च अकार्यम् एव च अयाथावत् प्रजानाति, सा बुद्धिः राजसी ||"
+      "हे पार्थ!", 
+      "यया अयाथावत् प्रजानाति",
+      "- धर्मम् अधर्मम् च", 
+      "- कार्यम् च अकार्यम् एव च ", 
+      "सा बुद्धिः राजसी ||"
     ],
-    "prose": [],
+    "prose": [
+      "O Partha!", 
+      "that intellect by which one distortedly (imperfectly) understands", 
+      "- righteousness and unrighteousness", 
+      "- and what ought to be done and what ought not to be done", 
+      "that intellect is Rajasic."
+    ],
     "transl": [
       "O Partha, that intellect by which one distortedly understands righteousness and unrighteousness, and what ought to be done and what ought not to be done, is Rajasic."
     ],
@@ -1681,9 +1703,17 @@ const verses = [
       "सर्व-अर्थान् विपरीतान् च बुद्धिः सा पार्थ तामसी"
     ],
     "anvaya": [
-      "हे पार्थ! तमसा आवृता या अधर्मम् धर्मम् इति मन्यते, सर्वार्थान् विपरीतान् च (पश्यति), सा बुद्धिः तामसी ||"
+      "हे पार्थ!", 
+      "तमसा आवृता या अधर्मम् धर्मम् इति मन्यते", 
+      "सर्वार्थान् विपरीतान् च (पश्यति)", 
+      "सा बुद्धिः तामसी ||"
     ],
-    "prose": [],
+    "prose": [
+      "O Partha!",
+      "That intellect which, enshrouded in darkness, conceives unrighteousness as righteousness", 
+      "and perceives all things in a perverted way", 
+      "That intellect is Tamasic."
+    ],
     "transl": [
       "That intellect which, enshrouded in darkness, conceives unrighteousness as righteousness and perceives all things in a perverted way, O Partha, is Tamasic."
     ],
@@ -1730,9 +1760,17 @@ const verses = [
       "योगेन अव्यभिचारिण्या धृतिः सा पार्थ सात्त्विकी"
     ],
     "anvaya": [
-      "हे पार्थ! अव्यभिचारिण्या यया धृत्या योगेन मनःप्राणेन्द्रियक्रियाः धारयते, सा धृतिः सात्त्विकी ||"
+      "हे पार्थ!", 
+      "अव्यभिचारिण्या यया धृत्या", 
+      "- योगेन मनःप्राणेन्द्रियक्रियाः धारयते", 
+      "सा धृतिः सात्त्विकी ||"
     ],
-    "prose": [],
+    "prose": [
+      "O Partha!",
+      "The unswerving fortitude by which", 
+      "- one controls the activities of the mind, vital forces, and senses through Yoga", 
+      "The fortitude is Sattvic."
+    ],
     "transl": [
       "The unswerving fortitude by which one controls the activities of the mind, vital forces, and senses through Yoga, O Partha, is Sattvic."
     ],
