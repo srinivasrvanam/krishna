@@ -1813,9 +1813,17 @@ const verses = [
       "प्रसङ्गेन फल-आकाङ्क्षी धृतिः सा पार्थ राजसी"
     ],
     "anvaya": [
-      "हे अर्जुन! फलाकाङ्क्षी (सन्) प्रसङ्गेन यया धृत्या तु धर्मकामार्थान् धारयते, हे पार्थ! सा धृतिः राजसी ||"
+      "हे अर्जुन!", 
+      "फलाकाङ्क्षी (सन्) प्रसङ्गेन यया धृत्या तु धर्मकामार्थान् धारयते", 
+      "हे पार्थ!", 
+      "सा धृतिः राजसी ||"
     ],
-    "prose": [],
+    "prose": [
+      "O Arjuna!",
+      "But the fortitude by which one holds fast to duty, desire, and wealth out of attachment, desiring their fruits",
+      "O Partha!",
+      "that fortitude is Rajasic."
+    ],
     "transl": [
       "But the fortitude by which one holds fast to duty, desire, and wealth out of attachment, desiring their fruits, O Arjuna, that fortitude is Rajasic."
     ],
@@ -1860,9 +1868,15 @@ const verses = [
       "न विमुञ्चति दुर्मेधा धृतिः सा पार्थ तामसी"
     ],
     "anvaya": [
-      "हे पार्थ! दुर्मेधा यया स्वप्नम् भयम् शोकम् विषादम् मदम् एव च न विमुञ्चति, सा धृतिः तामसी ||"
+      "हे पार्थ!", 
+      "दुर्मेधा यया स्वप्नम् भयम् शोकम् विषादम् मदम् एव च न विमुञ्चति", 
+      "सा धृतिः तामसी ||"
     ],
-    "prose": [],
+    "prose": [
+      "O Partha!",
+      "That fortitude by which a foolish person does not yield sleep, fear, grief, despondency, and arrogance", 
+      "That fortitude is Tamasic."
+    ],
     "transl": [
       "That fortitude by which a foolish person does not yield sleep, fear, grief, despondency, and arrogance, O Partha, is Tamasic."
     ],
@@ -1910,9 +1924,15 @@ const verses = [
       "अभ्यासात् रमते यत्र दुःख-अन्तम् च निगच्छति"
     ],
     "anvaya": [
-      "हे भरतर्षभ! इदानीम् तु यत्र अभ्यासात् रमते दुःखान्तम् च निगच्छति, तत् त्रिविधम् सुखम् मे (सकाशात्) शृणु ||"
+      "हे भरतर्षभ!", 
+      "इदानीम् तु यत्र अभ्यासात् रमते दुःखान्तम् च निगच्छति", 
+      "तत् त्रिविधम् सुखम् मे (सकाशात्) शृणु ||"
     ],
-    "prose": [],
+    "prose": [
+      "O best of the Bharatas!",
+      "in which one delights through practice and reaches the end of suffering.",
+      "And now hear from Me, about the three kinds of happiness"
+    ],
     "transl": [
       "And now hear from Me, O best of the Bharatas, about the three kinds of happiness, in which one delights through practice and reaches the end of suffering."
     ],
