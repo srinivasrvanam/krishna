@@ -1925,13 +1925,15 @@ const verses = [
     ],
     "anvaya": [
       "हे भरतर्षभ!", 
-      "इदानीम् तु यत्र अभ्यासात् रमते दुःखान्तम् च निगच्छति", 
+      "इदानीम् तु", 
+      "यत्र अभ्यासात् रमते दुःखान्तम् च निगच्छति", 
       "तत् त्रिविधम् सुखम् मे (सकाशात्) शृणु ||"
     ],
     "prose": [
       "O best of the Bharatas!",
+      "And now ",
       "in which one delights through practice and reaches the end of suffering.",
-      "And now hear from Me, about the three kinds of happiness"
+      "hear from Me, about the three kinds of happiness"
     ],
     "transl": [
       "And now hear from Me, O best of the Bharatas, about the three kinds of happiness, in which one delights through practice and reaches the end of suffering."
@@ -1978,9 +1980,15 @@ const verses = [
       "तत् सुखम् सात्त्विकम् प्रोक्तम् आत्म-बुद्धि-प्रसाद-जम्"
     ],
     "anvaya": [
-      "यत् तत् अग्रे विषम् इव, परिणामे अमृतोपमम्, आत्मबुद्धिप्रसादजम् तत् सुखम् सात्त्विकम् प्रोक्तम् ||"
+      "यत् तत् अग्रे विषम् इव", 
+      "परिणामे अमृत-उपमम्, आत्म-बुद्धि-प्रसाद-जम्", 
+      "तत् सुखम् सात्त्विकम् प्रोक्तम् ||"
     ],
-    "prose": [],
+    "prose": [
+      "That happiness which seems like poison at first", 
+      "but is like nectar in the end, born of the serene clarity of Self-realization", 
+      "That happiness is declared to be Sattvic."
+    ],
     "transl": [
       "That happiness which seems like poison at first but is like nectar in the end, born of the serene clarity of Self-realization, is declared to be Sattvic."
     ],
@@ -2024,9 +2032,17 @@ const verses = [
       "परिणामे विषम्-इव तत् सुखम् राजसम् स्मृतम्"
     ],
     "anvaya": [
-      "यत् विषयेन्द्रियसंयोगात् अग्रे अमृतोपमम्, परिणामे विषम् इव (भवति), तत् सुखम् राजसम् स्मृतम् ||"
+      "यत् विषयेन्द्रियसंयोगात्", 
+      "अग्रे अमृतोपमम्", 
+      "परिणामे विषम् इव (भवति)", 
+      "तत् सुखम् राजसम् स्मृतम् ||"
     ],
-    "prose": [],
+    "prose": [
+      "That happiness which arises from the contact of sense objects with the senses", 
+      "tasting like nectar at first", 
+      "but turning to poison in the end", 
+      "That happiness is considered Rajasic."
+    ],
     "transl": [
       "That happiness which arises from the contact of sense objects with the senses, tasting like nectar at first but turning to poison in the end, is considered Rajasic."
     ],
@@ -2070,9 +2086,15 @@ const verses = [
       "निद्रा-आलस्य-प्रमाद-उत्थम् तत् तामसम् उदाहृतम्"
     ],
     "anvaya": [
-      "यत् अग्रे च अनुबन्धे च आत्मनः मोहनम्, निद्रालस्यप्रमादोत्थम् सुखम्, तत् तामसम् उदाहृतम् ||"
+      "यत् अग्रे च अनुबन्धे च आत्मनः मोहनम्", 
+      "निद्रा-आलस्य-प्रमाद-उत्थम् सुखम्", 
+      "तत् तामसम् उदाहृतम् ||"
     ],
-    "prose": [],
+    "prose": [
+      "That happiness which deludes the self both at first and in the end", 
+      "arising from sleep, indolence, and negligence", 
+      "That happiness is declared to be Tamasic."
+    ],
     "transl": [
       "That happiness which deludes the self both at first and in the end, arising from sleep, indolence, and negligence, is declared to be Tamasic."
     ],
@@ -2117,9 +2139,13 @@ const verses = [
       "सत्त्वम् प्रकृति-जैः मुक्तम् यत् एभिः स्यात् त्रिभिः गुणैः"
     ],
     "anvaya": [
-      "पृथिव्याम् वा दिवि देवेषु वा पुनः तत् सत्त्वम् न अस्ति, यत् प्रकृतिजैः एभिः त्रिभिः गुणैः मुक्तम् स्यात् ||"
+      "पृथिव्याम् वा दिवि देवेषु वा पुनः तत् सत्त्वम् न अस्ति", 
+      "यत् प्रकृतिजैः एभिः त्रिभिः गुणैः मुक्तम् स्यात् ||"
     ],
-    "prose": [],
+    "prose": [
+      "There is no being on earth, or again among the gods in heaven", 
+      "that is free from these three gunas born of Nature."
+    ],
     "transl": [
       "There is no being on earth, or again among the gods in heaven, that is free from these three gunas born of Nature."
     ],
@@ -2169,9 +2195,15 @@ const verses = [
       "कर्माणि प्रविभक्तानि स्वभाव-प्रभवैः गुणैः"
     ],
     "anvaya": [
-      "हे परन्तप! ब्राह्मणक्षत्रियविशाम् शूद्राणां च कर्माणि स्वभावप्रभवैः गुणैः प्रविभक्तानि (सन्ति) ||"
+      "हे परन्तप!", 
+      "ब्राह्मण-क्षत्रिय-विशाम् शूद्राणां च कर्माणि", 
+      "स्वभाव-प्रभवैः गुणैः प्रविभक्तानि (सन्ति) ||"
     ],
-    "prose": [],
+    "prose": [
+      "O scorcher of foes", 
+      "the duties of Brahmins, Kshatriyas, Vaishyas, and Shudras", 
+      "are distributed according to the qualities born of their inherent natures."
+    ],
     "transl": [
       "O scorcher of foes, the duties of Brahmins, Kshatriyas, Vaishyas, and Shudras are distributed according to the qualities born of their inherent natures."
     ],
@@ -2212,9 +2244,29 @@ const verses = [
       "ज्ञानम् विज्ञानम् आस्तिक्यम् ब्रह्म-कर्म स्वभाव-जम्"
     ],
     "anvaya": [
-      "शमः, दमः, तपः, शौचम्, क्षान्तिः, आर्जवम्, ज्ञानम्, विज्ञानम्, आस्तिक्यम् च एव स्वभावजम् ब्रह्मकर्म (अस्ति) ||"
+      "शमः", 
+      "दमः", 
+      "तपः", 
+      "शौचम्", 
+      "क्षान्तिः", 
+      "आर्जवम्", 
+      "ज्ञानम्", 
+      "विज्ञानम्", 
+      "आस्तिक्यम् च एव", 
+      "स्वभावजम् ब्रह्मकर्म (अस्ति) ||"
     ],
-    "prose": [],
+    "prose": [
+      "Tranquility", 
+      "self-restraint", 
+      "austerity", 
+      "purity", 
+      "forgiveness", 
+      "uprightness", 
+      "knowledge", 
+      "realization", 
+      "and faith in God",
+      "—these are the natural duties of a Brahmin."
+    ],
     "transl": [
       "Tranquility, self-restraint, austerity, purity, forgiveness, uprightness, knowledge, realization, and faith in God—these are the natural duties of a Brahmin."
     ],
@@ -2260,9 +2312,25 @@ const verses = [
       "दानम् ईश्वर-भावः च क्षात्रम् कर्म स्वभाव-जम्"
     ],
     "anvaya": [
-      "शौर्यम्, तेजः, धृतिः, दाक्ष्यम्, युद्धे अपि अपलायनम् च, दानम्, ईश्वरभावः च स्वभावजम् क्षात्रम् कर्म (अस्ति) ||"
+      "शौर्यम्", 
+      "तेजः", 
+      "धृतिः", 
+      "दाक्ष्यम्", 
+      "युद्धे अपि अपलायनम् च", 
+      "दानम्", 
+      "ईश्वरभावः च", 
+      "स्वभावजम् क्षात्रम् कर्म (अस्ति) ||"
     ],
-    "prose": [],
+    "prose": [
+      "Valor", 
+      "majesty", 
+      "firmness", 
+      "resourcefulness", 
+      "not fleeing from battle", 
+      "generosity", 
+      "and leadership", 
+      "are the natural duties of a Kshatriya."
+    ],
     "transl": [
       "Valor, majesty, firmness, resourcefulness, not fleeing from battle, generosity, and leadership are the natural duties of a Kshatriya."
     ],
@@ -2309,9 +2377,13 @@ const verses = [
       "परिचर्या-आत्मकम् कर्म शूद्रस्य अपि स्वभाव-जम्"
     ],
     "anvaya": [
-      "कृषिगौरक्ष्यवाणिज्यम् स्वभावजम् वैश्यकर्म (अस्ति); परिचर्यात्मकम् कर्म अपि शूद्रस्य स्वभावजम् (अस्ति) ||"
+      "कृषि-गौरक्ष्य-वाणिज्यम् स्वभावजम् वैश्यकर्म (अस्ति);", 
+      "परिचर्या-आत्मकम् कर्म अपि शूद्रस्य स्वभावजम् (अस्ति) ||"
     ],
-    "prose": [],
+    "prose": [
+      "Agriculture, cattle rearing, and trade are the natural duties of a Vaishya.", 
+      "Service-oriented work is the natural duty of a Shudra."
+    ],
     "transl": [
       "Agriculture, cattle rearing, and trade are the natural duties of a Vaishya. Service-oriented work is the natural duty of a Shudra."
     ],
@@ -2352,9 +2424,15 @@ const verses = [
       "स्व-कर्म-निरतः सिद्धिम् यथा विन्दति तत् शृणु"
     ],
     "anvaya": [
-      "स्वे स्वे कर्मणि अभिरतः नरः संसिद्धिम् लभते; स्वकर्मनिरतः यथा सिद्धिम् विन्दति, तत् शृणु ||"
+      "स्वे स्वे कर्मणि अभिरतः नरः संसिद्धिम् लभते;", 
+      "स्वकर्मनिरतः यथा सिद्धिम् विन्दति", 
+      "तत् शृणु ||"
     ],
-    "prose": [],
+    "prose": [
+      "Devoted to his own inherent duty, a person attains perfection.", 
+      "how one devoted to one's own duty reaches perfection.",
+      "Hear that now"
+    ],
     "transl": [
       "Devoted to his own inherent duty, a person attains perfection. Hear now how one devoted to one's own duty reaches perfection."
     ],
