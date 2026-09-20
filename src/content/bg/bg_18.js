@@ -2477,9 +2477,17 @@ const verses = [
       "स्व-कर्मणा तम् अभ्यर्च्य सिद्धिम् विन्दति मानवः"
     ],
     "anvaya": [
-      "यतः भूतानाम् प्रवृत्तिः, येन इदम् सर्वम् ततम्, तम् स्वकर्मणा अभ्यर्च्य मानवः सिद्धिम् विन्दति ||"
+      "यतः भूतानाम् प्रवृत्तिः", 
+      "येन इदम् सर्वम् ततम्", 
+      "तम् स्वकर्मणा अभ्यर्च्य", 
+      "मानवः सिद्धिम् विन्दति ||"
     ],
-    "prose": [],
+    "prose": [
+      "from whom all beings originate",
+      "and by whom all this is pervaded",
+      "By worshipping Him through one's own duty", 
+      "a human being attains perfection."
+    ],
     "transl": [
       "By worshipping through one's own duty Him from whom all beings originate and by whom all this is pervaded, a human being attains perfection."
     ],
@@ -2525,9 +2533,13 @@ const verses = [
       "स्वभाव-नियतम् कर्म कुर्वन् न आप्नोति किल्बिषम्"
     ],
     "anvaya": [
-      "स्वअनुष्ठितात् परधर्मात् विगुणः स्वधर्मः श्रेयान्; स्वभावनियतम् कर्म कुर्वन् किल्बिषम् न आप्नोति ||"
+      "सु-अनुष्ठितात् पर-धर्मात् विगुणः स्व-धर्मः श्रेयान्;", 
+      "स्वभाव-नियतम् कर्म कुर्वन् किल्बिषम् न आप्नोति ||"
     ],
-    "prose": [],
+    "prose": [
+      "Better is one's own duty, though imperfectly performed, than the duty of another well performed.", 
+      "Performing action ordained by one's own nature, one incurs no sin."
+    ],
     "transl": [
       "Better is one's own duty, though imperfectly performed, than the duty of another well performed. Performing action ordained by one's own nature, one incurs no sin."
     ],
@@ -2571,9 +2583,15 @@ const verses = [
       "सर्व-आरम्भाः हि दोघेण धूमेन अग्निः इव आवृताः"
     ],
     "anvaya": [
-      "हे कौन्तेय! सदोषम् अपि सहजम् कर्म न त्यजेत्, हि धूमेन अग्निः इव सर्वार्म्भाः दोषेण आवृताः (भवन्ति) ||"
+      "हे कौन्तेय!", 
+      "सदोषम् अपि सहजम् कर्म न त्यजेत्", 
+      "हि धूमेन अग्निः इव सर्व-आरम्भाः दोषेण आवृताः (भवन्ति) ||"
     ],
-    "prose": [],
+    "prose": [
+      "O son of Kunti,",
+      "One should not abandon the work born of one's nature, even if it is attended with fault;", 
+      "for all endeavors are enveloped by fault, as fire is by smoke."
+    ],
     "transl": [
       "One should not abandon the work born of one's nature, O son of Kunti, even if it is attended with fault; for all endeavors are enveloped by fault, as fire is by smoke."
     ],
@@ -2620,9 +2638,19 @@ const verses = [
       "नैष्कर्म्य-सिद्धिम् परमाम् संन्यासेन अधिगच्छति"
     ],
     "anvaya": [
-      "सर्वत्र असक्तबुद्धिः, जितात्मा, विगतस्पृहः (नरः) संन्यासेन परमाम् नैष्कर्म्यसिद्धिम् अधिगच्छति ||"
+      "सर्वत्र असक्तबुद्धिः", 
+      "जितात्मा", 
+      "विगतस्पृहः (नरः)", 
+      "संन्यासेन", 
+      "परमाम् नैष्कर्म्य-सिद्धिम् अधिगच्छति ||"
     ],
-    "prose": [],
+    "prose": [
+      "One whose intellect is unattached everywhere", 
+      "who has mastered the self", 
+      "and is free from desires", 
+      "through true renunciation ",
+      "attains the supreme perfection of actionlessness."
+    ],
     "transl": [
       "One whose intellect is unattached everywhere, who has mastered the self, and is free from desires, attains through true renunciation the supreme perfection of actionlessness."
     ],
@@ -2663,9 +2691,17 @@ const verses = [
       "समासेन एव कौन्तेय निष्ठा ज्ञानस्य या परा"
     ],
     "anvaya": [
-      "हे कौन्तेय! सिद्धिम् प्राप्तः (नरः) या ज्ञानस्य परा निष्ठा (अस्ति), तथा ब्रह्म यथा आप्नोति, तत् समासेन एव मे (सकाशात्) निबोध ||"
+      "हे कौन्तेय!", 
+      "- यथा सिद्धिम् प्राप्तः (नरः) ब्रह्म आप्नोति", 
+      "- (या ज्ञानस्य परा निष्ठा (अस्ति))",
+      "तथा समासेन एव मे (सकाशात्) निबोध ||"
     ],
-    "prose": [],
+    "prose": [
+      "O son of Kunti, ",
+      "- how one who has reached this perfection, attains Brahman", 
+      "- the supreme culmination of knowledge.",
+      "Learn that from Me in brief",
+    ],
     "transl": [
       "Learn from Me in brief, O son of Kunti, how one who has reached this perfection attains Brahman, the supreme culmination of knowledge."
     ],
@@ -2713,9 +2749,17 @@ const verses = [
       "शब्द-आदीन् विषयान् त्यक्त्वा राग-द्वेषौ व्युदस्य च"
     ],
     "anvaya": [
-      "विशुद्धया बुद्ध्या युक्तः, धृत्या आत्मानम् नियम्य च, शब्दादीन् विषयान् त्यक्त्वा, रागद्वेषौ व्युदस्य च ||"
+      "विशुद्धया बुद्ध्या युक्तः", 
+      "धृत्या आत्मानम् नियम्य च", 
+      "शब्दादीन् विषयान् त्यक्त्वा", 
+      "रागद्वेषौ व्युदस्य च ||"
     ],
-    "prose": [],
+    "prose": [
+      "Endowed with a purified intellect", 
+      "restraining the self with firm resolve", 
+      "abandoning sound and other sense objects", 
+      "and casting aside attraction and aversion..."
+    ],
     "transl": [
       "Endowed with a purified intellect, restraining the self with firm resolve, abandoning sound and other sense objects, and casting aside attraction and aversion..."
     ],
@@ -2761,9 +2805,19 @@ const verses = [
       "ध्यान-योग-परः नित्यम् वैराग्यम् समुपाश्रितः"
     ],
     "anvaya": [
-      "विविक्तसेवी, लघ्वाशी, यतवाक्कायमानसः, नित्यम् ध्यानयोगपरः, वैराग्यम् समुपाश्रितः ||"
+      "विविक्त-सेवी", 
+      "लघु-आशी", 
+      "यत-वाक्-काय-मानसः", 
+      "नित्यम् ध्यान-योग-परः", 
+      "वैराग्यम् समुपाश्रितः ||"
     ],
-    "prose": [],
+    "prose": [
+      "Dwelling in solitude", 
+      "eating sparingly", 
+      "with speech, body, and mind controlled", 
+      "constantly engaged in the yoga of meditation", 
+      "taking firm refuge in dispassion..."
+    ],
     "transl": [
       "Dwelling in solitude, eating sparingly, with speech, body, and mind controlled, constantly engaged in the yoga of meditation, taking firm refuge in dispassion..."
     ],
@@ -2803,9 +2857,15 @@ const verses = [
       "विमुच्य निर्ममः शान्तः ब्रह्म-भूयाय कल्पते"
     ],
     "anvaya": [
-      "अहङ्कारम्, बलम्, दर्पम्, कामम्, क्रोधम्, परिग्रहम् (च) विमुच्य, निर्ममः शान्तः (सन्) ब्रह्मभूयाय कल्पते ||"
+      "अहङ्कारम्, बलम्, दर्पम्, कामम्, क्रोधम्, परिग्रहम् (च) विमुच्य", 
+      "निर्ममः शान्तः (सन्)", 
+      "ब्रह्मभूयाय कल्पते ||"
     ],
-    "prose": [],
+    "prose": [
+      "Freeing oneself from egotism, force, arrogance, desire, anger, and possessiveness", 
+      "free from the sense of 'mine' and being tranquil",
+      "—such a person is fit for oneness with Brahman."
+    ],
     "transl": [
       "Freeing oneself from egotism, force, arrogance, desire, anger, and possessiveness, free from the sense of 'mine' and tranquil—such a person is fit for oneness with Brahman."
     ],
@@ -2849,9 +2909,17 @@ const verses = [
       "समः सर्वेषु भूतेषु मत्-भक्तिम् लभते पराम्"
     ],
     "anvaya": [
-      "ब्रह्मभूतः प्रसन्नात्मा न शोचति न काङ् क्षति, सर्वेषु भूतेषु समः (सन्) पराम् मद्भक्तिम् लभते ||"
+      "ब्रह्म-भूतः प्रसन्न-आत्मा", 
+      "न शोचति न काङ् क्षति", 
+      "सर्वेषु भूतेषु समः (सन्)", 
+      "पराम् मत्-भक्तिम् लभते ||"
     ],
-    "prose": [],
+    "prose": [
+      "Established in Brahman, cheerful in spirit", 
+      "grieving not nor desiring", 
+      "equal-minded toward all beings", 
+      "one attains supreme devotion unto Me."
+    ],
     "transl": [
       "Established in Brahman, cheerful in spirit, grieving not nor desiring, equal-minded toward all beings, one attains supreme devotion unto Me."
     ],
@@ -2896,9 +2964,14 @@ const verses = [
       "ततः माम् तत्त्वतः ज्ञात्वा विशते तत्-अनन्तरम्"
     ],
     "anvaya": [
-      "यावान् यः च अस्मि, माम् भक्त्या तत्त्वतः अभिजानाति; ततः माम् तत्त्वतः ज्ञात्वा तदनन्तरम् (मां) विशते ||"
+      "यावान् यः च अस्मि, माम् भक्त्या तत्त्वतः अभिजानाति;", 
+      "ततः माम् तत्त्वतः ज्ञात्वा", 
+      "तदनन्तरम् (मां) विशते ||"
     ],
-    "prose": [],
+    "prose": [
+      "Through devotion one comes to know Me in truth, who and what I am;", 
+      "then, knowing Me in truth, one enters into Me immediately thereafter."
+    ],
     "transl": [
       "Through devotion one comes to know Me in truth, who and what I am; then, knowing Me in truth, one enters into Me immediately thereafter."
     ],
@@ -2945,9 +3018,15 @@ const verses = [
       "मत्-प्रसादात् अवाप्नोति शाश्वतम् पदम् अव्ययम्"
     ],
     "anvaya": [
-      "मद्व्यपाश्रयः (सन्) सदा सर्वकर्माणि अपि कुर्वाणः मत्प्रसादात् शाश्वतम् अव्ययम् पदम् अवाप्नोति ||"
+      "मत्-व्यपाश्रयः (सन्)", 
+      "सदा सर्व-कर्माणि अपि कुर्वाणः", 
+      "मत्-प्रसादात् शाश्वतम् अव्ययम् पदम् अवाप्नोति ||"
     ],
-    "prose": [],
+    "prose": [
+      "one who takes refuge in Me",
+      "Though continually performing all actions", 
+      "attains by My grace the eternal and imperishable abode."
+    ],
     "transl": [
       "Though continually performing all actions, one who takes refuge in Me attains by My grace the eternal and imperishable abode."
     ],
@@ -2990,9 +3069,17 @@ const verses = [
       "बुद्धि-योगम् उपाश्रित्य मत्-चित्तः सततम् भव"
     ],
     "anvaya": [
-      "चेतसा सर्वकर्माणि मयि संन्यस्य, मत्परः, बुद्धियोगम् उपाश्रित्य, सततम् मच्चित्तः भव ||"
+      "चेतसा सर्वकर्माणि मयि संन्यस्य", 
+      "मत्परः", 
+      "बुद्धियोगम् उपाश्रित्य", 
+      "सततम् मच्चित्तः भव ||"
     ],
-    "prose": [],
+    "prose": [
+      "Mentally surrendering all actions unto Me", 
+      "regarding Me as the supreme goal", 
+      "relying on the yoga of intellect", 
+      "keep your mind constantly focused on Me."
+    ],
     "transl": [
       "Mentally surrendering all actions unto Me, regarding Me as the supreme goal, relying on the yoga of intellect, keep your mind constantly focused on Me."
     ],
