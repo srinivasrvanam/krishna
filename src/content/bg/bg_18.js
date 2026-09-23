@@ -3122,9 +3122,17 @@ const verses = [
       "अथ चेत् त्वम् अहङ्कारात् न श्रोष्यसि विनङ्क्ष्यसि"
     ],
     "anvaya": [
-      "मच्चित्तः (सन्) मत्प्रसादात् सर्वदुर्गाणि तरिष्यसि; अथ चेत् त्वम् अहङ्कारात् न श्रोष्यसि, (तर्हि) विनङ्क्ष्यसि ||"
+      "मच्चित्तः (सन्)", 
+      "मत्प्रसादात् सर्वदुर्गाणि तरिष्यसि;", 
+      "अथ चेत् त्वम् अहङ्कारात् न श्रोष्यसि", 
+      "(तर्हि) विनङ्क्ष्यसि ||"
     ],
-    "prose": [],
+    "prose": [
+      "Fixing your mind on Me", 
+      "you shall overcome all obstacles by My grace.", 
+      "But if from egotism you will not listen", 
+      "you shall perish."
+    ],
     "transl": [
       "Fixing your mind on Me, you shall overcome all obstacles by My grace. But if from egotism you will not listen, you shall perish."
     ],
@@ -3166,9 +3174,15 @@ const verses = [
       "मिथ्या एषः व्यवसायः ते प्रकृतिः त्वाम् नियोक्ष्यति"
     ],
     "anvaya": [
-      "यत् अहङ्कारम् आश्रित्य 'न योत्स्ये' इति मन्यसे, ते एषः व्यवसायः मिथ्या (अस्ति); प्रकृतिः त्वाम् नियोक्ष्यति ||"
+      "यत् अहङ्कारम् आश्रित्य 'न योत्स्ये' इति मन्यसे", 
+      "ते एषः व्यवसायः मिथ्या (अस्ति);", 
+      "प्रकृतिः त्वाम् नियोक्ष्यति ||"
     ],
-    "prose": [],
+    "prose": [
+      "If, driven by egotism, you think 'I will not fight,'", 
+      "your resolve is vain;", 
+      "your inherent nature will compel you."
+    ],
     "transl": [
       "If, driven by egotism, you think 'I will not fight,' your resolve is vain; your inherent nature will compel you."
     ],
@@ -3215,9 +3229,17 @@ const verses = [
       "कर्तुम् न इच्छसि यत् मोहात् करिष्यसि अवशः अपि तत्"
     ],
     "anvaya": [
-      "हे कौन्तेय! स्वभावजेन स्वेन कर्मणा निबद्धः (त्वम्), मोहात् यत् कर्तुम् न इच्छसि, तत् अवशः अपि करिष्यसि ||"
+      "हे कौन्तेय!", 
+      "स्वभावजेन स्वेन कर्मणा निबद्धः (त्वम्)", 
+      "मोहात् यत् कर्तुम् न इच्छसि", 
+      "तत् अवशः अपि करिष्यसि ||"
     ],
-    "prose": [],
+    "prose": [
+      "O son of Kunti,",
+      "Bound by your own karma born of your inherent nature", 
+      "that which out of delusion you do not wish to do", 
+      "you will do helplessly."
+    ],
     "transl": [
       "Bound by your own karma born of your inherent nature, O son of Kunti, that which out of delusion you do not wish to do, you will do helplessly."
     ],
@@ -3264,9 +3286,17 @@ const verses = [
       "भ्रामयन् सर्व-भूतानि यन्त्र-आरूढानि मायया"
     ],
     "anvaya": [
-      "हे अर्जुन! ईश्वरः यन्त्रारूढानि सर्वभूतानि मायया भ्रामयन् सर्वभूतानाम् हृद्देशे तिष्ठति ||"
+      "हे अर्जुन!", 
+      "ईश्वरः", 
+      "सर्व-भूतानाम् हृद्-देशे तिष्ठति |",
+      "- यन्त्र-आरूढानि सर्व-भूतानि मायया भ्रामयन्", 
     ],
-    "prose": [],
+    "prose": [
+      "O Arjuna,",
+      "The Supreme Lord", 
+      "dwells in the heart of all beings, .",
+      "causing all creatures to spin around by His Maya as if mounted on a machine"
+    ],
     "transl": [
       "The Supreme Lord dwells in the heart of all beings, O Arjuna, causing all creatures to spin around by His Maya as if mounted on a machine."
     ],
@@ -3308,9 +3338,15 @@ const verses = [
       "तत्-प्रसादात् पराम् शान्तिम् स्थानम् प्राप्स्यसि शाश्वतम्"
     ],
     "anvaya": [
-      "हे भारत! सर्वभावेन तम् एव शरणम् गच्छ; तत्प्रसादात् पराम् शान्तिम् शाश्वतम् स्थानम् च प्राप्स्यसि ||"
+      "हे भारत!", 
+      "सर्वभावेन तम् एव शरणम् गच्छ;", 
+      "तत्-प्रसादात् (पराम् शान्तिम्) (शाश्वतम् स्थानम्) च प्राप्स्यसि ||"
     ],
-    "prose": [],
+    "prose": [
+      "O Bharata. ",
+      "Surrender unto Him alone with all your heart", 
+      "By His grace you shall attain supreme peace and the eternal abode."
+    ],
     "transl": [
       "Surrender unto Him alone with all your heart, O Bharata. By His grace you shall attain supreme peace and the eternal abode."
     ],
@@ -3355,9 +3391,15 @@ const verses = [
       "विमृश्य एतत् अशेषेण यथा इच्छसि तथा कुरु"
     ],
     "anvaya": [
-      "इति गुह्यात् गुह्यतरम् ज्ञानम् मया ते आख्यातम्; एतत् अशेषेण विमृश्य, यथा इच्छसि तथा कुरु ||"
+      "इति गुह्यात् गुह्यतरम् ज्ञानम् मया ते आख्यातम्;", 
+      "एतत् अशेषेण विमृश्य", 
+      "यथा इच्छसि तथा कुरु ||"
     ],
-    "prose": [],
+    "prose": [
+      "Thus has wisdom more secret than all secrets been declared to you by Me.", 
+      "Reflect on it fully", 
+      "and then act as you choose."
+    ],
     "transl": [
       "Thus has wisdom more secret than all secrets been declared to you by Me. Reflect on it fully, and then act as you choose."
     ],
@@ -3404,9 +3446,15 @@ const verses = [
       "इष्टः असि मे दृढम् इति ततः वक्ष्यामि ते हितम्"
     ],
     "anvaya": [
-      "सर्वगुह्यतमम् मे परमम् वचः भूयः शृणु; त्वम् मे दृढम् इष्टः असि, इति ततः ते हितम् वक्ष्यामि ||"
+      "सर्व-गुह्यतमम् मे परमम् वचः भूयः शृणु;", 
+      "त्वम् मे दृढम् इष्टः असि", 
+      "इति ततः ते हितम् वक्ष्यामि ||"
     ],
-    "prose": [],
+    "prose": [
+      "Hear again My supreme word, the most confidential of all.", 
+      "Because you are dearly beloved of Me", 
+      "I will speak for your ultimate benefit."
+    ],
     "transl": [
       "Hear again My supreme word, the most confidential of all. Because you are dearly beloved of Me, I will speak for your ultimate benefit."
     ],
@@ -3454,9 +3502,23 @@ const verses = [
       "माम् एव एष्यसि सत्यम् ते प्रतिजाने प्रियः असि मे"
     ],
     "anvaya": [
-      "मन्मना भव, मद्भक्तः (भव), मद्याजी (भव), माम् नमस्कुरु; माम् एव एष्यसि, ते सत्यम् प्रतिजाने, (यतः) मे प्रियः असि ||"
+      "मत्-मना भव", 
+      "मत्-भक्तः (भव)", 
+      "मत्-याजी (भव)", 
+      "माम् नमस्कुरु;", 
+      "माम् एव एष्यसि", 
+      "ते सत्यम् प्रतिजाने", 
+      "(यतः) मे प्रियः असि ||"
     ],
-    "prose": [],
+    "prose": [
+      "Fix your mind on Me", 
+      "be devoted to Me", 
+      "worship Me", 
+      "and bow down to Me.", 
+      "Thus you shall come to Me alone.", 
+      "Truly I promise you", 
+      "for you are dear to Me."
+    ],
     "transl": [
       "Fix your mind on Me, be devoted to Me, worship Me, and bow down to Me. Thus you shall come to Me alone. Truly I promise you, for you are dear to Me."
     ],
@@ -3504,9 +3566,17 @@ const verses = [
       "अहम् त्वा सर्व-पापेभ्यः मोक्षयिष्यामि मा शुचः"
     ],
     "anvaya": [
-      "सर्वधर्मान् परित्यज्य माम् एकम् शरणम् व्रज; अहम् त्वा सर्वपापेभ्यः मोक्षयिष्यामि, मा शुचः ||"
+      "सर्वधर्मान् परित्यज्य", 
+      "माम् एकम् शरणम् व्रज;", 
+      "अहम् त्वा सर्वपापेभ्यः मोक्षयिष्यामि", 
+      "मा शुचः ||"
     ],
-    "prose": [],
+    "prose": [
+      "Abandoning all varieties of dharmas", 
+      "take refuge in Me alone.", 
+      "I shall liberate you from all sins;", 
+      "do not grieve."
+    ],
     "transl": [
       "Abandoning all varieties of dharmas, take refuge in Me alone. I shall liberate you from all sins; do not grieve."
     ],
@@ -3551,9 +3621,19 @@ const verses = [
       "न च अशूश्रूषवे वाच्यम् न च माम् यः अभ्यसूयति"
     ],
     "anvaya": [
-      "इदम् ते अतपस्काय न वाच्यम्, अभक्ताय कदाचन न, अशूश्रूषवे च न, यः च माम् अभ्यसूयति (तस्मै) च न (वाच्यम्) ||"
+      "इदम् ते कदाचन न वाच्यम्", 
+      "- अतपस्काय", 
+      "- अभक्ताय", 
+      "- अशूश्रूषवे च", 
+      "यः च माम् अभ्यसूयति (तस्मै) च न (वाच्यम्) ||"
     ],
-    "prose": [],
+    "prose": [
+      "This confidential knowledge must never be spoken by you", 
+      "- to one who is devoid of austerities", 
+      "- to one who is unloving (without devotion)", 
+      "- to one who wishes not to listen (serve)", 
+      "nor to one who envies Me."
+    ],
     "transl": [
       "This confidential knowledge must never be spoken by you to one who is devoid of austerities, nor to one who is unloving, nor to one who wishes not to listen, nor to one who envies Me."
     ],
@@ -3602,9 +3682,15 @@ const verses = [
       "भक्तिम् मयि पराम् कृत्वा माम् एव एष्यति असंशयः"
     ],
     "anvaya": [
-      "यः मयि पराम् भक्तिम् कृत्वा इमम् परमम् गुह्यम् मद्भक्तेषु अभिधास्यति, (सः) असंशयः माम् एव एष्यति ||"
+      "यः मयि पराम् भक्तिम् कृत्वा", 
+      "इमम् परमम् गुह्यम् मद्भक्तेषु अभिधास्यति", 
+      "(सः) असंशयः माम् एव एष्यति ||"
     ],
-    "prose": [],
+    "prose": [
+      "He who, with supreme devotion to Me", 
+      "teaches this supreme secret to My devotees", 
+      "(He) shall doubtlessly come to Me."
+    ],
     "transl": [
       "He who, with supreme devotion to Me, teaches this supreme secret to My devotees shall doubtlessly come to Me."
     ],
@@ -3651,9 +3737,13 @@ const verses = [
       "भविष्यति न च मे तस्मात् अन्यः प्रियतरः भुवि"
     ],
     "anvaya": [
-      "मनुष्येषु तस्मात् मे प्रियकृत्तमः कश्चित् न च अस्ति, भुवि तस्मात् अन्यः प्रियतरः मे न च भविष्यति ||"
+      "मनुष्येषु तस्मात् मे प्रिय-कृत्-तमः कश्चित् न च अस्ति", 
+      "भुवि तस्मात् अन्यः प्रियतरः मे न च भविष्यति ||"
     ],
-    "prose": [],
+    "prose": [
+      "Nor is there any among humans who does more dear service to Me than he", 
+      "nor shall there be anyone on earth more dear to Me than he."
+    ],
     "transl": [
       "Nor is there any among humans who does more dear service to Me than he, nor shall there be anyone on earth more dear to Me than he."
     ],
@@ -3701,9 +3791,15 @@ const verses = [
       "ज्ञान-यज्ञेन तेन अहम् इष्टः स्याम् इति मे मतिः"
     ],
     "anvaya": [
-      "यः च आवयोः इमम् धर्म्यम् संवादम् अध्येष्यते, तेन अहम् ज्ञानयज्ञेन इष्टः स्याम् इति मे मतिः ||"
+      "यः च आवयोः इमम् धर्म्यम् संवादम् अध्येष्यते", 
+      "तेन अहम् ज्ञानयज्ञेन इष्टः स्याम्", 
+      "इति मे मतिः ||"
     ],
-    "prose": [],
+    "prose": [
+      "And he who studies this sacred dialogue of ours", 
+      "worships Me through the sacrifice of knowledge;", 
+      "such is My view."
+    ],
     "transl": [
       "And he who studies this sacred dialogue of ours worships Me through the sacrifice of knowledge; such is My view."
     ],
@@ -3751,9 +3847,17 @@ const verses = [
       "सः अपि मुक्तः शुभान् लोकान् प्राप्नुयात् पुण्य-कर्मणाम्"
     ],
     "anvaya": [
-      "यः नरः श्रद्धावान् अनसूयः च (भूत्वा) (इमम्) शृणुयात् अपि, सः अपि (पापेभ्यः) मुक्तः (सन्) पुण्यकर्मणाम् शुभान् लोकान् प्राप्नुयात् ||"
+      "यः नरः श्रद्धावान् अनसूयः च (भूत्वा)", 
+      "(इमम्) शृणुयात् अपि", 
+      "सः अपि (पापेभ्यः) मुक्तः (सन्)", 
+      "पुण्यकर्मणाम् शुभान् लोकान् प्राप्नुयात् ||"
     ],
-    "prose": [],
+    "prose": [
+      "And the person with faith and without envy", 
+      "who listens to this teaching", 
+      "he shall also be liberated", 
+      "and attain the auspicious worlds of those who perform righteous deeds."
+    ],
     "transl": [
       "And the person who listens to this teaching with faith and without envy shall also be liberated and attain the auspicious worlds of those who perform righteous deeds."
     ],
@@ -3800,9 +3904,17 @@ const verses = [
       "कच्चित् अज्ञान-सम्मोहः प्रनष्टः ते धनञ्जय"
     ],
     "anvaya": [
-      "हे पार्थ! त्वया एतत् एकाग्रेण चेतसा श्रुतम् कच्चित्? हे धनञ्जय! ते अज्ञानसम्मोहः प्रनष्टः कच्चित्? ||"
+      "हे पार्थ!", 
+      "त्वया एतत् एकाग्रेण चेतसा श्रुतम् कच्चित्?", 
+      "हे धनञ्जय!", 
+      "ते अज्ञानसम्मोहः प्रनष्टः कच्चित्? ||"
     ],
-    "prose": [],
+    "prose": [
+      "O Partha", 
+      "have you listened to this with an attentive mind?", 
+      "O Dhananjaya", 
+      "has your delusion caused by ignorance been destroyed?"
+    ],
     "transl": [
       "O Partha, have you listened to this with an attentive mind? O Dhananjaya, has your delusion caused by ignorance been destroyed?"
     ],
@@ -3850,9 +3962,21 @@ const verses = [
       "स्थितः अस्मि गत-सन्देहः करिष्ये वचनम् तव"
     ],
     "anvaya": [
-      "अर्जुनः उवाच — हे अच्युत! त्वत्प्रसादात् मया मोहः नष्टः, स्मृतिः लब्धा; (अहम्) गतसन्देहः स्थितः अस्मि, तव वचनम् करिष्ये ||"
+      "अर्जुनः उवाच —", 
+      "हे अच्युत!", 
+      "त्वत्प्रसादात् मया मोहः नष्टः", 
+      "स्मृतिः लब्धा;", 
+      "(अहम्) गतसन्देहः स्थितः अस्मि", 
+      "तव वचनम् करिष्ये ||"
     ],
-    "prose": [],
+    "prose": [
+      "Arjuna said:", 
+      "O Achyuta. ",
+      "My delusion is destroyed through Your grace", 
+      "and I have regained my memory", 
+      "I stand firm, free from doubt", 
+      "and I shall execute Your word."
+    ],
     "transl": [
       "Arjuna said: My delusion is destroyed, and I have regained my memory through Your grace, O Achyuta. I stand firm, free from doubt, and I shall execute Your word."
     ],
@@ -3901,9 +4025,17 @@ const verses = [
       "संवादम् इमम् अश्रौषम् अद्भुतम् रोमहर्षणम्"
     ],
     "anvaya": [
-      "सञ्जयः उवाच — इति अहम् वासुदेवस्य महात्मनः पार्थस्य च इमम् अद्भुतम् रोमहर्षणम् संवादम् अश्रौषम् ||"
+      "सञ्जयः उवाच —", 
+      "इति अहम्", 
+      "अश्रौषम् ||",
+      "वासुदेवस्य महात्मनः पार्थस्य च इमम् अद्भुतम् रोमहर्षणम् संवादम्", 
     ],
-    "prose": [],
+    "prose": [
+      "Sanjaya said:", 
+      "Thus have I", 
+      "heard", 
+      "this wondrous and hair-raising dialogue between Lord Vasudeva and the high-souled Partha."
+    ],
     "transl": [
       "Sanjaya said: Thus have I heard this wondrous and hair-raising dialogue between Lord Vasudeva and the high-souled Partha."
     ],
@@ -3948,9 +4080,13 @@ const verses = [
       "योगम् योग-ईश्वरात् कृष्णात् साक्षात् कथयतः स्वयम्"
     ],
     "anvaya": [
-      "व्यासप्रसादात् अहम् स्वयम् कथयतः योगेश्वरात् कृष्णात् एतत् परम् गुह्यम् योगम् साक्षात् श्रुतवान् ||"
+      "व्यासप्रसादात्", 
+      "अहम् स्वयम् कथयतः योगेश्वरात् कृष्णात् एतत् परम् गुह्यम् योगम् साक्षात् श्रुतवान् ||", 
     ],
-    "prose": [],
+    "prose": [
+      "By the grace of Vyasa", 
+      "I heard this supreme and most secret Yoga directly from Krishna Himself, the Lord of Yoga, as He spoke it."
+    ],
     "transl": [
       "By the grace of Vyasa, I heard this supreme and most secret Yoga directly from Krishna Himself, the Lord of Yoga, as He spoke it."
     ],
