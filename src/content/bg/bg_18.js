@@ -4131,9 +4131,15 @@ const verses = [
       "केशव-अर्जुनयोः पुण्यम् हृष्यामि च मुहुः मुहुः"
     ],
     "anvaya": [
-      "हे राजन्! केशवार्जुनयोः इमम् अद्भुतम् पुण्यम् संवादम् संस्मृत्य संस्मृत्य (अहम्) मुहुः मुहुः च हृष्यामि ||"
+      "हे राजन्!", 
+      "केशवार्जुनयोः इमम् अद्भुतम् पुण्यम् संवादम् संस्मृत्य संस्मृत्य", 
+      "(अहम्) मुहुः मुहुः च हृष्यामि ||"
     ],
-    "prose": [],
+    "prose": [
+      "O King", 
+      "remembering again and again this marvelous and holy dialogue between Keshava and Arjuna", 
+      "I rejoice repeatedly."
+    ],
     "transl": [
       "O King, remembering again and again this marvelous and holy dialogue between Keshava and Arjuna, I rejoice repeatedly."
     ],
@@ -4176,9 +4182,17 @@ const verses = [
       "विस्मयः मे महान् राजन् हृष्यामि च पुनः पुनः"
     ],
     "anvaya": [
-      "हे राजन्! हरेः तत् अति-अद्भुतम् रूपम् च संस्मृत्य संस्मृत्य मे महान् विस्मयः (भवति), (अहम्) पुनः पुनः च हृष्यामि ||"
+      "हे राजन्!", 
+      "हरेः तत् अति-अद्भुतम् रूपम् च संस्मृत्य संस्मृत्य", 
+      "मे महान् विस्मयः (भवति)", 
+      "(अहम्) पुनः पुनः च हृष्यामि ||"
     ],
-    "prose": [],
+    "prose": [
+      "O King, ",
+      "And remembering again and again that most wondrous Cosmic Form of Lord Hari", 
+      "great is my amazement", 
+      "and I rejoice over and over again."
+    ],
     "transl": [
       "And remembering again and again that most wondrous Cosmic Form of Lord Hari, great is my amazement, O King, and I rejoice over and over again."
     ],
@@ -4224,9 +4238,17 @@ const verses = [
       "तत्र श्रीः विजयः भूतिः ध्रुवा नीतिः मतिः मम"
     ],
     "anvaya": [
-      "यत्र योगेश्वरः कृष्णः (अस्ति), यत्र धनुर्धरः पार्थः (अस्ति), तत्र श्रीः विजयः भूतिः ध्रुवा नीतिः (च भवन्ति); इति मम मतिः ||"
+      "यत्र योगेश्वरः कृष्णः (अस्ति)", 
+      "यत्र धनुर्धरः पार्थः (अस्ति)", 
+      "तत्र श्रीः विजयः भूतिः ध्रुवा नीतिः (च भवन्ति);", 
+      "इति मम मतिः ||"
     ],
-    "prose": [],
+    "prose": [
+      "Wherever there is Krishna, the Lord of Yoga", 
+      "and wherever there is Partha, the archer", 
+      "there will assuredly be opulence, victory, prosperity, and unexcelled morality;", 
+      "such is my conviction."
+    ],
     "transl": [
       "Wherever there is Krishna, the Lord of Yoga, and wherever there is Partha, the archer, there will assuredly be opulence, victory, prosperity, and unexcelled morality; such is my conviction."
     ],
