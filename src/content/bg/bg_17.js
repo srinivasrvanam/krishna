@@ -18,9 +18,19 @@ const verses = [
       "तेषाम् निष्ठा तु का कृष्ण सत्त्वम् आहो रजः तमः"
     ],
     "anvaya": [
-      "अर्जुनः उवाच - हे कृष्ण! ये शास्त्रविधिम् उत्सृज्य श्रद्धया अन्विताः (सन्तः) यजन्ते, तेषाम् निष्ठा तु का? सत्त्वम् आहो रजः तमः (किम्)? ||"
+      "अर्जुनः उवाच -", 
+      "हे कृष्ण!", 
+      "ये शास्त्रविधिम् उत्सृज्य श्रद्धया अन्विताः (सन्तः) यजन्ते", 
+      "तेषाम् निष्ठा तु का?", 
+      "सत्त्वम् आहो रजः तमः (किम्)? ||"
     ],
-    "prose": [],
+    "prose": [
+      "Arjuna said:", 
+      "O Krishna", 
+      "those who perform sacrifice with faith, but set aside the injunctions of the scriptures", 
+      "what is the state/faith of those?",
+      "Is their faith rooted in Sattva, Rajas, or Tamas?"
+    ],
     "transl": [
       "Arjuna said: O Krishna, what is the state of those who perform sacrifice with faith, but set aside the injunctions of the scriptures? Is their faith rooted in Sattva, Rajas, or Tamas?"
     ],
@@ -72,9 +82,15 @@ const verses = [
       "सात्त्विकी राजसी च एव तामसी च इति तम् शृणु"
     ],
     "anvaya": [
-      "श्रीभगवान् उवाच - देहिनाम् सा स्वभावजा श्रद्धा सात्त्विकी, राजसी, तामसी च इति त्रिविधा भवति; ताम् शृणु ||"
+      "श्रीभगवान् उवाच -", 
+      "देहिनाम् सा स्वभावजा श्रद्धा सात्त्विकी, राजसी, तामसी च इति त्रिविधा भवति;", 
+      "ताम् शृणु ||"
     ],
-    "prose": [],
+    "prose": [
+      "The Supreme Lord said:", 
+      "The innate faith of embodied souls is threefold, born of their individual nature—Sattvic, Rajasic, and Tamasic.", 
+      "Listen now to this."
+    ],
     "transl": [
       "The Supreme Lord said: The innate faith of embodied souls is threefold, born of their individual nature—Sattvic, Rajasic, and Tamasic. Listen now to this."
     ],
@@ -123,9 +139,17 @@ const verses = [
       "श्रद्धा-मयः अयम् पुरुषः यः यत्-श्रद्धः सः एव सः"
     ],
     "anvaya": [
-      "हे भारत! सर्वस्य श्रद्धा सत्त्वानुरूपा भवति; अयम् पुरुषः श्रद्धामयः (अस्ति); यः यच्छ्रद्धः, सः एव सः (भवति) ||"
+      "हे भारत!", 
+      "सर्वस्य श्रद्धा सत्त्वानुरूपा भवति;", 
+      "अयम् पुरुषः श्रद्धामयः (अस्ति);", 
+      "यः यच्छ्रद्धः, सः एव सः (भवति) ||"
     ],
-    "prose": [],
+    "prose": [
+      "O descendant of Bharata. ",
+      "The faith of every person corresponds to the purity of their mind", 
+      "A person is made of their faith;", 
+      "whatever their faith is, that indeed they are."
+    ],
     "transl": [
       "The faith of every person corresponds to the purity of their mind, O descendant of Bharata. A person is made of their faith; whatever their faith is, that indeed they are."
     ],
@@ -171,9 +195,15 @@ const verses = [
       "प्रेतान् भूत-गणान् च अन्ये यजन्ते तामसाः जनाः"
     ],
     "anvaya": [
-      "सात्त्विकाः देवान् यजन्ते; राजसाः यक्षरक्षांसि (यजन्ते); अन्ये तामसाः जनाः प्रेतान् भूतगणान् च यजन्ते ||"
+      "सात्त्विकाः देवान् यजन्ते;", 
+      "राजसाः यक्षरक्षांसि (यजन्ते);", 
+      "अन्ये तामसाः जनाः प्रेतान् भूतगणान् च यजन्ते ||"
     ],
-    "prose": [],
+    "prose": [
+      "People in the mode of goodness worship the demigods;", 
+      "those in the mode of passion worship powers and demonic spirits;", 
+      "and those in the mode of ignorance worship ghosts and spirits."
+    ],
     "transl": [
       "People in the mode of goodness worship the demigods; those in the mode of passion worship powers and demonic spirits; and those in the mode of ignorance worship ghosts and spirits."
     ],
