@@ -1070,9 +1070,19 @@ const verses = [
       "देशे काले च पात्रे च तत् दानम् सात्त्विकम् स्मृतम्"
     ],
     "anvaya": [
-      "'दातव्यम्' इति (मन्यमानेन) अनुपकारिणे देशे काले पात्रे च यत् दानम् दीयते, तत् दानम् सात्त्विकम् स्मृतम् ||"
+      "'दातव्यम्' इति (मन्यमानेन)", 
+      "अनुपकारिणे", 
+      "देशे काले पात्रे च", 
+      "यत् दानम् दीयते", 
+      "तत् दानम् सात्त्विकम् स्मृतम् ||"
     ],
-    "prose": [],
+    "prose": [
+      "Charity given out of duty", 
+      "without expectation of return", 
+      "at the proper place and time, and to a worthy recipient",
+      "That charity which is given", 
+      "is considered Sattvic."
+    ],
     "transl": [
       "Charity given out of duty, without expectation of return, at the proper place and time, and to a worthy recipient, is considered Sattvic."
     ],
@@ -1120,9 +1130,17 @@ const verses = [
       "దీయతే చ పరిక్లిష్టమ్ తత్ దా నమ్ రాజసమ్ స్మృతమ్"
     ],
     "anvaya": [
-      "యత్ తు ప్రత్యుపకారార్థమ్ ఫలమ్ ఉద్దిశ్య వా పునః పరిక్లిష్టమ్ చ దీయతే, తత్ దానమ్ రాజసమ్ స్మృతమ్ ||"
+      "యత్ తు (దానమ్) దీయతే", 
+      "- పునః (ప్రత్యుపకారార్థమ్) (ఫలమ్ ఉద్దిశ్య) వా", 
+      "- పరిక్లిష్టమ్ చ", 
+      "తత్ దానమ్ రాజసమ్ స్మృతమ్ ||"
     ],
-    "prose": [],
+    "prose": [
+      "But that charity which is given ",
+      "- with the expectation of a return or a reward", 
+      "- or with reluctance", 
+      "is declared to be Rajasic."
+    ],
     "transl": [
       "But charity given with reluctance, or with the expectation of a return or a reward, is declared to be Rajasic."
     ],
@@ -1169,9 +1187,17 @@ const verses = [
       "అసత్కృతమ్ అవజ్ఞాతమ్ తత్ తామసమ్ उदाహృతమ్"
     ],
     "anvaya": [
-      "అదేశకాలే అపాత్రేభ్యః చ అసత్కృతమ్ అవజ్ఞాతమ్ యత్ దానమ్ దీయతే, తత్ తామసమ్ उदाహృతమ్ ||"
+      "- అదేశకాలే అపాత్రేభ్యః చ", 
+      "- అసత్కృతమ్ అవజ్ఞాతమ్", 
+      "యత్ దానమ్ దీయతే", 
+      "తత్ తామసమ్ उदाహృతమ్ ||"
     ],
-    "prose": [],
+    "prose": [
+      "- at an improper place and time, to unworthy persons", 
+      "- without respect, or with contempt (insult)", 
+      "Charity that is given", 
+      "is declared to be Tamasic."
+    ],
     "transl": [
       "Charity given at an improper place and time, to unworthy persons, without respect, or with contempt, is declared to be Tamasic."
     ],
@@ -1215,9 +1241,13 @@ const verses = [
       "బ్రాహ్మణాః తేన వేదాః చ యజ్ఞాః చ విహితాః పురా"
     ],
     "anvaya": [
-      "'ఓమ్ తత్ సత్' इति బ్రహ్మణః త్రివిధః నిర్దేశః స్మృతః; తేన పురా బ్రాహ్మణాః వేదాః చ యజ్ఞాః చ విహితాః ||"
+      "'ఓమ్ తత్ సత్' इति బ్రహ్మణః త్రివిధః నిర్దేశః స్మృతః;", 
+      "తేన పురా బ్రాహ్మణాః వేదాః చ యజ్ఞాః చ విహితాః ||"
     ],
-    "prose": [],
+    "prose": [
+      "'Om Tat Sat' has been declared as the threefold designation of the Supreme Absolute Truth.", 
+      "By it, the priests, the Vedas, and sacrifices were ordained in ancient times."
+    ],
     "transl": [
       "'Om Tat Sat' has been declared as the threefold designation of the Supreme Absolute Truth. By it, the priests, the Vedas, and sacrifices were ordained in ancient times."
     ],
