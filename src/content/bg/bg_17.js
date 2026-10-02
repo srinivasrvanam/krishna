@@ -248,9 +248,17 @@ const verses = [
       "दम्भ-अहङ्कार-संयुक्ताः काम-राग-बल-अन्विताः"
     ],
     "anvaya": [
-      "ये जनाः दम्भाहङ्कारसंयुक्ताः, कामरागबलान्विताः (सन्तः), अशास्त्रविहितम् घोरम् तपः तप्यन्ते..."
+      "ये जनाः", 
+      "दम्भ-अहङ्कार-संयुक्ताः", 
+      "काम-राग-बल-अन्विताः (सन्तः)", 
+      "अशास्त्र-विहितम् घोरम् तपः तप्यन्ते..."
     ],
-    "prose": [],
+    "prose": [
+      "Those who", 
+      "endowed with ostentation (vanity), egoism",
+      "driven by the force of desire, and attachment",
+      "undergo severe austerities not enjoined by scriptures, ..."
+    ],
     "transl": [
       "Those who undergo severe austerities not enjoined by scriptures, driven by ostentation, egoism, desire, and attachment..."
     ],
@@ -291,9 +299,13 @@ const verses = [
       "माम् च एव अन्तःशरीर-स्थम् तान् विद्धि आसुर-निश्चयान्"
     ],
     "anvaya": [
-      "शरीरस्थम् भूतग्रामम् अन्तःशरीरस्थम् माम् च एव कर्षयन्तः, तान् अचेतसः आसुरनिश्चयान् विद्धि ||"
+      "(शरीरस्थम् भूत-ग्रामम्) (अन्तःशरीर-स्थम् माम्) च एव कर्षयन्तः", 
+      "तान् अचेतसः आसुर-निश्चयान् विद्धि ||"
     ],
-    "prose": [],
+    "prose": [
+      "...senselessly torturing the elements of the physical body and Me who dwells within it",
+      "know such people to be of demonic resolve."
+    ],
     "transl": [
       "...senselessly torturing the elements of the physical body and Me who dwells within it—know such people to be of demonic resolve."
     ],
@@ -337,9 +349,15 @@ const verses = [
       "यज्ञः तपः तथा दानम् तेषाम् भेदम् इमम् शृणु"
     ],
     "anvaya": [
-      "सर्वस्य प्रियः आहारः तु अपि त्रिविधः भवति; तथा यज्ञः, तपः, दानम् (च त्रिविधम् भवति); तेषाम् इमम् भेदम् शृणु ||"
+      "सर्वस्य प्रियः आहारः तु अपि त्रिविधः भवति;", 
+      "तथा यज्ञः, तपः, दानम् (च त्रिविधम् भवति);", 
+      "तेषाम् इमम् भेदम् शृणु ||"
     ],
-    "prose": [],
+    "prose": [
+      "Even the food preferred by each person is of three kinds", 
+      "as are sacrifice, austerity, and charity.", 
+      "Listen to the distinctions between them."
+    ],
     "transl": [
       "Even the food preferred by each person is of three kinds, as are sacrifice, austerity, and charity. Listen to the distinctions between them."
     ],
@@ -387,9 +405,21 @@ const verses = [
       "रसियाः स्निग्धाः स्थिराः हृद्याः आहाराः सात्त्विक-प्रियाः"
     ],
     "anvaya": [
-      "आयुःसत्त्वबलारोग्यसुखप्रीतिविवर्धनाः, रसियाः, स्निग्धाः, स्थिराः, हृद्याः (च) आहाराः सात्त्विकप्रियाः (भवन्ति) ||"
+      "आयुः-सत्त्व-बल-आरोग्य-सुख-प्रीति-विवर्धनाः", 
+      "रसियाः", 
+      "स्निग्धाः", 
+      "स्थिराः", 
+      "हृद्याः (च)", 
+      "आहाराः सात्त्विक-प्रियाः (भवन्ति) ||"
     ],
-    "prose": [],
+    "prose": [
+      "Foods that promote longevity, vital energy, strength, health, happiness, and satisfaction", 
+      "and which are juicy", 
+      "wholesome", 
+      "nourishing/long lasting", 
+      "and pleasing to the heart", 
+      "are dear to those in the mode of goodness."
+    ],
     "transl": [
       "Foods that promote longevity, vital energy, strength, health, happiness, and satisfaction, and which are juicy, wholesome, nourishing, and pleasing, are dear to those in the mode of goodness."
     ],
@@ -429,9 +459,15 @@ const verses = [
       "आहाराः राजसस्य इष्टाः दुःख-शोक-आमय-प्रदाः"
     ],
     "anvaya": [
-      "कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः आहाराः राजसस्य इष्टाः (भवन्ति, ते च) दुःखशोकामयप्रदाः (भवन्ति) ||"
+      "कटु-अम्ल-लवण-अति-उष्ण-तीक्ष्ण-रूक्ष-विदाहिनः", 
+      "आहाराः राजसस्य इष्टाः (भवन्ति)", 
+      "(ते च) दुःखशोकामयप्रदाः (भवन्ति) ||"
     ],
-    "prose": [],
+    "prose": [
+      "Foods that are overly bitter, sour, salty, hot, pungent (spicy), dry, and burning", 
+      "are preferred by those in Rajas;", 
+      "they cause pain, distress, and disease."
+    ],
     "transl": [
       "Foods that are overly bitter, sour, salty, hot, pungent, dry, and burning are preferred by those in Rajas; they cause pain, distress, and disease."
     ],
@@ -475,9 +511,23 @@ const verses = [
       "उच्छिष्टम् अपि च अमेध्यम् भोजनम् तामस-प्रियम्"
     ],
     "anvaya": [
-      "यत भोजनम् यातयामम्, गतरसम्, पूति, पर्युषितम्, उच्छिष्टम्, अमेध्यम् च (भवति), तत् तामसप्रियम् (भवति) ||"
+      "यत भोजनम् यातयामम्", 
+      "गतरसम्", 
+      "पूति", 
+      "पर्युषितम्", 
+      "उच्छिष्टम्", 
+      "अमेध्यम् च (भवति)", 
+      "तत् तामसप्रियम् (भवति) ||"
     ],
-    "prose": [],
+    "prose": [
+      "Food that is stale", 
+      "tasteless", 
+      "putrid (foul-smelling)", 
+      "decomposed (leftover overnight)", 
+      "leftover by others", 
+      "and impure", 
+      "is dear to those in the mode of ignorance."
+    ],
     "transl": [
       "Food that is stale, tasteless, putrid, decomposed, leftover, and impure is dear to those in the mode of ignorance."
     ],
@@ -522,9 +572,19 @@ const verses = [
       "यष्टव्यम् एव इति मनः समाधाय सः सात्त्विकः"
     ],
     "anvaya": [
-      "अफलाकाङ्क्षिभिः 'यष्टव्यम् एव' इति मनः समाधाय विधिदृष्टः यः यज्ञः इज्यते, सः सात्त्विकः (भवति) ||"
+      "अ-फल-आकाङ्क्षिभिः", 
+      "'यष्टव्यम् एव' इति मनः समाधाय", 
+      "विधि-दृष्टः", 
+      "यः यज्ञः इज्यते", 
+      "सः सात्त्विकः (भवति) ||"
     ],
-    "prose": [],
+    "prose": [
+      "by those who desire no reward",
+      "and who firmly believe that it is their duty to sacrifice.",
+      "according to scriptural directions, ",
+      "That sacrifice which is performed ",
+      "That sacrifice is Sattvic"
+    ],
     "transl": [
       "That sacrifice is Sattvic which is performed according to scriptural directions, by those who desire no reward, and who firmly believe that it is their duty to sacrifice."
     ],
@@ -569,9 +629,15 @@ const verses = [
       "इज्यते भरत-श्रेष्ठ तम् यज्ञम् विद्धि राजसम्"
     ],
     "anvaya": [
-      "हे भरतश्रेष्ठ! फलम् अभिसन्धाय दम्भार्थम् अपि च एव यत् इज्यते, तम् यज्ञम् राजसम् विद्धि ||"
+      "हे भरतश्रेष्ठ!", 
+      "फलम् अभिसन्धाय दम्भार्थम् अपि च एव यत् इज्यते", 
+      "तम् यज्ञम् राजसम् विद्धि ||"
     ],
-    "prose": [],
+    "prose": [
+      "O best of the Bharatas",
+      "But that sacrifice which is performed seeking material rewards or for ostentation (vanity)", 
+      "know it to be Rajasic."
+    ],
     "transl": [
       "But that sacrifice which is performed seeking material rewards or for ostentation, O best of the Bharatas, know it to be Rajasic."
     ],
@@ -618,9 +684,21 @@ const verses = [
       "श्रद्धा-विरहितम् यज्ञम् तामसम् परिचक्षते"
     ],
     "anvaya": [
-      "विधिहीनम्, असृष्टान्नम्, मन्त्रहीनम्, अदक्षिणम्, श्रद्धाविरहितम् (च) यज्ञम् तामसम् परिचक्षते ||"
+      "विधि-हीनम्", 
+      "असृष्ट-अन्नम्", 
+      "मन्त्र-हीनम्", 
+      "अदक्षिणम्", 
+      "श्रद्धा-विरहितम् (च)", 
+      "यज्ञम् तामसम् परिचक्षते ||"
     ],
-    "prose": [],
+    "prose": [
+      "A sacrifice performed without scriptural rites", 
+      "without distribution of food", 
+      "without sacred chants", 
+      "without honoraria to priests", 
+      "and devoid of faith", 
+      "is declared to be Tamasic."
+    ],
     "transl": [
       "A sacrifice performed without scriptural rites, without distribution of food, without sacred chants, without honoraria to priests, and devoid of faith is declared to be Tamasic."
     ],
@@ -661,9 +739,21 @@ const verses = [
       "ब्रह्मचर्यम् अहिंसा च शारीरम् तपः उच्यते"
     ],
     "anvaya": [
-      "देवद्विजगुरुप्राज्ञपूजनम्, शौचम्, आर्जवम्, ब्रह्मचर्यम्, अहिंसा च शारीरम् तपः उच्यते ||"
+      "देव-द्विज-गुरु-प्राज्ञ-पूजनम्", 
+      "शौचम्", 
+      "आर्जवम्", 
+      "ब्रह्मचर्यम्", 
+      "अहिंसा च", 
+      "शारीरम् तपः उच्यते ||"
     ],
-    "prose": [],
+    "prose": [
+      "Worship of the Supreme Lord, the learned, spiritual masters, and the wise", 
+      "along with purity", 
+      "straightforwardness", 
+      "celibacy", 
+      "and non-violence",
+      "—this is called austerity of the body."
+    ],
     "transl": [
       "Worship of the Supreme Supreme Lord, the learned, spiritual masters, and the wise, along with purity, straightforwardness, celibacy, and non-violence—this is called austerity of the body."
     ],
@@ -705,9 +795,19 @@ const verses = [
       "स्वाध्याय-अभ्यसनम् च एव वाक्-मयम् तपः उच्यते"
     ],
     "anvaya": [
-      "यत् वाक्यम् अनुद्वेगकरम्, सत्यम्, प्रियहितम् च (भवति), स्वाध्यायाभ्यसनम् च एव—वाङ्मयम् तपः उच्यते ||"
+      "यत् वाक्यम् अनुद्वेगकरम्", 
+      "सत्यम्", 
+      "प्रिय-हितम् च (भवति)", 
+      "स्वाध्याय-अभ्यसनम् च एव",
+      "—वाङ्मयम् (वाक्-मयम्) तपः उच्यते ||"
     ],
-    "prose": [],
+    "prose": [
+      "Words that do not cause agitation", 
+      "and are truthful", 
+      "pleasant, and beneficial", 
+      "alongside regular recitation of sacred scriptures",
+      "—this is called austerity of speech."
+    ],
     "transl": [
       "Words that do not cause agitation, and are truthful, pleasant, and beneficial, alongside regular recitation of sacred scriptures—this is called austerity of speech."
     ],
@@ -752,9 +852,21 @@ const verses = [
       "भाव-संशुद्धिः इति एतत् तपः मानसम् उच्यते"
     ],
     "anvaya": [
-      "मनःप्रसादः, सौम्यत्वम्, मौनम्, आत्मविनिग्रहः, भावसंशुद्धिः इति एतत् मानसम् तपः उच्यते ||"
+      "मनः-प्रसादः", 
+      "सौम्यत्वम्", 
+      "मौनम्", 
+      "आत्म-विनिग्रहः", 
+      "भाव-संशुद्धिः", 
+      "इति एतत् मानसम् तपः उच्यते ||"
     ],
-    "prose": [],
+    "prose": [
+      "Serenity of mind", 
+      "gentleness", 
+      "silence", 
+      "self-restraint", 
+      "and purity of intent",
+      "—this is called austerity of the mind."
+    ],
     "transl": [
       "Serenity of mind, gentleness, silence, self-restraint, and purity of intent—this is called austerity of the mind."
     ],
@@ -797,9 +909,15 @@ const verses = [
       "अफल-आकाङ्क्षिभिः युक्तैः सात्त्विकम् परिचक्षते"
     ],
     "anvaya": [
-      "अफलाकाङ्क्षिभिः युक्तैः नरैः परया श्रद्धया तप्तम् तत् त्रिविधम् तपः सात्त्विकम् परिचक्षते ||"
+      "अफल-आकाङ्क्षिभिः युक्तैः नरैः", 
+      "परया श्रद्धया तप्तम्", 
+      "तत् त्रिविधम् तपः सात्त्विकम् परिचक्षते ||"
     ],
-    "prose": [],
+    "prose": [
+      "by steadfast people who desire no material gain", 
+      "practiced with supreme faith", 
+      "This threefold austerity (of body, speech, and mind) is declared to be Sattvic."
+    ],
     "transl": [
       "This threefold austerity (of body, speech, and mind), practiced with supreme faith by steadfast people who desire no material gain, is declared to be Sattvic."
     ],
@@ -843,9 +961,17 @@ const verses = [
       "क्रियते तत् इह प्रोक्तम् राजसम् चलम् अध्रुवम्"
     ],
     "anvaya": [
-      "सत्कारमानपूजार्थम् दम्भेन च एव यत् तपः क्रियते, तत् चलम् अध्रुवम् (तपः) इह राजसम् प्रोक्तम् ||"
+      "सत्कार-मान-पूजा-अर्थम्", 
+      "दम्भेन च एव यत् तपः क्रियते", 
+      "तत् चलम् अध्रुवम् (तपः)", 
+      "इह राजसम् प्रोक्तम् ||"
     ],
-    "prose": [],
+    "prose": [
+      "Austerity practiced to gain respect, honor, and reverence", 
+      "or out of hypocrisy (show)", 
+      "It is unstable and temporary in its effects.",
+      "is declared to be Rajasic.", 
+    ],
     "transl": [
       "Austerity practiced to gain respect, honor, and reverence, or out of hypocrisy, is declared to be Rajasic. It is unstable and temporary in its effects."
     ],
@@ -891,9 +1017,15 @@ const verses = [
       "परस्य उत्सादन-अर्थम् वा तत् तामसम् उदाहृतम्"
     ],
     "anvaya": [
-      "मूढग्राहेण आत्मनः पीडया वा परस्य उत्सादनार्थम् यत् तपः क्रियते, तत् तामसम् उदाहृतम् ||"
+      "मूढ-ग्राहेण (आत्मनः पीडया) वा (परस्य उत्सादन-अर्थम्)", 
+      "यत् तपः क्रियते", 
+      "तत् तामसम् उदाहृतम् ||"
     ],
-    "prose": [],
+    "prose": [
+      "out of foolish conviction, (involving self-torture), or (for the purpose of harming others)", 
+      "Austerity practiced ",
+      "is declared to be Tamasic."
+    ],
     "transl": [
       "Austerity practiced out of foolish conviction, involving self-torture, or for the purpose of harming others, is declared to be Tamasic."
     ],
