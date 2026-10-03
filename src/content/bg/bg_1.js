@@ -18,9 +18,21 @@ const verses = [
       "मामकाः पाण्डवाः च एव किम् अकुर्वत सञ्जय"
     ],
     "anvaya": [
-      "धृतराष्ट्रः उवाच — हे सञ्जय! धर्मक्षेत्रे कुरुक्षेत्रे समवेताः युयुत्सवः मामकाः पाण्डवाः च एव किम् अकुर्वत? ||"
+      "धृतराष्ट्रः उवाच —", 
+      "हे सञ्जय!", 
+      "धर्मक्षेत्रे कुरुक्षेत्रे", 
+      "समवेताः युयुत्सवः", 
+      "मामकाः पाण्डवाः च एव", 
+      "किम् अकुर्वत? ||"
     ],
-    "prose": [],
+    "prose": [
+      "Dhritarashtra said:", 
+      "O Sanjaya", 
+      "on the holy plain of Kurukshetra",
+      "assembled  and eager to fight", 
+      "my sons and the sons of Pandu",
+      "what did they do?"
+    ],
     "transl": [
       "Dhritarashtra said: O Sanjaya, assembled on the holy plain of Kurukshetra and eager to fight, what did my sons and the sons of Pandu do?"
     ],
@@ -68,9 +80,21 @@ const verses = [
       "आचार्यम् उपसङ्गम्य राजा वचनम् अब्रवीत्"
     ],
     "anvaya": [
-      "सञ्जयः उवाच — तदा तु राजा दुर्योधनः व्यूढम् पाण्डवानीकम् दृष्ट्वा, आचार्यम् उपसङ्गम्य वचनम् अब्रवीत् ||"
+      "सञ्जयः उवाच —", 
+      "तदा तु", 
+      "राजा दुर्योधनः", 
+      "व्यूढम् पाण्डवानीकम् दृष्ट्वा", 
+      "आचार्यम् उपसङ्गम्य", 
+      "वचनम् अब्रवीत् ||"
     ],
-    "prose": [],
+    "prose": [
+      "Sanjaya said:", 
+      "At that time",
+      "King Duryodhana",
+      "Having seen the army of the Pandavas arranged in battle formation", 
+      "approached his teacher Drona", 
+      "and spoke these words."
+    ],
     "transl": [
       "Sanjaya said: Having seen the army of the Pandavas arranged in battle formation, King Duryodhana approached his teacher Drona and spoke these words."
     ],
@@ -115,9 +139,17 @@ const verses = [
       "व्यूढाम् द्रुपद-पुत्रेण तव शिष्येण धीमता"
     ],
     "anvaya": [
-      "हे आचार्य! तव धीमता शिष्येण द्रुपदपुत्रेण व्यूढाम् पाण्डुपुत्राणाम् एताम् महतीम् चमूम् पश्य ||"
+      "हे आचार्य!", 
+      "तव धीमता शिष्येण द्रुपदपुत्रेण व्यूढाम्", 
+      "पाण्डुपुत्राणाम् एताम् महतीम् चमूम्", 
+      "पश्य ||"
     ],
-    "prose": [],
+    "prose": [
+      "O Master", 
+      "strategically arranged by your talented disciple, the son of Drupada (Dhrishtadyumna).",
+      "this vast army of the sons of Pandu, ",
+      "behold"
+    ],
     "transl": [
       "O Master, behold this vast army of the sons of Pandu, strategically arranged by your talented disciple, the son of Drupada."
     ],
@@ -161,9 +193,15 @@ const verses = [
       "युयुधानः विराटः च द्रुपदः च महा-रथः"
     ],
     "anvaya": [
-      "अत्र युधि भीमार्जुनसमाः शूराः महेष्वासाः युयुधानः विराटः च महारथः द्रुपदः च (सन्ति) ||"
+      "अत्र", 
+      "युधि भीमार्जुनसमाः शूराः महेष्वासाः", 
+      "युयुधानः विराटः च (महारथः) द्रुपदः च (सन्ति) ||"
     ],
-    "prose": [],
+    "prose": [
+      "Here", 
+      "are heroic archers, equal in battle to Bhima and Arjuna:", 
+      "Yuyudhana, Virata, and Drupada, the great car-warrior."
+    ],
     "transl": [
       "Here are heroic archers, equal in battle to Bhima and Arjuna: Yuyudhana, Virata, and Drupada, the great car-warrior."
     ],
@@ -207,9 +245,15 @@ const verses = [
       "पुरुजित् कुन्तिभोजः च शैब्यः च नर-पुङ्गवः"
     ],
     "anvaya": [
-      "धृष्टकेतुः, चेकितानः, वीर्यवान् काशिराजः च, पुरुजित्, कुन्तिभोजः च, नरपुङ्गवः शैब्यः च (अत्र सन्ति) ||"
+      "धृष्टकेतुः, चेकितानः, (वीर्यवान्) काशिराजः च", 
+      "पुरुजित्, कुन्तिभोजः च", 
+      "नरपुङ्गवः शैब्यः च (अत्र सन्ति) ||"
     ],
-    "prose": [],
+    "prose": [
+      "Dhrishtaketu, Chekitana, and the heroic King of Kashi;", 
+      "Purujit, Kuntibhoja", 
+      "and Shaibya, the best among men."
+    ],
     "transl": [
       "Dhrishtaketu, Chekitana, and the heroic King of Kashi; Purujit, Kuntibhoja, and Shaibya, the best among men."
     ],
@@ -253,9 +297,19 @@ const verses = [
       "सौभद्रः द्रौपदेयाः च सर्वे एव महा-रथाः"
     ],
     "anvaya": [
-      "विक्रान्तः युधामन्युः च, वीर्यवान् उत्तमौजाः च, सौभद्रः, द्रौपदेयाः च, सर्वे एव महारथाः (अत्र सन्ति) ||"
+      "(विक्रान्तः) युधामन्युः च", 
+      "(वीर्यवान्) उत्तमौजाः च", 
+      "सौभद्रः", 
+      "द्रौपदेयाः च", 
+      "सर्वे एव महारथाः (अत्र सन्ति) ||"
     ],
-    "prose": [],
+    "prose": [
+      "And the courageous Yudhamanyu", 
+      "the powerful Uttamauja", 
+      "the son of Subhadra (Abhimanyu)", 
+      "and the sons of Draupadi",
+      "—all of these are indeed great car-warriors."
+    ],
     "transl": [
       "And the courageous Yudhamanyu, the powerful Uttamauja, the son of Subhadra (Abhimanyu), and the sons of Draupadi—all of these are indeed great car-warriors."
     ],
@@ -300,9 +354,19 @@ const verses = [
       "नायकाः मम सैन्यस्य सञ्ज्ञा-अर्थम् तान् ब्रवीमि ते"
     ],
     "anvaya": [
-      "हे द्विजोत्तम! अस्माकम् तु ये विशिष्टाः, मम सैन्यस्य ये नायकाः (सन्ति), तान् निबोध; ते सञ्ज्ञाअर्थम् तान् ब्रवीमि ||"
+      "हे द्विजोत्तम!", 
+      "अस्माकम् तु ये विशिष्टाः", 
+      "तान् निबोध;", 
+      "मम सैन्यस्य ये नायकाः (सन्ति)", 
+      "ते सञ्ज्ञाअर्थम् तान् ब्रवीमि ||"
     ],
-    "prose": [],
+    "prose": [
+      "O best of the twice-born (Drona)", 
+      "those who are prominent on our side",
+      "know also (about them)",
+      "—those who are leaders of my army.", 
+      "For your information, I shall name them to you."
+    ],
     "transl": [
       "O best of the twice-born (Drona), know also those who are prominent on our side—the leaders of my army. For your information, I shall name them to you."
     ],
@@ -349,9 +413,23 @@ const verses = [
       "अश्वत्थामा विकर्णः च सौमदत्तिः तथा एव च"
     ],
     "anvaya": [
-      "भवान्, भीष्मः च, कर्णः च, समितिंजयः कृपः च, अश्वत्थामा, विकर्णः च, तथा एव च सौमदत्तिः (अत्र सन्ति) ||"
+      "भवान्", 
+      "भीष्मः च", 
+      "कर्णः च", 
+      "समितिंजयः कृपः च", 
+      "अश्वत्थामा", 
+      "विकर्णः च", 
+      "तथा एव च सौमदत्तिः (अत्र सन्ति) ||"
     ],
-    "prose": [],
+    "prose": [
+      "Yourself", 
+      "Bhishma", 
+      "Karna", 
+      "and the victorious-in-battle Kripa;", 
+      "Ashvatthama", 
+      "Vikarna", 
+      "and also the son of Somadatta (Bhurishrava)."
+    ],
     "transl": [
       "Yourself, Bhishma, Karna, and the victorious-in-battle Kripa; Ashvatthama, Vikarna, and also the son of Somadatta (Bhurishrava)."
     ],
@@ -399,9 +477,17 @@ const verses = [
       "नाना-शास्त्र-प्रहरणाः सर्वे युद्ध-विशारदाः"
     ],
     "anvaya": [
-      "मदर्थे त्यक्तजीविताः अन्ये च बहवः शूराः (सन्ति), (ये) नानाशास्त्रप्रहरणाः सर्वे युद्धविशारदाः (सन्ति) ||"
+      "अन्ये च बहवः शूराः (सन्ति)", 
+      "मत्-अर्थे त्यक्त-जीविताः", 
+      "(ये) नाना-शास्त्र-प्रहरणाः", 
+      "सर्वे युद्ध-विशारदाः (सन्ति) ||"
     ],
-    "prose": [],
+    "prose": [
+      "And there are many other heroes", 
+      "who are prepared to lay down their lives for my sake", 
+      "equipped with diverse weapons", 
+      "and all well-versed in warfare."
+    ],
     "transl": [
       "And there are many other heroes who are prepared to lay down their lives for my sake, equipped with diverse weapons and all well-versed in warfare."
     ],
@@ -443,9 +529,13 @@ const verses = [
       "पर्याप्तम् तु इदम् एतेषाम् बलम् भीम-अभिरक्षितम्"
     ],
     "anvaya": [
-      "भीष्माभिरक्षितम् अस्माकम् तत् बलम् अपर्याप्तम्, तु भीमाभिरक्षितम् एतेषाम् इदम् बलम् पर्याप्तम् ||"
+      "भीष्माभिरक्षितम् अस्माकम् तत् बलम् अपर्याप्तम्", 
+      "तु भीमाभिरक्षितम् एतेषाम् इदम् बलम् पर्याप्तम् ||"
     ],
-    "prose": [],
+    "prose": [
+      "Our strength, guarded by Bhishma, is immeasurable (or unlimited)", 
+      "whereas their strength, guarded by Bhima, is limited."
+    ],
     "transl": [
       "Our strength, guarded by Bhishma, is immeasurable (or unlimited), whereas their strength, guarded by Bhima, is limited."
     ],
@@ -489,9 +579,17 @@ const verses = [
       "भीष्मम् एव अभिरक्षन्तु भवन्तः सर्वे एव हि"
     ],
     "anvaya": [
-      "सर्वेषु अयनेषु च यथाभागम् अवस्थिताः भवन्तः सर्वे एव हि भीष्मम् एव अभिरक्षन्तु ||"
+      "सर्वेषु अयनेषु च", 
+      "यथाभागम् अवस्थिताः", 
+      "भवन्तः सर्वे एव हि", 
+      "भीष्मम् एव अभिरक्षन्तु ||"
     ],
-    "prose": [],
+    "prose": [
+      "in all the divisions of the army",
+      "Therefore, standing firmly at your respective strategic positions", 
+      "all of you",
+      "must protect Grandsire Bhishma alone."
+    ],
     "transl": [
       "Therefore, standing firmly at your respective strategic positions in all the divisions of the army, all of you must protect Grandsire Bhishma alone."
     ],
@@ -536,9 +634,17 @@ const verses = [
       "सिंह-नादम् विनद्य उच्चैः शङ्खम् दध्मौ प्रतापवान्"
     ],
     "anvaya": [
-      "तस्य हर्षम् सञ्जनयन् प्रतापवान् कुरुवृद्धः पितामहः उच्चैः सिंहनादम् विनद्य शङ्खम् दध्मौ ||"
+      "तस्य हर्षम् सञ्जनयन्", 
+      "प्रतापवान् कुरुवृद्धः पितामहः", 
+      "उच्चैः सिंह-नादम् विनद्य", 
+      "शङ्खम् दध्मौ ||"
     ],
-    "prose": [],
+    "prose": [
+      "while causing his (Duryodhana's) joy", 
+      "the glorious grand sire of the Kuru dynasty, Bhishma", 
+      "roared loudly like a lion", 
+      "and blew his conch shell."
+    ],
     "transl": [
       "To cheer Duryodhana up, the glorious grand sire of the Kuru dynasty, Bhishma, roared loudly like a lion and blew his conch shell."
     ],
@@ -582,9 +688,21 @@ const verses = [
       "सहसा एव अभ्यहन्यन्त सः शब्दः तुमुलः अभवत्"
     ],
     "anvaya": [
-      "ततः शङ्खाः च भेर्यः च पणवानकगोमुखाः सहसा एव अभ्यहन्यन्त, सः शब्दः तुमुलः अभवत् ||"
+      "ततः", 
+      "शङ्खाः च", 
+      "भेर्यः च", 
+      "पणव-आनक-गोमुखाः", 
+      "सहसा एव अभ्यहन्यन्त", 
+      "सः शब्दः तुमुलः अभवत् ||"
     ],
-    "prose": [],
+    "prose": [
+      "Thereupon", 
+      "conch shells", 
+      "kettledrums", 
+      "tabors, drums, and cow-horns", 
+      "suddenly blared forth", 
+      "producing a tumultuous noise."
+    ],
     "transl": [
       "Thereupon, conch shells, kettledrums, tabors, drums, and cow-horns suddenly blared forth, producing a tumultuous noise."
     ],
@@ -630,9 +748,17 @@ const verses = [
       "माधवः पाण्डवः च एव दिव्यौ शङ्खौ प्रदध्मतुः"
     ],
     "anvaya": [
-      "ततः श्वेतैः हयैः युक्ते महति स्यन्दने स्थितौ माधवः पाण्डवः च एव दिव्यौ शङ्खौ प्रदध्मतुः ||"
+      "ततः", 
+      "श्वेतैः हयैः युक्ते महति स्यन्दने स्थितौ", 
+      "माधवः पाण्डवः च एव", 
+      "दिव्यौ शङ्खौ प्रदध्मतुः ||"
     ],
-    "prose": [],
+    "prose": [
+      "Then", 
+      "seated in a magnificent chariot yoked with white horses", 
+      "Madhava (Krishna) and the son of Pandu (Arjuna)", 
+      "blew their divine conch shells."
+    ],
     "transl": [
       "Then, seated in a magnificent chariot yoked with white horses, Madhava (Krishna) and the son of Pandu (Arjuna) blew their divine conch shells."
     ],
@@ -679,9 +805,15 @@ const verses = [
       "पौण्ड्रम् दध्मौ महा-शङ्खम् भीम-कर्मा वृकोदरः"
     ],
     "anvaya": [
-      "हृषीकेशः पाञ्चजन्यम्, धनञ्जयः देवदत्तम्, भीमकर्मा वृकोदरः पौण्ड्रम् महाशङ्खम् दध्मौ ||"
+      "हृषीकेशः पाञ्चजन्यम्", 
+      "धनञ्जयः देवदत्तम्", 
+      "भीमकर्मा वृकोदरः पौण्ड्रम् महाशङ्खम् दध्मौ ||"
     ],
-    "prose": [],
+    "prose": [
+      "Hrishikesha (Krishna) blew His conch shell, Panchajanya;", 
+      "Dhananjaya (Arjuna) blew Devadatta;", 
+      "and Bhima, the doer of Herculean deeds and owner of a wolfish appetite, blew his mighty conch shell, Paundra."
+    ],
     "transl": [
       "Hrishikesha (Krishna) blew His conch shell, Panchajanya; Dhananjaya (Arjuna) blew Devadatta; and Bhima, the doer of Herculean deeds and owner of a wolfish appetite, blew his mighty conch shell, Paundra."
     ],
@@ -723,9 +855,13 @@ const verses = [
       "नकुलः सहदेवः च सुघोष-मणिपुष्पकौ"
     ],
     "anvaya": [
-      "कुन्तीपुत्रः राजा युधिष्ठिरः अनन्तविजयम् (दध्मौ), नकुलः सहदेवः च सुघोषमणिपुष्पकौ (दध्मतुः) ||"
+      "कुन्तीपुत्रः राजा युधिष्ठिरः अनन्तविजयम् (दध्मौ)", 
+      "नकुलः सहदेवः च सुघोषमणिपुष्पकौ (दध्मतुः) ||"
     ],
-    "prose": [],
+    "prose": [
+      "King Yudhisthira, the son of Kunti, blew his conch shell, Anantavijaya;", 
+      "Nakula and Sahadeva blew the Sughosha and Manipushpaka respectively."
+    ],
     "transl": [
       "King Yudhisthira, the son of Kunti, blew his conch shell, Anantavijaya; Nakula and Sahadeva blew the Sughosha and Manipushpaka respectively."
     ],
@@ -766,9 +902,15 @@ const verses = [
       "धृष्टद्युम्नः विराटः च सात्यकिः च अपराजितः"
     ],
     "anvaya": [
-      "परमेष्वासः काश्यः च, महारथः शिखण्डी च, धृष्टद्युम्नः, विराटः च, अपराजितः सात्यकिः च (पृथक् पृथक् शङ्खान् दध्मुः) ||"
+      "परमेष्वासः काश्यः च", 
+      "महारथः शिखण्डी च", 
+      "धृष्टद्युम्नः, विराटः च, (अपराजितः) सात्यकिः च (पृथक् पृथक् शङ्खान् दध्मुः) ||"
     ],
-    "prose": [],
+    "prose": [
+      "And the King of Kashi, an excellent archer;", 
+      "Shikhandi, the great car-warrior;", 
+      "Dhrishtadyumna, Virata, and the unconquered Satyaki;"
+    ],
     "transl": [
       "And the King of Kashi, an excellent archer; Shikhandi, the great car-warrior; Dhrishtadyumna, Virata, and the unconquered Satyaki;"
     ],
@@ -813,9 +955,19 @@ const verses = [
       "सौभद्रः च महा-बाहुः शङ्खान् दध्मुः पृथक् पृथक्"
     ],
     "anvaya": [
-      "हे पृथिवीपते! द्रुपदः, द्रौपदेयाः च, महाबाहुः सौभद्रः च सर्वशः पृथक् पृथक् शङ्खान् दध्मुः ||"
+      "हे पृथिवीपते!", 
+      "द्रुपदः", 
+      "द्रौपदेयाः च", 
+      "महाबाहुः सौभद्रः च", 
+      "सर्वशः पृथक् पृथक् शङ्खान् दध्मुः ||"
     ],
-    "prose": [],
+    "prose": [
+      "O King of the earth (Dhritarashtra)", 
+      "Drupada", 
+      "the sons of Draupadi", 
+      "and the mighty-armed son of Subhadra (Abhimanyu)", 
+      "all blew their respective conch shells from all sides."
+    ],
     "transl": [
       "O King of the earth (Dhritarashtra), Drupada, the sons of Draupadi, and the mighty-armed son of Subhadra (Abhimanyu) all blew their respective conch shells from all sides."
     ],
@@ -859,9 +1011,15 @@ const verses = [
       "नभः च पृथिवीम् च एव तुमुलः व्यनुनादयन्"
     ],
     "anvaya": [
-      "नभः च पृथिवीम् च एव व्यनुनादयन् तुमुलः सः घोषः धार्तराष्ट्राणाम् हृदयानि व्यदारयत् ||"
+      "तुमुलः सः घोषः",
+      "नभः च पृथिवीम् च एव व्यनुनादयन्", 
+      "धार्तराष्ट्राणाम् हृदयानि व्यदारयत् ||"
     ],
-    "prose": [],
+    "prose": [
+      "That tumultuous sound", 
+      "resounding through sky and earth", 
+      "shattered the hearts of the sons of Dhritarashtra."
+    ],
     "transl": [
       "That tumultuous sound, resounding through sky and earth, shattered the hearts of the sons of Dhritarashtra."
     ],
@@ -909,9 +1067,23 @@ const verses = [
       "हृषीकेशम् तदा वाक्यम् इदम् आह मही-पते"
     ],
     "anvaya": [
-      "हे महीपते! अथ कपिध्वजः पाण्डवः व्यवस्थितान् धार्तराष्ट्रान् दृष्ट्वा, शस्त्रसम्पाते प्रवृत्ते (सति), धनुः उद्यम्य तदा हृषीकेशम् इदम् वाक्यम् आह —"
+      "हे महीपते!", 
+      "अथ", 
+      "कपिध्वजः पाण्डवः", 
+      "व्यवस्थितान् धार्तराष्ट्रान् दृष्ट्वा", 
+      "शस्त्रसम्पाते प्रवृत्ते (सति)", 
+      "धनुः उद्यम्य", 
+      "तदा हृषीकेशम् इदम् वाक्यम् आह —"
     ],
-    "prose": [],
+    "prose": [
+      "O King (Dhritharasthtra)", 
+      "thereupon", 
+      "Arjuna (whose emblem was Hanuman)",
+      "seeing the sons of Dhritarashtra arrayed", 
+      "and the discharge of weapons about to begin", 
+      "lifted his bow", 
+      "and spoke these words to Hrishikesha (Krishna)."
+    ],
     "transl": [
       "O King, thereupon, seeing the sons of Dhritarashtra arrayed and the discharge of weapons about to begin, Arjuna (whose emblem was Hanuman) lifted his bow and spoke these words to Hrishikesha (Krishna)."
     ],
@@ -960,9 +1132,15 @@ const verses = [
       "सेनयोः उभयोः मध्ये रथम् स्थापय मे अच्युत"
     ],
     "anvaya": [
-      "अर्जुनः उवाच — हे अच्युत! मे रथम् उभयोः सेनयोः मध्ये स्थापय ||"
+      "अर्जुनः उवाच", 
+      "— हे अच्युत!", 
+      "मे रथम् उभयोः सेनयोः मध्ये स्थापय ||"
     ],
-    "prose": [],
+    "prose": [
+      "Arjuna said:", 
+      "O Infallible One (Achyuta)", 
+      "please place my chariot between the two armies."
+    ],
     "transl": [
       "Arjuna said: O Infallible One (Achyuta), please place my chariot between the two armies."
     ],
@@ -1003,9 +1181,13 @@ const verses = [
       "कैः मया सह योद्धव्यम् अस्मिन् रण-समुद्यमे"
     ],
     "anvaya": [
-      "यावत् अहम् एतान् योद्धुकामान् अवस्थितान् निरीक्षे, अस्मिन् रणसमुद्यमे मया सह कैः योद्धव्यम् (इति) ||"
+      "यावत् अहम् एतान् योद्धुकामान् अवस्थितान् निरीक्षे", 
+      "अस्मिन् रणसमुद्यमे मया सह कैः योद्धव्यम् (इति) ||"
     ],
-    "prose": [],
+    "prose": [
+      "So that I may observe those who stand here desiring to fight", 
+      "and know with whom I must contend in this impending war."
+    ],
     "transl": [
       "So that I may observe those who stand here desiring to fight, and know with whom I must contend in this impending war."
     ],
