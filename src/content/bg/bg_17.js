@@ -1295,9 +1295,15 @@ const verses = [
       "ప్రవర్తన్తే విధాన-ఉక్తాః సతతమ్ బ్రహ్మ-వాదినామ్"
     ],
     "anvaya": [
-      "తస్మాత్ బ్రహ్మవాదినామ్ విధానోక్తాః యజ్ఞదానతపఃక్రియాః సతతమ్ 'ఓమ్' इति उदाహృత్య ప్రవర్తన్తే ||"
+      "తస్మాత్", 
+      "బ్రహ్మవాదినామ్ విధానోక్తాః యజ్ఞ-దాన-తపః-క్రియాః", 
+      " సతతమ్ 'ఓమ్' इति उदाహృత్య ప్రవర్తన్తే ||", 
     ],
-    "prose": [],
+    "prose": [
+      "Therefore", 
+      "(acts of sacrifice, charity, and austerity that are enjoined by the scriptures) of the seekers of Ultimate Truth",
+      "are always begun with the utterance of 'Om'."
+    ],
     "transl": [
       "Therefore, acts of sacrifice, charity, and austerity enjoined by the scriptures are always begun by the seekers of Ultimate Truth with the utterance of 'Om'."
     ],
@@ -1339,9 +1345,17 @@ const verses = [
       "దాన-క్రియాః చ వివిధాః క్రియన్తే మోక్ష-కాంక్షిభిః"
     ],
     "anvaya": [
-      "మోక్షకాంక్షిభిః ఫలమ్ అనభిసన్ధాయ 'తత్' इति వివిధాః యజ్ఞతపఃక్రియాః దానక్రియాః చ క్రియన్తే ||"
+      "'తత్' इति", 
+      "ఫలమ్ అనభిసన్ధాయ", 
+      "వివిధాః యజ్ఞతపఃక్రియాః దానక్రియాః చ క్రియన్తే ||",
+      "మోక్షకాంక్షిభిః", 
     ],
-    "prose": [],
+    "prose": [
+      "Uttering 'Tat' (meaning 'that Supreme Absolute')", 
+      "without desiring fruit", 
+      "various acts of sacrifice, austerity, and charity are performed", 
+      "by seekers of liberation."
+    ],
     "transl": [
       "Uttering 'Tat' (meaning 'that Supreme Absolute'), without desiring fruit, various acts of sacrifice, austerity, and charity are performed by seekers of liberation."
     ],
@@ -1384,9 +1398,19 @@ const verses = [
       "ప్రశస్తే కర్మణి తథా సత్-శబ్దః పార్థ యుజ్యతే"
     ],
     "anvaya": [
-      "హే పార్థ! సద్భావే సాధుభావే చ 'సత్' इति ఎతత్ ప్రయుజ్యతే, తథా ప్రశస్తే కర్మణి సచ్ఛబ్దః యుజ్యతే ||"
+      "హే పార్థ!", 
+      "సత్-భావే సాధు-భావే చ", 
+      "'సత్' इति ఎతత్ ప్రయుజ్యతే", 
+      "తథా", 
+      "ప్రశస్తే కర్మణి సత్-శబ్దః యుజ్యతే ||"
     ],
-    "prose": [],
+    "prose": [
+      "O Partha; ",
+      "In the sense of existence and goodness",
+      "this word 'Sat' is used",
+      "and likewise",
+      "the word 'Sat' is applied to an auspicious and noble action.",
+    ],
     "transl": [
       "The word 'Sat' is used to denote existence and goodness, O Partha; and likewise, the word 'Sat' is applied to an auspicious and noble action."
     ],
@@ -1394,7 +1418,8 @@ const verses = [
       "ఓ పార్థా! 'సత్' అనే పదం సత్యమైన భావంలోను, మంచిదనంలోనూ ఉపయోగిస్తారు; అలాగే శ్రేష్ఠమైన కార్యాలకు కూడా 'సత్' అనే శబ్దాన్ని ఉపయోగిస్తారు."
     ],
     "essence": [
-      "Explains 'SAT', indicating truth, nobility, reality, and goodness in mind, motive, and action."
+      "Explains 'SAT', indicating truth, nobility, reality, and goodness in mind, motive, and action.",
+      "need to study commentaries to understand this and prev 2 slokas",
     ],
     "meanings": [
       "సత్-భావే = In the sense of reality / existence",
@@ -1432,9 +1457,13 @@ const verses = [
       "కర్మ చ ఎవ తత్-అర్థీయమ్ సత్ इति ఎవ అభిధీయతే"
     ],
     "anvaya": [
-      "యజ్ఞే తపసి దానే చ స్థితిః 'సత్' इति చ ఉచ్యతే, తదర్థీయమ్ కర్మ చ ఎవ 'సత్' इति ఎవ అభిధీయతే ||"
+      "యజ్ఞే తపసి దానే చ స్థితిః 'సత్' इति చ ఉచ్యతే", 
+      "తత్-అర్థీయమ్ కర్మ చ ఎవ 'సత్' इति ఎవ అభిధీయతే ||"
     ],
-    "prose": [],
+    "prose": [
+      "Steadfastness in sacrifice, austerity, and charity is also called 'Sat';", 
+      "and any action performed for the sake of the Supreme is also termed 'Sat'."
+    ],
     "transl": [
       "Steadfastness in sacrifice, austerity, and charity is also called 'Sat'; and any action performed for the sake of the Supreme is also termed 'Sat'."
     ],
@@ -1484,9 +1513,21 @@ const verses = [
       "అసత్ इति ఉచ్యతే పార్థ న చ తత్ ప్రేత్య నో ఇహ"
     ],
     "anvaya": [
-      "హే పార్థ! అశ్రద్ధయా హుతమ్, దత్తమ్, తప్తమ్ తపః, యత్ చ కృతమ్, తత్ 'అసత్' इति ఉచ్యతే; తత్ న చ ప్రేత్య (ఫలదాయకమ్), నో ఇహ (భవిష్యతి) ||"
+      "హే పార్థ!", 
+      "అశ్రద్ధయా", 
+      "- హుతమ్, దత్తమ్, తప్తమ్ తపః,",
+      "యత్ చ కృతమ్", 
+      "తత్ 'అసత్' इति ఉచ్యతే;", 
+      "తత్ న చ ప్రేత్య (ఫలదాయకమ్), నో ఇహ (భవిష్యతి) ||"
     ],
-    "prose": [],
+    "prose": [
+      "O Partha. ",
+      "without faith", 
+      "- offered in sacrifice, given in charity, or austerity performed",
+      "Whatever action is done ",
+      "that is called 'Asat'", 
+      "It is of no value here in this world, nor in the next."
+    ],
     "transl": [
       "Whatever sacrifice, charity, or austerity is performed without faith, and whatever action is done without faith, is called 'Asat', O Partha. It is of no value here in this world, nor in the next."
     ],
