@@ -1170,7 +1170,7 @@ const verses = [
     "number": 22,
     "sloka": [
       "यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान् |",
-      "कैर्मया सह योद्धव्यमस्मिन्रणसमुद्यमे || २२ ||"
+      "कैर्मया सह योद्धव्यमस्मिन् रणसमुद्यमे || २२ ||"
     ],
     "sloka_tel": [
       "యావదేతాన్నిరీక్షేऽహం యోద్ధుకామానవస్థితాన్ |",
@@ -1232,9 +1232,15 @@ const verses = [
       "धार्तराष्ट्रस्य दुर्बुद्धेः युद्धे प्रिय-चिकीर्षवः"
     ],
     "anvaya": [
-      "दुर्बुद्धेः धार्तराष्ट्रस्य युद्धे प्रियचिकीर्षवः ये एते अत्र समागताः, (तान्) योत्स्यमानान् अहम् अवेक्षे ||"
+      "(तान्) योत्स्यमानान् अहम् अवेक्षे ||",
+      "ये एते अत्र समागताः",
+      "दुर्बुद्धेः धार्तराष्ट्रस्य युद्धे प्रिय-चिकीर्षवः", 
     ],
-    "prose": [],
+    "prose": [
+      "Let me look upon those", 
+      "who have gathered here to fight", 
+      "desiring to please the evil-minded son of Dhritarashtra in battle."
+    ],
     "transl": [
       "Let me look upon those who have gathered here to fight, desiring to please the evil-minded son of Dhritarashtra in battle."
     ],
@@ -1281,9 +1287,17 @@ const verses = [
       "सेनयोः उभयोः मध्ये स्थापयित्वा रथ-उत्तमम्"
     ],
     "anvaya": [
-      "सञ्जयः उवाच — हे भारत! गुडाकेशेन एवम् उक्तः हृषीकेशः उभयोः सेनयोः मध्ये रथोत्तमम् स्थापयित्वा —"
+      "सञ्जयः उवाच", 
+      "— हे भारत!", 
+      "गुडाकेशेन एवम् उक्तः", 
+      "हृषीकेशः उभयोः सेनयोः मध्ये रथोत्तमम् स्थापयित्वा —"
     ],
-    "prose": [],
+    "prose": [
+      "Sanjaya said:", 
+      "O descendant of Bharata (Dhritarashtra)", 
+      "having been thus addressed by Gudakesha (Arjuna)", 
+      "Hrishikesha (Krishna) drew up the magnificent chariot between the two armies."
+    ],
     "transl": [
       "Sanjaya said: O descendant of Bharata (Dhritarashtra), having been thus addressed by Gudakesha (Arjuna), Hrishikesha (Krishna) drew up the magnificent chariot between the two armies."
     ],
@@ -1327,9 +1341,17 @@ const verses = [
       "उवाच पार्थ पश्य एतान् समवेतान् कुरून् इति"
     ],
     "anvaya": [
-      "भीष्मद्रोणप्रमुखतः सर्वेषाम् च महीक्षिताम् (समक्षम्) 'हे पार्थ! समवेतान् एतान् कुरून् पश्य' इति उवाच ||"
+      "भीष्म-द्रोण-प्रमुखतः", 
+      "सर्वेषाम् च महीक्षिताम् (समक्षम्)", 
+      "'हे पार्थ!", 
+      "समवेतान् एतान् कुरून् पश्य' इति उवाच ||"
     ],
-    "prose": [],
+    "prose": [
+      "In front of Bhishma, Drona", 
+      "and all the rulers of the earth", 
+      "Krishna said: O Partha", 
+      "behold these Kurus assembled here."
+    ],
     "transl": [
       "In front of Bhishma, Drona, and all the rulers of the earth, Krishna said: O Partha, behold these Kurus assembled here."
     ],
@@ -1373,9 +1395,15 @@ const verses = [
       "आचार्यान् मातुलान् भ्रातॄन् पुत्रान् पौत्रान् सखीन् तथा"
     ],
     "anvaya": [
-      "अथ पार्थः तत्र स्थितान् पितॄन्, पितामहान्, आचार्यान्, मातुलान्, भ्रातॄन्, पुत्रान्, पौत्रान्, तथा सखीन् अपश्यत् ||"
+      "अथ पार्थः तत्र", 
+      "स्थितान् पितॄन्, पितामहान्, आचार्यान्, मातुलान्, भ्रातॄन्, पुत्रान्, पौत्रान्, तथा सखीन्", 
+      "अपश्यत् ||"
     ],
-    "prose": [],
+    "prose": [
+      "There Partha (Arjuna)", 
+      "standing in both armies fathers, grandfathers, teachers, maternal uncles, brothers, sons, grandsons, and companions as well.",
+      "saw"
+    ],
     "transl": [
       "There Partha (Arjuna) saw standing in both armies fathers, grandfathers, teachers, maternal uncles, brothers, sons, grandsons, and companions as well."
     ],
@@ -1425,9 +1453,19 @@ const verses = [
       "कृपया परया आविष्टः विषीदन् इदम् अब्रवीत्"
     ],
     "anvaya": [
-      "उभयोः सेनयोः अपि अवस्थितान् तान् सर्वान् बन्धून्, श्वशुरान्, सुहृदः च एव समीक्ष्य, सः कौन्तेयः परया कृपया आविष्टः विषीदन् इदम् अब्रवीत् —"
+      "श्वशुरान्, सुहृदः च एव", 
+      "उभयोः सेनयोः अपि", 
+      "-",
+      "अवस्थितान् तान् सर्वान् बन्धून् समीक्ष्य", 
+      "सः कौन्तेयः परया कृपया आविष्टः विषीदन् इदम् अब्रवीत् —"
     ],
-    "prose": [],
+    "prose": [
+      "Fathers-in-law and well-wishers as well", 
+      "in both armies. |",
+      "-", 
+      "Seeing all those kinsmen arrayed there", 
+      "Kaunteya (Arjuna), overwhelmed by deep compassion, spoke thus in sorrow."
+    ],
     "transl": [
       "Fathers-in-law and well-wishers as well in both armies. Seeing all those kinsmen arrayed there, Kaunteya (Arjuna), overwhelmed by deep compassion, spoke thus in sorrow."
     ],
@@ -1483,9 +1521,19 @@ const verses = [
       "सीदन्ति मम गात्राणि मुखम् च परिशुष्यति"
     ],
     "anvaya": [
-      "अर्जुनः उवाच — हे कृष्ण! समुपस्थितम् युयुत्सुम् इमम् स्वजनम् दृष्ट्वा, मम गात्राणि सीदन्ति, मुखम् च परिशुष्यति ||"
+      "अर्जुनः उवाच", 
+      "— हे कृष्ण!", 
+      "समुपस्थितम् युयुत्सुम् इमम् स्वजनम् दृष्ट्वा", 
+      "मम गात्राणि सीदन्ति", 
+      "मुखम् च परिशुष्यति ||"
     ],
-    "prose": [],
+    "prose": [
+      "Arjuna said:", 
+      "O Krishna,",
+      "Seeing my own people,gathered here eager to fight", 
+      "my limbs fail (become weak) me", 
+      "and my mouth is parched (drying up)."
+    ],
     "transl": [
       "Arjuna said: Seeing my own people, O Krishna, gathered here eager to fight, my limbs fail me and my mouth is parched."
     ],
@@ -1532,9 +1580,17 @@ const verses = [
       "गाण्डीवम् स्रंसते हस्तात् त्वक् च एव परिदह्यते"
     ],
     "anvaya": [
-      "मे शरीरे वेपथुः च रोमहर्षः च जायते; गाण्डीवम् हस्तात् स्रंसते, त्वक् च एव परिदह्यते ||"
+      "मे शरीरे वेपथुः च", 
+      "रोमहर्षः च जायते;", 
+      "गाण्डीवम् हस्तात् स्रंसते", 
+      "त्वक् च एव परिदह्यते ||"
     ],
-    "prose": [],
+    "prose": [
+      "My body trembles", 
+      "and my hair stands on end;", 
+      "my bow Gandiva slips from my hand", 
+      "and my skin burns all over."
+    ],
     "transl": [
       "My body trembles and my hair stands on end; my bow Gandiva slips from my hand, and my skin burns all over."
     ],
@@ -1581,9 +1637,17 @@ const verses = [
       "निमित्तानि च पश्यामि विपरीतानि केशव"
     ],
     "anvaya": [
-      "हे केशव! न च अवस्थातुम् शक्नोमि, मे मनः भ्रमति इव; विपरीतानि निमित्तानि च पश्यामि ||"
+      "हे केशव!", 
+      "न च अवस्थातुम् शक्नोमि", 
+      "मे मनः भ्रमति इव;", 
+      "विपरीतानि निमित्तानि च पश्यामि ||"
     ],
-    "prose": [],
+    "prose": [
+      "O Keshava.",
+      "I am unable to stand firm", 
+      "and my mind seems to be reeling;", 
+      "and I foresee adverse omens, "
+    ],
     "transl": [
       "I am unable to stand firm and my mind seems to be reeling; and I foresee adverse omens, O Keshava."
     ],
@@ -1630,9 +1694,17 @@ const verses = [
       "न काङ्क्षे विजयम् कृष्ण न च राज्यम् सुखानि च"
     ],
     "anvaya": [
-      "हे कृष्ण! आहवे स्वजनम् हत्वा श्रेयः न अनुपश्यामि; अहम् विजयम् न काङ्क्षे, राज्यम् च सुखानि च न (काङ्क्षे) ||"
+      "हे कृष्ण!", 
+      "आहवे स्वजनम् हत्वा श्रेयः न अनुपश्यामि;", 
+      "अहम् विजयम् न काङ्क्षे", 
+      "राज्यम् च सुखानि च न (काङ्क्षे) ||"
     ],
-    "prose": [],
+    "prose": [
+      "O Krishna, ",
+      "I do not see any good in killing my own kinsmen in battle.", 
+      "I desire neither victory", 
+      "nor kingdom, nor pleasures."
+    ],
     "transl": [
       "I do not see any good in killing my own kinsmen in battle. O Krishna, I desire neither victory, nor kingdom, nor pleasures."
     ],
@@ -1681,9 +1753,17 @@ const verses = [
       "येषाम् अर्थे काङ्क्षितम् नः राज्यम् भोगाः सुखानि च"
     ],
     "anvaya": [
-      "हे गोविन्द! नः राज्येन किम्? भोगैः जीवितेन वा किम्? येषाम् अर्थे नः राज्यम् भोगाः सुखानि च काङ्क्षितम् —"
+      "हे गोविन्द!", 
+      "नः राज्येन किम्?",
+      "भोगैः जीवितेन वा किम्?", 
+      "येषाम् अर्थे नः राज्यम् भोगाः सुखानि च काङ्क्षितम् —"
     ],
-    "prose": [],
+    "prose": [
+      "O Govinda", 
+      "of what use is kingdom to us", 
+      "or pleasures, or even life itself?", 
+      "Those for whose sake we desire kingdom, pleasures, and enjoyments—"
+    ],
     "transl": [
       "O Govinda, of what use is kingdom to us, or pleasures, or even life itself? Those for whose sake we desire kingdom, pleasures, and enjoyments—"
     ],
@@ -1732,9 +1812,15 @@ const verses = [
       "आचार्याः पितरः पुत्राः तथा एव च पितामहाः"
     ],
     "anvaya": [
-      "ते इमे आचार्याः, पितरः, पुत्राः तथा एव च पितामहाः प्राणान् धनानि च त्यक्त्वा युद्धे अवस्थिताः (सन्ति) ||"
+      "ते इमे युद्धे अवस्थिताः (सन्ति)", 
+      "प्राणान् धनानि च त्यक्त्वा",
+      "आचार्याः, पितरः, पुत्राः तथा एव च पितामहाः ||"
     ],
-    "prose": [],
+    "prose": [
+      "—They stand here in battle", 
+      "having pledged their lives and wealth:", 
+      "teachers, fathers, sons, and grandfathers as well;"
+    ],
     "transl": [
       "—They stand here in battle, having pledged their lives and wealth: teachers, fathers, sons, and grandfathers as well;"
     ],
@@ -1782,9 +1868,15 @@ const verses = [
       "एतान् न हन्तुम् इच्छामि घ्नतः अपि मधुसूदन"
     ],
     "anvaya": [
-      "हे मधुसूदन! मातुलाः, श्वशुराः, पौत्राः, श्यालाः तथा सम्बन्धिनः (एते), घ्नतः अपि एतान् हन्तुम् न इच्छामि ||"
+      "हे मधुसूदन!", 
+      "मातुलाः, श्वशुराः, पौत्राः, श्यालाः तथा सम्बन्धिनः (एते)", 
+      "घ्नतः अपि एतान् हन्तुम् न इच्छामि ||"
     ],
-    "prose": [],
+    "prose": [
+      "O Madhusudana, ",
+      "Maternal uncles, fathers-in-law, grandsons, brothers-in-law, and other relatives",
+      "—these I do not wish to kill, even if I am killed by them."
+    ],
     "transl": [
       "Maternal uncles, fathers-in-law, grandsons, brothers-in-law, and other relatives—these I do not wish to kill, O Madhusudana, even if I am killed by them."
     ],
@@ -1830,9 +1922,13 @@ const verses = [
       "निहत्य धार्तराष्ट्रान् नः का प्रीतिः स्यात् जनार्दन"
     ],
     "anvaya": [
-      "हे जनार्दन! त्रैलोक्यराज्यस्य हेतोः अपि (एतान् हन्तुम् न इच्छामि), महीकृते किम् नु? धार्तराष्ट्रान् निहत्य नः का प्रीतिः स्यात्? ||"
+      "हे जनार्दन!",
+      "त्रैलोक्यराज्यस्य हेतोः अपि (एतान् हन्तुम् न इच्छामि)",
+      "महीकृते किम् नु? धार्तराष्ट्रान् निहत्य नः का प्रीतिः स्यात्? ||"
     ],
-    "prose": [],
+    "prose": [
+      "Even for the sovereignty of the three worlds, let alone for this earth, O Janardana, what pleasure could be ours by slaying the sons of Dhritarashtra?"
+    ],
     "transl": [
       "Even for the sovereignty of the three worlds, let alone for this earth, O Janardana, what pleasure could be ours by slaying the sons of Dhritarashtra?"
     ],
