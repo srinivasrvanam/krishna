@@ -1923,11 +1923,15 @@ const verses = [
     ],
     "anvaya": [
       "हे जनार्दन!",
-      "त्रैलोक्यराज्यस्य हेतोः अपि (एतान् हन्तुम् न इच्छामि)",
-      "महीकृते किम् नु? धार्तराष्ट्रान् निहत्य नः का प्रीतिः स्यात्? ||"
+      "त्रैलोक्य-राज्यस्य हेतोः अपि (एतान् हन्तुम् न इच्छामि)",
+      "मही-कृते किम् नु?", 
+      "धार्तराष्ट्रान् निहत्य नः का प्रीतिः स्यात्? ||"
     ],
     "prose": [
-      "Even for the sovereignty of the three worlds, let alone for this earth, O Janardana, what pleasure could be ours by slaying the sons of Dhritarashtra?"
+      "O Janardana",
+      "Even for the sovereignty of the three worlds", 
+      "let alone for this earth", 
+      "what pleasure could be ours by slaying the sons of Dhritarashtra?"
     ],
     "transl": [
       "Even for the sovereignty of the three worlds, let alone for this earth, O Janardana, what pleasure could be ours by slaying the sons of Dhritarashtra?"
@@ -1976,9 +1980,17 @@ const verses = [
       "स्वजनम् हि कथम् हत्वा सुखिनः स्याम माधव"
     ],
     "anvaya": [
-      "एतान् आततायिनः हत्वा अस्मान् पापम् एव आश्रयेत्; तस्मात् स्वबान्धवान् धार्तराष्ट्रान् हन्तुम् वयम् न अर्हाः; हे माधव! स्वजनम् हत्वा कथम् हि सुखिनः स्याम? ||"
+      "एतान् आततायिनः हत्वा अस्मान् पापम् एव आश्रयेत्;", 
+      "तस्मात् स्वबान्धवान् धार्तराष्ट्रान् हन्तुम् वयम् न अर्हाः;", 
+      "हे माधव!", 
+      "स्वजनम् हत्वा कथम् हि सुखिनः स्याम? ||"
     ],
-    "prose": [],
+    "prose": [
+      "Sin alone will accrue to us by killing these aggressors.", 
+      "Therefore, we should not slay the sons of Dhritarashtra, our own kinsmen.", 
+      "O Madhava?",
+      "How can we be happy by killing our own people", 
+    ],
     "transl": [
       "Sin alone will accrue to us by killing these aggressors. Therefore, we should not slay the sons of Dhritarashtra, our own kinsmen. How can we be happy by killing our own people, O Madhava?"
     ],
@@ -2032,9 +2044,17 @@ const verses = [
       "कुल-क्षय-कृतम् दोषम् मित्र-द्रोहे च पातकम्"
     ],
     "anvaya": [
-      "लोभोपहतचेतसः एते यद्यपि कुलक्षयकृतम् दोषम् मित्रद्रोहे पातकम् च न पश्यन्ति —"
+      "यद्यपि लोभ-उपहत-चेतसः एते",
+      "- कुल-क्षय-कृतम् दोषम्", 
+      "- मित्र-द्रोहे पातकम् च",
+      "न पश्यन्ति —"
     ],
-    "prose": [],
+    "prose": [
+      "Even if they, with minds overwhelmed by greed",
+      "- the evil in destroying a dynasty", 
+      "- and the sin in hostility toward friends—",
+      "do not see"
+    ],
     "transl": [
       "Even if they, with minds overwhelmed by greed, do not see the evil in destroying a dynasty or the sin in hostility toward friends—"
     ],
@@ -2077,9 +2097,17 @@ const verses = [
       "कुल-क्षय-कृतम् दोषम् प्रपश्यद्भिः जनार्दन"
     ],
     "anvaya": [
-      "हे जनार्दन! कुलक्षयकृतम् दोषम् प्रपश्यद्भिः अस्माभिः अस्मात् पापात् निवर्तितुम् कथम् न ज्ञेयम्? ||"
+      "हे जनार्दन!", 
+      "(कुल-क्षय-कृतम् दोषम् प्रपश्यद्भिः) अस्माभिः", 
+      "अस्मात् पापात्", 
+      "निवर्तितुम् कथम् न ज्ञेयम्? ||"
     ],
-    "prose": [],
+    "prose": [
+      "O Janardana?",
+      "by us, who clearly see the evil in the destruction of a family", 
+      "from this sin",
+      "how should not learn to turn away (pull back) "
+    ],
     "transl": [
       "Why should we, who clearly see the evil in the destruction of a family, not learn to turn away from this sin, O Janardana?"
     ],
@@ -2123,9 +2151,17 @@ const verses = [
       "धर्मे नष्टे कुलम् कृत्स्नम् अधर्मः अभिभवति उत"
     ],
     "anvaya": [
-      "कुलक्षये सनातनाः कुलधर्माः प्रणश्यन्ति; धर्मे नष्टे (सति) अधर्मः कृत्स्नम् कुलम् अभिभवति उत ||"
+      "कुलक्षये", 
+      "- सनातनाः कुलधर्माः प्रणश्यन्ति;", 
+      "धर्मे नष्टे (सति)", 
+      "- अधर्मः कृत्स्नम् कुलम् अभिभवति उत ||"
     ],
-    "prose": [],
+    "prose": [
+      "With the destruction of the family", 
+      "- its eternal family traditions perish.", 
+      "When tradition is destroyed", 
+      "- lawlessness overcomes the entire family."
+    ],
     "transl": [
       "With the destruction of the family, its eternal family traditions perish. When tradition is destroyed, lawlessness overcomes the entire family."
     ],
@@ -2169,11 +2205,19 @@ const verses = [
       "स्त्रीषु दुष्टासु वार्ष्णेय जायते वर्ण-सङ्करः"
     ],
     "anvaya": [
-      "हे कृष्ण! अधर्माभिभवात् कुलस्त्रियः प्रदुष्यन्ति; हे वार्ष्णेय! स्त्रीषु दुष्टासु (सतीषु) वर्णसङ्करः जायते ||"
+      "हे कृष्ण!", 
+      "अधर्म-अभिभवात् कुल-स्त्रियः प्रदुष्यन्ति;", 
+      "हे वार्ष्णेय!", 
+      "स्त्रीषु दुष्टासु (सतीषु) वर्ण-सङ्करः जायते ||"
     ],
-    "prose": [],
+    "prose": [
+      "O Krishna, ",
+      "When lawlessness prevails, the women of the family become corrupted;", 
+      "O descendant of Vrishni, ",
+      "and when women are corrupted, undesirable confusion of social order arises."
+    ],
     "transl": [
-      "When lawlessness prevails, O Krishna, the women of the family become corrupted; and when women are corrupted, O descendant of Vrishni, undesirable confusion of social order ensues."
+      "When lawlessness prevails, O Krishna, the women of the family become corrupted; and when women are corrupted, O descendant of Vrishni, undesirable confusion of social order arises."
     ],
     "transl_tel": [
       "ఓ కృష్ణా! అధర్మం పెరిగిపోవడం వల్ల కులస్త్రీలు దారి తప్పుతారు. ఓ వార్ష్ణేయా! స్త్రీలు దారి తప్పినప్పుడు వర్ణసంకరం (సామాజిక రుగ్మత) ఏర్పడుతుంది."
@@ -2213,9 +2257,13 @@ const verses = [
       "पतन्ति पितरः हि एषाम् लुप्त-पिण्ड-उदक-क्रियाः"
     ],
     "anvaya": [
-      "सङ्करः कुलघ्नानाम् कुलस्य च नरकाय एव (भवति); एषाम् लुप्तपिण्डोदकक्रियाः पितरः हि पतन्ति ||"
+      "सङ्करः कुल-घ्नानाम् कुलस्य च नरकाय एव (भवति);", 
+      "एषाम् लुप्त-पिण्ड-उदक-क्रियाः पितरः हि पतन्ति ||"
     ],
-    "prose": [],
+    "prose": [
+      "Unwanted social confusion leads both the family destroyers and the family itself to hell;", 
+      "for their ancestors fall, deprived of the ritual offerings of rice and water."
+    ],
     "transl": [
       "Unwanted social confusion leads both the family destroyers and the family itself to hell; for their ancestors fall, deprived of the ritual offerings of rice and water."
     ],
@@ -2259,9 +2307,13 @@ const verses = [
       "उत्साद्यन्ते जाति-धर्माः कुल-धर्माः च शाश्वताः"
     ],
     "anvaya": [
-      "वर्णसङ्करकारकैः एतैः कुलघ्नानाम् दोषैः शाश्वताः जातिधर्माः कुलधर्माः च उत्साद्यन्ते ||"
+      "वर्ण-सङ्कर-कारकैः एतैः कुल-घ्नानाम् दोषैः", 
+      "शाश्वताः जाति-धर्माः कुल-धर्माः च उत्साद्यन्ते ||"
     ],
-    "prose": [],
+    "prose": [
+      "By these evil deeds of the family destroyers, which cause social confusion", 
+      "the eternal duties of community and family are ruined."
+    ],
     "transl": [
       "By these evil deeds of the family destroyers, which cause social confusion, the eternal duties of community and family are ruined."
     ],
@@ -2303,9 +2355,15 @@ const verses = [
       "नरके नियतम् वासः भवति इति अनुशुश्रुम"
     ],
     "anvaya": [
-      "हे जनार्दन! उत्सन्नकुलधर्माणाम् मनुष्याणाम् नियतम् नरके वासः भवति इति (वयम्) अनुशुश्रुम ||"
+      "हे जनार्दन!", 
+      "उत्सन्न-कुल-धर्माणाम् मनुष्याणाम् नियतम् नरके वासः भवति", 
+      "इति (वयम्) अनुशुश्रुम ||"
     ],
-    "prose": [],
+    "prose": [
+      "O Janardana", 
+      "that those whose family traditions are destroyed must dwell in hell for an indefinite time.",
+      "we have heard from traditional teachings"
+    ],
     "transl": [
       "O Janardana, we have heard from traditional teachings that those whose family traditions are destroyed must dwell in hell for an indefinite time."
     ],
@@ -2347,9 +2405,15 @@ const verses = [
       "यत् राज्य-सुख-लोभेन हन्तुम् स्वजनम् उद्यताः"
     ],
     "anvaya": [
-      "अहो बत! वयम् महत् पापम् कर्तुम् व्यवसिताः, यत् राज्यसुखलोभेन स्वजनम् हन्तुम् उद्यताः (स्मः) ||"
+      "अहो बत!", 
+      "वयम् महत् पापम् कर्तुम् व्यवसिताः", 
+      "यत् राज्य-सुख-लोभेन स्वजनम् हन्तुम् उद्यताः (स्मः) ||"
     ],
-    "prose": [],
+    "prose": [
+      "Alas! (Oh, what a tragedy!)", 
+      "How strange it is that we have resolved to commit a great sin", 
+      "driven by greed for royal pleasures, preparing to slay our own kinsmen!"
+    ],
     "transl": [
       "Alas! How strange it is that we have resolved to commit a great sin, driven by greed for royal pleasures, preparing to slay our own kinsmen!"
     ],
@@ -2393,9 +2457,13 @@ const verses = [
       "धार्तराष्ट्राः रणे हन्युः तत् मे क्षेमतरम् भवेत्"
     ],
     "anvaya": [
-      "यदि शस्त्रपाणयः धार्तराष्ट्राः अप्रतीकारम् अशस्त्रम् माम् रणे हन्युः, तत् मे क्षेमतरम् भवेत् ||"
+      "यदि शस्त्रपाणयः धार्तराष्ट्राः अप्रतीकारम् अशस्त्रम् माम् रणे हन्युः", 
+      "तत् मे क्षेमतरम् भवेत् ||"
     ],
-    "prose": [],
+    "prose": [
+      "If the sons of Dhritarashtra, armed with weapons, were to kill me unarmed and unresisting in battle", 
+      "that would be far better for me."
+    ],
     "transl": [
       "If the sons of Dhritarashtra, armed with weapons, were to kill me unarmed and unresisting in battle, that would be far better for me."
     ],
@@ -2443,9 +2511,19 @@ const verses = [
       "विसृज्य स-शरम् चापम् शोक-संविग्न-मानसः"
     ],
     "anvaya": [
-      "सञ्जयः उवाच — सङ्ख्ये एवम् उक्त्वा, शोकसंविग्नमानसः अर्जुनः ससरम् चापम् विसृज्य रथोपस्थे उपाविशत् ||"
+      "सञ्जयः उवाच —", 
+      "सङ्ख्ये एवम् उक्त्वा", 
+      "शोक-संविग्न-मानसः अर्जुनः", 
+      "स-शरम् चापम् विसृज्य", 
+      "रथ-उपस्थे उपाविशत् ||"
     ],
-    "prose": [],
+    "prose": [
+      "Sanjaya said:", 
+      "Having spoken thus on the battlefield", 
+      "Arjuna (whose mind overwhelmed with grief.)", 
+      "cast aside his bow and arrows", 
+      "and sat down on the seat of his chariot, "
+    ],
     "transl": [
       "Sanjaya said: Having spoken thus on the battlefield, Arjuna cast aside his bow and arrows and sat down on the seat of his chariot, his mind overwhelmed with grief."
     ],
