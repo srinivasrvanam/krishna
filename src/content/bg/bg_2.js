@@ -141,9 +141,19 @@ const verses = [
       "क्षुद्रम् हृदय-दौर्बल्यम् त्यक्त्वा उत्तिष्ठ परन्तप"
     ],
     "anvaya": [
-      "हे पार्थ! क्लैब्यम् मा स्म गमः, एतत् त्वयि न उपपद्यते; हे परन्तप! क्षुद्रम् हृदयदौर्बल्यम् त्यक्त्वा उत्तिष्ठ ||"
+      "हे पार्थ!", 
+      "क्लैब्यम् मा स्म गमः", 
+      "एतत् त्वयि न उपपद्यते;", 
+      "हे परन्तप!", 
+      "क्षुद्रम् हृदय-दौर्बल्यम् त्यक्त्वा उत्तिष्ठ ||"
     ],
-    "prose": [],
+    "prose": [
+      "O Partha; ",
+      "Do not yield to unmanliness", 
+      "it does not become you.", 
+      "O scorcher of foes!",
+      "having casted off this petty weakness of heart, arise"
+    ],
     "transl": [
       "Do not yield to unmanliness, O Partha; it does not become you. Cast off this petty weakness of heart and arise, O scorcher of foes!"
     ],
@@ -190,9 +200,21 @@ const verses = [
       "इषुभिः प्रतियोत्स्यामि पूजा-अर्हौ अरिसूदन"
     ],
     "anvaya": [
-      "अर्जुनः उवाच — हे मधुसूदन! अहम् सङ्ख्ये पूजार्हौ भीष्मम् द्रोणम् च इषुभिः कथम् प्रतियोत्स्यामि? हे अरिसूदन! ||"
+      "अर्जुनः उवाच —", 
+      "हे मधुसूदन!", 
+      "सङ्ख्ये ",
+      "- पूजा-अर्हौ भीष्मम् द्रोणम् च",
+      "अहम् इषुभिः कथम् प्रतियोत्स्यामि?", 
+      "हे अरिसूदन! ||"
     ],
-    "prose": [],
+    "prose": [
+      "Arjuna said:", 
+      "O Madhusudana, ",
+      "in battle", 
+      "- Grandsire Bhishma and Drona, who are worthy of worship", 
+      "How can I counter with arrows ?", 
+      "O destroyer of enemies"
+    ],
     "transl": [
       "Arjuna said: How can I counter with arrows in battle Grandsire Bhishma and Drona, O Madhusudana, when they are worthy of my worship, O destroyer of enemies?"
     ],
@@ -242,9 +264,21 @@ const verses = [
       "भुञ्जीय भोगान् रुधिर-प्रदिग्धान्"
     ],
     "anvaya": [
-      "महानुभावान् गुरून् अहत्वा इह लोके भैक्ष्यम् भोक्तुम् अपि श्रेयः हि; तु अर्थकामान् गुरून् हत्वा इह एव रुधिरप्रदिग्धान् भोगान् भुञ्जीय ||"
+      "इह लोके", 
+      "(महानुभावान्) गुरून् अ-हत्वा", 
+      "भैक्ष्यम् भोक्तुम् अपि श्रेयः हि;", 
+      " - ",
+      "इह एव रुधिर-प्रदिग्धान् (अर्थ-कामान्) भोगान् भुञ्जीय ||",
+      "तु गुरून् हत्वा",
     ],
-    "prose": [],
+    "prose": [
+      "in this world",
+      "- having not slain these gurus, who are elder and experienced", 
+      "It is better to live even by begging", 
+      "-",
+      "I would only enjoy pleasures (wealth and desires) tainted with blood.",
+      "having slain these gurus", 
+    ],
     "transl": [
       "It is better to live in this world even by begging than to slay these noble elders. But by killing these gurus, even if driven by wealth and desire, I would enjoy only pleasures tainted with blood."
     ],
@@ -275,7 +309,9 @@ const verses = [
       "भोगान् = Pleasures / enjoyments",
       "रुधिर-प्रदिग्धान् = Smeared with blood"
     ],
-    "grammar": [],
+    "grammar": [
+      "भुञ्जीय = भुज् (to eat/consume) - विधिलिङ् - I would enjoy",
+    ],
     "notes": [
       "Expresses Arjuna's revulsion at enjoying material spoils gained through bloodshed."
     ]
