@@ -18,9 +18,23 @@ const verses = [
       "विषीदन्तम् इदम् वाक्यम् उवाच मधुसूदनः"
     ],
     "anvaya": [
-      "सञ्जयः उवाच — तथा कृपया आविष्टम् अश्रुपूर्णाकुलेक्षणम् विषीदन्तम् तम् मधुसूदनः इदम् वाक्यम् उवाच ||"
+      "सञ्जयः उवाच —", 
+      "मधुसूदनः", 
+      "- तथा कृपया आविष्टम्", 
+      "- अश्रु-पूर्ण-आकुल-ईक्षणम्", 
+      "- विषीदन्तम्", 
+      "तम्", 
+      "इदम् वाक्यम् उवाच ||"
     ],
-    "prose": [],
+    "prose": [
+      "Sanjaya said:", 
+      "Madhusudana (Krishna)",
+      "- who was thus overwhelmed with compassion", 
+      "- whose eyes were full of tears and distressed", 
+      "- and who was despairing", 
+      "To him", 
+      "spoke these words."
+    ],
     "transl": [
       "Sanjaya said: To him who was thus overwhelmed with compassion, whose eyes were full of tears and distressed, and who was despairing, Madhusudana (Krishna) spoke these words."
     ],
@@ -68,9 +82,21 @@ const verses = [
       "अनार्य-जुष्टम् अस्वर्ग्यम् अकीर्ति-करम् अर्जुन"
     ],
     "anvaya": [
-      "श्रीभगवान् उवाच — हे अर्जुन! विषमे अनार्यजुष्टम् अस्वर्ग्यम् अकीर्तिकरम् च इदम् कश्मलम् कुतः त्वा समुपस्थितम्? ||"
+      "श्रीभगवान् उवाच —", 
+      "हे अर्जुन!", 
+      "विषमे", 
+      "- अनार्य-जुष्टम् अस्वर्ग्यम् अकीर्तिकरम् च", 
+      "- इदम् कश्मलम्", 
+      "कुतः त्वा समुपस्थितम्? ||"
     ],
-    "prose": [],
+    "prose": [
+      "The Supreme Lord said:", 
+      "O Arjuna", 
+      "in this hour of crisis", 
+      "- that is unbecoming of a noble mind, leads not to heaven, and brings dishonor.",
+      "- this delusion ",
+      "whence (from where) has come upon you ?",
+    ],
     "transl": [
       "The Supreme Lord said: O Arjuna, whence has this delusion come upon you in this hour of crisis? It is unbecoming of a noble mind, leads not to heaven, and brings dishonor."
     ],
