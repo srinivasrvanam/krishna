@@ -338,9 +338,19 @@ const verses = [
       "ते अवस्थिताः प्रमुखे धार्तराष्ट्राः"
     ],
     "anvaya": [
-      "नः कतरत् गरीयः, यत् वा जयेम यदि वा नः जयेयुः, एतत् च न विद्मः; यान् हत्वा एव न जिजीविषामः, ते धार्तराष्ट्राः प्रमुखे अवस्थिताः (सन्ति) ||"
+      "एतत् च न विद्मः;", 
+      "नः कतरत् गरीयः", 
+      "यत् वा जयेम यदि वा नः जयेयुः", 
+      "यान् हत्वा एव न जिजीविषामः", 
+      "ते धार्तराष्ट्राः प्रमुखे अवस्थिताः (सन्ति) ||"
     ],
-    "prose": [],
+    "prose": [
+      "Nor do we know", 
+      "which is better for us—",
+      "whether we should conquer them or whether they should conquer us.", 
+      "after killing whom we would not wish to live, ",
+      "Those very sons of Dhritarashtra, are standing before us."
+    ],
     "transl": [
       "Nor do we know which is better for us—whether we should conquer them or whether they should conquer us. The very sons of Dhritarashtra, after killing whom we would not wish to live, are standing before us."
     ],
@@ -400,9 +410,23 @@ const verses = [
       "शिष्यः ते अहम् शाधि माम् त्वाम् प्रपन्नम्"
     ],
     "anvaya": [
-      "कार्पण्यदोषोपहतस्वभावः धर्मसम्मूढचेताः (अहम्) त्वाम् पृच्छामि; यत् निश्चितम् श्रेयः स्यात्, तत् मे ब्रूहि; अहम् ते शिष्यः, त्वाम् प्रपन्नम् माम् शाधि ||"
+      "कार्पण्य-दोष-उपहत-स्वभावः", 
+      "धर्म-सम्मूढ-चेताः (अहम्)", 
+      "त्वाम् पृच्छामि;", 
+      "यत् निश्चितम् श्रेयः स्यात्", 
+      "तत् मे ब्रूहि;", 
+      "अहम् ते शिष्यः", 
+      "(त्वाम् प्रपन्नम्) माम् शाधि ||"
     ],
-    "prose": [],
+    "prose": [
+      "I, whose natural disposition is overwhelmed by the flaw of pity", 
+      "and my mind is confused about my duty.", 
+      "asking You:", 
+      "decisively what is best for me.", 
+      "tell me that",
+      "I am Your disciple;", 
+      "instruct me, who have taken refuge in You."
+    ],
     "transl": [
       "My natural disposition is overwhelmed by the flaw of pity, and my mind is confused about my duty. I ask You: tell me decisively what is best for me. I am Your disciple; instruct me, who have taken refuge in You."
     ],
@@ -459,9 +483,15 @@ const verses = [
       "राज्यम् सुराणाम् अपि च आधिपत्यम्"
     ],
     "anvaya": [
-      "भूमौ असपत्नम् ऋद्धम् राज्यम् सुराणाम् आधिपत्यम् अपि च अवाप्य, यत् मम इन्द्रियाणाम् उच्छोषणम् शोकम् अपनुद्यात्, तत् न हि प्रपश्यामि ||"
+      "(भूमौ असपत्नम् ऋद्धम् राज्यम्) (सुराणाम् आधिपत्यम्) अपि च अवाप्य", 
+      "यत् मम (इन्द्रियाणाम् उच्छोषणम्) शोकम् अपनुद्यात्", 
+      "तत् न हि प्रपश्यामि ||"
     ],
-    "prose": [],
+    "prose": [
+      "even having won an unrivaled, prosperous kingdom on earth or lordship over the gods.",
+      "which is a means to dispel this grief that is drying up my senses,",
+      "I cannot see that",
+    ],
     "transl": [
       "I see no means to dispel this grief that is drying up my senses, even if I should win an unrivaled, prosperous kingdom on earth or lordship over the gods."
     ],
@@ -515,9 +545,17 @@ const verses = [
       "न योत्स्ये इति गोविन्दम् उक्त्वा तूष्णीम् बभूव ह"
     ],
     "anvaya": [
-      "सञ्जयः उवाच — परन्तपः गुडाकेशः हृषीकेशम् एवम् उक्त्वा, 'न योत्स्ये' इति गोविन्दम् उक्त्वा तूष्णीम् बभूव ह ||"
+      "सञ्जयः उवाच —", 
+      "परन्तपः गुडाकेशः हृषीकेशम् एवम् उक्त्वा", 
+      "'न योत्स्ये' इति गोविन्दम् उक्त्वा", 
+      "तूष्णीम् बभूव ह ||"
     ],
-    "prose": [],
+    "prose": [
+      "Sanjaya said:", 
+      "Having spoken thus to Hrishikesha (Krishna), Gudakesha (Arjuna), the scorcher of foes", 
+      "said to Govinda, 'I will not fight,'", 
+      "and fell silent."
+    ],
     "transl": [
       "Sanjaya said: Having spoken thus to Hrishikesha (Krishna), Gudakesha (Arjuna), the scorcher of foes, said to Govinda, 'I will not fight,' and fell silent."
     ],
@@ -565,9 +603,19 @@ const verses = [
       "सेनयोः उभयोः मध्ये विषीदन्तम् इदम् वचः"
     ],
     "anvaya": [
-      "हे भारत! उभयोः सेनयोः मध्ये विषीदन्तम् तम् हृषीकेशः प्रहसन् इव इदम् वचः उवाच ||"
+      "हे भारत!", 
+      "उभयोः सेनयोः मध्ये", 
+      "हृषीकेशः प्रहसन् इव", 
+      "विषीदन्तम् तम्", 
+      "इदम् वचः उवाच ||"
     ],
-    "prose": [],
+    "prose": [
+      "O descendant of Bharata (Dhritarashtra)", 
+      "between the two armies.",
+      "Hrishikesha (Krishna), smiling as it were", 
+      "to the grieving Arjuna", 
+      "spoke these words", 
+    ],
     "transl": [
       "O descendant of Bharata (Dhritarashtra), Hrishikesha (Krishna), smiling as it were, spoke these words to the grieving Arjuna between the two armies."
     ],
