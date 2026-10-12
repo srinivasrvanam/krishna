@@ -663,11 +663,17 @@ const verses = [
       "गत-असून अगत-असून च न अनुशोचन्ति पण्डिताः"
     ],
     "anvaya": [
-      "श्रीभगवान् उवाच — त्वम् अशोच्यान् अन्वशोचः, प्रज्ञावादान् च भाषसे; पण्डिताः गतासून् अगतासून् च न अनुशोचन्ति ||"
+      'श्रीभगवान् उवाच',
+      'त्वं (अशोच्यान् अन्वशोचः) च (प्रज्ञावादान् भाषसे) |',
+      'पण्डिता: गतासून् अगतासूंन् च न अनुशोचन्ति ||'
     ],
-    "prose": [],
+    "prose": [
+      "The Supreme Lord said:", 
+      "You grieve for those who are not worthy of grief, yet you speak words of wisdom.", 
+      "The wise grieve neither for the living nor for the dead.",
+    ],
     "transl": [
-      "The Supreme Lord said: You grieve for those who are not worthy of grief, yet you speak words of wisdom. The wise grieve neither for the living nor for the dead."
+      "The Supreme Lord said: You grieve for those who are not worthy of grief, yet you speak words of wisdom. The wise grieve neither for the living nor for the dead.",
     ],
     "transl_tel": [
       "శ్రీభగవానుడు పలికెను: దుఃఖించకూడని వారి కోసం నీవు దుఃఖిస్తున్నావు, పైగా జ్ఞానిలాంటి మాటలు మాట్లాడుతున్నావు. నిజమైన జ్ఞానులు చనిపోయిన వారి గురించి కానీ, బ్రతికి ఉన్న వారి గురించి కానీ దుఃఖించరు."
@@ -691,42 +697,7 @@ const verses = [
       "अनुशोचन्ति = Grieve for",
       "पण्डिताः = The wise / learned ones"
     ],
-    "grammar": [],
-    "notes": [
-      "Marks the true commencement of Krishna's philosophical discourse on the immortality of the Soul (Atman)."
-    ]
-  },
-  {
-    chapter : 2,
-    number  : 11,
-    sloka   : [
-      'श्रीभगवानुवाच',
-      'अशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे |',
-      'गतासूनगतासूंश्च नानुशोचन्ति पण्डिता: ||'
-    ],
-    sloka_tel : [
-    ],
-    vicheda : [
-      'श्रीभगवान् उवाच',
-      'अशोच्यान् अन्वशोचः त्वं प्रज्ञावादान् च भाषसे |',
-      'गतासून् अगतासूंन् च न अनुशोचन्ति पण्डिता: ||'
-    ],
-    anvaya  : [
-      'श्रीभगवान् उवाच',
-      'त्वं (अशोच्यान् अन्वशोचः) च (प्रज्ञावादान् भाषसे) |',
-      'पण्डिता: गतासून् अगतासूंन् च न अनुशोचन्ति ||'
-    ],
-    prose  : [
-      'The Supreme Lord said: You grieve for those who should not be grieved for, and yet you speak words of wisdom. The wise, who know the truth, do not lament for the living or the dead.', 
-    ],
-    transl : [],
-    transl_tel: [
-      "",
-    ],
-    essence      : [],
-    meanings: [],
-    grammar      : [],
-    notes   : [
+    "grammar": [
       'अशोच्यानन्वशोचस्त्वं = अशोच्यान् + अन्वशोचः + त्वं --- ?? सन्धिः',
       'प्रज्ञावादांश्च = प्रज्ञावादान् + च --- ?? सन्धिः',
       'गतासूनगतासूंश्च = गतासून् + अगतासूंन् + च --- ?? सन्धिः',
@@ -739,7 +710,10 @@ const verses = [
       'अगतासूंन् =',
       'अनुशोचन्ति =',
     ],
-  },      
+    "notes": [
+      "Marks the true commencement of Krishna's philosophical discourse on the immortality of the Soul (Atman)."
+    ]
+  },     
   {
     "chapter": 2,
     "number": 12,
