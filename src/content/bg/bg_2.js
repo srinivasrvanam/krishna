@@ -3237,58 +3237,15 @@ const verses = [
     ],
   },
   {
-    "chapter": 2,
-    "number": 56,
-    "sloka": [
-      "दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः |",
-      "वीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते || ५६ ||"
-    ],
-    "sloka_tel": [
-      "దుఃఖేష్వనుద్విగ్నమనాః సుఖేషు విగతస్పృహః |",
-      "వీతరాగభయక్రోధః స్థితధీర్మునిరుచ్యతే || 56 ||"
-    ],
-    "vicheda": [
-      "दुःखेषु अनुद्विग्न-मनाः सुखेषु विगत-स्पृहः",
-      "वीत-राग-भय-क्रोधः स्थित-धीः मुनिः उच्यते"
-    ],
-    "anvaya": [
-      "दुःखेषु अनुद्विग्नमनाः, सुखेषु विगतस्पृहः, वीतरागभयक्रोधः मुनिः स्थितधीः उच्यते ||"
-    ],
-    "prose": [],
-    "transl": [
-      "One whose mind remains unagitated amid miseries, who is free from longing amid pleasures, and from whom passion, fear, and anger have passed away, is called a sage of steady wisdom."
-    ],
-    "transl_tel": [
-      "దుఃఖాలు వచ్చినప్పుడు కలత చెందని మనస్సు కలిగి, సుఖాలు కలిగినప్పుడు ఆశ లేదా వ్యామోహం లేకుండా, అనురాగము (ఆసక్తి), భయము, క్రోధము పూర్తిగా తొలగిపోయిన మునియే 'స్థితప్రజ్ఞుడు' అని చెప్పబడతాడు."
-    ],
-    "essence": [
-      "Describes the emotional poise of the enlightened sage, who remains undisturbed by pain and pleasure and is freed from attachment, fear, and anger."
-    ],
-    "meanings": [
-      "दुःखेषु = In miseries / sorrows",
-      "अनुद्विग्न-मनाः = Unagitated mind",
-      "सुखेषु = In pleasures / joys",
-      "विगत-स्पृहः = Free from longing / desire",
-      "वीत-राग-भय-क्रोधः = Free from attachment (rag), fear (bhaya), and anger (krodha)",
-      "स्थित-धीः = Of steady wisdom / intellect",
-      "मुनिः = Sage / contemplative one",
-      "उच्यते = Is called"
-    ],
-    "grammar": [],
-    "notes": [
-      "Elaborates on the internal emotional mastery of a Sthitaprajna."
-    ]
-  },
-  {
     chapter      : 2,
     number       : 56,
     sloka        : [
       'दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः |',
-      'वीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते ||',
+      'वीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते || ५६ ||',
     ],
     sloka_tel    : [
       'దుఃఖేష్వనుద్విగ్నమనాః సుఖేషు విగతస్పృహః |',
-      'వీతరాగభయక్రోధః స్థితధీర్మునిరుచ్యతే ||',
+      'వీతరాగభయక్రోధః స్థితధీర్మునిరుచ్యతే || 56 ||',
     ],
     vicheda      : [
       'दुःखेषु अनुद्विग्न-मनाः सुखेषु विगत-स्पृहः |',
@@ -3317,25 +3274,16 @@ const verses = [
     ],
     essence      : [],
     meanings     : [
-      'Duhkheshu: Amidst sorrows / miseries',
-      'Anudvignamanah: One whose mind is not agitated',
-      'Sukheshu: Amidst pleasures',
-      'Vigataspihah: One whose longing has disappeared',
-      'Vita: Freed from / Devoid of',
-      'Raga: Attachment / Passion',
-      'Bhaya: Fear',
-      'Krodha: Anger',
-      'Sthitadhih: One of steady mind/intellect',
-      'Munih: A sage / contemplative one',
-      'Uchyate: Is called',
+      "दुःखेषु = In miseries / sorrows",
+      "अनुद्विग्न-मनाः = Unagitated mind",
+      "सुखेषु = In pleasures / joys",
+      "विगत-स्पृहः = Free from longing / desire",
+      "वीत-राग-भय-क्रोधः = Free from attachment (rag), fear (bhaya), and anger (krodha)",
+      "स्थित-धीः = Of steady wisdom / intellect",
+      "मुनिः = Sage / contemplative one",
+      "उच्यते = Is called"
     ],
-    grammar      : [],
-    notes        : [
-      'Anudvigna-manah literally means "not trembling." Even when sorrow hits, the mind does not shake.',
-      'Vigata-sprihah means the thirst (spriha) for repeating pleasurable experiences has gone. He enjoys what comes but does not crave its return.',
-      'The "Triple Chain" (Raga-Bhaya-Krodha) is broken: Attachment leads to fear (of loss), and fear leads to anger (when the loss happens). Without the first, the others vanish.',
-      'The word Muni comes from the root Man (to think/contemplate). A true Muni is not just silent in speech, but silent in the mental turbulence of reactions.',
-      'Krishna defines the emotional stability of a Sthitaprajna. It is not just about avoiding external situations, but about the internal reaction. A sage is neither crushed by pain nor intoxicated by pleasure. By transcending the "Triple Poison" of attachment, fear, and anger, the intellect stays firmly anchored.',
+    grammar      : [
       'अनुद्विग्न-मनाः = अन् (not/without) + उद्-विज् (to shake/fear/tremble) + मनाः (mind) = one whose mind is not agitated',
       'स्पृहः = स्पृह (to desire/wish)',
       'विगतस्पृहः = विगत (gone) + स्पृहः (longing/thirst) = one whose longing has disappeared',
@@ -3344,65 +3292,24 @@ const verses = [
       'स्थित-धीः = स्थिर (steady) + धीः (intellect) = one of steady intellect',
       'मुनिः = मन् (to think/contemplate) + इः (one who does) = a sage / contemplative one',
     ],
-  },
-  {
-    "chapter": 2,
-    "number": 57,
-    "sloka": [
-      "यः सर्वत्रानभिस्नेहस्तत्तत्प्राप्य शुभाशुभम् |",
-      "नाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता || ५७ ||"
+    notes        : [
+      'Anudvigna-manah literally means "not trembling." Even when sorrow hits, the mind does not shake.',
+      'Vigata-sprihah means the thirst (spriha) for repeating pleasurable experiences has gone. He enjoys what comes but does not crave its return.',
+      'The "Triple Chain" (Raga-Bhaya-Krodha) is broken: Attachment leads to fear (of loss), and fear leads to anger (when the loss happens). Without the first, the others vanish.',
+      'The word Muni comes from the root Man (to think/contemplate). A true Muni is not just silent in speech, but silent in the mental turbulence of reactions.',
+      'Krishna defines the emotional stability of a Sthitaprajna. It is not just about avoiding external situations, but about the internal reaction. A sage is neither crushed by pain nor intoxicated by pleasure. By transcending the "Triple Poison" of attachment, fear, and anger, the intellect stays firmly anchored.',
     ],
-    "sloka_tel": [
-      "యః సర్వత్రానభిస్నేహస్తత్తత్ప్రాప్య శుభాశుభమ్ |",
-      "నాభినన్దతి న ద్వేష్టి తస్య ప్రజ్ఞా ప్రతిష్ఠితా || 57 ||"
-    ],
-    "vicheda": [
-      "यः सर्वत्र अनभिस्नेहः तत् तत् प्राप्य शुभ-अशुभम्",
-      "न अभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता"
-    ],
-    "anvaya": [
-      "यः सर्वत्र अनभिस्नेहः (सन्) तत् तत् शुभम् अशुभम् वा प्राप्य न अभिनन्दति न द्वेष्टि, तस्य प्रज्ञा प्रतिष्ठिता (भवति) ||"
-    ],
-    "prose": [],
-    "transl": [
-      "He who is everywhere without attachment, meeting with whatever good or evil, neither rejoices nor hates—his wisdom is firmly established."
-    ],
-    "transl_tel": [
-      "ఎవడైతే ఎల్లెడలా అనురాగరహితుడై (అనాసక్తుడై), మంచినో లేదా చెడునో పొందినప్పుడు సంతోషపడడో, ద్వేషించడో... అతని ప్రజ్ఞ (జ్ఞానము) స్థిరంగా నిలిచి ఉన్నట్లు."
-    ],
-    "essence": [
-      "Extols neutral response to pleasant and unpleasant life circumstances as a sign of firmly rooted wisdom."
-    ],
-    "meanings": [
-      "यः = Who",
-      "सर्वत्र = Everywhere",
-      "अनभिस्नेहः = Without attachment / unattached",
-      "तत् तत् = That and that / whatever",
-      "प्राप्य = Having obtained / meeting with",
-      "शुभ-अशुभम् = Good and evil / favorable and unfavorable",
-      "न = Neither",
-      "अभिनन्दति = Rejoices / welcomes",
-      "न = Nor",
-      "द्वेष्टि = Hates / recoils",
-      "तस्य = His",
-      "प्रज्ञा = Wisdom / intellect",
-      "प्रतिष्ठिता = Is established"
-    ],
-    "grammar": [],
-    "notes": [
-      "Focuses on freedom from reaction toward worldly dualities."
-    ]
   },
   {
     chapter      : 2,
     number       : 57,
     sloka        : [
       'यः सर्वत्रानभिस्नेहस्तत्तत्प्राप्य शुभाशुभम् |',
-      'नाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता ||',
+      'नाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता || ५७ ||',
     ],
     sloka_tel    : [
       'యః సర్వత్రానభిస్నేహస్తత్తత్ప్రాప్య శుభాశుభమ్ |',
-      'నాభినన్దతి న ద్వేష్టి తస్య ప్రజ్ఞా ప్రతిష్ఠితా ||',
+      'నాభినన్దతి న ద్వేష్టి తస్య ప్రజ్ఞా ప్రతిష్ఠితా || 57 ||',
     ],
     vicheda      : [
       'यः सर्वत्र अनभिस्नेहः तत् तत् प्राप्य शुभ-अशुभम् |',
@@ -3428,88 +3335,42 @@ const verses = [
     ],
     essence      : [],
     meanings     : [
-      'Yah: He who / Who',
-      'Sarvatra: Everywhere / In all situations',
-      'Anabhisnehah: Without excessive attachment / affection',
-      'Tat Tat: That and that / Whatever',
-      'Prapya: Having obtained / Meeting with',
-      'Shubha-ashubham: Good and evil / Pleasant and unpleasant',
-      'Na: Not',
-      'Abhinandati: Rejoices / Praises',
-      'Dveshti: Hates / Recoils in aversion',
-      'Tasya: His',
-      'Prajna: Wisdom / Intelligence',
-      'Pratishthita: Firmly established / Fixed',
+      "यः = Who",
+      "सर्वत्र = Everywhere",
+      "अनभिस्नेहः = Without attachment / unattached",
+      "तत् तत् = That and that / whatever",
+      "प्राप्य = Having obtained / meeting with",
+      "शुभ-अशुभम् = Good and evil / favorable and unfavorable",
+      "न = Neither",
+      "अभिनन्दति = Rejoices / welcomes",
+      "न = Nor",
+      "द्वेष्टि = Hates / recoils",
+      "तस्य = His",
+      "प्रज्ञा = Wisdom / intellect",
+      "प्रतिष्ठिता = Is established"
     ],
-    grammar      : [],
+    grammar      : [
+      'अभिनन्दति = अभि + नन्द् = (इच्छा करना, स्वीकार करना, प्रशंसा करना) - कर्तरि लट्.ल. - प्र.पु. - एक.व. = rejoices /  praises',
+      'द्वेष्टि = द्विष् (to hate/dislike) - कर्तरि लट्.ल. - प्र.पु. - एक.व. - परस्मैपदम् = hates / recoils in aversion',
+    ],
     notes        : [
       'Anabhisnehah literally means "without oily stickiness." Sneha refers to oil or affection; the sage is like a lotus leaf where water (events) can touch it but never stick.',
       'Shubha and Ashubham refer to the dualities of life—favorable and unfavorable circumstances.',
       'Abhinandati vs Dveshti: These are the two swings of the emotional pendulum. The sage stays at the center point.',
       'This verse emphasizes that wisdom is not just a theory, but a practical reaction to the unpredictable nature of the world.',
       'In this verse, Krishna describes the "neutrality" of a sage towards the results of life. Whether something "good" (shubham) or "bad" (ashubham) happens, the Sthitaprajna remains steady. They do not get overly excited by success nor do they harbor hatred toward failure. Their wisdom is locked in a state of constant equilibrium.',
-      'अभिनन्दति = अभि + नन्द् = (इच्छा करना, स्वीकार करना, प्रशंसा करना) - कर्तरि लट्.ल. - प्र.पु. - एक.व. = rejoices /  praises',
-      'द्वेष्टि = द्विष् (to hate/dislike) - कर्तरि लट्.ल. - प्र.पु. - एक.व. - परस्मैपदम् = hates / recoils in aversion',
     ],
-  },
-  {
-    "chapter": 2,
-    "number": 58,
-    "sloka": [
-      "यदा संहरते चायं कूर्मोऽङ्गानीव सर्वशः |",
-      "इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता || ५८ ||"
-    ],
-    "sloka_tel": [
-      "యదా సంహరతే చాయం కూర్మోऽఙ్గానీవ సర్వశః |",
-      "ఇన్ద్రియాణీన్ద్రియార్ధేభ్యస్తస్య ప్రజ్ఞా ప్రతిష్ఠితా || 58 ||"
-    ],
-    "vicheda": [
-      "यदा संहरते च अयम् कूर्मः अङ्गानि इव सर्वशः",
-      "इन्द्रियाणि इन्द्रिय-अर्थेभ्यः तस्य प्रज्ञा प्रतिष्ठिता"
-    ],
-    "anvaya": [
-      "अयम् यदा कूर्मः अङ्गानि इव सर्वशः इन्द्रियाणि इन्द्रियार्थेभ्यः संहरते, तस्य प्रज्ञा प्रतिष्ठिता (भवति) ||"
-    ],
-    "prose": [],
-    "transl": [
-      "When one completely withdraws the senses from sense-objects, as a tortoise draws in its limbs from all sides, his wisdom is firmly established."
-    ],
-    "transl_tel": [
-      "తాబేలు తన అవయవాలను అన్ని వైపులా లోపలికి ఉపసంహరించుకున్నట్లే, ఎవడైతే తన ఇంద్రియాలను ఇంద్రియ విషయాల నుండి పూర్తిగా ఉపసంహరించుకుంటాడో, అతని ప్రజ్ఞ స్థిరంగా నిలిచి ఉంటుంది."
-    ],
-    "essence": [
-      "Uses the classic analogy of a tortoise to illustrate sensory control (*Pratyahara*) as a essential trait of a sage."
-    ],
-    "meanings": [
-      "यदा = When",
-      "संहरते = Withdraws / pulls back",
-      "च = And",
-      "अयम् = This (yogi)",
-      "कूर्मः = Tortoise",
-      "अङ्गानि = Limbs",
-      "इव = Just as",
-      "सर्वशः = From all sides",
-      "इन्द्रियाणि = Senses",
-      "इन्द्रिय-अर्थेभ्यः = From sense-objects",
-      "तस्य = His",
-      "प्रज्ञा = Wisdom",
-      "प्रतिष्ठिता = Is firmly established"
-    ],
-    "grammar": [],
-    "notes": [
-      "Analogy representing Pratyahara (withdrawal of senses) in Yogic practice."
-    ]
   },
   {
     chapter      : 2,
     number       : 58,
     sloka        : [
       'यदा संहरते चायं कूर्मोऽङ्गानीव सर्वशः |',
-      'इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता ||',
+      'इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता || ५८ ||',
     ],
     sloka_tel    : [
       'యదా సంహరతే చాయం కూర్మోఙ్గానీవ సర్వశః |',
-      'ఇంద్రియాణీంద్రియార్థేభ్యస్తస్య ప్రజ్ఞా ప్రతిష్ఠితా ||',
+      'ఇంద్రియాణీంద్రియార్థేభ్యస్తస్య ప్రజ్ఞా ప్రతిష్ఠితా || 57 ||',
     ],
     vicheda      : [
       'यदा संहरते च अयम् कूर्मः अङ्गानि इव सर्वशः |',
@@ -3533,22 +3394,23 @@ const verses = [
     ],
     essence      : [],
     meanings     : [
-      'Yada: When',
-      'Samharate: Withdraws / Pulls back',
-      'Cha: And',
-      'Ayam: This (person)',
-      'Kurmah: Tortoise',
-      'Angani: Limbs',
-      'Iva: Like / As',
-      'Sarvashah: Completely / From all sides',
-      'Indriyani: The senses',
-      'Indriya-arthebhyah: From the objects of the senses',
-      'Tasya: His',
-      'Prajna: Wisdom',
-      'Pratishthita: Firmly established',
+      "यदा = When",
+      "संहरते = Withdraws / pulls back",
+      "च = And",
+      "अयम् = This (yogi)",
+      "कूर्मः = Tortoise",
+      "अङ्गानि = Limbs",
+      "इव = Just as",
+      "सर्वशः = From all sides",
+      "इन्द्रियाणि = Senses",
+      "इन्द्रिय-अर्थेभ्यः = From sense-objects",
+      "तस्य = His",
+      "प्रज्ञा = Wisdom",
+      "प्रतिष्ठिता = Is firmly established"
     ],
     grammar      : [],
     notes        : [
+      "Analogy representing Pratyahara (withdrawal of senses) in Yogic practice.",
       'The Tortoise Analogy: The shell represents the internal space of the Self (Atman). The limbs are the senses. The world is the outside environment.',
       'Voluntary Control: The tortoise does not lose its limbs; it simply chooses when to use them. Similarly, a sage is not blind or deaf; they simply choose not to be "dragged" by what they see or hear.',
       'Samharate: This word implies a gathering or collecting. Usually, our energy is "scattered" among many objects. The sage "collects" it back to a single point.',
@@ -3559,61 +3421,15 @@ const verses = [
     ],
   },
   {
-    "chapter": 2,
-    "number": 59,
-    "sloka": [
-      "विषया विनिवर्तन्ते निराहारस्य देहिनः |",
-      "रसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते || ५९ ||"
-    ],
-    "sloka_tel": [
-      "విషయా వినివర్తన్తే నిరాహారస్య దేహినః |",
-      "రసవర్జం రసోऽప్యస్య పరం దృష్ట్వా నివర్తతే || 59 ||"
-    ],
-    "vicheda": [
-      "विषयाः विनिवर्तन्ते निराहारस्य देहिनः",
-      "रस-वर्जम् रसः अपि अस्य परम् दृष्ट्वा निवर्तते"
-    ],
-    "anvaya": [
-      "निराहारस्य देहिनः रसवर्जम् विषयाः विनिवर्तन्ते; परम् दृष्ट्वा अस्य रसः अपि निवर्तते ||"
-    ],
-    "prose": [],
-    "transl": [
-      "Sense-objects turn away from the abstinent embodied soul, leaving the subtle craving behind. But even this craving falls away upon beholding the Supreme."
-    ],
-    "transl_tel": [
-      "ఆహారాన్ని లేదా ఇంద్రియ విషయాలను వర్జించిన దేహి నుండి బాహ్య విషయాలు తొలగిపోవచ్చు, కానీ వాటిపై ఉండే సూక్ష్మమైన రాగం (రుచి/కోరిక) మిగిలే ఉంటుంది. అయితే పరమాత్మను దర్శించడం వల్ల ఆ సూక్ష్మమైన రాగం కూడా నశించిపోతుంది."
-    ],
-    "essence": [
-      "Explains that mere physical abstinence does not erase inner subtle craving (*Rasa*); only direct experience of the Supreme permanently roots out desire."
-    ],
-    "meanings": [
-      "विषयाः = Sense-objects",
-      "विनिवर्तन्ते = Turn away / recede",
-      "निराहारस्य = Of the abstinent / one who restricts senses",
-      "देहिनः = Of the embodied person",
-      "रस-वर्जम् = Leaving the subtle taste / longing behind",
-      "रसः = Taste / inner craving",
-      "अपि = Even",
-      "अस्य = His / for him",
-      "परम् = The Supreme",
-      "दृष्ट्वा = Having seen / realized",
-      "निवर्तते = Ceases / falls away"
-    ],
-    "grammar": [],
-    "notes": [
-      "Distinguishes physical control from total internal liberation attained through Atma-Anubhava."
-    ]
-  },
-  {
     chapter      : 2,
     number       : 59,
     sloka        : [
       'विषया विनिवर्तन्ते निराहारस्य देहिनः |',
-      'रसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते ||',
+      'रसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते || ५९ ||',
     ],
     sloka_tel    : [
       'విషయా వినివర్తన్తే నిరాహారస్య దేహినః |',
-      'రసవర్జం రసోఽప్యస్య పరం దృష్ట్వా నివర్తతే ||',
+      'రసవర్జం రసోఽప్యస్య పరం దృష్ట్వా నివర్తతే || 59 ||',
     ],
     vicheda      : [
       'विषयाः वि-निवर्तन्ते निराहारस्य देहिनः |',
@@ -3629,6 +3445,7 @@ const verses = [
       'Even this taste vanishes when one experiences the Supreme Reality.',
     ],
     transl      : [
+      "Sense-objects turn away from the abstinent embodied soul, leaving the subtle craving behind. But even this craving falls away upon beholding the Supreme.",
       'Aspirants may restrain the senses from their objects of enjoyment, but the taste for the sense objects remains. However, even this taste ceases for those who realize the Supreme.',
     ],
     transl_tel  : [
@@ -3636,17 +3453,17 @@ const verses = [
     ],
     essence      : [],
     meanings     : [
-      'Vishayah: Objects of the senses',
-      'Vinivartante: Fall away / Recede',
-      'Niraharasya: For one who abstains from "food" (sensory input)',
-      'Dehinah: For the embodied soul',
-      'Rasa-varjam: Excluding the "taste" or inner craving',
-      'Rasah: The taste / relish',
-      'Api: Even / Also',
-      'Asya: Of this person',
-      'Param: The Supreme / Higher Reality',
-      'Drishtva: Having seen / experienced',
-      'Nivartate: Ceases / Vanishes',
+      "विषयाः = Sense-objects",
+      "विनिवर्तन्ते = Turn away / recede",
+      "निराहारस्य = Of the abstinent / one who restricts senses",
+      "देहिनः = Of the embodied person",
+      "रस-वर्जम् = Leaving the subtle taste / longing behind",
+      "रसः = Taste / inner craving",
+      "अपि = Even",
+      "अस्य = His / for him",
+      "परम् = The Supreme",
+      "दृष्ट्वा = Having seen / realized",
+      "निवर्तते = Ceases / falls away"
     ],
     grammar      : [],
     notes        : [
@@ -3659,61 +3476,15 @@ const verses = [
     ],
   },
   {
-    "chapter": 2,
-    "number": 60,
-    "sloka": [
-      "यततो ह्यपि कौन्तेय पुरुषस्य विपश्चितः |",
-      "इन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मनः || ६० ||"
-    ],
-    "sloka_tel": [
-      "యతతో హ్యపి కౌన్తేయ పురుషస్య విపశ్చితః |",
-      "ఇన్ద్రియాణి ప్రమాథీని హరన్తి ప్రసభం మనః || 60 ||"
-    ],
-    "vicheda": [
-      "यततः हि अपि कौन्तेय पुरुषस्य विपश्चितः",
-      "इन्द्रियाणि प्रमाथीनि हरन्ति प्रसभम् मनः"
-    ],
-    "anvaya": [
-      "हे कौन्तेय! यततः विपश्चितः पुरुषस्य अपि प्रमाथीनि इन्द्रियाणि मनः प्रसभम् हरन्ति हि ||"
-    ],
-    "prose": [],
-    "transl": [
-      "For, O son of Kunti, the turbulent senses forcibly carry away the mind of even a wise person who is striving for perfection."
-    ],
-    "transl_tel": [
-      "ఓ కౌంతేయా! ఎంత ప్రయత్నం చేసే ప్రాజ్ఞుడైన (జ్ఞానియైన) పురుషుని మనస్సునైనా సరే, కలతపెట్టే ఈ ఇంద్రియాలు బలవంతంగా హరించివేస్తాయి."
-    ],
-    "essence": [
-      "Warns of the immense power of unruly senses to overpower even an alert and discerning seeker."
-    ],
-    "meanings": [
-      "यततः = Striving / endeavoring",
-      "हि = Indeed",
-      "अपि = Even",
-      "कौन्तेय = O son of Kunti (Arjuna)",
-      "पुरुषस्य = Of a person",
-      "विपश्चितः = Wise / learned",
-      "इन्द्रियाणि = Senses",
-      "प्रमाथीनि = Agitating / turbulent",
-      "हरन्ति = Carry away / snatch",
-      "प्रसभम् = Forcibly / violently",
-      "मनः = The mind"
-    ],
-    "grammar": [],
-    "notes": [
-      "Sets up the crucial necessity for devotional surrender and rigorous sensory mastery detailed in BG 2.61."
-    ]
-  },
-  {
     chapter      : 2,
     number       : 60,
     sloka        : [
       'यततो ह्यपि कौन्तेय पुरुषस्य विपश्चितः |',
-      'इन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मनः ||',
+      'इन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मनः || ६० ||',
     ],
     sloka_tel    : [
       'యతతో హ్యపి కౌన్తేయ పురుషస్య విపశ్చితః |',
-      'ఇంద్రియాణి ప్రమాథీని హరన్తి ప్రసభం మనః ||',
+      'ఇంద్రియాణి ప్రమాథీని హరన్తి ప్రసభం మనః || 60 ||',
     ],
     vicheda      : [
       'यततः हि अपि कौन्तेय पुरुषस्य विपश्चितः |',
@@ -3732,6 +3503,7 @@ const verses = [
       '- of even a wise person who is striving to control them',
     ],
     transl      : [
+      "For, O son of Kunti, the turbulent senses forcibly carry away the mind of even a wise person who is striving for perfection.",
       'The senses are so strong and turbulent, O son of Kunti, that they can forcibly carry away the mind even of a person endowed with discrimination who practices self-control.',
     ],
     transl_tel  : [
@@ -3739,25 +3511,19 @@ const verses = [
     ],
     essence      : [],
     meanings     : [
-      'Yatatah: Of the one who is striving / endeavoring',
-      'Hi: Indeed / Certainly',
-      'Api: Even / Also',
-      'Kaunteya: O son of Kunti (Arjuna)',
-      'Purushasya: Of a person',
-      'Vipashchitah: Of the wise / discriminating / learned',
-      'Indriyani: The senses',
-      'Pramathini: Turbulent / Agitated / Tormenting',
-      'Haranti: Carry away / Steal / Hijack',
-      'Prasabham: Forcibly / By violence',
-      'Manah: The mind',
+      "यततः = Striving / endeavoring",
+      "हि = Indeed",
+      "अपि = Even",
+      "कौन्तेय = O son of Kunti (Arjuna)",
+      "पुरुषस्य = Of a person",
+      "विपश्चितः = Wise / learned",
+      "इन्द्रियाणि = Senses",
+      "प्रमाथीनि = Agitating / turbulent",
+      "हरन्ति = Carry away / snatch",
+      "प्रसभम् = Forcibly / violently",
+      "मनः = The mind"
     ],
-    grammar      : [],
-    notes        : [
-      'Pramathini: This comes from the root Math (to churn). The senses churn the mind like someone churning butter, leaving it completely agitated.',
-      'Prasabham: This implies "rape" or "violent abduction." It shows that the senses do not ask for permission; they simply overwhelm the intellect through brute force.',
-      'The "Wise Person" Warning: Krishna emphasizes that even "Vipashchitah" (people with theoretical knowledge) are not safe. Reading books about self-control is different from facing a sensory storm.',
-      'This verse sets the stage for 2.61, which explains the only way to stop this hijacking: by focusing the mind on the Divine.',
-      'Krishna gives a stern warning about the power of the senses. Even if someone is a "Vipashchit" (a learned, wise person) and is actively "Yatatah" (striving/practicing), the senses are so "Pramathini" (turbulent/agitated) that they can hijack the mind by force. Knowledge alone is not a shield; constant vigilance and a higher anchor are required.',
+    grammar      : [
       'यततः = यतत् ( (यत् - to strive/diligent ) ) - षष्ठी.वि. - एक.व. = of one who is striving',
       'विपश्चितः = विपश्चित् (विद्वान्/learned/wise) - षष्ठी.वि. - एक.व. = of a wise person',
       'पुरुषस्य = पुरुष (person) - षष्ठी.वि. - एक.व. = of a person',
@@ -3767,65 +3533,24 @@ const verses = [
       'प्रसभम् = adverb - forcibly / by violence = प्र (excessive) + सभम् (force) = adverbs are avyayas (indeclinables)',
       'हरन्ति = हृ (to take away/carry/steal) - कर्तरि लट्.ल. - प्र.पु. - बहु.व. = carry away / steal / hijack',
     ],
-  },
-  {
-    "chapter": 2,
-    "number": 61,
-    "sloka": [
-      "तानि सर्वाणि संयम्य युक्त आसीत मत्परः |",
-      "वशे हि यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता || ६१ ||"
+    notes        : [
+      'Pramathini: This comes from the root Math (to churn). The senses churn the mind like someone churning butter, leaving it completely agitated.',
+      'Prasabham: This implies "rape" or "violent abduction." It shows that the senses do not ask for permission; they simply overwhelm the intellect through brute force.',
+      'The "Wise Person" Warning: Krishna emphasizes that even "Vipashchitah" (people with theoretical knowledge) are not safe. Reading books about self-control is different from facing a sensory storm.',
+      'This verse sets the stage for 2.61, which explains the only way to stop this hijacking: by focusing the mind on the Divine.',
+      'Krishna gives a stern warning about the power of the senses. Even if someone is a "Vipashchit" (a learned, wise person) and is actively "Yatatah" (striving/practicing), the senses are so "Pramathini" (turbulent/agitated) that they can hijack the mind by force. Knowledge alone is not a shield; constant vigilance and a higher anchor are required.',
     ],
-    "sloka_tel": [
-      "తాని సర్వాణి సంయమ్య యుక్త ఆసీత మత్పరః |",
-      "వశే హి యస్యేన్ద్రియాణి తస్య ప్రజ్ఞా ప్రతిష్ఠితా || 61 ||"
-    ],
-    "vicheda": [
-      "तानि सर्वाणि संयम्य युक्तः आसीत मत्-परः",
-      "वशे हि यस्य इन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता"
-    ],
-    "anvaya": [
-      "तानि सर्वाणि (इन्द्रियाणि) संयम्य, युक्तः मत्परः (सन्) आसीत; यस्य इन्द्रियाणि वशे (वर्तन्ते) हि, तस्य प्रज्ञा प्रतिष्ठिता (भवति) ||"
-    ],
-    "prose": [],
-    "transl": [
-      "Restraining all the senses, one should sit focused, holding Me as the supreme goal. For one whose senses are under control, his wisdom is firmly established."
-    ],
-    "transl_tel": [
-      "ఆ ఇంద్రియాలన్నింటినీ అదుపులో ఉంచుకుని, నన్నే పరమగమ్యంగా భావిస్తూ ఏకాగ్రతతో కూర్చునవలెను. ఎవని ఇంద్రియాలు తన ఆధీనంలో ఉంటాయో, అతని ప్రజ్ఞ నిశ్చలంగా నిలిచి ఉంటుంది."
-    ],
-    "essence": [
-      "Presents devotio-meditative focus on the Supreme (*Mat-parah*) as the ultimate means to master the senses and stabilize wisdom."
-    ],
-    "meanings": [
-      "तानि = Them",
-      "सर्वाणि = All",
-      "संयम्य = Restraining / controlling",
-      "युक्तः = Focused / united in mind",
-      "आसीत = Should sit / remain",
-      "मत्-परः = Holding Me as the Supreme",
-      "वशे = Under control / subjection",
-      "हि = Indeed",
-      "यस्य = Whose",
-      "इन्द्रियाणि = Senses",
-      "तस्य = His",
-      "प्रज्ञा = Wisdom",
-      "प्रतिष्ठिता = Is firmly established"
-    ],
-    "grammar": [],
-    "notes": [
-      "Introduces personal devotion to God (*Mat-parah*) as the key anchor for complete sensory control."
-    ]
   },
   {
     chapter      : 2,
     number       : 61,
     sloka        : [
       'तानि सर्वाणि संयम्य युक्त आसीत मत्परः |',
-      'वशे हि यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता ||',
+      'वशे हि यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता || ६१ ||',
     ],
     sloka_tel    : [
       'తాని సర్వాణి సంయమ్య యుక్త ఆసీత మత్పరః |',
-      'వశే హి యస్యేంద్రియాణి తస్య ప్రజ్ఞా ప్రతిష్ఠితా ||',
+      'వశే హి యస్యేంద్రియాణి తస్య ప్రజ్ఞా ప్రతిష్ఠితా || 61 ||',
     ],
     vicheda      : [
       'तानि सर्वाणि सं-यम्य युक्तः आसीत मत्-परः |',
@@ -3840,6 +3565,7 @@ const verses = [
       '(Indeed) One whose senses are under control, his wisdom is firmly established.',
     ],
     transl      : [
+      "Restraining all the senses, one should sit focused, holding Me as the supreme goal. For one whose senses are under control, his wisdom is firmly established.",
       'They are established in perfect knowledge, who subdue their senses and keep their minds ever absorbed in Me.',
     ],
     transl_tel  : [
@@ -3847,33 +3573,34 @@ const verses = [
     ],
     essence      : [],
     meanings     : [
-      'Tani: Them (the senses)',
-      'Sarvani: All / Entirely',
-      'Samyamya: Having restrained / controlled',
-      'Yuktah: Disciplined / United / Steadfast',
-      'Asita: Should sit / Should remain',
-      'Mat-parah: Intent on Me / Devoted to Me / Having Me as the Supreme Goal',
-      'Vashe: Under control / In subjection',
-      'Hi: Indeed / Surely',
-      'Yasya: Whose',
-      'Indriyani: Senses',
-      'Tasya: His',
-      'Prajna: Wisdom',
-      'Pratishthita: Firmly established',
+      "तानि = Them",
+      "सर्वाणि = All",
+      "संयम्य = Restraining / controlling",
+      "युक्तः = Focused / united in mind",
+      "आसीत = Should sit / remain",
+      "मत्-परः = Holding Me as the Supreme",
+      "वशे = Under control / subjection",
+      "हि = Indeed",
+      "यस्य = Whose",
+      "इन्द्रियाणि = Senses",
+      "तस्य = His",
+      "प्रज्ञा = Wisdom",
+      "प्रतिष्ठिता = Is firmly established"
     ],
-    grammar      : [],
-    notes        : [
-      'Mat-parah: This is the turning point of the Gita\’s psychology. Krishna suggests that the mind cannot be empty; if you pull it away from the world, you must give it a higher "anchor" (the Divine).',
-      'Samyamya vs. Prasabham: While the senses act with "Brute Force" (Prasabham), the seeker acts with "Restraint" (Samyamya).',
-      'The "Chain of Success": Control Senses -> Focus on Divine -> Senses become submissive (Vashe) -> Wisdom becomes stable.',
-      'This verse introduces the element of Bhakti (Devotion) as a functional tool for Raja Yoga (Mental Control).',
-      'Krishna provides the definitive solution to the "turbulent senses" mentioned in the previous verse. Simply fighting the senses with willpower (Yatataḥ) is not enough. One must "re-anchor" the mind on a higher reality (Mat-paraḥ). By centering the consciousness on the Divine, the senses naturally come under control, and wisdom becomes unshakable.',
+    grammar      : [
       'मत्परः = मत् (I) + परः (beyond/supreme) = One for whom I am the supreme goal',
       'युक्तः = युज् (to join/unite) - same root as Yoga - क्त-प्रत्ययः (passive past tense) = disciplined / united / steadfast',
       'आसीत = आस् (to sit) - कर्तरि विधिलिङ्.ल. (Imperative/Potential Mood) - आत्मनेपदम् - प्र.पु. - एक.व. = should sit / should remain',
       'विधिलिङ् Example: सत्यं वदेत् = one should speak the truth',
       'लोट् & विधिलिङ् are similar in terms of request/command. But लोट् is used as a direct command, while विधिलिङ् is more of a suggestion or recommendation. It\'s like the difference between "You must do this" (lot) and "You should do this" (विधिलिङ्). In the context of spiritual practice, Krishna often uses विधिलिङ् to encourage aspirants without being overly forceful.',
       'वशे = (Saptamī Vibhakti) of the noun वश (will/power/control) = in the control',
+    ],
+    notes        : [
+      'Mat-parah: This is the turning point of the Gita\’s psychology. Krishna suggests that the mind cannot be empty; if you pull it away from the world, you must give it a higher "anchor" (the Divine).',
+      'Samyamya vs. Prasabham: While the senses act with "Brute Force" (Prasabham), the seeker acts with "Restraint" (Samyamya).',
+      'The "Chain of Success": Control Senses -> Focus on Divine -> Senses become submissive (Vashe) -> Wisdom becomes stable.',
+      'This verse introduces the element of Bhakti (Devotion) as a functional tool for Raja Yoga (Mental Control).',
+      'Krishna provides the definitive solution to the "turbulent senses" mentioned in the previous verse. Simply fighting the senses with willpower (Yatataḥ) is not enough. One must "re-anchor" the mind on a higher reality (Mat-paraḥ). By centering the consciousness on the Divine, the senses naturally come under control, and wisdom becomes unshakable.',
     ],
   },
   {
