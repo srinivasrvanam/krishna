@@ -1722,9 +1722,15 @@ const verses = [
       "अव्यक्त-निधनानि एव तत्र का परिदेवना"
     ],
     "anvaya": [
-      "हे भारत! भूतानि अव्यक्तादीनि, व्यक्तमध्यानि, अव्यक्तनिधनानि एव (सन्ति); तत्र का परिदेवना? ||"
+      "हे भारत!", 
+      "भूतानि अव्यक्त-आदीनि, व्यक्त-मध्यानि, अव्यक्त-निधनानि एव (सन्ति);", 
+      "तत्र का परिदेवना? ||"
     ],
-    "prose": [],
+    "prose": [
+      "O Bharata. ",
+      "All created beings are unmanifest in their origin, manifest in their middle state, and unmanifest again in their dissolution", 
+      "What cause is there then for lamentation?"
+    ],
     "transl": [
       "All created beings are unmanifest in their origin, manifest in their middle state, and unmanifest again in their dissolution, O Bharata. What cause is there then for lamentation?"
     ],
@@ -1772,9 +1778,17 @@ const verses = [
       "श्रुत्वा अपि एनम् वेद न च एव कश्चित्"
     ],
     "anvaya": [
-      "कश्चित् एनम् आश्चर्यवत् पश्यति, तथा एव च अन्यः आश्चर्यवत् वदति, अन्यः च एनम् आश्चर्यवत् शृणोति; श्रुत्वा अपि एनम् कश्चित् न एव वेद ||"
+      "कश्चित् एनम् आश्चर्यवत् पश्यति", 
+      "तथा एव च अन्यः आश्चर्यवत् वदति", 
+      "अन्यः च एनम् आश्चर्यवत् शृणोति;", 
+      "श्रुत्वा अपि एनम् कश्चित् न एव वेद ||"
     ],
-    "prose": [],
+    "prose": [
+      "One perceives this Soul as a wonder", 
+      "another speaks of It as a wonder", 
+      "and another hears of It as a wonder.", 
+      "Yet even after hearing about It, no one truly comprehends It."
+    ],
     "transl": [
       "One perceives this Soul as a wonder, another speaks of It as a wonder, and another hears of It as a wonder. Yet even after hearing about It, no one truly comprehends It."
     ],
@@ -1830,9 +1844,15 @@ const verses = [
       "तस्मात् सर्वाणि भूतानि न त्वम् शोचितुम् अर्हसि"
     ],
     "anvaya": [
-      "हे भारत! सर्वस्य देहे अयम् देही नित्यम् अवध्यः (अस्ति); तस्मात् सर्वाणि भूतानि त्वम् शोचितुम् न अर्हसि ||"
+      "हे भारत!", 
+      "सर्वस्य देहे अयम् देही नित्यम् अवध्यः (अस्ति);", 
+      "तस्मात् सर्वाणि भूतानि त्वम् शोचितुम् न अर्हसि ||"
     ],
-    "prose": [],
+    "prose": [
+      "O Bharata. ",
+      "This embodied Soul dwelling in the body of everyone is eternally indestructible", 
+      "Therefore, you ought not to grieve for any living being."
+    ],
     "transl": [
       "This embodied Soul dwelling in the body of everyone is eternally indestructible, O Bharata. Therefore, you ought not to grieve for any living being."
     ],
@@ -1991,9 +2011,15 @@ const verses = [
       "ततः स्व-धर्मम् कीर्तिम् च हित्वा पापम् अवाप्स्यसि"
     ],
     "anvaya": [
-      "अथ चेत् त्वम् इमम् धर्म्यम् सङ्ग्रामम् न करिष्यसि, ततः स्वधर्मम् कीर्तिम् च हित्वा पापम् अवाप्स्यसि ||"
+      "अथ चेत् त्वम् इमम् धर्म्यम् सङ्ग्रामम् न करिष्यसि", 
+      "ततः स्वधर्मम् कीर्तिम् च हित्वा", 
+      "पापम् अवाप्स्यसि ||"
     ],
-    "prose": [],
+    "prose": [
+      "But if you do not wage this righteous battle", 
+      "then, forfeiting your own duty and honor", 
+      "you will incur sin."
+    ],
     "transl": [
       "But if you do not wage this righteous battle, then, forfeiting your own duty and honor, you will incur sin."
     ],
@@ -2040,9 +2066,13 @@ const verses = [
       "सम्भावितस्य च अकीर्तिः मरणात् अतिरिच्यते"
     ],
     "anvaya": [
-      "भूतानि च अपि ते अव्ययाम् अकीर्तिम् कथयिष्यन्ति; सम्भावितस्य च अकीर्तिः मरणात् अतिरिच्यते ||"
+      "भूतानि च अपि ते अव्ययाम् अकीर्तिम् कथयिष्यन्ति;", 
+      "सम्भावितस्य च अकीर्तिः मरणात् अतिरिच्यते ||"
     ],
-    "prose": [],
+    "prose": [
+      "People will speak of your everlasting dishonor;", 
+      "and for a respectable person, dishonor is worse than death."
+    ],
     "transl": [
       "People will speak of your everlasting dishonor; and for a respectable person, dishonor is worse than death."
     ],
@@ -2087,9 +2117,13 @@ const verses = [
       "येषाम् च त्वम् बहु-मतः भूत्वा यास्यसि लाघवम्"
     ],
     "anvaya": [
-      "महारथाः त्वाम् भयात् रणात् उपरतम् मंस्यन्ते; येषाम् च त्वम् बहुमतः भूत्वा लाघवम् यास्यसि ||"
+      "महा-रथाः त्वाम् भयात् रणात् उपरतम् मंस्यन्ते;", 
+      "येषाम् च त्वम् बहु-मतः भूत्वा लाघवम् यास्यसि ||"
     ],
-    "prose": [],
+    "prose": [
+      "The great chariot-warriors will think that you withdrew from battle out of fear;", 
+      "and you will fall into contempt among those who held you in high esteem."
+    ],
     "transl": [
       "The great chariot-warriors will think that you withdrew from battle out of fear; and you will fall into contempt among those who held you in high esteem."
     ],
@@ -2135,9 +2169,13 @@ const verses = [
       "निन्दन्तः तव सामर्थ्यम् ततः दुःखतरम् नु किम्"
     ],
     "anvaya": [
-      "तव अहिताः तव सामर्थ्यम् निन्दन्तः बहून् अवाच्यवादान् च वदिष्यन्ति; ततः दुःखतरम् नु किम् (अस्ति)? ||"
+      "तव अहिताः तव सामर्थ्यम् निन्दन्तः बहून् अवाच्यवादान् च वदिष्यन्ति;", 
+      "ततः दुःखतरम् नु किम् (अस्ति)? ||"
     ],
-    "prose": [],
+    "prose": [
+      "Your enemies will speak many unspeakable words, vilifying your ability.", 
+      "What could be more painful than that?"
+    ],
     "transl": [
       "Your enemies will speak many unspeakable words, vilifying your ability. What could be more painful than that?"
     ],
@@ -2412,9 +2450,15 @@ const verses = [
       "बहु-शाखाः हि अनन्ताः च बुद्धयः अव्यवसायिनाम्"
     ],
     "anvaya": [
-      "हे कुरुनन्दन! इह व्यवसायात्मिका बुद्धिः एकः एव (भवति); अव्यवसायिनाम् बुद्धयः हि बहुशाखाः अनन्ताः च (भवन्ति) ||"
+      "हे कुरुनन्दन!", 
+      "इह व्यवसायात्मिका बुद्धिः एकः एव (भवति);", 
+      "अव्यवसायिनाम् बुद्धयः हि बहुशाखाः अनन्ताः च (भवन्ति) ||"
     ],
-    "prose": [],
+    "prose": [
+      "O descendant of Kuru", 
+      "the resolute intellect on this path is single-pointed;", 
+      "but the intellect of the irresolute is many-branched and endless."
+    ],
     "transl": [
       "O descendant of Kuru, the resolute intellect on this path is single-pointed; but the intellect of the irresolute is many-branched and endless."
     ],
@@ -2458,9 +2502,15 @@ const verses = [
       "वेद-वाद-रताः पार्थ न अन्यत् अस्ति इति वादिनः"
     ],
     "anvaya": [
-      "हे पार्थ! वेदवादरताः 'अन्यत् न अस्ति' इति वादिनः अविपश्चितः याम् इमाम् पुष्पिताम् वाचम् प्रवदन्ति —"
+      "हे पार्थ!", 
+      "वेद-वाद-रताः 'अन्यत् न अस्ति' इति वादिनः अविपश्चितः", 
+      "याम् इमाम् पुष्पिताम् वाचम् प्रवदन्ति —"
     ],
-    "prose": [],
+    "prose": [
+      "O Partha", 
+      "the unwise, who delight in the ostentatious speech of the Vedas", 
+      "and argue that there is nothing beyond ritualistic rewards—"
+    ],
     "transl": [
       "O Partha, the unwise, who delight in the ostentatious speech of the Vedas and argue that there is nothing beyond ritualistic rewards—"
     ],
